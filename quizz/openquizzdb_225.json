@@ -3,7 +3,7 @@
   "rédacteur": "Philippe Bresoux",       
   "difficulté": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2022-05-07",
+  "mise-à-jour": "2023-04-22",
   "catégorie-nom-slogan": {
     "fr": {
       "catégorie": "Célébrités",
@@ -44,9 +44,9 @@
         "question": "Quel titre Meghan Markle a-t-elle reçu suite à son deuxième mariage ?",
         "propositions": [
           "Comtesse de York",
-          "Duchesse de Sussex",
           "Altesse royale",
-          "Princesse de Windsor"
+          "Princesse de Windsor",
+          "Duchesse de Sussex"
         ],
         "réponse": "Duchesse de Sussex",
         "anecdote": "Auparavant, il n'y a jamais eu de duchesse de Sussex, même si Augustus Frederick (premier titulaire) s'est marié deux fois."
@@ -56,9 +56,9 @@
         "question": "Quel était le métier de Meghan Markle avant de devenir duchesse ?",
         "propositions": [
           "Présentatrice télé",
+          "Juriste",
           "Actrice",
-          "Joueuse de tennis",
-          "Juriste"
+          "Joueuse de tennis"
         ],
         "réponse": "Actrice",
         "anecdote": "C'est dans la célèbre série télévisée américaine « Suits » que Meghan Markle a interprété Rachel Zane, une assistante juridique."
@@ -67,10 +67,10 @@
         "id": 3,
         "question": "À l'issue de quelle saison Meghan Markle a-t-elle quitté la série « Suits » ?",
         "propositions": [
-          "Cinquième",
-          "Septième",
           "Huitième",
-          "Sixième"
+          "Septième",
+          "Sixième",
+          "Cinquième"
         ],
         "réponse": "Septième",
         "anecdote": "En 2017, à la suite de ses fiançailles avec le Prince Harry, elle quitte la série « Suits » et prend la décision d'interrompre sa carrière d'actrice."
@@ -79,10 +79,10 @@
         "id": 4,
         "question": "En compagnie de quelle célèbre voiture Meghan Markle a-t-elle tourné à la télévision ?",
         "propositions": [
-          "General Lee",
+          "Christine",
           "K 2000",
-          "Mystery Machine",
-          "Christine"
+          "General Lee",
+          "Mystery Machine"
         ],
         "réponse": "K 2000",
         "anecdote": "« Le Retour de K 2000 » (Knight Rider) est une série télévisée américaine créée par David Andron et produite par Doug Liman."
@@ -93,8 +93,8 @@
         "propositions": [
           "Sept ans",
           "Neuf ans",
-          "Cinq ans",
-          "Trois ans"
+          "Trois ans",
+          "Cinq ans"
         ],
         "réponse": "Trois ans",
         "anecdote": "Le 8 novembre 2016, il fut officiellement annoncé que Meghan Markle était la compagne du prince Harry, et ce depuis juin 2016."
@@ -104,8 +104,8 @@
         "question": "Combien d'enfants d'honneur ont accompagné Meghan Markle lors de son mariage princier ?",
         "propositions": [
           "Huit",
-          "Quatre",
           "Six",
+          "Quatre",
           "Dix"
         ],
         "réponse": "Dix",
@@ -115,10 +115,10 @@
         "id": 7,
         "question": "Quel métier est encore à ce jour exercé par la mère de Meghan Markle ?",
         "propositions": [
-          "Styliste",
-          "Professeur de yoga",
           "Esthéticienne",
-          "Romancière"
+          "Styliste",
+          "Romancière",
+          "Professeur de yoga"
         ],
         "réponse": "Professeur de yoga",
         "anecdote": "Meghan Markle fut élevée à Los Angeles par sa mère afro-américaine, Doria Ragland, et son père, Thomas Wayne Markle."
@@ -127,9 +127,9 @@
         "id": 8,
         "question": "Combien d'invités étaient à l'office religieux du mariage princier de Meghan Markle ?",
         "propositions": [
-          "500",
-          "400",
           "300",
+          "400",
+          "500",
           "600"
         ],
         "réponse": "600",
@@ -141,8 +141,8 @@
         "propositions": [
           "Laura Bush",
           "Michelle Obama",
-          "Nancy Reagan",
-          "Hillary Clinton"
+          "Hillary Clinton",
+          "Nancy Reagan"
         ],
         "réponse": "Hillary Clinton",
         "anecdote": "Le président de Procter And Gamble fera ainsi changer le texte d'une publicité télévisée nationale qu'elle a jugé trop sexiste."
@@ -151,9 +151,9 @@
         "id": 10,
         "question": "Quelle était la marque de la robe de mariée de Meghan Markle lors de son deuxième mariage ?",
         "propositions": [
+          "Versace",
           "Lacroix",
           "Chanel",
-          "Versace",
           "Givenchy"
         ],
         "réponse": "Givenchy",
@@ -166,9 +166,9 @@
         "question": "Dans quel soap opera Meghan Markle a-t-elle fait sa première apparition sur les écrans ?",
         "propositions": [
           "Dr House",
+          "Urgence",
           "Hôpital central",
-          "Chicago Med",
-          "Urgence"
+          "Chicago Med"
         ],
         "réponse": "Hôpital central",
         "anecdote": "Il est à ce jour le premier plus long et ancien feuilleton américain en production devant « Les Feux de l'amour » et « Amour, Gloire et Beauté »."
@@ -178,9 +178,9 @@
         "question": "Où Markle s'est-elle rendu en 2014 pour soutenir les troupes américaines ?",
         "propositions": [
           "Mongolie",
-          "Cambodge",
           "Afghanistan",
-          "Jordanie"
+          "Jordanie",
+          "Cambodge"
         ],
         "réponse": "Afghanistan",
         "anecdote": "Ceci dans le cadre de la tournée organisée par l'United Service Organizations, présidée par le chef d'État-Major des armées US."
@@ -189,10 +189,10 @@
         "id": 13,
         "question": "Dans quelle série de science-fiction policière Meghan Markle a-t-elle incarné Amy Jessup ?",
         "propositions": [
-          "Beyond",
-          "Fringe",
+          "Dark Angel",
           "X-Files",
-          "Dark Angel"
+          "Fringe",
+          "Beyond"
         ],
         "réponse": "Fringe",
         "anecdote": "Dans la série, l'équipe a recours à ce qu'on appelle en anglais la fringe science pour enquêter sur des phénomènes inexpliqués."
@@ -201,10 +201,10 @@
         "id": 14,
         "question": "Quel producteur californien Meghan Markle a-t-elle épousé après 7 ans de vie commune ?",
         "propositions": [
-          "Michel Gohou",
-          "Marc Sorkin",
           "Trevor Engelson",
-          "Roy Marten"
+          "Roy Marten",
+          "Michel Gohou",
+          "Marc Sorkin"
         ],
         "réponse": "Trevor Engelson",
         "anecdote": "Trevor Engelson est né en 1976 à Great Neck, New York, possède une nationalité américaine et appartient au milieu ethnique blanc."
@@ -213,10 +213,10 @@
         "id": 15,
         "question": "Dans quel long métrage porté par Robert Pattinson Meghan Markle est-elle apparue ?",
         "propositions": [
+          "The Rover",
           "Bel Ami",
-          "Cosmopolis",
           "Remember Me",
-          "The Rover"
+          "Cosmopolis"
         ],
         "réponse": "Remember Me",
         "anecdote": "Malgré d'excellentes recettes, les critiques ont été très sévères, déplorant que le film soit trop semblable à la saga « Twilight »."
@@ -225,10 +225,10 @@
         "id": 16,
         "question": "Quelle était la religion adoptée par Meghan Markle avant de devenir anglicane ?",
         "propositions": [
-          "Catholique",
           "Orthodoxe",
+          "Protestante",
           "Hindoue",
-          "Protestante"
+          "Catholique"
         ],
         "réponse": "Protestante",
         "anecdote": "La cérémonie privée a été célébrée dans la chapelle royale du palais Saint James, présidée par l'archevêque de Cantorbéry, Justin Welby."
@@ -238,8 +238,8 @@
         "question": "Dans quel film dramatique britannico-hongrois Meghan Markle a-t-elle joué son dernier rôle ?",
         "propositions": [
           "Extinction",
-          "Paper World",
           "Anti-Social",
+          "Paper World",
           "Le Fils de Saul"
         ],
         "réponse": "Anti-Social",
@@ -249,10 +249,10 @@
         "id": 18,
         "question": "Quelle fleur chère à Diana illuminait le bouquet du second mariage de M. Markle ?",
         "propositions": [
-          "Magnolia",
-          "Mimosa",
           "Myosotis",
-          "Millepertuis"
+          "Mimosa",
+          "Millepertuis",
+          "Magnolia"
         ],
         "réponse": "Myosotis",
         "anecdote": "Des fleurs furent cueillies par le prince Harry lui-même, la veille du mariage, dans le jardin de leur résidence à Kensington Palace."
@@ -261,10 +261,10 @@
         "id": 19,
         "question": "Dans quelle série des « Experts » Meghan Markle a-t-elle incarné Veronica Perez ?",
         "propositions": [
-          "Texas",
-          "San Francisco",
           "Manhattan",
-          "Miami"
+          "San Francisco",
+          "Miami",
+          "Texas"
         ],
         "réponse": "Manhattan",
         "anecdote": "« Les Experts : Manhattan » ne comportent que quelques scènes extérieures filmées à New York, le reste étant tourné en studio."
@@ -273,10 +273,10 @@
         "id": 20,
         "question": "Dans quelle série télévisée Meghan Markle a-t-elle interprété la Belle au bois dormant ?",
         "propositions": [
-          "Ugly Betty",
-          "Castle",
           "Heroes",
-          "Gossip Girl"
+          "Ugly Betty",
+          "Gossip Girl",
+          "Castle"
         ],
         "réponse": "Castle",
         "anecdote": "Selon le magazine Variety, ABC pourrait bientôt lancer une série dérivée de « Castle », l'histoire se centrant sur Derrick Storm."
@@ -287,10 +287,10 @@
         "id": 21,
         "question": "En quelle année Meghan Markle a-t-elle reçu une licence en relations internationales ?",
         "propositions": [
-          "2009",
-          "2005",
           "2007",
-          "2003"
+          "2003",
+          "2005",
+          "2009"
         ],
         "réponse": "2003",
         "anecdote": "Meghan Markle a étudié au sein d'écoles privées à Los Angeles puis à l'université Northwestern de Chicago, dans l'Illinois."
@@ -299,10 +299,10 @@
         "id": 22,
         "question": "Dans quel pays Meghan Markle espérait-elle suivre une carrière politique ?",
         "propositions": [
-          "Grèce",
-          "Canada",
           "Argentine",
-          "Espagne"
+          "Canada",
+          "Espagne",
+          "Grèce"
         ],
         "réponse": "Argentine",
         "anecdote": "Après l'université, Meghan Markle a travaillé un moment pour l'ambassade américaine de Buenos Aires, en Argentine."
@@ -311,9 +311,9 @@
         "id": 23,
         "question": "Quel métier Meghan Markle a-t-elle exercé en freelance pour payer ses factures ?",
         "propositions": [
-          "Vétérinaire",
           "Calligraphe",
           "Web designer",
+          "Vétérinaire",
           "Comptable"
         ],
         "réponse": "Calligraphe",
@@ -323,10 +323,10 @@
         "id": 24,
         "question": "Pour quelle chaîne de grands magasins Meghan Markle est-elle devenue l'égérie ?",
         "propositions": [
-          "Liberty And Co",
-          "Canada Goose",
+          "Reitmans",
           "Hamleys",
-          "Reitmans"
+          "Liberty And Co",
+          "Canada Goose"
         ],
         "réponse": "Reitmans",
         "anecdote": "Meghan Markle adore magasiner en ligne chez Reitmans, importante chaîne de commerce au détail de mode féminine au Canada."
@@ -335,10 +335,10 @@
         "id": 25,
         "question": "Pour quel sommet annuel Meghan Markle s'est-elle exprimé sur l'esclavage moderne ?",
         "propositions": [
-          "Nozem",
+          "Fimcap",
           "Gordonia",
-          "One Young World",
-          "Fimcap"
+          "Nozem",
+          "One Young World"
         ],
         "réponse": "One Young World",
         "anecdote": "Les jeunes leaders de ce sommet sont choisis après un long processus de sélection, jugés pour leur potentiel de leadership."
@@ -347,10 +347,10 @@
         "id": 26,
         "question": "Avec quel chef culinaire canadien Meghan Markle a-t-elle rompu en 2016 ?",
         "propositions": [
-          "Normand Laprise",
-          "Anthony Sedlak",
           "Renaud Cyr",
-          "Cory Vitiello"
+          "Anthony Sedlak",
+          "Cory Vitiello",
+          "Normand Laprise"
         ],
         "réponse": "Cory Vitiello",
         "anecdote": "Meghan Markle aurait fréquenté deux ans le chef torontois Cory Vitiello, après l'avoir rencontré dans son ancien restaurant."
@@ -359,10 +359,10 @@
         "id": 27,
         "question": "Hormis Meghan Markle, quelle autre américaine divorcée a visé la famille royale ?",
         "propositions": [
+          "Wallis Simpson",
           "Priscilla Presbury",
           "Sally Howard",
-          "Sarah Cassaway",
-          "Wallis Simpson"
+          "Sarah Cassaway"
         ],
         "réponse": "Wallis Simpson",
         "anecdote": "Après son divorce avec Earl Winfield Spencer Jr., Wallis Simpson s'est remarié le 21 juillet 1928 avec Ernest Aldrich Simpson."
@@ -371,9 +371,9 @@
         "id": 28,
         "question": "Quel roi d'Angleterre est un ancêtre du père de Meghan Markle ?",
         "propositions": [
+          "Charles II",
           "Henri III",
           "Jean sans Terre",
-          "Charles II",
           "Édouard III"
         ],
         "réponse": "Édouard III",
@@ -383,10 +383,10 @@
         "id": 29,
         "question": "Quelle meilleure amie de Meghan Markle l'a accompagné à son mariage princier ?",
         "propositions": [
-          "Katherine Heigl",
-          "Amanda Schull",
           "Sarah Rafferty",
-          "Jessica Mulroney"
+          "Jessica Mulroney",
+          "Katherine Heigl",
+          "Amanda Schull"
         ],
         "réponse": "Jessica Mulroney",
         "anecdote": "Rachel Meghan Markle, dite Meghan Markle, est née le 4 août 1981 à Los Angeles, en Californie, de parents américains."
@@ -395,10 +395,10 @@
         "id": 30,
         "question": "Combien a coûté la pièce montée du mariage princier de Meghan Markle ?",
         "propositions": [
-          "22 000 euros",
           "43 000 euros",
+          "38 000 euros",
           "57 000 euros",
-          "38 000 euros"
+          "22 000 euros"
         ],
         "réponse": "57 000 euros",
         "anecdote": "Rompant avec le classique pudding aux fruits confits, ce gâteau royal, composé d'ingrédients bio, fut réalisé par Claire Ptak."
@@ -411,9 +411,9 @@
         "id": 1,
         "question": "What title did Meghan Markle receive after her second marriage ?",
         "propositions": [
+          "Duchess of Sussex",
           "Countess of York",
           "Royal Highness",
-          "Duchess of Sussex",
           "Princess of Windsor"
         ],
         "réponse": "Duchess of Sussex",
@@ -423,10 +423,10 @@
         "id": 2,
         "question": "What was Meghan Markle's job before becoming a Duchess ?",
         "propositions": [
+          "Lawyer",
           "TV host",
-          "Actress",
           "Tennis player",
-          "Lawyer"
+          "Actress"
         ],
         "réponse": "Actress",
         "anecdote": "It was in the famous American TV series « Suits » that Meghan Markle performed Rachel Zane, a legal assistant."
@@ -435,10 +435,10 @@
         "id": 3,
         "question": "After what season did Meghan Markle leave the « Suits » series ?",
         "propositions": [
-          "Fifth",
           "Seventh",
           "Eight",
-          "Sixth"
+          "Sixth",
+          "Fifth"
         ],
         "réponse": "Seventh",
         "anecdote": "In 2017, following her engagements with Prince Harry, she left the series « Suits » and made the decision to interrupt her career as an actress."
@@ -447,10 +447,10 @@
         "id": 4,
         "question": "With what famous car did Meghan Markle go on television ?",
         "propositions": [
-          "K 2000",
           "General Lee",
-          "Christine",
-          "Mystery Machine"
+          "Mystery Machine",
+          "K 2000",
+          "Christine"
         ],
         "réponse": "K 2000",
         "anecdote": "« The Return of K 2000 » (Knight Rider) is an American drama series created by David Andron and produced by Doug Liman."
@@ -459,10 +459,10 @@
         "id": 5,
         "question": "How many years is Meghan Markle the birthday of her husband, Prince Harry ?",
         "propositions": [
-          "Three years",
+          "Five years",
           "Seven years",
-          "Nine years",
-          "Five years"
+          "Three years",
+          "Nine years"
         ],
         "réponse": "Three years",
         "anecdote": "On November 8, 2016, it was officially announced that Meghan Markle was the companion of Prince Harry, and this since June 2016."
@@ -471,10 +471,10 @@
         "id": 6,
         "question": "How many children of honor have accompanied Meghan Markle at her princely wedding ?",
         "propositions": [
-          "Four",
-          "Six",
           "Eight",
-          "Ten"
+          "Six",
+          "Ten",
+          "Four"
         ],
         "réponse": "Ten",
         "anecdote": "Meghan Markle has chosen five : her two godchildren Rylan and Remi Ritt and the three children of her best friend, Jessica Mulroney."
@@ -483,9 +483,9 @@
         "id": 7,
         "question": "What business is still exercised today by Meghan Markle's mother ?",
         "propositions": [
-          "Novelist",
           "Stylist",
           "Esthetician",
+          "Novelist",
           "Yoga teacher"
         ],
         "réponse": "Yoga teacher",
@@ -495,9 +495,9 @@
         "id": 8,
         "question": "How many guests were present at the princely wedding service of Meghan Markle ?",
         "propositions": [
-          "300",
-          "500",
           "400",
+          "500",
+          "300",
           "600"
         ],
         "réponse": "600",
@@ -507,10 +507,10 @@
         "id": 9,
         "question": "Who did Meghan Markle write a famous letter of complaint at the age of eleven ?",
         "propositions": [
-          "Laura Bush",
-          "Nancy Reagan",
           "Michelle Obama",
-          "Hillary Clinton"
+          "Laura Bush",
+          "Hillary Clinton",
+          "Nancy Reagan"
         ],
         "réponse": "Hillary Clinton",
         "anecdote": "The president of Procter And Gamble will change the text of a national television commercial that she considered too sexist."
@@ -520,9 +520,9 @@
         "question": "What was the mark of the wedding dress of Meghan Markle at her second marriage ?",
         "propositions": [
           "Versace",
-          "Givenchy",
+          "Lacroix",
           "Chanel",
-          "Lacroix"
+          "Givenchy"
         ],
         "réponse": "Givenchy",
         "anecdote": "She was wearing a low bun surmounted by a diamond tiara donated by the queen, dating from 1932, on a brooch of 1893."
@@ -534,9 +534,9 @@
         "question": "In which soap opera did Meghan Markle make her first appearance on the screens ?",
         "propositions": [
           "Dr. House",
-          "Central Hospital",
           "Emergency",
-          "Chicago Med"
+          "Chicago Med",
+          "Central Hospital"
         ],
         "réponse": "Central Hospital",
         "anecdote": "It is today the first longest and oldest American soap opera in production in front of « The Fires of Love » and « Love, Glory and Beauty »."
@@ -545,10 +545,10 @@
         "id": 12,
         "question": "In which country did Meghan Markle go in 2014 to support US troops ?",
         "propositions": [
-          "Mongolia",
           "Jordan",
           "Cambodia",
-          "Afghanistan"
+          "Afghanistan",
+          "Mongolia"
         ],
         "réponse": "Afghanistan",
         "anecdote": "This was part of the tour organized by United Service Organizations, chaired by the US Army Chief of Staff."
@@ -557,10 +557,10 @@
         "id": 13,
         "question": "In which series of sci-fi fiction has Meghan Markle embodied Amy Jessup ?",
         "propositions": [
-          "Dark Angel",
           "Fringe",
-          "Beyond",
-          "X-Files"
+          "X-Files",
+          "Dark Angel",
+          "Beyond"
         ],
         "réponse": "Fringe",
         "anecdote": "In the series, the team uses what is known in English as fringe science to investigate unexplained phenomena."
@@ -569,10 +569,10 @@
         "id": 14,
         "question": "Which Californian producer Meghan Markle married after seven years together ?",
         "propositions": [
-          "Trevor Engelson",
-          "Michel Gohou",
           "Roy Marten",
-          "Marc Sorkin"
+          "Marc Sorkin",
+          "Trevor Engelson",
+          "Michel Gohou"
         ],
         "réponse": "Trevor Engelson",
         "anecdote": "Trevor Engelson was born in 1976 in Great Neck, New York, has an American nationality and belongs to the white ethnic community."
@@ -581,10 +581,10 @@
         "id": 15,
         "question": "In which feature film by Robert Pattinson did Meghan Markle appear ?",
         "propositions": [
-          "Bel Ami",
-          "Cosmopolis",
+          "Remember Me",
           "The Rover",
-          "Remember Me"
+          "Cosmopolis",
+          "Bel Ami"
         ],
         "réponse": "Remember Me",
         "anecdote": "Despite excellent recipes, the critics were very skeptical, complaining that the movie was too similar to the « Twilight » saga."
@@ -593,10 +593,10 @@
         "id": 16,
         "question": "What was the religion adopted by Meghan Markle before becoming Anglican ?",
         "propositions": [
-          "Orthodox",
+          "Protestant",
           "Catholic",
           "Hindu",
-          "Protestant"
+          "Orthodox"
         ],
         "réponse": "Protestant",
         "anecdote": "The private ceremony was celebrated in the Royal Chapel of Saint James Palace, presided over by the Archbishop of Canterbury, Justin Welby."
@@ -605,10 +605,10 @@
         "id": 17,
         "question": "In which British-Hungarian drama film did Meghan Markle play her last role ?",
         "propositions": [
-          "Paper World",
           "Extinction",
-          "Anti-Social",
-          "The Son of Saul"
+          "Paper World",
+          "The Son of Saul",
+          "Anti-Social"
         ],
         "réponse": "Anti-Social",
         "anecdote": "In this film, various actions are carried out in the city of London, at our time, against the violent environment of arms trafficking."
@@ -617,9 +617,9 @@
         "id": 18,
         "question": "Which flower dear to Diana lit up the bouquet of Meghan Markle's second wedding ?",
         "propositions": [
+          "Magnolia",
           "Mimosa",
           "St. John's Wort",
-          "Magnolia",
           "Myosotis"
         ],
         "réponse": "Myosotis",
@@ -629,9 +629,9 @@
         "id": 19,
         "question": "In which series of « Experts » did Meghan Markle play Veronica Perez ?",
         "propositions": [
-          "San Francisco",
-          "Manhattan",
           "Miami",
+          "Manhattan",
+          "San Francisco",
           "Texas"
         ],
         "réponse": "Manhattan",
@@ -641,10 +641,10 @@
         "id": 20,
         "question": "In which series did Meghan Markle interpret the Sleeping Beauty ?",
         "propositions": [
-          "Castle",
           "Heroes",
-          "Gossip Girl",
-          "Ugly Betty"
+          "Ugly Betty",
+          "Castle",
+          "Gossip Girl"
         ],
         "réponse": "Castle",
         "anecdote": "According to Variety magazine, ABC could soon launch a series of « Castle », the story centering on Derrick Storm."
@@ -655,10 +655,10 @@
         "id": 21,
         "question": "In which year did Meghan Markle receive a BA in Theater and International Relations ?",
         "propositions": [
+          "2009",
           "2007",
           "2003",
-          "2005",
-          "2009"
+          "2005"
         ],
         "réponse": "2003",
         "anecdote": "Meghan Markle studied at private schools in Los Angeles and then at Northwestern University in Chicago, Illinois."
@@ -667,10 +667,10 @@
         "id": 22,
         "question": "In which country does Meghan Markle hope to follow a political career ?",
         "propositions": [
-          "Greece",
-          "Canada",
           "Spain",
-          "Argentina"
+          "Argentina",
+          "Greece",
+          "Canada"
         ],
         "réponse": "Argentina",
         "anecdote": "After college, Meghan Markle worked for a while at the American Embassy in Buenos Aires, Argentina."
@@ -679,10 +679,10 @@
         "id": 23,
         "question": "What business Meghan Markle has freelance to pay his bills ?",
         "propositions": [
-          "Calligraphe",
-          "Veterinary",
           "Web designer",
-          "Accountant"
+          "Accountant",
+          "Veterinary",
+          "Calligraphe"
         ],
         "réponse": "Calligraphe",
         "anecdote": "Part-time exercise, Meghan Markle included personalized calligraphy on wedding invitation cards."
@@ -691,10 +691,10 @@
         "id": 24,
         "question": "For which department store chain has Meghan Markle become an advertising franchise ?",
         "propositions": [
-          "Liberty And Co",
-          "Canada Goose",
           "Hamleys",
-          "Reitmans"
+          "Canada Goose",
+          "Reitmans",
+          "Liberty And Co"
         ],
         "réponse": "Reitmans",
         "anecdote": "Meghan Markle loves shopping online at Reitmans, Canada's leading women's fashion retail chain."
@@ -703,10 +703,10 @@
         "id": 25,
         "question": "For what annual summit did Meghan Markle talk about modern slavery ?",
         "propositions": [
-          "One Young World",
           "Nozem",
-          "Gordonia",
-          "Fimcap"
+          "One Young World",
+          "Fimcap",
+          "Gordonia"
         ],
         "réponse": "One Young World",
         "anecdote": "The young leaders of this summit are chosen after a long process of selection, judged for their leadership potential."
@@ -715,10 +715,10 @@
         "id": 26,
         "question": "Which Canadian culinary chef, Meghan Markle, broke up in 2016 ?",
         "propositions": [
-          "Normand Laprise",
           "Anthony Sedlak",
-          "Renaud Cyr",
-          "Cory Vitiello"
+          "Normand Laprise",
+          "Cory Vitiello",
+          "Renaud Cyr"
         ],
         "réponse": "Cory Vitiello",
         "anecdote": "Meghan Markle would have spent two years with Toronto chef Cory Vitiello, having met him at his old restaurant."
@@ -727,10 +727,10 @@
         "id": 27,
         "question": "Aside from Meghan Markle, what other American divorcee has also entered the royal family ?",
         "propositions": [
+          "Priscilla Presbury",
           "Sally Howard",
           "Sarah Cassaway",
-          "Wallis Simpson",
-          "Priscilla Presbury"
+          "Wallis Simpson"
         ],
         "réponse": "Wallis Simpson",
         "anecdote": "After his divorce from Earl Winfield Spencer Jr., Wallis Simpson remarried on July 21, 1928 with Ernest Aldrich Simpson."
@@ -739,10 +739,10 @@
         "id": 28,
         "question": "Which king of England is an ancestor of the father of Meghan Markle ?",
         "propositions": [
-          "Henri III",
           "John without Land",
-          "Charles II",
-          "Edward III"
+          "Henri III",
+          "Edward III",
+          "Charles II"
         ],
         "réponse": "Edward III",
         "anecdote": "Edward was crowned in Westminster (London) on February 1, 1327, at the age of 14, because of the dismissal of his father Edward II."
@@ -764,9 +764,9 @@
         "question": "How much did the expensive piece that jostled the traditions at his princely wedding with Harry cost ?",
         "propositions": [
           "EUR 22,000",
-          "EUR 43,000",
+          "EUR 57,000",
           "EUR 38,000",
-          "EUR 57,000"
+          "EUR 43,000"
         ],
         "réponse": "EUR 57,000",
         "anecdote": "Breaking with the classic candied fruit pudding, this royal cake, made from organic ingredients, was made by Claire Ptak."
@@ -780,9 +780,9 @@
         "question": "Welchen Titel erhielt Meghan Markle nach ihrer zweiten Ehe ?",
         "propositions": [
           "Gräfin von york",
+          "Prinzessin von Windsor",
           "Herzogin von Sussex",
-          "Königliche Hoheit",
-          "Prinzessin von Windsor"
+          "Königliche Hoheit"
         ],
         "réponse": "Herzogin von Sussex",
         "anecdote": "Zuvor gab es keine Herzogin von Sussex, obwohl Augustus Frederick (erster Besitzer) zweimal verheiratet war."
@@ -791,10 +791,10 @@
         "id": 2,
         "question": "Was war Meghan Markles Job, bevor sie Herzogin wurde ?",
         "propositions": [
-          "Anwalt",
+          "Schauspielerin",
           "Tennisspieler",
-          "Fernsehmoderator",
-          "Schauspielerin"
+          "Anwalt",
+          "Fernsehmoderator"
         ],
         "réponse": "Schauspielerin",
         "anecdote": "In der berühmten amerikanischen Fernsehserie « Suits » spielte Meghan Markle die Rechtsassistentin Rachel Zane."
@@ -804,9 +804,9 @@
         "question": "Nach welcher Saison hat Meghan Markle die Serie « Suits » verlassen ?",
         "propositions": [
           "Acht",
-          "Sechste",
+          "Fünfter",
           "Siebte",
-          "Fünfter"
+          "Sechste"
         ],
         "réponse": "Siebte",
         "anecdote": "Nach ihrer Verlobung mit Prince Harry verließ sie 2017 die Serie « Suits » und beschloss, ihre Karriere als Schauspielerin zu unterbrechen."
@@ -815,10 +815,10 @@
         "id": 4,
         "question": "Mit welchem berühmten Auto ist Meghan Markle ins Fernsehen gegangen ?",
         "propositions": [
-          "Mystery Machine",
-          "General Lee",
+          "Christine",
           "K 2000",
-          "Christine"
+          "Mystery Machine",
+          "General Lee"
         ],
         "réponse": "K 2000",
         "anecdote": "« Die Rückkehr von K 2000 » (Knight Rider) ist eine amerikanische Dramaserie, die von David Andron kreiert und von Doug Liman produziert wurde."
@@ -827,10 +827,10 @@
         "id": 5,
         "question": "Wie viele Jahre hat Meghan Markle, Prinz Harry, Geburtstag ?",
         "propositions": [
-          "Sieben Jahre",
-          "Fünf Jahre",
+          "Drei Jahre",
           "Neun Jahre",
-          "Drei Jahre"
+          "Fünf Jahre",
+          "Sieben Jahre"
         ],
         "réponse": "Drei Jahre",
         "anecdote": "Am 8. November 2016 wurde offiziell bekannt gegeben, dass Meghan Markle die Gefährtin von Prince Harry ist, und das seit Juni 2016."
@@ -839,10 +839,10 @@
         "id": 6,
         "question": "Wie viele Ehrenkinder haben Meghan Markle bei ihrer fürstlichen Hochzeit begleitet ?",
         "propositions": [
-          "Acht",
-          "Vier",
           "Zehn",
-          "Sechs"
+          "Sechs",
+          "Acht",
+          "Vier"
         ],
         "réponse": "Zehn",
         "anecdote": "Meghan Markle hat fünf ausgewählt : ihre beiden Patenkinder Rylan und Remi Ritt und die drei Kinder ihrer besten Freundin Jessica Mulroney."
@@ -851,10 +851,10 @@
         "id": 7,
         "question": "Welches Geschäft übt Meghan Markles Mutter heute noch aus ?",
         "propositions": [
-          "Romancier",
           "Yogalehrer",
-          "Kosmetikerin",
-          "Stylist"
+          "Stylist",
+          "Romancier",
+          "Kosmetikerin"
         ],
         "réponse": "Yogalehrer",
         "anecdote": "Meghan Markle ist in Los Angeles von ihrer afroamerikanischen Mutter Doria Ragland und ihrem Vater Thomas Wayne Markle aufgewachsen."
@@ -863,9 +863,9 @@
         "id": 8,
         "question": "Wie viele Gäste waren beim fürstlichen Hochzeitsservice von Meghan Markle anwesend ?",
         "propositions": [
-          "300",
-          "600",
           "400",
+          "600",
+          "300",
           "500"
         ],
         "réponse": "600",
@@ -875,10 +875,10 @@
         "id": 9,
         "question": "Wem hat Meghan Markle im Alter von elf Jahren einen berühmten Beschwerdebrief geschrieben ?",
         "propositions": [
-          "Laura Bush",
-          "Michelle Obama",
+          "Nancy Reagan",
           "Hillary Clinton",
-          "Nancy Reagan"
+          "Michelle Obama",
+          "Laura Bush"
         ],
         "réponse": "Hillary Clinton",
         "anecdote": "Die Präsidentin von Procter And Gamble wird den Text einer nationalen Fernsehwerbung ändern, die sie für zu sexistisch hält."
@@ -887,10 +887,10 @@
         "id": 10,
         "question": "Was zeichnete das Brautkleid von Meghan Markle in ihrer zweiten Ehe aus ?",
         "propositions": [
-          "Lacroix",
           "Versace",
+          "Chanel",
           "Givenchy",
-          "Chanel"
+          "Lacroix"
         ],
         "réponse": "Givenchy",
         "anecdote": "Sie trug ein niedriges Brötchen, das von einer Diamant-Tiara überragt war, die die Königin aus dem Jahr 1932 an einer Brosche von 1893 gestiftet hatte."
@@ -901,10 +901,10 @@
         "id": 11,
         "question": "In welcher Seifenoper trat Meghan Markle zum ersten Mal auf den Bildschirmen auf ?",
         "propositions": [
-          "Notfall",
-          "Chicago Med",
           "Zentralkrankenhaus",
-          "Dr. House"
+          "Dr. House",
+          "Chicago Med",
+          "Notfall"
         ],
         "réponse": "Zentralkrankenhaus",
         "anecdote": "Es ist heute die erste längste und älteste amerikanische Seifenoper in Produktion vor « The Fires of Love » und « Love, Glory and Beauty »."
@@ -913,10 +913,10 @@
         "id": 12,
         "question": "In welches Land ist Meghan Markle 2014 gegangen, um US-Truppen zu unterstützen ?",
         "propositions": [
-          "Mongolei",
           "Afghanistan",
+          "Kambodscha",
           "Jordanien",
-          "Kambodscha"
+          "Mongolei"
         ],
         "réponse": "Afghanistan",
         "anecdote": "Dies war Teil der Tour, die von United Service Organizations unter dem Vorsitz des Stabschefs der US-Armee organisiert wurde."
@@ -925,10 +925,10 @@
         "id": 13,
         "question": "In welcher Science-Fiction-Serie hat Meghan Markle Amy Jessup verkörpert ?",
         "propositions": [
-          "X-Files",
           "Rand",
           "Beyond",
-          "Dunkler Engel"
+          "Dunkler Engel",
+          "X-Files"
         ],
         "réponse": "Rand",
         "anecdote": "In der Serie verwendet das Team die im Englischen als Randwissenschaft bekannte Methode, um ungeklärte Phänomene zu untersuchen."
@@ -937,8 +937,8 @@
         "id": 14,
         "question": "Welche kalifornische Produzentin Meghan Markle hat nach sieben gemeinsamen Jahren geheiratet ?",
         "propositions": [
-          "Roy Marten",
           "Trevor Engelson",
+          "Roy Marten",
           "Marc Sorkin",
           "Michel Gohou"
         ],
@@ -949,10 +949,10 @@
         "id": 15,
         "question": "In welchem  ? ?Spielfilm von Robert Pattinson war Meghan Markle zu sehen ?",
         "propositions": [
-          "Der Rover",
-          "Erinnere dich an mich",
           "Bel Ami",
-          "Cosmopolis"
+          "Cosmopolis",
+          "Der Rover",
+          "Erinnere dich an mich"
         ],
         "réponse": "Erinnere dich an mich",
         "anecdote": "Trotz hervorragender Rezepte waren die Kritiker sehr skeptisch und beschwerten sich, dass der Film der « Twilight » Saga zu ähnlich sei."
@@ -962,9 +962,9 @@
         "question": "Welche Religion hat Meghan Markle angenommen, bevor sie Anglikanerin wurde ?",
         "propositions": [
           "Orthodox",
-          "Hindu",
+          "Katholisch",
           "Protestantisch",
-          "Katholisch"
+          "Hindu"
         ],
         "réponse": "Protestantisch",
         "anecdote": "Die private Zeremonie wurde in der königlichen Kapelle des Saint James Palace unter dem Vorsitz des Erzbischofs von Canterbury, Justin Welby, gefeiert."
@@ -973,10 +973,10 @@
         "id": 17,
         "question": "In welchem britisch-ungarischen Drama spielte Meghan Markle ihre letzte Rolle ?",
         "propositions": [
-          "Der Sohn von Saul",
+          "Papierwelt",
           "unsozial",
           "Aussterben",
-          "Papierwelt"
+          "Der Sohn von Saul"
         ],
         "réponse": "unsozial",
         "anecdote": "In diesem Film werden in der heutigen Stadt London verschiedene Aktionen gegen das gewalttätige Umfeld des Waffenhandels durchgeführt."
@@ -986,8 +986,8 @@
         "question": "Welche Blume, die Diana lieb ist, hat den Strauß von Meghan Markles zweiter Hochzeit beleuchtet ?",
         "propositions": [
           "Magnolie",
-          "Myosotis",
           "Johanniskraut",
+          "Myosotis",
           "Mimosa"
         ],
         "réponse": "Myosotis",
@@ -997,10 +997,10 @@
         "id": 19,
         "question": "In welcher Reihe von « Experten » spielte Meghan Markle Veronica Perez ?",
         "propositions": [
-          "Miami",
           "Manhattan",
-          "San Francisco",
-          "Texas"
+          "Miami",
+          "Texas",
+          "San Francisco"
         ],
         "réponse": "Manhattan",
         "anecdote": "« The Experts: Manhattan » hat nur wenige Outdoor-Szenen in New York gedreht, der Rest wird im Studio gedreht."
@@ -1009,10 +1009,10 @@
         "id": 20,
         "question": "In welcher Serie interpretierte Meghan Markle das Dornröschen ?",
         "propositions": [
-          "Schloss",
           "Klatschmädchen",
-          "Hässliche Betty",
-          "Helden"
+          "Helden",
+          "Schloss",
+          "Hässliche Betty"
         ],
         "réponse": "Schloss",
         "anecdote": "Laut Variety Magazine könnte ABC in Kürze eine Serie von « Castle » herausbringen, die sich auf Derrick Storm konzentriert."
@@ -1023,10 +1023,10 @@
         "id": 21,
         "question": "In welchem Jahr erhielt Meghan Markle einen BA in Theater und Internationale Beziehungen ?",
         "propositions": [
-          "2009",
           "2005",
           "2003",
-          "2007"
+          "2007",
+          "2009"
         ],
         "réponse": "2003",
         "anecdote": "Meghan Markle studierte an Privatschulen in Los Angeles und anschließend an der Northwestern University in Chicago, Illinois."
@@ -1036,8 +1036,8 @@
         "question": "In welchem Land hofft Meghan Markle auf eine politische Karriere ?",
         "propositions": [
           "Spanien",
-          "Argentinien",
           "Kanada",
+          "Argentinien",
           "Griechenland"
         ],
         "réponse": "Argentinien",
@@ -1047,10 +1047,10 @@
         "id": 23,
         "question": "Welches Geschäft hat Meghan Markle freiberuflich, um seine Rechnungen zu bezahlen ?",
         "propositions": [
-          "Webdesigner",
+          "Buchhalter",
           "Kalligraph",
           "Veterinär",
-          "Buchhalter"
+          "Webdesigner"
         ],
         "réponse": "Kalligraph",
         "anecdote": "Meghan Markle übte in Teilzeit eine personalisierte Kalligraphie auf Hochzeitseinladungskarten aus."
@@ -1059,10 +1059,10 @@
         "id": 24,
         "question": "Für welche Kaufhauskette ist Meghan Markle zum Werbefranchise geworden ?",
         "propositions": [
-          "Kanadagans",
-          "Hamleys",
           "Liberty And Co",
-          "Reitmans"
+          "Hamleys",
+          "Reitmans",
+          "Kanadagans"
         ],
         "réponse": "Reitmans",
         "anecdote": "Meghan Markle kauft gerne online bei Reitmans, Kanadas führender Einzelhandelskette für Damenmode."
@@ -1071,9 +1071,9 @@
         "id": 25,
         "question": "Auf welchem jährlichen Gipfel sprach Meghan Markle über moderne Sklaverei ?",
         "propositions": [
+          "Fimcap",
           "Gordonia",
           "Eine junge Welt",
-          "Fimcap",
           "Nozem"
         ],
         "réponse": "Eine junge Welt",
@@ -1083,10 +1083,10 @@
         "id": 26,
         "question": "Welche kanadische Küchenchefin, Meghan Markle, hat sich 2016 getrennt ?",
         "propositions": [
+          "Cory Vitiello",
           "Renaud Cyr",
-          "Anthony Sedlak",
           "Normand Laprise",
-          "Cory Vitiello"
+          "Anthony Sedlak"
         ],
         "réponse": "Cory Vitiello",
         "anecdote": "Meghan Markle hätte zwei Jahre mit dem Torontoer Koch Cory Vitiello verbracht, nachdem er ihn in seinem alten Restaurant getroffen hatte."
@@ -1096,9 +1096,9 @@
         "question": "Welche andere amerikanische Scheidung ist neben Meghan Markle ebenfalls in die königliche Familie eingetreten ?",
         "propositions": [
           "Wallis Simpson",
+          "Priscilla Presbury",
           "Sarah Cassaway",
-          "Sally Howard",
-          "Priscilla Presbury"
+          "Sally Howard"
         ],
         "réponse": "Wallis Simpson",
         "anecdote": "Nach seiner Scheidung von Earl Winfield Spencer Jr. heiratete Wallis Simpson am 21. Juli 1928 erneut mit Ernest Aldrich Simpson."
@@ -1107,8 +1107,8 @@
         "id": 28,
         "question": "Welcher König von England ist ein Vorfahr des Vaters von Meghan Markle ?",
         "propositions": [
-          "Henri III",
           "Johannes ohne Land",
+          "Henri III",
           "Edward III",
           "Charles II"
         ],
@@ -1119,9 +1119,9 @@
         "id": 29,
         "question": "Welche bessere Freundin von Meghan Markle begleitete sie zu ihrer fürstlichen Hochzeit ?",
         "propositions": [
+          "Katherine Heigl",
           "Sarah Rafferty",
           "Amanda Schull",
-          "Katherine Heigl",
           "Jessica Mulroney"
         ],
         "réponse": "Jessica Mulroney",
@@ -1131,10 +1131,10 @@
         "id": 30,
         "question": "Wie viel kostete das teure Stück, das die Traditionen bei seiner fürstlichen Hochzeit mit Harry durcheinander brachte ?",
         "propositions": [
-          "38.000 EUR",
-          "22.000 EUR",
           "57.000 EUR",
-          "43.000 EUR"
+          "43.000 EUR",
+          "38.000 EUR",
+          "22.000 EUR"
         ],
         "réponse": "57.000 EUR",
         "anecdote": "Dieser aus Bio-Zutaten hergestellte königliche Kuchen wurde von Claire Ptak hergestellt, um mit dem klassischen kandierten Fruchtpudding zu brechen."
@@ -1147,10 +1147,10 @@
         "id": 1,
         "question": "¿Qué título recibió Meghan Markle después de su segundo matrimonio ?",
         "propositions": [
-          "Princesa de Windsor",
+          "Duquesa de Sussex",
           "Condesa de York",
           "Alteza Real",
-          "Duquesa de Sussex"
+          "Princesa de Windsor"
         ],
         "réponse": "Duquesa de Sussex",
         "anecdote": "Anteriormente, nunca hubo una duquesa de Sussex, a pesar de que Augustus Frederick (primer propietario) se casó dos veces."
@@ -1161,8 +1161,8 @@
         "propositions": [
           "Actriz",
           "Abogado",
-          "Tenista",
-          "Presentador de televisión"
+          "Presentador de televisión",
+          "Tenista"
         ],
         "réponse": "Actriz",
         "anecdote": "Fue en la famosa serie de televisión estadounidense « Suits » que Meghan Markle interpretó a Rachel Zane, una asistente legal."
@@ -1171,10 +1171,10 @@
         "id": 3,
         "question": "¿Después de qué temporada dejó Meghan Markle la serie « Suits » ?",
         "propositions": [
-          "Quinto",
           "Ocho",
-          "Sexto",
-          "Séptimo"
+          "Quinto",
+          "Séptimo",
+          "Sexto"
         ],
         "réponse": "Séptimo",
         "anecdote": "En 2017, después de sus compromisos con el Príncipe Harry, dejó la serie « Suits » y tomó la decisión de interrumpir su carrera como actriz."
@@ -1183,8 +1183,8 @@
         "id": 4,
         "question": "¿Con qué coche famoso salió Meghan Markle en televisión ?",
         "propositions": [
-          "K 2000",
           "Máquina de misterio",
+          "K 2000",
           "General Lee",
           "Christine"
         ],
@@ -1195,10 +1195,10 @@
         "id": 5,
         "question": "¿Cuántos años tiene Meghan Markle el cumpleaños de su esposo, el príncipe Harry ?",
         "propositions": [
-          "Cinco años",
           "Siete años",
-          "Nueve años",
-          "Tres años"
+          "Cinco años",
+          "Tres años",
+          "Nueve años"
         ],
         "réponse": "Tres años",
         "anecdote": "El 8 de noviembre de 2016, se anunció oficialmente que Meghan Markle era la compañera del Príncipe Harry, y esto desde junio de 2016."
@@ -1207,10 +1207,10 @@
         "id": 6,
         "question": "¿Cuántos hijos de honor han acompañado a Meghan Markle en su boda principesca ?",
         "propositions": [
-          "Seis",
-          "Cuatro",
+          "Ocho",
           "Diez",
-          "Ocho"
+          "Cuatro",
+          "Seis"
         ],
         "réponse": "Diez",
         "anecdote": "Meghan Markle ha elegido cinco : sus dos ahijados Rylan y Remi Ritt y los tres hijos de su mejor amiga, Jessica Mulroney."
@@ -1219,9 +1219,9 @@
         "id": 7,
         "question": "¿Qué negocio sigue ejerciendo hoy la madre de Meghan Markle ?",
         "propositions": [
-          "Estilista",
-          "Profesora de yoga",
           "Novelista",
+          "Profesora de yoga",
+          "Estilista",
           "Esteticista"
         ],
         "réponse": "Profesora de yoga",
@@ -1231,9 +1231,9 @@
         "id": 8,
         "question": "¿Cuántos invitados estuvieron presentes en el servicio principesco de bodas de Meghan Markle ?",
         "propositions": [
-          "500",
-          "300",
           "400",
+          "300",
+          "500",
           "600"
         ],
         "réponse": "600",
@@ -1243,10 +1243,10 @@
         "id": 9,
         "question": "¿A quién escribió Meghan Markle una famosa carta de queja a la edad de once años ?",
         "propositions": [
-          "Laura Bush",
-          "Hillary Clinton",
+          "Michelle Obama",
           "Nancy Reagan",
-          "Michelle Obama"
+          "Laura Bush",
+          "Hillary Clinton"
         ],
         "réponse": "Hillary Clinton",
         "anecdote": "El presidente de Procter And Gamble cambiará el texto de un comercial de televisión nacional que ella consideró demasiado sexista."
@@ -1255,9 +1255,9 @@
         "id": 10,
         "question": "¿Cuál fue la marca del vestido de novia de Meghan Markle en su segundo matrimonio ?",
         "propositions": [
-          "Lacroix",
           "Chanel",
           "Givenchy",
+          "Lacroix",
           "Versace"
         ],
         "réponse": "Givenchy",
@@ -1269,10 +1269,10 @@
         "id": 11,
         "question": "¿En qué telenovela hizo Meghan Markle su primera aparición en las pantallas ?",
         "propositions": [
+          "Emergencia",
           "Chicago Med",
-          "Dr. House",
           "Hospital Central",
-          "Emergencia"
+          "Dr. House"
         ],
         "réponse": "Hospital Central",
         "anecdote": "Es hoy la primera telenovela estadounidense más larga y antigua en producción frente a « The Fires of Love » y « Love, Glory and Beauty »."
@@ -1281,9 +1281,9 @@
         "id": 12,
         "question": "¿En qué país fue Meghan Markle en 2014 para apoyar a las tropas estadounidenses ?",
         "propositions": [
+          "Camboya",
           "Mongolia",
           "Jordania",
-          "Camboya",
           "Afganistán"
         ],
         "réponse": "Afganistán",
@@ -1293,9 +1293,9 @@
         "id": 13,
         "question": "¿En qué serie de ficción de ciencia ficción Meghan Markle ha encarnado a Amy Jessup ?",
         "propositions": [
-          "Ángel Oscuro",
           "Fringe",
           "Archivos X",
+          "Ángel Oscuro",
           "Más allá de"
         ],
         "réponse": "Fringe",
@@ -1306,8 +1306,8 @@
         "question": "¿Con qué productor californiano, Meghan Markle, se casó después de siete años juntos ?",
         "propositions": [
           "Roy Marten",
-          "Trevor Engelson",
           "Michel Gohou",
+          "Trevor Engelson",
           "Marc Sorkin"
         ],
         "réponse": "Trevor Engelson",
@@ -1317,10 +1317,10 @@
         "id": 15,
         "question": "¿En qué largometraje de Robert Pattinson apareció Meghan Markle ?",
         "propositions": [
+          "El Rover",
           "Bel Ami",
-          "Cosmópolis",
           "Recordarme",
-          "El Rover"
+          "Cosmópolis"
         ],
         "réponse": "Recordarme",
         "anecdote": "A pesar de las excelentes recetas, los críticos se mostraron muy escépticos y se quejaron de que la película era demasiado similar a la saga « Twilight »."
@@ -1329,10 +1329,10 @@
         "id": 16,
         "question": "¿Cuál fue la religión adoptada por Meghan Markle antes de convertirse en anglicana ?",
         "propositions": [
-          "Protestante",
-          "Ortodoxos",
           "Hindú",
-          "Católica"
+          "Católica",
+          "Ortodoxos",
+          "Protestante"
         ],
         "réponse": "Protestante",
         "anecdote": "La ceremonia privada se celebró en la Capilla Real del Palacio de Saint James, presidida por el Arzobispo de Canterbury, Justin Welby."
@@ -1341,10 +1341,10 @@
         "id": 17,
         "question": "¿En qué película dramática británico-húngara interpretó Meghan Markle su último papel ?",
         "propositions": [
-          "El Hijo de Saúl",
           "Mundo del papel",
+          "Extinción",
           "Antisocial",
-          "Extinción"
+          "El Hijo de Saúl"
         ],
         "réponse": "Antisocial",
         "anecdote": "En esta película, se llevan a cabo varias acciones en la ciudad de Londres, en nuestro momento, contra el ambiente violento del tráfico de armas."
@@ -1353,10 +1353,10 @@
         "id": 18,
         "question": "¿Qué flor querida por Diana iluminó el ramo de la segunda boda de Meghan Markle ?",
         "propositions": [
-          "Magnolia",
+          "Miosotis",
           "Mimosa",
-          "Hierba de San Juan",
-          "Miosotis"
+          "Magnolia",
+          "Hierba de San Juan"
         ],
         "réponse": "Miosotis",
         "anecdote": "El príncipe Harry mismo recogió flores, el día antes de la boda, en el jardín de su residencia en el Palacio de Kensington."
@@ -1365,10 +1365,10 @@
         "id": 19,
         "question": "¿En qué serie de « Expertos » interpretó Meghan Markle a Veronica Perez ?",
         "propositions": [
-          "Texas",
-          "Manhattan",
           "San Francisco",
-          "Miami"
+          "Texas",
+          "Miami",
+          "Manhattan"
         ],
         "réponse": "Manhattan",
         "anecdote": "« Los expertos: Manhattan » solo tienen algunas escenas al aire libre filmadas en Nueva York, el resto se filma en el estudio."
@@ -1377,10 +1377,10 @@
         "id": 20,
         "question": "¿En qué serie interpretó Meghan Markle la bella durmiente ?",
         "propositions": [
-          "Gossip Girl",
           "Betty fea",
+          "Héroes",
           "Castillo",
-          "Héroes"
+          "Gossip Girl"
         ],
         "réponse": "Castillo",
         "anecdote": "Según la revista Variety, ABC pronto podría lanzar una serie de « Castle », la historia centrada en Derrick Storm."
@@ -1391,10 +1391,10 @@
         "id": 21,
         "question": "¿En qué año recibió Meghan Markle una licenciatura en teatro y relaciones internacionales ?",
         "propositions": [
-          "2003",
-          "2007",
+          "2009",
           "2005",
-          "2009"
+          "2007",
+          "2003"
         ],
         "réponse": "2003",
         "anecdote": "Meghan Markle estudió en escuelas privadas en Los Ángeles y luego en la Universidad Northwestern en Chicago, Illinois."
@@ -1403,9 +1403,9 @@
         "id": 22,
         "question": "¿En qué país espera Meghan Markle seguir una carrera política ?",
         "propositions": [
+          "España",
           "Grecia",
           "Canada",
-          "España",
           "Argentina"
         ],
         "réponse": "Argentina",
@@ -1415,10 +1415,10 @@
         "id": 23,
         "question": "¿Qué negocio tiene Meghan Markle por cuenta propia para pagar sus facturas ?",
         "propositions": [
-          "Diseñador web",
-          "Contable",
           "Veterinaria",
-          "Calligraphe"
+          "Calligraphe",
+          "Diseñador web",
+          "Contable"
         ],
         "réponse": "Calligraphe",
         "anecdote": "A tiempo parcial, Meghan Markle incluyó caligrafía personalizada en las tarjetas de invitación de boda."
@@ -1428,9 +1428,9 @@
         "question": "¿Para qué cadena de tiendas por departamento se ha convertido Meghan Markle en una franquicia publicitaria ?",
         "propositions": [
           "Liberty And Co",
+          "Hamleys",
           "Reitmans",
-          "Ganso de Canadá",
-          "Hamleys"
+          "Ganso de Canadá"
         ],
         "réponse": "Reitmans",
         "anecdote": "A Meghan Markle le encanta comprar en línea en Reitmans, la cadena minorista de moda femenina líder en Canadá."
@@ -1439,10 +1439,10 @@
         "id": 25,
         "question": "¿Para qué cumbre anual habló Meghan Markle sobre la esclavitud moderna ?",
         "propositions": [
-          "Gordonia",
           "Un mundo joven",
-          "Fimcap",
-          "Nozem"
+          "Gordonia",
+          "Nozem",
+          "Fimcap"
         ],
         "réponse": "Un mundo joven",
         "anecdote": "Los jóvenes líderes de esta cumbre son elegidos después de un largo proceso de selección, juzgados por su potencial de liderazgo."
@@ -1451,10 +1451,10 @@
         "id": 26,
         "question": "¿Qué chef culinaria canadiense, Meghan Markle, se separó en 2016 ?",
         "propositions": [
-          "Anthony Sedlak",
           "Renaud Cyr",
+          "Normand Laprise",
           "Cory Vitiello",
-          "Normand Laprise"
+          "Anthony Sedlak"
         ],
         "réponse": "Cory Vitiello",
         "anecdote": "Meghan Markle habría pasado dos años con el chef de Toronto Cory Vitiello, habiéndolo encontrado en su antiguo restaurante."
@@ -1464,9 +1464,9 @@
         "question": "Además de Meghan Markle, ¿qué otro divorciado estadounidense también ha ingresado en la familia real ?",
         "propositions": [
           "Sarah Cassaway",
-          "Sally Howard",
           "Wallis Simpson",
-          "Priscilla Presbury"
+          "Priscilla Presbury",
+          "Sally Howard"
         ],
         "réponse": "Wallis Simpson",
         "anecdote": "Después de su divorcio de Earl Winfield Spencer Jr., Wallis Simpson se volvió a casar el 21 de julio de 1928 con Ernest Aldrich Simpson."
@@ -1475,10 +1475,10 @@
         "id": 28,
         "question": "¿Qué rey de Inglaterra es ancestro del padre de Meghan Markle ?",
         "propositions": [
-          "Carlos II",
-          "John sin tierra",
           "Edward III",
-          "Enrique III"
+          "Carlos II",
+          "Enrique III",
+          "John sin tierra"
         ],
         "réponse": "Edward III",
         "anecdote": "Edward fue coronado en Westminster (Londres) el 1 de febrero de 1327, a la edad de 14 años, debido al despido de su padre Edward II."
@@ -1487,10 +1487,10 @@
         "id": 29,
         "question": "¿Qué mejor amiga de Meghan Markle la acompañó a su boda principesca ?",
         "propositions": [
-          "Jessica Mulroney",
-          "Amanda Schull",
           "Sarah Rafferty",
-          "Katherine Heigl"
+          "Amanda Schull",
+          "Katherine Heigl",
+          "Jessica Mulroney"
         ],
         "réponse": "Jessica Mulroney",
         "anecdote": "Rachel Meghan Markle, conocida como Meghan Markle, nació el 4 de agosto de 1981 en Los Ángeles, California, de padres estadounidenses."
@@ -1499,10 +1499,10 @@
         "id": 30,
         "question": "¿Cuánto costó la costosa pieza que empujó las tradiciones en su boda principesca con Harry ?",
         "propositions": [
-          "EUR 43,000",
-          "EUR 57,000",
+          "EUR 22,000",
           "EUR 38,000",
-          "EUR 22,000"
+          "EUR 43,000",
+          "EUR 57,000"
         ],
         "réponse": "EUR 57,000",
         "anecdote": "Rompiendo con el clásico budín de fruta confitada, este pastel real, hecho con ingredientes orgánicos, fue hecho por Claire Ptak."
@@ -1515,10 +1515,10 @@
         "id": 1,
         "question": "Quale titolo ha ricevuto Meghan Markle dopo il suo secondo matrimonio ?",
         "propositions": [
-          "Duchessa del Sussex",
-          "Altezza reale",
           "Principessa di Windsor",
-          "Contessa di York"
+          "Duchessa del Sussex",
+          "Contessa di York",
+          "Altezza reale"
         ],
         "réponse": "Duchessa del Sussex",
         "anecdote": "In precedenza, non c'era mai stata una duchessa del Sussex, anche se Augustus Frederick (primo proprietario) si sposò due volte."
@@ -1527,10 +1527,10 @@
         "id": 2,
         "question": "Qual era il lavoro di Meghan Markle prima di diventare una duchessa ?",
         "propositions": [
-          "Giocatore di tennis",
           "Presentatore televisivo",
-          "Avvocato",
-          "Attrice"
+          "Attrice",
+          "Giocatore di tennis",
+          "Avvocato"
         ],
         "réponse": "Attrice",
         "anecdote": "Fu nella famosa serie TV americana « Suits » che Meghan Markle interpretò Rachel Zane, un'assistente legale."
@@ -1539,10 +1539,10 @@
         "id": 3,
         "question": "Dopo quale stagione Meghan Markle ha lasciato la serie « Suits » ?",
         "propositions": [
-          "Otto",
-          "Sesto",
           "Quinto",
-          "Settimo"
+          "Settimo",
+          "Sesto",
+          "Otto"
         ],
         "réponse": "Settimo",
         "anecdote": "Nel 2017, in seguito ai suoi impegni con il principe Harry, ha lasciato la serie « Suits » e ha preso la decisione di interrompere la sua carriera di attrice."
@@ -1551,10 +1551,10 @@
         "id": 4,
         "question": "Con quale macchina famosa Meghan Markle è andata in televisione ?",
         "propositions": [
-          "K 2000",
           "Mystery Machine",
           "Christine",
-          "Generale Lee"
+          "Generale Lee",
+          "K 2000"
         ],
         "réponse": "K 2000",
         "anecdote": "« The Return of K 2000 » (Knight Rider) è una serie drammatica americana creata da David Andron e prodotta da Doug Liman."
@@ -1564,9 +1564,9 @@
         "question": "Da quanti anni Meghan Markle è il compleanno di suo marito, il principe Harry ?",
         "propositions": [
           "Cinque anni",
-          "Sette anni",
           "Tre anni",
-          "Nove anni"
+          "Nove anni",
+          "Sette anni"
         ],
         "réponse": "Tre anni",
         "anecdote": "L'8 novembre 2016, è stato annunciato ufficialmente che Meghan Markle era la compagna del principe Harry, e questo dal giugno 2016."
@@ -1575,9 +1575,9 @@
         "id": 6,
         "question": "Quanti figli d'onore hanno accompagnato Meghan Markle al suo matrimonio principesco ?",
         "propositions": [
-          "Quattro",
           "Dieci",
           "Sei",
+          "Quattro",
           "Otto"
         ],
         "réponse": "Dieci",
@@ -1587,10 +1587,10 @@
         "id": 7,
         "question": "Quali affari vengono ancora esercitati oggi dalla madre di Meghan Markle ?",
         "propositions": [
+          "Stilista",
           "Insegnante di yoga",
-          "Estetista",
           "Romanziere",
-          "Stilista"
+          "Estetista"
         ],
         "réponse": "Insegnante di yoga",
         "anecdote": "Meghan Markle è cresciuta a Los Angeles da sua madre afroamericana, Doria Ragland, e da suo padre, Thomas Wayne Markle."
@@ -1600,8 +1600,8 @@
         "question": "Quanti ospiti erano presenti al servizio di matrimonio principesco di Meghan Markle ?",
         "propositions": [
           "300",
-          "500",
           "400",
+          "500",
           "600"
         ],
         "réponse": "600",
@@ -1611,10 +1611,10 @@
         "id": 9,
         "question": "Chi ha scritto Meghan Markle a una famosa lettera di denuncia all'età di undici anni ?",
         "propositions": [
-          "Hillary Clinton",
           "Michelle Obama",
-          "Nancy Reagan",
-          "Laura Bush"
+          "Hillary Clinton",
+          "Laura Bush",
+          "Nancy Reagan"
         ],
         "réponse": "Hillary Clinton",
         "anecdote": "Il presidente di Procter And Gamble cambierà il testo di uno spot televisivo nazionale che considerava troppo sessista."
@@ -1623,10 +1623,10 @@
         "id": 10,
         "question": "Qual era il segno dell'abito da sposa di Meghan Markle al suo secondo matrimonio ?",
         "propositions": [
+          "Givenchy",
           "Chanel",
           "Versace",
-          "Lacroix",
-          "Givenchy"
+          "Lacroix"
         ],
         "réponse": "Givenchy",
         "anecdote": "Indossava un panino basso sormontato da una tiara di diamanti donata dalla regina, risalente al 1932, su una spilla del 1893."
@@ -1637,10 +1637,10 @@
         "id": 11,
         "question": "In quale soap opera Meghan Markle ha fatto la sua prima apparizione sugli schermi ?",
         "propositions": [
-          "Emergenza",
-          "Chicago Med",
           "Dr. House",
-          "Ospedale centrale"
+          "Ospedale centrale",
+          "Emergenza",
+          "Chicago Med"
         ],
         "réponse": "Ospedale centrale",
         "anecdote": "Oggi è la prima soap opera americana più lunga e più antica in produzione di fronte a « The Fires of Love » e « Love, Glory and Beauty »."
@@ -1649,10 +1649,10 @@
         "id": 12,
         "question": "In quale paese Meghan Markle è andato nel 2014 per sostenere le truppe statunitensi ?",
         "propositions": [
-          "Giordania",
-          "Afghanistan",
           "Mongolia",
-          "Cambogia"
+          "Giordania",
+          "Cambogia",
+          "Afghanistan"
         ],
         "réponse": "Afghanistan",
         "anecdote": "Questo faceva parte del tour organizzato dalle United Service Organizations, presieduto dal Capo di stato maggiore dell'esercito americano."
@@ -1661,10 +1661,10 @@
         "id": 13,
         "question": "In quale serie di fantascienza Meghan Markle ha incarnato Amy Jessup ?",
         "propositions": [
-          "X-Files",
-          "Dark Angel",
           "Oltre",
-          "Frangia"
+          "Frangia",
+          "Dark Angel",
+          "X-Files"
         ],
         "réponse": "Frangia",
         "anecdote": "Nella serie, il team utilizza ciò che è noto in inglese come scienza marginale per studiare fenomeni inspiegabili."
@@ -1673,10 +1673,10 @@
         "id": 14,
         "question": "Quale produttore californiano Meghan Markle si è sposata dopo sette anni insieme ?",
         "propositions": [
-          "Roy Marten",
-          "Marc Sorkin",
           "Michel Gohou",
-          "Trevor Engelson"
+          "Marc Sorkin",
+          "Trevor Engelson",
+          "Roy Marten"
         ],
         "réponse": "Trevor Engelson",
         "anecdote": "Trevor Engelson è nato nel 1976 a Great Neck, New York, ha una nazionalità americana e appartiene alla comunità etnica bianca."
@@ -1686,9 +1686,9 @@
         "question": "In quale film di Robert Pattinson è apparso Meghan Markle ?",
         "propositions": [
           "Ricordami",
-          "Bel Ami",
+          "Rover",
           "Cosmopolis",
-          "Rover"
+          "Bel Ami"
         ],
         "réponse": "Ricordami",
         "anecdote": "Nonostante le eccellenti ricette, i critici erano molto scettici, lamentandosi del fatto che il film fosse troppo simile alla saga di « Twilight »."
@@ -1697,10 +1697,10 @@
         "id": 16,
         "question": "Qual è stata la religione adottata da Meghan Markle prima di diventare anglicana ?",
         "propositions": [
-          "Ortodossa",
           "Cattolica",
-          "Indù",
-          "Protestante"
+          "Ortodossa",
+          "Protestante",
+          "Indù"
         ],
         "réponse": "Protestante",
         "anecdote": "La cerimonia privata è stata celebrata nella Cappella reale di Saint James Palace, presieduta dall'arcivescovo di Canterbury, Justin Welby."
@@ -1711,8 +1711,8 @@
         "propositions": [
           "Estinzione",
           "Antisociale",
-          "Paper World",
-          "Il figlio di Saul"
+          "Il figlio di Saul",
+          "Paper World"
         ],
         "réponse": "Antisociale",
         "anecdote": "In questo film, varie azioni vengono eseguite nella città di Londra, ai nostri tempi, contro l'ambiente violento del traffico di armi."
@@ -1721,10 +1721,10 @@
         "id": 18,
         "question": "Quale fiore caro a Diana ha illuminato il bouquet del secondo matrimonio di Meghan Markle ?",
         "propositions": [
-          "Mimosa",
-          "Erba di San Giovanni",
+          "Miosotis",
           "Magnolia",
-          "Miosotis"
+          "Erba di San Giovanni",
+          "Mimosa"
         ],
         "réponse": "Miosotis",
         "anecdote": "I fiori furono raccolti dallo stesso principe Harry, il giorno prima del matrimonio, nel giardino della loro residenza a Kensington Palace."
@@ -1734,9 +1734,9 @@
         "question": "In quale serie di « esperti » Meghan Markle ha interpretato Veronica Perez ?",
         "propositions": [
           "Manhattan",
-          "Miami",
+          "Texas",
           "San Francisco",
-          "Texas"
+          "Miami"
         ],
         "réponse": "Manhattan",
         "anecdote": "« Gli esperti: Manhattan » hanno solo alcune scene all'aperto girate a New York, il resto è girato in studio."
@@ -1746,9 +1746,9 @@
         "question": "In quale serie Meghan Markle ha interpretato la bella addormentata ?",
         "propositions": [
           "Eroi",
-          "Ugly Betty",
+          "Gossip Girl",
           "Castello",
-          "Gossip Girl"
+          "Ugly Betty"
         ],
         "réponse": "Castello",
         "anecdote": "Secondo la rivista Variety, ABC potrebbe presto lanciare una serie di « Castle », la trama incentrata su Derrick Storm."
@@ -1759,10 +1759,10 @@
         "id": 21,
         "question": "In quale anno Meghan Markle ha conseguito una laurea in teatro e relazioni internazionali ?",
         "propositions": [
-          "2007",
-          "2009",
           "2003",
-          "2005"
+          "2005",
+          "2009",
+          "2007"
         ],
         "réponse": "2003",
         "anecdote": "Meghan Markle ha studiato in scuole private a Los Angeles e poi alla Northwestern University di Chicago, Illinois."
@@ -1771,9 +1771,9 @@
         "id": 22,
         "question": "In quale paese Meghan Markle spera di seguire una carriera politica ?",
         "propositions": [
-          "Grecia",
-          "Spagna",
           "Argentina",
+          "Spagna",
+          "Grecia",
           "Canada"
         ],
         "réponse": "Argentina",
@@ -1783,10 +1783,10 @@
         "id": 23,
         "question": "Quali affari Meghan Markle ha freelance per pagare le bollette ?",
         "propositions": [
-          "Web designer",
           "Calligraphe",
+          "Contabile",
           "Veterinario",
-          "Contabile"
+          "Web designer"
         ],
         "réponse": "Calligraphe",
         "anecdote": "Esercizio part-time, Meghan Markle includeva calligrafia personalizzata su biglietti d'invito per il matrimonio."
@@ -1795,10 +1795,10 @@
         "id": 24,
         "question": "Per quale catena di grandi magazzini Meghan Markle è diventata un franchising pubblicitario ?",
         "propositions": [
-          "Liberty And Co",
-          "Canada Goose",
           "Hamleys",
-          "Reitmans"
+          "Liberty And Co",
+          "Reitmans",
+          "Canada Goose"
         ],
         "réponse": "Reitmans",
         "anecdote": "Meghan Markle ama fare shopping online presso Reitmans, la principale catena di negozi al dettaglio di moda femminile in Canada."
@@ -1807,9 +1807,9 @@
         "id": 25,
         "question": "Per quale summit annuale Meghan Markle ha parlato della schiavitù moderna ?",
         "propositions": [
+          "Un mondo giovane",
           "Fimcap",
           "Gordonia",
-          "Un mondo giovane",
           "Nozem"
         ],
         "réponse": "Un mondo giovane",
@@ -1819,8 +1819,8 @@
         "id": 26,
         "question": "Quale chef culinario canadese, Meghan Markle, si è sciolto nel 2016 ?",
         "propositions": [
-          "Cory Vitiello",
           "Anthony Sedlak",
+          "Cory Vitiello",
           "Normand Laprise",
           "Renaud Cyr"
         ],
@@ -1831,10 +1831,10 @@
         "id": 27,
         "question": "A parte Meghan Markle, quale altro divorzio americano è entrato anche nella famiglia reale ?",
         "propositions": [
-          "Sally Howard",
-          "Priscilla Presbury",
           "Wallis Simpson",
-          "Sarah Cassaway"
+          "Sally Howard",
+          "Sarah Cassaway",
+          "Priscilla Presbury"
         ],
         "réponse": "Wallis Simpson",
         "anecdote": "Dopo il divorzio da Earl Winfield Spencer Jr., Wallis Simpson si risposò il 21 luglio 1928 con Ernest Aldrich Simpson."
@@ -1843,9 +1843,9 @@
         "id": 28,
         "question": "Quale re d'Inghilterra è un antenato del padre di Meghan Markle ?",
         "propositions": [
+          "Carlo II",
           "Giovanni senza terra",
           "Henri III",
-          "Carlo II",
           "Edoardo III"
         ],
         "réponse": "Edoardo III",
@@ -1855,10 +1855,10 @@
         "id": 29,
         "question": "Quale migliore amica di Meghan Markle l'ha accompagnata al suo matrimonio principesco ?",
         "propositions": [
-          "Katherine Heigl",
-          "Amanda Schull",
+          "Sarah Rafferty",
           "Jessica Mulroney",
-          "Sarah Rafferty"
+          "Katherine Heigl",
+          "Amanda Schull"
         ],
         "réponse": "Jessica Mulroney",
         "anecdote": "Rachel Meghan Markle, conosciuta come Meghan Markle, è nata il 4 agosto 1981 a Los Angeles, in California, da genitori americani."
@@ -1868,9 +1868,9 @@
         "question": "Quanto costò il costoso pezzo che spinse le tradizioni al suo matrimonio principesco con Harry ?",
         "propositions": [
           "57.000 EUR",
-          "43.000 EUR",
           "38.000 EUR",
-          "22.000 EUR"
+          "22.000 EUR",
+          "43.000 EUR"
         ],
         "réponse": "57.000 EUR",
         "anecdote": "Rompere con il classico budino di frutta candita, questa torta reale, fatta con ingredienti biologici, è stata prodotta da Claire Ptak."
@@ -1897,8 +1897,8 @@
         "propositions": [
           "Tennisspeler",
           "Actrice",
-          "Advocaat",
-          "Tv-presentator"
+          "Tv-presentator",
+          "Advocaat"
         ],
         "réponse": "Actrice",
         "anecdote": "Het was in de beroemde Amerikaanse tv-serie « Suits » dat Meghan Markle Rachel Zane, een juridisch assistent, uitvoerde."
@@ -1908,8 +1908,8 @@
         "question": "Na welk seizoen verliet Meghan Markle de serie « Suits » ?",
         "propositions": [
           "Zevende",
-          "Zesde",
           "Acht",
+          "Zesde",
           "Vijfde"
         ],
         "réponse": "Zevende",
@@ -1919,10 +1919,10 @@
         "id": 4,
         "question": "Met welke beroemde auto ging Meghan Markle op televisie ?",
         "propositions": [
-          "Christine",
           "Mystery Machine",
+          "Generaal Lee",
           "K 2000",
-          "Generaal Lee"
+          "Christine"
         ],
         "réponse": "K 2000",
         "anecdote": "« The Return of K 2000 » (Knight Rider) is een Amerikaanse dramaserie gemaakt door David Andron en geproduceerd door Doug Liman."
@@ -1943,10 +1943,10 @@
         "id": 6,
         "question": "Hoeveel erekinderen hebben Meghan Markle vergezeld op haar prinselijke bruiloft ?",
         "propositions": [
-          "Zes",
-          "Acht",
           "Vier",
-          "Tien"
+          "Zes",
+          "Tien",
+          "Acht"
         ],
         "réponse": "Tien",
         "anecdote": "Meghan Markle heeft er vijf uitgekozen : haar twee petekinderen Rylan en Remi Ritt en de drie kinderen van haar beste vriendin, Jessica Mulroney."
@@ -1956,9 +1956,9 @@
         "question": "Welk bedrijf wordt vandaag nog steeds uitgeoefend door de moeder van Meghan Markle ?",
         "propositions": [
           "Stylist",
-          "Schoonheidsspecialiste",
           "Yoga leraar",
-          "Romanschrijver"
+          "Romanschrijver",
+          "Schoonheidsspecialiste"
         ],
         "réponse": "Yoga leraar",
         "anecdote": "Meghan Markle werd in Los Angeles grootgebracht door haar Afro-Amerikaanse moeder, Doria Ragland, en haar vader, Thomas Wayne Markle."
@@ -1967,10 +1967,10 @@
         "id": 8,
         "question": "Hoeveel gasten waren aanwezig bij de prinselijke huwelijksservice van Meghan Markle ?",
         "propositions": [
-          "500",
-          "400",
+          "300",
           "600",
-          "300"
+          "400",
+          "500"
         ],
         "réponse": "600",
         "anecdote": "De dresscode legt een pak of staart op voor mannen, een cocktailjurk en een hoed voor vrouwen."
@@ -1979,10 +1979,10 @@
         "id": 9,
         "question": "Wie heeft Meghan Markle op elfjarige leeftijd een beroemde klachtenbrief geschreven ?",
         "propositions": [
-          "Nancy Reagan",
-          "Hillary Clinton",
           "Laura Bush",
-          "Michelle Obama"
+          "Nancy Reagan",
+          "Michelle Obama",
+          "Hillary Clinton"
         ],
         "réponse": "Hillary Clinton",
         "anecdote": "De president van Procter And Gamble zal de tekst van een nationale televisiecommercial wijzigen die zij te seksistisch vond."
@@ -1991,10 +1991,10 @@
         "id": 10,
         "question": "Wat was het kenmerk van de trouwjurk van Meghan Markle bij haar tweede huwelijk ?",
         "propositions": [
-          "Versace",
           "Givenchy",
           "Chanel",
-          "Lacroix"
+          "Lacroix",
+          "Versace"
         ],
         "réponse": "Givenchy",
         "anecdote": "Ze droeg een laag broodje met daarboven een diamanten tiara geschonken door de koningin, uit 1932, op een broche van 1893."
@@ -2006,8 +2006,8 @@
         "question": "In welke soapserie verscheen Meghan Markle voor het eerst op de schermen ?",
         "propositions": [
           "Dr. House",
-          "Chicago Med",
           "Noodgeval",
+          "Chicago Med",
           "Centraal ziekenhuis"
         ],
         "réponse": "Centraal ziekenhuis",
@@ -2017,10 +2017,10 @@
         "id": 12,
         "question": "Naar welk land ging Meghan Markle in 2014 om Amerikaanse troepen te ondersteunen ?",
         "propositions": [
-          "Jordanië",
-          "Mongolië",
           "Cambodja",
-          "Afghanistan"
+          "Afghanistan",
+          "Mongolië",
+          "Jordanië"
         ],
         "réponse": "Afghanistan",
         "anecdote": "Dit was onderdeel van de tour georganiseerd door United Service Organisations, voorgezeten door de stafchef van het Amerikaanse leger."
@@ -2029,10 +2029,10 @@
         "id": 13,
         "question": "In welke serie sciencefiction heeft Meghan Markle Amy Jessup belichaamd ?",
         "propositions": [
-          "Voorbij",
           "Fringe",
           "Dark Angel",
-          "X-bestanden"
+          "X-bestanden",
+          "Voorbij"
         ],
         "réponse": "Fringe",
         "anecdote": "In de serie gebruikt het team wat in het Engels bekend staat als fringe science om onverklaarbare fenomenen te onderzoeken."
@@ -2041,10 +2041,10 @@
         "id": 14,
         "question": "Welke Californische producent Meghan Markle trouwde na zeven jaar samen ?",
         "propositions": [
-          "Michel Gohou",
-          "Trevor Engelson",
           "Marc Sorkin",
-          "Roy Marten"
+          "Trevor Engelson",
+          "Roy Marten",
+          "Michel Gohou"
         ],
         "réponse": "Trevor Engelson",
         "anecdote": "Trevor Engelson werd geboren in 1976 in Great Neck, New York, heeft een Amerikaanse nationaliteit en behoort tot de blanke etnische gemeenschap."
@@ -2053,10 +2053,10 @@
         "id": 15,
         "question": "In welke speelfilm van Robert Pattinson verscheen Meghan Markle ?",
         "propositions": [
-          "Bel Ami",
-          "De Rover",
           "Cosmopolis",
-          "Onthoud mij"
+          "Bel Ami",
+          "Onthoud mij",
+          "De Rover"
         ],
         "réponse": "Onthoud mij",
         "anecdote": "Ondanks uitstekende recepten, waren de critici erg sceptisch en klaagden ze dat de film te veel leek op de « Twilight » saga."
@@ -2065,9 +2065,9 @@
         "id": 16,
         "question": "Welke religie werd door Meghan Markle aangenomen voordat Anglicaans werd ?",
         "propositions": [
+          "Protestants",
           "Katholiek",
           "Hindu",
-          "Protestants",
           "Orthodox"
         ],
         "réponse": "Protestants",
@@ -2077,10 +2077,10 @@
         "id": 17,
         "question": "In welke Brits-Hongaarse dramafilm speelde Meghan Markle haar laatste rol ?",
         "propositions": [
+          "De zoon van Saul",
           "Paper World",
           "Asociaal",
-          "Uitsterven",
-          "De zoon van Saul"
+          "Uitsterven"
         ],
         "réponse": "Asociaal",
         "anecdote": "In deze film worden op dit moment verschillende acties uitgevoerd in de stad Londen tegen de gewelddadige omgeving van wapenhandel."
@@ -2090,8 +2090,8 @@
         "question": "Welke bloem die Diana dierbaar was, verlichtte het boeket van Meghan Markle's tweede bruiloft ?",
         "propositions": [
           "Myosotis",
-          "Magnolia",
           "Mimosa",
+          "Magnolia",
           "Sint-janskruid"
         ],
         "réponse": "Myosotis",
@@ -2101,10 +2101,10 @@
         "id": 19,
         "question": "In welke serie van « Experts » speelde Meghan Markle Veronica Perez ?",
         "propositions": [
-          "San Francisco",
+          "Manhattan",
           "Texas",
-          "Miami",
-          "Manhattan"
+          "San Francisco",
+          "Miami"
         ],
         "réponse": "Manhattan",
         "anecdote": "« The Experts: Manhattan » hebben slechts een paar scènes buitenshuis gefilmd in New York, de rest wordt opgenomen in de studio."
@@ -2113,10 +2113,10 @@
         "id": 20,
         "question": "In welke serie interpreteerde Meghan Markle de Sleeping Beauty ?",
         "propositions": [
-          "Kasteel",
-          "Helden",
           "Lelijke Betty",
-          "Roddelmeisje"
+          "Roddelmeisje",
+          "Kasteel",
+          "Helden"
         ],
         "réponse": "Kasteel",
         "anecdote": "Volgens het tijdschrift Variety zou ABC binnenkort een serie « Castle » kunnen lanceren, het verhaal rond Derrick Storm."
@@ -2127,9 +2127,9 @@
         "id": 21,
         "question": "In welk jaar ontving Meghan Markle een BA in theater en internationale betrekkingen ?",
         "propositions": [
-          "2005",
-          "2003",
           "2007",
+          "2003",
+          "2005",
           "2009"
         ],
         "réponse": "2003",
@@ -2139,10 +2139,10 @@
         "id": 22,
         "question": "In welk land hoopt Meghan Markle een politieke carriëre te volgen ?",
         "propositions": [
-          "Canada",
+          "Spanje",
           "Argentinië",
-          "Griekenland",
-          "Spanje"
+          "Canada",
+          "Griekenland"
         ],
         "réponse": "Argentinië",
         "anecdote": "Na zijn studie werkte Meghan Markle een tijdje op de Amerikaanse ambassade in Buenos Aires, Argentinië."
@@ -2153,8 +2153,8 @@
         "propositions": [
           "Veterinaire",
           "Accountant",
-          "Calligraphe",
-          "Web ontwerper"
+          "Web ontwerper",
+          "Calligraphe"
         ],
         "réponse": "Calligraphe",
         "anecdote": "Meghan Markle heeft in deeltijd geoefend met kalligrafie op trouwkaarten."
@@ -2164,8 +2164,8 @@
         "question": "Voor welke warenhuisketen is Meghan Markle een reclamefranchise geworden ?",
         "propositions": [
           "Canadese gans",
-          "Hamleys",
           "Liberty And Co",
+          "Hamleys",
           "Reitmans"
         ],
         "réponse": "Reitmans",
@@ -2176,9 +2176,9 @@
         "question": "Voor welke jaarlijkse top sprak Meghan Markle over moderne slavernij ?",
         "propositions": [
           "Nozem",
+          "Gordonia",
           "Fimcap",
-          "Een jonge wereld",
-          "Gordonia"
+          "Een jonge wereld"
         ],
         "réponse": "Een jonge wereld",
         "anecdote": "De jonge leiders van deze top worden gekozen na een lang selectieproces, beoordeeld op hun leiderschapspotentieel."
@@ -2187,10 +2187,10 @@
         "id": 26,
         "question": "Welke Canadese culinaire chef, Meghan Markle, heeft het uitgemaakt in 2016 ?",
         "propositions": [
-          "Cory Vitiello",
           "Renaud Cyr",
-          "Normand Laprise",
-          "Anthony Sedlak"
+          "Cory Vitiello",
+          "Anthony Sedlak",
+          "Normand Laprise"
         ],
         "réponse": "Cory Vitiello",
         "anecdote": "Meghan Markle zou twee jaar bij Toronto-chef Cory Vitiello hebben doorgebracht, nadat hij hem had ontmoet in zijn oude restaurant."
@@ -2211,10 +2211,10 @@
         "id": 28,
         "question": "Welke koning van Engeland is een voorouder van de vader van Meghan Markle ?",
         "propositions": [
-          "John zonder land",
+          "Henri III",
           "Edward III",
-          "Charles II",
-          "Henri III"
+          "John zonder land",
+          "Charles II"
         ],
         "réponse": "Edward III",
         "anecdote": "Edward werd op 1 februari 1327 op 14-jarige leeftijd gekroond in Westminster (Londen) vanwege het ontslag van zijn vader Edward II."
@@ -2225,8 +2225,8 @@
         "propositions": [
           "Amanda Schull",
           "Sarah Rafferty",
-          "Katherine Heigl",
-          "Jessica Mulroney"
+          "Jessica Mulroney",
+          "Katherine Heigl"
         ],
         "réponse": "Jessica Mulroney",
         "anecdote": "Rachel Meghan Markle, bekend als Meghan Markle, werd geboren op 4 augustus 1981 in Los Angeles, Californië, aan Amerikaanse ouders."
@@ -2235,8 +2235,8 @@
         "id": 30,
         "question": "Hoeveel kostte het dure stuk dat de tradities verdreef op zijn prinselijke bruiloft met Harry ?",
         "propositions": [
-          "EUR 57.000",
           "EUR 38.000",
+          "EUR 57.000",
           "EUR 22.000",
           "EUR 43.000"
         ],
