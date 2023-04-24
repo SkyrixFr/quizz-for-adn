@@ -1,4 +1,5 @@
 // Yes, the code is ugly.
+// Yes, I agree.
 
 const puppeteer = require('puppeteer');
 const ora = require('ora');
