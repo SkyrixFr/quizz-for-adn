@@ -34,6 +34,14 @@ Car si on le fait pas il n'arrive pas a extraire le tuple contenue dans p1 et p2
 
 Après (tjr dans le env) tu peux faire ```python ./test.py``` et ça fonctionne normalement
 
+
+<br/>
+<br/>
+
+# Attention ⚠️
+
+Si les json sont corrompu par ``\xa0`` (souvent git qui change car incompatibilité linux vs windows) lance le programme ``reparerquizz.py`` qui va automatiquement les réparer
+
 ---
 ## TODO:
 * Find a great idea

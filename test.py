@@ -55,6 +55,8 @@ while True:
     if qNo < qTotal:
         mcq = mcqList[qNo]
 
+        print(mcq)
+
         img, bbox = cvzone.putTextRect(img, mcq.question, [100, 100], 2, 2, offset=50, border=5)
         img, bbox1 = cvzone.putTextRect(img, mcq.choice1, [100, 250], 2, 2, offset=50, border=5)
         img, bbox2 = cvzone.putTextRect(img, mcq.choice2, [400, 250], 2, 2, offset=50, border=5)
