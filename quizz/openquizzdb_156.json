@@ -73,7 +73,7 @@
           "Boréale"
         ],
         "réponse": "Amazonienne",
-        "anecdote": "Avec une superficie de 5 500 000 km2, soit près de dix fois la taille de la France, il s'agit de la plus grande forêt tropicale du monde."
+        "anecdote": "Avec une superficie de 5 500 000 km2, soit près de dix fois la taille de la France, il s'agit de la plus grande forêt tropicale du monde."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Cuzco"
         ],
         "réponse": "Cuzco",
-        "anecdote": "De taille modérée, Cuzco fut la capitale des Incas et a été longtemps un carrefour sur l'axe économique transandin."
+        "anecdote": "De taille modérée, Cuzco fut la capitale des Incas et a été longtemps un carrefour sur l'axe économique transandin."
       },
       {
         "id": 5,
@@ -109,7 +109,7 @@
           "Condor"
         ],
         "réponse": "Condor",
-        "anecdote": "Il est parfois admis que les Incas donnaient à leurs cités la forme d'animaux sacrés (puma, condor, ...)."
+        "anecdote": "Il est parfois admis que les Incas donnaient à leurs cités la forme d'animaux sacrés (puma, condor, ...)."
       },
       {
         "id": 7,
@@ -133,7 +133,7 @@
           "XVIe siècle"
         ],
         "réponse": "XIe siècle",
-        "anecdote": "La cité du Machu Picchu, perchée sur un promontoire rocheux, unit les monts Machu Picchu et Huayna Picchu."
+        "anecdote": "La cité du Machu Picchu, perchée sur un promontoire rocheux, unit les monts Machu Picchu et Huayna Picchu."
       },
       {
         "id": 9,
@@ -157,13 +157,13 @@
           "Janvier et mai"
         ],
         "réponse": "Novembre et mars",
-        "anecdote": "Les pluies sont abondantes (environ 1 955 millimètres par an) et ces précipitations souvent fortes alternent avec de belles éclaircies."
+        "anecdote": "Les pluies sont abondantes (environ 1 955 millimètres par an) et ces précipitations souvent fortes alternent avec de belles éclaircies."
       }
     ],
     "confirmé": [
       {
         "id": 11,
-        "question": "Comment se traduit le mot machu dans le langage quechua ?",
+        "question": "Comment se traduit le mot machu dans le langage quechua ?",
         "propositions": [
           "Montagne",
           "Vieille",
@@ -171,7 +171,7 @@
           "Rocher"
         ],
         "réponse": "Vieille",
-        "anecdote": "Le quechua est une famille de langues parlées au Pérou (4 millions de locuteurs) où il a le statut de langue officielle depuis 1975."
+        "anecdote": "Le quechua est une famille de langues parlées au Pérou (4 millions de locuteurs) où il a le statut de langue officielle depuis 1975."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Hiram Bingham"
         ],
         "réponse": "Hiram Bingham",
-        "anecdote": "Bien que considéré comme archéologue, il préféra toujours le terme explorateur, insistant pour être décrit ainsi dans les « Who's Who »."
+        "anecdote": "Bien que considéré comme archéologue, il préféra toujours le terme explorateur, insistant pour être décrit ainsi dans les « Who's Who »."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "1983"
         ],
         "réponse": "1983",
-        "anecdote": "L'Unesco poursuit son action à travers cinq grands programmes : éducation, sciences, culture, communication et information."
+        "anecdote": "L'Unesco poursuit son action à travers cinq grands programmes : éducation, sciences, culture, communication et information."
       },
       {
         "id": 14,
@@ -207,7 +207,7 @@
           "139"
         ],
         "réponse": "172",
-        "anecdote": "Les 172 constructions qui forment le Machu Picchu s'étendent sur environ 530 mètres de long et sur 200 mètres de large."
+        "anecdote": "Les 172 constructions qui forment le Machu Picchu s'étendent sur environ 530 mètres de long et sur 200 mètres de large."
       },
       {
         "id": 15,
@@ -219,7 +219,7 @@
           "Atahualpa"
         ],
         "réponse": "Pachacutec",
-        "anecdote": "À la mort de Pachacutec, et selon les coutumes royales incas, Machu Picchu passa à sa « panaca » (cour, clan, clientèle élargie)."
+        "anecdote": "À la mort de Pachacutec, et selon les coutumes royales incas, Machu Picchu passa à sa « panaca » (cour, clan, clientèle élargie)."
       },
       {
         "id": 16,
@@ -279,7 +279,7 @@
           "10 000"
         ],
         "réponse": "10 000",
-        "anecdote": "La ville était alimentée grâce à ces cultures en terrasse, qui permettaient de récolter maïs, pomme de terre et divers légumes."
+        "anecdote": "La ville était alimentée grâce à ces cultures en terrasse, qui permettaient de récolter maïs, pomme de terre et divers légumes."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "346"
         ],
         "réponse": "274",
-        "anecdote": "Le patrimoine mondial désigne un ensemble de biens présentant un intérêt exceptionnel pour l'héritage commun de l'humanité."
+        "anecdote": "Le patrimoine mondial désigne un ensemble de biens présentant un intérêt exceptionnel pour l'héritage commun de l'humanité."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "125 km²"
         ],
         "réponse": "325 km²",
-        "anecdote": "Le Machu Picchu fait partie de tout un ensemble culturel et naturel connu sous le nom de Sanctuaire historique de Machu Picchu."
+        "anecdote": "Le Machu Picchu fait partie de tout un ensemble culturel et naturel connu sous le nom de Sanctuaire historique de Machu Picchu."
       },
       {
         "id": 23,
@@ -329,11 +329,11 @@
           "Envira"
         ],
         "réponse": "Urubamba",
-        "anecdote": "Autour du Huayna Picchu, cette importante rivière du Pérou décrit un grand arc en contrebas d'une falaise de 600 mètres de hauteur."
+        "anecdote": "Autour du Huayna Picchu, cette importante rivière du Pérou décrit un grand arc en contrebas d'une falaise de 600 mètres de hauteur."
       },
       {
         "id": 25,
-        "question": "Quel est le plus proche village du Machu Picchu, situé à 400 mètres en contrebas ?",
+        "question": "Quel est le plus proche village du Machu Picchu, situé à 400 mètres en contrebas ?",
         "propositions": [
           "Aguas Calientes",
           "Huacachina",
@@ -353,7 +353,7 @@
           "Arequipa"
         ],
         "réponse": "Torréon",
-        "anecdote": "Le Torréon est construit sur une grande roche en-dessous de laquelle se trouve une petite cavité, un mausolée pour les momies."
+        "anecdote": "Le Torréon est construit sur une grande roche en-dessous de laquelle se trouve une petite cavité, un mausolée pour les momies."
       },
       {
         "id": 27,
@@ -377,7 +377,7 @@
           "Yanaca"
         ],
         "réponse": "Vicabamba",
-        "anecdote": "Accompagné par ses guides, le sergent Carrasco et le paysan Melchor Arteaga, il se rend à Machu Picchu le 24 juillet 1911."
+        "anecdote": "Accompagné par ses guides, le sergent Carrasco et le paysan Melchor Arteaga, il se rend à Machu Picchu le 24 juillet 1911."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Alfredo Valencia"
         ],
         "réponse": "Augustin Lizarraga",
-        "anecdote": "Augustin Lizarraga, originaire de Cuzco, arriva dans la ville le 14 juillet 1902 guidant Gabino Sanchez, Enrique Palma et Justo Ochoa."
+        "anecdote": "Augustin Lizarraga, originaire de Cuzco, arriva dans la ville le 14 juillet 1902 guidant Gabino Sanchez, Enrique Palma et Justo Ochoa."
       },
       {
         "id": 30,

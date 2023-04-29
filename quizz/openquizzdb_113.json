@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Des pommes, des poires et des scoubidous : quel chanteur nous a quitté en 2004 ?",
+        "question": "Des pommes, des poires et des scoubidous : quel chanteur nous a quitté en 2004 ?",
         "propositions": [
           "Sacha Distel",
           "Eddy Mitchell",
@@ -163,7 +163,7 @@
     "confirmé": [
       {
         "id": 11,
-        "question": "Quel artiste originaire de Toulouse avait chanté sa « ville rose » comme personne ?",
+        "question": "Quel artiste originaire de Toulouse avait chanté sa « ville rose » comme personne ?",
         "propositions": [
           "Alain Bashung",
           "Claude Nougaro",
@@ -171,11 +171,11 @@
           "Francis Cabrel"
         ],
         "réponse": "Claude Nougaro",
-        "anecdote": "« Troubadour baroque » comme il aimait à se définir, il a été emporté par une longue maladie le 4 mars 2004."
+        "anecdote": "« Troubadour baroque » comme il aimait à se définir, il a été emporté par une longue maladie le 4 mars 2004."
       },
       {
         "id": 12,
-        "question": "Quel chef cuisinier français a été sacré meilleur cuisinier du monde en mars 2003 ?",
+        "question": "Quel chef cuisinier français a été sacré meilleur cuisinier du monde en mars 2003 ?",
         "propositions": [
           "Alain Ducasse",
           "Thierry Marx",
@@ -203,7 +203,7 @@
         "propositions": [
           "Danielle Darrieux",
           "Marie Trintignant",
-          " Julie Depardieu",
+          " Julie Depardieu",
           "Dominique Lavanant"
         ],
         "réponse": "Marie Trintignant",
@@ -219,11 +219,11 @@
           "Françoise Sagan"
         ],
         "réponse": "Françoise Sagan",
-        "anecdote": "Le « charmant petit monstre », tel que la surnommait François Mauriac, nous a laissé des livres d'un talent indiscutable."
+        "anecdote": "Le « charmant petit monstre », tel que la surnommait François Mauriac, nous a laissé des livres d'un talent indiscutable."
       },
       {
         "id": 16,
-        "question": "Quel personnage le dessinateur de BD Morris a-t-il laissé plus seul que jamais en 2001 ?",
+        "question": "Quel personnage le dessinateur de BD Morris a-t-il laissé plus seul que jamais en 2001 ?",
         "propositions": [
           "Lucky Luke",
           "Papyrus",
@@ -365,7 +365,7 @@
           "Jeff Koons"
         ],
         "réponse": "Jeff Koons",
-        "anecdote": "L'installation du « roi du kitsch » chez le Roi-Soleil ne fut pas du goût de tous qui « porte atteinte aux intérêts de la France »."
+        "anecdote": "L'installation du « roi du kitsch » chez le Roi-Soleil ne fut pas du goût de tous qui « porte atteinte aux intérêts de la France »."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Assia Djebar"
         ],
         "réponse": "Assia Djebar",
-        "anecdote": "À la fois essayiste, romancière et cinéaste, Assia Djebar est le premier écrivain du Maghreb à devenir « immortel »."
+        "anecdote": "À la fois essayiste, romancière et cinéaste, Assia Djebar est le premier écrivain du Maghreb à devenir « immortel »."
       },
       {
         "id": 29,

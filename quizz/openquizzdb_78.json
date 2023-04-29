@@ -41,7 +41,7 @@
       "débutant": [
       {
         "id": 1,
-        "question": "Quel homme « capital » aux États-Unis fut le premier représentant de l'Oncle Sam ?",
+        "question": "Quel homme « capital » aux États-Unis fut le premier représentant de l'Oncle Sam ?",
         "propositions": [
           "Theodore Roosevelt",
           "Abraham Lincoln",
@@ -61,7 +61,7 @@
           "Dvorak"
         ],
         "réponse": "Mozart",
-        "anecdote": "Son surnom « Woolfie » (petit loup) lui fut donné par sa femme Constance."
+        "anecdote": "Son surnom « Woolfie » (petit loup) lui fut donné par sa femme Constance."
       },
       {
         "id": 3,
@@ -97,11 +97,11 @@
           "Ellen Church"
         ],
         "réponse": "Margaret Thatcher",
-        "anecdote": "Surnommée « la Dame de Fer », Margaret Thatcher était connue pour ses positions très tranchées."
+        "anecdote": "Surnommée « la Dame de Fer », Margaret Thatcher était connue pour ses positions très tranchées."
       },
       {
         "id": 6,
-        "question": "Quel chanteur français, surnommé « le fou chantant », évoqua souvent la joie de vivre ?",
+        "question": "Quel chanteur français, surnommé « le fou chantant », évoqua souvent la joie de vivre ?",
         "propositions": [
           "Serge Lama",
           "François Valéry",
@@ -267,11 +267,11 @@
           "Condorcet"
         ],
         "réponse": "Voltaire",
-        "anecdote": "Voltaire occupe une place particulière dans la mémoire collective française et internationale."
+        "anecdote": "Voltaire occupe une place particulière dans la mémoire collective française et internationale."
       },
       {
         "id": 20,
-        "question": "Quel homme politique soviétique fut surnommé « le petit père des peuples » ?",
+        "question": "Quel homme politique soviétique fut surnommé « le petit père des peuples » ?",
         "propositions": [
           "Staline",
           "Trotski",
@@ -279,7 +279,7 @@
           "Brejnev"
         ],
         "réponse": "Staline",
-        "anecdote": "Il prit le pseudonyme de Staline en référence au mot « Stal » qui signifie acier en russe."
+        "anecdote": "Il prit le pseudonyme de Staline en référence au mot « Stal » qui signifie acier en russe."
       }
     ],
     "expert": [
@@ -353,7 +353,7 @@
           "Narcisse Chaillou"
         ],
         "réponse": "Jacques-Louis David",
-        "anecdote": "Sous Napoléon, Jacques-Louis David fut nommé « Premier Peintre du Régime »."
+        "anecdote": "Sous Napoléon, Jacques-Louis David fut nommé « Premier Peintre du Régime »."
       },
       {
         "id": 27,
@@ -365,7 +365,7 @@
           "Jules Ferry"
         ],
         "réponse": "Léon Gambetta",
-        "anecdote": "Léon Gambetta fut l'une des personnalités politiques les plus importantes des premières années de la Troisième République."
+        "anecdote": "Léon Gambetta fut l'une des personnalités politiques les plus importantes des premières années de la Troisième République."
       },
       {
         "id": 28,
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quel chirurgien français est surnommé « le père de la chirurgie moderne » ?",
+        "question": "Quel chirurgien français est surnommé « le père de la chirurgie moderne » ?",
         "propositions": [
           "Louis Mencière",
           "Paul Rivet",

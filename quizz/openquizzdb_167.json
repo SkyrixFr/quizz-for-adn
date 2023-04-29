@@ -49,7 +49,7 @@
           "Joey Fatone"
         ],
         "réponse": "Justin Timberlake",
-        "anecdote": "Dans une interview, Justin Timberlake a déclaré souffrir de troubles obsessionnels compulsifs (TOC) mélangés à un déficit de l'attention."
+        "anecdote": "Dans une interview, Justin Timberlake a déclaré souffrir de troubles obsessionnels compulsifs (TOC) mélangés à un déficit de l'attention."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Elijah Wood"
         ],
         "réponse": "Tobey Maguire",
-        "anecdote": "En octobre 2016, il fut annoncé que Tobey Maguire et Jennifer Meyer, parents de deux enfants, divorcent après neuf ans de mariage."
+        "anecdote": "En octobre 2016, il fut annoncé que Tobey Maguire et Jennifer Meyer, parents de deux enfants, divorcent après neuf ans de mariage."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Andy Garcia"
         ],
         "réponse": "George Clooney",
-        "anecdote": "George Clooney est devenu célèbre auprès du grand public grâce à son rôle du docteur Doug Ross dans la série télévisée « Urgences »."
+        "anecdote": "George Clooney est devenu célèbre auprès du grand public grâce à son rôle du docteur Doug Ross dans la série télévisée « Urgences »."
       },
       {
         "id": 4,
@@ -85,11 +85,11 @@
           "Uruguay"
         ],
         "réponse": "Patagonie",
-        "anecdote": "Entre 1988 et 1991, Florent Pagny a vécu une relation sulfureuse avec la chanteuse Vanessa Paradis, de neuf ans sa cadette."
+        "anecdote": "Entre 1988 et 1991, Florent Pagny a vécu une relation sulfureuse avec la chanteuse Vanessa Paradis, de neuf ans sa cadette."
       },
       {
         "id": 5,
-        "question": "Quel chanteur à qui on s'attache a débuté en faisant la manche à St-Tropez ?",
+        "question": "Quel chanteur à qui on s'attache a débuté en faisant la manche à St-Tropez ?",
         "propositions": [
           "Christophe Maé",
           "Christophe Willem",
@@ -97,7 +97,7 @@
           "Julien Doré"
         ],
         "réponse": "Christophe Maé",
-        "anecdote": "Passionné de tennis et de ski, il abandonna le sport à la suite d'une polyarthrite chronique qui l'immobilisa à l'âge de 16 ans."
+        "anecdote": "Passionné de tennis et de ski, il abandonna le sport à la suite d'une polyarthrite chronique qui l'immobilisa à l'âge de 16 ans."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Adrian Pasdar"
         ],
         "réponse": "Milo Ventimiglia",
-        "anecdote": "Fan de « Star Wars », Milo Ventimiglia rêvait de devenir acteur de la saga et fait tout ce qu'il pouvait pour s'en donner les moyens."
+        "anecdote": "Fan de « Star Wars », Milo Ventimiglia rêvait de devenir acteur de la saga et fait tout ce qu'il pouvait pour s'en donner les moyens."
       },
       {
         "id": 7,
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Quel nul a fréquenté douze écoles différentes, de la sixième à la Terminale ?",
+        "question": "Quel nul a fréquenté douze écoles différentes, de la sixième à la Terminale ?",
         "propositions": [
           "Bruno Carette",
           "Alain Chabat",
@@ -133,7 +133,7 @@
           "Smaïn"
         ],
         "réponse": "Alain Chabat",
-        "anecdote": "Ayant vécu à Bobigny, Alain Chabat a longtemps souhaité devenir dessinateur de BD ou faire carrière comme chanteur de rock."
+        "anecdote": "Ayant vécu à Bobigny, Alain Chabat a longtemps souhaité devenir dessinateur de BD ou faire carrière comme chanteur de rock."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "George Clooney"
         ],
         "réponse": "George Clooney",
-        "anecdote": "En septembre 2006, George Clooney a été reçu par le Conseil de sécurité des Nations unies pour que cesse le génocide au Darfour."
+        "anecdote": "En septembre 2006, George Clooney a été reçu par le Conseil de sécurité des Nations unies pour que cesse le génocide au Darfour."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Mickey Rourke"
         ],
         "réponse": "Bruce Willis",
-        "anecdote": "Les films avec Bruce Willis ont jusqu'ici rapporté trois milliards de dollars au box-office américain et sept milliards dans le monde."
+        "anecdote": "Les films avec Bruce Willis ont jusqu'ici rapporté trois milliards de dollars au box-office américain et sept milliards dans le monde."
       }
     ],
     "confirmé": [
@@ -195,7 +195,7 @@
           "André Agassi"
         ],
         "réponse": "André Agassi",
-        "anecdote": "Le principal rival d'Agassi au cours de sa carrière fut Pete Sampras, qu'il affronta à 34 reprises dont cinq finales de Grand Chelem."
+        "anecdote": "Le principal rival d'Agassi au cours de sa carrière fut Pete Sampras, qu'il affronta à 34 reprises dont cinq finales de Grand Chelem."
       },
       {
         "id": 14,
@@ -207,11 +207,11 @@
           "Pierrick Lilliu"
         ],
         "réponse": "Julien Doré",
-        "anecdote": "Julien Doré a d'abord travaillé dans une entreprise de manutention et jouait avec son groupe Dig Up Elvis dans des bars de Nîmes."
+        "anecdote": "Julien Doré a d'abord travaillé dans une entreprise de manutention et jouait avec son groupe Dig Up Elvis dans des bars de Nîmes."
       },
       {
         "id": 15,
-        "question": "Quel ex de Michelle Williams est le Joker sexy du film « The Dark Knight » ?",
+        "question": "Quel ex de Michelle Williams est le Joker sexy du film « The Dark Knight » ?",
         "propositions": [
           "Heath Ledger",
           "Tim Robbins",
@@ -219,7 +219,7 @@
           "Javier Bardem"
         ],
         "réponse": "Heath Ledger",
-        "anecdote": "Heath Ledger est surtout connu pour son rôle dans « Le Secret de Brokeback Mountain » et celui du Joker dans « The Dark Knight »."
+        "anecdote": "Heath Ledger est surtout connu pour son rôle dans « Le Secret de Brokeback Mountain » et celui du Joker dans « The Dark Knight »."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Rafael Nadal"
         ],
         "réponse": "Rafael Nadal",
-        "anecdote": "En devenant champion olympique en 2008, Rafael Nadal est le deuxième à réaliser le Grand Chelem doré en carrière après Agassi."
+        "anecdote": "En devenant champion olympique en 2008, Rafael Nadal est le deuxième à réaliser le Grand Chelem doré en carrière après Agassi."
       },
       {
         "id": 17,
@@ -255,7 +255,7 @@
           "Thierry Beccaro"
         ],
         "réponse": "Jean-Luc Delarue",
-        "anecdote": "Jean-Luc Delarue a été confronté à différentes difficultés d'ordre judiciaire en sa qualité de président de la société Réservoir Prod."
+        "anecdote": "Jean-Luc Delarue a été confronté à différentes difficultés d'ordre judiciaire en sa qualité de président de la société Réservoir Prod."
       },
       {
         "id": 19,
@@ -279,7 +279,7 @@
           "Clovis Cornillac"
         ],
         "réponse": "Clovis Cornillac",
-        "anecdote": "Depuis 2009, Clovis Cornillac est en couple avec la comédienne française Lilou Fogli qu'il a épousée le 30 août 2013."
+        "anecdote": "Depuis 2009, Clovis Cornillac est en couple avec la comédienne française Lilou Fogli qu'il a épousée le 30 août 2013."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Mathieu Amalric"
         ],
         "réponse": "Olivier Martinez",
-        "anecdote": "Olivier Martinez a tenu le rôle d'Angelo Pardi aux côtés de Juliette Binoche dans « Le Hussard sur le toit » de Jean-Paul Rappeneau."
+        "anecdote": "Olivier Martinez a tenu le rôle d'Angelo Pardi aux côtés de Juliette Binoche dans « Le Hussard sur le toit » de Jean-Paul Rappeneau."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "Eric Roberts"
         ],
         "réponse": "Sylvester Stallone",
-        "anecdote": "Après la victoire de Donald Trump en 2016, ce dernier proposa à Sylvester Stallone la présidence du National Endowment for the Arts."
+        "anecdote": "Après la victoire de Donald Trump en 2016, ce dernier proposa à Sylvester Stallone la présidence du National Endowment for the Arts."
       },
       {
         "id": 23,
@@ -317,7 +317,7 @@
           "Daniel Auteuil"
         ],
         "réponse": "François Cluzet",
-        "anecdote": "Depuis 2004, François Cluzet est parrain de l'association Vaincre la mucoviscidose en compagnie d'Isabelle Carré et Gérard Lenorman."
+        "anecdote": "Depuis 2004, François Cluzet est parrain de l'association Vaincre la mucoviscidose en compagnie d'Isabelle Carré et Gérard Lenorman."
       },
       {
         "id": 24,
@@ -353,7 +353,7 @@
           "Michael York"
         ],
         "réponse": "Clive Owen",
-        "anecdote": "En France, Julien Kramer est la voix française régulière de Clive Owen, bien que Bernard Gabay l'ait également doublé."
+        "anecdote": "En France, Julien Kramer est la voix française régulière de Clive Owen, bien que Bernard Gabay l'ait également doublé."
       },
       {
         "id": 27,
@@ -365,7 +365,7 @@
           "Billy Martin"
         ],
         "réponse": "Joel Madden",
-        "anecdote": "Lors d'un concert des Beastie Boys dans les années 1990, ce fut le déclic pour les jumeaux qui décidèrent de se consacrer à la musique."
+        "anecdote": "Lors d'un concert des Beastie Boys dans les années 1990, ce fut le déclic pour les jumeaux qui décidèrent de se consacrer à la musique."
       },
       {
         "id": 28,
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quel joueur de foot a été surnommé Petit Bison par Emmanuel Petit ?",
+        "question": "Quel joueur de foot a été surnommé Petit Bison par Emmanuel Petit ?",
         "propositions": [
           "Christophe Dugarry",
           "Laurent Blanc",
@@ -389,7 +389,7 @@
           "Thierry Henry"
         ],
         "réponse": "Bixente Lizarazu",
-        "anecdote": "Formé dans son Pays basque natal, Bixente Lizarazu a intégré les Girondins de Bordeaux où il a débuté comme professionnel."
+        "anecdote": "Formé dans son Pays basque natal, Bixente Lizarazu a intégré les Girondins de Bordeaux où il a débuté comme professionnel."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "John Travolta"
         ],
         "réponse": "John Travolta",
-        "anecdote": "John Travolta, qui vit à Ocala en Floride, est un membre actif de la scientologie, tout comme son collègue de cinéma Tom Cruise."
+        "anecdote": "John Travolta, qui vit à Ocala en Floride, est un membre actif de la scientologie, tout comme son collègue de cinéma Tom Cruise."
       }
     ]
     },

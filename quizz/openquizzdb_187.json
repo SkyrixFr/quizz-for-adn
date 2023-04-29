@@ -49,7 +49,7 @@
           "Culotte"
         ],
         "réponse": "Éponge",
-        "anecdote": "Durant un match, l'arbitre est le garant principal de la sécurité des boxeurs et peut sanctionner les gestes interdits et dangereux."
+        "anecdote": "Durant un match, l'arbitre est le garant principal de la sécurité des boxeurs et peut sanctionner les gestes interdits et dangereux."
       },
       {
         "id": 2,
@@ -61,11 +61,11 @@
           "Corbeau"
         ],
         "réponse": "Rossignol",
-        "anecdote": "Son chant des plus mélodieux et des plus complexes a fasciné les chercheurs qui ont dénombré 260 séquences différentes."
+        "anecdote": "Son chant des plus mélodieux et des plus complexes a fasciné les chercheurs qui ont dénombré 260 séquences différentes."
       },
       {
         "id": 3,
-        "question": "Qui est devenu célèbre grâce au « Poinçonneur des Lilas » sorti en 1958 ?",
+        "question": "Qui est devenu célèbre grâce au « Poinçonneur des Lilas » sorti en 1958 ?",
         "propositions": [
           "Johnny Hallyday",
           "Boris Vian",
@@ -73,7 +73,7 @@
           "Charles Trenet"
         ],
         "réponse": "Serge Gainsbourg",
-        "anecdote": "Un scopitone a été réalisé pour l'occasion par Jean Bacqué, produit par Pathé, montrant Gainsbourg dans le métro parisien."
+        "anecdote": "Un scopitone a été réalisé pour l'occasion par Jean Bacqué, produit par Pathé, montrant Gainsbourg dans le métro parisien."
       },
       {
         "id": 4,
@@ -97,7 +97,7 @@
           "Sa mère"
         ],
         "réponse": "Son père",
-        "anecdote": "Oedipe est connu pour avoir résolu l'énigme du sphinx et pour s'être rendu involontairement coupable de parricide et d'inceste."
+        "anecdote": "Oedipe est connu pour avoir résolu l'énigme du sphinx et pour s'être rendu involontairement coupable de parricide et d'inceste."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "5 000"
         ],
         "réponse": "13 000",
-        "anecdote": "Le général de Gaulle a descendu le 26 août 1944 l'Arc de Triomphe vers Notre-Dame pour un office religieux après la libération de Paris."
+        "anecdote": "Le général de Gaulle a descendu le 26 août 1944 l'Arc de Triomphe vers Notre-Dame pour un office religieux après la libération de Paris."
       },
       {
         "id": 7,
@@ -171,7 +171,7 @@
           "Fred Zinnemann"
         ],
         "réponse": "Fred Zinnemann",
-        "anecdote": "L'album de Lucky Luke intitulé « Les Dalton à la noce » reprend la trame scénaristique générale et quelques passages-clés du film."
+        "anecdote": "L'album de Lucky Luke intitulé « Les Dalton à la noce » reprend la trame scénaristique générale et quelques passages-clés du film."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "1860"
         ],
         "réponse": "1900",
-        "anecdote": "Le métro de Paris comporte à ce jour seize lignes en site propre, essentiellement souterraines, totalisant près de 220 kilomètres."
+        "anecdote": "Le métro de Paris comporte à ce jour seize lignes en site propre, essentiellement souterraines, totalisant près de 220 kilomètres."
       },
       {
         "id": 13,
@@ -231,7 +231,7 @@
           "Voltaire"
         ],
         "réponse": "Molière",
-        "anecdote": "« Le Malade imaginaire » est une comédie-ballet en trois actes représentée en 1673 et la dernière comédie écrite par Molière."
+        "anecdote": "« Le Malade imaginaire » est une comédie-ballet en trois actes représentée en 1673 et la dernière comédie écrite par Molière."
       },
       {
         "id": 17,
@@ -243,7 +243,7 @@
           "Vent"
         ],
         "réponse": "Lumière",
-        "anecdote": "La valeur du mètre est définie comme la distance parcourue par la lumière dans le vide en 1/299 792 458 de seconde."
+        "anecdote": "La valeur du mètre est définie comme la distance parcourue par la lumière dans le vide en 1/299 792 458 de seconde."
       },
       {
         "id": 18,
@@ -255,11 +255,11 @@
           "Jacques Chirac"
         ],
         "réponse": "Georges Marchais",
-        "anecdote": "Lénine est à l'origine de la Tchéka, police politique chargée d'éliminer les ennemis du nouveau régime qu'il mettait en place."
+        "anecdote": "Lénine est à l'origine de la Tchéka, police politique chargée d'éliminer les ennemis du nouveau régime qu'il mettait en place."
       },
       {
         "id": 19,
-        "question": "La perle à abdomen remarquable ou plécoptère est en fait...",
+        "question": "La perle à abdomen remarquable ou plécoptère est en fait...",
         "propositions": [
           "Une fleur",
           "Un oiseau",
@@ -267,7 +267,7 @@
           "Un coquillage"
         ],
         "réponse": "Un insecte",
-        "anecdote": "Les plécoptères sont appelés mouches de pierre car ils se posent très fréquemment sur les pierres en bordure de cours d'eau."
+        "anecdote": "Les plécoptères sont appelés mouches de pierre car ils se posent très fréquemment sur les pierres en bordure de cours d'eau."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Hector Berlioz"
         ],
         "réponse": "Claude Debussy",
-        "anecdote": "Une part importante de l'oeuvre de Claude Debussy est pour piano et utilise une palette sonore particulièrement riche et évocatrice."
+        "anecdote": "Une part importante de l'oeuvre de Claude Debussy est pour piano et utilise une palette sonore particulièrement riche et évocatrice."
       }
     ],
     "expert": [
@@ -305,7 +305,7 @@
           "Tuberculose"
         ],
         "réponse": "Tuberculose",
-        "anecdote": "La tuberculose est une maladie contagieuse infectieuse causée par une bactérie, avec des signes cliniques variables."
+        "anecdote": "La tuberculose est une maladie contagieuse infectieuse causée par une bactérie, avec des signes cliniques variables."
       },
       {
         "id": 23,
@@ -329,7 +329,7 @@
           "Favre"
         ],
         "réponse": "Balzac",
-        "anecdote": "Gustave Flaubert a marqué la littérature par la profondeur de ses analyses psychologiques et son souci de réalisme."
+        "anecdote": "Gustave Flaubert a marqué la littérature par la profondeur de ses analyses psychologiques et son souci de réalisme."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Pays des aigles"
         ],
         "réponse": "Pays des aigles",
-        "anecdote": "Le pays a un régime politique de type démocratie parlementaire, sa capitale est Tirana et sa langue officielle est l'albanais."
+        "anecdote": "Le pays a un régime politique de type démocratie parlementaire, sa capitale est Tirana et sa langue officielle est l'albanais."
       },
       {
         "id": 26,
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Dans quel journal est paru le célèbre « J'accuse... ! » d'Émile Zola ?",
+        "question": "Dans quel journal est paru le célèbre « J'accuse... ! » d'Émile Zola ?",
         "propositions": [
           "Humanité",
           "Pravda",
@@ -389,7 +389,7 @@
           "Canada"
         ],
         "réponse": "Irlande",
-        "anecdote": "Les 386 kilomètres du fleuve Shannon en font le plus long cours d'eau des Îles Britanniques et le plus abondant par son débit."
+        "anecdote": "Les 386 kilomètres du fleuve Shannon en font le plus long cours d'eau des Îles Britanniques et le plus abondant par son débit."
       },
       {
         "id": 30,

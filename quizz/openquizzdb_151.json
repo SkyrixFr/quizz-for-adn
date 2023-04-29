@@ -61,7 +61,7 @@
           "James Cash Jr."
         ],
         "réponse": "Thomas Edison",
-        "anecdote": "Tesla proposa le courant alternatif, qui résoudrait de nombreux problèmes, tandis qu'Edison resta un défenseur du courant continu."
+        "anecdote": "Tesla proposa le courant alternatif, qui résoudrait de nombreux problèmes, tandis qu'Edison resta un défenseur du courant continu."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "200"
         ],
         "réponse": "300",
-        "anecdote": "Beaucoup de ces brevets traitant de méthodes pour aborder la conversion de l'énergie sont attribués à tort à Thomas Edison."
+        "anecdote": "Beaucoup de ces brevets traitant de méthodes pour aborder la conversion de l'énergie sont attribués à tort à Thomas Edison."
       },
       {
         "id": 4,
@@ -97,7 +97,7 @@
           "Polonaise"
         ],
         "réponse": "Autrichienne",
-        "anecdote": "Tesla est né le 10 juillet 1856, à Smiljan, dans les confins militaires de l'Empire d'Autriche, avant-dernier d'une famille de cinq enfants."
+        "anecdote": "Tesla est né le 10 juillet 1856, à Smiljan, dans les confins militaires de l'Empire d'Autriche, avant-dernier d'une famille de cinq enfants."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Huit"
         ],
         "réponse": "Huit",
-        "anecdote": "Tesla parlait le tchèque, l'anglais, le français, l'allemand, le hongrois, l'italien et le latin en plus de sa langue natale, le serbo-croate."
+        "anecdote": "Tesla parlait le tchèque, l'anglais, le français, l'allemand, le hongrois, l'italien et le latin en plus de sa langue natale, le serbo-croate."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Alternatif"
         ],
         "réponse": "Alternatif",
-        "anecdote": "Le courant alternatif (qui peut être abrégé par CA) est un courant électrique périodique qui change de sens deux fois par période."
+        "anecdote": "Le courant alternatif (qui peut être abrégé par CA) est un courant électrique périodique qui change de sens deux fois par période."
       },
       {
         "id": 8,
@@ -145,7 +145,7 @@
           "Radar"
         ],
         "réponse": "Radar",
-        "anecdote": "En 1934, suite à une étude du magnétron, des essais par ondes courtes furent menés par la CSF selon les principes de Tesla."
+        "anecdote": "En 1934, suite à une étude du magnétron, des essais par ondes courtes furent menés par la CSF selon les principes de Tesla."
       },
       {
         "id": 10,
@@ -183,7 +183,7 @@
           "George Westinghouse"
         ],
         "réponse": "George Westinghouse",
-        "anecdote": "George Westinghouse est également reconnu pour ses contributions dans les domaines du chemin de fer et du téléphone."
+        "anecdote": "George Westinghouse est également reconnu pour ses contributions dans les domaines du chemin de fer et du téléphone."
       },
       {
         "id": 13,
@@ -219,7 +219,7 @@
           "Chaise électrique"
         ],
         "réponse": "Chaise électrique",
-        "anecdote": "Thomas Edison embaucha à cet effet Harold P. Brown qui acheta un générateur alternatif pour électrocuter William Kemmler."
+        "anecdote": "Thomas Edison embaucha à cet effet Harold P. Brown qui acheta un générateur alternatif pour électrocuter William Kemmler."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Le Prestige"
         ],
         "réponse": "Le Prestige",
-        "anecdote": "Les scènes présentant la machine de Nikola Tesla furent filmées à l'observatoire du Mont Wilson et d'autres scènes à Colorado Springs."
+        "anecdote": "Les scènes présentant la machine de Nikola Tesla furent filmées à l'observatoire du Mont Wilson et d'autres scènes à Colorado Springs."
       },
       {
         "id": 17,
@@ -267,7 +267,7 @@
           "Son neveu"
         ],
         "réponse": "Son neveu",
-        "anecdote": "Grâce à Sava Kosanovic, son neveu, l'urne et les documents sont aujourd'hui conservés au Musée Nikola Tesla à Belgrade en Serbie."
+        "anecdote": "Grâce à Sava Kosanovic, son neveu, l'urne et les documents sont aujourd'hui conservés au Musée Nikola Tesla à Belgrade en Serbie."
       },
       {
         "id": 20,
@@ -353,7 +353,7 @@
           "432 000 $"
         ],
         "réponse": "216 000 $",
-        "anecdote": "En 1893, la compagnie de Westinghouse à réussi à obtenir le contrat d'installation de toute l'infrastructure électrique des USA."
+        "anecdote": "En 1893, la compagnie de Westinghouse à réussi à obtenir le contrat d'installation de toute l'infrastructure électrique des USA."
       },
       {
         "id": 27,
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quelle médaille scientifique Nikola Tesla a-t-il obtenue en 1934 ?",
+        "question": "Quelle médaille scientifique Nikola Tesla a-t-il obtenue en 1934 ?",
         "propositions": [
           "Roy McKenzie",
           "David Gibbons",
@@ -389,7 +389,7 @@
           "Alfred Welby"
         ],
         "réponse": "John Scott",
-        "anecdote": "Prestigieuse récompense attribuée à des scientifiques depuis 1816, Marconi l'avait obtenue en 1931 et Edison en 1889 et 1929."
+        "anecdote": "Prestigieuse récompense attribuée à des scientifiques depuis 1816, Marconi l'avait obtenue en 1931 et Edison en 1889 et 1929."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Annie Ernaux"
         ],
         "réponse": "Martine Le Coz",
-        "anecdote": "Sa biographie, « L'Homme électrique », revenant sur la voie scientifique de l'homme et un roman graphique, « La Tour de Wardenclyffe »."
+        "anecdote": "Sa biographie, « L'Homme électrique », revenant sur la voie scientifique de l'homme et un roman graphique, « La Tour de Wardenclyffe »."
       }
     ]
     }

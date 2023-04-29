@@ -49,7 +49,7 @@
           "Tom Cruise"
         ],
         "réponse": "Tom Cruise",
-        "anecdote": "Selon le magazine Forbes, Tom Cruise était en 2012 l'acteur le mieux payé d'Hollywood."
+        "anecdote": "Selon le magazine Forbes, Tom Cruise était en 2012 l'acteur le mieux payé d'Hollywood."
       },
       {
         "id": 2,
@@ -73,7 +73,7 @@
           "Julie Taton"
         ],
         "réponse": "Maïtena Biraben",
-        "anecdote": "Amatrice de rugby, Maïtena Biraben publie des chroniques dans l'hebdomadaire sportif « Rugby Hebdo »."
+        "anecdote": "Amatrice de rugby, Maïtena Biraben publie des chroniques dans l'hebdomadaire sportif « Rugby Hebdo »."
       },
       {
         "id": 4,
@@ -85,11 +85,11 @@
           "Christine Boutin"
         ],
         "réponse": "Nadine Morano",
-        "anecdote": "Nicolas Sarkozy demandera le retrait de l'investiture aux élections régionales de Nadine Morano."
+        "anecdote": "Nicolas Sarkozy demandera le retrait de l'investiture aux élections régionales de Nadine Morano."
       },
       {
         "id": 5,
-        "question": "Quel humoriste a déclaré « ne jamais avoir cessé de penser à Sophie Daumier » ?",
+        "question": "Quel humoriste a déclaré « ne jamais avoir cessé de penser à Sophie Daumier » ?",
         "propositions": [
           "Patrick Timsit",
           "Guy Bedos",
@@ -97,7 +97,7 @@
           "Régis Laspalès"
         ],
         "réponse": "Guy Bedos",
-        "anecdote": "Sophie Daumier, comédienne française, est décédée en 2003 à Paris de la maladie de Huntington."
+        "anecdote": "Sophie Daumier, comédienne française, est décédée en 2003 à Paris de la maladie de Huntington."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Stromae"
         ],
         "réponse": "Stromae",
-        "anecdote": "Paul Van Haver, dit Stromae, s'est fait connaître en 2009 avec la chanson « Alors on danse »."
+        "anecdote": "Paul Van Haver, dit Stromae, s'est fait connaître en 2009 avec la chanson « Alors on danse »."
       },
       {
         "id": 7,
@@ -133,7 +133,7 @@
           "Philippe Etchebest"
         ],
         "réponse": "Philippe Etchebest",
-        "anecdote": "Philippe Etchebest n'a aucun lien familial avec le cuisinier et animateur Christian Etchebest."
+        "anecdote": "Philippe Etchebest n'a aucun lien familial avec le cuisinier et animateur Christian Etchebest."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Steve Jobs"
         ],
         "réponse": "Bill Gates",
-        "anecdote": "C'est en 1975 Que Bill Gates fonda avec Paul Allen la société de logiciels Micro-Soft."
+        "anecdote": "C'est en 1975 Que Bill Gates fonda avec Paul Allen la société de logiciels Micro-Soft."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Morgan Saylor"
         ],
         "réponse": "Claire Danes",
-        "anecdote": "Claire Danes est mariée à l'acteur Hugh Dancy et maman d'un petit Cyrus Michael Christopher Dancy."
+        "anecdote": "Claire Danes est mariée à l'acteur Hugh Dancy et maman d'un petit Cyrus Michael Christopher Dancy."
       }
     ],
     "confirmé": [
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quelle bimbo a déclaré : « J'ai déjà secouru quelques hommes dans la douche » ?",
+        "question": "Quelle bimbo a déclaré : « J'ai déjà secouru quelques hommes dans la douche » ?",
         "propositions": [
           "Claire Sinclair ",
           "Katie Vernola",
@@ -195,7 +195,7 @@
           "Pamela Anderson"
         ],
         "réponse": "Pamela Anderson",
-        "anecdote": "Elle fut aussi connue sous le nom de Pamela Anderson Lee à la suite de son mariage avec Tommy Lee."
+        "anecdote": "Elle fut aussi connue sous le nom de Pamela Anderson Lee à la suite de son mariage avec Tommy Lee."
       },
       {
         "id": 14,
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Qui a été élue « femme de l'année 2015 » par la magazine américain « Billboard » ?",
+        "question": "Qui a été élue « femme de l'année 2015 » par la magazine américain « Billboard » ?",
         "propositions": [
           "Gwen Stefani",
           "Amanda Seyfried",
@@ -231,7 +231,7 @@
           "Bénabar"
         ],
         "réponse": "Bénabar",
-        "anecdote": "La musique de Bénabar, plutôt simple, contient une forte présence de cuivres façon fanfare."
+        "anecdote": "La musique de Bénabar, plutôt simple, contient une forte présence de cuivres façon fanfare."
       },
       {
         "id": 17,
@@ -255,7 +255,7 @@
           "Audrey Lamy"
         ],
         "réponse": "Axelle Laffont",
-        "anecdote": "Axelle est la petite-fille de l'éditeur Robert Laffont et la fille de Patrice Laffont, animateur de télévision."
+        "anecdote": "Axelle est la petite-fille de l'éditeur Robert Laffont et la fille de Patrice Laffont, animateur de télévision."
       },
       {
         "id": 19,
@@ -267,11 +267,11 @@
           "Juliette Binoche"
         ],
         "réponse": "Carole Bouquet",
-        "anecdote": "Carole Bouquet a remporté le César de la meilleure actrice pour son rôle dans « Trop belle pour toi »."
+        "anecdote": "Carole Bouquet a remporté le César de la meilleure actrice pour son rôle dans « Trop belle pour toi »."
       },
       {
         "id": 20,
-        "question": "Qui a déclaré : « Claire Chazal aurait pu continuer avec un dentier et une perruque » ?",
+        "question": "Qui a déclaré : « Claire Chazal aurait pu continuer avec un dentier et une perruque » ?",
         "propositions": [
           "Gérard Holtz",
           "David Pujadas",
@@ -279,7 +279,7 @@
           "Patrick Chêne"
         ],
         "réponse": "Bruno Masure",
-        "anecdote": "Bruno Masure a été le présentateur du journal de 20 heures de TF1 puis de France 2."
+        "anecdote": "Bruno Masure a été le présentateur du journal de 20 heures de TF1 puis de France 2."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Cathriona White"
         ],
         "réponse": "Cathriona White",
-        "anecdote": "Cathriona White aurait twitté : « e quitte Twitter. J'espère avoir été une lumière pour mes proches. »."
+        "anecdote": "Cathriona White aurait twitté : « e quitte Twitter. J'espère avoir été une lumière pour mes proches. »."
       },
       {
         "id": 22,
@@ -317,7 +317,7 @@
           "Claudia Schiffer"
         ],
         "réponse": "Cindy Crawford",
-        "anecdote": "Cindy Crawford fait partie de la grande vague des mannequins,les Supermodels, stars des années 1990."
+        "anecdote": "Cindy Crawford fait partie de la grande vague des mannequins,les Supermodels, stars des années 1990."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "Eva Longoria"
         ],
         "réponse": "Amanda Seyfried",
-        "anecdote": "Amanda Seyfried déclare souffrir de troubles anxieux et d'attaques de panique."
+        "anecdote": "Amanda Seyfried déclare souffrir de troubles anxieux et d'attaques de panique."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Bobby V"
         ],
         "réponse": "Chris Brown",
-        "anecdote": "La chaîne YouTube de Chris Brown est l'une des plus regardées dans le monde."
+        "anecdote": "La chaîne YouTube de Chris Brown est l'une des plus regardées dans le monde."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Jack Nicholson"
         ],
         "réponse": "Tom Hanks",
-        "anecdote": "Tom Hanks a connu la consécration avec « Philadelphia » et « Forrest Gump », qui lui valurent chacun un Oscar."
+        "anecdote": "Tom Hanks a connu la consécration avec « Philadelphia » et « Forrest Gump », qui lui valurent chacun un Oscar."
       },
       {
         "id": 27,
@@ -389,7 +389,7 @@
           "Mary Juanna"
         ],
         "réponse": "Merryjane",
-        "anecdote": "Fumeur de marijuana compulsif, il s'est également surnommé « Snoop Lion » en 2012."
+        "anecdote": "Fumeur de marijuana compulsif, il s'est également surnommé « Snoop Lion » en 2012."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Lenny Kravitz"
         ],
         "réponse": "Bono",
-        "anecdote": "Née en 1991, cette actrice irlandaise a tenu son premier rôle majeur dans « This Must Be the Place »."
+        "anecdote": "Née en 1991, cette actrice irlandaise a tenu son premier rôle majeur dans « This Must Be the Place »."
       }
     ]
     }

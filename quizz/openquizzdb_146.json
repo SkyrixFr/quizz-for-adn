@@ -49,7 +49,7 @@
           "Peter Dinklage"
         ],
         "réponse": "Peter Dinklage",
-        "anecdote": "Très engagé, il devient en 2012 le porte-parole de « Walk for Farm Animals », un événement de défense des animaux de ferme."
+        "anecdote": "Très engagé, il devient en 2012 le porte-parole de « Walk for Farm Animals », un événement de défense des animaux de ferme."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Slimane"
         ],
         "réponse": "Kendji Girac",
-        "anecdote": "Kendji Girac s'est fait connaître sur Internet en août 2013 avec une reprise de « Bella » de Maître Gims, dans un style gipsy."
+        "anecdote": "Kendji Girac s'est fait connaître sur Internet en août 2013 avec une reprise de « Bella » de Maître Gims, dans un style gipsy."
       },
       {
         "id": 3,
@@ -85,7 +85,7 @@
           "Pixie Lott"
         ],
         "réponse": "Katy Perry",
-        "anecdote": "Katy Perry est la seule artiste à être restée plus de 52 semaines consécutives dans le top 10 du « Billboard Hot 100 »."
+        "anecdote": "Katy Perry est la seule artiste à être restée plus de 52 semaines consécutives dans le top 10 du « Billboard Hot 100 »."
       },
       {
         "id": 5,
@@ -121,7 +121,7 @@
           "Gary Numan"
         ],
         "réponse": "Chris Martin",
-        "anecdote": "Chris Martin souffre d'acouphènes depuis une décennie suite à une écoute trop forte de la musique lorsqu'il était plus jeune."
+        "anecdote": "Chris Martin souffre d'acouphènes depuis une décennie suite à une écoute trop forte de la musique lorsqu'il était plus jeune."
       },
       {
         "id": 8,
@@ -145,7 +145,7 @@
           "Anggun"
         ],
         "réponse": "Alma",
-        "anecdote": "Alma succède ainsi à Amir, classé 6e à l'Eurovision 2016 et pour qui elle a assuré plusieurs premières parties de concerts en 2016."
+        "anecdote": "Alma succède ainsi à Amir, classé 6e à l'Eurovision 2016 et pour qui elle a assuré plusieurs premières parties de concerts en 2016."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Emma Watson"
         ],
         "réponse": "Emma Watson",
-        "anecdote": "« Ainsi, ils peuvent voir ce que je porte et avec qui je suis. Je ne peux pas donner ce moyen de me suivre. »"
+        "anecdote": "« Ainsi, ils peuvent voir ce que je porte et avec qui je suis. Je ne peux pas donner ce moyen de me suivre. »"
       }
     ],
     "confirmé": [
@@ -171,7 +171,7 @@
           "Katarina Patchett"
         ],
         "réponse": "Katarina Patchett",
-        "anecdote": "Pour réinventer sa ligne de soutiens-gorge de sport, Triumph s'est en effet associé à la danseuse australienne Katarina Patchett."
+        "anecdote": "Pour réinventer sa ligne de soutiens-gorge de sport, Triumph s'est en effet associé à la danseuse australienne Katarina Patchett."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Kathleen Robertson"
         ],
         "réponse": "Tori Spelling",
-        "anecdote": "Tori Spelling est connue pour être la fille d'Aaron Spelling et pour avoir joué dans la série « Beverly Hills 90210 » entre 1990 à 2000."
+        "anecdote": "Tori Spelling est connue pour être la fille d'Aaron Spelling et pour avoir joué dans la série « Beverly Hills 90210 » entre 1990 à 2000."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Olivier Minne"
         ],
         "réponse": "Olivier Minne",
-        "anecdote": "Depuis 2002, Olivier Minne passe la moitié de l'année à Los Angeles et a dans ce cadre obtenu une green card en 2010."
+        "anecdote": "Depuis 2002, Olivier Minne passe la moitié de l'année à Los Angeles et a dans ce cadre obtenu une green card en 2010."
       },
       {
         "id": 14,
@@ -219,7 +219,7 @@
           "Cinq"
         ],
         "réponse": "Six",
-        "anecdote": "Jean-Jacques Goldman écrit et compose pour de nombreux autres artistes, parmi lesquels Céline Dion et Johnny Hallyday."
+        "anecdote": "Jean-Jacques Goldman écrit et compose pour de nombreux autres artistes, parmi lesquels Céline Dion et Johnny Hallyday."
       },
       {
         "id": 16,
@@ -255,7 +255,7 @@
           "Bryan Adams"
         ],
         "réponse": "Boy George",
-        "anecdote": "Né George Alan O'Dowd, Boy George est classé à de nombreuses reprises au classement des 100 meilleurs DJ établi par le « DJ Mag »."
+        "anecdote": "Né George Alan O'Dowd, Boy George est classé à de nombreuses reprises au classement des 100 meilleurs DJ établi par le « DJ Mag »."
       },
       {
         "id": 19,
@@ -279,13 +279,13 @@
           "Laurent Cabrol"
         ],
         "réponse": "Frédéric Taddéi",
-        "anecdote": "Depuis fin septembre 2010, Frédéric Taddeï tient chaque mois « ses carnets de voyageur moderne » dans Le Figaro magazine."
+        "anecdote": "Depuis fin septembre 2010, Frédéric Taddeï tient chaque mois « ses carnets de voyageur moderne » dans Le Figaro magazine."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quelle « héroïne transgenre » vit avec Frédéric Taddeï depuis presque 25 ans ?",
+        "question": "Quelle « héroïne transgenre » vit avec Frédéric Taddeï depuis presque 25 ans ?",
         "propositions": [
           "Claire Nadeau",
           "Claire Nebout",
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "Quel ministre français en fonction s'est fait tatouer un dragon sur l'épaule ?",
+        "question": "Quel ministre français en fonction s'est fait tatouer un dragon sur l'épaule ?",
         "propositions": [
           "Stéphane Le Foll",
           "Michel Sapin",
@@ -341,7 +341,7 @@
           "Claude Brasseur"
         ],
         "réponse": "Gérard Depardieu",
-        "anecdote": "Le dessinateur Mathieu Sapin, qui avait raconté la vie de François Hollande, s'est spécialisé dans la BD de reportage."
+        "anecdote": "Le dessinateur Mathieu Sapin, qui avait raconté la vie de François Hollande, s'est spécialisé dans la BD de reportage."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Julianne Moore"
         ],
         "réponse": "Kristen Stewart",
-        "anecdote": "En 2015, Kristen Stewart devient la première américaine à être nommée aux César et la première à en recevoir un."
+        "anecdote": "En 2015, Kristen Stewart devient la première américaine à être nommée aux César et la première à en recevoir un."
       },
       {
         "id": 27,
@@ -377,7 +377,7 @@
           "Zaven Aslanian"
         ],
         "réponse": "Zaven Aslanian",
-        "anecdote": "« Je l'ai rencontrée au Nouvel An et après on a passé 2/3 jours ensemble. J'ai beaucoup d'amis grâce au milieu de la nuit. »."
+        "anecdote": "« Je l'ai rencontrée au Nouvel An et après on a passé 2/3 jours ensemble. J'ai beaucoup d'amis grâce au milieu de la nuit. »."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Jessica Errero"
         ],
         "réponse": "Jessica Errero",
-        "anecdote": "« Les Marseillais » est une télé-réalité française diffusée en avant-soirée sur W9 depuis le 19 novembre 2012."
+        "anecdote": "« Les Marseillais » est une télé-réalité française diffusée en avant-soirée sur W9 depuis le 19 novembre 2012."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Tyra Banks"
         ],
         "réponse": "Adriana Lima",
-        "anecdote": "Depuis 2005, Adriana Lima est classée parmi les 20 mannequins les mieux payés au monde selon le magazine Forbes."
+        "anecdote": "Depuis 2005, Adriana Lima est classée parmi les 20 mannequins les mieux payés au monde selon le magazine Forbes."
       }
     ]
     }

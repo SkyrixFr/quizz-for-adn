@@ -287,12 +287,12 @@
         "id": 21,
         "question": "Quel pourcentage les chats de race représentent-ils parmi la population totale ?",
         "propositions": [
-          "5 %",
-          "25 %",
-          "15 %",
-          "35 %"
+          "5 %",
+          "25 %",
+          "15 %",
+          "35 %"
         ],
-        "réponse": "5 %",
+        "réponse": "5 %",
         "anecdote": "Si votre animal est un chat de race, il doit posséder un pedigree ou avoir fait l'objet d'une demande spécifique."
       },
       {
@@ -345,7 +345,7 @@
       },
       {
         "id": 26,
-        "question": "À quel gène de l'absence de pigment dans le poil est lié la surdité des chats blancs ?",
+        "question": "À quel gène de l'absence de pigment dans le poil est lié la surdité des chats blancs ?",
         "propositions": [
           "Gène W",
           "Gène Z",

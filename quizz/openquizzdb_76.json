@@ -49,7 +49,7 @@
           "New York"
         ],
         "réponse": "Rio de Janeiro",
-        "anecdote": "Comme dans la saison précédente, les Anges ont eu pour but de récolter dix mille euros pour l'association « Un Rêve, Un Sourire »."
+        "anecdote": "Comme dans la saison précédente, les Anges ont eu pour but de récolter dix mille euros pour l'association « Un Rêve, Un Sourire »."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Paul Atkinson"
         ],
         "réponse": "Pete Doherty",
-        "anecdote": "Pendant la période Libertines, le genre dominant de ses albums fut le punk rock et le garage rock."
+        "anecdote": "Pendant la période Libertines, le genre dominant de ses albums fut le punk rock et le garage rock."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Zoe Saldana"
         ],
         "réponse": "Angelina Jolie",
-        "anecdote": "Angelina Jolie est réputée pour son travail en faveur des réfugiés avec le Haut Commissariat des Nations unies pour les réfugiés."
+        "anecdote": "Angelina Jolie est réputée pour son travail en faveur des réfugiés avec le Haut Commissariat des Nations unies pour les réfugiés."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Olivier Baroux"
         ],
         "réponse": "Albert Dupontel",
-        "anecdote": "C'est grâce à l'émission télévisée « Sébastien c'est fou » qu'Albert Dupontel accédera à la reconnaissance du grand public."
+        "anecdote": "C'est grâce à l'émission télévisée « Sébastien c'est fou » qu'Albert Dupontel accédera à la reconnaissance du grand public."
       },
       {
         "id": 5,
@@ -121,11 +121,11 @@
           "Jérôme Bonaldi"
         ],
         "réponse": "Stéphane Bern",
-        "anecdote": "Stéphane Bern est un spécialiste des familles royales et régnantes en Europe."
+        "anecdote": "Stéphane Bern est un spécialiste des familles royales et régnantes en Europe."
       },
       {
         "id": 8,
-        "question": "Qui a été désignée début 2015 comme étant « la working girl la plus sexy de France » ?",
+        "question": "Qui a été désignée début 2015 comme étant « la working girl la plus sexy de France » ?",
         "propositions": [
           "Pamela Anderson",
           "Lucy Lee",
@@ -145,7 +145,7 @@
           "Nolwenn Leroy"
         ],
         "réponse": "Alizée",
-        "anecdote": "Depuis 2001, Alizée intègre la troupe des Enfoirés de l'association caritative des « Restos du coeur »."
+        "anecdote": "Depuis 2001, Alizée intègre la troupe des Enfoirés de l'association caritative des « Restos du coeur »."
       },
       {
         "id": 10,
@@ -163,7 +163,7 @@
     "confirmé": [
       {
         "id": 11,
-        "question": "Qui Dorothée et Corbier ont-ils pleuré en janvier 2015 suite au décès de leur ami ?",
+        "question": "Qui Dorothée et Corbier ont-ils pleuré en janvier 2015 suite au décès de leur ami ?",
         "propositions": [
           "Cerisier",
           "Pommier",
@@ -171,11 +171,11 @@
           "Poirier"
         ],
         "réponse": "Framboisier",
-        "anecdote": "Framboisier était membre du groupe musical Les Musclés qui accompagnait l'émission « Le Club Dorothée » sur TF1."
+        "anecdote": "Framboisier était membre du groupe musical Les Musclés qui accompagnait l'émission « Le Club Dorothée » sur TF1."
       },
       {
         "id": 12,
-        "question": "Qui a dit de Lorie : « J'attends que celle qui chante fasse un album qui fonctionne » ?",
+        "question": "Qui a dit de Lorie : « J'attends que celle qui chante fasse un album qui fonctionne » ?",
         "propositions": [
           "Sheryfa Luna",
           "Jenifer",
@@ -195,7 +195,7 @@
           " Baptiste Giabiconi"
         ],
         "réponse": "M. Pokora",
-        "anecdote": "En 2013, M. Pokora lancait sa ligne de vêtements et d'accessoires « Oôra by M.Pokora », qui s'adresse aux femmes."
+        "anecdote": "En 2013, M. Pokora lancait sa ligne de vêtements et d'accessoires « Oôra by M.Pokora », qui s'adresse aux femmes."
       },
       {
         "id": 14,
@@ -219,11 +219,11 @@
           "Mister National"
         ],
         "réponse": "Mister France",
-        "anecdote": "Mister France est revenu en 2015 avec comme devise « L'homme change, Mister France aussi »."
+        "anecdote": "Mister France est revenu en 2015 avec comme devise « L'homme change, Mister France aussi »."
       },
       {
         "id": 16,
-        "question": "Qui a dit au festival de l'Alpe d'Huez 2015 : « Il faut que le rire nous rassemble » ?",
+        "question": "Qui a dit au festival de l'Alpe d'Huez 2015 : « Il faut que le rire nous rassemble » ?",
         "propositions": [
           "Gad Elmaleh",
           "Didier Bourdon",
@@ -231,7 +231,7 @@
           "Franck Dubosc"
         ],
         "réponse": "Gad Elmaleh",
-        "anecdote": "Gad Elmaleh est devenu la « risée du web » suite à ses spots publicitaires pour la banque LCL."
+        "anecdote": "Gad Elmaleh est devenu la « risée du web » suite à ses spots publicitaires pour la banque LCL."
       },
       {
         "id": 17,
@@ -243,7 +243,7 @@
           "Neymar"
         ],
         "réponse": "Ronaldo",
-        "anecdote": "Dès ses premiers matchs avec le FC Barcelone, une « ronaldomania » s'est très vite constituée."
+        "anecdote": "Dès ses premiers matchs avec le FC Barcelone, une « ronaldomania » s'est très vite constituée."
       },
       {
         "id": 18,
@@ -255,7 +255,7 @@
           "Camille Chamoux"
         ],
         "réponse": "Lolita Chammah",
-        "anecdote": "En 2010, dans le film « Copacabana », Isabelle Huppert et Lolita Chammah interprètent les rôles principaux de mère et fille."
+        "anecdote": "En 2010, dans le film « Copacabana », Isabelle Huppert et Lolita Chammah interprètent les rôles principaux de mère et fille."
       },
       {
         "id": 19,
@@ -267,7 +267,7 @@
           "The Times"
         ],
         "réponse": "The Sun",
-        "anecdote": "« The Sun » est un journal britannique de type tabloïd, le quotidien de langue anglaise le plus vendu au monde."
+        "anecdote": "« The Sun » est un journal britannique de type tabloïd, le quotidien de langue anglaise le plus vendu au monde."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Cressida Bonas"
         ],
         "réponse": "Cressida Bonas",
-        "anecdote": "« Tulip Fever » est un film d'amour britannico-américain réalisé par Justin Chadwick dont la sortie était prévue en 2004."
+        "anecdote": "« Tulip Fever » est un film d'amour britannico-américain réalisé par Justin Chadwick dont la sortie était prévue en 2004."
       }
     ],
     "expert": [
@@ -305,7 +305,7 @@
           "Patrick Timsit"
         ],
         "réponse": "Patrick Timsit",
-        "anecdote": "Patrick Timsit se fit remarquer au début des années 1990 par son ton corrosif dans ses sketchs et dans ses passages télés."
+        "anecdote": "Patrick Timsit se fit remarquer au début des années 1990 par son ton corrosif dans ses sketchs et dans ses passages télés."
       },
       {
         "id": 23,
@@ -317,7 +317,7 @@
           "Michelle Fairley"
         ],
         "réponse": "Maisie Williams",
-        "anecdote": "Maisie Williams joue le rôle d'Arya Stark dans la série télévisée « Game of Thrones »."
+        "anecdote": "Maisie Williams joue le rôle d'Arya Stark dans la série télévisée « Game of Thrones »."
       },
       {
         "id": 24,
@@ -353,7 +353,7 @@
           "Louis Bertignac"
         ],
         "réponse": "Louis Bertignac",
-        "anecdote": "Louis Bertignac a fréquenté Carla Bruni quelques temps dans les années 80."
+        "anecdote": "Louis Bertignac a fréquenté Carla Bruni quelques temps dans les années 80."
       },
       {
         "id": 27,
@@ -365,11 +365,11 @@
           "Hilary Swank"
         ],
         "réponse": "Sandra Bullock",
-        "anecdote": "Sandra Bullock a été élue « plus belle femme du monde » par le magazine américain « People » en avril 2015."
+        "anecdote": "Sandra Bullock a été élue « plus belle femme du monde » par le magazine américain « People » en avril 2015."
       },
       {
         "id": 28,
-        "question": "Quelle actrice a déclaré en janvier 2015 : « Se laver tous les jours c'est un truc de blanc » ?",
+        "question": "Quelle actrice a déclaré en janvier 2015 : « Se laver tous les jours c'est un truc de blanc » ?",
         "propositions": [
           "Naya Rivera",
           "Dianna Agron",
@@ -377,7 +377,7 @@
           "Jane Lynch"
         ],
         "réponse": "Naya Rivera",
-        "anecdote": "Naya Rivera est notamment connue pour son rôle de Santana Lopez dans la série télévisée « Glee »."
+        "anecdote": "Naya Rivera est notamment connue pour son rôle de Santana Lopez dans la série télévisée « Glee »."
       },
       {
         "id": 29,

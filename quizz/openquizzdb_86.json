@@ -61,7 +61,7 @@
           "À la Révolution"
         ],
         "réponse": "À la Révolution",
-        "anecdote": "Le musée du Louvre a pris naissance sous Louis XV mais n'aboutira véritablement qu'avec la Révolution."
+        "anecdote": "Le musée du Louvre a pris naissance sous Louis XV mais n'aboutira véritablement qu'avec la Révolution."
       },
       {
         "id": 3,
@@ -85,7 +85,7 @@
           "Archéologue"
         ],
         "réponse": "Conservateur",
-        "anecdote": "Considéré comme le père de l'égyptologie, Champollion fut le premier à déchiffrer les hiéroglyphes."
+        "anecdote": "Considéré comme le père de l'égyptologie, Champollion fut le premier à déchiffrer les hiéroglyphes."
       },
       {
         "id": 5,
@@ -97,7 +97,7 @@
           "En ferme"
         ],
         "réponse": "En forteresse",
-        "anecdote": "C'est en voulant renforcer la défense de Paris que Philippe Auguste entreprît de faire construire une enceinte."
+        "anecdote": "C'est en voulant renforcer la défense de Paris que Philippe Auguste entreprît de faire construire une enceinte."
       },
       {
         "id": 6,
@@ -121,7 +121,7 @@
           "Verre"
         ],
         "réponse": "Verre",
-        "anecdote": "La Pyramide du Louvre est située au milieu de la cour Napoléon du musée du Louvre à Paris."
+        "anecdote": "La Pyramide du Louvre est située au milieu de la cour Napoléon du musée du Louvre à Paris."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "673"
         ],
         "réponse": "673",
-        "anecdote": "Commandée par François Mitterrand en 1983, la pyramide a été conçue par l'architecte sino-américain Ieoh Ming Pei."
+        "anecdote": "Commandée par François Mitterrand en 1983, la pyramide a été conçue par l'architecte sino-américain Ieoh Ming Pei."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Des momies"
         ],
         "réponse": "Des sculptures",
-        "anecdote": "À ses débuts, le musée n'exposait que des sculptures antiques, à l'exception de deux statues de Michel-Ange."
+        "anecdote": "À ses débuts, le musée n'exposait que des sculptures antiques, à l'exception de deux statues de Michel-Ange."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Photographier"
         ],
         "réponse": "Nager",
-        "anecdote": "Le carrousel du Louvre, géré par la société Viparis, fait référence à la place du Carrousel toute proche."
+        "anecdote": "Le carrousel du Louvre, géré par la société Viparis, fait référence à la place du Carrousel toute proche."
       }
     ],
     "confirmé": [
@@ -171,7 +171,7 @@
           "Le Lorrain"
         ],
         "réponse": "Le Lorrain",
-        "anecdote": "Claude Gellée, dit le Lorrain, est un peintre lorrain, figure emblématique du paysage de style classique."
+        "anecdote": "Claude Gellée, dit le Lorrain, est un peintre lorrain, figure emblématique du paysage de style classique."
       },
       {
         "id": 12,
@@ -195,7 +195,7 @@
           "Renaissance"
         ],
         "réponse": "Arts décoratifs",
-        "anecdote": "Les Arts décoratifs sont nés de l'école royale gratuite de dessin créée en 1766 par Jean-Jacques Bachelier."
+        "anecdote": "Les Arts décoratifs sont nés de l'école royale gratuite de dessin créée en 1766 par Jean-Jacques Bachelier."
       },
       {
         "id": 14,
@@ -207,7 +207,7 @@
           "16"
         ],
         "réponse": "5",
-        "anecdote": "Léonard de Vinci est souvent décrit comme l'archétype et le symbole de l'homme de la Renaissance."
+        "anecdote": "Léonard de Vinci est souvent décrit comme l'archétype et le symbole de l'homme de la Renaissance."
       },
       {
         "id": 15,
@@ -231,7 +231,7 @@
           "Le Salon"
         ],
         "réponse": "Le Salon",
-        "anecdote": "La manifestation, orthographiée initialement « Sallon », fut organisée par l'Académie à partir de 1737."
+        "anecdote": "La manifestation, orthographiée initialement « Sallon », fut organisée par l'Académie à partir de 1737."
       },
       {
         "id": 17,
@@ -243,7 +243,7 @@
           "Des sculptures"
         ],
         "réponse": "Des sculptures",
-        "anecdote": "Le passage Richelieu est ouvert jusqu'à 18h30 les soirs de nocturne, 17h30 les autres jours."
+        "anecdote": "Le passage Richelieu est ouvert jusqu'à 18h30 les soirs de nocturne, 17h30 les autres jours."
       },
       {
         "id": 18,
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Quelle est l'origine de la présence au Louvre des « Noces de Cana » de Véronèse ?",
+        "question": "Quelle est l'origine de la présence au Louvre des « Noces de Cana » de Véronèse ?",
         "propositions": [
           "Un oubli",
           "Un cadeau",
@@ -293,7 +293,7 @@
           "Un pillage"
         ],
         "réponse": "Un pillage",
-        "anecdote": "Les « Noces de Cana » est actuellement exposé au musée du Louvre, faisant face à la Joconde de Léonard de Vinci."
+        "anecdote": "Les « Noces de Cana » est actuellement exposé au musée du Louvre, faisant face à la Joconde de Léonard de Vinci."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "1940"
         ],
         "réponse": "1848",
-        "anecdote": "Avec ses 460 000 oeuvres, le Louvre présente l'art occidental du Moyen Âge à 1848."
+        "anecdote": "Avec ses 460 000 oeuvres, le Louvre présente l'art occidental du Moyen Âge à 1848."
       },
       {
         "id": 23,
@@ -329,7 +329,7 @@
           "St Titien"
         ],
         "réponse": "St Germain",
-        "anecdote": "La majeure partie du quartier Saint-Germain-l'Auxerrois est occupée par le palais du Louvre et les jardins des Tuileries."
+        "anecdote": "La majeure partie du quartier Saint-Germain-l'Auxerrois est occupée par le palais du Louvre et les jardins des Tuileries."
       },
       {
         "id": 25,
@@ -365,7 +365,7 @@
           "Saint Sébastien"
         ],
         "réponse": "Saint Sébastien",
-        "anecdote": "Lors de son long séjour à Mantoue, Mantegna résidait près de l'église dédiée à saint Sébastien."
+        "anecdote": "Lors de son long séjour à Mantoue, Mantegna résidait près de l'église dédiée à saint Sébastien."
       },
       {
         "id": 28,
@@ -401,7 +401,7 @@
           "Étrusque"
         ],
         "réponse": "Byzantine",
-        "anecdote": "« L'ivoire Barberini » est un feuillet d'ivoire composé de quatre plaques sculptées dans le style classicisant dit théodosien tardif."
+        "anecdote": "« L'ivoire Barberini » est un feuillet d'ivoire composé de quatre plaques sculptées dans le style classicisant dit théodosien tardif."
       }
     ]
     }

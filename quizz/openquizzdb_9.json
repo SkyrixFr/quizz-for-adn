@@ -139,12 +139,12 @@
         "id": 9,
         "question": "Quel fromage est présenté sous forme de cylindre de 5 cm de haut ?",
         "propositions": [
-          "Le petit-suisse ",
-          "Le saint-marcellin",
-          "Le coulommiers ",
+          "Le petit-suisse ",
+          "Le saint-marcellin",
+          "Le coulommiers ",
           "Le maroilles"
         ],
-        "réponse": "Le petit-suisse ",
+        "réponse": "Le petit-suisse ",
         "anecdote": "Le petit-suisse sert également à farcir les viandes (volaille) ou à les recouvrir (lapin)."
       },
       {
@@ -163,7 +163,7 @@
     "confirmé": [
       {
         "id": 11,
-        "question": "Quel fromage français a été surnommé le Prince des gruyères par Brillat-Savarin ?",
+        "question": "Quel fromage français a été surnommé le Prince des gruyères par Brillat-Savarin ?",
         "propositions": [
           "Le brie",
           "Le munster",
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quel fromage français est aussi appelé boule de Lille de par sa forme ?",
+        "question": "Quel fromage français est aussi appelé boule de Lille de par sa forme ?",
         "propositions": [
           "La rigotte",
           "La Mimolette vieille",
@@ -259,14 +259,14 @@
       },
       {
         "id": 19,
-        "question": "Quel fromage français du Dauphiné est un proche cousin du saint-félicien ?",
+        "question": "Quel fromage français du Dauphiné est un proche cousin du saint-félicien ?",
         "propositions": [
-          "Le saint-marcellin",
+          "Le saint-marcellin",
           "Le saint-paulin",
           "Le saint-siméon",
           "Le saint-julien"
         ],
-        "réponse": "Le saint-marcellin",
+        "réponse": "Le saint-marcellin",
         "anecdote": "Ce petit fromage à base de lait de vache est réalisé avec le lait provenant de 274 communes."
       },
       {
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quel fromage triple-crème est produit dans les régions de Normandie et de Bourgogne ?",
+        "question": "Quel fromage triple-crème est produit dans les régions de Normandie et de Bourgogne ?",
         "propositions": [
           "Mélusine",
           "Gaperon",
@@ -311,12 +311,12 @@
         "id": 23,
         "question": "Quel fromage français actuel est parfois aussi appelé brie petit moule ?",
         "propositions": [
-          "Le coulommiers",
+          "Le coulommiers",
           "Le chevrotin",
           "Le charolais",
           "Le civray"
         ],
-        "réponse": "Le coulommiers",
+        "réponse": "Le coulommiers",
         "anecdote": "En gastronomie, le coulommiers est utilisé pour la préparation de la « crème de Coulommiers »."
       },
       {
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Quel fromage de lait de vache se nomme géromé en Lorraine ?",
+        "question": "Quel fromage de lait de vache se nomme géromé en Lorraine ?",
         "propositions": [
           "Le trou du Cru",
           "Le savaron",

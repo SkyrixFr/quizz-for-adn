@@ -61,7 +61,7 @@
           "Cheval de Thor"
         ],
         "réponse": "Cheval de Troie",
-        "anecdote": "L'expression « cheval de Troie » désigne aujourd'hui les dons qui s'avèrent être des pièges pour ceux qui les reçoivent."
+        "anecdote": "L'expression « cheval de Troie » désigne aujourd'hui les dons qui s'avèrent être des pièges pour ceux qui les reçoivent."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Jolly Jumper"
         ],
         "réponse": "Jolly Jumper",
-        "anecdote": "Par certains côtés, notamment son intelligence, son caractère et sa couleur de robe, Jolly Jumper ressemble à Milou, le chien de Tintin."
+        "anecdote": "Par certains côtés, notamment son intelligence, son caractère et sa couleur de robe, Jolly Jumper ressemble à Milou, le chien de Tintin."
       },
       {
         "id": 4,
@@ -97,7 +97,7 @@
           "Un mois"
         ],
         "réponse": "Immédiatement",
-        "anecdote": "Cette particularité est héritée de leurs ancêtres les chevaux sauvages étant effectivement la proie de nombreux prédateurs."
+        "anecdote": "Cette particularité est héritée de leurs ancêtres les chevaux sauvages étant effectivement la proie de nombreux prédateurs."
       },
       {
         "id": 6,
@@ -121,7 +121,7 @@
           "Etriers"
         ],
         "réponse": "Etriers",
-        "anecdote": "L'étrier serait une invention chinoise, alors que pour d'autres, il viendrait des peuples nomades d'Asie centrale ou de Sibérie."
+        "anecdote": "L'étrier serait une invention chinoise, alors que pour d'autres, il viendrait des peuples nomades d'Asie centrale ou de Sibérie."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "Lamborghini"
         ],
         "réponse": "Ferrari",
-        "anecdote": "Dès 1947, le logo initial, dit Scudetto, est réservé aux modèles préparés par la Scuderia Ferrari, l'écurie de compétition."
+        "anecdote": "Dès 1947, le logo initial, dit Scudetto, est réservé aux modèles préparés par la Scuderia Ferrari, l'écurie de compétition."
       },
       {
         "id": 9,
@@ -157,7 +157,7 @@
           "Pégase"
         ],
         "réponse": "Pégase",
-        "anecdote": "Pégase est monté au ciel après sa naissance pour se mettre au service de Zeus qui le chargera d'apporter les éclairs sur l'Olympe."
+        "anecdote": "Pégase est monté au ciel après sa naissance pour se mettre au service de Zeus qui le chargera d'apporter les éclairs sur l'Olympe."
       }
     ],
     "confirmé": [
@@ -183,7 +183,7 @@
           "30 litres"
         ],
         "réponse": "40 litres",
-        "anecdote": "Le cheval possède un sens développé de l'odorat lui permettant de trouver de l'eau et de détecter une femelle en chaleur."
+        "anecdote": "Le cheval possède un sens développé de l'odorat lui permettant de trouver de l'eau et de détecter une femelle en chaleur."
       },
       {
         "id": 13,
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Combien le poulain nouveau-né d'un cheval ordinaire pèse-t-il environ ?",
+        "question": "Combien le poulain nouveau-né d'un cheval ordinaire pèse-t-il environ ?",
         "propositions": [
           "60 kg",
           "45 kg",
@@ -219,7 +219,7 @@
           "15 kg"
         ],
         "réponse": "45 kg",
-        "anecdote": "À l'état domestique, le poulain reste avec sa mère jusqu'au sevrage, généralement à l'âge de six mois, après quoi l'éleveur les sépare."
+        "anecdote": "À l'état domestique, le poulain reste avec sa mère jusqu'au sevrage, généralement à l'âge de six mois, après quoi l'éleveur les sépare."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Pour se gratter"
         ],
         "réponse": "Pour se gratter",
-        "anecdote": "À l'état sauvage ou domestique, le cheval peut-être affecté par des parasites et des maladies telles que le tétanos ou la rage."
+        "anecdote": "À l'état sauvage ou domestique, le cheval peut-être affecté par des parasites et des maladies telles que le tétanos ou la rage."
       },
       {
         "id": 17,
@@ -243,7 +243,7 @@
           "Jambes"
         ],
         "réponse": "Dents",
-        "anecdote": "Les dents du cheval poussant en permanence, le mouvement masticatoire n'est souvent pas suffisant pour user la table dentaire."
+        "anecdote": "Les dents du cheval poussant en permanence, le mouvement masticatoire n'est souvent pas suffisant pour user la table dentaire."
       },
       {
         "id": 18,
@@ -267,7 +267,7 @@
           "Être rare"
         ],
         "réponse": "Être rare",
-        "anecdote": "À l'origine, au XVIIe siècle, l'expression contenait dans le pas d'un cheval, le pas voulant signifier le mot trace."
+        "anecdote": "À l'origine, au XVIIe siècle, l'expression contenait dans le pas d'un cheval, le pas voulant signifier le mot trace."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Trois"
         ],
         "réponse": "Un seul",
-        "anecdote": "Le cheval est un périssodactyle, ordre de mammifères ongulés, à nombre impair de doigts, en l'occurrence un seul."
+        "anecdote": "Le cheval est un périssodactyle, ordre de mammifères ongulés, à nombre impair de doigts, en l'occurrence un seul."
       }
     ],
     "expert": [
@@ -305,7 +305,7 @@
           "500"
         ],
         "réponse": "300",
-        "anecdote": "En 2008, d'après les données de la FAO, 58 millions de chevaux étaient répertoriés dans le monde sur les cinq continents."
+        "anecdote": "En 2008, d'après les données de la FAO, 58 millions de chevaux étaient répertoriés dans le monde sur les cinq continents."
       },
       {
         "id": 23,
@@ -389,7 +389,7 @@
           "450 m"
         ],
         "réponse": "600 m",
-        "anecdote": "Le cheval effectue un flehmen, comportement particulier de flairage, permettant entre autres de détecter les phéromones."
+        "anecdote": "Le cheval effectue un flehmen, comportement particulier de flairage, permettant entre autres de détecter les phéromones."
       },
       {
         "id": 30,

@@ -77,7 +77,7 @@
       },
       {
         "id": 4,
-        "question": "Quels insectes sont parfois appelés « fourmis blanches » au sein de colonies hiérarchisées ?",
+        "question": "Quels insectes sont parfois appelés « fourmis blanches » au sein de colonies hiérarchisées ?",
         "propositions": [
           "Les cancrelats",
           "Les termites",
@@ -359,12 +359,12 @@
         "id": 27,
         "question": "Quel pourcentage des espèces de fourmis recensées dans le monde vivent sans reine ?",
         "propositions": [
-          "1 %",
-          "31 %",
-          "11 %",
-          "21 %"
+          "1 %",
+          "31 %",
+          "11 %",
+          "21 %"
         ],
-        "réponse": "1 %",
+        "réponse": "1 %",
         "anecdote": "Ces fourmis vivent au sein de colonies très réduites dans lesquelles certaines ouvrières se reproduisent."
       },
       {
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "Quel mammifère insectivore recouvert d'écailles est un prédateur pour les fourmis ?",
+        "question": "Quel mammifère insectivore recouvert d'écailles est un prédateur pour les fourmis ?",
         "propositions": [
           "Ragondin",
           "Pangolin",
