@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "2 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Celebrites",
+      "nom": "People : avril 2017",
+      "slogan": "Ils ont fait l'actualite"
+    },
+    "en": {
+      "categorie": "Celebrities",
+      "nom": "People: April 2017",
+      "slogan": "They made the news"
+    },
+    "es": {
+      "categorie": "Famosos",
+      "nom": "Gente: abril de 2017",
+      "slogan": "Fueron noticia"
+    },
+    "it": {
+      "categorie": "Celebrità",
+      "nom": "Persone: aprile 2017",
+      "slogan": "Hanno fatto notizia"
+    },
+    "de": {
+      "categorie": "Prominente",
+      "nom": "Personen: April 2017",
+      "slogan": "Sie machten die Nachrichten"
+    },
+    "nl": {
+      "categorie": "Beroemdheden",
+      "nom": "Mensen: april 2017",
+      "slogan": "Ze haalden het nieuws"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Qui a fait polemique en avril 2014 autour d'une publicite pour Pepsi ?",
+        "propositions": [
+          "Katie Holmes",
+          "Elizabeth Hurley",
+          "Cindy Crawford",
+          "Kendall Jenner"
+        ],
+        "reponse": "Kendall Jenner",
+        "anecdote": "De nombreuses stars ont critique le scenario de la sequence commerciale, ou Kendall Jenner tend une canette à un policier."
+      },
+      {
+        "id": 2,
+        "question": "Quelle ex de Tom Cruise s'est affichee en avril 2017 avec Jamie Foxx ?",
+        "propositions": [
+          "Nicole Kidman",
+          "Rebecca De Mornay",
+          "Katie Holmes",
+          "Mimi Rogers"
+        ],
+        "reponse": "Katie Holmes",
+        "anecdote": "Katie Holmes a ete mariee à l'acteur Tom Cruise de 2006 à 2012, avec lequel elle a une fille Suri Cruise (nee le 18 avril 2006)."
+      },
+      {
+        "id": 3,
+        "question": "Quelle animatrice tele ne se remet toujours pas de l'arret de TPMS ?",
+        "propositions": [
+          "Estelle Denis",
+          "Flavie Flament",
+          "Alessandra Sublet",
+          "Laurence Boccolini"
+        ],
+        "reponse": "Estelle Denis",
+        "anecdote": "Mere de deux enfants (qu'elle a eu avec Raymond Domenech), Estelle Denis est egalement joueuse et amatrice de poker."
+      },
+      {
+        "id": 4,
+        "question": "Quel chanteur a fait croire ne pas pouvoir monter sur scene le 1er avril 2017  ?",
+        "propositions": [
+          "Mika",
+          "Kendji",
+          "Amir",
+          "Stromae"
+        ],
+        "reponse": "Amir",
+        "anecdote": "Faisant partie des quatre finalistes de « The Voice » Saison 3, il finit troisieme derriere Kendji Girac et Maximilien Philippe."
+      },
+      {
+        "id": 5,
+        "question": "Qui a fete via un clip ses neuf ans de mariage avec Jay-Z ?",
+        "propositions": [
+          "Janet Jackson",
+          "Rihanna",
+          "Mariah Carey",
+          "Beyonce"
+        ],
+        "reponse": "Beyonce",
+        "anecdote": "Laura Schreffler, redacteur en chef du magazine « OK! », a ecrit : « Ces gens tiennent beaucoup à leur vie privee »."
+      },
+      {
+        "id": 6,
+        "question": "Quelle youtubeuse a mis sa notoriete au service des jeunes enfants aveugles ?",
+        "propositions": [
+          "Juste Zoe",
+          "EnjoyPhoenix",
+          "Michelle Phan",
+          "Bethany Mota"
+        ],
+        "reponse": "EnjoyPhoenix",
+        "anecdote": "La chaîne YouTube principale de Marie Lopez, « EnjoyPhoenix », comptabilisait plus de deux millions d'abonnes en 2016."
+      },
+      {
+        "id": 7,
+        "question": "Quel chroniqueur de TPMP a subi une operation des paupieres ?",
+        "propositions": [
+          "Christophe Carriere",
+          "Jean-Michel Maire",
+          "Gilles Verdez",
+          "Julien Courbet"
+        ],
+        "reponse": "Jean-Michel Maire",
+        "anecdote": "Jean-Michel Maire faisait partie du jury de Miss Prestige National 2014, concours de Miss organise par Genevieve de Fontenay."
+      },
+      {
+        "id": 8,
+        "question": "Quelle star a devoile les photos sexy de son shooting pour Coco de Mer ?",
+        "propositions": [
+          "Pamela Anderson",
+          "Victoria Silvstedt",
+          "Ashley Cox",
+          "Brooke Berry"
+        ],
+        "reponse": "Pamela Anderson",
+        "anecdote": "Pamela Anderson a egalement ete choisie comme playmate du mois pour le magazine « Playboy » en fevrier 1990."
+      },
+      {
+        "id": 9,
+        "question": "Quel « ange gardien » a subi en avril 2017 une lourde operation du dos ?",
+        "propositions": [
+          "Mimie Mathy",
+          "Amel Bent",
+          "Claire Keim",
+          "Vanessa Paradis"
+        ],
+        "reponse": "Mimie Mathy",
+        "anecdote": "Mimie Mathy s'est mariee le 27 août 2005 avec le chef cuisinier Benoist Gerard, rencontre lors d'un spectacle à Saint-Brieuc."
+      },
+      {
+        "id": 10,
+        "question": "Quel enfant de star s'est fait tatouer par le meme artiste que son pere ?",
+        "propositions": [
+          "Brandon Lee",
+          "Willow Smith",
+          "Brooklyn Beckham",
+          "Flynn Bloom"
+        ],
+        "reponse": "Brooklyn Beckham",
+        "anecdote": "Apres le gardien Peter Shilton, David Beckham est le deuxieme joueur le plus selectionne de l'histoire de l'equipe d'Angleterre."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quelle ex-candidate de Secret Story a devoile son baby bump à la Foire du Trône ?",
+        "propositions": [
+          "Amelie Neten",
+          "Marie Sebag",
+          "Cindy Lopes",
+          "Ayem Nour"
+        ],
+        "reponse": "Cindy Lopes",
+        "anecdote": "« Secret Story » reprend plus ou moins les principes de base de « Big Brother », emission de tele realite creee en 1997."
+      },
+      {
+        "id": 12,
+        "question": "Quel neveu de Bill et Hillary Clinton a signe un contrat chez IMG Models ?",
+        "propositions": [
+          "Florian Clinton",
+          "Roby Clinton",
+          "Tyler Clinton",
+          "Matthew Clinton"
+        ],
+        "reponse": "Tyler Clinton",
+        "anecdote": "Bill Clinton, qui fut le 42eme president des États-Unis en fonction de 1993 à 2001, dirige la fondation Clinton depuis 1997."
+      },
+      {
+        "id": 13,
+        "question": "Quelle celebrite des « Anges 4 » a devoile en avril 2017 le sexe de son bebe ?",
+        "propositions": [
+          "Myriam Abel",
+          "Marie Garet",
+          "Amelie Neten",
+          "Julia Flabat"
+        ],
+        "reponse": "Julia Flabat",
+        "anecdote": "L'univers de Julia Flabat est base sur des histoires d'amour, des conseils beaute et mode en passant par des plans voyages."
+      },
+      {
+        "id": 14,
+        "question": "Quelle femme partage la vie de Dany Boon depuis plus de dix ans ?",
+        "propositions": [
+          "Judith Godreche",
+          "Zoe Felix",
+          "Yaal Harris",
+          "Anne Marivin"
+        ],
+        "reponse": "Yaal Harris",
+        "anecdote": "Elle n'hesita pas à quitter son pays natal pour le rejoindre en France dans sa carriere artistique et se marier à l'age de 23 ans."
+      },
+      {
+        "id": 15,
+        "question": "À 51 ans, quelle actrice joue les poupees en bikini sur son compte Instagram ?",
+        "propositions": [
+          "Sally Hawkins",
+          "Gemma Arterton",
+          "Kim Cattrall",
+          "Elizabeth Hurley"
+        ],
+        "reponse": "Elizabeth Hurley",
+        "anecdote": "Elizabeth Hurley est la marraine de Lennon Gallagher, le fils de l'actrice Patsy Kensit et du chanteur Liam Gallagher."
+      },
+      {
+        "id": 16,
+        "question": "Quelle celebrite a sorti un livre intitule « Pourquoi tant de haine  ? » ?",
+        "propositions": [
+          "Loana",
+          "Nabilla",
+          "Amelie Neten",
+          "Cindy Lopes"
+        ],
+        "reponse": "Amelie Neten",
+        "anecdote": "Dans son livre, la star de la tele-realite revient sur son mariage avec Senna qui avait eu lieu en direct à la television."
+      },
+      {
+        "id": 17,
+        "question": "Qui s'est separe de son manager Aldo Giampaolo pour raisons familiales ?",
+        "propositions": [
+          "Madonna",
+          "Britney Spears",
+          "Mariah Carey",
+          "Celine Dion"
+        ],
+        "reponse": "Celine Dion",
+        "anecdote": "Depuis les annees 1990, Celine Dion apparaît comme l'une des voix les plus influentes de la pop actuelle."
+      },
+      {
+        "id": 18,
+        "question": "Quelle animatrice tele aurait ete hospitalisee pour embolie pulmonaire ?",
+        "propositions": [
+          "Estelle Denis",
+          "Daphne Chollet",
+          "Linda Hardy",
+          "Laurence Boccolini"
+        ],
+        "reponse": "Laurence Boccolini",
+        "anecdote": "Elle fut societaire des « Grosses Tetes » sur RTL, entre 2000 et 2008, avant de rejoindre l'equipe d'« On va s'gener » en 2009."
+      },
+      {
+        "id": 19,
+        "question": "Quelle ex-femme de Donald Trump participe à DALS en Italie ?",
+        "propositions": [
+          "Melania Knauss",
+          "Marla Maples",
+          "Carla Bruni",
+          "Ivana Zelnickova"
+        ],
+        "reponse": "Marla Maples",
+        "anecdote": "Cette animatrice de television americaine a egalement cree un site Internet qui vend des produits dedies au bien-etre."
+      },
+      {
+        "id": 20,
+        "question": "Quel humoriste a ironise dans « C l'hebdo » sur le cancer de Johnny Hallyday ?",
+        "propositions": [
+          "Nicolas Canteloup",
+          "Gerald Dahan",
+          "Guy Bedos",
+          "Gad Elmaleh"
+        ],
+        "reponse": "Guy Bedos",
+        "anecdote": "Il interprete divers sketches d'auteurs differents (dont lui-meme) et developpe une satire politique regulierement mise à jour."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle mannequin posant topless a fait de l'ombre à sa fille Kaia Gerber ?",
+        "propositions": [
+          "Cindy Crawford",
+          "Linda Evangelista",
+          "Naomi Campbell",
+          "Claudia Schiffer"
+        ],
+        "reponse": "Cindy Crawford",
+        "anecdote": "Cindy Crawford fait partie de la grande vague des mannequins stars des annees 1990, appelees les « Supermodels »."
+      },
+      {
+        "id": 22,
+        "question": "Quel acteur de Mini-Moi dans « Austin Powers » a decide de rentrer en rehab ?",
+        "propositions": [
+          "Verne Troyer",
+          "Rusty Goffe",
+          "Billy Curtis",
+          "Jack Purvis"
+        ],
+        "reponse": "Verne Troyer",
+        "anecdote": "Du haut de ses 81 centimetres, Verne Troyer est, selon le Livre Guinness des records, le plus petit acteur professionnel connu."
+      },
+      {
+        "id": 23,
+        "question": "Quel prenom Bradley Cooper et Irina Shayk ont-ils donne à leur petite fille ?",
+        "propositions": [
+          "Cindy",
+          "Suzy",
+          "Carla",
+          "Lea"
+        ],
+        "reponse": "Lea",
+        "anecdote": "Depuis mai 2015, Bradley Cooper est en couple avec le mannequin russe Irina Shayk, mere de Lea de Seine Shayk Cooper."
+      },
+      {
+        "id": 24,
+        "question": "Quel chanteur a ete hospitalise apres une chute en plein concert à Auxerre ?",
+        "propositions": [
+          "Florian Delavega",
+          "Florent Pagny",
+          "Matthieu Chedid",
+          "Bernard Lavilliers"
+        ],
+        "reponse": "Florian Delavega",
+        "anecdote": "Lors d'un concert à Auxerre le 2 avril 2017, pour leur tournee d'adieu, Florian Delavega a fait une vilaine chute en plein show."
+      },
+      {
+        "id": 25,
+        "question": "Quelle chanteuse a evoque sa leucemie dans « The ou cafe » en avril 2017 ?",
+        "propositions": [
+          "Celine Dion",
+          "Catherine Lara",
+          "Marie Laforet",
+          "Jane Birkin"
+        ],
+        "reponse": "Jane Birkin",
+        "anecdote": "En 1975, Jane Birkin a tenu un des rôles principaux du premier film que Serge Gainsbourg a realise, « Je t'aime moi non plus »."
+      },
+      {
+        "id": 26,
+        "question": "Combien Beyonce et Jay-Z ont-ils depense pour la chambre de leurs jumeaux ?",
+        "propositions": [
+          "400 000 dollars",
+          "500 000 dollars",
+          "200 000 dollars",
+          "300 000 dollars"
+        ],
+        "reponse": "500 000 dollars",
+        "anecdote": "L'annonce de la grossesse de Beyonce sur Instagram est devenue la photo la plus aimee du site en moins de quelques heures."
+      },
+      {
+        "id": 27,
+        "question": "Quelle chanteuse a declare en avril 2017 etre persuadee de mourir dans l'annee ?",
+        "propositions": [
+          "Lady Gaga",
+          "Madonna",
+          "Pink",
+          "Stone"
+        ],
+        "reponse": "Stone",
+        "anecdote": "Annie Gautrat (Stone) fut en 1966 la gagnante d'un concours « Miss Beatnik », pour lequel Éric Charden fait partie du jury."
+      },
+      {
+        "id": 28,
+        "question": "Avec qui Sophie Davant a-t-elle eu ses deux grands enfants ?",
+        "propositions": [
+          "Robert Chapatte",
+          "Gerard Holtz",
+          "Pierre Sled",
+          "Patrick Chene"
+        ],
+        "reponse": "Pierre Sled",
+        "anecdote": "Separes debut 2012, ils ont eu ensemble un garcon Nicolas ne le 24 juillet 1993 et une fille Valentine nee le 27 novembre 1995."
+      },
+      {
+        "id": 29,
+        "question": "Avec quel comedien Lorie s'affiche-t-elle depuis avril 2017 ?",
+        "propositions": [
+          "Arnaud Denis",
+          "Fabien Jacquelin",
+          "Roby Schinasi",
+          "Olivier Sauton"
+        ],
+        "reponse": "Roby Schinasi",
+        "anecdote": "Roby Schinasi est un acteur franco-americain qui fait partie de la promotion des Jeunes Talents Cannes en 2015."
+      },
+      {
+        "id": 30,
+        "question": "Qui a epouse le diplomate Didier Le Bret en avril 2017 ?",
+        "propositions": [
+          "Sandra Laugier",
+          "Therese Delpech",
+          "Catherine Chevalley",
+          "Mazarine Pingeot"
+        ],
+        "reponse": "Mazarine Pingeot",
+        "anecdote": "Fille de Francois Mitterrand, ce lien de parente fortement mediatique est toutefois reste cache au grand public jusqu'en 1994."
+      }
+    ]
+    }
+  }
+}

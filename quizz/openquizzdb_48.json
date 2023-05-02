@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Animaux",
+      "nom": "Fourmis",
+      "slogan": "Insectes aux particularites fascinantes"
+    },
+    "en": {
+      "categorie": "Animals",
+      "nom": "Ants",
+      "slogan": "Insects with Fascinating Peculiarities"
+    },
+    "es": {
+      "categorie": "Animales",
+      "nom": "Hormigas",
+      "slogan": "Insectos con fascinantes peculiaridades"
+    },
+    "it": {
+      "categorie": "Animali",
+      "nom": "Formiche",
+      "slogan": "Insetti dalle affascinanti particolarità"
+    },
+    "de": {
+      "categorie": "Tiere",
+      "nom": "Ameisen",
+      "slogan": "Insekten mit faszinierenden Besonderheiten"
+    },
+    "nl": {
+      "categorie": "Dieren",
+      "nom": "Mieren",
+      "slogan": "Insecten met fascinerende eigenaardigheden"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "De quelle espece animale font partie les fourmis, de l'ordre des hymenopteres ?",
+        "propositions": [
+          "Insectes",
+          "Poissons",
+          "Invertebres",
+          "Mammiferes"
+        ],
+        "reponse": "Insectes",
+        "anecdote": "Certaines especes de fourmis forment des supercolonies à plusieurs centaines de millions d'individus et à plus de 50 colonies."
+      },
+      {
+        "id": 2,
+        "question": "Quel habitat des fourmis est generalement concu par construction de dômes ?",
+        "propositions": [
+          "Nid",
+          "Cage",
+          "Fourmiliere",
+          "Niche"
+        ],
+        "reponse": "Fourmiliere",
+        "anecdote": "La fourmiliere a pour but de proteger la ou les reines et de garantir à la colonie une securite et un abri face aux intemperies."
+      },
+      {
+        "id": 3,
+        "question": "Dans quel film d'animation, sorti des studios Pixar, Tilt est-il un ouvrier fourmi ?",
+        "propositions": [
+          "Ratatouille",
+          "Toy Story",
+          "Monstres et Cie",
+          "1001 pattes"
+        ],
+        "reponse": "1001 pattes",
+        "anecdote": "Woody, le cow-boy heros du film d'animation « Toy Story », est apparu dans le betisier du generique de fin."
+      },
+      {
+        "id": 4,
+        "question": "Quels insectes sont parfois appeles « fourmis blanches » au sein de colonies hierarchisees ?",
+        "propositions": [
+          "Les cancrelats",
+          "Les termites",
+          "Les cafards",
+          "Les blattes"
+        ],
+        "reponse": "Les termites",
+        "anecdote": "Les termites se rencontrent surtout dans les pays chauds, ou certaines especes construisent de grands nids en terre machee."
+      },
+      {
+        "id": 5,
+        "question": "Avec l'Antarctique, quelle region du monde n'est pas colonisee par les fourmis ?",
+        "propositions": [
+          "L'Afrique du Sud",
+          "La Russie",
+          "Le Groenland",
+          "Le Japon"
+        ],
+        "reponse": "Le Groenland",
+        "anecdote": "En 2013, plus de 12 000 especes ont ete repertoriees, mais il en reste probablement des milliers encore à decouvrir."
+      },
+      {
+        "id": 6,
+        "question": "Au sein d'une colonie de fourmis, qui pond les oeufs dans la fourmiliere ?",
+        "propositions": [
+          "L'ouvriere",
+          "La tisserande",
+          "La reine",
+          "La guerriere"
+        ],
+        "reponse": "La reine",
+        "anecdote": "Certaines especes de fourmis peuvent tolerer plusieurs reines lorsque la colonie est consequente."
+      },
+      {
+        "id": 7,
+        "question": "Avec quoi les fourmis sentent-elles le reperage de pistes olfactives ?",
+        "propositions": [
+          "Leurs antennes",
+          "Leur queue",
+          "Leurs pattes",
+          "Leur abdomen"
+        ],
+        "reponse": "Leurs antennes",
+        "anecdote": "Les fourmis peuvent aussi detecter à quel groupe de travail (par exemple la recherche de nourriture) l'une ou l'autre appartient."
+      },
+      {
+        "id": 8,
+        "question": "Avec quel autre insecte la fourmi partage-t-elle une celebre fable de Jean de La Fontaine ?",
+        "propositions": [
+          "La cigale",
+          "La libellule",
+          "La coccinelle",
+          "La mouche"
+        ],
+        "reponse": "La cigale",
+        "anecdote": "« La Cigale et la Fourmi » est la premiere fable du livre I de Jean de La Fontaine situee dans le premier recueil des « Fables de La Fontaine »."
+      },
+      {
+        "id": 9,
+        "question": "Laquelle de ces methodes semble radicale pour tenir eloigne les fourmis de son habitation ?",
+        "propositions": [
+          "Le vinaigre",
+          "Le riz",
+          "Le sucre",
+          "Le miel"
+        ],
+        "reponse": "Le vinaigre",
+        "anecdote": "Certaines odeurs fortes ont une action repulsive sur les fourmis, comme c'est notamment le cas du jus de citron et du vinaigre."
+      },
+      {
+        "id": 10,
+        "question": "Quel film du studio Dreamworks sorti en 1998 relate la vie des fourmis ?",
+        "propositions": [
+          "Madagascar",
+          "Shrek",
+          "Fourmiz",
+          "Chicken Run"
+        ],
+        "reponse": "Fourmiz",
+        "anecdote": "Seulement un mois apres la sortie du film fut propose le film d'animation « 1001 pattes » du « concurrent historique » Pixar."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quel ecrivain francais ne à Toulouse a publie une celebre trilogie sur les fourmis ?",
+        "propositions": [
+          "Bernard Werber",
+          "Robert Merle",
+          "Alain Grousset",
+          "Gaston Boca"
+        ],
+        "reponse": "Bernard Werber",
+        "anecdote": "Son oeuvre, traduite dans une trentaine de langues, fait se rencontrer spiritualite, science-fiction, polar, biologie et mythologie."
+      },
+      {
+        "id": 12,
+        "question": "Quel terme est utilise pour designer une colonie de fourmis formees de plusieurs reines ?",
+        "propositions": [
+          "Écotype",
+          "Metapopulation",
+          "Épifaune",
+          "Supercolonie"
+        ],
+        "reponse": "Supercolonie",
+        "anecdote": "Les ouvrieres s'y deplacent librement de nids en nids, comme si la population entiere etait une unique colonie."
+      },
+      {
+        "id": 13,
+        "question": "Chez les fourmis, comment appelle-t-on les femelles apteres et steriles ?",
+        "propositions": [
+          "Reines",
+          "Guerrieres",
+          "Nettoyeuses",
+          "Ouvrieres"
+        ],
+        "reponse": "Ouvrieres",
+        "anecdote": "Les differences morphologiques majeures entre les castes d'ouvrieres sont induites par le regime alimentaire au stade larvaire."
+      },
+      {
+        "id": 14,
+        "question": "Quel sexe aura obligatoirement une fourmi si son oeuf a la chance d'etre feconde ?",
+        "propositions": [
+          "Male ou femelle",
+          "Femelle",
+          "Male",
+          "On ne sait pas"
+        ],
+        "reponse": "Femelle",
+        "anecdote": "Si l'oeuf est feconde, l'individu est alors diploïde et l'oeuf donnera une femelle : s'il ne l'est pas, l'individu est haploïde et forme un male."
+      },
+      {
+        "id": 15,
+        "question": "Quelles fourmis, pourtant parfois de petite taille, font leurs nids en creusant le bois ?",
+        "propositions": [
+          "Moissonneuses",
+          "Tisserandes",
+          "Pot-de-miel",
+          "Charpentieres"
+        ],
+        "reponse": "Charpentieres",
+        "anecdote": "Les ouvrieres varient en taille et certaines d'entre elles comptent parmi les plus grandes especes d'Europe."
+      },
+      {
+        "id": 16,
+        "question": "Comment sont parfois appelees les ouvrieres geantes au sein d'une colonie de fourmis ?",
+        "propositions": [
+          "Soldats",
+          "Pondeuses",
+          "Guepes",
+          "Ouvrieres"
+        ],
+        "reponse": "Soldats",
+        "anecdote": "Les plus grandes ouvrieres sont parfois appelees « soldats », bien que leur rôle defensif ne soit pas necessairement preponderant."
+      },
+      {
+        "id": 17,
+        "question": "Quelles fourmis à l'abdomen gonfle deviennent des mets delicieux en Australie ?",
+        "propositions": [
+          "Moissonneuses",
+          "Pot-de-miel",
+          "Tisserandes",
+          "Charpentieres"
+        ],
+        "reponse": "Pot-de-miel",
+        "anecdote": "Ces fourmis servent de reservoir vivant aux autres fourmis de la colonie qui viennent leur donner le miellat."
+      },
+      {
+        "id": 18,
+        "question": "Quels produits chimiques sont utilises pour faciliter la communication entre les fourmis ?",
+        "propositions": [
+          "Les glucides",
+          "Les pheromones",
+          "Les biocides",
+          "Les neurotoxiques"
+        ],
+        "reponse": "Les pheromones",
+        "anecdote": "Les pheromones agissent comme des messagers et jouent notamment un rôle dans l'attraction sexuelle."
+      },
+      {
+        "id": 19,
+        "question": "Quelles fourmis sont chargees d'eliminer les cadavres du nid ?",
+        "propositions": [
+          "Les guerrieres",
+          "Les ouvrieres",
+          "Les guerisseuses",
+          "Les nettoyeuses"
+        ],
+        "reponse": "Les nettoyeuses",
+        "anecdote": "Les nettoyeuses sont souvent des ouvrieres en fin de vie ou des individus qui restent dans les endroits consacres aux dechets."
+      },
+      {
+        "id": 20,
+        "question": "Quel predateur est egalement nomme le fourmilier geant ou grand fourmilier ?",
+        "propositions": [
+          "Le tamanoir",
+          "Le hurleur",
+          "Le saphir",
+          "Le ragondin"
+        ],
+        "reponse": "Le tamanoir",
+        "anecdote": "Le tamanoir est surtout terrestre, contrairement à d'autres fourmiliers ou paresseux, qui sont arboricoles ou semi-arboricole."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Environ combien d'especes de fourmis ont ete repertoriees en 2013 ?",
+        "propositions": [
+          "8 400",
+          "10 500",
+          "12 600",
+          "6 700"
+        ],
+        "reponse": "12 600",
+        "anecdote": "Bien que les fourmis representent moins d'un pour cent des especes d'insectes, leur masse totale excede le poids de l'humanite."
+      },
+      {
+        "id": 22,
+        "question": "Comment sont appelees les especes de fourmis possedant une seule reine ?",
+        "propositions": [
+          "Phytozoaires",
+          "Euryapsides",
+          "Monogynes",
+          "Zoophytes"
+        ],
+        "reponse": "Monogynes",
+        "anecdote": "Ce terme est egalement applicable chez les abeilles, les guepes, les termites et rats-taupes nus."
+      },
+      {
+        "id": 23,
+        "question": "Environ combien d'especes de fourmis sont connues en Europe ?",
+        "propositions": [
+          "40 000",
+          "400",
+          "400 000",
+          "4 000"
+        ],
+        "reponse": "400",
+        "anecdote": "En foret tropicale en Malaisie, on peut compter jusqu'à 40 especes differentes sur un seul metre carre."
+      },
+      {
+        "id": 24,
+        "question": "La piqûre repetee de quelle fourmi peut etre mortelle pour l'homme ?",
+        "propositions": [
+          "Taïpan",
+          "Tigre",
+          "Veuve noire",
+          "Bulldog"
+        ],
+        "reponse": "Bulldog",
+        "anecdote": "Meme si les attaques sur l'etre humain sont plutôt rares, les piqûres peuvent etre mortelles en raison d'un possible choc anaphylactique."
+      },
+      {
+        "id": 25,
+        "question": "Jusqu'à quelle profondeur a-t-on retrouve des fourmis en Asie du Sud-Est ?",
+        "propositions": [
+          "10 km",
+          "22 km",
+          "18 km",
+          "14 km"
+        ],
+        "reponse": "22 km",
+        "anecdote": "Les fourmis se sont adaptees à presque tous les milieux terrestres et souterrains mais pas aux milieux aquatiques et aux zones polaires."
+      },
+      {
+        "id": 26,
+        "question": "Quel est le record de longevite detenu par une reine chez la fourmi noire des jardins ?",
+        "propositions": [
+          "25 ans",
+          "19 ans",
+          "22 ans",
+          "28 ans"
+        ],
+        "reponse": "28 ans",
+        "anecdote": "Les males ont une vie tres breve et, ne sachant pas s'alimenter seuls, ils meurent des qu'ils se sont reproduits."
+      },
+      {
+        "id": 27,
+        "question": "Quel pourcentage des especes de fourmis recensees dans le monde vivent sans reine ?",
+        "propositions": [
+          "1 %",
+          "31 %",
+          "11 %",
+          "21 %"
+        ],
+        "reponse": "1 %",
+        "anecdote": "Ces fourmis vivent au sein de colonies tres reduites dans lesquelles certaines ouvrieres se reproduisent."
+      },
+      {
+        "id": 28,
+        "question": "Quel terme utilise-t-on generalement pour designer les sons emis par les fourmis ?",
+        "propositions": [
+          "Stridulations",
+          "Percussions",
+          "Bourdonnements",
+          "Deformations"
+        ],
+        "reponse": "Stridulations",
+        "anecdote": "La stridulation permet d'emettre une large gamme de signaux sonores (selection sexuelle, territorialite, etc...)."
+      },
+      {
+        "id": 29,
+        "question": "À combien de milliards d'individus estime-t-on le nombre de fourmis sur Terre ?",
+        "propositions": [
+          "7 millions",
+          "4 millions",
+          "10 millions",
+          "1 million"
+        ],
+        "reponse": "10 millions",
+        "anecdote": "Les fourmis representeraient 1 à 2 % du nombre d'especes d'insectes, mais constitueraient pres de 20 % de leur biomasse."
+      },
+      {
+        "id": 30,
+        "question": "Quel mammifere insectivore recouvert d'ecailles est un predateur pour les fourmis ?",
+        "propositions": [
+          "Ragondin",
+          "Pangolin",
+          "Tamanoir",
+          "Saphir"
+        ],
+        "reponse": "Pangolin",
+        "anecdote": "Les pangolins peuplent les forets et les savanes des regions tropicales et equatoriales d'Afrique et d'Asie du Sud-Est."
+      }
+    ]
+    }
+  }
+}

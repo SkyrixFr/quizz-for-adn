@@ -1,0 +1,2249 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Celebrites",
+      "nom": "People : août 2017",
+      "slogan": "Ils ont fait l'actualite"
+    },
+    "en": {
+      "categorie": "Celebrities",
+      "nom": "People: August 2017",
+      "slogan": "They made the news"
+    },
+    "es": {
+      "categorie": "Famosos",
+      "nom": "Gente: agosto de 2017",
+      "slogan": "Fueron noticia"
+    },
+    "it": {
+      "categorie": "Celebrità",
+      "nom": "Persone: agosto 2017",
+      "slogan": "Hanno fatto notizia"
+    },
+    "de": {
+      "categorie": "Prominente",
+      "nom": "Personen: August 2017",
+      "slogan": "Sie machten die Nachrichten"
+    },
+    "nl": {
+      "categorie": "Beroemdheden",
+      "nom": "Mensen: Augustus 2017",
+      "slogan": "Ze haalden het nieuws"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Quel acteur en tournage s'est blesse à la cheville lors de cascades à Paris en août 2017 ?",
+        "propositions": [
+          "Tom Cruise",
+          "Bruce Willis",
+          "Jason Statham",
+          "Jean Reno"
+        ],
+        "reponse": "Tom Cruise",
+        "anecdote": "Tom Cruise etait present à Paris pour realiser les scenes de « Mission Impossible 6 » qui se deroulent dans la ville Lumiere."
+      },
+      {
+        "id": 2,
+        "question": "Quel anniversaire la concernant Karine Le Marchand a-t-elle fete en 2017 ?",
+        "propositions": [
+          "Ses 29 ans",
+          "Ses 19 ans",
+          "Ses 49 ans",
+          "Ses 39 ans"
+        ],
+        "reponse": "Ses 49 ans",
+        "anecdote": "Le veritable nom de famille de Karine Le Marchand est Mfayokurera (souvent ecrit M'Fayokurera par les journalistes)."
+      },
+      {
+        "id": 3,
+        "question": "Quelle star du cinema a adopte deux enfants prenommes Jackson et August ?",
+        "propositions": [
+          "Kate Winslet",
+          "Reese Witherspoon",
+          "Hilary Swank",
+          "Charlize Theron"
+        ],
+        "reponse": "Charlize Theron",
+        "anecdote": "En 1999, Charlize Theron fit la une du celebre magazine Vanity Fair ainsi que celle de Playboy, y montrant plusieurs cliches denudes."
+      },
+      {
+        "id": 4,
+        "question": "Qui est devenue en août 2017 l'actrice la mieux payee au monde ?",
+        "propositions": [
+          "Reese Witherspoon",
+          "Kate Winslet",
+          "Emma Stone",
+          "Jennifer Lawrence"
+        ],
+        "reponse": "Emma Stone",
+        "anecdote": "Derriere Emma Stone (28 ans), deux Jennifer se disputent les deuxieme et troisieme places du classement Forbes 2017."
+      },
+      {
+        "id": 5,
+        "question": "Qui a ete (enfin) creditee sur le tube « Imagine » de John Lennon ?",
+        "propositions": [
+          "Cilla Black",
+          "Maureen Cox",
+          "Yoko Ono",
+          "Jane Asher"
+        ],
+        "reponse": "Yoko Ono",
+        "anecdote": "46 ans apres la sortie d'« Imagine », Yoko Ono en devient co-auteure : une reconnaissance jugee tardive pour l'artiste japonaise."
+      },
+      {
+        "id": 6,
+        "question": "Quel chanteur francais a recu en 2017 son etoile sur Hollywood Boulevard ?",
+        "propositions": [
+          "Francis Cabrel",
+          "Louis Chedid",
+          "Serge Lama",
+          "Charles Aznavour"
+        ],
+        "reponse": "Charles Aznavour",
+        "anecdote": "L'interprete de « La Boheme » rejoint une vingtaine de Francais ou d'artistes originaires de France honores sur la promenade."
+      },
+      {
+        "id": 7,
+        "question": "Qui est devenu en 2017 l'acteur le mieux paye au monde ?",
+        "propositions": [
+          "Tom Cruise",
+          "Jason Statham",
+          "Mark Wahlberg",
+          "Jean Reno"
+        ],
+        "reponse": "Mark Wahlberg",
+        "anecdote": "Avec 68 millions de dollars gagnes, il devance Dwayne Johnson, qui occupait la premiere place l'an dernier, ainsi qu'Emma Stone."
+      },
+      {
+        "id": 8,
+        "question": "Du deces de quelle actrice Alain Delon a-t-il encore beaucoup de mal à se remettre ?",
+        "propositions": [
+          "Nicole Besnard",
+          "Jeanne Moreau",
+          "Elsa Martinelli",
+          "Mireille Darc"
+        ],
+        "reponse": "Mireille Darc",
+        "anecdote": "Suite au deces de son ancienne compagne, Alain Delon lui a rendu un vibrant hommage face à Valerie Trierweiler pour Paris Match."
+      },
+      {
+        "id": 9,
+        "question": "Combien de bougies Genevieve de Fontenay a-t-elle souffle en août 2017 ?",
+        "propositions": [
+          "85",
+          "55",
+          "65",
+          "75"
+        ],
+        "reponse": "85",
+        "anecdote": "Le moins que l'on puisse dire, c'est que la dame au chapeau nee à Longwy en 1932 paraît bien plus jeune que son age."
+      },
+      {
+        "id": 10,
+        "question": "Quel president de Facebook est devenu papa d'une petite August ?",
+        "propositions": [
+          "Mark Zuckerberg",
+          "Warren Buffett",
+          "Stefan Persson",
+          "Karl Albrecht"
+        ],
+        "reponse": "Mark Zuckerberg",
+        "anecdote": "Mark Zuckerberg a annonce qu'il s'accorderait deux mois de conges paternite pour profiter des premiers pas de son enfant."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quelle jeune celebrite affole la Toile avec un bonnet H sur Instagram ?",
+        "propositions": [
+          "Diana Jones",
+          "Julie Ricci",
+          "Anaïs Camizuli",
+          "Sarah Fraisou"
+        ],
+        "reponse": "Sarah Fraisou",
+        "anecdote": "L'ex-compagne de Malik s'est envolee vers la Tunisie, son pays d'origine, posant ses bagages à Hammamet."
+      },
+      {
+        "id": 12,
+        "question": "Quelle celebrite a epouse Fred Cassin pour la troisieme fois en 2017 ?",
+        "propositions": [
+          "Sonia Dubois",
+          "Cristina Cordula",
+          "Isabelle Giordano",
+          "Daphne Chollet"
+        ],
+        "reponse": "Cristina Cordula",
+        "anecdote": "Apres s'etre mariee deux fois, sur l'île de Capri et à Singapour, Cristina Cordula a de nouveau epouse son compagnon à Rio."
+      },
+      {
+        "id": 13,
+        "question": "Quelle star de « Game of Thrones » a ete engagee en partie grace à ses followers ?",
+        "propositions": [
+          "Sophie Turner",
+          "Lena Headey",
+          "Maisie Williams",
+          "Emilia Clarke"
+        ],
+        "reponse": "Sophie Turner",
+        "anecdote": "La star de la serie devoile ainsi l'envers du decor et met en lumiere le côte obscur de l'industrie cinematographique."
+      },
+      {
+        "id": 14,
+        "question": "Quelle star de tele-realite a tout simplement declare : « Mes fesses sont magnifiques » ?",
+        "propositions": [
+          "Melanie Amar",
+          "Sarah Fraisou",
+          "Kim Glow",
+          "Barbara Lune"
+        ],
+        "reponse": "Kim Glow",
+        "anecdote": "Fiere de ses fesses, Kim Glow propose à ses fans complexes de suivre le meme chemin que le sien : celui du billard."
+      },
+      {
+        "id": 15,
+        "question": "Quelle celebre showrunner a quitte ABC pour rejoindre Netflix en 2017 ?",
+        "propositions": [
+          "Tricia Brock",
+          "Shonda Rhimes",
+          "Nancy Dowd",
+          "Sara Hess"
+        ],
+        "reponse": "Shonda Rhimes",
+        "anecdote": "La creatrice de « Grey's Anatomy », Shonda Rhimes, a quitte ABC apres plus de quinze ans de collaboration commerciale fructueuse."
+      },
+      {
+        "id": 16,
+        "question": "Quelle actrice a officialise en 2017 sa love story avec Darren Aronofsky ?",
+        "propositions": [
+          "Brie Larson",
+          "Cate Blanchett",
+          "Emma Stone",
+          "Jennifer Lawrence"
+        ],
+        "reponse": "Jennifer Lawrence",
+        "anecdote": "Avant cette nouvelle muse, le talentueux Darren Aronofsky a longtemps ete en couple avec la sublime Rachel Weisz."
+      },
+      {
+        "id": 17,
+        "question": "Avec quel ancien Top Chef Laury Thilleman file-t-elle le parfait amour ?",
+        "propositions": [
+          "Pierre Auge",
+          "Brice Morvent",
+          "Juan Arbelaez",
+          "Gregory Cuilleron"
+        ],
+        "reponse": "Juan Arbelaez",
+        "anecdote": "Juan Arbelaez est le proprietaire des restaurants Plantxa et Levain, tous les deux situes à Boulogne-Billancourt."
+      },
+      {
+        "id": 18,
+        "question": "Quelle chanteuse a pose seins nus en août 2017 pour Paper Magazine ?",
+        "propositions": [
+          "Madonna",
+          "Britney Spears",
+          "Mariah Carey",
+          "Beyonce"
+        ],
+        "reponse": "Mariah Carey",
+        "anecdote": "Mariah Carey possede une etendue vocale exceptionnelle de cinq octaves et quatre notes (Eb2-Bb7)."
+      },
+      {
+        "id": 19,
+        "question": "À 69 ans, quel acteur francais est devenu papa pour la quatrieme fois ?",
+        "propositions": [
+          "Jean-Pierre Bacri",
+          "Gerard Darmon",
+          "Jean Reno",
+          "Alain Chabat"
+        ],
+        "reponse": "Gerard Darmon",
+        "anecdote": "Gerard Darmon a passe son ete plonge dans les couches et les biberons : sa femme Christine a accouche."
+      },
+      {
+        "id": 20,
+        "question": "Quel homme se cache derriere la metamorphose physique de Celine Dion ?",
+        "propositions": [
+          "Hedi Slimane",
+          "Law Roach",
+          "Paul Smith",
+          "Marc Jacobs"
+        ],
+        "reponse": "Law Roach",
+        "anecdote": "Law Roach a explique lors de la ceremonie des VMA 2017 comment la chanteuse Celine Dion abordait son amour pour la mode."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel est le nom du chien adopte par le couple presidentiel Emmanuel et Brigitte Macron ?",
+        "propositions": [
+          "Satanas",
+          "Pluto",
+          "Nemo",
+          "Fidji"
+        ],
+        "reponse": "Nemo",
+        "anecdote": "Le couple presidentiel a en effet adopte à la SPA en août 2017 un croise griffon / labrador noir qu'ils ont baptise Nemo."
+      },
+      {
+        "id": 22,
+        "question": "Quel celebre guitariste a revele en 2017 etre sorti d'un cancer du poumon ?",
+        "propositions": [
+          "Jamie Cook",
+          "Ron Wood",
+          "Eric Stewart",
+          "Greg Lake"
+        ],
+        "reponse": "Ron Wood",
+        "anecdote": "Le guitariste des Rolling Stones a explique qu'une tumeur avait ete decouverte chez lui lors d'un simple contrôle de routine."
+      },
+      {
+        "id": 23,
+        "question": "Comment se prenomme le fils transgenre de Warren Beatty et Annette Bening ?",
+        "propositions": [
+          "Stephen",
+          "Donald",
+          "Jason",
+          "Harry"
+        ],
+        "reponse": "Stephen",
+        "anecdote": "Ne fille, souhaitant devenir un homme, Stephen est devenu l'un des porte-voix de la communaute transgenre aux États-Unis."
+      },
+      {
+        "id": 24,
+        "question": "Quel mannequin atteinte de vitiligo prône l'amour de soi sur Instagram ?",
+        "propositions": [
+          "Rebecca Heckard",
+          "Ashley Graham",
+          "Gigi Hadid",
+          "Olivia Palermo"
+        ],
+        "reponse": "Rebecca Heckard",
+        "anecdote": "À 21 ans, Rebecca Heckard a fait de son compte Instagram un merveilleux outil pour diffuser ses appels à la tolerance."
+      },
+      {
+        "id": 25,
+        "question": "Qui se cache derriere Passe-Muraille, le messager du Pere Fouras dans « Fort Boyard » ?",
+        "propositions": [
+          "Alain Prevost",
+          "Anthony Laborde",
+          "Andre Bouchet",
+          "Yves Marchesseau"
+        ],
+        "reponse": "Anthony Laborde",
+        "anecdote": "En 2004, l'homme de 34 ans a integre l'equipe de « Fort Boyard » grace à l'un de ses amis, un certain Passe-Partout."
+      },
+      {
+        "id": 26,
+        "question": "Qui a ete sacre champion du monde du 50 km marche à Londres en 2017 ?",
+        "propositions": [
+          "Yohann Diniz",
+          "Trond Nymark",
+          "Robert Heffernan",
+          "Nathan Deakes"
+        ],
+        "reponse": "Yohann Diniz",
+        "anecdote": "Yohann Diniz detient le record du monde du 50 km marche avec le temps de 3h 32min 33s, etabli le 15 août 2014."
+      },
+      {
+        "id": 27,
+        "question": "Grace à quelle celebre actrice Meghan Markle est-elle devenue elle aussi comedienne ?",
+        "propositions": [
+          "Charlize Theron",
+          "Emma Stone",
+          "Jennifer Lawrence",
+          "Julia Roberts"
+        ],
+        "reponse": "Julia Roberts",
+        "anecdote": "Le 8 novembre 2016, il fut officiellement annonce que Meghan Markle est devenue la petite amie du prince Henry de Galles."
+      },
+      {
+        "id": 28,
+        "question": "Quel acteur francais a assure la promotion du festival Onda Carioca ?",
+        "propositions": [
+          "Francois Cluzet",
+          "Guillaume Gallienne",
+          "Vincent Cassel",
+          "Mathieu Amalric"
+        ],
+        "reponse": "Vincent Cassel",
+        "anecdote": "Vincent Cassel et sa compagne Tina Kunakey y ont affiche leur amour et leur bonne humeur sur des airs de samba."
+      },
+      {
+        "id": 29,
+        "question": "En août 2017, quel celebre bodybuildeur est mort etouffe à 26 ans ?",
+        "propositions": [
+          "Jay Cutler",
+          "Dallas McCarver",
+          "Phil Heath",
+          "Ronnie Coleman"
+        ],
+        "reponse": "Dallas McCarver",
+        "anecdote": "Une mort par etouffement selon Dana Brooke, qui a adresse à son cheri une emouvante lettre d'adieu sur Instagram."
+      },
+      {
+        "id": 30,
+        "question": "Quel chanteur francais va devoir rembourser 35 millions d'euros à une banque ?",
+        "propositions": [
+          "Johnny Hallyday",
+          "Eddy Mitchell",
+          "Guy Beart",
+          "Enrico Macias"
+        ],
+        "reponse": "Enrico Macias",
+        "anecdote": "Apres une longue bataille judiciaire contre la banque Landsbanki Luxembourg, la justice a finalement desavoue Enrico Macias."
+      }
+    ]
+    },
+    "en": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Which actor on filming injured his ankle during stunts performed in Paris in August 2017 ?",
+        "propositions": [
+          "Jean Reno",
+          "Jason Statham",
+          "Bruce Willis",
+          "Tom Cruise"
+        ],
+        "reponse": "Tom Cruise",
+        "anecdote": "Tom Cruise was present in Paris to direct the scenes of « Mission Impossible 6 » which take place in the city of Lights."
+      },
+      {
+        "id": 2,
+        "question": "What anniversary did Karine Le Marchand celebrate in 2017 ?",
+        "propositions": [
+          "Her 19 years",
+          "Her 49 years",
+          "Her 39 years",
+          "Her 29 years"
+        ],
+        "reponse": "Her 49 years",
+        "anecdote": "Karine Le Marchand's real last name is Mfayokurera (often written M'Fayokurera by journalists)."
+      },
+      {
+        "id": 3,
+        "question": "Which movie star adopted two children named Jackson and August ?",
+        "propositions": [
+          "Charlize Theron",
+          "Hilary Swank",
+          "Reese Witherspoon",
+          "Kate Winslet"
+        ],
+        "reponse": "Charlize Theron",
+        "anecdote": "In 1999, Charlize Theron made the front page of the famous magazine Vanity Fair as well as that of Playboy, showing several naked pictures."
+      },
+      {
+        "id": 4,
+        "question": "Who became the highest paid actress in the world in August 2017 ?",
+        "propositions": [
+          "Jennifer Lawrence",
+          "Emma Stone",
+          "Reese Witherspoon",
+          "Kate Winslet"
+        ],
+        "reponse": "Emma Stone",
+        "anecdote": "Behind Emma Stone (28), two Jennifer fight for the second and third places in the 2017 Forbes ranking."
+      },
+      {
+        "id": 5,
+        "question": "Who was (finally) credited on John Lennon's « Imagine » tube ?",
+        "propositions": [
+          "Yoko Ono",
+          "Maureen Cox",
+          "Jane Asher",
+          "Cilla Black"
+        ],
+        "reponse": "Yoko Ono",
+        "anecdote": "46 years after the release of « Imagine », Yoko Ono becomes co-author: a recognition deemed late for the Japanese artist."
+      },
+      {
+        "id": 6,
+        "question": "Which French singer received his star on Hollywood Boulevard in 2017 ?",
+        "propositions": [
+          "Serge Lama",
+          "Charles Aznavour",
+          "Francis Cabrel",
+          "Louis Chedid"
+        ],
+        "reponse": "Charles Aznavour",
+        "anecdote": "The interpreter of « La Boheme » joins twenty French people or artists from France honored on the promenade."
+      },
+      {
+        "id": 7,
+        "question": "Who became the highest paid actor in the world in 2017 ?",
+        "propositions": [
+          "Jason Statham",
+          "Mark Wahlberg",
+          "Jean Reno",
+          "Tom Cruise"
+        ],
+        "reponse": "Mark Wahlberg",
+        "anecdote": "With $ 68 million earned, he is ahead of Dwayne Johnson, who was in first place last year, as well as Emma Stone."
+      },
+      {
+        "id": 8,
+        "question": "From the death of which actress Alain Delon is he still very hard to recover ?",
+        "propositions": [
+          "Elsa Martinelli",
+          "Nicole Besnard",
+          "Jeanne Moreau",
+          "Mireille Darc"
+        ],
+        "reponse": "Mireille Darc",
+        "anecdote": "Following the death of his former partner, Alain Delon paid him a vibrant tribute to Valerie Trierweiler for Paris Match."
+      },
+      {
+        "id": 9,
+        "question": "How many candles did Genevieve de Fontenay blow in August 2017 ?",
+        "propositions": [
+          "65",
+          "85",
+          "75",
+          "55"
+        ],
+        "reponse": "85",
+        "anecdote": "The least we can say is that the lady with the hat born in Longwy in 1932 seems much younger than her age."
+      },
+      {
+        "id": 10,
+        "question": "Which Facebook president has become the father of a little August ?",
+        "propositions": [
+          "Warren Buffett",
+          "Mark Zuckerberg",
+          "Stefan Persson",
+          "Karl Albrecht"
+        ],
+        "reponse": "Mark Zuckerberg",
+        "anecdote": "Mark Zuckerberg has announced that he will take two months paternity leave to take advantage of his child's first steps."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "What young celebrity panics the web with an H cup on Instagram ?",
+        "propositions": [
+          "Julie Ricci",
+          "Sarah Fraisou",
+          "Anaïs Camizuli",
+          "Diana Jones"
+        ],
+        "reponse": "Sarah Fraisou",
+        "anecdote": "Malik's ex-girlfriend flew to Tunisia, her country of origin, putting her luggage in Hammamet."
+      },
+      {
+        "id": 12,
+        "question": "What celebrity did Fred Cassin marry for the third time in 2017 ?",
+        "propositions": [
+          "Daphne Chollet",
+          "Sonia Dubois",
+          "Isabelle Giordano",
+          "Cristina Cordula"
+        ],
+        "reponse": "Cristina Cordula",
+        "anecdote": "After getting married twice, on the island of Capri and in Singapore, Cristina Cordula again married her partner at her home in Rio."
+      },
+      {
+        "id": 13,
+        "question": "Which star of « Game of Thrones » was engaged in part thanks to his followers ?",
+        "propositions": [
+          "Maisie Williams",
+          "Emilia Clarke",
+          "Lena Headey",
+          "Sophie Turner"
+        ],
+        "reponse": "Sophie Turner",
+        "anecdote": "The star of the series thus reveals the back of the decor and highlights the dark side of the film industry."
+      },
+      {
+        "id": 14,
+        "question": "Which reality star has simply declared : « My buttocks are beautiful » ?",
+        "propositions": [
+          "Melanie Amar",
+          "Barbara Moon",
+          "Kim Glow",
+          "Sarah Fraisou"
+        ],
+        "reponse": "Kim Glow",
+        "anecdote": "Proud of his buttocks, Kim Glow offers his complex fans to follow the same path as his : that of billiards."
+      },
+      {
+        "id": 15,
+        "question": "Which famous showrunner left ABC to join Netflix in 2017 ?",
+        "propositions": [
+          "Sara Hess",
+          "Shonda Rhimes",
+          "Tricia Brock",
+          "Nancy Dowd"
+        ],
+        "reponse": "Shonda Rhimes",
+        "anecdote": "« Grey's Anatomy » creator Shonda Rhimes left ABC after more than fifteen years of successful business collaboration."
+      },
+      {
+        "id": 16,
+        "question": "Which actress formalized her love story with Darren Aronofsky in 2017 ?",
+        "propositions": [
+          "Emma Stone",
+          "Brie Larson",
+          "Cate Blanchett",
+          "Jennifer Lawrence"
+        ],
+        "reponse": "Jennifer Lawrence",
+        "anecdote": "Before this new muse, the talented Darren Aronofsky has long been in a relationship with the sublime Rachel Weisz."
+      },
+      {
+        "id": 17,
+        "question": "With what former Top Chef Laury Thilleman does she make perfect love ?",
+        "propositions": [
+          "Juan Arbelaez",
+          "Gregory Cuilleron",
+          "Pierre Auge",
+          "Brice Morvent"
+        ],
+        "reponse": "Juan Arbelaez",
+        "anecdote": "Juan Arbelaez is the owner of the Plantxa and Levain restaurants, both located in Boulogne-Billancourt."
+      },
+      {
+        "id": 18,
+        "question": "Which singer posed topless in August 2017 for Paper Magazine ?",
+        "propositions": [
+          "Mariah Carey",
+          "Beyonce",
+          "Britney Spears",
+          "Madonna"
+        ],
+        "reponse": "Mariah Carey",
+        "anecdote": "Mariah Carey has an exceptional vocal range of five octaves and four notes (Eb2-Bb7)."
+      },
+      {
+        "id": 19,
+        "question": "At 69, what French actor has become a father for the fourth time ?",
+        "propositions": [
+          "Alain Chabat",
+          "Gerard Darmon",
+          "Jean Reno",
+          "Jean-Pierre Bacri"
+        ],
+        "reponse": "Gerard Darmon",
+        "anecdote": "Gerard Darmon spent his summer immersed in diapers and baby bottles: his wife Christine gave birth."
+      },
+      {
+        "id": 20,
+        "question": "What man is behind the physical metamorphosis of Celine Dion ?",
+        "propositions": [
+          "Hedi Slimane",
+          "Marc Jacobs",
+          "Law Roach",
+          "Paul Smith"
+        ],
+        "reponse": "Law Roach",
+        "anecdote": "Law Roach explained during the 2017 VMA ceremony how the singer Celine Dion approached her love for fashion."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "What is the name of the dog adopted by the presidential couple Emmanuel and Brigitte Macron ?",
+        "propositions": [
+          "Nemo",
+          "Fidji",
+          "Pluto",
+          "Satanas"
+        ],
+        "reponse": "Nemo",
+        "anecdote": "The presidential couple indeed adopted at the SPA in August 2017 a black griffin / labrador cross that they baptized Nemo."
+      },
+      {
+        "id": 22,
+        "question": "Which famous guitarist revealed in 2017 to have emerged from lung cancer ?",
+        "propositions": [
+          "Eric Stewart",
+          "Greg Lake",
+          "Jamie Cook",
+          "Ron Wood"
+        ],
+        "reponse": "Ron Wood",
+        "anecdote": "The Rolling Stones guitarist explained that a tumor had been discovered in his home during a simple routine check."
+      },
+      {
+        "id": 23,
+        "question": "How is the transgender son of Warren Beatty and Annette Bening named ?",
+        "propositions": [
+          "Donald",
+          "Jason",
+          "Stephen",
+          "Harry"
+        ],
+        "reponse": "Stephen",
+        "anecdote": "Born a girl, wishing to become a man, Stephen has become one of the voice of the transgender community in the United States."
+      },
+      {
+        "id": 24,
+        "question": "Which model with vitiligo has self-love on Instagram ?",
+        "propositions": [
+          "Ashley Graham",
+          "Gigi Hadid",
+          "Olivia Palermo",
+          "Rebecca Heckard"
+        ],
+        "reponse": "Rebecca Heckard",
+        "anecdote": "At 21, Rebecca Heckard made her Instagram account a wonderful tool to spread her calls for tolerance."
+      },
+      {
+        "id": 25,
+        "question": "Who is hiding behind Passe-Muraille, the messenger of Father Fouras in « Fort Boyard » ?",
+        "propositions": [
+          "Alain Prevost",
+          "Andre Bouchet",
+          "Yves Marchesseau",
+          "Anthony Laborde"
+        ],
+        "reponse": "Anthony Laborde",
+        "anecdote": "In 2004, the 34-year-old joined the « Fort Boyard » team thanks to one of his friends, a certain Passe-Partout."
+      },
+      {
+        "id": 26,
+        "question": "Who was the world champion of the 50 km walk in London in 2017 ?",
+        "propositions": [
+          "Yohann Diniz",
+          "Trond Nymark",
+          "Nathan Deakes",
+          "Robert Heffernan"
+        ],
+        "reponse": "Yohann Diniz",
+        "anecdote": "Yohann Diniz holds the world record of the 50 km walk with the time of 3 h 32 min 33 s, established on 15 May 2014."
+      },
+      {
+        "id": 27,
+        "question": "Thanks to which famous actress Meghan Markle also became an actress ?",
+        "propositions": [
+          "Jennifer Lawrence",
+          "Charlize Theron",
+          "Julia Roberts",
+          "Emma Stone"
+        ],
+        "reponse": "Julia Roberts",
+        "anecdote": "On November 8, 2016, it was officially announced that Meghan Markle became the girlfriend of Prince Henry of Wales."
+      },
+      {
+        "id": 28,
+        "question": "Which French actor promoted the Onda Carioca festival ?",
+        "propositions": [
+          "Mathieu Amalric",
+          "Francois Cluzet",
+          "Guillaume Gallienne",
+          "Vincent Cassel"
+        ],
+        "reponse": "Vincent Cassel",
+        "anecdote": "Vincent Cassel and his partner Tina Kunakey displayed their love and good humor on samba tunes."
+      },
+      {
+        "id": 29,
+        "question": "In August 2017, which famous bodybuilder died suffocated at 26 years old ?",
+        "propositions": [
+          "Ronnie Coleman",
+          "Dallas McCarver",
+          "Phil Heath",
+          "Jay Cutler"
+        ],
+        "reponse": "Dallas McCarver",
+        "anecdote": "Death by suffocation according to Dana Brooke, who sent her darling a moving farewell letter on Instagram."
+      },
+      {
+        "id": 30,
+        "question": "Which French singer will have to reimburse 35 million euros to a bank ?",
+        "propositions": [
+          "Guy Beart",
+          "Johnny Hallyday",
+          "Eddy Mitchell",
+          "Enrico Macias"
+        ],
+        "reponse": "Enrico Macias",
+        "anecdote": "After a long legal battle against the bank Landsbanki Luxembourg, justice has finally disowned Enrico Macias."
+      }
+    ]
+    },
+    "de": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Welcher Schauspieler hat sich bei Stunts im August 2017 in Paris am Knöchel verletzt ?",
+        "propositions": [
+          "Jean Reno",
+          "Tom Cruise",
+          "Jason Statham",
+          "Bruce Willis"
+        ],
+        "reponse": "Tom Cruise",
+        "anecdote": "Tom Cruise war in Paris anwesend, um die Szenen von « Mission Impossible 6 » zu inszenieren, die in der Stadt der Lichter stattfinden."
+      },
+      {
+        "id": 2,
+        "question": "Welches Jubiläum hat Karine Le Marchand 2017 gefeiert ?",
+        "propositions": [
+          "Ihre 39 Jahre",
+          "Ihre 29 Jahre",
+          "Ihre 49 Jahre",
+          "Ihre 19 Jahre"
+        ],
+        "reponse": "Ihre 49 Jahre",
+        "anecdote": "Karine Le Marchands richtiger Nachname ist Mfayokurera (oft von Journalisten als M'Fayokurera geschrieben)."
+      },
+      {
+        "id": 3,
+        "question": "Welcher Filmstar adoptierte zwei Kinder namens Jackson und August ?",
+        "propositions": [
+          "Charlize Theron",
+          "Reese Witherspoon",
+          "Kate Winslet",
+          "Hilary Swank"
+        ],
+        "reponse": "Charlize Theron",
+        "anecdote": "1999 machte Charlize Theron die Titelseite der berühmten Zeitschrift Vanity Fair sowie die des Playboys und zeigte mehrere nackte Bilder."
+      },
+      {
+        "id": 4,
+        "question": "Wer wurde im August 2017 die bestbezahlte Schauspielerin der Welt ?",
+        "propositions": [
+          "Emma Stone",
+          "Reese Witherspoon",
+          "Kate Winslet",
+          "Jennifer Lawrence"
+        ],
+        "reponse": "Emma Stone",
+        "anecdote": "Hinter Emma Stone (28) kämpfen zwei Jennifer im Forbes-Ranking 2017 um den zweiten und dritten Platz."
+      },
+      {
+        "id": 5,
+        "question": "Wem wurde (endlich) John Lennons « Imagine » -Röhre gutgeschrieben ?",
+        "propositions": [
+          "Maureen Cox",
+          "Yoko Ono",
+          "Cilla Black",
+          "Jane Asher"
+        ],
+        "reponse": "Yoko Ono",
+        "anecdote": "46 Jahre nach der Veröffentlichung von « Imagine » wird Yoko Ono Co-Autor: eine Anerkennung, die für den japanischen Künstler als verspätet gilt."
+      },
+      {
+        "id": 6,
+        "question": "Welcher französische Sänger erhielt 2017 seinen Star auf dem Hollywood Boulevard ?",
+        "propositions": [
+          "Serge Lama",
+          "Francis Cabrel",
+          "Charles Aznavour",
+          "Louis Chedid"
+        ],
+        "reponse": "Charles Aznavour",
+        "anecdote": "Der Dolmetscher von « La Boheme » gesellt sich zu zwanzig Franzosen oder Künstlern aus Frankreich, die auf der Promenade geehrt werden."
+      },
+      {
+        "id": 7,
+        "question": "Wer wurde 2017 der bestbezahlte Schauspieler der Welt ?",
+        "propositions": [
+          "Mark Wahlberg",
+          "Jean Reno",
+          "Tom Cruise",
+          "Jason Statham"
+        ],
+        "reponse": "Mark Wahlberg",
+        "anecdote": "Mit 68 Millionen US-Dollar liegt er vor Dwayne Johnson, der letztes Jahr den ersten Platz belegte, und Emma Stone."
+      },
+      {
+        "id": 8,
+        "question": "Nach dem Tod welcher Schauspielerin Alain Delon ist er immer noch sehr schwer zu erholen ?",
+        "propositions": [
+          "Mireille Darc",
+          "Elsa Martinelli",
+          "Jeanne Moreau",
+          "Nicole Besnard"
+        ],
+        "reponse": "Mireille Darc",
+        "anecdote": "Nach dem Tod seines ehemaligen Partners würdigte Alain Delon Valerie Trierweiler für Paris Match."
+      },
+      {
+        "id": 9,
+        "question": "Wie viele Kerzen hat Genevieve de Fontenay im August 2017 geblasen ?",
+        "propositions": [
+          "65",
+          "85",
+          "75",
+          "55"
+        ],
+        "reponse": "85",
+        "anecdote": "Das Mindeste, was wir sagen können, ist, dass die Frau mit dem Hut, die 1932 in Longwy geboren wurde, viel jünger zu sein scheint als sie."
+      },
+      {
+        "id": 10,
+        "question": "Welcher Facebook-Präsident ist der Vater eines kleinen August geworden ?",
+        "propositions": [
+          "Stefan Persson",
+          "Warren Buffett",
+          "Karl Albrecht",
+          "Mark Zuckerberg"
+        ],
+        "reponse": "Mark Zuckerberg",
+        "anecdote": "Mark Zuckerberg hat angekündigt, dass er zwei Monate Vaterschaftsurlaub nehmen wird, um die ersten Schritte seines Kindes zu nutzen."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Welche junge Berühmtheit bringt das Web mit einer H-Tasse auf Instagram in Panik ?",
+        "propositions": [
+          "Diana Jones",
+          "Sarah Fraisou",
+          "Julie Ricci",
+          "Anaïs Camizuli"
+        ],
+        "reponse": "Sarah Fraisou",
+        "anecdote": "Maliks Ex-Freundin flog nach Tunesien, ihrem Herkunftsland, und stellte ihr Gepäck in Hammamet ab."
+      },
+      {
+        "id": 12,
+        "question": "Welche Berühmtheit hat Fred Cassin 2017 zum dritten Mal geheiratet ?",
+        "propositions": [
+          "Sonia Dubois",
+          "Daphne Chollet",
+          "Isabelle Giordano",
+          "Cristina Cordula"
+        ],
+        "reponse": "Cristina Cordula",
+        "anecdote": "Nach zweimaliger Heirat auf der Insel Capri und in Singapur heiratete Cristina Cordula erneut ihren Partner in ihrem Haus in Rio."
+      },
+      {
+        "id": 13,
+        "question": "Welcher Star von « Game of Thrones » war zum Teil dank seiner Anhänger verlobt ?",
+        "propositions": [
+          "Sophie Turner",
+          "Maisie Williams",
+          "Lena Headey",
+          "Emilia Clarke"
+        ],
+        "reponse": "Sophie Turner",
+        "anecdote": "Der Star der Serie enthüllt somit die Rückseite des Dekors und hebt die dunkle Seite der Filmindustrie hervor."
+      },
+      {
+        "id": 14,
+        "question": "Welcher Reality-Star hat einfach erklär t: « Mein Gesäß ist wunderschön » ?",
+        "propositions": [
+          "Kim Glow",
+          "Sarah Fraisou",
+          "Melanie Amar",
+          "Barbara Moon"
+        ],
+        "reponse": "Kim Glow",
+        "anecdote": "Kim Glow ist stolz auf sein Gesäß und bietet seinen komplexen Fans an, denselben Weg zu gehen wie seinen : den des Billards."
+      },
+      {
+        "id": 15,
+        "question": "Welcher berühmte Showrunner hat ABC verlassen, um 2017 zu Netflix zu kommen ?",
+        "propositions": [
+          "Nancy Dowd",
+          "Sara Hess",
+          "Tricia Brock",
+          "Shonda Rhimes"
+        ],
+        "reponse": "Shonda Rhimes",
+        "anecdote": "« Greys Anatomy » -Erstellerin Shonda Rhimes verließ ABC nach mehr als fünfzehn Jahren erfolgreicher geschäftlicher Zusammenarbeit."
+      },
+      {
+        "id": 16,
+        "question": "Welche Schauspielerin hat 2017 ihre Liebesgeschichte mit Darren Aronofsky formalisiert ?",
+        "propositions": [
+          "Brie Larson",
+          "Cate Blanchett",
+          "Jennifer Lawrence",
+          "Emma Stone"
+        ],
+        "reponse": "Jennifer Lawrence",
+        "anecdote": "Vor dieser neuen Muse war der talentierte Darren Aronofsky lange in einer Beziehung mit der erhabenen Rachel Weisz."
+      },
+      {
+        "id": 17,
+        "question": "Mit welcher ehemaligen Spitzenköchin Laury Thilleman liebt sie sich perfekt ?",
+        "propositions": [
+          "Gregory Cuilleron",
+          "Juan Arbelaez",
+          "Brice Morvent",
+          "Pierre Auge"
+        ],
+        "reponse": "Juan Arbelaez",
+        "anecdote": "Juan Arbelaez ist der Eigentümer der Restaurants Plantxa und Levain in Boulogne-Billancourt."
+      },
+      {
+        "id": 18,
+        "question": "Welcher Sänger posierte im August 2017 für das Paper Magazine oben ohne ?",
+        "propositions": [
+          "Britney Spears",
+          "Madonna",
+          "Mariah Carey",
+          "Beyonce"
+        ],
+        "reponse": "Mariah Carey",
+        "anecdote": "Mariah Carey hat einen außergewöhnlichen Stimmumfang von fünf Oktaven und vier Noten (Eb2-Bb7)."
+      },
+      {
+        "id": 19,
+        "question": "Welcher französische Schauspieler ist mit 69 Jahren zum vierten Mal Vater geworden ?",
+        "propositions": [
+          "Jean-Pierre Bacri",
+          "Alain Chabat",
+          "Jean Reno",
+          "Gerard Darmon"
+        ],
+        "reponse": "Gerard Darmon",
+        "anecdote": "Gerard Darmon verbrachte seinen Sommer in Windeln und Flaschen: Seine Frau Christine gebar."
+      },
+      {
+        "id": 20,
+        "question": "Welcher Mann steckt hinter der physischen Metamorphose von Celine Dion ?",
+        "propositions": [
+          "Hedi Slimane",
+          "Paul Smith",
+          "Law Roach",
+          "Marc Jacobs"
+        ],
+        "reponse": "Law Roach",
+        "anecdote": "Law Roach erklärte während der VMA-Zeremonie 2017, wie die Sängerin Celine Dion sich ihrer Liebe zur Mode näherte."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wie heißt der Hund, den das Präsidentenpaar Emmanuel und Brigitte Macron adoptiert hat ?",
+        "propositions": [
+          "Satanas",
+          "Fidji",
+          "Nemo",
+          "Pluto"
+        ],
+        "reponse": "Nemo",
+        "anecdote": "Das Präsidentenpaar hat im August 2017 im SPA tatsächlich einen schwarzen Greif / Labrador-Crossover adoptiert, den sie Nemo getauft haben."
+      },
+      {
+        "id": 22,
+        "question": "Welcher berühmte Gitarrist hat 2017 bekannt gegeben, dass er aus Lungenkrebs hervorgegangen ist ?",
+        "propositions": [
+          "Jamie Cook",
+          "Eric Stewart",
+          "Greg Lake",
+          "Ron Wood"
+        ],
+        "reponse": "Ron Wood",
+        "anecdote": "Der Rolling Stones-Gitarrist erklärte, dass bei einer einfachen Routinekontrolle in seinem Haus ein Tumor entdeckt worden sei."
+      },
+      {
+        "id": 23,
+        "question": "Wie heißt der Transgender-Sohn von Warren Beatty und Annette Bening ?",
+        "propositions": [
+          "Jason",
+          "Harry",
+          "Stephen",
+          "Donald"
+        ],
+        "reponse": "Stephen",
+        "anecdote": "Stephen wurde in ein Mädchen hineingeboren und möchte ein Mann werden. Er ist zu einer der Stimmen der Transgender-Gemeinschaft in den Vereinigten Staaten geworden."
+      },
+      {
+        "id": 24,
+        "question": "Welches Model mit Vitiligo hat Selbstliebe auf Instagram ?",
+        "propositions": [
+          "Olivia Palermo",
+          "Rebecca Heckard",
+          "Ashley Graham",
+          "Gigi Hadid"
+        ],
+        "reponse": "Rebecca Heckard",
+        "anecdote": "Mit 21 Jahren machte Rebecca Heckard ihren Instagram-Account zu einem wunderbaren Werkzeug, um ihre Forderungen nach Toleranz zu verbreiten."
+      },
+      {
+        "id": 25,
+        "question": "Wer versteckt sich hinter Passe-Muraille, dem Boten von Pater Fouras in « Fort Boyard » ?",
+        "propositions": [
+          "Yves Marchesseau",
+          "Andre Bouchet",
+          "Alain Prevost",
+          "Anthony Laborde"
+        ],
+        "reponse": "Anthony Laborde",
+        "anecdote": "Im Jahr 2004 trat der 34-Jährige dank eines seiner Freunde, einem gewissen Passe-Partout, dem « Fort Boyard » -Team bei."
+      },
+      {
+        "id": 26,
+        "question": "Wer war der Weltmeister der 50 km langen Wanderung in London im Jahr 2017 ?",
+        "propositions": [
+          "Nathan Deakes",
+          "Robert Heffernan",
+          "Yohann Diniz",
+          "Trond Nymark"
+        ],
+        "reponse": "Yohann Diniz",
+        "anecdote": "Yohann Diniz hält den Weltrekord der 50 km langen Wanderung mit einer Zeit von 3 h 32 min 33 s, die am 15."
+      },
+      {
+        "id": 27,
+        "question": "Dank welcher berühmten Schauspielerin wurde Meghan Markle auch Schauspielerin ?",
+        "propositions": [
+          "Charlize Theron",
+          "Emma Stone",
+          "Jennifer Lawrence",
+          "Julia Roberts"
+        ],
+        "reponse": "Julia Roberts",
+        "anecdote": "Am 8. November 2016 wurde offiziell bekannt gegeben, dass Meghan Markle die Freundin von Prinz Henry von Wales wurde."
+      },
+      {
+        "id": 28,
+        "question": "Welcher französische Schauspieler hat das Onda Carioca Festival beworben ?",
+        "propositions": [
+          "Guillaume Gallienne",
+          "Francois Cluzet",
+          "Mathieu Amalric",
+          "Vincent Cassel"
+        ],
+        "reponse": "Vincent Cassel",
+        "anecdote": "Vincent Cassel und seine Partnerin Tina Kunakey zeigten ihre Liebe und gute Laune bei Samba-Melodien."
+      },
+      {
+        "id": 29,
+        "question": "Welcher berühmte Bodybuilder starb im August 2017 im Alter von 26 Jahren erstickt ?",
+        "propositions": [
+          "Jay Cutler",
+          "Ronnie Coleman",
+          "Phil Heath",
+          "Dallas McCarver"
+        ],
+        "reponse": "Dallas McCarver",
+        "anecdote": "Erstickungstod laut Dana Brooke, die ihrem Liebling einen bewegenden Abschiedsbrief auf Instagram geschickt hat."
+      },
+      {
+        "id": 30,
+        "question": "Welcher französische Sänger muss einer Bank 35 Millionen Euro erstatten ?",
+        "propositions": [
+          "Johnny Hallyday",
+          "Enrico Macias",
+          "Eddy Mitchell",
+          "Guy Beart"
+        ],
+        "reponse": "Enrico Macias",
+        "anecdote": "Nach einem langen Rechtsstreit gegen die Bank Landsbanki Luxembourg hat die Justiz Enrico Macias endgültig verstoßen."
+      }
+    ]
+    },
+    "es": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "¿Que actor en el rodaje se lesionó el tobillo durante las acrobacias realizadas en París en agosto de 2017 ?",
+        "propositions": [
+          "Jason Statham",
+          "Tom Cruise",
+          "Jean Reno",
+          "Bruce Willis"
+        ],
+        "reponse": "Tom Cruise",
+        "anecdote": "Tom Cruise estuvo presente en París para dirigir las escenas de « Mission Impossible 6 » que tienen lugar en la Ciudad de las Luces."
+      },
+      {
+        "id": 2,
+        "question": "¿Que aniversario celebró Karine Le Marchand en 2017 ?",
+        "propositions": [
+          "Sus 49 años",
+          "Sus 29 años",
+          "Sus 19 años",
+          "Sus 39 años"
+        ],
+        "reponse": "Sus 49 años",
+        "anecdote": "El verdadero apellido de Karine Le Marchand es Mfayokurera (a menudo escrito M'Fayokurera por periodistas)."
+      },
+      {
+        "id": 3,
+        "question": "¿Que estrella de cine adoptó a dos niños llamados Jackson y August ?",
+        "propositions": [
+          "Reese Witherspoon",
+          "Kate Winslet",
+          "Charlize Theron",
+          "Hilary Swank"
+        ],
+        "reponse": "Charlize Theron",
+        "anecdote": "En 1999, Charlize Theron apareció en la portada de la famosa revista Vanity Fair y en la de Playboy, mostrando varias fotos desnudas."
+      },
+      {
+        "id": 4,
+        "question": "¿Quien se convirtió en la actriz mejor pagada del mundo en agosto de 2017 ?",
+        "propositions": [
+          "Jennifer Lawrence",
+          "Emma Stone",
+          "Kate Winslet",
+          "Reese Witherspoon"
+        ],
+        "reponse": "Emma Stone",
+        "anecdote": "Detrás de Emma Stone (28), dos Jennifer luchan por el segundo y tercer lugar en el ranking Forbes 2017."
+      },
+      {
+        "id": 5,
+        "question": "¿Quien fue (finalmente) acreditado en el tubo « Imagine » de John Lennon ?",
+        "propositions": [
+          "Yoko Ono",
+          "Maureen Cox",
+          "Cilla Black",
+          "Jane Asher"
+        ],
+        "reponse": "Yoko Ono",
+        "anecdote": "46 años despues del lanzamiento de « Imagine », Yoko Ono se convierte en coautora: un reconocimiento considerado tardío para el artista japones."
+      },
+      {
+        "id": 6,
+        "question": "¿Que cantante frances recibió su estrella en Hollywood Boulevard en 2017 ?",
+        "propositions": [
+          "Louis Chedid",
+          "Serge Lama",
+          "Francis Cabrel",
+          "Charles Aznavour"
+        ],
+        "reponse": "Charles Aznavour",
+        "anecdote": "El interprete de « La Boheme » se une a unos veinte franceses o artistas de Francia honrados en el paseo marítimo."
+      },
+      {
+        "id": 7,
+        "question": "¿Quien se convirtió en el actor mejor pagado del mundo en 2017 ?",
+        "propositions": [
+          "Mark Wahlberg",
+          "Jean Reno",
+          "Tom Cruise",
+          "Jason Statham"
+        ],
+        "reponse": "Mark Wahlberg",
+        "anecdote": "Con $ 68 millones ganados, está por delante de Dwayne Johnson, quien ocupó el primer lugar el año pasado, así como Emma Stone."
+      },
+      {
+        "id": 8,
+        "question": "¿De la muerte de que actriz Alain Delon sigue siendo muy difícil de recuperar ?",
+        "propositions": [
+          "Elsa Martinelli",
+          "Mireille Darc",
+          "Jeanne Moreau",
+          "Nicole Besnard"
+        ],
+        "reponse": "Mireille Darc",
+        "anecdote": "Tras la muerte de su ex pareja, Alain Delon le rindió un vibrante homenaje a Valerie Trierweiler por Paris Match."
+      },
+      {
+        "id": 9,
+        "question": "¿Cuántas velas sopló Genevieve de Fontenay en agosto de 2017 ?",
+        "propositions": [
+          "El",
+          "85",
+          "75",
+          "65"
+        ],
+        "reponse": "El",
+        "anecdote": "Lo menos que podemos decir es que la mujer con el sombrero nacida en Longwy en 1932 parece mucho más joven que su edad."
+      },
+      {
+        "id": 10,
+        "question": "¿Que presidente de Facebook se ha convertido en el padre de un pequeño agosto ?",
+        "propositions": [
+          "Warren Buffett",
+          "Mark Zuckerberg",
+          "Karl Albrecht",
+          "Stefan Persson"
+        ],
+        "reponse": "Mark Zuckerberg",
+        "anecdote": "Mark Zuckerberg ha anunciado que tomará dos meses de licencia por paternidad para aprovechar los primeros pasos de su hijo."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "¿Que joven celebridad entra en pánico en la web con una copa H en Instagram ?",
+        "propositions": [
+          "Sarah Fraisou",
+          "Diana Jones",
+          "Julie Ricci",
+          "Anaïs Camizuli"
+        ],
+        "reponse": "Sarah Fraisou",
+        "anecdote": "La ex novia de Malik voló a Túnez, su país de origen, poniendo su equipaje en Hammamet."
+      },
+      {
+        "id": 12,
+        "question": "¿Con que celebridad se casó Fred Cassin por tercera vez en 2017 ?",
+        "propositions": [
+          "Isabelle Giordano",
+          "Sonia Dubois",
+          "Daphne Chollet",
+          "Cristina Cordula"
+        ],
+        "reponse": "Cristina Cordula",
+        "anecdote": "Despues de casarse dos veces, en la isla de Capri y en Singapur, Cristina Cordula volvió a casarse con su pareja en su casa en Río."
+      },
+      {
+        "id": 13,
+        "question": "¿Que estrella de « Game of Thrones » se comprometió en parte gracias a sus seguidores ?",
+        "propositions": [
+          "Maisie Williams",
+          "Lena Headey",
+          "Sophie Turner",
+          "Emilia Clarke"
+        ],
+        "reponse": "Sophie Turner",
+        "anecdote": "La estrella de la serie revela así el detrás de escena y destaca el lado oscuro de la industria del cine."
+      },
+      {
+        "id": 14,
+        "question": "¿Que estrella de la realidad simplemente ha declarado : « Mis nalgas son hermosas » ?",
+        "propositions": [
+          "Barbara Moon",
+          "Sarah Fraisou",
+          "Melanie Amar",
+          "Kim Glow"
+        ],
+        "reponse": "Kim Glow",
+        "anecdote": "Orgullosa de sus nalgas, Kim Glow ofrece a sus fanáticos complejos que sigan el mismo camino que el de ella : el del billar."
+      },
+      {
+        "id": 15,
+        "question": "¿Que famoso showrunner dejó ABC para unirse a Netflix en 2017 ?",
+        "propositions": [
+          "Tricia Brock",
+          "Sara Hess",
+          "Shonda Rhimes",
+          "Nancy Dowd"
+        ],
+        "reponse": "Shonda Rhimes",
+        "anecdote": "La creadora de « Grey's Anatomy », Shonda Rhimes, dejó ABC despues de más de quince años de exitosa colaboración comercial."
+      },
+      {
+        "id": 16,
+        "question": "¿Que actriz formalizó su historia de amor con Darren Aronofsky en 2017 ?",
+        "propositions": [
+          "Brie Larson",
+          "Emma Stone",
+          "Cate Blanchett",
+          "Jennifer Lawrence"
+        ],
+        "reponse": "Jennifer Lawrence",
+        "anecdote": "Antes de esta nueva musa, el talentoso Darren Aronofsky ha estado en una relación con la sublime Rachel Weisz."
+      },
+      {
+        "id": 17,
+        "question": "¿Con que ex jefe de cocina Laury Thilleman hace el amor perfecto ?",
+        "propositions": [
+          "Gregory Cuilleron",
+          "Brice Morvent",
+          "Pierre Auge",
+          "Juan Arbelaez"
+        ],
+        "reponse": "Juan Arbelaez",
+        "anecdote": "Juan Arbeláez es el dueño de los restaurantes Plantxa y Levain, ambos ubicados en Boulogne-Billancourt."
+      },
+      {
+        "id": 18,
+        "question": "¿Que cantante posó en topless en agosto de 2017 para Paper Magazine ?",
+        "propositions": [
+          "Beyonce",
+          "Britney Spears",
+          "Mariah Carey",
+          "Madonna"
+        ],
+        "reponse": "Mariah Carey",
+        "anecdote": "Mariah Carey tiene un rango vocal excepcional de cinco octavas y cuatro notas (Eb2-Bb7)."
+      },
+      {
+        "id": 19,
+        "question": "A los 69 años, ¿que actor frances se ha convertido en padre por cuarta vez ?",
+        "propositions": [
+          "Jean-Pierre Bacri",
+          "Alain Chabat",
+          "Jean Reno",
+          "Gerard Darmon"
+        ],
+        "reponse": "Gerard Darmon",
+        "anecdote": "Gerard Darmon pasó su verano sumergido en pañales y biberones : su esposa Christine dio a luz."
+      },
+      {
+        "id": 20,
+        "question": "¿Que hombre está detrás de la metamorfosis física de Celine Dion ?",
+        "propositions": [
+          "Law Roach",
+          "Marc Jacobs",
+          "Hedi Slimane",
+          "Paul Smith"
+        ],
+        "reponse": "Law Roach",
+        "anecdote": "Law Roach explicó durante la ceremonia de VMA 2017 cómo la cantante Celine Dion se acercó a su amor por la moda."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Cómo se llama el perro adoptado por la pareja presidencial Emmanuel y Brigitte Macron ?",
+        "propositions": [
+          "Fidji",
+          "Satanas",
+          "Pluto",
+          "Nemo"
+        ],
+        "reponse": "Nemo",
+        "anecdote": "De hecho, la pareja presidencial adoptó en el SPA en agosto de 2017 una cruz de Griffin / Labrador negra que llamaron Nemo."
+      },
+      {
+        "id": 22,
+        "question": "¿Que famoso guitarrista reveló en 2017 haber surgido del cáncer de pulmón ?",
+        "propositions": [
+          "Jamie Cook",
+          "Greg Lake",
+          "Eric Stewart",
+          "Ron Wood"
+        ],
+        "reponse": "Ron Wood",
+        "anecdote": "El guitarrista de los Rolling Stones explicó que se había descubierto un tumor en su casa durante una simple revisión de rutina."
+      },
+      {
+        "id": 23,
+        "question": "¿Cómo se nombra al hijo transgenero de Warren Beatty y Annette Bening ?",
+        "propositions": [
+          "Stephen",
+          "Jason",
+          "Harry",
+          "Donald"
+        ],
+        "reponse": "Stephen",
+        "anecdote": "Nacido en una niña y deseando convertirse en hombre, Stephen se ha convertido en una de las voces de la comunidad transgenero en los Estados Unidos."
+      },
+      {
+        "id": 24,
+        "question": "¿Que modelo con vitiligo tiene amor propio en Instagram ?",
+        "propositions": [
+          "Olivia Palermo",
+          "Ashley Graham",
+          "Gigi Hadid",
+          "Rebecca Heckard"
+        ],
+        "reponse": "Rebecca Heckard",
+        "anecdote": "A los 21 años, Rebecca Heckard hizo de su cuenta de Instagram una herramienta maravillosa para difundir sus llamados a la tolerancia."
+      },
+      {
+        "id": 25,
+        "question": "¿Quien se esconde detrás de Passe-Muraille, el mensajero del padre Fouras en « Fort Boyard » ?",
+        "propositions": [
+          "Alain Prevost",
+          "Yves Marchesseau",
+          "Anthony Laborde",
+          "Andre Bouchet"
+        ],
+        "reponse": "Anthony Laborde",
+        "anecdote": "En 2004, el hombre de 34 años se unió al equipo « Fort Boyard » gracias a uno de sus amigos, un cierto Passe-Partout."
+      },
+      {
+        "id": 26,
+        "question": "¿Quien fue el campeón mundial de la caminata de 50 km en Londres en 2017 ?",
+        "propositions": [
+          "Robert Heffernan",
+          "Nathan Deakes",
+          "Yohann Diniz",
+          "Trond Nymark"
+        ],
+        "reponse": "Yohann Diniz",
+        "anecdote": "Yohann Diniz tiene el record mundial de la caminata de 50 km con un tiempo de 3h 32min 33s, establecido el 15 de agosto de 2014."
+      },
+      {
+        "id": 27,
+        "question": "¿Gracias a que famosa actriz Meghan Markle tambien se convirtió en actriz ?",
+        "propositions": [
+          "Charlize Theron",
+          "Jennifer Lawrence",
+          "Julia Roberts",
+          "Emma Stone"
+        ],
+        "reponse": "Julia Roberts",
+        "anecdote": "El 8 de noviembre de 2016, se anunció oficialmente que Meghan Markle se convirtió en la novia del príncipe Enrique de Gales."
+      },
+      {
+        "id": 28,
+        "question": "¿Que actor frances promovió el festival Onda Carioca ?",
+        "propositions": [
+          "Guillaume Gallienne",
+          "Mathieu Amalric",
+          "Vincent Cassel",
+          "Francois Cluzet"
+        ],
+        "reponse": "Vincent Cassel",
+        "anecdote": "Vincent Cassel y su compañera Tina Kunakey mostraron su amor y buen humor en las melodías de samba."
+      },
+      {
+        "id": 29,
+        "question": "En agosto de 2017, ¿que famoso culturista murió sofocado a los 26 años ?",
+        "propositions": [
+          "Jay Cutler",
+          "Phil Heath",
+          "Dallas McCarver",
+          "Ronnie Coleman"
+        ],
+        "reponse": "Dallas McCarver",
+        "anecdote": "Muerte por asfixia según Dana Brooke, quien le envió a su novia una emotiva carta de despedida en Instagram."
+      },
+      {
+        "id": 30,
+        "question": "¿Que cantante frances tendrá que reembolsar 35 millones de euros a un banco ?",
+        "propositions": [
+          "Eddy Mitchell",
+          "Johnny Hallyday",
+          "Enrico Macias",
+          "Guy Beart"
+        ],
+        "reponse": "Enrico Macias",
+        "anecdote": "Despues de una larga batalla legal contra el banco Landsbanki Luxemburgo, la justicia finalmente ha desautorizado a Enrico Macias."
+      }
+    ]
+    },
+    "it": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Quale attore delle riprese si e infortunato alla caviglia durante le acrobazie eseguite a Parigi nell'agosto 2017 ?",
+        "propositions": [
+          "Jason Statham",
+          "Jean Reno",
+          "Bruce Willis",
+          "Tom Cruise"
+        ],
+        "reponse": "Tom Cruise",
+        "anecdote": "Tom Cruise era presente a Parigi per dirigere le scene di « Mission Impossible 6 » che si svolgono nella città delle luci."
+      },
+      {
+        "id": 2,
+        "question": "Quale anniversario ha festeggiato Karine Le Marchand nel 2017 ?",
+        "propositions": [
+          "I suoi 29 anni",
+          "I suoi 39 anni",
+          "I suoi 19 anni",
+          "I suoi 49 anni"
+        ],
+        "reponse": "I suoi 49 anni",
+        "anecdote": "Il vero cognome di Karine Le Marchand e Mfayokurera (spesso scritto dai giornalisti M'Fayokurera)."
+      },
+      {
+        "id": 3,
+        "question": "Quale star del cinema ha adottato due bambini di nome Jackson e August ?",
+        "propositions": [
+          "Hilary Swank",
+          "Charlize Theron",
+          "Reese Witherspoon",
+          "Kate Winslet"
+        ],
+        "reponse": "Charlize Theron",
+        "anecdote": "Nel 1999, Charlize Theron ha realizzato la prima pagina della famosa rivista Vanity Fair e quella di Playboy, mostrando diverse foto di nudo."
+      },
+      {
+        "id": 4,
+        "question": "Chi e diventato l'attrice piu pagata al mondo ad agosto 2017 ?",
+        "propositions": [
+          "Emma Stone",
+          "Jennifer Lawrence",
+          "Kate Winslet",
+          "Reese Witherspoon"
+        ],
+        "reponse": "Emma Stone",
+        "anecdote": "Dietro Emma Stone (28), due Jennifer combattono per il secondo e il terzo posto nella classifica Forbes 2017."
+      },
+      {
+        "id": 5,
+        "question": "Chi e stato (finalmente) accreditato sul tubo « Imagine » di John Lennon ?",
+        "propositions": [
+          "Yoko Ono",
+          "Maureen Cox",
+          "Jane Asher",
+          "Cilla Black"
+        ],
+        "reponse": "Yoko Ono",
+        "anecdote": "46 anni dopo l'uscita di « Imagine », Yoko Ono diventa coautore: un riconoscimento ritenuto in ritardo per l'artista giapponese."
+      },
+      {
+        "id": 6,
+        "question": "Quale cantante francese ha ricevuto la sua stella su Hollywood Boulevard nel 2017 ?",
+        "propositions": [
+          "Francis Cabrel",
+          "Louis Chedid",
+          "Charles Aznavour",
+          "Serge Lama"
+        ],
+        "reponse": "Charles Aznavour",
+        "anecdote": "L'interprete di « La Boheme » si unisce a venti francesi o artisti francesi onorati sul lungomare."
+      },
+      {
+        "id": 7,
+        "question": "Chi e diventato l'attore piu pagato al mondo nel 2017 ?",
+        "propositions": [
+          "Tom Cruise",
+          "Jean Reno",
+          "Mark Wahlberg",
+          "Jason Statham"
+        ],
+        "reponse": "Mark Wahlberg",
+        "anecdote": "Con $ 68 milioni guadagnati, e davanti a Dwayne Johnson, che era al primo posto l'anno scorso, così come a Emma Stone."
+      },
+      {
+        "id": 8,
+        "question": "Dalla morte di quale attrice Alain Delon e ancora molto difficile recuperare ?",
+        "propositions": [
+          "Elsa Martinelli",
+          "Nicole Besnard",
+          "Jeanne Moreau",
+          "Mireille Darc"
+        ],
+        "reponse": "Mireille Darc",
+        "anecdote": "Dopo la morte del suo ex compagno, Alain Delon gli ha fatto un vibrante tributo a Valerie Trierweiler per il Paris Match."
+      },
+      {
+        "id": 9,
+        "question": "Quante candele ha fatto Genevieve de Fontenay nell'agosto 2017 ?",
+        "propositions": [
+          "85",
+          "55",
+          "75",
+          "65"
+        ],
+        "reponse": "85",
+        "anecdote": "Il minimo che possiamo dire e che la signora con il cappello nata a Longwy nel 1932 sembra molto piu giovane della sua età."
+      },
+      {
+        "id": 10,
+        "question": "Quale presidente di Facebook e diventato il padre di un piccolo agosto ?",
+        "propositions": [
+          "Karl Albrecht",
+          "Mark Zuckerberg",
+          "Warren Buffett",
+          "Stefan Persson"
+        ],
+        "reponse": "Mark Zuckerberg",
+        "anecdote": "Mark Zuckerberg ha annunciato che prenderà due mesi di congedo di paternità per trarre vantaggio dai primi passi di suo figlio."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quale giovane celebrità prende il panico sul web con una coppa H su Instagram ?",
+        "propositions": [
+          "Anaïs Camizuli",
+          "Diana Jones",
+          "Sarah Fraisou",
+          "Julie Ricci"
+        ],
+        "reponse": "Sarah Fraisou",
+        "anecdote": "L'ex ragazza di Malik e volata in Tunisia, il suo paese di origine, mettendo i suoi bagagli ad Hammamet."
+      },
+      {
+        "id": 12,
+        "question": "Quale celebrità ha sposato Fred Cassin per la terza volta nel 2017 ?",
+        "propositions": [
+          "Daphne Chollet",
+          "Isabelle Giordano",
+          "Sonia Dubois",
+          "Cristina Cordula"
+        ],
+        "reponse": "Cristina Cordula",
+        "anecdote": "Dopo essersi sposata due volte, sull'isola di Capri ea Singapore, Cristina Cordula ha nuovamente sposato la sua compagna nella sua casa di Rio."
+      },
+      {
+        "id": 13,
+        "question": "Quale star di « Game of Thrones » e stata coinvolta in parte grazie ai suoi seguaci ?",
+        "propositions": [
+          "Lena Headey",
+          "Emilia Clarke",
+          "Sophie Turner",
+          "Maisie Williams"
+        ],
+        "reponse": "Sophie Turner",
+        "anecdote": "La star della serie rivela così il retro dell'arredamento e mette in risalto il lato oscuro dell'industria cinematografica."
+      },
+      {
+        "id": 14,
+        "question": "Quale star della realtà ha semplicemente dichiarato : « I miei glutei sono belli » ?",
+        "propositions": [
+          "Barbara Moon",
+          "Kim Glow",
+          "Melanie Amar",
+          "Sarah Fraisou"
+        ],
+        "reponse": "Kim Glow",
+        "anecdote": "Orgoglioso dei suoi glutei, Kim Glow offre ai suoi fan complessi di seguire lo stesso percorso del suo : quello del biliardo."
+      },
+      {
+        "id": 15,
+        "question": "Quale famoso showrunner ha lasciato la ABC per unirsi a Netflix nel 2017 ?",
+        "propositions": [
+          "Shonda Rhimes",
+          "Tricia Brock",
+          "Nancy Dowd",
+          "Sara Hess"
+        ],
+        "reponse": "Shonda Rhimes",
+        "anecdote": "La creatrice di « Grey's Anatomy » Shonda Rhimes ha lasciato la ABC dopo oltre quindici anni di collaborazione commerciale di successo."
+      },
+      {
+        "id": 16,
+        "question": "Quale attrice ha formalizzato la sua storia d'amore con Darren Aronofsky nel 2017 ?",
+        "propositions": [
+          "Cate Blanchett",
+          "Emma Stone",
+          "Jennifer Lawrence",
+          "Brie Larson"
+        ],
+        "reponse": "Jennifer Lawrence",
+        "anecdote": "Prima di questa nuova musa, il talentuoso Darren Aronofsky e stato a lungo in una relazione con la sublime Rachel Weisz."
+      },
+      {
+        "id": 17,
+        "question": "Con quale ex Top Chef Laury Thilleman fa l'amore perfetto ?",
+        "propositions": [
+          "Juan Arbelaez",
+          "Gregory Cuilleron",
+          "Pierre Auge",
+          "Brice Morvent"
+        ],
+        "reponse": "Juan Arbelaez",
+        "anecdote": "Juan Arbelaez e il proprietario dei ristoranti Plantxa e Levain, entrambi situati a Boulogne-Billancourt."
+      },
+      {
+        "id": 18,
+        "question": "Quale cantante ha posato in topless nell'agosto 2017 per Paper Magazine ?",
+        "propositions": [
+          "Madonna",
+          "Beyonce",
+          "Britney Spears",
+          "Mariah Carey"
+        ],
+        "reponse": "Mariah Carey",
+        "anecdote": "Mariah Carey ha un'eccezionale gamma vocale di cinque ottave e quattro note (Eb2-Bb7)."
+      },
+      {
+        "id": 19,
+        "question": "A 69 anni, quale attore francese e diventato padre per la quarta volta ?",
+        "propositions": [
+          "Jean Reno",
+          "Gerard Darmon",
+          "Alain Chabat",
+          "Jean-Pierre Bacri"
+        ],
+        "reponse": "Gerard Darmon",
+        "anecdote": "Gerard Darmon ha trascorso la sua estate immerso in pannolini e biberon: sua moglie Christine ha partorito."
+      },
+      {
+        "id": 20,
+        "question": "Quale uomo c'e dietro la metamorfosi fisica di Celine Dion ?",
+        "propositions": [
+          "Marc Jacobs",
+          "Hedi Slimane",
+          "Law Roach",
+          "Paul Smith"
+        ],
+        "reponse": "Law Roach",
+        "anecdote": "Durante la cerimonia VMA del 2017, Law Roach ha spiegato come la cantante Celine Dion ha affrontato il suo amore per la moda."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qual e il nome del cane adottato dalla coppia presidenziale Emmanuel e Brigitte Macron ?",
+        "propositions": [
+          "Satanas",
+          "Nemo",
+          "Fidji",
+          "Plutone"
+        ],
+        "reponse": "Nemo",
+        "anecdote": "La coppia presidenziale ha infatti adottato alla SPA nell'agosto 2017 un crossover griffin / labrador nero che hanno battezzato Nemo."
+      },
+      {
+        "id": 22,
+        "question": "Quale famoso chitarrista ha rivelato nel 2017 di essere emerso dal cancro del polmone ?",
+        "propositions": [
+          "Ron Wood",
+          "Greg Lake",
+          "Eric Stewart",
+          "Jamie Cook"
+        ],
+        "reponse": "Ron Wood",
+        "anecdote": "Il chitarrista dei Rolling Stones ha spiegato che un tumore era stato scoperto nella sua casa durante un semplice controllo di routine."
+      },
+      {
+        "id": 23,
+        "question": "Come si chiama il figlio transgender di Warren Beatty e Annette Bening ?",
+        "propositions": [
+          "Stefano",
+          "Donald",
+          "Jason",
+          "Harry"
+        ],
+        "reponse": "Stefano",
+        "anecdote": "Nata ragazza, desiderosa di diventare un uomo, Stephen e diventata una delle voci della comunità transgender negli Stati Uniti."
+      },
+      {
+        "id": 24,
+        "question": "Quale modello con la vitiligine ha l'amore di se su Instagram ?",
+        "propositions": [
+          "Rebecca Heckard",
+          "Olivia Palermo",
+          "Ashley Graham",
+          "Gigi Hadid"
+        ],
+        "reponse": "Rebecca Heckard",
+        "anecdote": "A 21 anni, Rebecca Heckard ha reso il suo account Instagram uno strumento meraviglioso per diffondere le sue richieste di tolleranza."
+      },
+      {
+        "id": 25,
+        "question": "Chi si nasconde dietro Passe-Muraille, il messaggero di padre Fouras in « Fort Boyard » ?",
+        "propositions": [
+          "Andre Bouchet",
+          "Alain Prevost",
+          "Anthony Laborde",
+          "Yves Marchesseau"
+        ],
+        "reponse": "Anthony Laborde",
+        "anecdote": "Nel 2004, il 34enne si e unito al team « Fort Boyard » grazie a uno dei suoi amici, un certo Passe-Partout."
+      },
+      {
+        "id": 26,
+        "question": "Chi e stato il campione del mondo della 50 km di marcia a Londra nel 2017 ?",
+        "propositions": [
+          "Robert Heffernan",
+          "Yohann Diniz",
+          "Nathan Deakes",
+          "Trond Nymark"
+        ],
+        "reponse": "Yohann Diniz",
+        "anecdote": "Yohann Diniz detiene il record mondiale della camminata di 50 km con il tempo di 3 h 32 min 33 s, stabilito il 15 maggio 2014."
+      },
+      {
+        "id": 27,
+        "question": "Grazie a quale anche la famosa attrice Meghan Markle e diventata attrice ?",
+        "propositions": [
+          "Jennifer Lawrence",
+          "Julia Roberts",
+          "Charlize Theron",
+          "Emma Stone"
+        ],
+        "reponse": "Julia Roberts",
+        "anecdote": "L'8 novembre 2016, e stato annunciato ufficialmente che Meghan Markle e diventata la fidanzata del principe Enrico del Galles."
+      },
+      {
+        "id": 28,
+        "question": "Quale attore francese ha promosso il festival di Onda Carioca ?",
+        "propositions": [
+          "Guillaume Gallienne",
+          "Francois Cluzet",
+          "Mathieu Amalric",
+          "Vincent Cassel"
+        ],
+        "reponse": "Vincent Cassel",
+        "anecdote": "Vincent Cassel e la sua compagna Tina Kunakey hanno mostrato il loro amore e il loro buon umore nei brani di samba."
+      },
+      {
+        "id": 29,
+        "question": "Nell'agosto 2017, quale famoso culturista e morto soffocato a 26 anni ?",
+        "propositions": [
+          "Ronnie Coleman",
+          "Phil Heath",
+          "Jay Cutler",
+          "Dallas McCarver"
+        ],
+        "reponse": "Dallas McCarver",
+        "anecdote": "La morte per soffocamento secondo Dana Brooke, che ha inviato a lei cara una commovente lettera d'addio su Instagram."
+      },
+      {
+        "id": 30,
+        "question": "Quale cantante francese dovrà rimborsare 35 milioni di euro a una banca ?",
+        "propositions": [
+          "Enrico Macias",
+          "Eddy Mitchell",
+          "Guy Beart",
+          "Johnny Hallyday"
+        ],
+        "reponse": "Enrico Macias",
+        "anecdote": "Dopo una lunga battaglia legale contro la banca Landsbanki Lussemburgo, la giustizia ha finalmente rinnegato Enrico Macias."
+      }
+    ]
+    },
+    "nl": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Welke acteur bij het filmen heeft zijn enkel verwond tijdens stunts die in augustus 2017 in Parijs zijn uitgevoerd ?",
+        "propositions": [
+          "Bruce Willis",
+          "Tom Cruise",
+          "Jean Reno",
+          "Jason Statham"
+        ],
+        "reponse": "Tom Cruise",
+        "anecdote": "Tom Cruise was aanwezig in Parijs om de scenes te regisseren van « Mission Impossible 6 » die plaatsvinden in de stad Lights."
+      },
+      {
+        "id": 2,
+        "question": "Welke verjaardag vierde Karine Le Marchand in 2017 ?",
+        "propositions": [
+          "Haar 29 jaar",
+          "Haar 39 jaar",
+          "Haar 49 jaar",
+          "Haar 19 jaar"
+        ],
+        "reponse": "Haar 49 jaar",
+        "anecdote": "De echte achternaam van Karine Le Marchand is Mfayokurera (vaak geschreven door journalisten M'Fayokurera)."
+      },
+      {
+        "id": 3,
+        "question": "Welke filmster adopteerde twee kinderen genaamd Jackson en August ?",
+        "propositions": [
+          "Charlize Theron",
+          "Reese Witherspoon",
+          "Kate Winslet",
+          "Hilary Swank"
+        ],
+        "reponse": "Charlize Theron",
+        "anecdote": "In 1999 maakte Charlize Theron de voorpagina van het beroemde tijdschrift Vanity Fair en die van Playboy, met verschillende naakte foto's."
+      },
+      {
+        "id": 4,
+        "question": "Wie werd de best betaalde actrice ter wereld in augustus 2017 ?",
+        "propositions": [
+          "Kate Winslet",
+          "Jennifer Lawrence",
+          "Reese Witherspoon",
+          "Emma Stone"
+        ],
+        "reponse": "Emma Stone",
+        "anecdote": "Achter Emma Stone (28) vechten twee Jennifer voor de tweede en derde plaats in de Forbes-ranglijst 2017."
+      },
+      {
+        "id": 5,
+        "question": "Wie werd (eindelijk) bijgeschreven op de « Imagine » tube van John Lennon voor ?",
+        "propositions": [
+          "Jane Asher",
+          "Cilla Black",
+          "Yoko Ono",
+          "Maureen Cox"
+        ],
+        "reponse": "Yoko Ono",
+        "anecdote": "46 jaar na de release van « Imagine » wordt Yoko Ono co-auteur: een erkenning die de Japanse kunstenaar te laat vindt."
+      },
+      {
+        "id": 6,
+        "question": "Welke Franse zanger ontving zijn ster op Hollywood Boulevard in 2017 ?",
+        "propositions": [
+          "Louis Chedid",
+          "Francis Cabrel",
+          "Serge Lama",
+          "Charles Aznavour"
+        ],
+        "reponse": "Charles Aznavour",
+        "anecdote": "De tolk van « La Boheme » voegt zich bij twintig Franse mensen of kunstenaars uit Frankrijk die op de promenade worden geaerd."
+      },
+      {
+        "id": 7,
+        "question": "Wie werd de best betaalde acteur ter wereld in 2017 ?",
+        "propositions": [
+          "Tom Cruise",
+          "Jason Statham",
+          "Mark Wahlberg",
+          "Jean Reno"
+        ],
+        "reponse": "Mark Wahlberg",
+        "anecdote": "Met $ 68 miljoen verdiend staat hij Dwayne Johnson voor, die vorig jaar op de eerste plaats stond, evenals Emma Stone."
+      },
+      {
+        "id": 8,
+        "question": "Van de dood van welke actrice Alain Delon is hij nog steeds erg moeilijk om te herstellen ?",
+        "propositions": [
+          "Elsa Martinelli",
+          "Nicole Besnard",
+          "Mireille Darc",
+          "Jeanne Moreau"
+        ],
+        "reponse": "Mireille Darc",
+        "anecdote": "Na de dood van zijn voormalige partner bracht Alain Delon hem een  ? ?levendig eerbetoon aan Valerie Trierweiler voor Paris Match."
+      },
+      {
+        "id": 9,
+        "question": "Hoeveel kaarsen heeft Genevieve de Fontenay in augustus 2017 geblazen ?",
+        "propositions": [
+          "85",
+          "55",
+          "75",
+          "65"
+        ],
+        "reponse": "85",
+        "anecdote": "Het minste wat we kunnen zeggen is dat de dame met de hoed geboren in Longwy in 1932 veel jonger lijkt dan haar leeftijd."
+      },
+      {
+        "id": 10,
+        "question": "Welke Facebook-president is de vader van een kleine augustus geworden ?",
+        "propositions": [
+          "Warren Buffett",
+          "Karl Albrecht",
+          "Stefan Persson",
+          "Mark Zuckerberg"
+        ],
+        "reponse": "Mark Zuckerberg",
+        "anecdote": "Mark Zuckerberg heeft aangekondigd dat hij twee maanden vaderschapsverlof zal nemen om te profiteren van de eerste stappen van zijn kind."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Welke jonge beroemdheid raakt op het web met een H-beker op Instagram ?",
+        "propositions": [
+          "Diana Jones",
+          "Sarah Fraisou",
+          "Julie Ricci",
+          "Anaïs Camizuli"
+        ],
+        "reponse": "Sarah Fraisou",
+        "anecdote": "De ex-vriendin van Malik vloog naar Tunesia, haar land van herkomst, en legde haar bagage in Hammamet."
+      },
+      {
+        "id": 12,
+        "question": "Met welke beroemdheid trouwde Fred Cassin voor de derde keer in 2017 ?",
+        "propositions": [
+          "Isabelle Giordano",
+          "Daphne Chollet",
+          "Sonia Dubois",
+          "Cristina Cordula"
+        ],
+        "reponse": "Cristina Cordula",
+        "anecdote": "Nadat ze twee keer was getrouwd, op het eiland Capri en in Singapore, trouwde Cristina Cordula opnieuw met haar partner in haar huis in Rio."
+      },
+      {
+        "id": 13,
+        "question": "Welke ster van « Game of Thrones » was mede dankzij zijn volgelingen verloofd ?",
+        "propositions": [
+          "Maisie Williams",
+          "Emilia Clarke",
+          "Lena Headey",
+          "Sophie Turner"
+        ],
+        "reponse": "Sophie Turner",
+        "anecdote": "De ster van de serie onthult zo de achterkant van het decor en benadrukt de donkere kant van de filmindustrie."
+      },
+      {
+        "id": 14,
+        "question": "Welke realityster heeft eenvoudig gezegd : « Mijn billen zijn mooi » ?",
+        "propositions": [
+          "Barbara Moon",
+          "Kim Glow",
+          "Sarah Fraisou",
+          "Melanie Amar"
+        ],
+        "reponse": "Kim Glow",
+        "anecdote": "Kim Glow is trots op zijn billen en biedt zijn complexe fans dezelfde weg als die van hem : die van biljart."
+      },
+      {
+        "id": 15,
+        "question": "Welke beroemde showrunner verliet ABC om in 2017 bij Netflix te komen ?",
+        "propositions": [
+          "Tricia Brock",
+          "Shonda Rhimes",
+          "Sara Hess",
+          "Nancy Dowd"
+        ],
+        "reponse": "Shonda Rhimes",
+        "anecdote": "« Grey's Anatomy » maker Shonda Rhimes verliet ABC na meer dan vijftien jaar succesvolle samenwerking tussen bedrijven."
+      },
+      {
+        "id": 16,
+        "question": "Welke actrice formaliseerde haar liefdesverhaal met Darren Aronofsky in 2017 ?",
+        "propositions": [
+          "Emma Stone",
+          "Jennifer Lawrence",
+          "Cate Blanchett",
+          "Brie Larson"
+        ],
+        "reponse": "Jennifer Lawrence",
+        "anecdote": "Voor deze nieuwe muze heeft de getalenteerde Darren Aronofsky al lang een relatie met het sublieme Rachel Weisz."
+      },
+      {
+        "id": 17,
+        "question": "Met welke voormalige topchef Laury Thilleman vrijt ze perfect ?",
+        "propositions": [
+          "Brice Morvent",
+          "Juan Arbelaez",
+          "Pierre Auge",
+          "Gregory Cuilleron"
+        ],
+        "reponse": "Juan Arbelaez",
+        "anecdote": "Juan Arbelaez is de eigenaar van de restaurants Plantxa en Levain, beide gevestigd in Boulogne-Billancourt."
+      },
+      {
+        "id": 18,
+        "question": "Welke zangeres poseerde topless in augustus 2017 voor Paper Magazine ?",
+        "propositions": [
+          "Madonna",
+          "Beyonce",
+          "Mariah Carey",
+          "Britney Spears"
+        ],
+        "reponse": "Mariah Carey",
+        "anecdote": "Mariah Carey heeft een uitzonderlijk vocaal bereik van vijf octaven en vier noten (Eb2-Bb7)."
+      },
+      {
+        "id": 19,
+        "question": "Op 69-jarige leeftijd is welke Franse acteur voor de vierde keer vader geworden ?",
+        "propositions": [
+          "Jean-Pierre Bacri",
+          "Gerard Darmon",
+          "Jean Reno",
+          "Alain Chabat"
+        ],
+        "reponse": "Gerard Darmon",
+        "anecdote": "Gerard Darmon bracht zijn zomer door in luiers en flessen: zijn vrouw Christine beviel."
+      },
+      {
+        "id": 20,
+        "question": "Welke man zit achter de fysieke metamorfose van Celine Dion ?",
+        "propositions": [
+          "Hedi Slimane",
+          "Marc Jacobs",
+          "Paul Smith",
+          "Law Roach"
+        ],
+        "reponse": "Law Roach",
+        "anecdote": "Law Roach legde tijdens de VMA-ceremonie van 2017 uit hoe de zanger Celine Dion haar liefde voor mode benaderde."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wat is de naam van de hond aangenomen door het presidentiale echtpaar Emmanuel en Brigitte Macron ?",
+        "propositions": [
+          "Satanas",
+          "Nemo",
+          "Fidji",
+          "Pluto"
+        ],
+        "reponse": "Nemo",
+        "anecdote": "Het presidentiale echtpaar heeft in augustus 2017 inderdaad een zwarte griffioen / labrador-crossover aangenomen die ze Nemo hebben gedoopt."
+      },
+      {
+        "id": 22,
+        "question": "Welke beroemde gitarist onthulde in 2017 dat hij aan longkanker was ontstaan ?",
+        "propositions": [
+          "Jamie Cook",
+          "Ron Wood",
+          "Greg Lake",
+          "Eric Stewart"
+        ],
+        "reponse": "Ron Wood",
+        "anecdote": "De gitarist van Rolling Stones legde uit dat er tijdens een eenvoudige routinecontrole een tumor in zijn huis was ontdekt."
+      },
+      {
+        "id": 23,
+        "question": "Hoe wordt de transgender zoon van Warren Beatty en Annette Bening genoemd ?",
+        "propositions": [
+          "Donald",
+          "Stephen",
+          "Harry",
+          "Jason"
+        ],
+        "reponse": "Stephen",
+        "anecdote": "Stephen werd geboren als meisje en wilde man worden en is een van de stemmen van de transgendergemeenschap in de Verenigde Staten geworden."
+      },
+      {
+        "id": 24,
+        "question": "Welk model met vitiligo heeft zelfliefde op Instagram ?",
+        "propositions": [
+          "Gigi Hadid",
+          "Ashley Graham",
+          "Rebecca Heckard",
+          "Olivia Palermo"
+        ],
+        "reponse": "Rebecca Heckard",
+        "anecdote": "Op 21-jarige leeftijd maakte Rebecca Heckard van haar Instagram-account een geweldig hulpmiddel om haar roep om tolerantie te verspreiden."
+      },
+      {
+        "id": 25,
+        "question": "Wie verschuilt zich achter Passe-Muraille, de boodschapper van pater Fouras in « Fort Boyard » ?",
+        "propositions": [
+          "Anthony Laborde",
+          "Andre Bouchet",
+          "Alain Prevost",
+          "Yves Marchesseau"
+        ],
+        "reponse": "Anthony Laborde",
+        "anecdote": "In 2004 trad de 34-jarige toe tot het team « Fort Boyard » dankzij een van zijn vrienden, een zekere Passe-Partout."
+      },
+      {
+        "id": 26,
+        "question": "Wie was de wereldkampioen van de 50 km-wandeling in Londen in 2017 ?",
+        "propositions": [
+          "Trond Nymark",
+          "Nathan Deakes",
+          "Yohann Diniz",
+          "Robert Heffernan"
+        ],
+        "reponse": "Yohann Diniz",
+        "anecdote": "Yohann Diniz heeft het wereldrecord van de 50 km-wandeling met de tijd van 3 uur 32 min 33 s, vastgesteld op 15 mei 2014."
+      },
+      {
+        "id": 27,
+        "question": "Dankzij welke beroemde actrice Meghan Markle ook een actrice werd ?",
+        "propositions": [
+          "Charlize Theron",
+          "Julia Roberts",
+          "Emma Stone",
+          "Jennifer Lawrence"
+        ],
+        "reponse": "Julia Roberts",
+        "anecdote": "Op 8 november 2016 werd officieel aangekondigd dat Meghan Markle de vriendin werd van Prins Henry van Wales."
+      },
+      {
+        "id": 28,
+        "question": "Welke Franse acteur promootte het Onda Carioca-festival ?",
+        "propositions": [
+          "Mathieu Amalric",
+          "Francois Cluzet",
+          "Vincent Cassel",
+          "Guillaume Gallienne"
+        ],
+        "reponse": "Vincent Cassel",
+        "anecdote": "Vincent Cassel en zijn partner Tina Kunakey toonden hun liefde en goede humor op samba-melodiean."
+      },
+      {
+        "id": 29,
+        "question": "Welke beroemde bodybuilder stierf in augustus 2017 verstikt op 26-jarige leeftijd ?",
+        "propositions": [
+          "Dallas McCarver",
+          "Jay Cutler",
+          "Phil Heath",
+          "Ronnie Coleman"
+        ],
+        "reponse": "Dallas McCarver",
+        "anecdote": "Dood door verstikking volgens Dana Brooke, die haar een ontroerende afscheidsbrief op Instagram stuurde."
+      },
+      {
+        "id": 30,
+        "question": "Welke Franse zangeres moet 35 miljoen euro terugbetalen aan een bank ?",
+        "propositions": [
+          "Enrico Macias",
+          "Guy Beart",
+          "Johnny Hallyday",
+          "Eddy Mitchell"
+        ],
+        "reponse": "Enrico Macias",
+        "anecdote": "Na een lange juridische strijd tegen de bank Landsbanki Luxembourg, heeft justitie eindelijk Enrico Macias verstoten."
+      }
+    ]
+    }
+  }
+}

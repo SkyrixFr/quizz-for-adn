@@ -1,0 +1,2249 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
+  "version": 1,
+  "mise-à-jour": "2022-05-03",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Vie quotidienne",
+      "nom": "Coca-Cola Company",
+      "slogan": "Specialiste des boissons sans alcool"
+    },
+    "en": {
+      "categorie": "Everyday life",
+      "nom": "Coca-Cola Company",
+      "slogan": "Specialist in non-alcoholic beverages"
+    },
+    "es": {
+      "categorie": "Vida cotidiana",
+      "nom": "Compañía Coca-Cola",
+      "slogan": "Especialista en bebidas no alcohólicas"
+    },
+    "it": {
+      "categorie": "Vita di ogni giorno",
+      "nom": "Società Coca-Cola",
+      "slogan": "Specialista in bevande analcoliche"
+    },
+    "de": {
+      "categorie": "Alltagsleben",
+      "nom": "Coca-Cola-Unternehmen",
+      "slogan": "Spezialist für alkoholfreie Getränke"
+    },
+    "nl": {
+      "categorie": "Alledaagse leven",
+      "nom": "Coca-Cola Company",
+      "slogan": "Specialist in niet-alcoholische dranken"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Quel produit de la firme Coca-Cola est un concurrent direct du 7 Up de PepsiCo ?",
+        "propositions": [
+          "Bonaqua",
+          "Fanta",
+          "Sprite",
+          "Nalu"
+        ],
+        "reponse": "Sprite",
+        "anecdote": "Le Sprite contient : eau gazeifiee, sucre et acidifiants (acide citrique, citrate de sodium et arômes naturels de citron-citron vert)."
+      },
+      {
+        "id": 2,
+        "question": "Quel jus de fruit est en guerre commerciale avec son concurrent Tropicana ?",
+        "propositions": [
+          "Minute Maid",
+          "Oasis",
+          "Joker",
+          "Andros"
+        ],
+        "reponse": "Minute Maid",
+        "anecdote": "Il fut desormais possible de consommer du jus d'orange au goût frais à tout moment de l'annee et loin des regions productrices."
+      },
+      {
+        "id": 3,
+        "question": "Quelle marque d'eau minerale belge appartient au groupe Coca-Cola ?",
+        "propositions": [
+          "Chaudfontaine",
+          "Spa",
+          "Valvert",
+          "Bru"
+        ],
+        "reponse": "Chaudfontaine",
+        "anecdote": "La source de Chaudfontaine se situe dans la commune belge eponyme de Chaudfontaine, en Region wallonne."
+      },
+      {
+        "id": 4,
+        "question": "Quel the glace est produit conjointement par Nestle et Coca-Cola ?",
+        "propositions": [
+          "Nestea",
+          "May Tea",
+          "Arizona",
+          "Virgin"
+        ],
+        "reponse": "Nestea",
+        "anecdote": "Cree en 1977, Nestea est actuellement disponible en trois parfums : Nestea Peche Blanche, Nestea Tropical et Nestea Citron."
+      },
+      {
+        "id": 5,
+        "question": "Quel Coca-Cola sans sucre vise un public plus particulierement masculin ?",
+        "propositions": [
+          "Life",
+          "Zero",
+          "BlaK",
+          "Cherry"
+        ],
+        "reponse": "Zero",
+        "anecdote": "Tout comme le Coca Light, sa recette sortie en 2007 en France utilise de l'aspartame et de l'acesulfame-k à la place du sucre."
+      },
+      {
+        "id": 6,
+        "question": "Quelle boisson est aussi connue sous le nom de Diet Coke ?",
+        "propositions": [
+          "Coca-Cola BlaK",
+          "Coca-Cola Life",
+          "Coca-Cola Light",
+          "Coca-Cola Zero"
+        ],
+        "reponse": "Coca-Cola Light",
+        "anecdote": "Introduite en France en 1988, la marque Diet Coke fut lancee aux États-Unis le Jour de l'Independance, en 1982."
+      },
+      {
+        "id": 7,
+        "question": "Quelle variation du Coca-Cola fut mise en vente apres le classique et le Light ?",
+        "propositions": [
+          "Life",
+          "Cherry",
+          "Zero",
+          "BlaK"
+        ],
+        "reponse": "Cherry",
+        "anecdote": "Coca-Cola a ensuite cree d'autres Coca-Cola aromatises : Vanille, Lemon (citron), Lime (citron vert), BlaK (cafe) et Sango (l'orange)."
+      },
+      {
+        "id": 8,
+        "question": "Depuis quelle annee le Coca-Cola est-il une marque deposee ?",
+        "propositions": [
+          "1947",
+          "1887",
+          "1932",
+          "1913"
+        ],
+        "reponse": "1887",
+        "anecdote": "Il tire son nom de sa premiere composition : la feuille de coca et l'utilisation de noix de kola, boisson alors vendue par son inventeur."
+      },
+      {
+        "id": 9,
+        "question": "Quelle boisson energisante de la firme Coca-Cola est vendue au Benelux ?",
+        "propositions": [
+          "Nalu",
+          "Monster",
+          "Red Bull",
+          "Rodeo"
+        ],
+        "reponse": "Nalu",
+        "anecdote": "Developpee dans le centre de recherche de Coca-Cola d'Anderlecht, elle est produite à Gand et est vendue en Belgique et Luxembourg."
+      },
+      {
+        "id": 10,
+        "question": "Lors de quels Jeux olympiques ne pouvait-on boire que des produits de chez Coca-Cola ?",
+        "propositions": [
+          "Sydney 2000",
+          "Pekin 2008",
+          "Athenes 2004",
+          "Londres 2012"
+        ],
+        "reponse": "Athenes 2004",
+        "anecdote": "Les 39 sponsors officiels des jeux ont obtenu, contre pres de 800 millions d'euros, l'exclusivite absolue de leurs produits sur le site."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Dans quelle ville de Georgie se situe le siege actuel de la societe Coca-Cola ?",
+        "propositions": [
+          "Albany",
+          "Dalton",
+          "Atlanta",
+          "Brunswick"
+        ],
+        "reponse": "Atlanta",
+        "anecdote": "La societe Coca-Cola etait, au debut de 2012, la troisieme entreprise agroalimentaire du monde en termes de chiffre d'affaires."
+      },
+      {
+        "id": 12,
+        "question": "Quel breuvage de la Coca-Cola company est sorti apres 1945 ?",
+        "propositions": [
+          "Coke Life",
+          "Sprite",
+          "Fanta",
+          "Cherry Coke"
+        ],
+        "reponse": "Fanta",
+        "anecdote": "La Seconde Guerre mondiale avait rendu difficile l'importation des denrees necessaires à la fabrication du Coca-Cola."
+      },
+      {
+        "id": 13,
+        "question": "Combien de marques de boissons environ la societe Coca-Cola gere-t-elle à ce jour ?",
+        "propositions": [
+          "300",
+          "200",
+          "400",
+          "500"
+        ],
+        "reponse": "500",
+        "anecdote": "Le 24 decembre 2014, le Wall Street Journal annonca que l'entreprise prevoyait de supprimer entre 1 000 et 2 000 postes."
+      },
+      {
+        "id": 14,
+        "question": "Quel fut, en milliards d'euros, le chiffre d'affaire de la societe Coca-Cola en 2016 ?",
+        "propositions": [
+          "44",
+          "32",
+          "38",
+          "26"
+        ],
+        "reponse": "38",
+        "anecdote": "En 2012, les deux seuls pays ou le Coca-Cola ne pouvait etre commercialise etaient la Coree du Nord et Cuba."
+      },
+      {
+        "id": 15,
+        "question": "Quelle societe de production audiovisuelle Coca-Cola a-t-elle achete en 1982 ?",
+        "propositions": [
+          "Columbia Pictures",
+          "Universal Pictures",
+          "Paramount Pictures",
+          "Warner Bros."
+        ],
+        "reponse": "Columbia Pictures",
+        "anecdote": "Le logo de la compagnie represente une personnification des États-Unis, Columbia, portant une torche (comme la Statue de la Liberte)."
+      },
+      {
+        "id": 16,
+        "question": "Quelle boisson concue pour le sport est commercialisee par Coca-Cola ?",
+        "propositions": [
+          "Aquarius",
+          "Gatorade",
+          "Isostar",
+          "Sporteus"
+        ],
+        "reponse": "Aquarius",
+        "anecdote": "Cette boisson pour le sport fut commercialisee en 1983 au Japon en reponse à une boisson similaire nomme Pocari Sweat."
+      },
+      {
+        "id": 17,
+        "question": "Quelle version du Coca-Cola est basee sur l'utilisation de la stevia ?",
+        "propositions": [
+          "BlaK",
+          "Cherry",
+          "Life",
+          "Zero"
+        ],
+        "reponse": "Life",
+        "anecdote": "La stevia ayant une saveur proche de la reglisse et influant sur le goût de la boisson, la composition du produit fut alors modifiee."
+      },
+      {
+        "id": 18,
+        "question": "Quel derive de la boisson Coca-Cola est enrichi en Vitamine C ?",
+        "propositions": [
+          "Coca-Cola Mint",
+          "Coca-Cola Plus",
+          "Coca-Cola New",
+          "Coca_cola Fresh"
+        ],
+        "reponse": "Coca-Cola Plus",
+        "anecdote": "La presence de vitamine C et son faible taux de sodium donnent au Coca-Cola Plus, sorti au Japon en 2009, un leger goût citronne."
+      },
+      {
+        "id": 19,
+        "question": "Quelle formule de Coca-Cola fut un echec de marketing majeur ?",
+        "propositions": [
+          "New Coke",
+          "Coca-Cola Zero",
+          "Coca-Cola Light",
+          "Coca-Cola Life"
+        ],
+        "reponse": "New Coke",
+        "anecdote": "La reception au changement de formule par le public a ete mauvaise et New Coke devint des lors echec de marketing majeur."
+      },
+      {
+        "id": 20,
+        "question": "Quelle version du Coca-Cola presente un goût enrichi au cafe ?",
+        "propositions": [
+          "Cherry",
+          "Zero",
+          "BlaK",
+          "Life"
+        ],
+        "reponse": "BlaK",
+        "anecdote": "The Coca-Cola Company a lance son Coca-Cola BlaK afin de concurrencer le Pepsi Max cappuccino, lance par PepsiCo."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qui etait PDG de l'entreprise Coca-Cola au 1er janvier 2017 ?",
+        "propositions": [
+          "Osman Kavala",
+          "Muhtar Kent",
+          "Fikret Orman",
+          "Serdar Bilgili"
+        ],
+        "reponse": "Muhtar Kent",
+        "anecdote": "En 1979, Muhtar Kent a commence sa carriere comme distributeur de produits de la compagnie Coca-Cola à travers les États-Unis."
+      },
+      {
+        "id": 22,
+        "question": "Qui a concu la forme de la bouteille en verre specifique de la marque Coca-Cola ?",
+        "propositions": [
+          "Milton Glaser",
+          "Raymond Loewy",
+          "David Rockwell",
+          "Jerry Manock"
+        ],
+        "reponse": "Raymond Loewy",
+        "anecdote": "Raymond Loewy, ne à Paris en 1893, est un designer industriel et graphiste francais devenu franco-americain apres sa naturalisation."
+      },
+      {
+        "id": 23,
+        "question": "Combien existe-t-il environ dans le monde de saveurs differentes de Fanta ?",
+        "propositions": [
+          "10",
+          "30",
+          "50",
+          "70"
+        ],
+        "reponse": "70",
+        "anecdote": "Fanta Shokata est une saveur derivee de la Socata, une boisson traditionnelle roumaine realisee à base de fleur de sureau."
+      },
+      {
+        "id": 24,
+        "question": "Qui a propose à John Stith Pemberton le nom de Coca-Cola pour sa future boisson ?",
+        "propositions": [
+          "James Quincey",
+          "Frank Robinson",
+          "Ronald Allen",
+          "Barry Diller"
+        ],
+        "reponse": "Frank Robinson",
+        "anecdote": "Le comptable de Pemberton lui proposa le nom Coca-Cola et le design du logo, Haddon Sundblom illustra quant à lui le Pere Noal."
+      },
+      {
+        "id": 25,
+        "question": "Quelle eau du robinet purifiee est vendue par la societe Coca-Cola ?",
+        "propositions": [
+          "Powerade",
+          "Finley",
+          "Burn",
+          "Dasani"
+        ],
+        "reponse": "Dasani",
+        "anecdote": "La marque vendait de l'eau provenant de la Tamise purifiee par ajout de chlorure de calcium, contenant du bromure, filtree trois fois."
+      },
+      {
+        "id": 26,
+        "question": "Dans quel pays le Coca-Cola est-il interdit d'importation ?",
+        "propositions": [
+          "Japon",
+          "Argentine",
+          "Inde",
+          "Suisse"
+        ],
+        "reponse": "Inde",
+        "anecdote": "Plusieurs marques d'eau en bouteilles fabriquees par Coca-Cola contenaient des residus de pesticides superieurs à la norme."
+      },
+      {
+        "id": 27,
+        "question": "Quel produit a pour slogan : « Le Cola embrasse l'orange » ?",
+        "propositions": [
+          "Mezzo Mix",
+          "BlaK",
+          "Enviga",
+          "Dasani"
+        ],
+        "reponse": "Mezzo Mix",
+        "anecdote": "Mezzo Mix est un produit de Coca-Cola vendu seulement en Allemagne, Autriche, Finlande, Belgique ainsi qu'en Suisse."
+      },
+      {
+        "id": 28,
+        "question": "Quelle variante de la boisson Coca-Cola fut produite en 1940 ?",
+        "propositions": [
+          "Coca Bleu",
+          "Coca Jaune",
+          "Coca Mauve",
+          "Coca Blanc"
+        ],
+        "reponse": "Coca Blanc",
+        "anecdote": "Le marechal Joukov demanda à l'entreprise americaine de fabriquer et d'emballer des bouteilles pour les faire ressembler à de la vodka."
+      },
+      {
+        "id": 29,
+        "question": "Quelle boisson contient des catechines extraits du the vert ?",
+        "propositions": [
+          "Lanvin",
+          "Nuts",
+          "Enviga",
+          "Cheerios"
+        ],
+        "reponse": "Enviga",
+        "anecdote": "Enviga est une boisson gazeuse non alcoolique permettant, selon ses fabricants, de brûler plus de calories qu'elle n'en apporte."
+      },
+      {
+        "id": 30,
+        "question": "La formule de quel Coca-Cola utilise du sucre de canne plutôt que du sucre standard ?",
+        "propositions": [
+          "German Coke",
+          "Canadian Coke",
+          "Indian Coke",
+          "Mexican Coke"
+        ],
+        "reponse": "Mexican Coke",
+        "anecdote": "Nomme ainsi de par son lieu de production, ce changement donnerait à la boisson un goût plus naturel."
+      }
+    ]
+    },
+    "en": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Which Coca-Cola product is a direct competitor of PepsiCo's 7 Up ?",
+        "propositions": [
+          "Bonaqua",
+          "Fanta",
+          "Nalu",
+          "Sprite"
+        ],
+        "reponse": "Sprite",
+        "anecdote": "Sprite contains: gaseous water, sugar and acidifiers ? (citric acid, sodium citrate and natural lemon-lime flavorings)."
+      },
+      {
+        "id": 2,
+        "question": "What fruit juice is at war with its competitor Tropicana ?",
+        "propositions": [
+          "Oasis",
+          "Minute Maid",
+          "Andros",
+          "Joker"
+        ],
+        "reponse": "Minute Maid",
+        "anecdote": "It was now possible to eat fresh orange juice at any time of the year and away from the producing regions."
+      },
+      {
+        "id": 3,
+        "question": "Which brand of Belgian mineral water belongs to the Coca-Cola group ?",
+        "propositions": [
+          "Chaudfontaine",
+          "Bru",
+          "Spa",
+          "Valvert"
+        ],
+        "reponse": "Chaudfontaine",
+        "anecdote": "The source of Chaudfontaine is located in the Belgian town of Chaudfontaine, in the Walloon Region."
+      },
+      {
+        "id": 4,
+        "question": "What tea is produced jointly by Nestle and Coca-Cola ?",
+        "propositions": [
+          "May Tea",
+          "Virgin",
+          "Nestea",
+          "Arizona"
+        ],
+        "reponse": "Nestea",
+        "anecdote": "Created in 1977, Nestea is currently available in three flavors : Nestea Peche Blanche, Nestea Tropical and Nestea Citron."
+      },
+      {
+        "id": 5,
+        "question": "Which sugar-free Coca-Cola targets a particularly male audience ?",
+        "propositions": [
+          "Blak",
+          "Life",
+          "Zero",
+          "Cherry"
+        ],
+        "reponse": "Zero",
+        "anecdote": "Like the Coca Light, its recipe released in 2007 in France uses aspartame and acesulfame-k instead of sugar."
+      },
+      {
+        "id": 6,
+        "question": "Which drink is also known as Diet Coke ?",
+        "propositions": [
+          "Coca-Cola BlaK",
+          "Coca-Cola Zero",
+          "Coca-Cola Light",
+          "Coca-Cola Life"
+        ],
+        "reponse": "Coca-Cola Light",
+        "anecdote": "Introduced in France in 1988, the Diet Coke brand was launched in the United States on the Independence Day in 1982."
+      },
+      {
+        "id": 7,
+        "question": "What variation of Coca-Cola went on sale after the classic and the Light ?",
+        "propositions": [
+          "Zero",
+          "BlaK",
+          "Life",
+          "Cherry"
+        ],
+        "reponse": "Cherry",
+        "anecdote": "Coca-Cola then created other flavored Coca-Cola : Vanilla, Lemon (lemon), Lime (lime), BlaK (coffee) and Sango (orange)."
+      },
+      {
+        "id": 8,
+        "question": "Since which year has Coca-Cola been a registered trademark ?",
+        "propositions": [
+          "1913",
+          "1887",
+          "1947",
+          "1932"
+        ],
+        "reponse": "1887",
+        "anecdote": "It takes its name from its first composition : the coca leaf and the use of cola nut, a drink then sold by its inventor."
+      },
+      {
+        "id": 9,
+        "question": "Which energy drink from Coca-Cola is sold in the Benelux ?",
+        "propositions": [
+          "Red Bull",
+          "Monster",
+          "Nalu",
+          "Rodeo"
+        ],
+        "reponse": "Nalu",
+        "anecdote": "Developed in the research and development center of Coca-Cola Anderlecht, it is produced in Ghent and is sold in Belgium and Luxembourg."
+      },
+      {
+        "id": 10,
+        "question": "At which Olympic Games could only Coca-Cola products be drunk ?",
+        "propositions": [
+          "Sydney 2000",
+          "Beijing 2008",
+          "Athens 2004",
+          "London 2012"
+        ],
+        "reponse": "Athens 2004",
+        "anecdote": "The 39 official sponsors of the games have obtained, against nearly 800 million euros, the absolute exclusivity of their products on the site."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "In which city of Georgia is the current headquarters of the company Coca-Cola ?",
+        "propositions": [
+          "Dalton",
+          "Brunswick",
+          "Albany",
+          "Atlanta"
+        ],
+        "reponse": "Atlanta",
+        "anecdote": "At the beginning of 2012, Coca-Cola was the third largest agri-food company in the world in terms of turnover."
+      },
+      {
+        "id": 12,
+        "question": "What beverage from the Coca-Cola company was released after 1945 ?",
+        "propositions": [
+          "Fanta",
+          "Sprite",
+          "Cherry Coke",
+          "Coke Life"
+        ],
+        "reponse": "Fanta",
+        "anecdote": "The Second World War had made it difficult to import the products needed for the manufacture of Coca Cola."
+      },
+      {
+        "id": 13,
+        "question": "How many brands of drinks does Coca-Cola handle today ?",
+        "propositions": [
+          "400",
+          "500",
+          "300",
+          "200"
+        ],
+        "reponse": "500",
+        "anecdote": "On December 24, 2014, the Wall Street Journal announced that the company planned to cut between 1,000 and 2,000 positions."
+      },
+      {
+        "id": 14,
+        "question": "What was, in billions of euros, the turnover of the company Coca-Cola in 2016 ?",
+        "propositions": [
+          "26",
+          "44",
+          "38",
+          "32"
+        ],
+        "reponse": "38",
+        "anecdote": "In 2012, the only two countries where Coca-Cola could not be marketed were the North Korea and Cuba."
+      },
+      {
+        "id": 15,
+        "question": "Which audiovisual production company did Coca-Cola buy in 1982 ?",
+        "propositions": [
+          "Columbia Pictures",
+          "Universal Pictures",
+          "Paramount Pictures",
+          "Warner Bros."
+        ],
+        "reponse": "Columbia Pictures",
+        "anecdote": "The company logo represents a personification of the United States, Columbia, carrying a torch (like the Statue of Liberty)."
+      },
+      {
+        "id": 16,
+        "question": "Which drink designed for sport is marketed by Coca-Cola ?",
+        "propositions": [
+          "Sporteus",
+          "Gatorade",
+          "Isostar",
+          "Aquarius"
+        ],
+        "reponse": "Aquarius",
+        "anecdote": "This sports drink was marketed in 1983 in Japan in response to a similar drink called Pocari Sweat."
+      },
+      {
+        "id": 17,
+        "question": "Which version of Coca-Cola is based on the use of stevia ?",
+        "propositions": [
+          "Life",
+          "BlaK",
+          "Zero",
+          "Cherry"
+        ],
+        "reponse": "Life",
+        "anecdote": "Stevia having a taste close to licorice and influencing the taste of the drink, the composition of the product was then modified."
+      },
+      {
+        "id": 18,
+        "question": "Which derivative of the Coca-Cola drink is enriched with Vitamin C ?",
+        "propositions": [
+          "Coca-Cola New",
+          "Coca_cola Fresh",
+          "Coca-Cola Plus",
+          "Coca-Cola Mint"
+        ],
+        "reponse": "Coca-Cola Plus",
+        "anecdote": "The presence of vitamin C and its low level of sodium give Coca-Cola Plus, released in Japan in 2009, a light citrus taste."
+      },
+      {
+        "id": 19,
+        "question": "Which Coca-Cola formula was a major marketing failure ?",
+        "propositions": [
+          "Coca-Cola Light",
+          "Coca-Cola Zero",
+          "New Coke",
+          "Coca-Cola Life"
+        ],
+        "reponse": "New Coke",
+        "anecdote": "Public acceptance of the change of formula was bad and New Coke was considered a major marketing failure."
+      },
+      {
+        "id": 20,
+        "question": "Which version of Coca-Cola has an enriched taste in coffee ?",
+        "propositions": [
+          "Zero",
+          "Cherry",
+          "Life",
+          "BlaK"
+        ],
+        "reponse": "BlaK",
+        "anecdote": "The Coca-Cola Company launched Coca-Cola BlaK to compete with PepsiCo's Pepsi Maxcappuccino."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Who was CEO of Coca-Cola as of January 1, 2017 ?",
+        "propositions": [
+          "Muhtar Kent",
+          "Serdar Bilgili",
+          "Fikret Orman",
+          "Osman Kavala"
+        ],
+        "reponse": "Muhtar Kent",
+        "anecdote": "In 1979, Muhtar Kent began his career as a distributor of Coca-Cola products throughout the United States."
+      },
+      {
+        "id": 22,
+        "question": "Who has designed the shape of the specific glass bottle of the Coca-Cola brand ?",
+        "propositions": [
+          "Raymond Loewy",
+          "Jerry Manock",
+          "Milton Glaser",
+          "David Rockwell"
+        ],
+        "reponse": "Raymond Loewy",
+        "anecdote": "Raymond Loewy, born in Paris in 1893, is an industrial and graphic designer from France who became French-American after his naturalization."
+      },
+      {
+        "id": 23,
+        "question": "How much is there in the world of different flavors of Fanta ?",
+        "propositions": [
+          "10",
+          "70",
+          "50",
+          "30"
+        ],
+        "reponse": "70",
+        "anecdote": "Fanta Shokata is a flavor derived from La Socata, a traditional Romanian drink made from deer flower."
+      },
+      {
+        "id": 24,
+        "question": "Who proposed John Stith Pemberton the name of Coca-Cola for his future drink ?",
+        "propositions": [
+          "James Quincey",
+          "Barry Diller",
+          "Frank Robinson",
+          "Ronald Allen"
+        ],
+        "reponse": "Frank Robinson",
+        "anecdote": "Pemberton's accountant offered him the name Coca-Cola and the design of the logo. Haddon Sundblom illustrated Santa Claus."
+      },
+      {
+        "id": 25,
+        "question": "What purified tap water is sold by Coca-Cola ?",
+        "propositions": [
+          "Dasani",
+          "Burn",
+          "Powerade",
+          "Finley"
+        ],
+        "reponse": "Dasani",
+        "anecdote": "The mark sold water from the Thames purified by adding calcium chloride, containing bromide, filtered three times."
+      },
+      {
+        "id": 26,
+        "question": "In which country is Coca-Cola banned from importing ?",
+        "propositions": [
+          "Japan",
+          "Argentina",
+          "Switzerland",
+          "India"
+        ],
+        "reponse": "India",
+        "anecdote": "Several brands of bottled water made by Coca-Cola contained pesticide residues thirty times higher than the standard."
+      },
+      {
+        "id": 27,
+        "question": "What product has for slogan : « Cola kisses the orange » ?",
+        "propositions": [
+          "BlaK",
+          "Enviga",
+          "Dasani",
+          "Mezzo Mix"
+        ],
+        "reponse": "Mezzo Mix",
+        "anecdote": "Mezzo Mix is a product of Coca-Cola sold only in Germany, Austria, Finland, Belgium and Switzerland."
+      },
+      {
+        "id": 28,
+        "question": "Which variant of the Coca-Cola drink was produced in 1940 ?",
+        "propositions": [
+          "Coca Blue",
+          "White Coca",
+          "Coca Mauve",
+          "Yellow Coca"
+        ],
+        "reponse": "White Coca",
+        "anecdote": "Marshal Zhukov asked the American company to make and pack bottles to make them look like vodka."
+      },
+      {
+        "id": 29,
+        "question": "Which drink contains catechins extracted from green tea ?",
+        "propositions": [
+          "Lanvin",
+          "Enviga",
+          "Cheerios",
+          "Nuts"
+        ],
+        "reponse": "Enviga",
+        "anecdote": "Enviga is a non-alcoholic, non-alcoholic drink that, according to its manufacturers, burns more calories than it provides."
+      },
+      {
+        "id": 30,
+        "question": "What formula does Coca-Cola use cane sugar rather than standard sugar ?",
+        "propositions": [
+          "Canadian Coke",
+          "German Coke",
+          "Indian Coke",
+          "Mexican Coke"
+        ],
+        "reponse": "Mexican Coke",
+        "anecdote": "Named thus by its place of production, this change would give the drink a natural taste."
+      }
+    ]
+    },
+    "de": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Welches Coca-Cola-Produkt ist ein direkter Konkurrent von PepsiCo's 7 Up ?",
+        "propositions": [
+          "Fanta",
+          "Sprite",
+          "Nalu",
+          "Bonaqua"
+        ],
+        "reponse": "Sprite",
+        "anecdote": "Sprite enthält: gasförmiges Wasser, Zucker und Säuerungsmittel (Zitronensäure, Natriumcitrat und natürliche Zitronen-Limetten-Aromen)."
+      },
+      {
+        "id": 2,
+        "question": "Welcher Fruchtsaft ist im Krieg mit seinem Konkurrenten Tropicana ?",
+        "propositions": [
+          "Minute Maid",
+          "Andros",
+          "Joker",
+          "Oasis"
+        ],
+        "reponse": "Minute Maid",
+        "anecdote": "Frischer Orangensaft konnte nun zu jeder Jahreszeit und außerhalb der Anbaugebiete gegessen werden."
+      },
+      {
+        "id": 3,
+        "question": "Welche Marke belgischen Mineralwassers gehört zur Coca-Cola-Gruppe ?",
+        "propositions": [
+          "Valvert",
+          "Spa",
+          "Chaudfontaine",
+          "Bru"
+        ],
+        "reponse": "Chaudfontaine",
+        "anecdote": "Die Quelle von Chaudfontaine befindet sich in der belgischen Stadt Chaudfontaine in der wallonischen Region."
+      },
+      {
+        "id": 4,
+        "question": "Welchen Tee stellen Nestl Nest und Coca-Cola gemeinsam her ?",
+        "propositions": [
+          "Mai Tee",
+          "Arizona",
+          "Nestea",
+          "Jungfrau"
+        ],
+        "reponse": "Nestea",
+        "anecdote": "Nestea wurde 1977 gegründet und ist derzeit in drei Geschmacksrichtungen erhältlich : Nestea Peche Blanche, Nestea Tropical und Nestea Citron."
+      },
+      {
+        "id": 5,
+        "question": "Welches zuckerfreie Coca-Cola richtet sich an ein besonders männliches Publikum ?",
+        "propositions": [
+          "Leben",
+          "Null",
+          "Blak",
+          "Kirsche"
+        ],
+        "reponse": "Null",
+        "anecdote": "Wie Coca Light verwendet auch das 2007 in Frankreich veröffentlichte Rezept Aspartam und Acesulfam-K anstelle von Zucker."
+      },
+      {
+        "id": 6,
+        "question": "Welches Getränk ist auch als Diet Coke bekannt ?",
+        "propositions": [
+          "Coca-Cola BlaK",
+          "Coca-Cola Light",
+          "Coca-Cola Leben",
+          "Coca-Cola Zero"
+        ],
+        "reponse": "Coca-Cola Light",
+        "anecdote": "Die 1988 in Frankreich eingeführte Marke Diet Coke wurde 1982 in den USA am Independence Day eingeführt."
+      },
+      {
+        "id": 7,
+        "question": "Welche Variante von Coca-Cola wurde nach dem Klassiker und dem Light verkauft ?",
+        "propositions": [
+          "Kirsche",
+          "Leben",
+          "BlaK",
+          "Null"
+        ],
+        "reponse": "Kirsche",
+        "anecdote": "Coca-Cola kreierte dann andere aromatisierte Coca-Cola : Vanille, Zitrone (Zitrone), Limette (Limette), BlaK (Kaffee) und Sango (Orange)."
+      },
+      {
+        "id": 8,
+        "question": "Seit welchem Jahr ist Coca-Cola eine eingetragene Marke ?",
+        "propositions": [
+          "1887",
+          "1932",
+          "1947",
+          "1913"
+        ],
+        "reponse": "1887",
+        "anecdote": "Es hat seinen Namen von seiner ersten Zusammensetzung : das Kokablatt und die Verwendung von Cola-Nuss, ein Getränk, das von seinem Erfinder verkauft wurde."
+      },
+      {
+        "id": 9,
+        "question": "Welcher Energy Drink von Coca-Cola wird in den Benelux-Ländern verkauft ?",
+        "propositions": [
+          "Red Bull",
+          "Rodeo",
+          "Nalu",
+          "Monster"
+        ],
+        "reponse": "Nalu",
+        "anecdote": "Es wurde im Forschungs- und Entwicklungszentrum von Coca-Cola Anderlecht entwickelt, wird in Gent hergestellt und in Belgien und Luxemburg verkauft."
+      },
+      {
+        "id": 10,
+        "question": "Bei welchen Olympischen Spielen durften nur Coca-Cola-Produkte getrunken werden ?",
+        "propositions": [
+          "Athen 2004",
+          "London 2012",
+          "Peking 2008",
+          "Sydney 2000"
+        ],
+        "reponse": "Athen 2004",
+        "anecdote": "Die 39 offiziellen Sponsoren der Spiele haben gegen knapp 800 Millionen Euro die absolute Exklusivität ihrer Produkte auf der Website erlangt."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "In welcher Stadt von Georgia befindet sich der derzeitige Hauptsitz der Firma Coca-Cola ?",
+        "propositions": [
+          "Dalton",
+          "Albany",
+          "Atlanta",
+          "Braunschweig"
+        ],
+        "reponse": "Atlanta",
+        "anecdote": "Anfang 2012 war Coca-Cola das umsatzstärkste Lebensmittelunternehmen der Welt."
+      },
+      {
+        "id": 12,
+        "question": "Welches Getränk der Firma Coca-Cola kam nach 1945 auf den Markt ?",
+        "propositions": [
+          "Sprite",
+          "Fanta",
+          "Kirschkoks",
+          "Koks Leben"
+        ],
+        "reponse": "Fanta",
+        "anecdote": "Der Zweite Weltkrieg hatte es schwierig gemacht, die für die Herstellung von Coca Cola benötigten Produkte zu importieren."
+      },
+      {
+        "id": 13,
+        "question": "Wie viele Getränkemarken verträgt Coca-Cola heute ?",
+        "propositions": [
+          "400",
+          "200",
+          "500",
+          "300"
+        ],
+        "reponse": "500",
+        "anecdote": "Am 24. Dezember 2014 gab das Wall Street Journal bekannt, dass das Unternehmen den Abbau von 1.000 bis 2.000 Stellen plant."
+      },
+      {
+        "id": 14,
+        "question": "Wie hoch war der Umsatz der Firma Coca-Cola im Jahr 2016 in Milliarden Euro ?",
+        "propositions": [
+          "44",
+          "32",
+          "38",
+          "26"
+        ],
+        "reponse": "38",
+        "anecdote": "Im Jahr 2012 waren Nordkorea und Kuba die einzigen beiden Länder, in denen Coca-Cola nicht vermarktet werden konnte."
+      },
+      {
+        "id": 15,
+        "question": "Welche audiovisuelle Produktionsfirma hat Coca-Cola 1982 gekauft ?",
+        "propositions": [
+          "Universal Pictures",
+          "Paramount Bilder",
+          "Warner Bros.",
+          "Bilder von Columbia"
+        ],
+        "reponse": "Bilder von Columbia",
+        "anecdote": "Das Firmenlogo repräsentiert eine Personifikation der Vereinigten Staaten von Amerika, Columbia, die eine Fackel trägt (wie die Freiheitsstatue)."
+      },
+      {
+        "id": 16,
+        "question": "Welches sportliche Getränk wird von Coca-Cola vermarktet ?",
+        "propositions": [
+          "Gatorade",
+          "Sporteus",
+          "Wassermann",
+          "Isostar"
+        ],
+        "reponse": "Wassermann",
+        "anecdote": "Dieses Sportgetränk wurde 1983 in Japan als Reaktion auf ein ähnliches Getränk namens Pocari Sweat vermarktet."
+      },
+      {
+        "id": 17,
+        "question": "Welche Version von Coca-Cola basiert auf der Verwendung von Stevia ?",
+        "propositions": [
+          "Leben",
+          "Kirsche",
+          "BlaK",
+          "Null"
+        ],
+        "reponse": "Leben",
+        "anecdote": "Stevia mit einem Geschmack, der dem Geschmack des Getränks nahe kommt und den Geschmack des Getränks beeinflusst, wurde dann die Zusammensetzung des Produkts modifiziert."
+      },
+      {
+        "id": 18,
+        "question": "Welches Derivat des Coca-Cola-Getränks ist mit Vitamin C angereichert ?",
+        "propositions": [
+          "Coca_cola Fresh",
+          "Coca-Cola-Minze",
+          "Coca-Cola Neu",
+          "Coca-Cola Plus"
+        ],
+        "reponse": "Coca-Cola Plus",
+        "anecdote": "Das Vorhandensein von Vitamin C und sein niedriger Natriumgehalt verleihen Coca-Cola Plus, das 2009 in Japan auf den Markt kam, einen leichteren Zitrusgeschmack."
+      },
+      {
+        "id": 19,
+        "question": "Welche Coca-Cola-Formel war ein schwerwiegender Marketingfehler ?",
+        "propositions": [
+          "Coca-Cola Light",
+          "Coca-Cola Zero",
+          "Neue Cola",
+          "Coca-Cola Leben"
+        ],
+        "reponse": "Neue Cola",
+        "anecdote": "Die Akzeptanz der Rezepturänderung in der Öffentlichkeit war schlecht, und New Coke wurde als schwerwiegender Vermarktungsfehler angesehen."
+      },
+      {
+        "id": 20,
+        "question": "Welche Coca-Cola-Version hat einen angereicherten Kaffeegeschmack ?",
+        "propositions": [
+          "Null",
+          "Kirsche",
+          "Leben",
+          "BlaK"
+        ],
+        "reponse": "BlaK",
+        "anecdote": "Die Coca-Cola Company hat Coca-Cola BlaK auf den Markt gebracht, um mit PepsiCos Pepsi Maxcappuccino zu konkurrieren."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wer war zum 1. Januar 2017 CEO von Coca-Cola ?",
+        "propositions": [
+          "Serdar Bilgili",
+          "Muhtar Kent",
+          "Fikret Orman",
+          "Osman Kavala"
+        ],
+        "reponse": "Muhtar Kent",
+        "anecdote": "1979 begann Muhtar Kent seine Karriere als Distributor von Coca-Cola-Produkten in den Vereinigten Staaten."
+      },
+      {
+        "id": 22,
+        "question": "Wer hat die Form der spezifischen Glasflasche der Marke Coca-Cola entworfen ?",
+        "propositions": [
+          "David Rockwell",
+          "Raymond Loewy",
+          "Jerry Manock",
+          "Milton Glaser"
+        ],
+        "reponse": "Raymond Loewy",
+        "anecdote": "Raymond Loewy, geboren 1893 in Paris, ist ein Industrie- und Grafikdesigner aus Frankreich, der nach seiner Einbürgerung französisch-amerikanisch wurde."
+      },
+      {
+        "id": 23,
+        "question": "Wie viel gibt es in der Welt der verschiedenen Geschmacksrichtungen von Fanta ?",
+        "propositions": [
+          "50",
+          "30",
+          "70",
+          "10"
+        ],
+        "reponse": "70",
+        "anecdote": "Fanta Shokata ist ein Aroma aus La Socata, einem traditionellen rumänischen Getränk aus Hirschblüten."
+      },
+      {
+        "id": 24,
+        "question": "Wer hat John Stith Pemberton den Namen Coca-Cola für sein zukünftiges Getränk vorgeschlagen ?",
+        "propositions": [
+          "James Quincey",
+          "Barry Diller",
+          "Ronald Allen",
+          "Frank Robinson"
+        ],
+        "reponse": "Frank Robinson",
+        "anecdote": "Pembertons Buchhalter bot ihm den Namen Coca-Cola und das Design des Logos Haddon Sundblom-Illustra für sein Weihnachtsfest an."
+      },
+      {
+        "id": 25,
+        "question": "Welches gereinigte Leitungswasser verkauft Coca-Cola ?",
+        "propositions": [
+          "Finley",
+          "Powerade",
+          "Dasani",
+          "Brennen"
+        ],
+        "reponse": "Dasani",
+        "anecdote": "Die Marke verkaufte Wasser von der Themse, das durch Zugabe von Calciumchlorid, das Bromid enthielt, gereinigt und dreimal filtriert wurde."
+      },
+      {
+        "id": 26,
+        "question": "In welches Land darf Coca-Cola nicht importieren ?",
+        "propositions": [
+          "Indien",
+          "Argentinien",
+          "Japan",
+          "Schweiz"
+        ],
+        "reponse": "Indien",
+        "anecdote": "Einige von Coca-Cola hergestellte Wasserflaschen enthielten Pestizidrückstände, die dreißigmal höher waren als der Standard."
+      },
+      {
+        "id": 27,
+        "question": "Welches Produkt steht für den Slogan : « Cola küsst die Orange » ?",
+        "propositions": [
+          "Mezzo Mix",
+          "Enviga",
+          "Dasani",
+          "BlaK"
+        ],
+        "reponse": "Mezzo Mix",
+        "anecdote": "Mezzo Mix ist ein Produkt von Coca-Cola und wird nur in Deutschland, Österreich, Finnland, Belgien und der Schweiz verkauft."
+      },
+      {
+        "id": 28,
+        "question": "Welche Variante des Coca-Cola-Getränks wurde 1940 hergestellt ?",
+        "propositions": [
+          "Coca Blue",
+          "Coca Mauve",
+          "Weiße Coca",
+          "Gelbe Coca"
+        ],
+        "reponse": "Weiße Coca",
+        "anecdote": "Marschall Schukow forderte die amerikanische Kompanie auf, Flaschen herzustellen und zu verpacken, damit sie wie Wodka aussehen."
+      },
+      {
+        "id": 29,
+        "question": "Welches Getränk enthält Catechine aus grünem Tee ?",
+        "propositions": [
+          "Cheerios",
+          "Enviga",
+          "Muttern",
+          "Lanvin"
+        ],
+        "reponse": "Enviga",
+        "anecdote": "Enviga ist ein alkoholfreies, alkoholfreies Getränk, das laut Herstellerangaben mehr Kalorien verbrennt, als es liefert."
+      },
+      {
+        "id": 30,
+        "question": "Welche Formel verwendet Coca-Cola anstelle von Standardzucker Rohrzucker ?",
+        "propositions": [
+          "Kanadische Cola",
+          "Deutsche Cola",
+          "Indische Cola",
+          "Mexikanische Cola"
+        ],
+        "reponse": "Mexikanische Cola",
+        "anecdote": "Diese Änderung, die so nach ihrem Herstellungsort benannt ist, würde dem Getränk einen natürlichen Geschmack verleihen."
+      }
+    ]
+    },
+    "es": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "¿Que producto de Coca-Cola es un competidor directo de 7 Up de PepsiCo ?",
+        "propositions": [
+          "Nalu",
+          "Fanta",
+          "Bonaqua",
+          "Sprite"
+        ],
+        "reponse": "Sprite",
+        "anecdote": "Sprite contiene: agua gaseosa, azúcar y acidificantes (ácido cítrico, citrato de sodio y aromatizantes naturales de lima-limón)."
+      },
+      {
+        "id": 2,
+        "question": "¿Que zumo de frutas está en guerra con su competidor Tropicana ?",
+        "propositions": [
+          "Oasis",
+          "Minute Maid",
+          "Andros",
+          "Joker"
+        ],
+        "reponse": "Minute Maid",
+        "anecdote": "Ahora era posible comer jugo de naranja fresco en cualquier epoca del año y lejos de las regiones productoras."
+      },
+      {
+        "id": 3,
+        "question": "¿Que marca de agua mineral belga pertenece al grupo Coca-Cola ?",
+        "propositions": [
+          "Spa",
+          "Valvert",
+          "Chaudfontaine",
+          "Bru"
+        ],
+        "reponse": "Chaudfontaine",
+        "anecdote": "La fuente de Chaudfontaine se encuentra en la ciudad belga de Chaudfontaine, en la región valona."
+      },
+      {
+        "id": 4,
+        "question": "¿Que te se produce conjuntamente por Nestle y Coca-Cola ?",
+        "propositions": [
+          "Nestea",
+          "Arizona",
+          "Te de mayo",
+          "Virgen"
+        ],
+        "reponse": "Nestea",
+        "anecdote": "Creado en 1977, Nestea está actualmente disponible en tres sabores : Nestea Pcheche Blanche, Nestea Tropical y Nestea Citron."
+      },
+      {
+        "id": 5,
+        "question": "¿Que Coca-Cola sin azúcar se dirige a un público particularmente masculino ?",
+        "propositions": [
+          "Cereza",
+          "La vida",
+          "Cero",
+          "Blak"
+        ],
+        "reponse": "Cero",
+        "anecdote": "Al igual que Coca Light, su receta lanzada en 2007 en Francia utiliza aspartamo y acesulfamo-k en lugar de azúcar."
+      },
+      {
+        "id": 6,
+        "question": "¿Que bebida tambien se conoce como Coca-Cola Light ?",
+        "propositions": [
+          "Coca-Cola Zero",
+          "Coca-Cola Life",
+          "Coca-Cola Light",
+          "Coca-Cola BlaK"
+        ],
+        "reponse": "Coca-Cola Light",
+        "anecdote": "Introducida en Francia en 1988, la marca Diet Coke se lanzó en los Estados Unidos en el Día de la Independencia en 1982."
+      },
+      {
+        "id": 7,
+        "question": "¿Que variación de Coca-Cola salió a la venta despues del clásico y la luz ?",
+        "propositions": [
+          "La vida",
+          "Cereza",
+          "BlaK",
+          "Cero"
+        ],
+        "reponse": "Cereza",
+        "anecdote": "Luego, Coca-Cola creó otras Coca-Cola con sabor : vainilla, limón (limón), lima (lima), BlaK (cafe) y Sango (naranja)."
+      },
+      {
+        "id": 8,
+        "question": "¿Desde que año Coca-Cola ha sido una marca registrada ?",
+        "propositions": [
+          "1932",
+          "1887",
+          "1947",
+          "1913"
+        ],
+        "reponse": "1887",
+        "anecdote": "Toma su nombre de su primera composición : la hoja de coca y el uso de la nuez de cola, una bebida que luego vendió su inventor."
+      },
+      {
+        "id": 9,
+        "question": "¿Que bebida energetica de Coca-Cola se vende en el Benelux ?",
+        "propositions": [
+          "Red Bull",
+          "Rodeo",
+          "Nalu",
+          "Monstruo"
+        ],
+        "reponse": "Nalu",
+        "anecdote": "Desarrollado en el centro de investigación y desarrollo de Coca-Cola Anderlecht, se produce en Gante y se vende en Belgica y Luxemburgo."
+      },
+      {
+        "id": 10,
+        "question": "¿En que Juegos Olímpicos solo se podían beber productos de Coca-Cola ?",
+        "propositions": [
+          "Beijing 2008",
+          "Londres 2012",
+          "Atenas 2004",
+          "Sydney 2000"
+        ],
+        "reponse": "Atenas 2004",
+        "anecdote": "Los 39 patrocinadores oficiales de los juegos han obtenido, frente a casi 800 millones de euros, la exclusividad absoluta de sus productos en el sitio."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "¿En que ciudad de Georgia se encuentra la sede actual de la empresa Coca-Cola ?",
+        "propositions": [
+          "Albany",
+          "Dalton",
+          "Atlanta",
+          "Brunswick"
+        ],
+        "reponse": "Atlanta",
+        "anecdote": "A principios de 2012, Coca-Cola era la tercera empresa agroalimentaria más grande del mundo en terminos de facturación."
+      },
+      {
+        "id": 12,
+        "question": "¿Que bebida de la compañía Coca-Cola se lanzó despues de 1945 ?",
+        "propositions": [
+          "Fanta",
+          "Coca de cereza",
+          "Sprite",
+          "Coca-Cola Life"
+        ],
+        "reponse": "Fanta",
+        "anecdote": "La Segunda Guerra Mundial había dificultado la importación de los productos necesarios para la fabricación de Coca Cola."
+      },
+      {
+        "id": 13,
+        "question": "¿Cuántas marcas de bebidas maneja Coca-Cola hoy ?",
+        "propositions": [
+          "400",
+          "200",
+          "300",
+          "500"
+        ],
+        "reponse": "500",
+        "anecdote": "El 24 de diciembre de 2014, el Wall Street Journal anunció que la compañía planeaba recortar entre 1,000 y 2,000 puestos."
+      },
+      {
+        "id": 14,
+        "question": "¿Cuál fue, en miles de millones de euros, la facturación de la empresa Coca-Cola en 2016 ?",
+        "propositions": [
+          "38",
+          "32",
+          "26",
+          "44"
+        ],
+        "reponse": "38",
+        "anecdote": "En 2012, los únicos dos países donde Coca-Cola no se podía comercializar eran Corea del Norte y Cuba."
+      },
+      {
+        "id": 15,
+        "question": "¿Que productora audiovisual compró Coca-Cola en 1982 ?",
+        "propositions": [
+          "Warner Bros.",
+          "Paramount Imágenes",
+          "Imágenes de Columbia",
+          "Universal Pictures"
+        ],
+        "reponse": "Imágenes de Columbia",
+        "anecdote": "El logotipo de la compañía representa una personificación de los Estados Unidos, Columbia, portando una antorcha (como la Estatua de la Libertad)."
+      },
+      {
+        "id": 16,
+        "question": "¿Que bebida diseñada para el deporte es comercializada por Coca-Cola ?",
+        "propositions": [
+          "Gatorade",
+          "Sporteus",
+          "Acuario",
+          "Isostar"
+        ],
+        "reponse": "Acuario",
+        "anecdote": "Esta bebida deportiva se comercializó en 1983 en Japón en respuesta a una bebida similar llamada Pocari Sweat."
+      },
+      {
+        "id": 17,
+        "question": "¿Que versión de Coca-Cola se basa en el uso de la stevia ?",
+        "propositions": [
+          "Vida",
+          "Cero",
+          "Blak",
+          "Cereza"
+        ],
+        "reponse": "Vida",
+        "anecdote": "Stevia, que tiene un sabor cercano al regaliz e influye en el sabor de la bebida, la composición del producto se modificó."
+      },
+      {
+        "id": 18,
+        "question": "¿Que derivado de la bebida Coca-Cola está enriquecido con vitamina C ?",
+        "propositions": [
+          "Coca-Cola Nuevo",
+          "Coca_cola Fresca",
+          "Coca-Cola Menta",
+          "Coca-Cola Plus"
+        ],
+        "reponse": "Coca-Cola Plus",
+        "anecdote": "La presencia de vitamina C y su bajo nivel de sodio le dan a Coca-Cola Plus, lanzado en Japón en 2009, un sabor cítrico más ligero."
+      },
+      {
+        "id": 19,
+        "question": "¿Que fórmula de Coca-Cola fue un gran fracaso de comercialización ?",
+        "propositions": [
+          "Coca-Cola Light",
+          "Coca-Cola nueva",
+          "Coca-Cola Life",
+          "Coca-Cola Zero"
+        ],
+        "reponse": "Coca-Cola nueva",
+        "anecdote": "La aceptación pública del cambio de fórmula fue mala y New Coke se consideró un gran fracaso de comercialización."
+      },
+      {
+        "id": 20,
+        "question": "¿Que versión de Coca-Cola tiene un sabor enriquecido en el cafe ?",
+        "propositions": [
+          "Blak",
+          "Cereza",
+          "Vida",
+          "Cero"
+        ],
+        "reponse": "Blak",
+        "anecdote": "The Coca-Cola Company lanzó Coca-Cola BlaK para competir con Pepsi Maxcappuccino de PepsiCo."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Quien era el CEO de Coca-Cola al 1 de enero de 2017 ?",
+        "propositions": [
+          "Osman Kavala",
+          "Serdar Bilgili",
+          "Fikret Orman",
+          "Muhtar Kent"
+        ],
+        "reponse": "Muhtar Kent",
+        "anecdote": "En 1979, Muhtar Kent comenzó su carrera como distribuidor de productos de Coca-Cola en todo Estados Unidos."
+      },
+      {
+        "id": 22,
+        "question": "¿Quien ha diseñado la forma de la botella de vidrio específica de la marca Coca-Cola ?",
+        "propositions": [
+          "Milton Glaser",
+          "Raymond Loewy",
+          "David Rockwell",
+          "Jerry Manock"
+        ],
+        "reponse": "Raymond Loewy",
+        "anecdote": "Raymond Loewy, nacido en París en 1893, es un diseñador industrial y gráfico de Francia que se convirtió en franco-estadounidense despues de su naturalización."
+      },
+      {
+        "id": 23,
+        "question": "¿Cuánto hay en el mundo de diferentes sabores de Fanta ?",
+        "propositions": [
+          "30",
+          "10",
+          "50",
+          "70"
+        ],
+        "reponse": "70",
+        "anecdote": "Fanta Shokata es un sabor derivado de La Socata, una bebida tradicional rumana hecha de flor de venado."
+      },
+      {
+        "id": 24,
+        "question": "¿Quien propuso a John Stith Pemberton el nombre de Coca-Cola para su futura bebida ?",
+        "propositions": [
+          "Barry Diller",
+          "James Quincey",
+          "Ronald Allen",
+          "Frank Robinson"
+        ],
+        "reponse": "Frank Robinson",
+        "anecdote": "El contador de Pemberton le ofreció el nombre de Coca-Cola y el diseño del logotipo, Haddon Sundblom-Illustra en cuanto a su Navidad."
+      },
+      {
+        "id": 25,
+        "question": "¿Que agua corriente purificada vende Coca-Cola ?",
+        "propositions": [
+          "Finley",
+          "Dasani",
+          "Quemar",
+          "Powerade"
+        ],
+        "reponse": "Dasani",
+        "anecdote": "La marca vendió agua del Támesis purificada mediante la adición de cloruro de calcio, que contiene bromuro, filtrada tres veces."
+      },
+      {
+        "id": 26,
+        "question": "¿En que país está prohibida la importación de Coca-Cola ?",
+        "propositions": [
+          "Japón",
+          "India",
+          "Suiza",
+          "Argentina"
+        ],
+        "reponse": "India",
+        "anecdote": "Varias marcas de agua embotellada fabricadas por Coca-Cola contenían residuos de pesticidas treinta veces más altos que el estándar."
+      },
+      {
+        "id": 27,
+        "question": "¿Que producto tiene para el eslogan : « Cola besa a la naranja » ?",
+        "propositions": [
+          "BlaK",
+          "Mezzo Mix",
+          "Dasani",
+          "Enviga"
+        ],
+        "reponse": "Mezzo Mix",
+        "anecdote": "Mezzo Mix es un producto de Coca-Cola vendido solo en Alemania, Austria, Finlandia, Belgica y Suiza."
+      },
+      {
+        "id": 28,
+        "question": "¿Que variante de la bebida Coca-Cola se produjo en 1940 ?",
+        "propositions": [
+          "Coca Malva",
+          "Coca blanca",
+          "Coca amarilla",
+          "Coca Blue"
+        ],
+        "reponse": "Coca blanca",
+        "anecdote": "El mariscal Zhukov le pidió a la compañía estadounidense que hiciera y empacara botellas para que parecieran vodka."
+      },
+      {
+        "id": 29,
+        "question": "¿Que bebida contiene catequinas extraídas del te verde ?",
+        "propositions": [
+          "Enviga",
+          "Nueces",
+          "Cheerios",
+          "Lanvin"
+        ],
+        "reponse": "Enviga",
+        "anecdote": "Enviga es una bebida sin alcohol y sin alcohol que, según sus fabricantes, quema más calorías de las que proporciona."
+      },
+      {
+        "id": 30,
+        "question": "¿Que fórmula usa Coca-Cola de azúcar de caña en lugar de azúcar estándar ?",
+        "propositions": [
+          "Coca Cola India",
+          "Coca Cola Canadiense",
+          "Coca Cola Mexicana",
+          "Coca-Cola Alemana"
+        ],
+        "reponse": "Coca Cola Mexicana",
+        "anecdote": "Llamado así por su lugar de producción, este cambio le daría a la bebida un sabor natural."
+      }
+    ]
+    },
+    "it": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Quale prodotto Coca-Cola e un concorrente diretto di 7 Up di PepsiCo ?",
+        "propositions": [
+          "Nalu",
+          "Sprite",
+          "Fanta",
+          "Bonaqua"
+        ],
+        "reponse": "Sprite",
+        "anecdote": "Lo sprite contiene: acqua gassosa, zucchero e acidificanti ? (acido citrico, citrato di sodio e aromi naturali di limone e lime)."
+      },
+      {
+        "id": 2,
+        "question": "Quale succo di frutta e in guerra con il suo concorrente Tropicana ?",
+        "propositions": [
+          "Minute Maid",
+          "Andros",
+          "Oasi",
+          "Joker"
+        ],
+        "reponse": "Minute Maid",
+        "anecdote": "Ora era possibile mangiare succo d'arancia fresco in qualsiasi momento dell'anno e lontano dalle regioni produttrici."
+      },
+      {
+        "id": 3,
+        "question": "Quale marca di acqua minerale belga appartiene al gruppo Coca-Cola ?",
+        "propositions": [
+          "Bru",
+          "Spa",
+          "Chaudfontaine",
+          "Valvert"
+        ],
+        "reponse": "Chaudfontaine",
+        "anecdote": "La fonte di Chaudfontaine si trova nella città belga di Chaudfontaine, nella regione vallona."
+      },
+      {
+        "id": 4,
+        "question": "Quale te viene prodotto congiuntamente da Nestle e Coca-Cola ?",
+        "propositions": [
+          "Nestea",
+          "Arizona",
+          "Vergine",
+          "Te di maggio"
+        ],
+        "reponse": "Nestea",
+        "anecdote": "Creata nel 1977, Nestea e attualmente disponibile in tre versioni : Nestea Peche Blanche, Nestea Tropical e Nestea Citron."
+      },
+      {
+        "id": 5,
+        "question": "Quale Coca-Cola senza zucchero si rivolge a un pubblico particolarmente maschile ?",
+        "propositions": [
+          "Vita",
+          "Ciliegia",
+          "Zero",
+          "Blak"
+        ],
+        "reponse": "Zero",
+        "anecdote": "Come la Coca Light, la sua ricetta rilasciata nel 2007 in Francia utilizza aspartame e acesulfame-k invece di zucchero."
+      },
+      {
+        "id": 6,
+        "question": "Quale bevanda e anche conosciuta come Diet Coke ?",
+        "propositions": [
+          "Coca-Cola Life",
+          "Coca-Cola Light",
+          "Coca-Cola Zero",
+          "Coca-Cola BlaK"
+        ],
+        "reponse": "Coca-Cola Light",
+        "anecdote": "Introdotto in Francia nel 1988, il marchio Diet Coke e stato lanciato negli Stati Uniti nel Giorno dell'Indipendenza nel 1982."
+      },
+      {
+        "id": 7,
+        "question": "Quale variante di Coca-Cola e stata messa in vendita dopo il classico e la luce ?",
+        "propositions": [
+          "Vita",
+          "Zero",
+          "BlaK",
+          "Ciliegia"
+        ],
+        "reponse": "Ciliegia",
+        "anecdote": "La Coca-Cola ha quindi creato altre Coca-Cola aromatizzate : Vaniglia, Limone (Limone), Lime (Lime), BlaK (Caffe) e Sango (Arancia)."
+      },
+      {
+        "id": 8,
+        "question": "Da quale anno Coca-Cola e un marchio registrato ?",
+        "propositions": [
+          "1932",
+          "1913",
+          "1947",
+          "1887"
+        ],
+        "reponse": "1887",
+        "anecdote": "Prende il nome dalla sua prima composizione : la foglia di coca e l'uso della noce di cola, una bevanda poi venduta dal suo inventore."
+      },
+      {
+        "id": 9,
+        "question": "Quale bevanda energetica della Coca-Cola viene venduta nel Benelux ?",
+        "propositions": [
+          "Rodeo",
+          "Nalu",
+          "Monster",
+          "Red Bull"
+        ],
+        "reponse": "Nalu",
+        "anecdote": "Sviluppato nel centro di ricerca e sviluppo della Coca-Cola Anderlecht, e prodotto a Gand e viene venduto in Belgio e Lussemburgo."
+      },
+      {
+        "id": 10,
+        "question": "A quali giochi olimpici si potevano bere solo prodotti della Coca-Cola ?",
+        "propositions": [
+          "Atene 2004",
+          "Sydney 2000",
+          "Londra 2012",
+          "Pechino 2008"
+        ],
+        "reponse": "Atene 2004",
+        "anecdote": "I 39 sponsor ufficiali dei giochi hanno ottenuto, contro quasi 800 milioni di euro, l'assoluta esclusività dei loro prodotti sul sito."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "In quale città della Georgia si trova l'attuale sede della società Coca-Cola ?",
+        "propositions": [
+          "Dalton",
+          "Atlanta",
+          "Albany",
+          "Brunswick"
+        ],
+        "reponse": "Atlanta",
+        "anecdote": "All'inizio del 2012, la Coca-Cola era la terza piu grande azienda agroalimentare al mondo in termini di fatturato."
+      },
+      {
+        "id": 12,
+        "question": "Quale bevanda della società Coca-Cola fu rilasciata dopo il 1945 ?",
+        "propositions": [
+          "Vita da coke",
+          "Fanta",
+          "Cherry Coke",
+          "Sprite"
+        ],
+        "reponse": "Fanta",
+        "anecdote": "La seconda guerra mondiale aveva reso difficile l'importazione dei prodotti necessari per la fabbricazione della Coca Cola."
+      },
+      {
+        "id": 13,
+        "question": "Quante marche di bevande gestisce oggi la Coca-Cola ?",
+        "propositions": [
+          "300",
+          "200",
+          "400",
+          "500"
+        ],
+        "reponse": "500",
+        "anecdote": "Il 24 dicembre 2014, il Wall Street Journal ha annunciato che la società aveva pianificato di tagliare tra 1.000 e 2.000 posizioni."
+      },
+      {
+        "id": 14,
+        "question": "Qual e stato, in miliardi di euro, il fatturato dell'azienda Coca-Cola nel 2016 ?",
+        "propositions": [
+          "38",
+          "32",
+          "26",
+          "44"
+        ],
+        "reponse": "38",
+        "anecdote": "Nel 2012, gli unici due paesi in cui la coca cola non poteva essere commercializzata erano la Corea del Nord e Cuba."
+      },
+      {
+        "id": 15,
+        "question": "Quale società di produzione audiovisiva ha acquistato la Coca-Cola nel 1982 ?",
+        "propositions": [
+          "Columbia Pictures",
+          "Warner Bros.",
+          "Paramount Pictures",
+          "Immagini universali"
+        ],
+        "reponse": "Columbia Pictures",
+        "anecdote": "Il logo dell'azienda rappresenta una personificazione degli Stati Uniti, in Colombia, con una torcia (come la Statua della Libertà)."
+      },
+      {
+        "id": 16,
+        "question": "Quale bevanda progettata per lo sport e commercializzata dalla Coca-Cola ?",
+        "propositions": [
+          "Isostar",
+          "Gatorade",
+          "Acquario",
+          "Sporteus"
+        ],
+        "reponse": "Acquario",
+        "anecdote": "Questa bevanda sportiva e stata commercializzata nel 1983 in Giappone in risposta a una bevanda simile chiamata Pocari Sweat."
+      },
+      {
+        "id": 17,
+        "question": "Quale versione di Coca-Cola si basa sull'uso della stevia ?",
+        "propositions": [
+          "Ciliegia",
+          "BlaK",
+          "Zero",
+          "Vita"
+        ],
+        "reponse": "Vita",
+        "anecdote": "Avendo un sapore simile a quello di Stevia, che ha influenzato il gusto della bevanda, la composizione del prodotto e stata quindi modificata."
+      },
+      {
+        "id": 18,
+        "question": "Quale derivato della bevanda Coca-Cola e arricchito con vitamina C ?",
+        "propositions": [
+          "Coca-Cola Plus",
+          "Coca_cola Fresh",
+          "Menta Coca-Cola",
+          "Coca-Cola Novità"
+        ],
+        "reponse": "Coca-Cola Plus",
+        "anecdote": "La presenza di vitamina C e il suo basso livello di sodio conferiscono alla Coca-Cola Plus, rilasciata in Giappone nel 2009, un gusto piu leggero di agrumi."
+      },
+      {
+        "id": 19,
+        "question": "Quale formula di Coca-Cola e stata un grave fallimento commerciale ?",
+        "propositions": [
+          "New Coke",
+          "Coca-Cola Life",
+          "Coca-Cola Zero",
+          "Coca-Cola Light"
+        ],
+        "reponse": "New Coke",
+        "anecdote": "L'accettazione da parte del pubblico del cambio di formula e stata negativa e New Coke e stato considerato un grave fallimento del marketing."
+      },
+      {
+        "id": 20,
+        "question": "Quale versione di Coca-Cola ha un gusto arricchito nel caffe ?",
+        "propositions": [
+          "Ciliegia",
+          "Zero",
+          "BlaK",
+          "Vita"
+        ],
+        "reponse": "BlaK",
+        "anecdote": "La Coca-Cola Company ha lanciato Coca-Cola BlaK per competere con Pepsi Maxcappuccino di PepsiCo."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Chi era CEO di Coca-Cola dal 1 ° gennaio 2017 ?",
+        "propositions": [
+          "Fikret Orman",
+          "Osman Kavala",
+          "Muhtar Kent",
+          "Serdar Bilgili"
+        ],
+        "reponse": "Muhtar Kent",
+        "anecdote": "Nel 1979, Muhtar Kent iniziò la sua carriera come distributore di prodotti Coca-Cola negli Stati Uniti."
+      },
+      {
+        "id": 22,
+        "question": "Chi ha disegnato la forma della specifica bottiglia di vetro del marchio Coca-Cola ?",
+        "propositions": [
+          "Raymond Loewy",
+          "Milton Glaser",
+          "David Rockwell",
+          "Jerry Manock"
+        ],
+        "reponse": "Raymond Loewy",
+        "anecdote": "Raymond Loewy, nato a Parigi nel 1893, e un designer industriale e grafico francese che e diventato franco-americano dopo la sua naturalizzazione."
+      },
+      {
+        "id": 23,
+        "question": "Quanto c'e nel mondo dei diversi gusti di Fanta ?",
+        "propositions": [
+          "50",
+          "70",
+          "10",
+          "30"
+        ],
+        "reponse": "70",
+        "anecdote": "La Fanta Shokata e un aroma derivato da La Socata, una bevanda tradizionale rumena a base di fiore di cervo."
+      },
+      {
+        "id": 24,
+        "question": "Chi ha proposto a John Stith Pemberton il nome di Coca-Cola per la sua bevanda futura ?",
+        "propositions": [
+          "James Quincey",
+          "Frank Robinson",
+          "Barry Diller",
+          "Ronald Allen"
+        ],
+        "reponse": "Frank Robinson",
+        "anecdote": "Il ragioniere di Pemberton gli ha offerto il nome di Coca-Cola e il design del logo, Haddon Sundblom-Illustra, per il suo Natale."
+      },
+      {
+        "id": 25,
+        "question": "Quale acqua di rubinetto purificata viene venduta dalla Coca-Cola ?",
+        "propositions": [
+          "Dasani",
+          "Brucia",
+          "Powerade",
+          "Finley"
+        ],
+        "reponse": "Dasani",
+        "anecdote": "Il marchio vendeva acqua del Tamigi purificata aggiungendo cloruro di calcio, contenente bromuro, filtrata tre volte."
+      },
+      {
+        "id": 26,
+        "question": "In quale paese e vietata l'importazione di Coca-Cola ?",
+        "propositions": [
+          "Svizzera",
+          "Argentina",
+          "Giappone",
+          "India"
+        ],
+        "reponse": "India",
+        "anecdote": "Diverse marche di acqua in bottiglia prodotte dalla Coca-Cola contenevano residui di pesticidi trenta volte piu alti dello standard."
+      },
+      {
+        "id": 27,
+        "question": "Quale prodotto ha per lo slogan : « Cola bacia l'arancia » ?",
+        "propositions": [
+          "Enviga",
+          "Mezzo Mix",
+          "BlaK",
+          "Dasani"
+        ],
+        "reponse": "Mezzo Mix",
+        "anecdote": "Mezzo Mix e un prodotto di Coca-Cola venduto solo in Germania, Austria, Finlandia, Belgio e Svizzera."
+      },
+      {
+        "id": 28,
+        "question": "Quale variante della bevanda Coca-Cola e stata prodotta nel 1940 ?",
+        "propositions": [
+          "Coca Mauve",
+          "Coca Blue",
+          "Coca Gialla",
+          "Coca Bianca"
+        ],
+        "reponse": "Coca Bianca",
+        "anecdote": "Il maresciallo Zhukov chiese alla compagnia americana di fabbricare e confezionare bottiglie per farle sembrare vodka."
+      },
+      {
+        "id": 29,
+        "question": "Quale bevanda contiene catechine estratte dal te verde ?",
+        "propositions": [
+          "Lanvin",
+          "Cheerios",
+          "Enviga",
+          "Noci"
+        ],
+        "reponse": "Enviga",
+        "anecdote": "Enviga e una bevanda analcolica e non alcolica che, secondo i suoi produttori, brucia piu calorie di quelle che fornisce."
+      },
+      {
+        "id": 30,
+        "question": "Che formula usa la Coca-Cola per lo zucchero di canna e non per lo zucchero standard ?",
+        "propositions": [
+          "Coke messicano",
+          "Coke canadese",
+          "Coca Cola tedesca",
+          "Coke indiano"
+        ],
+        "reponse": "Coke messicano",
+        "anecdote": "Chiamato così dal suo luogo di produzione, questo cambiamento darebbe alla bevanda un sapore naturale."
+      }
+    ]
+    },
+    "nl": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Welk Coca-Cola-product is een directe concurrent van PepsiCo's 7 Up ?",
+        "propositions": [
+          "Fanta",
+          "Bonaqua",
+          "Nalu",
+          "Sprite"
+        ],
+        "reponse": "Sprite",
+        "anecdote": "Sprite bevat: gasvormig water, suiker en verzuringsmiddelen ? (citroenzuur, natriumcitraat en natuurlijke citroen-limoenaroma's)."
+      },
+      {
+        "id": 2,
+        "question": "Welk fruitsap voert oorlog met zijn concurrent Tropicana ?",
+        "propositions": [
+          "Minuut meid",
+          "Joker",
+          "Oasis",
+          "Andros"
+        ],
+        "reponse": "Minuut meid",
+        "anecdote": "Het was nu mogelijk om op elk moment van het jaar vers sinaasappelsap te eten en weg van de producerende regio's."
+      },
+      {
+        "id": 3,
+        "question": "Welk merk Belgisch mineraalwater behoort tot de Coca-Cola-groep ?",
+        "propositions": [
+          "Bru",
+          "Valvert",
+          "Chaudfontaine",
+          "Spa"
+        ],
+        "reponse": "Chaudfontaine",
+        "anecdote": "De bron van Chaudfontaine ligt in de Belgische stad Chaudfontaine, in het Waalse Gewest."
+      },
+      {
+        "id": 4,
+        "question": "Welke thee wordt gezamenlijk geproduceerd door Nestle en Coca-Cola ?",
+        "propositions": [
+          "Nestea",
+          "May Tea",
+          "Maagd",
+          "Arizona"
+        ],
+        "reponse": "Nestea",
+        "anecdote": "Gemaakt in 1977, Nestea is momenteel verkrijgbaar in drie smaken : Nestea Peche Blanche, Nestea Tropical en Nestea Citron."
+      },
+      {
+        "id": 5,
+        "question": "Welke suikervrije Coca-Cola richt zich op een bijzonder mannelijk publiek ?",
+        "propositions": [
+          "Nul",
+          "Cherry",
+          "Blak",
+          "Leven"
+        ],
+        "reponse": "Nul",
+        "anecdote": "Net als de Coca Light gebruikt het recept dat in 2007 in Frankrijk werd uitgebracht, aspartaam \u200b\u200ben acesulfaam-k in plaats van suiker."
+      },
+      {
+        "id": 6,
+        "question": "Welk drankje wordt ook wel cola light genoemd ?",
+        "propositions": [
+          "Coca-Cola Life",
+          "Coca-Cola Light",
+          "Coca-Cola BlaK",
+          "Coca-Cola Zero"
+        ],
+        "reponse": "Coca-Cola Light",
+        "anecdote": "Het merk Diet Coke werd in 1988 in Frankrijk geïntroduceerd en werd in 1982 op Independence Day in de Verenigde Staten gelanceerd."
+      },
+      {
+        "id": 7,
+        "question": "Welke variant van Coca-Cola is er te koop na de klassieker en de Light ?",
+        "propositions": [
+          "Nul",
+          "Leven",
+          "BlaK",
+          "Cherry"
+        ],
+        "reponse": "Cherry",
+        "anecdote": "Coca-Cola creaerde vervolgens andere gearomatiseerde Coca-Cola : Vanille, Citroen (citroen), Limoen (limoen), BlaK (koffie) en Sango (sinaasappel)."
+      },
+      {
+        "id": 8,
+        "question": "Sinds welk jaar is Coca-Cola een geregistreerd handelsmerk ?",
+        "propositions": [
+          "1887",
+          "1932",
+          "1947",
+          "1913"
+        ],
+        "reponse": "1887",
+        "anecdote": "Het dankt zijn naam aan zijn eerste samenstelling : het cocablad en het gebruik van kolanoot, een drankje dat vervolgens wordt verkocht door de uitvinder."
+      },
+      {
+        "id": 9,
+        "question": "Welke energiedrank van Coca-Cola wordt in de Benelux verkocht ?",
+        "propositions": [
+          "Monster",
+          "Nalu",
+          "Red Bull",
+          "Rodeo"
+        ],
+        "reponse": "Nalu",
+        "anecdote": "Ontwikkeld in het onderzoeks- en ontwikkelingscentrum van Coca-Cola Anderlecht, het wordt geproduceerd in Gent en wordt verkocht in Belgia en Luxemburg."
+      },
+      {
+        "id": 10,
+        "question": "Op welke Olympische Spelen konden alleen Coca-Cola-producten worden gedronken ?",
+        "propositions": [
+          "Londen 2012",
+          "Sydney 2000",
+          "Athene 2004",
+          "Beijing 2008"
+        ],
+        "reponse": "Athene 2004",
+        "anecdote": "De 39 officiale sponsors van de spellen hebben, tegen bijna 800 miljoen euro, de absolute exclusiviteit van hun producten op de site verkregen."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "In welke stad van Georgia is het huidige hoofdkantoor van het bedrijf Coca-Cola ?",
+        "propositions": [
+          "Brunswick",
+          "Dalton",
+          "Atlanta",
+          "Albany"
+        ],
+        "reponse": "Atlanta",
+        "anecdote": "Begin 2012 was Coca-Cola qua omzet het op twee na grootste agrofoodbedrijf ter wereld."
+      },
+      {
+        "id": 12,
+        "question": "Welke drank van Coca-Cola werd na 1945 vrijgegeven ?",
+        "propositions": [
+          "Kersencoke",
+          "Coke Life",
+          "Fanta",
+          "Sprite"
+        ],
+        "reponse": "Fanta",
+        "anecdote": "De Tweede Wereldoorlog had het moeilijk gemaakt om de producten te importeren die nodig waren voor de productie van Coca Cola."
+      },
+      {
+        "id": 13,
+        "question": "Hoeveel soorten dranken verwerkt Coca-Cola vandaag ?",
+        "propositions": [
+          "400",
+          "200",
+          "300",
+          "500"
+        ],
+        "reponse": "500",
+        "anecdote": "Op 24 december 2014 kondigde de Wall Street Journal aan dat het bedrijf van plan was tussen 1.000 en 2.000 posities te snijden."
+      },
+      {
+        "id": 14,
+        "question": "Wat was, in miljarden euro's, de omzet van het bedrijf Coca-Cola in 2016 ?",
+        "propositions": [
+          "44",
+          "38",
+          "26",
+          "32"
+        ],
+        "reponse": "38",
+        "anecdote": "In 2012 waren Noord-Korea en Cuba de enige twee landen waar Coca-Cola niet op de markt kon worden gebracht."
+      },
+      {
+        "id": 15,
+        "question": "Welk audiovisueel productiebedrijf heeft Coca-Cola in 1982 gekocht ?",
+        "propositions": [
+          "Warner Bros.",
+          "Paramount Afbeeldingen",
+          "Columbia Afbeeldingen",
+          "Universele afbeeldingen"
+        ],
+        "reponse": "Columbia Afbeeldingen",
+        "anecdote": "Het bedrijfslogo vertegenwoordigt een personificatie van de Verenigde Staten, Columbia, met een fakkel (zoals het Vrijheidsbeeld)."
+      },
+      {
+        "id": 16,
+        "question": "Welke drank ontworpen voor sport wordt op de markt gebracht door Coca-Cola ?",
+        "propositions": [
+          "Isostar",
+          "Waterman",
+          "Gatorade",
+          "Sporteus"
+        ],
+        "reponse": "Waterman",
+        "anecdote": "Deze sportdrank werd in 1983 in Japan op de markt gebracht als reactie op een soortgelijke drank genaamd Pocari Sweat."
+      },
+      {
+        "id": 17,
+        "question": "Welke versie van Coca-Cola is gebaseerd op het gebruik van stevia ?",
+        "propositions": [
+          "Nul",
+          "Cherry",
+          "BlaK",
+          "Leven"
+        ],
+        "reponse": "Leven",
+        "anecdote": "Omdat Stevia een smaak heeft die dicht bij zoethout ligt en de smaak van de drank beïnvloedt, werd de samenstelling van het product vervolgens gewijzigd."
+      },
+      {
+        "id": 18,
+        "question": "Welke afgeleide van de Coca-Cola-drank is verrijkt met vitamine C ?",
+        "propositions": [
+          "Coca_cola Fresh",
+          "Coca-Cola Nieuw",
+          "Coca-Cola Plus",
+          "Coca-Cola Mint"
+        ],
+        "reponse": "Coca-Cola Plus",
+        "anecdote": "De aanwezigheid van vitamine C en het lage natriumgehalte geven Coca-Cola Plus, uitgebracht in Japan in 2009, een lichtere citrussmaak."
+      },
+      {
+        "id": 19,
+        "question": "Welke Coca-Cola-formule was een groot marketingfalen ?",
+        "propositions": [
+          "Coca-Cola Light",
+          "Coca-Cola Life",
+          "Nieuwe cola",
+          "Coca-Cola Zero"
+        ],
+        "reponse": "Nieuwe cola",
+        "anecdote": "Publieke acceptatie van de verandering van formule was slecht en New Coke werd beschouwd als een groot marketingfalen."
+      },
+      {
+        "id": 20,
+        "question": "Welke versie van Coca-Cola heeft een verrijkte smaak in koffie ?",
+        "propositions": [
+          "BlaK",
+          "Nul",
+          "Cherry",
+          "Leven"
+        ],
+        "reponse": "BlaK",
+        "anecdote": "The Coca-Cola Company lanceerde Coca-Cola BlaK om te concurreren met PepsiCo's Pepsi Maxcappuccino."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wie was CEO van Coca-Cola vanaf 1 januari 2017 ?",
+        "propositions": [
+          "Muhtar Kent",
+          "Serdar Bilgili",
+          "Osman Kavala",
+          "Fikret Orman"
+        ],
+        "reponse": "Muhtar Kent",
+        "anecdote": "In 1979 begon Muhtar Kent zijn carriere als distributeur van Coca-Cola-producten in de Verenigde Staten."
+      },
+      {
+        "id": 22,
+        "question": "Wie heeft de vorm van de specifieke glazen fles van het merk Coca-Cola ontworpen ?",
+        "propositions": [
+          "Milton Glaser",
+          "Jerry Manock",
+          "Raymond Loewy",
+          "David Rockwell"
+        ],
+        "reponse": "Raymond Loewy",
+        "anecdote": "Raymond Loewy, geboren in 1893 in Parijs, is een industrieel en grafisch ontwerper uit Frankrijk die na zijn naturalisatie Frans-Amerikaans werd."
+      },
+      {
+        "id": 23,
+        "question": "Hoeveel is er in de wereld van verschillende smaken van Fanta ?",
+        "propositions": [
+          "30",
+          "50",
+          "70",
+          "10"
+        ],
+        "reponse": "70",
+        "anecdote": "Fanta Shokata is een smaak afgeleid van La Socata, een traditioneel Roemeens drankje gemaakt van hertenbloem."
+      },
+      {
+        "id": 24,
+        "question": "Wie heeft John Stith Pemberton de naam Coca-Cola voorgesteld voor zijn toekomstige drankje ?",
+        "propositions": [
+          "Barry Diller",
+          "Frank Robinson",
+          "James Quincey",
+          "Ronald Allen"
+        ],
+        "reponse": "Frank Robinson",
+        "anecdote": "Pemberton's accountant bood hem de naam Coca-Cola en het ontwerp van het logo aan. Haddon Sundblom illustreerde de kerstman."
+      },
+      {
+        "id": 25,
+        "question": "Welk gezuiverd leidingwater wordt verkocht door Coca-Cola ?",
+        "propositions": [
+          "Finley",
+          "Powerade",
+          "Branden",
+          "Dasani"
+        ],
+        "reponse": "Dasani",
+        "anecdote": "Het merk verkocht water uit de Theems dat was gezuiverd door toevoeging van calciumchloride, dat bromide bevatte, driemaal gefilterd."
+      },
+      {
+        "id": 26,
+        "question": "In welk land mag Coca-Cola niet worden geïmporteerd ?",
+        "propositions": [
+          "Japan",
+          "India",
+          "Zwitserland",
+          "Argentinia"
+        ],
+        "reponse": "India",
+        "anecdote": "Verschillende merken flessenwater gemaakt door Coca-Cola bevatten residuen van bestrijdingsmiddelen die dertig keer hoger waren dan de norm."
+      },
+      {
+        "id": 27,
+        "question": "Welk product heeft de slogan : « Cola kust de sinaasappel » ?",
+        "propositions": [
+          "Enviga",
+          "Mezzo Mix",
+          "BlaK",
+          "Dasani"
+        ],
+        "reponse": "Mezzo Mix",
+        "anecdote": "Mezzo Mix is een product van Coca-Cola dat alleen wordt verkocht in Duitsland, Oostenrijk, Finland, Belgia en Zwitserland."
+      },
+      {
+        "id": 28,
+        "question": "Welke variant van de Coca-Cola-drank werd in 1940 geproduceerd ?",
+        "propositions": [
+          "Coca Blue",
+          "Coca Mauve",
+          "Gele Coca",
+          "Witte Coca"
+        ],
+        "reponse": "Witte Coca",
+        "anecdote": "Maarschalk Zhukov vroeg het Amerikaanse bedrijf om flessen te maken en in te pakken zodat ze op wodka lijken."
+      },
+      {
+        "id": 29,
+        "question": "Welke drank bevat catechinen gewonnen uit groene thee ?",
+        "propositions": [
+          "Lanvin",
+          "Noten",
+          "Cheerios",
+          "Enviga"
+        ],
+        "reponse": "Enviga",
+        "anecdote": "Enviga is een niet-alcoholische, niet-alcoholische drank die volgens zijn fabrikanten meer caloriean verbrandt dan het biedt."
+      },
+      {
+        "id": 30,
+        "question": "Welke formule gebruikt Coca-Cola rietsuiker in plaats van standaardsuiker ?",
+        "propositions": [
+          "Indiase cola",
+          "Duitse cola",
+          "Mexicaanse cola",
+          "Canadese cola"
+        ],
+        "reponse": "Mexicaanse cola",
+        "anecdote": "Aldus genoemd naar de plaats van productie, zou deze verandering de drank een natuurlijke smaak geven."
+      }
+    ]
+    }
+  }
+}

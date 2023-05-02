@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "2 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Celebrites",
+      "nom": "People : août 2015",
+      "slogan": "Ils ont fait l'actualite"
+    },
+    "en": {
+      "categorie": "Celebrities",
+      "nom": "People: August 2015",
+      "slogan": "They made the news"
+    },
+    "es": {
+      "categorie": "Famosos",
+      "nom": "Gente: agosto de 2015",
+      "slogan": "Fueron noticia"
+    },
+    "it": {
+      "categorie": "Celebrità",
+      "nom": "Persone: agosto 2015",
+      "slogan": "Hanno fatto notizia"
+    },
+    "de": {
+      "categorie": "Prominente",
+      "nom": "Personen: August 2015",
+      "slogan": "Sie machten die Nachrichten"
+    },
+    "nl": {
+      "categorie": "Beroemdheden",
+      "nom": "Mensen: Augustus 2015",
+      "slogan": "Ze haalden het nieuws"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Quel celebre James Bond voit rouge si un fan le prend en photo sans sa permission ?",
+        "propositions": [
+          "Timothy Dalton",
+          "Sean Connery",
+          "Pierce Brosnan",
+          "Daniel Craig"
+        ],
+        "reponse": "Daniel Craig",
+        "anecdote": "Daniel Craig est le sixieme acteur à interpreter le rôle de James Bond au cinema et a debute dans « Casino Royale »."
+      },
+      {
+        "id": 2,
+        "question": "Qui a perdu en août 2015 le place d'acteur de tele le mieux paye ?",
+        "propositions": [
+          "Bruce Willis",
+          "Mark Harmon",
+          "Simon Helberg",
+          "Ashton Kutcher"
+        ],
+        "reponse": "Ashton Kutcher",
+        "anecdote": "Ashton Kutcher a un frere jumeau prenomme Michael et une soeur de trois ans son aînee prenommee Tausha."
+      },
+      {
+        "id": 3,
+        "question": "Quel celebre animateur tele, celebre pour son oreillette, nous a quitte le 23 août 2012 ?",
+        "propositions": [
+          "Jean-Luc Delarue",
+          "Pascal Brunner",
+          "Thierry Gilardi",
+          "Benoît Duquesne"
+        ],
+        "reponse": "Jean-Luc Delarue",
+        "anecdote": "Peu de temps apres sa mort, son pere a declare dans la presse qu'il n'a pas pu assister à l'inhumation de son fils."
+      },
+      {
+        "id": 4,
+        "question": "Quel heros de BD revient en 2015 dans un quatorzieme album dessine par Zep ?",
+        "propositions": [
+          "Nelson",
+          "Iznogoud",
+          "Titeuf",
+          "Kid Paddle"
+        ],
+        "reponse": "Titeuf",
+        "anecdote": "La popularite du personnage de Titeuf a amene des parents à donner ce prenom à leur enfant."
+      },
+      {
+        "id": 5,
+        "question": "Quelle star espagnole a opte en 2015 pour une coupe garconne ?",
+        "propositions": [
+          "Penelope Cruz",
+          "Victoria Abril",
+          "Vanessa Lorenzo",
+          "Rosario Flores"
+        ],
+        "reponse": "Penelope Cruz",
+        "anecdote": "En plus de son statut d'actrice, Penelope Cruz a ete mannequin pour plusieurs entreprises comme Ralph Lauren ou L'Oreal."
+      },
+      {
+        "id": 6,
+        "question": "Quel Christophe a repris en août 2015 la presentation de l'emission « Secret Story » ?",
+        "propositions": [
+          "Bourdon",
+          "Dechavanne",
+          "Beaugrand",
+          "Wislet"
+        ],
+        "reponse": "Beaugrand",
+        "anecdote": "Sa vocation serait nee à six ans, lors du tournage de « La Malle à malice », une emission pour les enfants diffusee sur FR3 Lorraine."
+      },
+      {
+        "id": 7,
+        "question": "Quel magazine a fait le buzz en 2015 avec des cliches de Nicolas Sarkozy ?",
+        "propositions": [
+          "Paris Match",
+          "Ici Paris",
+          "Gala",
+          "Public"
+        ],
+        "reponse": "Paris Match",
+        "anecdote": "Le titre appartient au groupe de presse Hachette Filipacchi Medias (HFM), lui-meme filiale de Lagardere Active."
+      },
+      {
+        "id": 8,
+        "question": "Qui est devenue le 25 août 2015 la personne la plus suivie au monde sur Instagram ?",
+        "propositions": [
+          "Laura James",
+          "Kim Kardashian",
+          "Adrianne Curry",
+          "Ann Ward"
+        ],
+        "reponse": "Kim Kardashian",
+        "anecdote": "Le 31 mai 2015, Kim Kardashian a annonce par le biais de son emission etre enceinte de son deuxieme enfant."
+      },
+      {
+        "id": 9,
+        "question": "Quelle actrice a pris le 21 août 2015 la tete du classement des actrices les mieux payees ?",
+        "propositions": [
+          "Jennifer Lawrence",
+          "Natalie Portman",
+          "Cate Blanchett",
+          "Marion Cotillard"
+        ],
+        "reponse": "Jennifer Lawrence",
+        "anecdote": "Cette meme annee, la jeune actrice a annonce qu'elle allait realiser son premier film, dont on ne connait aucune information."
+      },
+      {
+        "id": 10,
+        "question": "La petite-fille de quel acteur noir a ete mortellement poignardee à New York ?",
+        "propositions": [
+          "Danny Glover",
+          "Eddie Murphy",
+          "Morgan Freeman",
+          "Jamie Foxx"
+        ],
+        "reponse": "Morgan Freeman",
+        "anecdote": "Habitue aux seconds rôles durant vingt ans, il a recu l'Oscar du meilleur acteur dans un second rôle pour « Million Dollar Baby »."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quelle chanteuse a invite Julia Roberts et Joan Baez sur scene le 15 août 2015 ?",
+        "propositions": [
+          "Taylor Swift",
+          "Sheryl Crow",
+          "Sara Evans",
+          "LeAnn Rimes"
+        ],
+        "reponse": "Taylor Swift",
+        "anecdote": "En plus de sa carriere musicale, Taylor Swift a fait ses premiers pas d'actrice en 2009 dans un episode des « Experts »."
+      },
+      {
+        "id": 12,
+        "question": "Le sosie de quel chanteur a ete retrouve mort dans un motel le 21 août 2015 ?",
+        "propositions": [
+          "Justin Bieber",
+          "Pharrell Williams",
+          "Justin Timberlake",
+          "Chris Brown"
+        ],
+        "reponse": "Justin Bieber",
+        "anecdote": "Avec des millions de fans, appeles les « Beliebers », Justin Bieber est la deuxieme personne la plus suivie sur Twitter."
+      },
+      {
+        "id": 13,
+        "question": "Qui a porte plainte avec son mari contre le cofondateur de Youtube, Chad Hurley ?",
+        "propositions": [
+          "Rihanna",
+          "Beyonce",
+          "Kim Kardashian",
+          "Selena Gomez"
+        ],
+        "reponse": "Kim Kardashian",
+        "anecdote": "Kim Kardashian etait une amie proche de Paris Hilton, ce qui lui a permis d'attirer l'attention des media."
+      },
+      {
+        "id": 14,
+        "question": "Quel papa de l'adorable Royalty possede de nombreux restaurants Burger King ?",
+        "propositions": [
+          "Chris Brown",
+          "Robin Thicke",
+          "Jason Derulo",
+          "Bobby Brown"
+        ],
+        "reponse": "Chris Brown",
+        "anecdote": "Chris Brown a battu le record detenu par Lady Gaga en rassemblant 18 000 fans lors de son concert pour le « Today Show »."
+      },
+      {
+        "id": 15,
+        "question": "Quelle animatrice tele a fait le buzz apres avoir confondu David et James Cameron ?",
+        "propositions": [
+          "Sophie Davant",
+          "Alessandra Sublet",
+          "Sophie Favier",
+          "Christine Bravo"
+        ],
+        "reponse": "Alessandra Sublet",
+        "anecdote": "Alessandra Sublet est la fille de Joal Sublet, un ancien footballeur de l'Olympique lyonnais dans les annees 1970."
+      },
+      {
+        "id": 16,
+        "question": "Quelle star est devenue en août 2015 maman d'une petite Tosca ?",
+        "propositions": [
+          "Vanessa Demouy",
+          "Laetitia Casta",
+          "Emmanuelle Seigner",
+          "Noemie Lenoir"
+        ],
+        "reponse": "Noemie Lenoir",
+        "anecdote": "Separee de Stomy Bugsy, Noemie Lenoir a rencontre, au printemps 2004, le footballeur francais Claude Makelele."
+      },
+      {
+        "id": 17,
+        "question": "Chez quelle ancienne star de « Beverly Hills » a-t-on diagnostique un cancer du sein ?",
+        "propositions": [
+          "Gabrielle Carteris",
+          "Shannen Doherty",
+          "Jennie Garth",
+          "Tori Spelling"
+        ],
+        "reponse": "Shannen Doherty",
+        "anecdote": "Shannen Doherty est habituellement doublee en francais par la comedienne Anne Rondeleux."
+      },
+      {
+        "id": 18,
+        "question": "Quel acteur du film « Into the Wild » a ete envoye derriere les barreaux le 17 août 2015 ?",
+        "propositions": [
+          "Emile Hirsch",
+          "Vince Vaughn",
+          "William Hurt",
+          "Brian Dierker"
+        ],
+        "reponse": "Emile Hirsch",
+        "anecdote": "Le film « Into the Wild » se termine sur un autoportrait de Christopher McCandless pris peu de temps avant sa mort."
+      },
+      {
+        "id": 19,
+        "question": "Quel rappeur a dû faire face à une fusillade en août 2015 lors d'une de ses soirees ?",
+        "propositions": [
+          "Snow",
+          "Belly",
+          "Manafest",
+          "Drake"
+        ],
+        "reponse": "Drake",
+        "anecdote": "Debut decembre 2012, Drake a officialise son propre label de musique, October's Very Own, en le signant chez Warner Bros."
+      },
+      {
+        "id": 20,
+        "question": "La fille de quelle actrice a annonce qu'elle venait de perdre son bebe en août 2015 ?",
+        "propositions": [
+          "Emma Thompson",
+          "Jessica Lange",
+          "Susan Sarandon",
+          "Holly Hunter"
+        ],
+        "reponse": "Susan Sarandon",
+        "anecdote": "Le 15 octobre 2010, Susan Sarandon a ete nommee Ambassadrice de bonne volonte de l'ONU pour l'alimentation et l'agriculture."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle adepte de la chirurgie esthetique a emis en 2015 un avis negatif sur la toxine botulique ?",
+        "propositions": [
+          "Courtney Cox",
+          "Pamela Anderson",
+          "Melanie Griffith",
+          "Meg Ryan"
+        ],
+        "reponse": "Pamela Anderson",
+        "anecdote": "Pendant un certain temps, elle etait connue sous le nom de Pamela Anderson Lee à la suite de son mariage avec Tommy Lee."
+      },
+      {
+        "id": 22,
+        "question": "Quel comedien de la serie « Plus belle la vie » a sillonne la France en chanson en 2016 ?",
+        "propositions": [
+          "Laurent Kerusore",
+          "Serge Dupire",
+          "Thierry Ragueneau",
+          "Pierre Martot"
+        ],
+        "reponse": "Laurent Kerusore",
+        "anecdote": "En 2013, Michel Habert lui offre l'opportunite de faire ses premiers pas à l'Olympia en premiere partie de Thomas Boissy."
+      },
+      {
+        "id": 23,
+        "question": "Quelle actrice a ete demandee en mariage par l'acteur Garrett Hedlund ?",
+        "propositions": [
+          "Jennifer Lawrence",
+          "Kirsten Dunst",
+          "Sandra Bullock",
+          "Rosamund Pike"
+        ],
+        "reponse": "Kirsten Dunst",
+        "anecdote": "Kirsten Dunst a ete decouverte par le grand public dans « Entretien avec un vampire » (1994) puis en 1995 dans « Jumanji »."
+      },
+      {
+        "id": 24,
+        "question": "Quelle artiste a ete apercue en août 2015 à West Hollywood avec une main dans le platre ?",
+        "propositions": [
+          "Miley Cyrus",
+          "Demi Lovato",
+          "Vanessa Hudgens",
+          "Hilary Duff"
+        ],
+        "reponse": "Vanessa Hudgens",
+        "anecdote": "En septembre 2005, Vanessa Hudgens commence à frequenter secretement son partenaire dans « High School Musical », Zac Efron."
+      },
+      {
+        "id": 25,
+        "question": "Quel homme ruine a vendu des photos de lui devant la tombe de Bobbi Kristina ?",
+        "propositions": [
+          "Ryan Seacrest",
+          "Nick Gordon",
+          "Nick Jonas",
+          "Taylor Lautner"
+        ],
+        "reponse": "Nick Gordon",
+        "anecdote": "Bobbi Kristina fut retrouvee inconsciente dans sa baignoire, dans les memes circonstances que sa mere, sous overdose."
+      },
+      {
+        "id": 26,
+        "question": "Quel acteur francais a diffuse sur Twitter une torride scene de sexe entre lui et Julie Gayet ?",
+        "propositions": [
+          "Mathieu Kassovitz",
+          "Gaspard Ulliel",
+          "Bruno Putzulu",
+          "Mathieu Amalric"
+        ],
+        "reponse": "Mathieu Kassovitz",
+        "anecdote": "Mathieu Kassovitz a ete marie à l'actrice Julie Mauduech avec laquelle il a joue dans le film qu'il a dirige, « Metisse »."
+      },
+      {
+        "id": 27,
+        "question": "Quel site de rencontre est specialise dans les gens riches et celebres ?",
+        "propositions": [
+          "Vaya",
+          "Paya",
+          "Maya",
+          "Raya"
+        ],
+        "reponse": "Raya",
+        "anecdote": "Raya est une nouvelle application de rencontre privee destinee aux personnes issues des « communautes creatives »."
+      },
+      {
+        "id": 28,
+        "question": "Quelle chanteuse est aussi la soeur du celebre footballeur Cristiano Ronaldo ?",
+        "propositions": [
+          "Mariza",
+          "Aurea",
+          "Filipa Azevedo",
+          "Katia Aveiro"
+        ],
+        "reponse": "Katia Aveiro",
+        "anecdote": "Un film documentaire intitule « Ronaldo », consacre à la vie du joueur portugais, est sorti en salles le 9 novembre 2015."
+      },
+      {
+        "id": 29,
+        "question": "Quelle actrice, d'ordinaire discrete, a montre ses fesses aux paparazzis en août 2015 ?",
+        "propositions": [
+          "Julianne Moore",
+          "Cate Blanchett",
+          "Katie Holmes",
+          "Natalie Portman"
+        ],
+        "reponse": "Katie Holmes",
+        "anecdote": "Katie Holmes a ete mariee à l'acteur Tom Cruise de 2006 à 2012, avec lequel elle a une fille Suri Cruise."
+      },
+      {
+        "id": 30,
+        "question": "Quelle chanteuse americaine a ete vue aux puces de Saint-Ouen le 15 août 2015 ?",
+        "propositions": [
+          "Hilary Duff",
+          "Britney Spears",
+          "Maria McKee",
+          "Lana Del Rey"
+        ],
+        "reponse": "Lana Del Rey",
+        "anecdote": "Lana Del Rey a eu pour compagnon le rocker ecossais Barrie James O'Neill du groupe Kassidy."
+      }
+    ]
+    }
+  }
+}

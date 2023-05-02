@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "2 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Celebrites",
+      "nom": "People : janv. 2017",
+      "slogan": "Ils ont fait l'actualite"
+    },
+    "en": {
+      "categorie": "Celebrities",
+      "nom": "People: Jan 2017",
+      "slogan": "They made the news"
+    },
+    "es": {
+      "categorie": "Famosos",
+      "nom": "Gente: ene 2017",
+      "slogan": "Fueron noticia"
+    },
+    "it": {
+      "categorie": "Celebrità",
+      "nom": "Persone: gennaio 2017",
+      "slogan": "Hanno fatto notizia"
+    },
+    "de": {
+      "categorie": "Prominente",
+      "nom": "Personen: Januar 2017",
+      "slogan": "Sie machten die Nachrichten"
+    },
+    "nl": {
+      "categorie": "Beroemdheden",
+      "nom": "Mensen: Jan 2017",
+      "slogan": "Ze haalden het nieuws"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Quel heureux evenement a illumine la vie de Pharrell Williams en 2017 ?",
+        "propositions": [
+          "Une naissance",
+          "Des jumeaux",
+          "Des triples",
+          "Des quadruples"
+        ],
+        "reponse": "Une naissance",
+        "anecdote": "C'est sa participation en tant que producteur du titre « I'm a Slave 4 U » de Britney Spears qui le revela aupres du grand public."
+      },
+      {
+        "id": 2,
+        "question": "Quelle robe a probablement aide Iris Mittenaere à devenir Miss Univers ?",
+        "propositions": [
+          "Cendrillon",
+          "Medusa",
+          "Moulin Rouge",
+          "Grace Kelly"
+        ],
+        "reponse": "Moulin Rouge",
+        "anecdote": "Cette robe fut un bijou hors de prix dans lequel elle a ebloui tout le monde, grace aux precieux conseils du celebre cabaret."
+      },
+      {
+        "id": 3,
+        "question": "Quelle animatrice tele a annonce etre à nouveau en couple avec Vincent Miclet ?",
+        "propositions": [
+          "Enora Malagre",
+          "Nabilla Benattia",
+          "Aurelie Dotremont",
+          "Ayem Nour"
+        ],
+        "reponse": "Ayem Nour",
+        "anecdote": "Ayem Nour, nee le 24 novembre 1988 à Lyon, fut revelee en 2011 en tant que candidate de l'emission de tele-realite « Secret Story »."
+      },
+      {
+        "id": 4,
+        "question": "De qui Donald Trump a-t-il dit debut 2017 : « Honnetement, elle me degoûte » ?",
+        "propositions": [
+          "Mariah Carey",
+          "Rihanna",
+          "Madonna",
+          "Britney Spears"
+        ],
+        "reponse": "Madonna",
+        "anecdote": "Madonna n'a rien cache de l'animosite qu'elle eprouve à l'encontre de Donald Trump et celui-ci lui a repondu sans amenite."
+      },
+      {
+        "id": 5,
+        "question": "Qui a ete critiquee pour s'etre endormie sur un sac Louis Vuitton aux Enfoires ?",
+        "propositions": [
+          "Lorie",
+          "Jenifer",
+          "Laam",
+          "Zazie"
+        ],
+        "reponse": "Jenifer",
+        "anecdote": "Jenifer a ete revelee par sa participation à l'emission televisee « Star Academy » dont elle remporta la premiere saison en 2002."
+      },
+      {
+        "id": 6,
+        "question": "Quel animateur du PAF a vu sa Bentley immobilisee par la police ?",
+        "propositions": [
+          "Laurent Delahousse",
+          "Cauet",
+          "Thierry Beccaro",
+          "Arthur"
+        ],
+        "reponse": "Arthur",
+        "anecdote": "L'animateur n'avait en effet pas respecte le decret entre en vigueur en 2017 qui interdit les vitres surteintees."
+      },
+      {
+        "id": 7,
+        "question": "Quelle star americaine a offert des gants vegans aux migrants de Calais ?",
+        "propositions": [
+          "Nicole Sheridan",
+          "Patricia Ford",
+          "Jenny McCarthy",
+          "Pamela Anderson"
+        ],
+        "reponse": "Pamela Anderson",
+        "anecdote": "Pamela Anderson a fait une visite eclair de 15 minutes dans les camps de migrants de Calais et de la Liniere à Grande-Synthe."
+      },
+      {
+        "id": 8,
+        "question": "Quel chef cuisinier a change sa vie apres un grave accident de scooter ?",
+        "propositions": [
+          "Philippe Etchebest",
+          "Thierry Marx",
+          "Cyril Lignac",
+          "Christian Constant"
+        ],
+        "reponse": "Cyril Lignac",
+        "anecdote": "Cyril Lignac a prete sa voix dans la version francaise de « Ratatouille », un film du studio d'animation Pixar, sorti en 2007."
+      },
+      {
+        "id": 9,
+        "question": "Quel animateur a defile pour Agnes b aux côtes de Vincent Dedienne ?",
+        "propositions": [
+          "Laurent Delahousse",
+          "Marc-Olivier Fogiel",
+          "Thierry Beccaro",
+          "Arthur"
+        ],
+        "reponse": "Marc-Olivier Fogiel",
+        "anecdote": "Le 22 janvier avait lieu le defile « Automne-hiver 2017 Homme » de la creatrice Agnes b durant lequel Marc-Olivier Fogiel a defile."
+      },
+      {
+        "id": 10,
+        "question": "Debut 2017, quelle chanteuse canadienne a dit au revoir à ses longs cheveux ondules ?",
+        "propositions": [
+          "Anggun",
+          "Sofia Mestari",
+          "Virginie Pouchain",
+          "Natasha St-Pier"
+        ],
+        "reponse": "Natasha St-Pier",
+        "anecdote": "Elle s'est engagee à rejoindre l'association « Petit Coeur de Beurre », pour en etre la marraine, suite aux problemes de sante de son fils."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quelle candidate de tele-realite a admis en 2017 avoir fait gonfler ses levres ?",
+        "propositions": [
+          "Marie Parmentier",
+          "Amelie Neten",
+          "Capucine Anav",
+          "Aurelie Dotremont"
+        ],
+        "reponse": "Aurelie Dotremont",
+        "anecdote": "Candidate dans « Les Anges 5 », Aurelie Dotremont reve d'enregistrer son premier single avec un producteur americain."
+      },
+      {
+        "id": 12,
+        "question": "Qui a ete designe comme president du Festival de Cannes 2017 ?",
+        "propositions": [
+          "Pedro Almodvar",
+          "Clint Eastwood",
+          "Sean Penn",
+          "Steven Spielberg"
+        ],
+        "reponse": "Pedro Almodvar",
+        "anecdote": "Succedant ainsi à George Miller, Pedro Almodovar avait dejà ete membre du jury en 1992, sous la presidence de Gerard Depardieu."
+      },
+      {
+        "id": 13,
+        "question": "Qui a refait en 2017 la couverture mythique de Vanity Fair avec Demi Moore ?",
+        "propositions": [
+          "Natalie Portman",
+          "Jennifer Lawrence",
+          "Sandra Bullock",
+          "Cate Blanchett"
+        ],
+        "reponse": "Natalie Portman",
+        "anecdote": "Il y a 25 ans, Demi Moore posait, enceinte, en Une du magazine « Vanity Fair » sous l'objectif d'Annie Leibovitz."
+      },
+      {
+        "id": 14,
+        "question": "Quel heros de la serie policiere « Mannix » s'est eteint à l'age de 91 ans ?",
+        "propositions": [
+          "Stacy Keach",
+          "Mike Connors",
+          "Alan Rickman",
+          "Steve Carell"
+        ],
+        "reponse": "Mike Connors",
+        "anecdote": "Pour les telespectateurs francais, Mike Connors restera pour toujours Joe Mannix, le heros de la serie policiere eponyme."
+      },
+      {
+        "id": 15,
+        "question": "Quel metier exerce Sarah Lavoine, epouse du chanteur Marc Lavoine ?",
+        "propositions": [
+          "Avocate",
+          "Decoratrice",
+          "Biologiste",
+          "Musicienne"
+        ],
+        "reponse": "Decoratrice",
+        "anecdote": "Pour le defile de la marque Bonpoint, Sarah Lavoine a devoile sur son compte Instagram une adorable video de son fils."
+      },
+      {
+        "id": 16,
+        "question": "De qui Scarlett Johansson a-t-elle divorce en 2017 apres 2 ans de mariage ?",
+        "propositions": [
+          "Jack Antonoff",
+          "Josh Hartnett",
+          "Jared Leto",
+          "Romain Dauriac"
+        ],
+        "reponse": "Romain Dauriac",
+        "anecdote": "Scarlett Johansson aime le fromage, declarant que son « plus grand vice est le fromage. Rien d'autre ne regne sur ma vie »."
+      },
+      {
+        "id": 17,
+        "question": "Quel corse Enora Malagre ne lache-t-elle plus depuis debut 2017 ?",
+        "propositions": [
+          "Marc",
+          "Francois",
+          "Didier",
+          "Bruno"
+        ],
+        "reponse": "Bruno",
+        "anecdote": "En 2004, Enora Malagre a tourne pour le realisateur Jean-Paul Civeyrac dans le court metrage « Tristesse beau visage »."
+      },
+      {
+        "id": 18,
+        "question": "Quelle star de la boxe Vincent Moscato a-t-il recu dans son emission radio ?",
+        "propositions": [
+          "Bruce Seldon",
+          "Mike Tyson",
+          "Tony Tucker",
+          "James Smith"
+        ],
+        "reponse": "Mike Tyson",
+        "anecdote": "C'est dans son emission sur RMC « Super Moscato Show » qu'il a recu son idole, à Paris, pour son livre « La verite et rien d'autre »."
+      },
+      {
+        "id": 19,
+        "question": "Quel acteur americain est devenu à 61 ans papa pour la neuvieme fois ?",
+        "propositions": [
+          "Clint Eastwood",
+          "Kevin Costner",
+          "Bruce Willis",
+          "Mel Gibson"
+        ],
+        "reponse": "Mel Gibson",
+        "anecdote": "La famille Gibson s'est agrandie et Mel et sa compagne, Rosalind Ross, comptent à present un petit Lars à leurs côtes."
+      },
+      {
+        "id": 20,
+        "question": "Quel roi des nuits parisiennes a ete hospitalise apres une tentative de suicide ?",
+        "propositions": [
+          "Jean-Roch",
+          "Eddie Barclay",
+          "Tony Gomez",
+          "Michou"
+        ],
+        "reponse": "Tony Gomez",
+        "anecdote": "En janvier 2015, Tony Gomez a repris la direction du restaurant de l'avenue des Champs-Élysees « Le Fouquet's »."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel acteur et cousin de George Clooney est decede à seulement 61 ans ?",
+        "propositions": [
+          "Antonio Moreno",
+          "David Carradine",
+          "Miguel Ferrer",
+          "Robert Gant"
+        ],
+        "reponse": "Miguel Ferrer",
+        "anecdote": "Miguel Ferrer, le directeur adjoint Owen Granger de la serie « NCIS : Los Angeles » a succombe à un cancer de la gorge."
+      },
+      {
+        "id": 22,
+        "question": "Quelle chanteuse a ete volee de cinq millions de dollars par son manager ?",
+        "propositions": [
+          "Avril Lavigne",
+          "Alanis Morissette",
+          "Natalie Appleton",
+          "Nelly Furtado"
+        ],
+        "reponse": "Alanis Morissette",
+        "anecdote": "En plaidant coupable, le manager d'Alanis Morissette admet lui avoir vole cinq millions de dollars et encourt jusqu'à 23 ans de prison."
+      },
+      {
+        "id": 23,
+        "question": "Quelle epouse de Michel Piccoli est decedee le meme jour qu'Emanuelle Riva ?",
+        "propositions": [
+          "Éleonore Hirt",
+          "Pascale Audret",
+          "Gloria Stuart",
+          "Marguerite Moreno"
+        ],
+        "reponse": "Éleonore Hirt",
+        "anecdote": "Tout au long de sa carriere, Éleonore Hirt participa à de nombreuses creations d'auteurs nouveaux sur les scenes francaises."
+      },
+      {
+        "id": 24,
+        "question": "Quel incroyable sosie de Jamel Debbouze a ete presente au public ?",
+        "propositions": [
+          "Lioubov Orlova",
+          "Frank Samson",
+          "Weigel Wesley",
+          "Alain Robin"
+        ],
+        "reponse": "Weigel Wesley",
+        "anecdote": "Devenu une vedette comique en France et au Maroc, Jamel se produit dans des one-man-shows et a lance divers projets."
+      },
+      {
+        "id": 25,
+        "question": "Qui a ete choisie par Donald Trump pour etre sa photographe officielle ?",
+        "propositions": [
+          "Kiki Lamers",
+          "Patricia Piccinini",
+          "Shealah Craighead",
+          "Jane Bown"
+        ],
+        "reponse": "Shealah Craighead",
+        "anecdote": "Pendant les quatre ans à venir, Shealah Craighead sera de tous les deplacements presidentiels, au plus pres de Donald Trump."
+      },
+      {
+        "id": 26,
+        "question": "Quel sportif a prete sa voix à Superman dans le film « Lego Batman » ?",
+        "propositions": [
+          "Antoine Griezmann",
+          "Olivier Giroud",
+          "Patrice Evra",
+          "Didier Deschamps"
+        ],
+        "reponse": "Antoine Griezmann",
+        "anecdote": "En plus du cinema, il a obtenu de nombreux contrats publicitaires, notamment aupres de Puma et de Gillette."
+      },
+      {
+        "id": 27,
+        "question": "Quel chanteur a dejà diffuse trois videos dans le plus simple appareil ?",
+        "propositions": [
+          "Duncan Browne",
+          "Charlie Winston",
+          "Johnny Flynn",
+          "James Blunt"
+        ],
+        "reponse": "James Blunt",
+        "anecdote": "Pour annoncer la sortie de son 5eme album studio, le chanteur a diffuse trois videos sur lesquelles il apparaît nu."
+      },
+      {
+        "id": 28,
+        "question": "Qui a chante l'hymne national durant l'investiture de Donald Trump ?",
+        "propositions": [
+          "Emily West",
+          "Grace VanderWaal",
+          "Bianca Ryan",
+          "Jackie Evancho"
+        ],
+        "reponse": "Jackie Evancho",
+        "anecdote": "Jackie Evancho a gagne sa popularite lors de la 5e saison de competition de « America's Got Talent » à l'age de 10 ans."
+      },
+      {
+        "id": 29,
+        "question": "Qui a pose nu pour feter ses 100.000 abonnes sur Instagram ?",
+        "propositions": [
+          "Augustin Galiana",
+          "Víctor Mosqueira",
+          "Pablo Puyol",
+          "Raul Pena"
+        ],
+        "reponse": "Augustin Galiana",
+        "anecdote": "Agustín Galiana, ne à Alicante, est un acteur espagnol connu principalement pour son rôle d'Adrian dans la serie « Clem »."
+      },
+      {
+        "id": 30,
+        "question": "Quelle ex-reine de beaute et animatrice tele italienne a ete attaquee à l'acide ?",
+        "propositions": [
+          "Giorgia Palmas",
+          "Roberta Capua",
+          "Gessica Notaro",
+          "Paola Minaccioni"
+        ],
+        "reponse": "Gessica Notaro",
+        "anecdote": "Gessica Notaro a ete agressee à l'acide par son ex-petit ami, Edson Tavares, dans la soiree du 10 janvier 2017."
+      }
+    ]
+    }
+  }
+}

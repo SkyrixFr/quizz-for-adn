@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
+  "version": 1,
+  "mise-à-jour": "2022-05-02",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Culture generale",
+      "nom": "Culture generale 4",
+      "slogan": "La culture, c'est l'expression du vivant"
+    },
+    "en": {
+      "categorie": "General knowledge",
+      "nom": "General culture 4",
+      "slogan": "Culture is the expression of the living"
+    },
+    "es": {
+      "categorie": "Cultura general",
+      "nom": "Cultura general 4",
+      "slogan": "La cultura es la expresión de lo vivo"
+    },
+    "it": {
+      "categorie": "Cultura generale",
+      "nom": "Cultura generale 4",
+      "slogan": "La cultura e l'espressione del vivente"
+    },
+    "de": {
+      "categorie": "Allgemeine Kultur",
+      "nom": "Allgemeine Kultur 4",
+      "slogan": "Kultur ist der Ausdruck des lebendigen"
+    },
+    "nl": {
+      "categorie": "Algemene cultuur",
+      "nom": "Algemene cultuur 4",
+      "slogan": "Cultuur is de uitdrukking van het leven"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Dans « Les Bijoux de la Castafiore », quel journal annonce les noces de la diva ?",
+        "propositions": [
+          "Paris-Flash",
+          "Ici Pour Vous",
+          "Stars de France",
+          "Jours de Paris"
+        ],
+        "reponse": "Paris-Flash",
+        "anecdote": "Trois ans apres le succes de « Tintin au Tibet », Herge semble ici etre à l'apogee de son oeuvre sur le plan narratif."
+      },
+      {
+        "id": 2,
+        "question": "Comment se prenomme la copine de Popeye le marin, heros des dessins animes d'antan ?",
+        "propositions": [
+          "Myrtille",
+          "Framboise",
+          "Mimosa",
+          "Olive"
+        ],
+        "reponse": "Olive",
+        "anecdote": "Dans le dessin anime, Olive se fait regulierement seduire et kidnapper par Brutus avant d'etre sauvee par Popeye."
+      },
+      {
+        "id": 3,
+        "question": "Quel jeu de des populaire porte le nom de sa combinaison gagnante ?",
+        "propositions": [
+          "666",
+          "210",
+          "421",
+          "325"
+        ],
+        "reponse": "421",
+        "anecdote": "On joue au 421 (ou à zanzibar) à l'aide de trois des et d'un certain nombre de jetons ou fiches (souvent 11 ou 21)."
+      },
+      {
+        "id": 4,
+        "question": "Quel film est desormais celebre pour sa scene de la tarte aux pommes ?",
+        "propositions": [
+          "Midnight Kitchen",
+          "American Pie",
+          "Cross roads",
+          "40 jours/40 nuits"
+        ],
+        "reponse": "American Pie",
+        "anecdote": "Quatre adolescents font le pacte de perdre leur virginite avant d'entrer en fac, ce qui amenera de nombreuses mesaventures."
+      },
+      {
+        "id": 5,
+        "question": "Dans la mythologie, combien de travaux Heracles fut-il condamne à effectuer ?",
+        "propositions": [
+          "Seize",
+          "Dix",
+          "Douze",
+          "Sept"
+        ],
+        "reponse": "Douze",
+        "anecdote": "La mythologie grecque lui prete un tres grand nombre d'aventures qui le feront voyager à travers le monde connu des Doriens."
+      },
+      {
+        "id": 6,
+        "question": "Que symbolisent les cinq anneaux du drapeau olympique ?",
+        "propositions": [
+          "Les 5 continents",
+          "Les 5 epreuves",
+          "Les 5 doigts",
+          "Les 5 medailles"
+        ],
+        "reponse": "Les 5 continents",
+        "anecdote": "Durant la ceremonie d'ouverture, le drapeau olympique fait son entree dans le stade porte horizontalement par des athletes."
+      },
+      {
+        "id": 7,
+        "question": "Quels abats prepare-t-on generalement à la mode de Caen ?",
+        "propositions": [
+          "Ris de veau",
+          "Rognons",
+          "Andouillettes",
+          "Tripes"
+        ],
+        "reponse": "Tripes",
+        "anecdote": "Cette preparation culinaire normande est realisee avec les quatre parties de l'estomac d'un ruminant et un pied de boeuf."
+      },
+      {
+        "id": 8,
+        "question": "Combien de doigts possede le gant tricote par Therese dans « Le pere Noal est une ordure » ?",
+        "propositions": [
+          "Cinq",
+          "Six",
+          "Quatre",
+          "Trois"
+        ],
+        "reponse": "Trois",
+        "anecdote": "« Le pere Noal est une ordure » est à l'origine (1979) une piece de theatre interpretee par la troupe du Splendid."
+      },
+      {
+        "id": 9,
+        "question": "Si vous faites un baby-foot à 4 par equipes de 2, combien de barres maniera chaque joueur ?",
+        "propositions": [
+          "Quatre",
+          "Une",
+          "Trois",
+          "Deux"
+        ],
+        "reponse": "Deux",
+        "anecdote": "En France, le baby-foot est principalement un jeu de cafe (on estime à 500 000 unites) ou on lui adjoint un monnayeur."
+      },
+      {
+        "id": 10,
+        "question": "Dans les jeux videos, comment se prenomme le compagnon champignon de Mario ?",
+        "propositions": [
+          "Toad",
+          "Luigi",
+          "Peach",
+          "Toop"
+        ],
+        "reponse": "Toad",
+        "anecdote": "Les Toad des jeux video Nintendo, serviteurs de la Princesse Peach, ont la forme de champignons anthropomorphiques."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Sur quelle partie du corps du serpent à lunettes les lunettes sont-elles situees ?",
+        "propositions": [
+          "Dans la bouche",
+          "Sur la queue",
+          "Derriere la tete",
+          "Sous les yeux"
+        ],
+        "reponse": "Derriere la tete",
+        "anecdote": "Dans l'imagerie populaire, le serpent à lunettes (ou le cobra egyptien) est associe au fakir charmeur de serpents."
+      },
+      {
+        "id": 12,
+        "question": "Quel est le nom du chanteur leader du groupe Depeche Mode ?",
+        "propositions": [
+          "Andrew Fletcher",
+          "Martin Gore",
+          "David Gahan",
+          "Alan Wilder"
+        ],
+        "reponse": "David Gahan",
+        "anecdote": "Depuis 2005, enhardi par son succes en solo, le chanteur Dave Gahan participe à l'ecriture de certains morceaux."
+      },
+      {
+        "id": 13,
+        "question": "Sur quel continent retrouve-t-on la Papouasie-Nouvelle-Guinee ?",
+        "propositions": [
+          "Amerique",
+          "Afrique",
+          "Asie",
+          "Oceanie"
+        ],
+        "reponse": "Oceanie",
+        "anecdote": "Colonisee par l'Australie, la Papouasie-Nouvelle-Guinee est independante au sein du Commonwealth depuis 1975."
+      },
+      {
+        "id": 14,
+        "question": "En combien de points se joue un set de badminton depuis 2007 ?",
+        "propositions": [
+          "9 points",
+          "7 points",
+          "21 points",
+          "15 points"
+        ],
+        "reponse": "21 points",
+        "anecdote": "Le badminton necessite une excellente condition physique ainsi que de tres bonnes qualites techniques et tactiques."
+      },
+      {
+        "id": 15,
+        "question": "Par quelle locution peut-on traduire la phrase swahilie hakuna matata ?",
+        "propositions": [
+          "Aucun souci",
+          "Tout est possible",
+          "La vie est un soleil",
+          "Je crois en moi"
+        ],
+        "reponse": "Aucun souci",
+        "anecdote": "L'expression a surtout ete grandement popularisee en 1994 par le film d'animation des studios Disney « Le Roi lion »."
+      },
+      {
+        "id": 16,
+        "question": "Quelles villes francaises sont reliees par la celebre route nationale 7 ?",
+        "propositions": [
+          "Paris et Sete",
+          "Paris et Nice",
+          "Paris et Foix",
+          "Paris et Troyes"
+        ],
+        "reponse": "Paris et Nice",
+        "anecdote": "La route nationale 7, ou RN7, est parfois egalement appelee la route des vacances ou encore la route Bleue."
+      },
+      {
+        "id": 17,
+        "question": "Le jeans est un vetement universel qui doit son nom à quelle ville ?",
+        "propositions": [
+          "Jersey",
+          "Geneve",
+          "Genes",
+          "Giens"
+        ],
+        "reponse": "Genes",
+        "anecdote": "Le bleu du jeans provenait d'une teinture (blu di genova) correspondant à la couleur originelle des bleus de travail rivetes."
+      },
+      {
+        "id": 18,
+        "question": "Comment un quartier de mandarine est-il aussi parfois appele ?",
+        "propositions": [
+          "Jambe",
+          "Bras",
+          "Cuisse",
+          "Fesse"
+        ],
+        "reponse": "Cuisse",
+        "anecdote": "Une mandarine se divise generalement en une dizaine de quartiers qui peuvent aisement etre separes sans perdre de jus."
+      },
+      {
+        "id": 19,
+        "question": "Quelle etait la nationalite du compositeur Piotr Ilitch Tchaïkovski ?",
+        "propositions": [
+          "Polonaise",
+          "Autrichienne",
+          "Russe",
+          "Roumaine"
+        ],
+        "reponse": "Russe",
+        "anecdote": "Tchaïkovski s'illustra particulierement par ses onze operas, ses huit symphonies, ses suites pour orchestre et ses ballets."
+      },
+      {
+        "id": 20,
+        "question": "Coluche avait annonce sa candidature aux elections presidentielles de quelle annee ?",
+        "propositions": [
+          "1988",
+          "1995",
+          "1981",
+          "1974"
+        ],
+        "reponse": "1981",
+        "anecdote": "Son principal slogan etait le suivant : « Avant moi, la France etait coupee en deux. Maintenant, elle sera pliee en quatre »."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Combien de pattes au maximum peut avoir un mille-pattes ?",
+        "propositions": [
+          "1350",
+          "1150",
+          "950",
+          "750"
+        ],
+        "reponse": "750",
+        "anecdote": "Le diplopode vit sous les pierres, dans le sol, dans le bois en decomposition et dans les endroits humides."
+      },
+      {
+        "id": 22,
+        "question": "Quel est le nom du fils de Vegeta dans le manga « Dragon Ball » ?",
+        "propositions": [
+          "Yamcha",
+          "Trunks",
+          "Son Gohan",
+          "Vegeto"
+        ],
+        "reponse": "Trunks",
+        "anecdote": "Ce personnage a la particularite d'exister deux fois dans l'histoire, Trunks du present et Trunks du futur."
+      },
+      {
+        "id": 23,
+        "question": "Quelle ville de Tunisie est reputee pour ses tapis artisanaux ?",
+        "propositions": [
+          "Kairouan",
+          "Gabes",
+          "Bizerte",
+          "Sousse"
+        ],
+        "reponse": "Kairouan",
+        "anecdote": "Kairouan est souvent designee comme la quatrieme ville sainte de l'islam et la premiere ville sainte du Maghreb."
+      },
+      {
+        "id": 24,
+        "question": "Quelle reine etait representee sur le tout premier timbre-poste emis ?",
+        "propositions": [
+          "Blanche",
+          "Victoria",
+          "Marie",
+          "Astrid"
+        ],
+        "reponse": "Victoria",
+        "anecdote": "La collection et l'etude des timbres postaux et fiscaux, precieux et populaires pour des collectionneurs, est appelee la philatelie."
+      },
+      {
+        "id": 25,
+        "question": "Quel est le plus grand satellite naturel de notre systeme solaire ?",
+        "propositions": [
+          "La Lune",
+          "Umbriel",
+          "Titan",
+          "Ganymede"
+        ],
+        "reponse": "Ganymede",
+        "anecdote": "Sur l'echelle des distances au centre de Jupiter, il s'agit du septieme satellite naturel connu de la planete."
+      },
+      {
+        "id": 26,
+        "question": "Pendant la Seconde Guerre mondiale, quel allemand surnommait-on le Renard du desert ?",
+        "propositions": [
+          "Fritz von Lossberg",
+          "Friedrich Fromm",
+          "Erwin Rommel",
+          "Walter Brehmer"
+        ],
+        "reponse": "Erwin Rommel",
+        "anecdote": "Rommel a recu ce surnom, par ses compatriotes et ses adversaires, suite à sa campagne en Afrique du Nord."
+      },
+      {
+        "id": 27,
+        "question": "Quel systeme informatique libre, base sur la securite, est represente par un poisson globe ?",
+        "propositions": [
+          "Debian",
+          "Gentoo",
+          "MacOS X",
+          "OpenBSD"
+        ],
+        "reponse": "OpenBSD",
+        "anecdote": "Le projet OpenBSD est repute pour son intransigeance sur la liberte du logiciel et du code source ainsi que sur la cryptographie."
+      },
+      {
+        "id": 28,
+        "question": "En 1963, un mysterieux cerveau organisa le hold-up du train postal reliant quelles villes ?",
+        "propositions": [
+          "Glasgow à Londres",
+          "Liverpool à Brighton",
+          "Cambridge à Oxford",
+          "Manchester à York"
+        ],
+        "reponse": "Glasgow à Londres",
+        "anecdote": "Considere à l'epoque comme le casse du siecle, le gang de 15 personnes s'empara d'un butin de 68 millions de dollars actuels."
+      },
+      {
+        "id": 29,
+        "question": "Qui a recu la premiere etoile sur le Walk of Fame de Los Angeles ?",
+        "propositions": [
+          "Tod Browning",
+          "Joanne Woodward",
+          "Judy Garland",
+          "Charlie Chaplin"
+        ],
+        "reponse": "Joanne Woodward",
+        "anecdote": "Le Walk of Fame (litteralement Promenade de la celebrite) est un hommage aux differents acteurs du show business."
+      },
+      {
+        "id": 30,
+        "question": "Comment peut-on traduire le mot goupil en vieux francais ?",
+        "propositions": [
+          "Herisson",
+          "Renard",
+          "Corbeau",
+          "Lievre"
+        ],
+        "reponse": "Renard",
+        "anecdote": "Cette designation est devenue majoritaire par l'influence de Renart le goupil, heros du « Roman de Renart »."
+      }
+    ]
+    }
+  }
+}

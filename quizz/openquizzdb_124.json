@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "4 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Bande dessinee",
+      "nom": "Tintin",
+      "slogan": "L'univers du jeune reporter"
+    },
+    "en": {
+      "categorie": "Comic",
+      "nom": "Tintin",
+      "slogan": "The universe of the young reporter"
+    },
+    "es": {
+      "categorie": "Comic",
+      "nom": "Tintín",
+      "slogan": "El universo del joven reportero"
+    },
+    "it": {
+      "categorie": "Comico",
+      "nom": "Tintinnio",
+      "slogan": "L'universo del giovane giornalista"
+    },
+    "de": {
+      "categorie": "Comic",
+      "nom": "Tim und Struppi",
+      "slogan": "Das Universum des jungen Reporters"
+    },
+    "nl": {
+      "categorie": "Grappig",
+      "nom": "Kuifje",
+      "slogan": "Het universum van de jonge verslaggever"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Dans quelle aventure Tintin se retrouve-t-il face à un impressionnant Yeti ?",
+        "propositions": [
+          "Le Lotus bleu",
+          "Coke en Stock",
+          "Tintin au Tibet",
+          "Tintin au Congo"
+        ],
+        "reponse": "Tintin au Tibet",
+        "anecdote": "Le film « La Neige en deuil », d'Edward Dmytryk, comporte des sequences qui ont probablement dû marquer la memoire d'Herge."
+      },
+      {
+        "id": 2,
+        "question": "Quel est le juron prefere du capitaine Haddock, meilleur ami de Tintin ?",
+        "propositions": [
+          "Nom de Zeus",
+          "Boursicot",
+          "Mille sabords",
+          "Tonnerre du diable"
+        ],
+        "reponse": "Mille sabords",
+        "anecdote": "Le capitaine Haddock est un impulsif qui se laisse souvent entraîner par son enthousiasme ou son decouragement."
+      },
+      {
+        "id": 3,
+        "question": "De qui est amoureuse la cantatrice italienne Bianca Castafiore ?",
+        "propositions": [
+          "Tournesol",
+          "Haddock",
+          "Nestor",
+          "Tintin"
+        ],
+        "reponse": "Haddock",
+        "anecdote": "Tres rarement mise en valeur, la Castafiore est le seul personnage feminin de premier plan de la serie « Tintin »."
+      },
+      {
+        "id": 4,
+        "question": "Dans Tintin, quelle est la difference visuelle entre Dupond et Dupont ?",
+        "propositions": [
+          "Le chapeau",
+          "La moustache",
+          "Le costume",
+          "Le nez"
+        ],
+        "reponse": "La moustache",
+        "anecdote": "Celle de Dupond est droite ou en forme de D incline, alors que celle de Dupont est en forme de T epais renverse."
+      },
+      {
+        "id": 5,
+        "question": "Quel personnage est en levitation sur la couverture des « Sept Boules de cristal » ?",
+        "propositions": [
+          "Haddock",
+          "Tournesol",
+          "Tintin",
+          "Milou"
+        ],
+        "reponse": "Tournesol",
+        "anecdote": "L'allusion aux decouvreurs de la tombe de Toutankhamon est clairement definie dans cet ouvrage grand public."
+      },
+      {
+        "id": 6,
+        "question": "Dans quelle ville Tintin se fait-il enlever dans « Tintin en Amerique » ?",
+        "propositions": [
+          "New York",
+          "Chicago",
+          "Detroit",
+          "Texas"
+        ],
+        "reponse": "Chicago",
+        "anecdote": "À l'epoque de la Prohibition, Tintin se retrouve emmene à Chicago juste apres son voyage au Congo."
+      },
+      {
+        "id": 7,
+        "question": "Qui a vole les Bijoux de la Castafiore, dont une emeraude de grande valeur ?",
+        "propositions": [
+          "Les freres Loiseau",
+          "Une pie",
+          "Des bohemiens",
+          "Tryphon Tournesol"
+        ],
+        "reponse": "Une pie",
+        "anecdote": "La Castafiore est une cantatrice italienne de renommee internationale, surnommee le Rossignol milanais."
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la suite de l'album « Les Sept Boules de cristal » ?",
+        "propositions": [
+          "Tintin au Tibet",
+          "Le Lotus bleu",
+          "Coke en stock",
+          "Le Temple du Soleil"
+        ],
+        "reponse": "Le Temple du Soleil",
+        "anecdote": "Cet album a amene Herge à effectuer de multiples recherches dans des documents s'interessant à la civilisation inca."
+      },
+      {
+        "id": 9,
+        "question": "De qui le pirate Rackham le Rouge est-il un lointain ancetre ?",
+        "propositions": [
+          "Tintin",
+          "Haddock",
+          "Nestor",
+          "Tournesol"
+        ],
+        "reponse": "Haddock",
+        "anecdote": "Le personnage est un redoutable pirate, inspire par le pirate anglais du XVIIIe siecle Jack Rackham."
+      },
+      {
+        "id": 10,
+        "question": "Dans quel album Tintin se rend-il dans une colonie belge ?",
+        "propositions": [
+          "Coke en stock",
+          "Tintin au Tibet",
+          "Tintin au Congo",
+          "Tintin en Amerique"
+        ],
+        "reponse": "Tintin au Congo",
+        "anecdote": "En 1946, Herge s'adjoint les services d'Edgar P. Jacobs et reecrivent l'album dans un format plus court et en couleurs."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quel phenomene spectaculaire sauve Tintin et ses amis dans « Le temple du soleil » ?",
+        "propositions": [
+          "Avalanche",
+          "Éclipse de soleil",
+          "Seisme",
+          "Ouragan"
+        ],
+        "reponse": "Éclipse de soleil",
+        "anecdote": "L'intrigue de l'album est inspiree du roman sous forme de feuilleton de Gaston Leroux, « L'Épouse du soleil »."
+      },
+      {
+        "id": 12,
+        "question": "Le dernier album de Tintin acheve par Herge est paru en 1976. Quel en etait le titre ?",
+        "propositions": [
+          "Tintin au Tibet",
+          "Tintin au Congo",
+          "Tintin et les Picaros",
+          "Vol 714 pour Sydney"
+        ],
+        "reponse": "Tintin et les Picaros",
+        "anecdote": "Une page a dû etre retiree lors de l'edition finale de l'album, car il devait en contenir au maximum 62 (comme à l'habitude)."
+      },
+      {
+        "id": 13,
+        "question": "Quel metier Roberto Rastapopoulos exerce-t-il dans « Les Cigares du pharaon » ?",
+        "propositions": [
+          "Scientifique",
+          "Banquier",
+          "Assureur",
+          "Producteur"
+        ],
+        "reponse": "Producteur",
+        "anecdote": "« Les Cigares du pharaon » est le premier album de Tintin directement imprime par les Éditions Casterman."
+      },
+      {
+        "id": 14,
+        "question": "Dans Tintin, le chateau de Moulinsart apparaît pour la premiere fois dans « Le »...",
+        "propositions": [
+          "Sceptre d'Ottokar",
+          "Temple du Soleil",
+          "Lotus bleu",
+          "Secret de la Licorne"
+        ],
+        "reponse": "Secret de la Licorne",
+        "anecdote": "Pour beaucoup, le chateau de Moulinsart serait une replique fort similaire du chateau de Cheverny."
+      },
+      {
+        "id": 15,
+        "question": "Quelle est la marque de whisky preferee du Capitaine Haddock ?",
+        "propositions": [
+          "Loch Ness",
+          "Loch Mahouss",
+          "Loch Lomond",
+          "Loch Fields"
+        ],
+        "reponse": "Loch Lomond",
+        "anecdote": "Aujourd'hui, cette marque de whisky qui existe reellement est plus connue par les tintinophiles que par les amateurs de cet alcool."
+      },
+      {
+        "id": 16,
+        "question": "Quel est le prenom du Professeur Tournesol dans les aventures de Tintin ?",
+        "propositions": [
+          "Hyppolite",
+          "Tryphon",
+          "Archibald",
+          "Seraphin"
+        ],
+        "reponse": "Tryphon",
+        "anecdote": "Le Professeur Tournesol est un scientifique assez age, dur d'oreille, portant une barbichette et des lunettes rondes."
+      },
+      {
+        "id": 17,
+        "question": "Que designe le mot « coke » dans la bande dessinee « Coke en stock » ?",
+        "propositions": [
+          "Des boissons",
+          "Du charbon",
+          "De la drogue",
+          "Des esclaves"
+        ],
+        "reponse": "Des esclaves",
+        "anecdote": "Le premier titre envisage par Herge pour cet album etait d'abord « Les requins de la mer rouge »."
+      },
+      {
+        "id": 18,
+        "question": "Sur la couverture de quel album Tintin est-il represente une arme à la main ?",
+        "propositions": [
+          "Tintin en Amerique",
+          "Vol 714 pour Sydney",
+          "Le lotus bleu",
+          "Tintin au Congo"
+        ],
+        "reponse": "Vol 714 pour Sydney",
+        "anecdote": "Cet album qui releve de la science-fiction marque la derniere confrontation entre Tintin et Rastapopoulos."
+      },
+      {
+        "id": 19,
+        "question": "Quelle est la nationalite du milliardaire Rastapopoulos ?",
+        "propositions": [
+          "Anglaise",
+          "Marocaine",
+          "Grecque",
+          "Indienne"
+        ],
+        "reponse": "Grecque",
+        "anecdote": "Roberto Rastapopoulos est un milliardaire connu sous le faux nom de Marquis di Gorgonzola."
+      },
+      {
+        "id": 20,
+        "question": "À quoi est attache Tintin sur la couverture de « Tintin en Amerique » ?",
+        "propositions": [
+          "Un totem indien",
+          "Un taureau",
+          "Un tonneau",
+          "Un chariot"
+        ],
+        "reponse": "Un totem indien",
+        "anecdote": "La trame de l'histoire se deroule aux États-Unis, pendant la Prohibition, ou Tintin lutte contre les gangsters de la ville."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel chateau de la Loire a servi de modele pour le chateau de Moulinsart ?",
+        "propositions": [
+          "Chenonceau",
+          "Cheverny",
+          "Chambord",
+          "Chaumont"
+        ],
+        "reponse": "Cheverny",
+        "anecdote": "Le chateau de Moulinsart serait une replique de Cheverny, auquel on aurait retire les deux ailes externes."
+      },
+      {
+        "id": 22,
+        "question": "Comment se nomme le moine qui a des visions dans « Tintin au Tibet » ?",
+        "propositions": [
+          "Foudre Benie",
+          "Grand Precieux",
+          "Savoir Infini",
+          "Grand Pachacamac"
+        ],
+        "reponse": "Foudre Benie",
+        "anecdote": "En touchant l'echarpe de Tchang, Foudre Benie a une vision et voit ce dernier dans une grotte avec le yeti."
+      },
+      {
+        "id": 23,
+        "question": "Dans les aventures de Tintin, quelle est la profession de Seraphin Lampion ?",
+        "propositions": [
+          "Banquier",
+          "Policier",
+          "Journaliste",
+          "Assureur"
+        ],
+        "reponse": "Assureur",
+        "anecdote": "Lampion semble à l'aise dans tous les milieux, ne voyant pas qu'il exaspere son « public » et se croyant bienvenu partout."
+      },
+      {
+        "id": 24,
+        "question": "Quel est le prenom de Haddock, capitaine de marine marchande ?",
+        "propositions": [
+          "Gustave",
+          "Isidore",
+          "Archibald",
+          "Mauricien"
+        ],
+        "reponse": "Archibald",
+        "anecdote": "Le prenom du capitaine Haddock est mentionne pour la premiere fois dans l'album « Tintin et les Picaros »."
+      },
+      {
+        "id": 25,
+        "question": "Dans « Les Bijoux de la Castafiore », quel journal annonce les noces de la diva ?",
+        "propositions": [
+          "Paris-Flash",
+          "Stars de France",
+          "Jours de Paris",
+          "Ici Pour Vous"
+        ],
+        "reponse": "Paris-Flash",
+        "anecdote": "Trois ans apres le succes de « Tintin au Tibet », Herge semble ici etre à l'apogee de son oeuvre sur le plan narratif."
+      },
+      {
+        "id": 26,
+        "question": "Quel personnage a inspire Herge pour creer le Professeur Tournesol ?",
+        "propositions": [
+          "Thomas Edison",
+          "Graham Bell",
+          "Auguste Piccard",
+          "Albert Einstein"
+        ],
+        "reponse": "Auguste Piccard",
+        "anecdote": "Auguste Piccard est un physicien suisse, explorateur de la haute atmosphere et des grandes profondeurs."
+      },
+      {
+        "id": 27,
+        "question": "Avant de devenir le domestique du Capitaine Haddock, pour qui travaillait Nestor ?",
+        "propositions": [
+          "Müller",
+          "Les freres Loiseau",
+          "Rastapopoulos",
+          "La Castafiore"
+        ],
+        "reponse": "Les freres Loiseau",
+        "anecdote": "D'allure tres soignee, portant une livree, Nestor est devenu dans la culture francophone l'archetype du majordome."
+      },
+      {
+        "id": 28,
+        "question": "Quel acteur joua le rôle de Tintin au cinema dans les annees 1960 ?",
+        "propositions": [
+          "Jean-Pierre Talbot",
+          "Andre Marie",
+          "Serge Marquand",
+          "Max Elloy"
+        ],
+        "reponse": "Jean-Pierre Talbot",
+        "anecdote": "Jean-Pierre Talbot est le seul acteur à avoir physiquement incarne le personnage de Tintin au cinema."
+      },
+      {
+        "id": 29,
+        "question": "Dans Tintin, quel est le numero de telephone de Moulinsart ?",
+        "propositions": [
+          "441",
+          "641",
+          "421",
+          "246"
+        ],
+        "reponse": "421",
+        "anecdote": "Le nom de Moulinsart a ete invente par Herge en inversant celui d'un hameau de Braine-l'Alleud, Sart-Moulin, au sud de Bruxelles."
+      },
+      {
+        "id": 30,
+        "question": "Quel artiste aurait inspire Herge pour le personnage de Tchang ?",
+        "propositions": [
+          "Zhang Chongren",
+          "Fang Lijun",
+          "Liu Xiaodong",
+          "Wang Shiyan"
+        ],
+        "reponse": "Zhang Chongren",
+        "anecdote": "Zhang, artiste et sculpteur chinois qui recevra la nationalite francaise en 1985, meurt à Paris le 8 octobre 1998."
+      }
+    ]
+    }
+  }
+}

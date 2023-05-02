@@ -1,0 +1,2249 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "2 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Celebrites",
+      "nom": "Prenoms celebres",
+      "slogan": "On connaît leurs noms"
+    },
+    "en": {
+      "categorie": "Celebrities",
+      "nom": "Famous first names",
+      "slogan": "We know their names"
+    },
+    "es": {
+      "categorie": "Famosos",
+      "nom": "Nombres famosos",
+      "slogan": "Conocemos sus nombres"
+    },
+    "it": {
+      "categorie": "Celebrità",
+      "nom": "Nomi famosi",
+      "slogan": "Conosciamo i loro nomi"
+    },
+    "de": {
+      "categorie": "Prominente",
+      "nom": "Berühmte Vornamen",
+      "slogan": "Wir kennen ihre Namen"
+    },
+    "nl": {
+      "categorie": "Beroemdheden",
+      "nom": "Beroemde voornamen",
+      "slogan": "We kennen hun namen"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Quel est le prenom du chanteur pop-rock francais De Palmas ?",
+        "propositions": [
+          "Gerard",
+          "Gerald",
+          "Jeremy",
+          "Jerôme"
+        ],
+        "reponse": "Gerald",
+        "anecdote": "Gerald Gardrinier, ne à La Reunion, a choisi pour nom de scene celui de sa grand-mere maternelle, Roxane de Palmas."
+      },
+      {
+        "id": 2,
+        "question": "Quel est le prenom du pere de l'acteur canado-britannique Kiefer Sutherland ?",
+        "propositions": [
+          "Donald",
+          "Pluto",
+          "Mickey",
+          "Popeye"
+        ],
+        "reponse": "Donald",
+        "anecdote": "Donald Sutherland a tenu son premier rôle au cinema en 1964 dans un film d'horreur italien, « Il castello dei morti vivi »."
+      },
+      {
+        "id": 3,
+        "question": "Quel prenom se partagent les acteurs canadiens Gosling et Reynolds ?",
+        "propositions": [
+          "Brian",
+          "Alan",
+          "Evan",
+          "Ryan"
+        ],
+        "reponse": "Ryan",
+        "anecdote": "Depuis septembre 2011, Ryan Gosling vit avec l'actrice Eva Mendes, avec laquelle il a eu deux filles, Esmeralda et Amada."
+      },
+      {
+        "id": 4,
+        "question": "Quel est le prenom du celebre joueur de football portugais Ronaldo ?",
+        "propositions": [
+          "Cristiano",
+          "Antonio",
+          "Benito",
+          "Joao"
+        ],
+        "reponse": "Cristiano",
+        "anecdote": "Considere comme l'un des meilleurs joueurs du monde, Ronaldo a remporte le Ballon d'or en 2008, 2013, 2014, 2016 et 2017."
+      },
+      {
+        "id": 5,
+        "question": "Quel est le prenom du pere de la famille Simpson, sur nos ecrans depuis 1989 ?",
+        "propositions": [
+          "Homer",
+          "Herbert",
+          "Bart",
+          "Abraham"
+        ],
+        "reponse": "Homer",
+        "anecdote": "Homer est apparu pour la premiere fois à la television avec sa famille dans le court metrage « Good Night », le 19 avril 1987."
+      },
+      {
+        "id": 6,
+        "question": "Comment se prenomme l'heureux proprietaire des crevettes Bubba Gump ?",
+        "propositions": [
+          "Dan",
+          "Winston",
+          "Forrest",
+          "Benjamin"
+        ],
+        "reponse": "Forrest",
+        "anecdote": "Pourtant simple d'esprit, l'histoire de Forrest Gump se confond avec celle des États-Unis des annees 1950 aux annees 1980."
+      },
+      {
+        "id": 7,
+        "question": "Quel personnage feminin est present dans « Notre-Dame de Paris » ?",
+        "propositions": [
+          "Cassandra",
+          "Samantha",
+          "Antoniona",
+          "Esmeralda"
+        ],
+        "reponse": "Esmeralda",
+        "anecdote": "Danseuse gitane, agee de 16 ans, Esmeralda se tremousse dans les rues de Paris et fait executer des tours à sa chevre Djali."
+      },
+      {
+        "id": 8,
+        "question": "Comment se prenomme le heros des films de la saga « Mission Impossible » ?",
+        "propositions": [
+          "Ethan",
+          "Jim",
+          "Owen",
+          "Luther"
+        ],
+        "reponse": "Ethan",
+        "anecdote": "Ethan Matthew Hunt est le personnage principal de la serie de films « Mission Impossible ». Il est interprete par l'acteur Tom Cruise."
+      },
+      {
+        "id": 9,
+        "question": "Quel tueur solitaire a ete incarne au cinema par Jean Reno ?",
+        "propositions": [
+          "Leon",
+          "Gaston",
+          "Odilon",
+          "Simon"
+        ],
+        "reponse": "Leon",
+        "anecdote": "Sixieme long metrage realise par Besson, « Leon » retrace la vie d'un tueur à gages du meme nom, vivant en solitaire à New York."
+      },
+      {
+        "id": 10,
+        "question": "Qui est la compagne de Thelma dans un film de Ridley Scott ?",
+        "propositions": [
+          "Susan",
+          "Geena",
+          "Bethy",
+          "Louise"
+        ],
+        "reponse": "Louise",
+        "anecdote": "« Thelma et Louise » est un film americain realise par Ridley Scott en 1991 qui a recu l'Oscar du meilleur scenario."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quel etait le prenom de Vivaldi, compositeur de genie de la periode baroque ?",
+        "propositions": [
+          "Antonio",
+          "Rodrigo",
+          "Lissandro",
+          "Amerigo"
+        ],
+        "reponse": "Antonio",
+        "anecdote": "Les quatre concertos connus sous le titre « Les Quatre Saisons » comptent parmi les plus populaires du repertoire classique."
+      },
+      {
+        "id": 12,
+        "question": "Quel etait le prenom de Mussolini, homme d'État italien mort en 1945 ?",
+        "propositions": [
+          "Antonio",
+          "Benito",
+          "Hidalgo",
+          "Sergio"
+        ],
+        "reponse": "Benito",
+        "anecdote": "Musolini est couramment designe par le terme Duce, mot italien derive du latin Dux et signifiant Chef ou Guide."
+      },
+      {
+        "id": 13,
+        "question": "Quel heros de cinema, cree par un inventeur, possede des mains d'argent ?",
+        "propositions": [
+          "Robert",
+          "Edward",
+          "Dylan",
+          "Kevin"
+        ],
+        "reponse": "Edward",
+        "anecdote": "Le projet sera fortement accelere à la suite du succes commercial remporte par « Batman » (1989), le precedent film de Tim Burton."
+      },
+      {
+        "id": 14,
+        "question": "Quelle lyceenne de serie tele s'est longtemps battu contre les vampires ?",
+        "propositions": [
+          "Angel",
+          "Tara",
+          "Joyce",
+          "Buffy"
+        ],
+        "reponse": "Buffy",
+        "anecdote": "Figure centrale de la serie, principal facteur de popularite du personnage, Buffy Summers est une lyceenne tueuse de vampires."
+      },
+      {
+        "id": 15,
+        "question": "Qui incarne la mechante dans la serie televisee « La petite maison dans la prairie » ?",
+        "propositions": [
+          "Stella",
+          "Nellie",
+          "Laura",
+          "Marie"
+        ],
+        "reponse": "Nellie",
+        "anecdote": "Elle est interpretee dans la serie par l'actrice americaine Alison Arngrim, qui reprendra ce rôle dans un spectacle humoristique."
+      },
+      {
+        "id": 16,
+        "question": "Qui etait la petite fille des montagnes de notre enfance ?",
+        "propositions": [
+          "Heidi",
+          "Cosby",
+          "Maguy",
+          "Candy"
+        ],
+        "reponse": "Heidi",
+        "anecdote": "Un village du nom de Hokuto, à deux heures de Tokyo, reproduit le cadre et l'architecture, version suisse, de celui d'Heidi."
+      },
+      {
+        "id": 17,
+        "question": "Comment se prenomme la belle brune de la saga de science-fiction « Matrix » ?",
+        "propositions": [
+          "Trinity",
+          "Riddick",
+          "Billie",
+          "Clara"
+        ],
+        "reponse": "Trinity",
+        "anecdote": "Cette hackeuse qui utilise le pseudonyme de Trinity (Trinite), qui n'est pas son veritable nom, est incarnee par Carrie-Anne Moss."
+      },
+      {
+        "id": 18,
+        "question": "Quelle chanteuse surnommee Lady Day represente le jazz americain ?",
+        "propositions": [
+          "Nina",
+          "Sarah",
+          "Billie",
+          "Ella"
+        ],
+        "reponse": "Billie",
+        "anecdote": "Avec Ella Fitzgerald, Nina Simone, Sarah Vaughan et Amy Winehouse, Billie Holiday represente le jazz vocal."
+      },
+      {
+        "id": 19,
+        "question": "Comment se prenomme la plus grande gymnaste de tout les temps ?",
+        "propositions": [
+          "Larissa",
+          "Yelena",
+          "Simona",
+          "Nadia"
+        ],
+        "reponse": "Nadia",
+        "anecdote": "Nadia Comaneci a donne une dimension populaire et mediatique inegalee à la gymnastique, avec une note parfaite de 10."
+      },
+      {
+        "id": 20,
+        "question": "Qui represente la veritable enigme des « Contes de Mille et Une Nuits » ?",
+        "propositions": [
+          "Vernyhora",
+          "Titania",
+          "Loathly",
+          "Sheherazade"
+        ],
+        "reponse": "Sheherazade",
+        "anecdote": "Le noyau de ces histoires et contes est forme par un ancien livre persan nomme « Hezar-afsana » (Les Mille contes)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Comment se prenomme la premiere fille de David Hallyday et Estelle Lefebure ?",
+        "propositions": [
+          "Emma",
+          "Ilona",
+          "Julia",
+          "Anna"
+        ],
+        "reponse": "Ilona",
+        "anecdote": "Le 17 mai 1995, elle donne naissance à sa premiere fille, Ilona, puis le 13 septembre 1997 naît sa deuxieme fille, Emma."
+      },
+      {
+        "id": 22,
+        "question": "Quel est le veritable prenom du presentateur de television Arthur ?",
+        "propositions": [
+          "Jacques",
+          "Marc",
+          "Luc",
+          "Pierre"
+        ],
+        "reponse": "Jacques",
+        "anecdote": "Jacques Essebag, plus connu sous le pseudonyme d'Arthur, est ne le 10 mars 1966 à Casablanca, au Maroc."
+      },
+      {
+        "id": 23,
+        "question": "Quel est le prenom du capitaine francais de « Star trek:NextGen » ?",
+        "propositions": [
+          "Jean-Luc",
+          "Jean-Charles",
+          "Jean-Marc",
+          "Jean-Pierre"
+        ],
+        "reponse": "Jean-Luc",
+        "anecdote": "Picard a commande le Stargazer (2333-2355), l'Enterprise-D (2363-2371) et l'Enterprise-E (2372-) à la fin du XXIVe siecle."
+      },
+      {
+        "id": 24,
+        "question": "Quel prenom est associe à « Madame Bovary » de Gustave Flaubert ?",
+        "propositions": [
+          "Diana",
+          "Emma",
+          "Sarah",
+          "Laura"
+        ],
+        "reponse": "Emma",
+        "anecdote": "Emma Rouault, fille d'un riche fermier, a ete elevee dans un couvent et reve d'une vie mondaine comme les princesses des romans."
+      },
+      {
+        "id": 25,
+        "question": "À quel prenom feminin vous fait penser « Autant en emporte le vent » ?",
+        "propositions": [
+          "Elisabeth",
+          "Bridget",
+          "Scarlett",
+          "Babeth"
+        ],
+        "reponse": "Scarlett",
+        "anecdote": "« Autant en emporte le vent » est un roman ecrit par Margaret Mitchell narrant la desillusion de Scarlett O'Hara."
+      },
+      {
+        "id": 26,
+        "question": "Les quatre filles du docteur March sont Amy, Beth, Josephine et...",
+        "propositions": [
+          "Nelly",
+          "Barbara",
+          "Laura",
+          "Margarett"
+        ],
+        "reponse": "Margarett",
+        "anecdote": "« Les Quatre Filles du docteur March » est un roman de la femme de lettres americaine Louisa May Alcott, publie en 1868."
+      },
+      {
+        "id": 27,
+        "question": "Quel prenom est commun à Vanessa Paradis et Serge Gainsbourg ?",
+        "propositions": [
+          "Barbara",
+          "Cassandra",
+          "Élisa",
+          "Johanna"
+        ],
+        "reponse": "Élisa",
+        "anecdote": "« Élisa » est une chanson de Serge Gainsbourg de 1969 (co-ecrite avec Michel Colombier) dont il existe deux versions distinctes."
+      },
+      {
+        "id": 28,
+        "question": "Qui est incarne par Orlando Bloom dans « Le Seigneur des Anneaux » ?",
+        "propositions": [
+          "Legolas",
+          "Gimli",
+          "Boromir",
+          "Aragorn"
+        ],
+        "reponse": "Legolas",
+        "anecdote": "Fils de Thranduil, le roi des Elfes, Legolas Vertefeuille se fit connaître lors du Conseil d'Elrond en 3018 du Troisieme Âge."
+      },
+      {
+        "id": 29,
+        "question": "Outre Cesar, quel prenom masculin est souvent associe à Marcel Pagnol ?",
+        "propositions": [
+          "Marius",
+          "Titus",
+          "Janus",
+          "Artus"
+        ],
+        "reponse": "Marius",
+        "anecdote": "La « Trilogie marseillaise » est l'appellation generique donnee aux trois pieces de theatre de Marcel Pagnol, « Marius », « Fanny » et « Cesar »."
+      },
+      {
+        "id": 30,
+        "question": "Quelle grande primatologue s'est installe au Parc National de Gombe ?",
+        "propositions": [
+          "Sally",
+          "Ursula",
+          "Dina",
+          "Jane"
+        ],
+        "reponse": "Jane",
+        "anecdote": "Jane Goodall est la premiere à avoir observe et rapporte que les chimpanzes utilisent des outils pour s'alimenter."
+      }
+    ]
+    },
+    "en": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "What is the name of French pop-rock singer De Palmas ?",
+        "propositions": [
+          "Gerald",
+          "Jerome",
+          "Jeremy",
+          "Gerard"
+        ],
+        "reponse": "Gerald",
+        "anecdote": "Gerald de Palmas chose for his stage name that of his maternal grandmother, Roxane de Palmas."
+      },
+      {
+        "id": 2,
+        "question": "What is the name of the father of Canadian-British actor Kiefer Sutherland ?",
+        "propositions": [
+          "Mickey",
+          "Donald",
+          "Popeye",
+          "Pluto"
+        ],
+        "reponse": "Donald",
+        "anecdote": "Donald Sutherland held his first film role in 1964 in an Italian horror film, « Il castello dei morti vivi »."
+      },
+      {
+        "id": 3,
+        "question": "What name do Canadian actors Gosling and Reynolds share ?",
+        "propositions": [
+          "Alan",
+          "Evan",
+          "Ryan",
+          "Brian"
+        ],
+        "reponse": "Ryan",
+        "anecdote": "Since September 2011, Ryan Gosling lives with actress Eva Mendes, with whom he had two daughters, Esmeralda and Amada."
+      },
+      {
+        "id": 4,
+        "question": "What is the name of the famous Portuguese football player Ronaldo ?",
+        "propositions": [
+          "Antonio",
+          "Benito",
+          "Cristiano",
+          "Joao"
+        ],
+        "reponse": "Cristiano",
+        "anecdote": "Considered one of the best players in the world, Ronaldo won the Golden Ball in 2008, 2013, 2014, 2016 and 2017."
+      },
+      {
+        "id": 5,
+        "question": "What is the name of the father of the Simpson family, present on our screens since 1989 ?",
+        "propositions": [
+          "Bart",
+          "Herbert",
+          "Abraham",
+          "Homer"
+        ],
+        "reponse": "Homer",
+        "anecdote": "Homer appeared for the first time on television with his family in the short film « Good Night », on April 19, 1987."
+      },
+      {
+        "id": 6,
+        "question": "How is the proud owner of Bubba Gump shrimp ?",
+        "propositions": [
+          "Benjamin",
+          "Dan",
+          "Forrest",
+          "Winston"
+        ],
+        "reponse": "Forrest",
+        "anecdote": "The story of Forrest Gump merges with that of the United States from the 1950s to the 1980s."
+      },
+      {
+        "id": 7,
+        "question": "Which female character is present in « Notre-Dame de Paris » ?",
+        "propositions": [
+          "Cassandra",
+          "Esmeralda",
+          "Antoniona",
+          "Samantha"
+        ],
+        "reponse": "Esmeralda",
+        "anecdote": "Gypsy dancer, a 16-year-old girl, Esmeralda wanders in the streets of Paris and performs tricks on her goat Djali."
+      },
+      {
+        "id": 8,
+        "question": "How is the hero of the movies of the saga « Mission Impossible » ?",
+        "propositions": [
+          "Owen",
+          "Luther",
+          "Ethan",
+          "Jim"
+        ],
+        "reponse": "Ethan",
+        "anecdote": "Ethan Matthew Hunt is the main character in the series of films « Mission Impossible »."
+      },
+      {
+        "id": 9,
+        "question": "What lone killer was embodied in cinematography by Jean Reno ?",
+        "propositions": [
+          "Odilon",
+          "Simon",
+          "Gaston",
+          "Leon"
+        ],
+        "reponse": "Leon",
+        "anecdote": "Sixth feature film directed by Besson, « Leon » traces the life of a hired killer of the same name, living alone in New York."
+      },
+      {
+        "id": 10,
+        "question": "Who is Thelma's companion in a Ridley Scott movie ?",
+        "propositions": [
+          "Geena",
+          "Louise",
+          "Susan",
+          "Bethy"
+        ],
+        "reponse": "Louise",
+        "anecdote": "« Thelma and Louise » is an American film made by Ridley Scott in 1991 that received the Oscar for Best Screenplay."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "What was the name of Vivaldi, composer of genius of the Baroque period ?",
+        "propositions": [
+          "Antonio",
+          "Lissandro",
+          "Rodrigo",
+          "Amerigo"
+        ],
+        "reponse": "Antonio",
+        "anecdote": "The four concertos known as « The Four Seasons » are among the most popular in the classical repertory."
+      },
+      {
+        "id": 12,
+        "question": "What was the name of Mussolini, an Italian statesman who died in 1945 ?",
+        "propositions": [
+          "Antonio",
+          "Sergio",
+          "Hidalgo",
+          "Benito"
+        ],
+        "reponse": "Benito",
+        "anecdote": "Musolini is commonly referred to as Duce, an Italian word derived from the Latin Dux meaning Chef or Guide."
+      },
+      {
+        "id": 13,
+        "question": "What film heroes, created by an inventor, have silver hands ?",
+        "propositions": [
+          "Dylan",
+          "Kevin",
+          "Edward",
+          "Robert"
+        ],
+        "reponse": "Edward",
+        "anecdote": "The project will be greatly accelerated following the commercial success won by « Batman » (1989), Tim Burton's previous film."
+      },
+      {
+        "id": 14,
+        "question": "What high school TV serial has long fought against vampires ?",
+        "propositions": [
+          "Angel",
+          "Joyce",
+          "Tara",
+          "Buffy"
+        ],
+        "reponse": "Buffy",
+        "anecdote": "Central figure of the series, the main factor of popularity of the character, Buffy Summers is a schoolgirl killer vampires."
+      },
+      {
+        "id": 15,
+        "question": "Who embodies the magic in the TV series « The little house in the meadow » ?",
+        "propositions": [
+          "Nellie",
+          "Stella",
+          "Laura",
+          "Marie"
+        ],
+        "reponse": "Nellie",
+        "anecdote": "She is portrayed in the series by American actress Alison Arngrim, who will take over this role in a humorous show."
+      },
+      {
+        "id": 16,
+        "question": "Who was the little mountain girl of our childhood ?",
+        "propositions": [
+          "Maguy",
+          "Candy",
+          "Cosby",
+          "Heidi"
+        ],
+        "reponse": "Heidi",
+        "anecdote": "A village called Hokuto, two hours from Tokyo, reproduces the frame and architecture, Swiss version, of Heidi."
+      },
+      {
+        "id": 17,
+        "question": "How is the beautiful brunette in the saga of science fiction « Matrix » ?",
+        "propositions": [
+          "Billie",
+          "Clara",
+          "Riddick",
+          "Trinity"
+        ],
+        "reponse": "Trinity",
+        "anecdote": "This hacker who uses the pseudonym Trinity (Trinity), which is not her real name, is embodied by Carrie-Anne Moss."
+      },
+      {
+        "id": 18,
+        "question": "Which singer nicknamed Lady Day represents American jazz ?",
+        "propositions": [
+          "Ella",
+          "Nina",
+          "Sarah",
+          "Billie"
+        ],
+        "reponse": "Billie",
+        "anecdote": "With Ella Fitzgerald, Nina Simone, Sarah Vaughan and Amy Winehouse, Billie Holiday represents vocal jazz."
+      },
+      {
+        "id": 19,
+        "question": "What is the name of the greatest gymnast of all time ?",
+        "propositions": [
+          "Larissa",
+          "Yelena",
+          "Nadia",
+          "Simona"
+        ],
+        "reponse": "Nadia",
+        "anecdote": "Nadia Comaneci gave a popular and mediatic dimension unequaled in gymnastics, with a perfect score of 10."
+      },
+      {
+        "id": 20,
+        "question": "Who represents the true enigma of « Tales of Thousand and One Nights » ?",
+        "propositions": [
+          "Titania",
+          "Vernyhora",
+          "Loathly",
+          "Sheherazade"
+        ],
+        "reponse": "Sheherazade",
+        "anecdote": "The core of these stories is formed by an ancient Persian book named « Hezar-afsana » (The Thousand Tales)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "How is the first daughter of David Hallyday and Estelle Lefebure ?",
+        "propositions": [
+          "Emma",
+          "Anna",
+          "Julia",
+          "Ilona"
+        ],
+        "reponse": "Ilona",
+        "anecdote": "On May 17, 1995, she gave birth to her first daughter, Ilona, and on September 13, 1997 was born her second daughter, Emma."
+      },
+      {
+        "id": 22,
+        "question": "What is the real name of the TV presenter Arthur ?",
+        "propositions": [
+          "Marc",
+          "Pierre",
+          "Jacques",
+          "Luc"
+        ],
+        "reponse": "Jacques",
+        "anecdote": "Jacques Essebag, better known under the pseudonym Arthur, was born on March 10, 1966 in Casablanca, Morocco."
+      },
+      {
+        "id": 23,
+        "question": "What is the name of the French captain of « Star trek: NextGen » ?",
+        "propositions": [
+          "Jean-Charles",
+          "Jean-Marc",
+          "Jean-Pierre",
+          "Jean-Luc"
+        ],
+        "reponse": "Jean-Luc",
+        "anecdote": "Picard commissioned the Stargazer (2333-2355), the Enterprise-D (2363-2371) and the Enterprise-E (2372-) at the end of the twenty-eighth century."
+      },
+      {
+        "id": 24,
+        "question": "Which name is associated with « Madame Bovary » by Gustave Flaubert ?",
+        "propositions": [
+          "Sarah",
+          "Emma",
+          "Diana",
+          "Laura"
+        ],
+        "reponse": "Emma",
+        "anecdote": "Emma Rouault, daughter of a rich farmer, was raised in a convent and dreamed of a worldly life like the princesses of the novels."
+      },
+      {
+        "id": 25,
+        "question": "What feminine name makes you think « Gone with the wind ? »",
+        "propositions": [
+          "Scarlett",
+          "Babeth",
+          "Bridget",
+          "Elisabeth"
+        ],
+        "reponse": "Scarlett",
+        "anecdote": "« Gone With The Wind » is a novel written by Margaret Mitchell narrating the delusion of Scarlett O'Hara."
+      },
+      {
+        "id": 26,
+        "question": "Dr. March's four daughters are Amy, Beth, Josephine and...",
+        "propositions": [
+          "Margarett",
+          "Nelly",
+          "Barbara",
+          "Laura"
+        ],
+        "reponse": "Margarett",
+        "anecdote": "« The Four Girls of Dr. March » is a novel by the American writer Louisa May Alcott, published in 1868."
+      },
+      {
+        "id": 27,
+        "question": "What is the name of Vanessa Paradis and Serge Gainsbourg ?",
+        "propositions": [
+          "Cassandra",
+          "Elisa",
+          "Johanna",
+          "Barbara"
+        ],
+        "reponse": "Elisa",
+        "anecdote": "« Élisa » is a Serge Gainsbourg song of 1969 (co-written with Michel Colombier) of which there are two distinct versions."
+      },
+      {
+        "id": 28,
+        "question": "Who is Orlando Bloom in « The Lord of the Rings » ?",
+        "propositions": [
+          "Gimli",
+          "Boromir",
+          "Aragorn",
+          "Legolas"
+        ],
+        "reponse": "Legolas",
+        "anecdote": "Son of Thranduil, the King of the Elves, Legolas Vertefeuille became known at the Elrond Council in 3018 of the Third Age."
+      },
+      {
+        "id": 29,
+        "question": "Besides Cesar, which male leader is often associated with Marcel Pagnol ?",
+        "propositions": [
+          "Titus",
+          "Janus",
+          "Artus",
+          "Marius"
+        ],
+        "reponse": "Marius",
+        "anecdote": "The « Marseille Trilogy » is the generic name given to Marcel Pagnol's three plays, « Marius », « Fanny » and « Cesar »."
+      },
+      {
+        "id": 30,
+        "question": "Which great primatologist settled in Gombe National Park ?",
+        "propositions": [
+          "Sally",
+          "Dina",
+          "Ursula",
+          "Jane"
+        ],
+        "reponse": "Jane",
+        "anecdote": "Jane Goodall is the first to have observed and reported that chimpanzees use tools to feed themselves."
+      }
+    ]
+    },
+    "de": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Wie heißt der französische Pop-Rock-Sänger De Palmas ?",
+        "propositions": [
+          "Gerald",
+          "Jeremy",
+          "Gerard",
+          "Jerome"
+        ],
+        "reponse": "Gerald",
+        "anecdote": "Gerald de Palmas wählte als Künstlernamen den Namen seiner Großmutter mütterlicherseits, Roxane de Palmas."
+      },
+      {
+        "id": 2,
+        "question": "Wie heißt der Vater des kanadisch-britischen Schauspielers Kiefer Sutherland ?",
+        "propositions": [
+          "Donald",
+          "Popeye",
+          "Mickey",
+          "Pluto"
+        ],
+        "reponse": "Donald",
+        "anecdote": "Donald Sutherland hatte 1964 seine erste Filmrolle in einem italienischen Horrorfilm, « Il castello dei morti vivi »."
+      },
+      {
+        "id": 3,
+        "question": "Welchen Namen teilen die kanadischen Schauspieler Gosling und Reynolds ?",
+        "propositions": [
+          "Evan",
+          "Ryan",
+          "Brian",
+          "Alan"
+        ],
+        "reponse": "Ryan",
+        "anecdote": "Ryan Gosling lebt seit September 2011 mit der Schauspielerin Eva Mendes zusammen, mit der er zwei Töchter hatte, Esmeralda und Amada."
+      },
+      {
+        "id": 4,
+        "question": "Wie heißt der berühmte portugiesische Fußballspieler Ronaldo ?",
+        "propositions": [
+          "Joao",
+          "Cristiano",
+          "Antonio",
+          "Benito"
+        ],
+        "reponse": "Cristiano",
+        "anecdote": "Ronaldo gilt als einer der besten Spieler der Welt und gewann den Goldenen Ball in den Jahren 2008, 2013, 2014, 2016 und 2017."
+      },
+      {
+        "id": 5,
+        "question": "Wie heißt der Vater der Familie Simpson, der seit 1989 auf unseren Bildschirmen zu sehen ist ?",
+        "propositions": [
+          "Abraham",
+          "Bart",
+          "Herbert",
+          "Homer"
+        ],
+        "reponse": "Homer",
+        "anecdote": "Am 19. April 1987 war Homer zum ersten Mal mit seiner Familie im Fernsehen in dem Kurzfilm « Good Night » zu sehen."
+      },
+      {
+        "id": 6,
+        "question": "Wie ist der stolze Besitzer von Bubba Gump Shrimps ?",
+        "propositions": [
+          "Forrest",
+          "Dan",
+          "Benjamin",
+          "Winston"
+        ],
+        "reponse": "Forrest",
+        "anecdote": "Die Geschichte von Forrest Gump verschmilzt mit der der Vereinigten Staaten von 1950 bis 1980."
+      },
+      {
+        "id": 7,
+        "question": "Welche weibliche Figur ist in « Notre-Dame de Paris » vertreten ?",
+        "propositions": [
+          "Samantha",
+          "Esmeralda",
+          "Cassandra",
+          "Antoniona"
+        ],
+        "reponse": "Esmeralda",
+        "anecdote": "Die 16-jährige Gypsy-Tänzerin Esmeralda wandert durch die Straßen von Paris und macht Tricks mit ihrem Ziegen-Djali."
+      },
+      {
+        "id": 8,
+        "question": "Wie ist der Held der Filme der Saga « Mission Impossible » ?",
+        "propositions": [
+          "Luther",
+          "Jim",
+          "Owen",
+          "Ethan"
+        ],
+        "reponse": "Ethan",
+        "anecdote": "Ethan Matthew Hunt ist die Hauptfigur in der Filmreihe « Mission Impossible »."
+      },
+      {
+        "id": 9,
+        "question": "Welcher Einzelkiller wurde von Jean Reno in der Kinematographie verkörpert ?",
+        "propositions": [
+          "Simon",
+          "Odilon",
+          "Leon",
+          "Gaston"
+        ],
+        "reponse": "Leon",
+        "anecdote": "Der sechste Spielfilm von Besson, « Leon », zeichnet das Leben eines gleichnamigen Auftragsmörders nach, der allein in New York lebt."
+      },
+      {
+        "id": 10,
+        "question": "Wer ist Thelmas Begleiter in einem Film von Ridley Scott ?",
+        "propositions": [
+          "Susan",
+          "Geena",
+          "Bethy",
+          "Louise"
+        ],
+        "reponse": "Louise",
+        "anecdote": "« Thelma und Louise » ist ein amerikanischer Film, der 1991 von Ridley Scott gedreht wurde und den Oscar für das beste Drehbuch erhielt."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Wie hieß Vivaldi, Komponist des Genies der Barockzeit ?",
+        "propositions": [
+          "Lissandro",
+          "Rodrigo",
+          "Amerigo",
+          "Antonio"
+        ],
+        "reponse": "Antonio",
+        "anecdote": "Die vier als « The Four Seasons » bekannten Konzerte gehören zu den beliebtesten im klassischen Repertoire."
+      },
+      {
+        "id": 12,
+        "question": "Wie hieß Mussolini, ein 1945 verstorbener italienischer Staatsmann ?",
+        "propositions": [
+          "Benito",
+          "Hidalgo",
+          "Antonio",
+          "Sergio"
+        ],
+        "reponse": "Benito",
+        "anecdote": "Musolini wird allgemein als Duce bezeichnet, ein italienisches Wort, das vom lateinischen Dux abgeleitet ist und Chef oder Führer bedeutet."
+      },
+      {
+        "id": 13,
+        "question": "Welche von einem Erfinder geschaffenen Filmhelden haben silberne Hände ?",
+        "propositions": [
+          "Robert",
+          "Kevin",
+          "Edward",
+          "Dylan"
+        ],
+        "reponse": "Edward",
+        "anecdote": "Das Projekt wird nach dem kommerziellen Erfolg von « Batman » (1989), dem vorherigen Film von Tim Burton, erheblich beschleunigt."
+      },
+      {
+        "id": 14,
+        "question": "Welche Fernsehserie der High School hat lange gegen Vampire gekämpft ?",
+        "propositions": [
+          "Tara",
+          "Joyce",
+          "Engel",
+          "Buffy"
+        ],
+        "reponse": "Buffy",
+        "anecdote": "Die Hauptfigur der Serie, Buffy Summers, ist ein Schulmädchen-Killervampir."
+      },
+      {
+        "id": 15,
+        "question": "Wer verkörpert die Magie in der Fernsehserie « Das kleine Haus auf der Wiese » ?",
+        "propositions": [
+          "Laura",
+          "Marie",
+          "Stella",
+          "Nellie"
+        ],
+        "reponse": "Nellie",
+        "anecdote": "Sie wird in der Serie von der amerikanischen Schauspielerin Alison Arngrim porträtiert, die diese Rolle in einer humorvollen Show übernehmen wird."
+      },
+      {
+        "id": 16,
+        "question": "Wer war das kleine Bergmädchen unserer Kindheit ?",
+        "propositions": [
+          "Heidi",
+          "Süßigkeiten",
+          "Cosby",
+          "Maguy"
+        ],
+        "reponse": "Heidi",
+        "anecdote": "Ein Dorf namens Hokuto, zwei Stunden von Tokio entfernt, reproduziert den Rahmen und die Architektur der Schweizer Version von Heidi."
+      },
+      {
+        "id": 17,
+        "question": "Wie ist die schöne Brünette in der Science-Fiction-Saga « Matrix » ?",
+        "propositions": [
+          "Trinity",
+          "Billie",
+          "Riddick",
+          "Clara"
+        ],
+        "reponse": "Trinity",
+        "anecdote": "Dieser Hacker, der das Pseudonym Trinity (Trinity) verwendet, was nicht ihr richtiger Name ist, wird von Carrie-Anne Moss verkörpert."
+      },
+      {
+        "id": 18,
+        "question": "Welche Sängerin mit dem Spitznamen Lady Day repräsentiert amerikanischen Jazz ?",
+        "propositions": [
+          "Sarah",
+          "Nina",
+          "Ella",
+          "Billie"
+        ],
+        "reponse": "Billie",
+        "anecdote": "Mit Ella Fitzgerald, Nina Simone, Sarah Vaughan und Amy Winehouse repräsentiert Billie Holiday Vocal Jazz."
+      },
+      {
+        "id": 19,
+        "question": "Wie heißt der größte Turner aller Zeiten ?",
+        "propositions": [
+          "Yelena",
+          "Simona",
+          "Larissa",
+          "Nadia"
+        ],
+        "reponse": "Nadia",
+        "anecdote": "Nadia Comaneci gab eine populäre und mediale Dimension, die in der Gymnastik mit einer perfekten Punktzahl von 10 unerreicht war."
+      },
+      {
+        "id": 20,
+        "question": "Wer repräsentiert das wahre Rätsel von « Tausendundeiner Nacht » ?",
+        "propositions": [
+          "Vernyhora",
+          "Abscheulich",
+          "Sheherazade",
+          "Titania"
+        ],
+        "reponse": "Sheherazade",
+        "anecdote": "Den Kern dieser Geschichten bildet ein altes persisches Buch mit dem Namen « Hezar-afsana » (The Thousand Tales)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wie geht es der ersten Tochter von David Hallyday und Estelle Lefebure ?",
+        "propositions": [
+          "Anna",
+          "Julia",
+          "Ilona",
+          "Emma"
+        ],
+        "reponse": "Ilona",
+        "anecdote": "Am 17. Mai 1995 brachte sie ihre erste Tochter, Ilona, zur Welt, und am 13. September 1997 wurde ihre zweite Tochter, Emma, geboren."
+      },
+      {
+        "id": 22,
+        "question": "Wie heißt eigentlich der TV-Moderator Arthur ?",
+        "propositions": [
+          "Luc",
+          "Pierre",
+          "Jacques",
+          "Marc"
+        ],
+        "reponse": "Jacques",
+        "anecdote": "Jacques Essebag, besser bekannt unter dem Pseudonym Arthur, wurde am 10. März 1966 in Casablanca, Marokko geboren."
+      },
+      {
+        "id": 23,
+        "question": "Wie heißt der französische Kapitän von « Star Trek: NextGen » ?",
+        "propositions": [
+          "Jean-Pierre",
+          "Jean-Luc",
+          "Jean-Charles",
+          "Jean-Marc"
+        ],
+        "reponse": "Jean-Luc",
+        "anecdote": "Ende des achtundzwanzigsten Jahrhunderts gab Picard den Stargazer (2333-2355), den Enterprise-D (2363-2371) und den Enterprise-E (2372-) in Auftrag."
+      },
+      {
+        "id": 24,
+        "question": "Welcher Name wird mit « Madame Bovary » von Gustave Flaubert in Verbindung gebracht ?",
+        "propositions": [
+          "Laura",
+          "Emma",
+          "Diana",
+          "Sarah"
+        ],
+        "reponse": "Emma",
+        "anecdote": "Emma Rouault, Tochter eines reichen Bauern, wuchs in einem Kloster auf und träumte von einem weltlichen Leben wie die Prinzessinnen der Romane."
+      },
+      {
+        "id": 25,
+        "question": "Welcher weibliche Name lässt Sie denken, « Vom Winde verweht ? »",
+        "propositions": [
+          "Babeth",
+          "Elisabeth",
+          "Scarlett",
+          "Bridget"
+        ],
+        "reponse": "Scarlett",
+        "anecdote": "« Vom Winde verweht » ist ein Roman von Margaret Mitchell, der den Wahn von Scarlett O'Hara erzählt."
+      },
+      {
+        "id": 26,
+        "question": "Die vier Töchter von Dr. March sind Amy, Beth, Josephine und...",
+        "propositions": [
+          "Margarett",
+          "Laura",
+          "Barbara",
+          "Nelly"
+        ],
+        "reponse": "Margarett",
+        "anecdote": "« Die vier Mädchen von Dr. March » ist ein Roman der amerikanischen Schriftstellerin Louisa May Alcott, der 1868 veröffentlicht wurde."
+      },
+      {
+        "id": 27,
+        "question": "Wie heißen Vanessa Paradis und Serge Gainsbourg ?",
+        "propositions": [
+          "Johanna",
+          "Elisa",
+          "Barbara",
+          "Cassandra"
+        ],
+        "reponse": "Elisa",
+        "anecdote": "« Élisa » ist ein Lied von Serge Gainsbourg aus dem Jahr 1969 (gemeinsam mit Michel Colombier geschrieben), von dem es zwei verschiedene Versionen gibt."
+      },
+      {
+        "id": 28,
+        "question": "Wer ist Orlando Bloom in « Der Herr der Ringe » ?",
+        "propositions": [
+          "Legolas",
+          "Gimli",
+          "Boromir",
+          "Aragorn"
+        ],
+        "reponse": "Legolas",
+        "anecdote": "Legolas Vertefeuille, der Sohn von Thranduil, dem König der Elfen, wurde 3018 im Dritten Zeitalter im Elrond-Konzil bekannt."
+      },
+      {
+        "id": 29,
+        "question": "Welcher männliche Anführer wird neben Cesar oft mit Marcel Pagnol in Verbindung gebracht ?",
+        "propositions": [
+          "Marius",
+          "Titus",
+          "Janus",
+          "Artus"
+        ],
+        "reponse": "Marius",
+        "anecdote": "Die « Marseille-Trilogie » ist der Oberbegriff für die drei Stücke von Marcel Pagnol, « Marius », « Fanny » und « Cesar »."
+      },
+      {
+        "id": 30,
+        "question": "Welcher große Primatologe hat sich im Gombe-Nationalpark niedergelassen ?",
+        "propositions": [
+          "Sally",
+          "Dina",
+          "Jane",
+          "Ursula"
+        ],
+        "reponse": "Jane",
+        "anecdote": "Jane Goodall hat als erste beobachtet und berichtet, dass Schimpansen Werkzeuge verwenden, um sich selbst zu ernähren."
+      }
+    ]
+    },
+    "es": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "¿Cómo se llama el cantante frances de pop-rock De Palmas ?",
+        "propositions": [
+          "Jeremy",
+          "Gerald",
+          "Gerard",
+          "Jerome"
+        ],
+        "reponse": "Gerald",
+        "anecdote": "Gerald de Palmas eligió por su nombre artístico el de su abuela materna, Roxane de Palmas."
+      },
+      {
+        "id": 2,
+        "question": "¿Cómo se llama el padre del actor canadiense-británico Kiefer Sutherland ?",
+        "propositions": [
+          "Donald",
+          "Plutón",
+          "Mickey",
+          "Popeye"
+        ],
+        "reponse": "Donald",
+        "anecdote": "Donald Sutherland realizó su primer papel en el cine en 1964 en una película de terror italiana, « Il castello dei morti vivi »."
+      },
+      {
+        "id": 3,
+        "question": "¿Que nombre comparten los actores canadienses Gosling y Reynolds ?",
+        "propositions": [
+          "Alan",
+          "Ryan",
+          "Brian",
+          "Evan"
+        ],
+        "reponse": "Ryan",
+        "anecdote": "Desde septiembre de 2011, Ryan Gosling vive con la actriz Eva Mendes, con quien tuvo dos hijas, Esmeralda y Amada."
+      },
+      {
+        "id": 4,
+        "question": "¿Cómo se llama el famoso futbolista portugues Ronaldo ?",
+        "propositions": [
+          "Antonio",
+          "Cristiano",
+          "Benito",
+          "Joao"
+        ],
+        "reponse": "Cristiano",
+        "anecdote": "Considerado uno de los mejores jugadores del mundo, Ronaldo ganó el Balón de Oro en 2008, 2013, 2014, 2016 y 2017."
+      },
+      {
+        "id": 5,
+        "question": "¿Cómo se llama el padre de la familia Simpson, presente en nuestras pantallas desde 1989 ?",
+        "propositions": [
+          "Bart",
+          "Abraham",
+          "Herbert",
+          "Homero"
+        ],
+        "reponse": "Homero",
+        "anecdote": "Homer apareció por primera vez en televisión con su familia en el cortometraje « Good Night », el 19 de abril de 1987."
+      },
+      {
+        "id": 6,
+        "question": "¿Cómo es el orgulloso dueño del camarón Bubba Gump ?",
+        "propositions": [
+          "Winston",
+          "Forrest",
+          "Benjamin",
+          "Dan"
+        ],
+        "reponse": "Forrest",
+        "anecdote": "La historia de Forrest Gump se fusiona con la de los Estados Unidos desde la decada de 1950 hasta la de 1980."
+      },
+      {
+        "id": 7,
+        "question": "¿Que personaje femenino está presente en « Notre-Dame de Paris » ?",
+        "propositions": [
+          "Esmeralda",
+          "Antoniona",
+          "Cassandra",
+          "Samantha"
+        ],
+        "reponse": "Esmeralda",
+        "anecdote": "La bailarina gitana, una niña de 16 años, Esmeralda deambula por las calles de París y hace trucos a su cabra Djali."
+      },
+      {
+        "id": 8,
+        "question": "¿Cómo es el heroe de las películas de la saga « Misión imposible » ?",
+        "propositions": [
+          "Lutero",
+          "Ethan",
+          "Owen",
+          "Jim"
+        ],
+        "reponse": "Ethan",
+        "anecdote": "Ethan Matthew Hunt es el personaje principal de la serie de películas « Misión imposible »."
+      },
+      {
+        "id": 9,
+        "question": "¿Que asesino solitario fue encarnado en la cinematografía por Jean Reno ?",
+        "propositions": [
+          "Simon",
+          "Gaston",
+          "Leon",
+          "Odilon"
+        ],
+        "reponse": "Leon",
+        "anecdote": "Sexto largometraje dirigido por Besson, « Leon » narra la vida de un asesino a sueldo del mismo nombre que vive solo en Nueva York."
+      },
+      {
+        "id": 10,
+        "question": "¿Quien es el compañero de Thelma en una película de Ridley Scott ?",
+        "propositions": [
+          "Bethy",
+          "Louise",
+          "Geena",
+          "Susan"
+        ],
+        "reponse": "Louise",
+        "anecdote": "« Thelma and Louise » es una película estadounidense realizada por Ridley Scott en 1991 que recibió el Oscar al mejor guión."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "¿Cómo se llamaba Vivaldi, compositor de genios de la epoca barroca ?",
+        "propositions": [
+          "Lissandro",
+          "Rodrigo",
+          "Antonio",
+          "Amerigo"
+        ],
+        "reponse": "Antonio",
+        "anecdote": "Los cuatro conciertos conocidos como « The Four Seasons » se encuentran entre los más populares en el repertorio clásico."
+      },
+      {
+        "id": 12,
+        "question": "¿Cómo se llamaba Mussolini, un estadista italiano que murió en 1945 ?",
+        "propositions": [
+          "Antonio",
+          "Hidalgo",
+          "Sergio",
+          "Benito"
+        ],
+        "reponse": "Benito",
+        "anecdote": "Musolini se conoce comúnmente como Duce, una palabra italiana derivada del latín Dux que significa Chef o Guía."
+      },
+      {
+        "id": 13,
+        "question": "¿Que heroes del cine, creados por un inventor, tienen manos plateadas ?",
+        "propositions": [
+          "Edward",
+          "Robert",
+          "Kevin",
+          "Dylan"
+        ],
+        "reponse": "Edward",
+        "anecdote": "El proyecto se acelerará enormemente luego del exito comercial obtenido por « Batman » (1989), la película anterior de Tim Burton."
+      },
+      {
+        "id": 14,
+        "question": "¿Que serie de televisión de secundaria ha luchado durante mucho tiempo contra los vampiros ?",
+        "propositions": [
+          "Tara",
+          "Joyce",
+          "Ángel",
+          "Buffy"
+        ],
+        "reponse": "Buffy",
+        "anecdote": "Figura central de la serie, el principal factor de popularidad del personaje, Buffy Summers es un vampiro asesino de colegiala."
+      },
+      {
+        "id": 15,
+        "question": "¿Quien encarna la magia en la serie de televisión « La casita en el prado » ?",
+        "propositions": [
+          "Marie",
+          "Stella",
+          "Nellie",
+          "Laura"
+        ],
+        "reponse": "Nellie",
+        "anecdote": "Ella es retratada en la serie por la actriz estadounidense Alison Arngrim, quien asumirá este papel en un programa humorístico."
+      },
+      {
+        "id": 16,
+        "question": "¿Quien era la pequeña niña de la montaña de nuestra infancia ?",
+        "propositions": [
+          "Heidi",
+          "Cosby",
+          "Dulces",
+          "Maguy"
+        ],
+        "reponse": "Heidi",
+        "anecdote": "Un pueblo llamado Hokuto, a dos horas de Tokio, reproduce el marco y la arquitectura, versión suiza, de Heidi."
+      },
+      {
+        "id": 17,
+        "question": "¿Cómo es la bella morena en la saga de ciencia ficción « Matrix » ?",
+        "propositions": [
+          "Clara",
+          "Trinity",
+          "Riddick",
+          "Billie"
+        ],
+        "reponse": "Trinity",
+        "anecdote": "Carrie-Anne Moss encarna a este hacker que usa el seudónimo Trinity (Trinity), que no es su nombre real."
+      },
+      {
+        "id": 18,
+        "question": "¿Que cantante apodado Lady Day representa el jazz estadounidense ?",
+        "propositions": [
+          "Nina",
+          "Sarah",
+          "Billie",
+          "Ella"
+        ],
+        "reponse": "Billie",
+        "anecdote": "Con Ella Fitzgerald, Nina Simone, Sarah Vaughan y Amy Winehouse, Billie Holiday representa el jazz vocal."
+      },
+      {
+        "id": 19,
+        "question": "¿Cuál es el nombre de la mejor gimnasta de todos los tiempos ?",
+        "propositions": [
+          "Nadia",
+          "Yelena",
+          "Simona",
+          "Larisa"
+        ],
+        "reponse": "Nadia",
+        "anecdote": "Nadia Comaneci dio una dimensión popular y mediática sin igual en gimnasia, con una puntuación perfecta de 10."
+      },
+      {
+        "id": 20,
+        "question": "¿Quien representa el verdadero enigma de « Tales of Thousand and One Nights » ?",
+        "propositions": [
+          "Titania",
+          "Scheherezade",
+          "Asquerosamente",
+          "Vernyhora"
+        ],
+        "reponse": "Scheherezade",
+        "anecdote": "El núcleo de estas historias está formado por un antiguo libro persa llamado « Hezar-afsana » (The Thousand Tales)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Cómo es la primera hija de David Hallyday y Estelle Lefebure ?",
+        "propositions": [
+          "Emma",
+          "Anna",
+          "Ilona",
+          "Julia"
+        ],
+        "reponse": "Ilona",
+        "anecdote": "El 17 de mayo de 1995, dio a luz a su primera hija, Ilona, y el 13 de septiembre de 1997 nació su segunda hija, Emma."
+      },
+      {
+        "id": 22,
+        "question": "¿Cuál es el verdadero nombre del presentador de televisión Arthur ?",
+        "propositions": [
+          "Luc",
+          "Pierre",
+          "Marc",
+          "Jacques"
+        ],
+        "reponse": "Jacques",
+        "anecdote": "Jacques Essebag, más conocido bajo el seudónimo Arthur, nació el 10 de marzo de 1966 en Casablanca, Marruecos."
+      },
+      {
+        "id": 23,
+        "question": "¿Cuál es el nombre del capitán frances de « Star trek: NextGen » ?",
+        "propositions": [
+          "Jean-Luc",
+          "Jean-Marc",
+          "Jean-Charles",
+          "Jean-Pierre"
+        ],
+        "reponse": "Jean-Luc",
+        "anecdote": "Picard encargó el Stargazer (2333-2355), el Enterprise-D (2363-2371) y el Enterprise-E (2372-) a fines del siglo XXI."
+      },
+      {
+        "id": 24,
+        "question": "¿Que nombre está asociado con « Madame Bovary » por Gustave Flaubert ?",
+        "propositions": [
+          "Laura",
+          "Sarah",
+          "Diana",
+          "Emma"
+        ],
+        "reponse": "Emma",
+        "anecdote": "Emma Rouault, hija de un granjero rico, se crió en un convento y soñó con una vida mundana como las princesas de las novelas."
+      },
+      {
+        "id": 25,
+        "question": "¿Que nombre femenino te hace pensar « Ido con el viento ? »",
+        "propositions": [
+          "Elisabeth",
+          "Bridget",
+          "Scarlett",
+          "Babeth"
+        ],
+        "reponse": "Scarlett",
+        "anecdote": "« Gone With The Wind » es una novela escrita por Margaret Mitchell que narra la ilusión de Scarlett O'Hara."
+      },
+      {
+        "id": 26,
+        "question": "Las cuatro hijas del Dr. March son Amy, Beth, Josephine y...",
+        "propositions": [
+          "Margarett",
+          "Laura",
+          "Barbara",
+          "Nelly"
+        ],
+        "reponse": "Margarett",
+        "anecdote": "« Las cuatro chicas del Dr. March » es una novela de la escritora estadounidense Louisa May Alcott, publicada en 1868."
+      },
+      {
+        "id": 27,
+        "question": "¿Cómo se llaman Vanessa Paradis y Serge Gainsbourg ?",
+        "propositions": [
+          "Elisa",
+          "Cassandra",
+          "Johanna",
+          "Barbara"
+        ],
+        "reponse": "Elisa",
+        "anecdote": "« Élisa » es una canción de Serge Gainsbourg de 1969 (coescrita con Michel Colombier) de la que hay dos versiones distintas."
+      },
+      {
+        "id": 28,
+        "question": "¿Quien es Orlando Bloom en « El señor de los anillos » ?",
+        "propositions": [
+          "Legolas",
+          "Boromir",
+          "Gimli",
+          "Aragorn"
+        ],
+        "reponse": "Legolas",
+        "anecdote": "Hijo de Thranduil, el Rey de los Elfos, Legolas Vertefeuille se hizo conocido en el Consejo de Elrond en 3018 de la Tercera Edad."
+      },
+      {
+        "id": 29,
+        "question": "Además de Cesar, ¿que líder masculino a menudo se asocia con Marcel Pagnol ?",
+        "propositions": [
+          "Titus",
+          "Janus",
+          "Artus",
+          "Marius"
+        ],
+        "reponse": "Marius",
+        "anecdote": "La « Marsella Trilogía » es el nombre generico dado a las tres jugadas de Marcel Pagnol, « Marius », « Fanny » y « Cesar »."
+      },
+      {
+        "id": 30,
+        "question": "¿Que gran primatólogo se instaló en el Parque Nacional de Gombe ?",
+        "propositions": [
+          "Úrsula",
+          "Sally",
+          "Dina",
+          "Jane"
+        ],
+        "reponse": "Jane",
+        "anecdote": "Jane Goodall es la primera en observar e informar que los chimpances usan herramientas para alimentarse."
+      }
+    ]
+    },
+    "it": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Qual e il nome del cantante pop-rock francese De Palmas ?",
+        "propositions": [
+          "Gerald",
+          "Jerome",
+          "Jeremy",
+          "Gerard"
+        ],
+        "reponse": "Gerald",
+        "anecdote": "Gerald de Palmas scelse per il suo nome d'arte quello di sua nonna materna, Roxane de Palmas."
+      },
+      {
+        "id": 2,
+        "question": "Qual e il nome del padre dell'attore canadese-britannico Kiefer Sutherland ?",
+        "propositions": [
+          "Paperino",
+          "Topolino",
+          "Plutone",
+          "Popeye"
+        ],
+        "reponse": "Paperino",
+        "anecdote": "Donald Sutherland ha interpretato il suo primo ruolo cinematografico nel 1964 in un film horror italiano, « Il castello dei morti vivi »."
+      },
+      {
+        "id": 3,
+        "question": "Che nome condividono gli attori canadesi Gosling e Reynolds ?",
+        "propositions": [
+          "Alan",
+          "Evan",
+          "Ryan",
+          "Brian"
+        ],
+        "reponse": "Ryan",
+        "anecdote": "Dal settembre 2011, Ryan Gosling vive con l'attrice Eva Mendes, con la quale ha avuto due figlie, Esmeralda e Amada."
+      },
+      {
+        "id": 4,
+        "question": "Qual e il nome del famoso calciatore portoghese Ronaldo ?",
+        "propositions": [
+          "Cristiano",
+          "Benito",
+          "Antonio",
+          "Joao"
+        ],
+        "reponse": "Cristiano",
+        "anecdote": "Considerato uno dei migliori giocatori al mondo, Ronaldo ha vinto il Pallone d'oro nel 2008, 2013, 2014, 2016 e 2017."
+      },
+      {
+        "id": 5,
+        "question": "Qual e il nome del padre della famiglia Simpson, presente sui nostri schermi dal 1989 ?",
+        "propositions": [
+          "Abramo",
+          "Herbert",
+          "Omero",
+          "Bart"
+        ],
+        "reponse": "Omero",
+        "anecdote": "Homer e apparso per la prima volta in televisione con la sua famiglia nel cortometraggio « Good Night », il 19 aprile 1987."
+      },
+      {
+        "id": 6,
+        "question": "In che modo l'orgoglioso proprietario del gambero Bubba Gump ?",
+        "propositions": [
+          "Winston",
+          "Dan",
+          "Benjamin",
+          "Forrest"
+        ],
+        "reponse": "Forrest",
+        "anecdote": "La storia di Forrest Gump si fonde con quella degli Stati Uniti dagli anni '50 agli anni '80."
+      },
+      {
+        "id": 7,
+        "question": "Quale personaggio femminile e presente in « Notre-Dame de Paris » ?",
+        "propositions": [
+          "Samantha",
+          "Antoniona",
+          "Cassandra",
+          "Esmeralda"
+        ],
+        "reponse": "Esmeralda",
+        "anecdote": "Danzatrice zingara, una ragazza di 16 anni, Esmeralda si aggira per le strade di Parigi e fa brutti scherzi alla sua capra Djali."
+      },
+      {
+        "id": 8,
+        "question": "Come sta l'eroe dei film della saga « Mission Impossible » ?",
+        "propositions": [
+          "Owen",
+          "Ethan",
+          "Lutero",
+          "Jim"
+        ],
+        "reponse": "Ethan",
+        "anecdote": "Ethan Matthew Hunt e il personaggio principale della serie di film « Mission Impossible »."
+      },
+      {
+        "id": 9,
+        "question": "Quale assassino solitario e stato incarnato nella cinematografia di Jean Reno ?",
+        "propositions": [
+          "Leon",
+          "Simon",
+          "Gaston",
+          "Odilon"
+        ],
+        "reponse": "Leon",
+        "anecdote": "Il sesto film diretto da Besson, « Leon » ripercorre la vita di un omicida assunto con lo stesso nome, che vive da solo a New York."
+      },
+      {
+        "id": 10,
+        "question": "Chi e il compagno di Thelma in un film di Ridley Scott ?",
+        "propositions": [
+          "Louise",
+          "Susan",
+          "Bethy",
+          "Geena"
+        ],
+        "reponse": "Louise",
+        "anecdote": "« Thelma e Louise » e un film americano realizzato da Ridley Scott nel 1991 che ha ricevuto l'Oscar per la migliore sceneggiatura."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Come si chiamava Vivaldi, compositore del genio del periodo barocco ?",
+        "propositions": [
+          "Rodrigo",
+          "Antonio",
+          "Lissandro",
+          "Amerigo"
+        ],
+        "reponse": "Antonio",
+        "anecdote": "I quattro concerti conosciuti come « The Four Seasons » sono tra i piu popolari nel repertorio classico."
+      },
+      {
+        "id": 12,
+        "question": "Come si chiamava Mussolini, uno statista italiano morto nel 1945 ?",
+        "propositions": [
+          "Sergio",
+          "Antonio",
+          "Hidalgo",
+          "Benito"
+        ],
+        "reponse": "Benito",
+        "anecdote": "Musolini e comunemente indicato come Duce, una parola italiana derivata dal Dux latino che significa Chef o Guida."
+      },
+      {
+        "id": 13,
+        "question": "Quali eroi cinematografici, creati da un inventore, hanno le mani d'argento ?",
+        "propositions": [
+          "Robert",
+          "Dylan",
+          "Kevin",
+          "Edward"
+        ],
+        "reponse": "Edward",
+        "anecdote": "Il progetto sarà notevolmente accelerato in seguito al successo commerciale ottenuto da « Batman » (1989), film precedente di Tim Burton."
+      },
+      {
+        "id": 14,
+        "question": "Quale serial televisivo del liceo ha combattuto a lungo contro i vampiri ?",
+        "propositions": [
+          "Tara",
+          "Joyce",
+          "Buffy",
+          "Angelo"
+        ],
+        "reponse": "Buffy",
+        "anecdote": "Figura centrale della serie, il principale fattore di popolarità del personaggio, Buffy Summers e una studentessa che uccide i vampiri."
+      },
+      {
+        "id": 15,
+        "question": "Chi incarna la magia nella serie TV « La casetta nel prato » ?",
+        "propositions": [
+          "Nellie",
+          "Marie",
+          "Stella",
+          "Laura"
+        ],
+        "reponse": "Nellie",
+        "anecdote": "È interpretata nella serie dall'attrice americana Alison Arngrim, che assumerà questo ruolo in uno spettacolo umoristico."
+      },
+      {
+        "id": 16,
+        "question": "Chi era la bambina di montagna della nostra infanzia ?",
+        "propositions": [
+          "Cosby",
+          "Maguy",
+          "Candy",
+          "Heidi"
+        ],
+        "reponse": "Heidi",
+        "anecdote": "Un villaggio chiamato Hokuto, a due ore da Tokyo, riproduce la cornice e l'architettura, versione svizzera, di Heidi."
+      },
+      {
+        "id": 17,
+        "question": "Come sta la bella mora della saga di fantascienza « Matrix » ?",
+        "propositions": [
+          "Trinity",
+          "Riddick",
+          "Billie",
+          "Clara"
+        ],
+        "reponse": "Trinity",
+        "anecdote": "Questo hacker che usa lo pseudonimo di Trinity (Trinity), che non e il suo vero nome, e incarnato da Carrie-Anne Moss."
+      },
+      {
+        "id": 18,
+        "question": "Quale cantante soprannominato Lady Day rappresenta il jazz americano ?",
+        "propositions": [
+          "Ella",
+          "Nina",
+          "Billie",
+          "Sarah"
+        ],
+        "reponse": "Billie",
+        "anecdote": "Con Ella Fitzgerald, Nina Simone, Sarah Vaughan e Amy Winehouse, Billie Holiday rappresenta il jazz vocale."
+      },
+      {
+        "id": 19,
+        "question": "Qual e il nome della piu grande ginnasta di tutti i tempi ?",
+        "propositions": [
+          "Simona",
+          "Yelena",
+          "Larissa",
+          "Nadia"
+        ],
+        "reponse": "Nadia",
+        "anecdote": "Nadia Comaneci ha dato una dimensione popolare e mediatica senza eguali in ginnastica, con un punteggio perfetto di 10."
+      },
+      {
+        "id": 20,
+        "question": "Chi rappresenta il vero enigma di « Tales of Thousand and One Nights » ?",
+        "propositions": [
+          "Titania",
+          "Vernyhora",
+          "Sheherazade",
+          "Detestabilmente"
+        ],
+        "reponse": "Sheherazade",
+        "anecdote": "Il nucleo di queste storie e formato da un antico libro persiano chiamato « Hezar-afsana » (The Thousand Tales)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Come sta la prima figlia di David Hallyday e Estelle Lefebure ?",
+        "propositions": [
+          "Ilona",
+          "Anna",
+          "Julia",
+          "Emma"
+        ],
+        "reponse": "Ilona",
+        "anecdote": "Il 17 maggio 1995, ha dato alla luce la sua prima figlia, Ilona, e il 13 settembre 1997 e nata la sua seconda figlia, Emma."
+      },
+      {
+        "id": 22,
+        "question": "Qual e il vero nome del conduttore televisivo Arthur ?",
+        "propositions": [
+          "Pierre",
+          "Marc",
+          "Jacques",
+          "Luc"
+        ],
+        "reponse": "Jacques",
+        "anecdote": "Jacques Essebag, meglio conosciuto con lo pseudonimo di Arthur, e nato il 10 marzo 1966 a Casablanca, in Marocco."
+      },
+      {
+        "id": 23,
+        "question": "Qual e il nome del capitano francese di « Star trek: NextGen » ?",
+        "propositions": [
+          "Jean-Pierre",
+          "Jean-Marc",
+          "Jean-Luc",
+          "Jean-Charles"
+        ],
+        "reponse": "Jean-Luc",
+        "anecdote": "Picard commissionò lo Stargazer (2333-2355), l'Enterprise-D (2363-2371) e l'Enterprise-E (2372-) alla fine del ventottesimo secolo."
+      },
+      {
+        "id": 24,
+        "question": "Quale nome e associato con « Madame Bovary » di Gustave Flaubert ?",
+        "propositions": [
+          "Emma",
+          "Sarah",
+          "Laura",
+          "Diana"
+        ],
+        "reponse": "Emma",
+        "anecdote": "Emma Rouault, figlia di un ricco contadino, e cresciuta in un convento e sognava una vita mondana come le principesse dei romanzi."
+      },
+      {
+        "id": 25,
+        "question": "Quale nome femminile ti fa pensare « Andato con il vento ? »",
+        "propositions": [
+          "Babeth",
+          "Elisabeth",
+          "Scarlett",
+          "Bridget"
+        ],
+        "reponse": "Scarlett",
+        "anecdote": "« Gone With The Wind » e un romanzo scritto da Margaret Mitchell che narra dell'illusione di Scarlett O'Hara."
+      },
+      {
+        "id": 26,
+        "question": "Le quattro figlie della dottoressa March sono Amy, Beth, Josephine e...",
+        "propositions": [
+          "Nelly",
+          "Laura",
+          "Barbara",
+          "Margarett"
+        ],
+        "reponse": "Margarett",
+        "anecdote": "« The Four Girls of Dr. March » e un romanzo della scrittrice americana Louisa May Alcott, pubblicato nel 1868."
+      },
+      {
+        "id": 27,
+        "question": "Qual e il nome di Vanessa Paradis e Serge Gainsbourg ?",
+        "propositions": [
+          "Barbara",
+          "Elisa",
+          "Cassandra",
+          "Johanna"
+        ],
+        "reponse": "Elisa",
+        "anecdote": "« Élisa » e una canzone di Serge Gainsbourg del 1969 (co-scritta con Michel Colombier) di cui esistono due versioni distinte."
+      },
+      {
+        "id": 28,
+        "question": "Chi e Orlando Bloom in « Il Signore degli Anelli » ?",
+        "propositions": [
+          "Legolas",
+          "Aragorn",
+          "Boromir",
+          "Gimli"
+        ],
+        "reponse": "Legolas",
+        "anecdote": "Figlio di Thranduil, re degli Elfi, Legolas Vertefeuille divenne noto al Consiglio Elrond nel 3018 della Terza Era."
+      },
+      {
+        "id": 29,
+        "question": "Oltre a Cesare, quale leader maschile e spesso associato a Marcel Pagnol ?",
+        "propositions": [
+          "Marius",
+          "Artus",
+          "Janus",
+          "Tito"
+        ],
+        "reponse": "Marius",
+        "anecdote": "La « Marsiglia Trilogia » e il nome generico dato alle tre opere di Marcel Pagnol, « Marius »,« Fann » e « Cesar »."
+      },
+      {
+        "id": 30,
+        "question": "Quale grande primatologo si stabilì nel Gombe National Park ?",
+        "propositions": [
+          "Jane",
+          "Ursula",
+          "Dina",
+          "Sally"
+        ],
+        "reponse": "Jane",
+        "anecdote": "Jane Goodall e la prima ad aver osservato e riferito che gli scimpanze usano gli strumenti per nutrirsi."
+      }
+    ]
+    },
+    "nl": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Wat is de naam van de Franse pop-rockzanger De Palmas ?",
+        "propositions": [
+          "Jeremy",
+          "Gerard",
+          "Gerald",
+          "Jerome"
+        ],
+        "reponse": "Gerald",
+        "anecdote": "Gerald de Palmas koos voor zijn artiestennaam die van zijn grootmoeder, Roxane de Palmas."
+      },
+      {
+        "id": 2,
+        "question": "Wat is de naam van de vader van de Canadees-Britse acteur Kiefer Sutherland ?",
+        "propositions": [
+          "Mickey",
+          "Popeye",
+          "Pluto",
+          "Donald"
+        ],
+        "reponse": "Donald",
+        "anecdote": "Donald Sutherland speelde zijn eerste filmrol in 1964 in een Italiaanse horrorfilm, « Il castello dei morti vivi »."
+      },
+      {
+        "id": 3,
+        "question": "Welke naam delen de Canadese acteurs Gosling en Reynolds ?",
+        "propositions": [
+          "Alan",
+          "Ryan",
+          "Evan",
+          "Brian"
+        ],
+        "reponse": "Ryan",
+        "anecdote": "Sinds september 2011 woont Ryan Gosling bij actrice Eva Mendes, met wie hij twee dochters had, Esmeralda en Amada."
+      },
+      {
+        "id": 4,
+        "question": "Wat is de naam van de beroemde Portugese voetballer Ronaldo ?",
+        "propositions": [
+          "Antonio",
+          "Benito",
+          "Cristiano",
+          "Joao"
+        ],
+        "reponse": "Cristiano",
+        "anecdote": "Ronaldo werd beschouwd als een van de beste spelers ter wereld en won de Golden Ball in 2008, 2013, 2014, 2016 en 2017."
+      },
+      {
+        "id": 5,
+        "question": "Wat is de naam van de vader van de Simpson-familie, die sinds 1989 op onze schermen aanwezig is ?",
+        "propositions": [
+          "Herbert",
+          "Homer",
+          "Bart",
+          "Abraham"
+        ],
+        "reponse": "Homer",
+        "anecdote": "Homer verscheen voor het eerst op televisie met zijn gezin in de korte film « Good Night », op 19 april 1987."
+      },
+      {
+        "id": 6,
+        "question": "Hoe is de trotse eigenaar van Bubba Gump garnalen ?",
+        "propositions": [
+          "Forrest",
+          "Winston",
+          "Dan",
+          "Benjamin"
+        ],
+        "reponse": "Forrest",
+        "anecdote": "Het verhaal van Forrest Gump fuseert met dat van de Verenigde Staten van de jaren 1950 tot de jaren 1980."
+      },
+      {
+        "id": 7,
+        "question": "Welk vrouwelijk personage is aanwezig in « Notre-Dame de Paris » ?",
+        "propositions": [
+          "Esmeralda",
+          "Antoniona",
+          "Cassandra",
+          "Samantha"
+        ],
+        "reponse": "Esmeralda",
+        "anecdote": "Zigeunerdanseres, een 16-jarig meisje, dwaalt door de straten van Parijs en voert trucjes uit met haar geit Djali."
+      },
+      {
+        "id": 8,
+        "question": "Hoe is de held van de films van de saga « Mission Impossible » ?",
+        "propositions": [
+          "Luther",
+          "Owen",
+          "Ethan",
+          "Jim"
+        ],
+        "reponse": "Ethan",
+        "anecdote": "Ethan Matthew Hunt is de hoofdpersoon in de reeks films « Mission Impossible »."
+      },
+      {
+        "id": 9,
+        "question": "Welke eenzame moordenaar werd door Jean Reno belichaamd in de cinematografie ?",
+        "propositions": [
+          "Simon",
+          "Odilon",
+          "Leon",
+          "Gaston"
+        ],
+        "reponse": "Leon",
+        "anecdote": "Zesde speelfilm geregisseerd door Besson, « Leon » traceert het leven van een gehuurde moordenaar met dezelfde naam, die alleen in New York woont."
+      },
+      {
+        "id": 10,
+        "question": "Wie is Thelma's metgezel in een Ridley Scott-film ?",
+        "propositions": [
+          "Bethy",
+          "Geena",
+          "Susan",
+          "Louise"
+        ],
+        "reponse": "Louise",
+        "anecdote": "« Thelma en Louise » is een Amerikaanse film gemaakt door Ridley Scott in 1991 die de Oscar voor beste scenario ontving."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Wat was de naam van Vivaldi, componist van het genie van de barokperiode ?",
+        "propositions": [
+          "Amerigo",
+          "Antonio",
+          "Rodrigo",
+          "Lissandro"
+        ],
+        "reponse": "Antonio",
+        "anecdote": "De vier concerten die bekend staan « De vier seizoenen » behoren tot de meest populaire in het klassieke repertoire."
+      },
+      {
+        "id": 12,
+        "question": "Wat was de naam van Mussolini, een Italiaanse staatsman die stierf in 1945 ?",
+        "propositions": [
+          "Sergio",
+          "Benito",
+          "Antonio",
+          "Hidalgo"
+        ],
+        "reponse": "Benito",
+        "anecdote": "Musolini wordt meestal Duce genoemd, een Italiaans woord dat is afgeleid van het Latijnse Dux en dat chef-kok of gids betekent."
+      },
+      {
+        "id": 13,
+        "question": "Welke filmhelden, gemaakt door een uitvinder, hebben zilveren handen ?",
+        "propositions": [
+          "Kevin",
+          "Robert",
+          "Edward",
+          "Dylan"
+        ],
+        "reponse": "Edward",
+        "anecdote": "Het project zal sterk worden versneld na het commerciale succes van « Batman » (1989), de vorige film van Tim Burton."
+      },
+      {
+        "id": 14,
+        "question": "Welke tv-serie op de middelbare school heeft lang gevochten tegen vampieren ?",
+        "propositions": [
+          "Tara",
+          "Joyce",
+          "Engel",
+          "Buffy"
+        ],
+        "reponse": "Buffy",
+        "anecdote": "Centraal figuur van de serie, de belangrijkste factor van populariteit van het personage, Buffy Summers is een vampier voor schoolmeisjes."
+      },
+      {
+        "id": 15,
+        "question": "Wie belichaamt de magie in de tv-serie « Het kleine huis in de wei » ?",
+        "propositions": [
+          "Marie",
+          "Stella",
+          "Laura",
+          "Nellie"
+        ],
+        "reponse": "Nellie",
+        "anecdote": "Ze wordt gespeeld in de serie door de Amerikaanse actrice Alison Arngrim, die deze rol in een humoristische show overneemt."
+      },
+      {
+        "id": 16,
+        "question": "Wie was het kleine bergmeisje van onze jeugd ?",
+        "propositions": [
+          "Cosby",
+          "Snoep",
+          "Heidi",
+          "Maguy"
+        ],
+        "reponse": "Heidi",
+        "anecdote": "Een dorp genaamd Hokuto, twee uur van Tokio, reproduceert het frame en de architectuur, Zwitserse versie, van Heidi."
+      },
+      {
+        "id": 17,
+        "question": "Hoe is de mooie brunette in het verhaal van science fiction « Matrix » ?",
+        "propositions": [
+          "Clara",
+          "Trinity",
+          "Billie",
+          "Riddick"
+        ],
+        "reponse": "Trinity",
+        "anecdote": "Deze hacker die het pseudoniem Trinity (Trinity) gebruikt, wat niet haar echte naam is, wordt belichaamd door Carrie-Anne Moss."
+      },
+      {
+        "id": 18,
+        "question": "Welke zanger met de bijnaam Lady Day vertegenwoordigt de Amerikaanse jazz ?",
+        "propositions": [
+          "Nina",
+          "Ella",
+          "Billie",
+          "Sarah"
+        ],
+        "reponse": "Billie",
+        "anecdote": "Met Ella Fitzgerald, Nina Simone, Sarah Vaughan en Amy Winehouse vertegenwoordigt Billie Holiday vocale jazz."
+      },
+      {
+        "id": 19,
+        "question": "Wat is de naam van de grootste turner aller tijden ?",
+        "propositions": [
+          "Simona",
+          "Larissa",
+          "Yelena",
+          "Nadia"
+        ],
+        "reponse": "Nadia",
+        "anecdote": "Nadia Comaneci gaf een populaire en medische dimensie ongeavenaard in gymnastiek, met een perfecte score van 10."
+      },
+      {
+        "id": 20,
+        "question": "Wie vertegenwoordigt het ware enigma van « Tales of Thousand and One Nights » ?",
+        "propositions": [
+          "Sjeherazade",
+          "Titania",
+          "Lelijk",
+          "Vernyhora"
+        ],
+        "reponse": "Sjeherazade",
+        "anecdote": "De kern van deze verhalen wordt gevormd door een oud Perzisch boek met de naam « Hezar-afsana » (The Thousand Tales)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Hoe is het met de eerste dochter van David Hallyday en Estelle Lefebure ?",
+        "propositions": [
+          "Julia",
+          "Ilona",
+          "Anna",
+          "Emma"
+        ],
+        "reponse": "Ilona",
+        "anecdote": "Op 17 mei 1995 beviel ze van haar eerste dochter, Ilona, en op 13 september 1997 werd haar tweede dochter, Emma, geboren."
+      },
+      {
+        "id": 22,
+        "question": "Wat is de echte naam van de tv-presentator Arthur ?",
+        "propositions": [
+          "Marc",
+          "Pierre",
+          "Jacques",
+          "Luc"
+        ],
+        "reponse": "Jacques",
+        "anecdote": "Jacques Essebag, beter bekend onder het pseudoniem Arthur, werd geboren op 10 maart 1966 in Casablanca, Marokko."
+      },
+      {
+        "id": 23,
+        "question": "Wat is de naam van de Franse kapitein van « Star trek: NextGen » ?",
+        "propositions": [
+          "Jean-Luc",
+          "Jean-Pierre",
+          "Jean-Marc",
+          "Jean-Charles"
+        ],
+        "reponse": "Jean-Luc",
+        "anecdote": "Picard heeft aan het einde van de achtentwintigste eeuw de Stargazer (2333-2355), de Enterprise-D (2363-2371) en de Enterprise-E (2372-) in gebruik genomen."
+      },
+      {
+        "id": 24,
+        "question": "Welke naam wordt geassocieerd met « Madame Bovary » door Gustave Flaubert ?",
+        "propositions": [
+          "Laura",
+          "Sarah",
+          "Diana",
+          "Emma"
+        ],
+        "reponse": "Emma",
+        "anecdote": "Emma Rouault, dochter van een rijke boer, groeide op in een klooster en droomde van een werelds leven zoals de prinsessen van de romans."
+      },
+      {
+        "id": 25,
+        "question": "Welke vrouwelijke naam doet je denken « Gegaan met de wind ? »",
+        "propositions": [
+          "Bridget",
+          "Elisabeth",
+          "Scarlett",
+          "Babeth"
+        ],
+        "reponse": "Scarlett",
+        "anecdote": "« Gone With The Wind » is een roman geschreven door Margaret Mitchell en vertelt de waan van Scarlett O'Hara."
+      },
+      {
+        "id": 26,
+        "question": "De vier dochters van Dr. March zijn Amy, Beth, Josephine en...",
+        "propositions": [
+          "Laura",
+          "Barbara",
+          "Nelly",
+          "Margarett"
+        ],
+        "reponse": "Margarett",
+        "anecdote": "« The Four Girls of Dr. March » is een roman van de Amerikaanse schrijver Louisa May Alcott, gepubliceerd in 1868."
+      },
+      {
+        "id": 27,
+        "question": "Wat is de naam van Vanessa Paradis en Serge Gainsbourg ?",
+        "propositions": [
+          "Johanna",
+          "Barbara",
+          "Cassandra",
+          "Elisa"
+        ],
+        "reponse": "Elisa",
+        "anecdote": "« Élisa » is een lied van Serge Gainsbourg uit 1969 (mede geschreven met Michel Colombier) waarvan er twee verschillende versies zijn."
+      },
+      {
+        "id": 28,
+        "question": "Wie is Orlando Bloom in « The Lord of the Rings » ?",
+        "propositions": [
+          "Legolas",
+          "Aragorn",
+          "Boromir",
+          "Gimli"
+        ],
+        "reponse": "Legolas",
+        "anecdote": "Zoon van Thranduil, de koning van de elfen, Legolas Vertefeuille werd bekend in de Elrond Council in 3018 van het derde tijdperk."
+      },
+      {
+        "id": 29,
+        "question": "Welke mannelijke leider wordt naast Cesar vaak geassocieerd met Marcel Pagnol ?",
+        "propositions": [
+          "Artus",
+          "Janus",
+          "Titus",
+          "Marius"
+        ],
+        "reponse": "Marius",
+        "anecdote": "De « Marseille-trilogie » is de generieke naam die wordt gegeven aan de drie toneelstukken van Marcel Pagnol, « Marius », « Fanny » en « Cesar »."
+      },
+      {
+        "id": 30,
+        "question": "Welke grote primatoloog vestigde zich in Gombe National Park ?",
+        "propositions": [
+          "Jane",
+          "Dina",
+          "Ursula",
+          "Sally"
+        ],
+        "reponse": "Jane",
+        "anecdote": "Jane Goodall is de eerste die heeft opgemerkt en gemeld dat chimpansees gereedschap gebruiken om zichzelf te voeden."
+      }
+    ]
+    }
+  }
+}

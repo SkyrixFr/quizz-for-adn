@@ -1,0 +1,2249 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "4 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Celebrites",
+      "nom": "Mike Horn",
+      "slogan": "Aventurier de l'extreme"
+    },
+    "en": {
+      "categorie": "Celebrities",
+      "nom": "Mike Horn",
+      "slogan": "Extreme Adventurer"
+    },
+    "es": {
+      "categorie": "Famosos",
+      "nom": "Mike cuerno",
+      "slogan": "Aventurero extremo"
+    },
+    "it": {
+      "categorie": "Celebrità",
+      "nom": "Mike Corno",
+      "slogan": "Avventuriero estremo"
+    },
+    "de": {
+      "categorie": "Prominente",
+      "nom": "Mike Horn",
+      "slogan": "Extremer Abenteurer"
+    },
+    "nl": {
+      "categorie": "Beroemdheden",
+      "nom": "Mike Hoorn",
+      "slogan": "Extreme avonturier"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Dans quelle emission Mike Horn a-t-il accompagne une celebrite en pleine nature ?",
+        "propositions": [
+          "Nouvelle Star",
+          "Pekin Express",
+          "À l'etat sauvage",
+          "X Factor"
+        ],
+        "reponse": "À l'etat sauvage",
+        "anecdote": "Il s'agit de l'adaptation francaise de l'emission americaine « Running Wild with Bear Grylls », diffusee sur NBC depuis 2014."
+      },
+      {
+        "id": 2,
+        "question": "Comment se prenommait la femme de Mike Horn, rencontree en 1990 ?",
+        "propositions": [
+          "Sophie",
+          "Cathy",
+          "Marie",
+          "Sandra"
+        ],
+        "reponse": "Cathy",
+        "anecdote": "Originaire de Nouvelle-Zelande, infirmiere de formation, Cathy a rencontre son futur epoux dans un cafe de Chateau-d'Oex, en 1990."
+      },
+      {
+        "id": 3,
+        "question": "Quel nom Mike Horn a-t-il donne à son tour du monde par l'equateur ?",
+        "propositions": [
+          "Ground Zero",
+          "Cap Zero",
+          "Latitude Zero",
+          "Land Zero"
+        ],
+        "reponse": "Latitude Zero",
+        "anecdote": "Sur une idee de Mick Regnier, Mike Horn va parcourir plus de 40 000 km de juin 1999 à octobre 2000 sans moyen de transport motorise."
+      },
+      {
+        "id": 4,
+        "question": "Dans quelle expedition Mike Horn a-t-il fait le tour du monde par le cercle polaire ?",
+        "propositions": [
+          "Free to Run",
+          "Taris",
+          "Fabuloso",
+          "Arktos"
+        ],
+        "reponse": "Arktos",
+        "anecdote": "Lors d'une expedition preliminaire pour atteindre le pôle Nord, Mike Horn fut contraint à l'abandon pour cause de gelures aux mains."
+      },
+      {
+        "id": 5,
+        "question": "Avec quelle celebrite Mike Horn a-t-il parcouru la jungle du Sri Lanka ?",
+        "propositions": [
+          "M. Pokora",
+          "Laure Manaudou",
+          "Shy'm",
+          "Michaal Youn"
+        ],
+        "reponse": "M. Pokora",
+        "anecdote": "Pendant quatre jours, ils ont dû chasser, pecher et construire des abris de fortune pour pallier l'absence de toute vie humaine."
+      },
+      {
+        "id": 6,
+        "question": "Quelle docu-aventure est presentee par Mike Horn sur M6 depuis 2015 ?",
+        "propositions": [
+          "Koh-Lanta",
+          "Pekin Express",
+          "The Island",
+          "Dropped"
+        ],
+        "reponse": "The Island",
+        "anecdote": "Un groupe d'individus doit tenter de survivre sans aide exterieure sur une île deserte pendant 28 jours avec une seule regle : survivre."
+      },
+      {
+        "id": 7,
+        "question": "Combien d'annees a dure l'expedition Pangaea menee par Mike Horn ?",
+        "propositions": [
+          "2 ans",
+          "3 ans",
+          "4 ans",
+          "5 ans"
+        ],
+        "reponse": "4 ans",
+        "anecdote": "De 2008 à 2012, l'expedition Pangaea a fait le tour du monde avec une centaine de jeunes de 15 à 20 ans qui se sont succedes."
+      },
+      {
+        "id": 8,
+        "question": "Avec quelle celebrite Mike Horn a-t-il traverse le desert de Namibie ?",
+        "propositions": [
+          "M. Pokora",
+          "Laure Manaudou",
+          "Michaal Youn",
+          "Shy'm"
+        ],
+        "reponse": "Michaal Youn",
+        "anecdote": "C'est le 28 juin 2016 que l'emission tournee dans la region du Kaokoland a ete vue par trois millions de telespectateurs sur M6."
+      },
+      {
+        "id": 9,
+        "question": "Combien de numero d'« À l'etat sauvage » Mike Horn a-t-il tourne avant de decider d'arreter ?",
+        "propositions": [
+          "Huit",
+          "Six",
+          "Dix",
+          "Quatre"
+        ],
+        "reponse": "Huit",
+        "anecdote": "Michaal Youn, M. Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M et Franck Gastambide seront choisis."
+      },
+      {
+        "id": 10,
+        "question": "Quand il n'est pas en expedition, dans quel pays reside l'explorateur Mike Horn ?",
+        "propositions": [
+          "France",
+          "Inde",
+          "Suisse",
+          "Canada"
+        ],
+        "reponse": "Suisse",
+        "anecdote": "Mike Horn, de son vrai nom Michael Frederick Horn, est ne le 16 juillet 1966 à Johannesbourg, en Afrique du Sud."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Laquelle de ces activites Mike Horn n'a-t-il pas exerce ?",
+        "propositions": [
+          "Bûcheron",
+          "Vendangeur",
+          "Barman",
+          "Pianiste"
+        ],
+        "reponse": "Pianiste",
+        "anecdote": "Arrive en Suisse en 1990 par le vol Johannesbourg-Zurich, les premiers temps furent difficiles et il survit de petits boulots."
+      },
+      {
+        "id": 12,
+        "question": "Comment se prenomme la premiere fille de l'explorateur Mike Horn ?",
+        "propositions": [
+          "Tatiana",
+          "Jessica",
+          "Francesca",
+          "Annika"
+        ],
+        "reponse": "Annika",
+        "anecdote": "Jessica, la seconde fille de Mike et Cathy (qui succombera à un cancer du sein en 2015), verra le jour l'annee suivante."
+      },
+      {
+        "id": 13,
+        "question": "Dans quel pays Mike Horn a-t-il commence ses aventures en 1991 ?",
+        "propositions": [
+          "Bolivie",
+          "Perou",
+          "Bresil",
+          "Colombie"
+        ],
+        "reponse": "Perou",
+        "anecdote": "Son premier contact avec l'aventure a lieu en 1991 dans les Andes peruviennes en raft et parapente. Des lors, le virus est en lui."
+      },
+      {
+        "id": 14,
+        "question": "En combien de jours Mike Horn a-t-il traverse le Groenland ?",
+        "propositions": [
+          "15 jours",
+          "45 jours",
+          "60 jours",
+          "30 jours"
+        ],
+        "reponse": "15 jours",
+        "anecdote": "L'expedition de 808 jours a donne lieu à un film, « Arktos : Le voyage interieur de Mike Horn », realise et produit par Raphaal Blanc."
+      },
+      {
+        "id": 15,
+        "question": "Quel bateau à voile de 35 m en aluminium Mike Horn a-t-il fait construire ?",
+        "propositions": [
+          "Makalu",
+          "Arktos",
+          "Pangaea",
+          "Namib"
+        ],
+        "reponse": "Pangaea",
+        "anecdote": "Construit au Bresil, Mike Horn fera avec le Pangaea un tour du monde par les cinq continents sans moyen de transport motorise."
+      },
+      {
+        "id": 16,
+        "question": "Quel desert Mike Horn a-t-il decide d'explorer en 2016 ?",
+        "propositions": [
+          "Kaouar",
+          "Namib",
+          "Nubie",
+          "Gobero"
+        ],
+        "reponse": "Namib",
+        "anecdote": "Le 8 mai 2016, il commence son expedition « Pole2Pole » au depart de Monaco. Une fois arrive à bon port, il explorera le Namib."
+      },
+      {
+        "id": 17,
+        "question": "En combien de jours Mike Horn a-t-il traverse l'Antarctique en solitaire ?",
+        "propositions": [
+          "37 jours",
+          "57 jours",
+          "47 jours",
+          "67 jours"
+        ],
+        "reponse": "57 jours",
+        "anecdote": "C'est sans moteur et en solitaire que Mike Horn a parcouru pres de 5 100 kilometres pour traverser integralement l'Antarctique."
+      },
+      {
+        "id": 18,
+        "question": "Quelle île du Grand Nord canadien Mike Horn a-t-il traverse avec sa famille ?",
+        "propositions": [
+          "Matty",
+          "Hans",
+          "Bylot",
+          "Cameron"
+        ],
+        "reponse": "Bylot",
+        "anecdote": "Depuis 1925, le Canada a revendique la partie de l'Arctique entre 60° O et 141° O de longitude, s'etendant jusqu'au au pôle Nord."
+      },
+      {
+        "id": 19,
+        "question": "Comment est aussi appele le Gasherbrum 1 gravi par Mike Horn en 2007 ?",
+        "propositions": [
+          "K6",
+          "K5",
+          "K7",
+          "K2"
+        ],
+        "reponse": "K5",
+        "anecdote": "Le Gasherbrum I, aussi appele K5 ou Hidden Peak (car extremement eloigne), est le onzieme plus haut sommet du monde."
+      },
+      {
+        "id": 20,
+        "question": "Qui a realise « Four Eight Thousands » sur l'expedition himalayenne de Mike Horn ?",
+        "propositions": [
+          "Drew Brees",
+          "David Ribeiro",
+          "Jean Buhler",
+          "Raphaal Blanc"
+        ],
+        "reponse": "David Ribeiro",
+        "anecdote": "Ce film, realise par David Ribeiro (connu entre autre pour le film « La cite rose »), a ete produit par On Air Productions."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quand Mike Horn a-t-il recu le Laureus Award du meilleur sportif alternatif de l'annee ?",
+        "propositions": [
+          "2007",
+          "2001",
+          "2003",
+          "2005"
+        ],
+        "reponse": "2001",
+        "anecdote": "Seul durant 18 mois, Mike Horn va connaître toutes sortes de peripeties avec « Latitude Zero », son tour du monde par l'equateur."
+      },
+      {
+        "id": 22,
+        "question": "Quel sommet de l'Himalaya Mike Horn a-t-il atteint en 2014 ?",
+        "propositions": [
+          "Manaslu",
+          "Makalu",
+          "Annapurna",
+          "K2"
+        ],
+        "reponse": "Makalu",
+        "anecdote": "Le Makalu est un sommet de l'Himalaya culminant à 8 485 metres d'altitude, à la frontiere entre le Tibet, la Chine et le Nepal."
+      },
+      {
+        "id": 23,
+        "question": "Dans quel sport le pere de Mike Horn a-t-il fait carriere ?",
+        "propositions": [
+          "Tennis",
+          "Football",
+          "Rugby",
+          "Golf"
+        ],
+        "reponse": "Rugby",
+        "anecdote": "Apres avoir enseigne le sport et fait carriere en rugby, son pere est decede à quarante-deux ans lorsque Mike en avait dix-huit."
+      },
+      {
+        "id": 24,
+        "question": "Quel etait le grade de Mike Horn dans les forces speciales sud-africaines ?",
+        "propositions": [
+          "Sergent",
+          "Lieutenant",
+          "Capitaine",
+          "General"
+        ],
+        "reponse": "Lieutenant",
+        "anecdote": "De retour à la vie civile, il obtient un diplôme dans le domaine de la Science du mouvement humain à l'Universite de Stellenbosch."
+      },
+      {
+        "id": 25,
+        "question": "Dans quel pays Mike Horn a-t-il cree le No Limits Outdoor Activity Center ?",
+        "propositions": [
+          "Canada",
+          "Suisse",
+          "Finlande",
+          "Norvege"
+        ],
+        "reponse": "Suisse",
+        "anecdote": "Au meme moment (1995), Mike Horn est devenu un expert pour la formation des guides de haute montagne suisses."
+      },
+      {
+        "id": 26,
+        "question": "Sur quel monocoque Mike Horn a-t-il battu un record du monde de traversee ?",
+        "propositions": [
+          "Rainbow",
+          "Paul-Ricard",
+          "Mari Cha III",
+          "Shamrock"
+        ],
+        "reponse": "Mari Cha III",
+        "anecdote": "Mike Horn a rejoint l'equipage du monocoque de 45 metres en 1997, qui a battu le record du monde de la traversee de l'Atlantique."
+      },
+      {
+        "id": 27,
+        "question": "Dans quel projet Mike Horn a-t-il combattu les stereotypes associes aux requins ?",
+        "propositions": [
+          "Apex",
+          "Ailerons",
+          "Shark Project",
+          "Charc"
+        ],
+        "reponse": "Shark Project",
+        "anecdote": "Ce programme a aussi pour objectif de sensibiliser la population aux problemes que rencontrent les oceans sur toute la planete."
+      },
+      {
+        "id": 28,
+        "question": "Avec quel explorateur norvegien Mike Horn est-il parti au pôle Nord en 2006 ?",
+        "propositions": [
+          "Olav Bjaaland",
+          "Otto Sverdrup",
+          "Gunnar Horn",
+          "Borge Ousland"
+        ],
+        "reponse": "Borge Ousland",
+        "anecdote": "Le 23 mars 2006, Borge Ousland et Mike Horn deviennent les premieres personnes à atteindre le pôle Nord durant la nuit polaire."
+      },
+      {
+        "id": 29,
+        "question": "Quel profond canyon du Perou Mike Horn a-t-il descendu en hydrospeed ?",
+        "propositions": [
+          "Manseriche",
+          "Colca",
+          "Apurimac",
+          "Cotahuasi"
+        ],
+        "reponse": "Colca",
+        "anecdote": "Au fond du canyon (plus de 1 000 metres de denivele avec Cabanaconde), le village de Sangalle sert de refuge aux trekkeurs."
+      },
+      {
+        "id": 30,
+        "question": "Dans quel livre Mike Horn a-t-il dit : « Chacun cree les conditions de sa propre liberte » ?",
+        "propositions": [
+          "Grand Nord",
+          "Objectif Pôle Nord",
+          "Libre !",
+          "Latitude Zero"
+        ],
+        "reponse": "Libre !",
+        "anecdote": "Depuis plus de trente ans, il delivre des messages humanistes dans lesquels il montre toute la force de ses valeurs et de son mental."
+      }
+    ]
+    },
+    "en": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "In which of these programs did Mike Horn accompany a person in the wilderness ?",
+        "propositions": [
+          "X Factor",
+          "In the wild state",
+          "New Star",
+          "Express Express"
+        ],
+        "reponse": "In the wild state",
+        "anecdote": "This is the French adaptation of the American « Running Wild with Bear Grylls », aired on NBC since 2014."
+      },
+      {
+        "id": 2,
+        "question": "How was Mike Horn's wife named, met in 1990 and now deceased ?",
+        "propositions": [
+          "Marie",
+          "Cathy",
+          "Sandra",
+          "Sophie"
+        ],
+        "reponse": "Cathy",
+        "anecdote": "A native of New Zealand, a nurse by training, Cathy met her future lover in a Chateau-d'Oex cafe in 1990."
+      },
+      {
+        "id": 3,
+        "question": "What name did Mike Horn give to his world tour by the ecuador ?",
+        "propositions": [
+          "Cape Zero",
+          "Latitude Zero",
+          "Ground Zero",
+          "Land Zero"
+        ],
+        "reponse": "Latitude Zero",
+        "anecdote": "On an idea of  ? ?Mick Regener, Mike Horn will travel more than 40,000 km from June 1999 to October 2000 without motorized transport."
+      },
+      {
+        "id": 4,
+        "question": "In which expedition did Mike Horn travel around the world through the Arctic Circle ?",
+        "propositions": [
+          "Fabuloso",
+          "Taris",
+          "Arktos",
+          "Free to Run"
+        ],
+        "reponse": "Arktos",
+        "anecdote": "During a preliminary expedition to reach the North Pole, Mike Horn was forced to abandon because of frostbite on his hands."
+      },
+      {
+        "id": 5,
+        "question": "With which celebrity Mike Horn has he traveled the jungle of Sri Lanka ?",
+        "propositions": [
+          "Shy'm",
+          "Laure Manaudou",
+          "Mr Pokora",
+          "Michaal Youn"
+        ],
+        "reponse": "Mr Pokora",
+        "anecdote": "For four days, they had to hunt, fish and build makeshift shelters to make up for the absence of any human life."
+      },
+      {
+        "id": 6,
+        "question": "What docu-adventure is Mike Horn presenting on M6 since 2015 ?",
+        "propositions": [
+          "The Island",
+          "Dropped",
+          "Koh-Lanta",
+          "Express Express"
+        ],
+        "reponse": "The Island",
+        "anecdote": "A group of individuals must try to survive without help on a desert island for 28 days with only one rule: to survive."
+      },
+      {
+        "id": 7,
+        "question": "How many years has the Pangea expedition led by Mike Horn lasted ?",
+        "propositions": [
+          "4 years",
+          "2 years",
+          "5 years",
+          "3 years"
+        ],
+        "reponse": "4 years",
+        "anecdote": "From 2008 to 2012, the Pangea expedition traveled around the world with hundreds of young people from 15 to 20 years of age who succeeded each other."
+      },
+      {
+        "id": 8,
+        "question": "With what celebrity Mike Horn did he cross the desert of Namibia ?",
+        "propositions": [
+          "Michaal Youn",
+          "Shy'm",
+          "Mr Pokora",
+          "Laure Manaudou"
+        ],
+        "reponse": "Michaal Youn",
+        "anecdote": "On June 28, 2016, the broadcast in the Kaokoland region was viewed by three million viewers on M6."
+      },
+      {
+        "id": 9,
+        "question": "How many numbers of « the wild state » did Mike Horn turn out before deciding to stop ?",
+        "propositions": [
+          "Six",
+          "Four",
+          "Ten",
+          "Eight"
+        ],
+        "reponse": "Eight",
+        "anecdote": "Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M and Franck Gastambide will be chosen."
+      },
+      {
+        "id": 10,
+        "question": "When it's not shipping, in which country does explorer-adventurer Mike Horn reside ?",
+        "propositions": [
+          "India",
+          "Canada",
+          "Switzerland",
+          "France"
+        ],
+        "reponse": "Switzerland",
+        "anecdote": "Mike Horn, whose real name is Michael Horn, was born on July 16, 1966 in Johannesburg, South Africa."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Which of these activities Mike Horn did not exercise ?",
+        "propositions": [
+          "Barman",
+          "Harvester",
+          "Lumberjack",
+          "Pianist"
+        ],
+        "reponse": "Pianist",
+        "anecdote": "Arrived in Switzerland in 1990 by the Johannesburg-Zurich flight, the first times were difficult and he survived odd jobs."
+      },
+      {
+        "id": 12,
+        "question": "How is the first daughter of explorer Mike Horn named ?",
+        "propositions": [
+          "Tatiana",
+          "Jessica",
+          "Annika",
+          "Francesca"
+        ],
+        "reponse": "Annika",
+        "anecdote": "Jessica, the second daughter of Mike and Cathy (who will succumb to breast cancer in 2015), will be born the next year."
+      },
+      {
+        "id": 13,
+        "question": "In which country did Mike Horn begin his adventures in 1991 ?",
+        "propositions": [
+          "Colombia",
+          "Pere",
+          "Bolivia",
+          "Brazil"
+        ],
+        "reponse": "Pere",
+        "anecdote": "His first contact with adventure took place in 1991 in the Peruvian Andes in rafting and paragliding."
+      },
+      {
+        "id": 14,
+        "question": "In how many days did Mike Horn cross Greenland ?",
+        "propositions": [
+          "30 days",
+          "45 days",
+          "15 days",
+          "60 days"
+        ],
+        "reponse": "15 days",
+        "anecdote": "The 808-day expedition resulted in a film, « Arktos: The Inside Journey of Mike Horn », directed and produced by Raphael Blanc."
+      },
+      {
+        "id": 15,
+        "question": "What 35m aluminum sailing boat did Mike Horn build ?",
+        "propositions": [
+          "Arktos",
+          "Pangea",
+          "Makalu",
+          "Namib"
+        ],
+        "reponse": "Pangea",
+        "anecdote": "Built in Brazil, Mike Horn will travel with the Pangea around the world on all five continents without any means of motorized transport."
+      },
+      {
+        "id": 16,
+        "question": "What is the hell Mike Horn has decided to explore in 2016 ?",
+        "propositions": [
+          "Gobero",
+          "Kaouar",
+          "Nubia",
+          "Namib"
+        ],
+        "reponse": "Namib",
+        "anecdote": "On May 8, 2016, he starts his « Pole2Pole » expedition from Monaco. Once arrived safely, he will explore the Namib."
+      },
+      {
+        "id": 17,
+        "question": "In how many days did Mike Horn cross Antarctica solo ?",
+        "propositions": [
+          "57 days",
+          "47 days",
+          "37 days",
+          "67 days"
+        ],
+        "reponse": "57 days",
+        "anecdote": "It is without motor and alone that Mike Horn has traveled nearly 5100 kilometers to cross the Antarctic completely."
+      },
+      {
+        "id": 18,
+        "question": "What Island of Canada's Great North Mike Horn has crossed with his family ?",
+        "propositions": [
+          "Cameron",
+          "Hans",
+          "Bylot",
+          "Matty"
+        ],
+        "reponse": "Bylot",
+        "anecdote": "Since 1925, Canada has claimed part of the Arctic between 60° W and 141° W longitude, stretching to the North Pole."
+      },
+      {
+        "id": 19,
+        "question": "How is also called Gasherbrum I graved by Mike Horn in 2007 ?",
+        "propositions": [
+          "K2",
+          "K7",
+          "K5",
+          "K6"
+        ],
+        "reponse": "K5",
+        "anecdote": "Gasherbrum I, also known as K5 or Hidden Peak, is the eleventh highest mountain in the world."
+      },
+      {
+        "id": 20,
+        "question": "Who made « Four Eight Thousands » on Mike Horn's Himalayan expedition ?",
+        "propositions": [
+          "Jean Buhler",
+          "David Ribeiro",
+          "Raphaal Blanc",
+          "Drew Brees"
+        ],
+        "reponse": "David Ribeiro",
+        "anecdote": "This film, directed by David Ribeiro (known among others for the film « The Pink City »), was produced by On Air Productions."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "When did Mike Horn receive the Laureus Award for best alternative sportsman of the year ?",
+        "propositions": [
+          "2001",
+          "2005",
+          "2003",
+          "2007"
+        ],
+        "reponse": "2001",
+        "anecdote": "Alone for 18 months, Mike Horn will experience all sorts of wanderings with « Latitude Zeros », his world tour by the ecuador."
+      },
+      {
+        "id": 22,
+        "question": "What peak in the Himalayas did Mike Horn reach in 2014 ?",
+        "propositions": [
+          "Annapurna",
+          "Manaslu",
+          "K2",
+          "Makalu"
+        ],
+        "reponse": "Makalu",
+        "anecdote": "Makalu is a Himalayan peak culminating at 8,485 meters above sea level on the border between Tibet, China and Nepal."
+      },
+      {
+        "id": 23,
+        "question": "In which sport did Mike Horn's father make a career ?",
+        "propositions": [
+          "Rugby",
+          "Football",
+          "Golf",
+          "Tennis"
+        ],
+        "reponse": "Rugby",
+        "anecdote": "After teaching sport and playing rugby, his father died at age forty-two when Mike was eighteen."
+      },
+      {
+        "id": 24,
+        "question": "What was the rank of Mike Horn in the South African Special Forces ?",
+        "propositions": [
+          "Lieutenant",
+          "Captain",
+          "Sergeant",
+          "General"
+        ],
+        "reponse": "Lieutenant",
+        "anecdote": "Returning to civilian life, he graduated in the field of Human Movement Science at the University of Stellenbosch."
+      },
+      {
+        "id": 25,
+        "question": "In which country did Mike Horn create the No Limits Outdoor Activity Center ?",
+        "propositions": [
+          "Switzerland",
+          "Finland",
+          "Norway",
+          "Canada"
+        ],
+        "reponse": "Switzerland",
+        "anecdote": "At the same time (1995), Mike Horn became an expert for the training of Swiss mountain guides."
+      },
+      {
+        "id": 26,
+        "question": "On which monohull did Mike Horn beat a world record ?",
+        "propositions": [
+          "Mari Cha III",
+          "Paul-Ricard",
+          "Rainbow",
+          "Shamrock"
+        ],
+        "reponse": "Mari Cha III",
+        "anecdote": "Mike Horn joined the 45-meter monohull crew in 1997, which broke the Atlantic crossing world record."
+      },
+      {
+        "id": 27,
+        "question": "In which project did Mike Horn fight the stereotypes associated with sharks ?",
+        "propositions": [
+          "Shark Project",
+          "Charc",
+          "Apex",
+          "Ailerons"
+        ],
+        "reponse": "Shark Project",
+        "anecdote": "This program also aims to raise awareness of the problems facing the oceans throughout the world."
+      },
+      {
+        "id": 28,
+        "question": "With which Norwegian explorer Mike Horn did he go to the North Pole in 2006 ?",
+        "propositions": [
+          "Borge Ousland",
+          "Gunnar Horn",
+          "Otto Sverdrup",
+          "Olav Bjaaland"
+        ],
+        "reponse": "Borge Ousland",
+        "anecdote": "On March 23, 2006, Borge Ousland and Mike Horn became the first people to reach the North Pole during the polar night."
+      },
+      {
+        "id": 29,
+        "question": "What deep canyon of Father Mike Horn descended in hydrospeed ?",
+        "propositions": [
+          "Manseriche",
+          "Colca",
+          "Cotahuasi",
+          "Apurimac"
+        ],
+        "reponse": "Colca",
+        "anecdote": "At the bottom of the canyon (more than 1 000 meters of degraded with Cabanaconde), the village of Sangalle serves as a refuge for trekkers."
+      },
+      {
+        "id": 30,
+        "question": "In which book did Mike Horn say, « Everyone creates the conditions of his own freedom » ?",
+        "propositions": [
+          "Free!",
+          "Far North",
+          "Latitude Zero",
+          "North Pole Objective"
+        ],
+        "reponse": "Free!",
+        "anecdote": "For more than thirty years, he has been delivering humanist messages in which he shows all the strength of his values and his mind."
+      }
+    ]
+    },
+    "de": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "In welchem dieser Programme begleitete Mike Horn eine Person in der Wildnis ?",
+        "propositions": [
+          "X-Faktor",
+          "Im wilden Zustand",
+          "Express Express",
+          "Neuer Stern"
+        ],
+        "reponse": "Im wilden Zustand",
+        "anecdote": "Dies ist die französische Adaption des amerikanischen « Running Wild with Bear Grylls », das seit 2014 auf NBC ausgestrahlt wird."
+      },
+      {
+        "id": 2,
+        "question": "Wie wurde Mike Horns Frau benannt, 1990 getroffen und verstorben ?",
+        "propositions": [
+          "Sophie",
+          "Sandra",
+          "Marie",
+          "Cathy"
+        ],
+        "reponse": "Cathy",
+        "anecdote": "Die gebürtige Neuseeländerin, ausgebildete Krankenschwester, lernte 1990 ihren zukünftigen Liebhaber in einem Chateau-d'Oex-Cafe kennen"
+      },
+      {
+        "id": 3,
+        "question": "Welchen Namen hat Mike Horn seiner Weltreise durch Ecuador gegeben ?",
+        "propositions": [
+          "Cape Zero",
+          "Land Null",
+          "Ground Zero",
+          "Latitude Zero"
+        ],
+        "reponse": "Latitude Zero",
+        "anecdote": "Nach einer Idee von Mick Regnier wird Mike Horn von Juni 1999 bis Oktober 2000 mehr als 40.000 km ohne motorisierten Transport zurücklegen."
+      },
+      {
+        "id": 4,
+        "question": "In welcher Expedition reiste Mike Horn durch den Polarkreis ?",
+        "propositions": [
+          "Free to Run",
+          "Fabuloso",
+          "Arktos",
+          "Taris"
+        ],
+        "reponse": "Arktos",
+        "anecdote": "Während einer vorläufigen Expedition zum Nordpol musste Mike Horn wegen Erfrierungen an den Händen aufgeben."
+      },
+      {
+        "id": 5,
+        "question": "Mit welchem Prominenten Mike Horn hat er den Dschungel von Sri Lanka bereist ?",
+        "propositions": [
+          "Herr Pokora",
+          "Laure Manaudou",
+          "Michaal Youn",
+          "Shy'm"
+        ],
+        "reponse": "Herr Pokora",
+        "anecdote": "Vier Tage lang mussten sie jagen, fischen und provisorische Unterkünfte bauen, um das Fehlen von Menschenleben auszugleichen."
+      },
+      {
+        "id": 6,
+        "question": "Welches Doku-Abenteuer präsentiert Mike Horn seit 2015 auf M6 ?",
+        "propositions": [
+          "Express Express",
+          "Koh-Lanta",
+          "Die Insel",
+          "gelöscht"
+        ],
+        "reponse": "Die Insel",
+        "anecdote": "Eine Gruppe von Individuen muss versuchen, 28 Tage lang ohne Hilfe auf einer einsamen Insel mit nur einer Regel zu überleben: um zu überleben."
+      },
+      {
+        "id": 7,
+        "question": "Wie viele Jahre hat die von Mike Horn geführte Pangaea-Expedition gedauert ?",
+        "propositions": [
+          "5 Jahre",
+          "4 Jahre",
+          "2 Jahre",
+          "3 Jahre"
+        ],
+        "reponse": "4 Jahre",
+        "anecdote": "Von 2008 bis 2012 reiste die Pangaea-Expedition mit Hunderten von Jugendlichen zwischen 15 und 20 Jahren um die Welt, die aufeinander folgten."
+      },
+      {
+        "id": 8,
+        "question": "Mit welchem Prominenten Mike Horn durchquerte er die Wüste Namibias ?",
+        "propositions": [
+          "Laure Manaudou",
+          "Herr Pokora",
+          "Shy'm",
+          "Michaal Youn"
+        ],
+        "reponse": "Michaal Youn",
+        "anecdote": "Am 28. Juni 2016 wurde die in der Region Kaokoland gedrehte Sendung von drei Millionen Zuschauern auf M6 verfolgt."
+      },
+      {
+        "id": 9,
+        "question": "Wie viele Zahlen von « dem wilden Zustand » hat Mike Horn herausgefunden, bevor er aufhörte aufzuhören ?",
+        "propositions": [
+          "Acht",
+          "Vier",
+          "Sechs",
+          "Zehn"
+        ],
+        "reponse": "Acht",
+        "anecdote": "Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M und Franck Gastambide werden ausgewählt."
+      },
+      {
+        "id": 10,
+        "question": "Wenn es nicht versandt wird, in welchem Land befindet sich der Entdecker-Abenteurer Mike Horn ?",
+        "propositions": [
+          "Frankreich",
+          "Indien",
+          "Kanada",
+          "Schweiz"
+        ],
+        "reponse": "Schweiz",
+        "anecdote": "Mike Horn, mit bürgerlichem Namen Michael Frederick Horn, wurde am 16. Juli 1966 in Johannesburg, Südafrika, geboren."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Welche dieser Aktivitäten hat Mike Horn nicht ausgeübt ?",
+        "propositions": [
+          "Pianist",
+          "Harvester",
+          "Holzfäller",
+          "Barman"
+        ],
+        "reponse": "Pianist",
+        "anecdote": "1990 auf dem Flug von Johannesburg nach Zürich in der Schweiz angekommen, waren die ersten Male schwierig und er überstand einige Jobs."
+      },
+      {
+        "id": 12,
+        "question": "Wie heißt die erste Tochter des Forschers Mike Horn ?",
+        "propositions": [
+          "Jessica",
+          "Annika",
+          "Francesca",
+          "Tatiana"
+        ],
+        "reponse": "Annika",
+        "anecdote": "Jessica, die zweite Tochter von Mike und Cathy (die 2015 an Brustkrebs erliegen wird), wird im nächsten Jahr geboren."
+      },
+      {
+        "id": 13,
+        "question": "In welchem Land begann Mike Horn 1991 mit seinen Abenteuern ?",
+        "propositions": [
+          "Pere",
+          "Brasilien",
+          "Bolivien",
+          "Kolumbien"
+        ],
+        "reponse": "Pere",
+        "anecdote": "Sein erster Kontakt mit Abenteuern fand 1991 in den peruanischen Anden beim Rafting und Paragliding statt."
+      },
+      {
+        "id": 14,
+        "question": "In wie vielen Tagen hat Mike Horn Grönland durchquert ?",
+        "propositions": [
+          "15 tage",
+          "60 Tage",
+          "30 tage",
+          "45 tage"
+        ],
+        "reponse": "15 tage",
+        "anecdote": "Die 808-tägige Expedition führte zu einem Film, « Arktos: Die innere Reise von Mike Horn », der von Raphael Blanc inszeniert und produziert wurde."
+      },
+      {
+        "id": 15,
+        "question": "Welches 35m Aluminium Segelboot hat Mike Horn gebaut ?",
+        "propositions": [
+          "Arktos",
+          "Namib",
+          "Makalu",
+          "Pangaea"
+        ],
+        "reponse": "Pangaea",
+        "anecdote": "Der in Brasilien gebaute Mike Horn wird ohne motorisierte Transportmittel auf allen fünf Kontinenten mit der Pangaea um die Welt reisen."
+      },
+      {
+        "id": 16,
+        "question": "Was zum Teufel hat Mike Horn beschlossen, 2016 zu erkunden ?",
+        "propositions": [
+          "Namib",
+          "Gobero",
+          "Kaouar",
+          "Nubien"
+        ],
+        "reponse": "Namib",
+        "anecdote": "Am 8. Mai 2016 startet er in Monaco seine « Pole2Pole » Expedition. Sobald er sicher angekommen ist, wird er die Namib erkunden."
+      },
+      {
+        "id": 17,
+        "question": "In wie vielen Tagen hat Mike Horn alleine die Antarktis durchquert ?",
+        "propositions": [
+          "37 tage",
+          "67 Tage",
+          "57 Tage",
+          "47 tage"
+        ],
+        "reponse": "57 Tage",
+        "anecdote": "Allein und ohne Motor hat Mike Horn fast 5100 Kilometer zurückgelegt, um die Antarktis vollständig zu überqueren."
+      },
+      {
+        "id": 18,
+        "question": "Welchen Norden Kanadas hat Mike Horn mit seiner Familie durchquert ?",
+        "propositions": [
+          "Matty",
+          "Hans",
+          "Bylot",
+          "Cameron"
+        ],
+        "reponse": "Bylot",
+        "anecdote": "Seit 1925 hat Kanada einen Teil der Arktis zwischen 60 ° W und 141 ° W gefordert und erstreckt sich bis zum Nordpol."
+      },
+      {
+        "id": 19,
+        "question": "Wie heißt auch Gasherbrum, den ich 2007 von Mike Horn graviert habe ?",
+        "propositions": [
+          "K2",
+          "K7",
+          "K5",
+          "K6"
+        ],
+        "reponse": "K5",
+        "anecdote": "Gasherbrum I, auch bekannt als K5 oder Hidden Peak, ist der elfthöchste Berg der Welt."
+      },
+      {
+        "id": 20,
+        "question": "Wer hat « Achttausend » auf Mike Horns Himalaya-Expedition gemacht ?",
+        "propositions": [
+          "Raphaal Blanc",
+          "Drew Brees",
+          "David Ribeiro",
+          "Jean Buhler"
+        ],
+        "reponse": "David Ribeiro",
+        "anecdote": "Dieser von David Ribeiro inszenierte Film (unter anderem bekannt durch den Film The Pink City) wurde von On Air Productions produziert."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wann hat Mike Horn den Laureus Award für den besten alternativen Sportler des Jahres erhalten ?",
+        "propositions": [
+          "2007",
+          "2003",
+          "2005",
+          "2001"
+        ],
+        "reponse": "2001",
+        "anecdote": "Alleine während 18 Monaten wird Mike Horn mit « Latitude Zero », seiner Welttournee am Äquator, alle möglichen Abenteuer erleben."
+      },
+      {
+        "id": 22,
+        "question": "Welchen Höhepunkt im Himalaya erreichte Mike Horn 2014 ?",
+        "propositions": [
+          "K2",
+          "Manaslu",
+          "Annapurna",
+          "Makalu"
+        ],
+        "reponse": "Makalu",
+        "anecdote": "Makalu ist ein Himalaya-Gipfel auf 8.485 Metern Höhe an der Grenze zwischen Tibet, China und Nepal."
+      },
+      {
+        "id": 23,
+        "question": "In welchem Sport machte Mike Horns Vater Karriere ?",
+        "propositions": [
+          "Rugby",
+          "Golf",
+          "Tennis",
+          "Fußball"
+        ],
+        "reponse": "Rugby",
+        "anecdote": "Nachdem er Sport unterrichtet und Rugby gespielt hatte, starb sein Vater im Alter von zweiundvierzig Jahren, als Mike achtzehn war."
+      },
+      {
+        "id": 24,
+        "question": "Welchen Rang hatte Mike Horn bei den südafrikanischen Special Forces ?",
+        "propositions": [
+          "Kapitän",
+          "Allgemein",
+          "Sergeant",
+          "Leutnant"
+        ],
+        "reponse": "Leutnant",
+        "anecdote": "Zurück zum zivilen Leben schloss er sein Studium im Bereich Human Movement Science an der Universität von Stellenbosch ab."
+      },
+      {
+        "id": 25,
+        "question": "In welchem Land hat Mike Horn das No Limits Outdoor Activity Center gegründet ?",
+        "propositions": [
+          "Kanada",
+          "Norwegen",
+          "Finnland",
+          "Schweiz"
+        ],
+        "reponse": "Schweiz",
+        "anecdote": "Zur gleichen Zeit (1995) wurde Mike Horn Experte für die Ausbildung von Schweizer Bergführern."
+      },
+      {
+        "id": 26,
+        "question": "Auf welchem Einrümpfer hat Mike Horn einen Weltrekord geschlagen ?",
+        "propositions": [
+          "Paul-Ricard",
+          "Mari Cha III",
+          "Regenbogen",
+          "Kleeblatt"
+        ],
+        "reponse": "Mari Cha III",
+        "anecdote": "Mike Horn trat 1997 der 45-Meter-Einrümpfer-Crew bei, die den Weltrekord über die Atlantiküberquerung brach."
+      },
+      {
+        "id": 27,
+        "question": "In welchem Projekt kämpfte Mike Horn gegen die Stereotypen der Haie ?",
+        "propositions": [
+          "Apex",
+          "Charc",
+          "Querruder",
+          "Hai-Projekt"
+        ],
+        "reponse": "Hai-Projekt",
+        "anecdote": "Dieses Programm zielt auch darauf ab, das Bewusstsein für die Probleme der Ozeane auf der ganzen Welt zu schärfen."
+      },
+      {
+        "id": 28,
+        "question": "Mit welchem norwegischen Entdecker Mike Horn war er 2006 am Nordpol ?",
+        "propositions": [
+          "Borge Ousland",
+          "Olav Bjaaland",
+          "Otto Sverdrup",
+          "Gunnar Horn"
+        ],
+        "reponse": "Borge Ousland",
+        "anecdote": "Am 23. März 2006 erreichten Borge Ousland und Mike Horn in der Polarnacht als erste Menschen den Nordpol."
+      },
+      {
+        "id": 29,
+        "question": "Welche tiefe Schlucht von Pater Mike Horn stieg in Hydrospeed ab ?",
+        "propositions": [
+          "Cotahuasi",
+          "Manseriche",
+          "Colca",
+          "Apurimac"
+        ],
+        "reponse": "Colca",
+        "anecdote": "Am Fuße des Canyons (mehr als 1 000 Meter mit Cabanaconde degradiert) dient das Dorf Sangalle als Zufluchtsort für Wanderer."
+      },
+      {
+        "id": 30,
+        "question": "In welchem Buch hat Mike Horn gesagt: « Jeder schafft die Voraussetzungen für seine eigene Freiheit » ?",
+        "propositions": [
+          "Weiter Norden",
+          "Nordpolziel",
+          "Kostenlos!",
+          "Latitude Zero"
+        ],
+        "reponse": "Kostenlos!",
+        "anecdote": "Seit mehr als dreißig Jahren übermittelt er humanistische Botschaften, in denen er die Stärke seiner Werte und seines Verstandes zeigt."
+      }
+    ]
+    },
+    "es": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "¿En cuál de estos programas acompañó Mike Horn a una persona en el desierto ?",
+        "propositions": [
+          "Factor X",
+          "Nueva Estrella",
+          "Express Express",
+          "En estado salvaje"
+        ],
+        "reponse": "En estado salvaje",
+        "anecdote": "Esta es la adaptación francesa de la estadounidense « Running Wild with Bear Grylls », emitida por NBC desde 2014."
+      },
+      {
+        "id": 2,
+        "question": "¿Cómo se llamó la esposa de Mike Horn, se conoció en 1990 y ahora falleció ?",
+        "propositions": [
+          "Sophie",
+          "Sandra",
+          "Marie",
+          "Cathy"
+        ],
+        "reponse": "Cathy",
+        "anecdote": "Nacida en Nueva Zelanda, una enfermera en formación, Cathy conoció a su futuro amante en un cafe Chateau-d'Oex en 1990."
+      },
+      {
+        "id": 3,
+        "question": "¿Que nombre le dio Mike Horn a su gira mundial por el ecuador ?",
+        "propositions": [
+          "Ground Zero",
+          "Latitud Cero",
+          "Cabo cero",
+          "Tierra cero"
+        ],
+        "reponse": "Latitud Cero",
+        "anecdote": "En una idea de Mick Regener, Mike Horn viajará más de 40,000 km desde junio de 1999 hasta octubre de 2000 sin transporte motorizado."
+      },
+      {
+        "id": 4,
+        "question": "¿En que expedición viajó Mike Horn alrededor del mundo a traves del Círculo Ártico ?",
+        "propositions": [
+          "Taris",
+          "Fabuloso",
+          "Arktos",
+          "Free to Run"
+        ],
+        "reponse": "Arktos",
+        "anecdote": "Durante una expedición preliminar para llegar al Polo Norte, Mike Horn se vio obligado a abandonar debido a la congelación en sus manos."
+      },
+      {
+        "id": 5,
+        "question": "¿Con que celebridad Mike Horn ha viajado por la jungla de Sri Lanka ?",
+        "propositions": [
+          "Laure Manaudou",
+          "Michaal Youn",
+          "Sr. Pokora",
+          "Shy'm"
+        ],
+        "reponse": "Sr. Pokora",
+        "anecdote": "Durante cuatro días, tuvieron que cazar, pescar y construir refugios improvisados para compensar la ausencia de cualquier vida humana."
+      },
+      {
+        "id": 6,
+        "question": "¿Que docu-adventure presenta Mike Horn en M6 desde 2015 ?",
+        "propositions": [
+          "Soltado",
+          "Koh-Lanta",
+          "Express Express",
+          "La Isla"
+        ],
+        "reponse": "La Isla",
+        "anecdote": "Un grupo de individuos debe tratar de sobrevivir sin ayuda en una isla desierta durante 28 días con una sola regla: sobrevivir."
+      },
+      {
+        "id": 7,
+        "question": "¿Cuántos años ha durado la expedición de Pangea dirigida por Mike Horn ?",
+        "propositions": [
+          "2 años",
+          "3 años",
+          "5 años",
+          "4 años"
+        ],
+        "reponse": "4 años",
+        "anecdote": "De 2008 a 2012, la expedición de Pangea viajó por todo el mundo con cientos de jóvenes de 15 a 20 años de edad que se sucedieron entre sí."
+      },
+      {
+        "id": 8,
+        "question": "¿Con que celebridad Mike Horn cruzó el desierto de Namibia ?",
+        "propositions": [
+          "Michaal Youn",
+          "Shy'm",
+          "Sr. Pokora",
+          "Laure Manaudou"
+        ],
+        "reponse": "Michaal Youn",
+        "anecdote": "El 28 de junio de 2016, la transmisión en la región de Kaokoland fue vista por tres millones de espectadores en M6."
+      },
+      {
+        "id": 9,
+        "question": "¿Cuántos números de « el estado salvaje » resultó Mike Horn antes de decidir detenerse ?",
+        "propositions": [
+          "Cuatro",
+          "Seis",
+          "Diez",
+          "Ocho"
+        ],
+        "reponse": "Ocho",
+        "anecdote": "Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M y Franck Gastambide serán elegidas."
+      },
+      {
+        "id": 10,
+        "question": "Cuando no es envío, ¿en que país reside el explorador-aventurero Mike Horn ?",
+        "propositions": [
+          "Suiza",
+          "Francia",
+          "Canada",
+          "India"
+        ],
+        "reponse": "Suiza",
+        "anecdote": "Mike Horn, cuyo nombre real es Michael Horn, nació el 16 de julio de 1966 en Johannesburgo, Sudáfrica."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "¿Cuál de estas actividades no hizo ejercicio Mike Horn ?",
+        "propositions": [
+          "Leñador",
+          "Cosechadora",
+          "Pianista",
+          "Barman"
+        ],
+        "reponse": "Pianista",
+        "anecdote": "Llegó a Suiza en 1990 en el vuelo Johannesburg-Zurich, las primeras veces fueron difíciles y sobrevivió a trabajos ocasionales."
+      },
+      {
+        "id": 12,
+        "question": "¿Cómo se llama la primera hija del explorador Mike Horn ?",
+        "propositions": [
+          "Francesca",
+          "Tatiana",
+          "Annika",
+          "Jessica"
+        ],
+        "reponse": "Annika",
+        "anecdote": "Jessica, la segunda hija de Mike y Cathy (que sucumbirá al cáncer de mama en 2015), nacerá el próximo año."
+      },
+      {
+        "id": 13,
+        "question": "¿En que país comenzó Mike Horn sus aventuras en 1991 ?",
+        "propositions": [
+          "Bolivia",
+          "Colombia",
+          "Pere",
+          "Brasil"
+        ],
+        "reponse": "Pere",
+        "anecdote": "Su primer contacto con la aventura tuvo lugar en 1991 en los Andes peruanos en rafting y parapente."
+      },
+      {
+        "id": 14,
+        "question": "¿En cuántos días cruzó Groenlandia Mike Horn ?",
+        "propositions": [
+          "60 días",
+          "30 días",
+          "45 dias",
+          "15 dias"
+        ],
+        "reponse": "15 dias",
+        "anecdote": "La expedición de 808 días dio lugar a una película, « Arktos: The Inside Journey of Mike Horn », dirigida y producida por Raphael Blanc."
+      },
+      {
+        "id": 15,
+        "question": "¿Que barco de vela de aluminio de 35 m construyó Mike Horn ?",
+        "propositions": [
+          "Arktos",
+          "Namib",
+          "Makalu",
+          "Pangea"
+        ],
+        "reponse": "Pangea",
+        "anecdote": "Construido en Brasil, Mike Horn viajará con el Pangea alrededor del mundo en los cinco continentes sin ningún medio de transporte motorizado."
+      },
+      {
+        "id": 16,
+        "question": "¿Que diablos Mike Horn ha decidido explorar en 2016 ?",
+        "propositions": [
+          "Kaouar",
+          "Gobero",
+          "Nubia",
+          "Namib"
+        ],
+        "reponse": "Namib",
+        "anecdote": "El 8 de mayo de 2016, comienza su expedición « Pole2Pole » desde Mónaco. Una vez que llegó a salvo, explorará el Namib."
+      },
+      {
+        "id": 17,
+        "question": "¿En cuántos días cruzó Mike Horn solo en la Antártida ?",
+        "propositions": [
+          "57 días",
+          "37 días",
+          "67 días",
+          "47 días"
+        ],
+        "reponse": "57 días",
+        "anecdote": "Es sin motor y solo que Mike Horn ha recorrido casi 5100 kilómetros para cruzar completamente la Antártida."
+      },
+      {
+        "id": 18,
+        "question": "¿Que gran norte de la isla de Canadá, Mike Horn ha cruzado con su familia ?",
+        "propositions": [
+          "Cameron",
+          "Hans",
+          "Matty",
+          "Bylot"
+        ],
+        "reponse": "Bylot",
+        "anecdote": "Desde 1925, Canadá ha reclamado parte del Ártico entre 60 ° W y 141 ° W de longitud, que se extiende hasta el Polo Norte."
+      },
+      {
+        "id": 19,
+        "question": "¿Cómo se llama tambien Gasherbrum I grabada por Mike Horn en 2007 ?",
+        "propositions": [
+          "K2",
+          "K6",
+          "K5",
+          "K7"
+        ],
+        "reponse": "K5",
+        "anecdote": "Gasherbrum I, tambien conocido como K5 o Hidden Peak, es la undecima montaña más alta del mundo."
+      },
+      {
+        "id": 20,
+        "question": "¿Quien hizo « Four Eight Thousands » en la expedición al Himalaya de Mike Horn ?",
+        "propositions": [
+          "Drew Brees",
+          "Jean Buhler",
+          "David ribeiro",
+          "Raphaal blanc"
+        ],
+        "reponse": "David ribeiro",
+        "anecdote": "Esta película, dirigida por David Ribeiro (conocida entre otras por la película « The Pink City »), fue producida por On Air Productions."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Cuándo recibió Mike Horn el Premio Laureus al mejor deportista alternativo del año ?",
+        "propositions": [
+          "2001",
+          "2007",
+          "2005",
+          "2003"
+        ],
+        "reponse": "2001",
+        "anecdote": "Solo durante 18 meses, Mike Horn experimentará todo tipo de paseos con « Latitude Zeros », su gira mundial por el ecuador."
+      },
+      {
+        "id": 22,
+        "question": "¿Que pico en el Himalaya alcanzó Mike Horn en 2014 ?",
+        "propositions": [
+          "Manaslu",
+          "K2",
+          "Makalu",
+          "Annapurna"
+        ],
+        "reponse": "Makalu",
+        "anecdote": "Makalu es un pico del Himalaya que culmina a 8,485 metros sobre el nivel del mar en la frontera entre el Tíbet, China y Nepal."
+      },
+      {
+        "id": 23,
+        "question": "¿En que deporte hizo carrera el padre de Mike Horn ?",
+        "propositions": [
+          "Fútbol",
+          "Golf",
+          "Rugby",
+          "Tenis"
+        ],
+        "reponse": "Rugby",
+        "anecdote": "Despues de enseñar deporte y jugar al rugby, su padre murió a los cuarenta y dos años cuando Mike tenía dieciocho años."
+      },
+      {
+        "id": 24,
+        "question": "¿Cuál era el rango de Mike Horn en las Fuerzas Especiales de Sudáfrica ?",
+        "propositions": [
+          "General",
+          "Sargento",
+          "Teniente",
+          "Capitán"
+        ],
+        "reponse": "Teniente",
+        "anecdote": "Volviendo a la vida civil, se graduó en el campo de la Ciencia del Movimiento Humano en la Universidad de Stellenbosch."
+      },
+      {
+        "id": 25,
+        "question": "¿En que país creó Mike Horn el Centro de actividades al aire libre sin límites ?",
+        "propositions": [
+          "Finlandia",
+          "Noruega",
+          "Canada",
+          "Suiza"
+        ],
+        "reponse": "Suiza",
+        "anecdote": "Al mismo tiempo (1995), Mike Horn se convirtió en un experto para la formación de guías de montaña suizos."
+      },
+      {
+        "id": 26,
+        "question": "¿En que monocasco Mike Horn batió un record mundial ?",
+        "propositions": [
+          "Arcoiris",
+          "Trebol",
+          "Paul-Ricard",
+          "Mari Cha III"
+        ],
+        "reponse": "Mari Cha III",
+        "anecdote": "Mike Horn se unió a la tripulación monocasco de 45 metros en 1997, lo que rompió el record mundial del cruce del Atlántico."
+      },
+      {
+        "id": 27,
+        "question": "¿En que proyecto luchó Mike Horn contra los estereotipos asociados con los tiburones ?",
+        "propositions": [
+          "Apex",
+          "Alerones",
+          "Charc",
+          "Proyecto Tiburon"
+        ],
+        "reponse": "Proyecto Tiburon",
+        "anecdote": "Este programa tambien tiene como objetivo crear conciencia sobre los problemas que enfrentan los oceanos en todo el mundo."
+      },
+      {
+        "id": 28,
+        "question": "¿Con que explorador noruego Mike Horn fue al Polo Norte en 2006 ?",
+        "propositions": [
+          "Olav Bjaaland",
+          "Cuerno de gunnar",
+          "Otto Sverdrup",
+          "Borge Ousland"
+        ],
+        "reponse": "Borge Ousland",
+        "anecdote": "El 23 de marzo de 2006, Borge Ousland y Mike Horn se convirtieron en las primeras personas en llegar al Polo Norte durante la noche polar."
+      },
+      {
+        "id": 29,
+        "question": "¿Que profundo cañón del padre Mike Horn descendió en hidrospeed ?",
+        "propositions": [
+          "Apurimac",
+          "Colca",
+          "Manseriche",
+          "Cotahuasi"
+        ],
+        "reponse": "Colca",
+        "anecdote": "En el fondo del cañón (más de 1 000 metros de degradado con Cabanaconde), el pueblo de Sangalle sirve de refugio para los excursionistas."
+      },
+      {
+        "id": 30,
+        "question": "¿En que libro dijo Mike Horn: « Todos crean las condiciones de su propia libertad » ?",
+        "propositions": [
+          "Latitud Cero",
+          "Extremo Norte",
+          "Libre!",
+          "Objetivo del Polo Norte"
+        ],
+        "reponse": "Libre!",
+        "anecdote": "Durante más de treinta años, ha estado enviando mensajes humanistas en los que muestra toda la fuerza de sus valores y su mente."
+      }
+    ]
+    },
+    "it": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "In quale di questi programmi Mike Horn accompagnava una persona nel deserto ?",
+        "propositions": [
+          "New Star",
+          "Fattore X",
+          "Express Express",
+          "Allo stato selvaggio"
+        ],
+        "reponse": "Allo stato selvaggio",
+        "anecdote": "Questo e l'adattamento francese dell'americano « Running Wild con Bear Grylls », trasmesso su NBC dal 2014."
+      },
+      {
+        "id": 2,
+        "question": "Come si chiamava la moglie di Mike Horn, incontrata nel 1990 e ora deceduta ?",
+        "propositions": [
+          "Marie",
+          "Sophie",
+          "Cathy",
+          "Sandra"
+        ],
+        "reponse": "Cathy",
+        "anecdote": "Nata in Nuova Zelanda, infermiera di formazione, Cathy ha incontrato il suo futuro amante in un caffe Chateau-d'Oex nel 1990."
+      },
+      {
+        "id": 3,
+        "question": "Quale nome ha dato Mike Horn al suo tour mondiale in Ecuador ?",
+        "propositions": [
+          "Ground Zero",
+          "Land Zero",
+          "Cape Zero",
+          "Latitudine zero"
+        ],
+        "reponse": "Latitudine zero",
+        "anecdote": "Su un'idea di Mick Regnier, Mike Horn percorrerà oltre 40.000 km da giugno 1999 a ottobre 2000 senza mezzi di trasporto motorizzato."
+      },
+      {
+        "id": 4,
+        "question": "In quale spedizione Mike Horn ha girato il mondo attraverso il circolo polare artico ?",
+        "propositions": [
+          "Arktos",
+          "Taris",
+          "Fabuloso",
+          "Libero di correre"
+        ],
+        "reponse": "Arktos",
+        "anecdote": "Durante una spedizione preliminare per raggiungere il Polo Nord, Mike Horn fu costretto ad abbandonare a causa del congelamento sulle sue mani."
+      },
+      {
+        "id": 5,
+        "question": "Con quale celebrità Mike Horn ha viaggiato nella giungla dello Sri Lanka ?",
+        "propositions": [
+          "Laure Manaudou",
+          "Shy'm",
+          "Mr Pokora",
+          "Michaal Youn"
+        ],
+        "reponse": "Mr Pokora",
+        "anecdote": "Per quattro giorni, hanno dovuto cacciare, pescare e costruire rifugi di fortuna per sopperire all'assenza di qualsiasi vita umana."
+      },
+      {
+        "id": 6,
+        "question": "Quale docu-avventura e Mike Horn che presenta su M6 dal 2015 ?",
+        "propositions": [
+          "Koh-Lanta",
+          "Dropped",
+          "L'isola",
+          "Express Express"
+        ],
+        "reponse": "L'isola",
+        "anecdote": "Un gruppo di individui deve cercare di sopravvivere senza aiuto su un'isola deserta per 28 giorni con una sola regola: sopravvivere."
+      },
+      {
+        "id": 7,
+        "question": "Quanti anni e durata la spedizione Pangea guidata da Mike Horn ?",
+        "propositions": [
+          "2 anni",
+          "5 anni",
+          "4 anni",
+          "3 anni"
+        ],
+        "reponse": "4 anni",
+        "anecdote": "Dal 2008 al 2012, la spedizione Pangea ha viaggiato in tutto il mondo con centinaia di giovani dai 15 ai 20 anni che si sono succeduti a vicenda."
+      },
+      {
+        "id": 8,
+        "question": "Con quale celebrità Mike Horn ha attraversato il deserto della Namibia ?",
+        "propositions": [
+          "Michaal Youn",
+          "Laure Manaudou",
+          "Shy'm",
+          "Mr Pokora"
+        ],
+        "reponse": "Michaal Youn",
+        "anecdote": "Il 28 giugno 2016, la trasmissione nella regione di Kaokoland e stata vista da tre milioni di spettatori su M6."
+      },
+      {
+        "id": 9,
+        "question": "Quanti numeri di « lo stato selvaggio » ha fatto Mike Horn prima di decidere di fermarsi ?",
+        "propositions": [
+          "Dieci",
+          "Quattro",
+          "Otto",
+          "Sei"
+        ],
+        "reponse": "Otto",
+        "anecdote": "Verranno scelti Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M e Franck Gastambide."
+      },
+      {
+        "id": 10,
+        "question": "Quando non spedisce, in quale paese risiede l'esploratore-avventuriero Mike Horn ?",
+        "propositions": [
+          "Svizzera",
+          "Canada",
+          "Francia",
+          "India"
+        ],
+        "reponse": "Svizzera",
+        "anecdote": "Mike Horn, il cui vero nome e Michael Horn, e nato il 16 luglio 1966 a Johannesburg, in Sudafrica."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quale di queste attività Mike Horn non ha esercitato ?",
+        "propositions": [
+          "Harvester",
+          "Barman",
+          "Taglialegna",
+          "Pianista"
+        ],
+        "reponse": "Pianista",
+        "anecdote": "Arrivato in Svizzera nel 1990 dal volo Johannesburg-Zurigo, le prime volte furono difficili e sopravvisse a lavori saltuari."
+      },
+      {
+        "id": 12,
+        "question": "Come si chiama la prima figlia dell'esploratore Mike Horn ?",
+        "propositions": [
+          "Tatiana",
+          "Francesca",
+          "Annika",
+          "Jessica"
+        ],
+        "reponse": "Annika",
+        "anecdote": "Jessica, la seconda figlia di Mike e Cathy (che soccomberà al cancro al seno nel 2015), nascerà il prossimo anno."
+      },
+      {
+        "id": 13,
+        "question": "In quale paese Mike Horn ha iniziato le sue avventure nel 1991 ?",
+        "propositions": [
+          "Brasile",
+          "Colombia",
+          "Pere",
+          "Bolivia"
+        ],
+        "reponse": "Pere",
+        "anecdote": "Il suo primo contatto con l'avventura ebbe luogo nel 1991 nelle Ande peruviane in rafting e parapendio."
+      },
+      {
+        "id": 14,
+        "question": "In quanti giorni Mike Horn ha attraversato la Groenlandia ?",
+        "propositions": [
+          "60 giorni",
+          "45 giorni",
+          "30 giorni",
+          "15 giorni"
+        ],
+        "reponse": "15 giorni",
+        "anecdote": "La spedizione di 808 giorni ha prodotto un film, « Arktos: The Inside Journey di Mike Horn », diretto e prodotto da Raphael Blanc."
+      },
+      {
+        "id": 15,
+        "question": "Quale barca a vela in alluminio da 35 metri ha costruito Mike Horn ?",
+        "propositions": [
+          "Namib",
+          "Arktos",
+          "Pangea",
+          "Makalu"
+        ],
+        "reponse": "Pangea",
+        "anecdote": "Costruito in Brasile, Mike Horn viaggerà con i Pangea in tutto il mondo in tutti e cinque i continenti senza alcun mezzo di trasporto motorizzato."
+      },
+      {
+        "id": 16,
+        "question": "Che diavolo ha deciso di esplorare Mike Horn nel 2016 ?",
+        "propositions": [
+          "Nubia",
+          "Gobero",
+          "Kaouar",
+          "Namib"
+        ],
+        "reponse": "Namib",
+        "anecdote": "L'8 maggio 2016, inizia la sua spedizione « Pole2Pole » da Monaco. Una volta arrivato sano, esplorerà il Namib."
+      },
+      {
+        "id": 17,
+        "question": "In quanti giorni Mike Horn ha attraversato l'Antartide in solitaria ?",
+        "propositions": [
+          "47 giorni",
+          "37 giorni",
+          "57 giorni",
+          "67 giorni"
+        ],
+        "reponse": "57 giorni",
+        "anecdote": "È senza motore e da solo che Mike Horn ha percorso circa 5100 chilometri per attraversare completamente l'Antartico."
+      },
+      {
+        "id": 18,
+        "question": "Quale isola del grande Nord Mike Horn del Canada ha attraversato con la sua famiglia ?",
+        "propositions": [
+          "Bylot",
+          "Matty",
+          "Hans",
+          "Cameron"
+        ],
+        "reponse": "Bylot",
+        "anecdote": "Dal 1925, il Canada ha rivendicato parte dell'Artico tra 60 ° W e 141 ° di longitudine ovest, estendendosi fino al Polo Nord."
+      },
+      {
+        "id": 19,
+        "question": "Come viene chiamato anche Gasherbrum che ho inciso da Mike Horn nel 2007 ?",
+        "propositions": [
+          "K5",
+          "K2",
+          "K7",
+          "K6"
+        ],
+        "reponse": "K5",
+        "anecdote": "Gasherbrum I, noto anche come K5 o Hidden Peak, e l'undicesima montagna piu alta del mondo."
+      },
+      {
+        "id": 20,
+        "question": "Chi ha fatto « Quattro Otto Migliaia » sulla spedizione himalayana di Mike Horn ?",
+        "propositions": [
+          "Drew Brees",
+          "David Ribeiro",
+          "Raphaal Blanc",
+          "Jean Buhler"
+        ],
+        "reponse": "David Ribeiro",
+        "anecdote": "Questo film, diretto da David Ribeiro (noto tra gli altri per il film « The Pink City »), e stato prodotto da On Air Productions."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quando ha ricevuto Mike Horn il premio Laureus come miglior atleta alternativo dell'anno ?",
+        "propositions": [
+          "2007",
+          "2001",
+          "2005",
+          "2003"
+        ],
+        "reponse": "2001",
+        "anecdote": "Da solo per 18 mesi, Mike Horn conoscerà ogni tipo di avventura con « Latitude Zero », il suo tour mondiale all'equatore."
+      },
+      {
+        "id": 22,
+        "question": "Quale picco in Himalaya ha raggiunto Mike Horn nel 2014 ?",
+        "propositions": [
+          "Annapurna",
+          "K2",
+          "Makalu",
+          "Manaslu"
+        ],
+        "reponse": "Makalu",
+        "anecdote": "Il Makalu e un picco himalayano che culmina a 8.485 metri sul livello del mare, al confine tra Tibet, Cina e Nepal."
+      },
+      {
+        "id": 23,
+        "question": "In quale sport il padre di Mike Horn ha fatto carriera ?",
+        "propositions": [
+          "Rugby",
+          "Golf",
+          "Tennis",
+          "Calcio"
+        ],
+        "reponse": "Rugby",
+        "anecdote": "Dopo aver insegnato sport e giocare a rugby, suo padre morì all'età di quarantadue anni quando Mike aveva diciotto anni."
+      },
+      {
+        "id": 24,
+        "question": "Qual era il grado di Mike Horn nelle forze speciali sudafricane ?",
+        "propositions": [
+          "Sergente",
+          "Capitano",
+          "Generale",
+          "Tenente"
+        ],
+        "reponse": "Tenente",
+        "anecdote": "Tornando alla vita civile, si e laureato nel campo della scienza del movimento umano presso l'Università di Stellenbosch."
+      },
+      {
+        "id": 25,
+        "question": "In quale paese Mike Horn ha creato il No Limit Activity Activity Centre ?",
+        "propositions": [
+          "Finlandia",
+          "Canada",
+          "Svizzera",
+          "Norvegia"
+        ],
+        "reponse": "Svizzera",
+        "anecdote": "Allo stesso tempo (1995), Mike Horn divenne un esperto per la formazione delle guide alpine svizzere."
+      },
+      {
+        "id": 26,
+        "question": "Su quale monarca Mike Horn ha battuto un record mondiale ?",
+        "propositions": [
+          "Paul-Ricard",
+          "Arcobaleno",
+          "Mari Cha III",
+          "Shamrock"
+        ],
+        "reponse": "Mari Cha III",
+        "anecdote": "Mike Horn e entrato a far parte dell'equipaggio monoscafo di 45 metri nel 1997, che ha battuto il record mondiale di traversate dell'Atlantico."
+      },
+      {
+        "id": 27,
+        "question": "In quale progetto Mike Horn ha combattuto gli stereotipi associati agli squali ?",
+        "propositions": [
+          "Alettoni",
+          "Apice",
+          "Progetto Shark",
+          "Charc"
+        ],
+        "reponse": "Progetto Shark",
+        "anecdote": "Questo programma ha anche lo scopo di aumentare la consapevolezza dei problemi che affliggono gli oceani in tutto il mondo."
+      },
+      {
+        "id": 28,
+        "question": "Con quale esploratore norvegese Mike Horn e andato al Polo Nord nel 2006 ?",
+        "propositions": [
+          "Borge Ousland",
+          "Olav Bjaaland",
+          "Corno di Gunnar",
+          "Otto Sverdrup"
+        ],
+        "reponse": "Borge Ousland",
+        "anecdote": "Il 23 marzo 2006, Borge Ousland e Mike Horn sono stati i primi a raggiungere il Polo Nord durante la notte polare."
+      },
+      {
+        "id": 29,
+        "question": "Quale profondo canyon di padre Mike Horn discese in hydrospeed ?",
+        "propositions": [
+          "Manseriche",
+          "Apurimac",
+          "Colca",
+          "Cotahuasi"
+        ],
+        "reponse": "Colca",
+        "anecdote": "In fondo al canyon (oltre 1 000 metri di degradato con Cabanaconde), il villaggio di Sangalle funge da rifugio per gli escursionisti."
+      },
+      {
+        "id": 30,
+        "question": "In quale libro Mike Horn ha detto: « Ognuno crea le condizioni della propria libertà » ?",
+        "propositions": [
+          "Estremo Nord",
+          "Obiettivo del Polo Nord",
+          "Latitudine zero",
+          "Gratuito!"
+        ],
+        "reponse": "Gratuito!",
+        "anecdote": "Da oltre trent'anni consegna messaggi umanisti in cui mostra tutta la forza dei suoi valori e della sua mente."
+      }
+    ]
+    },
+    "nl": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "In welke van deze programma's vergezelde Mike Horn iemand in de wildernis ?",
+        "propositions": [
+          "Nieuwe ster",
+          "In de vrije staat",
+          "X-factor",
+          "Express Express"
+        ],
+        "reponse": "In de vrije staat",
+        "anecdote": "Dit is de Franse bewerking van de Amerikaanse « Running Wild met Bear Grylls », uitgezonden op NBC sinds 2014."
+      },
+      {
+        "id": 2,
+        "question": "Hoe werd de vrouw van Mike Horn genoemd, ontmoet in 1990 en nu overleden ?",
+        "propositions": [
+          "Marie",
+          "Cathy",
+          "Sandra",
+          "Sophie"
+        ],
+        "reponse": "Cathy",
+        "anecdote": "Ze is geboren in Nieuw-Zeeland, een verpleegster door haar te trainen. Cathy ontmoette haar toekomstige minnaar in een Chateau-d'Oex-cafe in 1990."
+      },
+      {
+        "id": 3,
+        "question": "Welke naam gaf Mike Horn aan zijn wereldtournee door de ecuador ?",
+        "propositions": [
+          "Land Zero",
+          "Cape Zero",
+          "Latitude Zero",
+          "Ground Zero"
+        ],
+        "reponse": "Latitude Zero",
+        "anecdote": "Op basis van een idee van Mick Regnier reist Mike Horn meer dan 40.000 km van juni 1999 tot oktober 2000 zonder gemotoriseerd vervoer."
+      },
+      {
+        "id": 4,
+        "question": "In welke expeditie reisde Mike Horn de wereld rond door de poolcirkel ?",
+        "propositions": [
+          "Fabuloso",
+          "Arktos",
+          "Taris",
+          "Vrij om te rennen"
+        ],
+        "reponse": "Arktos",
+        "anecdote": "Tijdens een voorlopige expeditie om de Noordpool te bereiken, moest Mike Horn vanwege bevriezing aan zijn handen opgeven."
+      },
+      {
+        "id": 5,
+        "question": "Met welke beroemdheid Mike Horn heeft hij de jungle van Sri Lanka afgereisd ?",
+        "propositions": [
+          "Michaal Youn",
+          "Shy'm",
+          "Mr Pokora",
+          "Laure Manaudou"
+        ],
+        "reponse": "Mr Pokora",
+        "anecdote": "Vier dagen lang moesten ze jagen, vissen en provisorische schuilplaatsen bouwen om de afwezigheid van enig mensenleven te compenseren."
+      },
+      {
+        "id": 6,
+        "question": "Welk docu-avontuur presenteert Mike Horn sinds 2015 op M6 ?",
+        "propositions": [
+          "The Island",
+          "Dropped",
+          "Koh-Lanta",
+          "Express Express"
+        ],
+        "reponse": "The Island",
+        "anecdote": "Een groep individuen moet proberen te overleven zonder hulp op een onbewoond eiland gedurende 28 dagen met slechts een regel: overleven."
+      },
+      {
+        "id": 7,
+        "question": "Hoeveel jaar duurde de Pangea-expeditie onder leiding van Mike Horn ?",
+        "propositions": [
+          "2 jaar",
+          "3 jaar",
+          "5 jaar",
+          "4 jaar"
+        ],
+        "reponse": "4 jaar",
+        "anecdote": "Van 2008 tot 2012 reisde de Pangea-expeditie de hele wereld over met honderden jongeren van 15 tot 20 jaar die elkaar opvolgden."
+      },
+      {
+        "id": 8,
+        "question": "Met welke beroemdheid Mike Horn heeft hij de woestijn van Namibi ? doorkruist ?",
+        "propositions": [
+          "Shy'm",
+          "Mr Pokora",
+          "Michaal Youn",
+          "Laure Manaudou"
+        ],
+        "reponse": "Michaal Youn",
+        "anecdote": "Op 28 juni 2016 werd de uitzending in de regio Kaokoland door drie miljoen kijkers op M6 bekeken."
+      },
+      {
+        "id": 9,
+        "question": "Hoeveel nummers van « de wilde staat » heeft Mike Horn gevonden voordat hij besloot te stoppen ?",
+        "propositions": [
+          "Zes",
+          "Acht",
+          "Tien",
+          "Vier"
+        ],
+        "reponse": "Acht",
+        "anecdote": "Michaal Youn, M. Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M en Franck Gastambide zullen worden gekozen."
+      },
+      {
+        "id": 10,
+        "question": "Als het niet wordt verzonden, in welk land woont ontdekkingsreiziger-avonturier Mike Horn dan ?",
+        "propositions": [
+          "India",
+          "Zwitserland",
+          "Canada",
+          "Frankrijk"
+        ],
+        "reponse": "Zwitserland",
+        "anecdote": "Mike Horn, wiens echte naam Michael Horn is, werd geboren op 16 juli 1966 in Johannesburg, Zuid-Afrika."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Welke van deze activiteiten heeft Mike Horn niet uitgevoerd ?",
+        "propositions": [
+          "Houthakker",
+          "Barman",
+          "Pianist",
+          "Harvester"
+        ],
+        "reponse": "Pianist",
+        "anecdote": "Aangekomen in Zwitserland in 1990 door de vlucht Johannesburg-Zürich, de eerste keren waren moeilijk en hij overleefde klusjes."
+      },
+      {
+        "id": 12,
+        "question": "Hoe heet de eerste dochter van ontdekkingsreiziger Mike Horn ?",
+        "propositions": [
+          "Tatiana",
+          "Jessica",
+          "Francesca",
+          "Annika"
+        ],
+        "reponse": "Annika",
+        "anecdote": "Jessica, de tweede dochter van Mike en Cathy (die in 2015 aan borstkanker zal bezwijken), wordt het jaar daarop geboren."
+      },
+      {
+        "id": 13,
+        "question": "In welk land begon Mike Horn zijn avonturen in 1991 ?",
+        "propositions": [
+          "Colombia",
+          "Brazilia",
+          "Pere",
+          "Bolivia"
+        ],
+        "reponse": "Pere",
+        "anecdote": "Zijn eerste contact met avontuur vond plaats in 1991 in de Peruviaanse Andes in raften en paragliden."
+      },
+      {
+        "id": 14,
+        "question": "In hoeveel dagen kruiste Mike Horn Groenland ?",
+        "propositions": [
+          "15 dagen",
+          "45 dagen",
+          "30 dagen",
+          "60 dagen"
+        ],
+        "reponse": "15 dagen",
+        "anecdote": "De 808-daagse expeditie resulteerde in een film, « Arktos: The Inside Journey of Mike Horn », geregisseerd en geproduceerd door Raphael Blanc."
+      },
+      {
+        "id": 15,
+        "question": "Welke 35 meter lange aluminium zeilboot heeft Mike Horn gebouwd ?",
+        "propositions": [
+          "Pangaea",
+          "Namib",
+          "Makalu",
+          "Arktos"
+        ],
+        "reponse": "Pangaea",
+        "anecdote": "Gebouwd in Brazilia, reist Mike Horn met de Pangea de wereld rond op alle vijf continenten zonder enige vorm van gemotoriseerd transport."
+      },
+      {
+        "id": 16,
+        "question": "Wat heeft Mike Horn besloten om te verkennen in 2016 ?",
+        "propositions": [
+          "Kaouar",
+          "Gobero",
+          "Namib",
+          "Nubia"
+        ],
+        "reponse": "Namib",
+        "anecdote": "Op 8 mei 2016 begint hij zijn « Pole2Pole » expeditie vanuit Monaco. Eenmaal veilig aangekomen, gaat hij de Namib verkennen."
+      },
+      {
+        "id": 17,
+        "question": "In hoeveel dagen kruiste Mike Horn Antarctica solo ?",
+        "propositions": [
+          "67 dagen",
+          "47 dagen",
+          "57 dagen",
+          "37 dagen"
+        ],
+        "reponse": "57 dagen",
+        "anecdote": "Het is zonder motor en alleen dat Mike Horn bijna 5100 kilometer heeft afgelegd om volledig Antarctisch over te steken."
+      },
+      {
+        "id": 18,
+        "question": "Welk eiland van het grote noorden van het eiland Mike Horn is met zijn gezin overgestoken ?",
+        "propositions": [
+          "Matty",
+          "Bylot",
+          "Cameron",
+          "Hans"
+        ],
+        "reponse": "Bylot",
+        "anecdote": "Sinds 1925 heeft Canada een deel van het Arctische gebied opgeaist tussen 60 ° O en 141 ° W lenglengte, dat zich uitstrekt tot aan de Noordpool."
+      },
+      {
+        "id": 19,
+        "question": "Hoe heet ook Gasherbrum I, gegraveerd door Mike Horn in 2007 ?",
+        "propositions": [
+          "K7",
+          "K2",
+          "K5",
+          "K6"
+        ],
+        "reponse": "K5",
+        "anecdote": "Gasherbrum I, ook bekend als K5 of Hidden Peak, is de elfde hoogste berg ter wereld."
+      },
+      {
+        "id": 20,
+        "question": "Wie heeft « Four Eight Duizenden » gemaakt op Mike Horn's Himalaya-expeditie ?",
+        "propositions": [
+          "David Ribeiro",
+          "Raphaal Blanc",
+          "Jean Buhler",
+          "Drew Brees"
+        ],
+        "reponse": "David Ribeiro",
+        "anecdote": "Deze film, geregisseerd door David Ribeiro (onder meer bekend van de film « The Pink City »), werd geproduceerd door On Air Productions."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wanneer ontving Mike Horn de Laureus Award voor beste alternatieve sportman van het jaar ?",
+        "propositions": [
+          "2001",
+          "2005",
+          "2003",
+          "2007"
+        ],
+        "reponse": "2001",
+        "anecdote": "Alleen al 18 maanden beleeft Mike Horn allerlei omzwervingen met « Latitude Zeros », zijn wereldtournee door de ecuador."
+      },
+      {
+        "id": 22,
+        "question": "Welke piek in de Himalaya bereikte Mike Horn in 2014 ?",
+        "propositions": [
+          "Makalu",
+          "Manaslu",
+          "Annapurna",
+          "K2"
+        ],
+        "reponse": "Makalu",
+        "anecdote": "Makalu is een Himalaya-piek met als hoogtepunt 8.485 meter boven de zeespiegel, op de grens tussen Tibet, China en Nepal."
+      },
+      {
+        "id": 23,
+        "question": "In welke sport heeft de vader van Mike Horn carriare gemaakt ?",
+        "propositions": [
+          "Tennis",
+          "Rugby",
+          "Voetbal",
+          "Golf"
+        ],
+        "reponse": "Rugby",
+        "anecdote": "Na het geven van sport en het spelen van rugby stierf zijn vader op tweeanveertigjarige leeftijd toen Mike achttien was."
+      },
+      {
+        "id": 24,
+        "question": "Wat was de rang van Mike Horn in de Zuid-Afrikaanse Special Forces ?",
+        "propositions": [
+          "Algemeen",
+          "Sergeant",
+          "Captain",
+          "Luitenant"
+        ],
+        "reponse": "Luitenant",
+        "anecdote": "Terugkerend naar het burgerleven studeerde hij af op het gebied van Human Movement Science aan de Universiteit van Stellenbosch."
+      },
+      {
+        "id": 25,
+        "question": "In welk land heeft Mike Horn het No Limits Outdoor Activity Centre opgericht ?",
+        "propositions": [
+          "Canada",
+          "Zwitserland",
+          "Finland",
+          "Noorwegen"
+        ],
+        "reponse": "Zwitserland",
+        "anecdote": "Tegelijkertijd (1995) werd Mike Horn een expert in het trainen van Zwitserse berggidsen."
+      },
+      {
+        "id": 26,
+        "question": "Op welke monohull sloeg Mike Horn een wereldrecord ?",
+        "propositions": [
+          "Rainbow",
+          "Mari Cha III",
+          "Paul-Ricard",
+          "Shamrock"
+        ],
+        "reponse": "Mari Cha III",
+        "anecdote": "Mike Horn vervoegde de 45-meter monohull-crew in 1997, die het wereldrecord over de Atlantische oversteek brak."
+      },
+      {
+        "id": 27,
+        "question": "In welk project vecht Mike Horn tegen de stereotypen die geassocieerd worden met haaien ?",
+        "propositions": [
+          "Ailerons",
+          "Charc",
+          "Shark Project",
+          "Apex"
+        ],
+        "reponse": "Shark Project",
+        "anecdote": "Dit programma heeft ook tot doel mensen bewust te maken van de problemen waarmee de oceanen wereldwijd worden geconfronteerd."
+      },
+      {
+        "id": 28,
+        "question": "Met welke Noorse ontdekkingsreiziger Mike Horn ging hij in 2006 naar de Noordpool ?",
+        "propositions": [
+          "Gunnar Horn",
+          "Otto Sverdrup",
+          "Olav Bjaaland",
+          "Borge Ousland"
+        ],
+        "reponse": "Borge Ousland",
+        "anecdote": "Op 23 maart 2006 zijn Borge Ousland en Mike Horn de eerste mensen die de Noordpool bereikten tijdens de poolnacht."
+      },
+      {
+        "id": 29,
+        "question": "Welke diepe kloof van vader Mike Horn daalde af in hydrospeed ?",
+        "propositions": [
+          "Manseriche",
+          "Colca",
+          "Cotahuasi",
+          "Apurimac"
+        ],
+        "reponse": "Colca",
+        "anecdote": "Aan de voet van de kloof (meer dan 1 000 meter afgebroken met Cabanaconde), is het dorp Sangalle een toevluchtsoord voor trekkers."
+      },
+      {
+        "id": 30,
+        "question": "In welk boek zei Mike Horn: « Iedereen schept de voorwaarden voor zijn eigen vrijheid » ?",
+        "propositions": [
+          "Latitude Zero",
+          "Far North",
+          "Noordpooldoelstelling",
+          "Gratis!"
+        ],
+        "reponse": "Gratis!",
+        "anecdote": "Al meer dan dertig jaar brengt hij humanistische boodschappen tot stand waarin hij alle kracht toont van zijn waarden en zijn geest."
+      }
+    ]
+    }
+  }
+}

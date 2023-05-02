@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
+  "version": 1,
+  "mise-à-jour": "2022-04-29",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Musique",
+      "nom": "New wave",
+      "slogan": "Synthetiseurs et boîtes à rythmes"
+    },
+    "en": {
+      "categorie": "Music",
+      "nom": "New-wave",
+      "slogan": "Synthesizers and Drum Machines"
+    },
+    "es": {
+      "categorie": "Música",
+      "nom": "Nueva ola",
+      "slogan": "Sintetizadores y cajas de ritmos"
+    },
+    "it": {
+      "categorie": "Musica",
+      "nom": "Nuova ondata",
+      "slogan": "Sintetizzatori e Drum Machine"
+    },
+    "de": {
+      "categorie": "Musik",
+      "nom": "Neue Welle",
+      "slogan": "Synthesizer und Drumcomputer"
+    },
+    "nl": {
+      "categorie": "Muziek",
+      "nom": "New-wave",
+      "slogan": "Synthesizers en drummachines"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Dans quel groupe chante Robert Smith, avec sa coiffure arachneenne caracteristique ?",
+        "propositions": [
+          "Cocteau Twins",
+          "Alphaville",
+          "Indochine",
+          "The Cure"
+        ],
+        "reponse": "The Cure",
+        "anecdote": "Robert Smith est l'auteur de la quasi-totalite des textes qu'il interprete et le principal compositeur des titres du groupe The Cure."
+      },
+      {
+        "id": 2,
+        "question": "« Don't you want me » fut l'un des plus grands tubes de quel groupe new wave ?",
+        "propositions": [
+          "Kajagoogoo",
+          "Spandau Ballet",
+          "INXS",
+          "The Human League"
+        ],
+        "reponse": "The Human League",
+        "anecdote": "Le groupe se forma au debut de l'annee 1978 avec le chanteur Phil Oakey et les clavieristes Martyn Ware et Ian Marsh."
+      },
+      {
+        "id": 3,
+        "question": "À quel groupe new wave peut-on associer les tubes « Electricity » et « Enola Gay » ?",
+        "propositions": [
+          "Joy Division",
+          "OMD",
+          "Fox The Fox",
+          "Yazoo"
+        ],
+        "reponse": "OMD",
+        "anecdote": "En 1983, un extrait de la chanson « Souvenir » a ete utilise dans une bande publicitaire pour BNP Paribas."
+      },
+      {
+        "id": 4,
+        "question": "Quel groupe a connu son premier grand tube en 1981 avec « Tainted Love » ?",
+        "propositions": [
+          "Depeche Mode",
+          "Yazoo",
+          "Soft Cell",
+          "Simple Minds"
+        ],
+        "reponse": "Soft Cell",
+        "anecdote": "Ce morceau a ete repris de nombreuses fois, notamment par Marilyn Manson en 2001 pour la BO du film « Sex Academy »."
+      },
+      {
+        "id": 5,
+        "question": "Quel groupe new wave et pop britannique a ete cree par l'incomparable Boy George ?",
+        "propositions": [
+          "Kajagoogoo",
+          "Bronski Beat",
+          "Erasure",
+          "Culture Club"
+        ],
+        "reponse": "Culture Club",
+        "anecdote": "Boy George et Culture Club sont rapidement devenus pour le public americain le fer de lance de la grande nouvelle vague (new wave)."
+      },
+      {
+        "id": 6,
+        "question": "À quel groupe new wave doit-on le hit « Shout », enregistre en 1984 ?",
+        "propositions": [
+          "Dead Or Alive",
+          "Pet Shop Boys",
+          "Cocteau Twins",
+          "Tears For Fears"
+        ],
+        "reponse": "Tears For Fears",
+        "anecdote": "Accompagnee de percussions, la chanson va musicalement devenir de plus en plus riche au fur et à mesure qu'elle progresse."
+      },
+      {
+        "id": 7,
+        "question": "Quel est le plus gros succes commercial de l'existence du groupe New Order ?",
+        "propositions": [
+          "Ultraviolence",
+          "Blue Monday",
+          "Sunrise",
+          "Paradise"
+        ],
+        "reponse": "Blue Monday",
+        "anecdote": "Le groupe se composait au depart des membres restant du groupe Joy Division dont le chanteur Ian Curtis s'est suicide."
+      },
+      {
+        "id": 8,
+        "question": "Quel groupe a connu son premier succes aupres du public avec le single « People Are People » ?",
+        "propositions": [
+          "Bauhaus",
+          "U2",
+          "Depeche Mode",
+          "The Chameleons"
+        ],
+        "reponse": "Depeche Mode",
+        "anecdote": "« People Are People » est l'oeuvre de Martin Gore, l'air dansant de la chanson etant quant à elle à mettre au credit d'Alan Wilder."
+      },
+      {
+        "id": 9,
+        "question": "Quel groupe anglais a obtenu son premier numero un dans les classements avec « Relax » ?",
+        "propositions": [
+          "U2",
+          "OMD",
+          "A4D",
+          "FGTH"
+        ],
+        "reponse": "FGTH",
+        "anecdote": "La chanson « Relax » a ensuite ete incluse dans l'album « Welcome to the Pleasuredome » sorti un an plus tard."
+      },
+      {
+        "id": 10,
+        "question": "« Such a Shame » a ete l'un des plus grands tubes de quel groupe musical ?",
+        "propositions": [
+          "Eurythmics",
+          "Talk Talk",
+          "New Order",
+          "Talking Heads"
+        ],
+        "reponse": "Talk Talk",
+        "anecdote": "« Such a Shame », ecrite par Mark Hollis, fut grandement inspiree par le roman culte de l'auteur americain Luke Rhinehart « L'Homme-de »."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Quels nouveaux romantiques furent emmenes par Simon Le Bon dans les annees 1980 ?",
+        "propositions": [
+          "Ting Tings",
+          "Duran Duran",
+          "Tears For Fears",
+          "Talk Talk"
+        ],
+        "reponse": "Duran Duran",
+        "anecdote": "C'est la petite amie de l'epoque de Le Bon, Fiona Kemp, barmaid au Rum Runner, qui a presente le futur chanteur au reste du groupe."
+      },
+      {
+        "id": 12,
+        "question": "Quel groupe est compose des membres restant du groupe Joy Division ?",
+        "propositions": [
+          "New World",
+          "New Order",
+          "Kajagoogoo",
+          "Soft Cell"
+        ],
+        "reponse": "New Order",
+        "anecdote": "Joy Division, considere comme l'un des initiateurs de la cold wave, est l'un des groupes precurseurs et « parrains du rock gothique »."
+      },
+      {
+        "id": 13,
+        "question": "Quel nom de groupe, pionnier de la dream pop, fait reference à un grand ecrivain ?",
+        "propositions": [
+          "Dead Can Dance",
+          "Sparks",
+          "London Grammar",
+          "Cocteau Twins"
+        ],
+        "reponse": "Cocteau Twins",
+        "anecdote": "La musique des Cocteau Twins est aerienne, à la fois melancolique et legere, mais surtout tres abstraite."
+      },
+      {
+        "id": 14,
+        "question": "Dans quel trio anglais le chanteur a-t-il une voix à briser du cristal ?",
+        "propositions": [
+          "China Crisis",
+          "The Associates",
+          "Bronski Beat",
+          "Duran Duran"
+        ],
+        "reponse": "Bronski Beat",
+        "anecdote": "Forme à Londres en 1983, le groupe Bronski Beat est surtout connu pour son morceau planetaire « Smalltown Boy »."
+      },
+      {
+        "id": 15,
+        "question": "L'album « Reggatta de Blanc » fait partie de la discographie de quel groupe ?",
+        "propositions": [
+          "The Clash",
+          "The Scabs",
+          "The Cramps",
+          "The Police"
+        ],
+        "reponse": "The Police",
+        "anecdote": "Avec l'album « Reggatta de Blanc », Sting a ete elu par le New Musical Express meilleur chanteur de l'annee 1979."
+      },
+      {
+        "id": 16,
+        "question": "Quel groupe punk a doucement glisse vers la new wave avec le titre « Golden Brown » ?",
+        "propositions": [
+          "The Clash",
+          "The Stranglers",
+          "The Police",
+          "The Scabs"
+        ],
+        "reponse": "The Stranglers",
+        "anecdote": "Ode à l'heroïne et aux femmes, les arrangements acoustiques et le rythme de valse de « Golden Brown » en font un titre intemporel."
+      },
+      {
+        "id": 17,
+        "question": "Alphaville est un groupe new wave de quelle nationalite ?",
+        "propositions": [
+          "Suisse",
+          "Anglaise",
+          "Danoise",
+          "Allemande"
+        ],
+        "reponse": "Allemande",
+        "anecdote": "Le nom du groupe a ete choisi en reference au film « Alphaville, une etrange aventure de Lemmy Caution » de Jean-Luc Godard."
+      },
+      {
+        "id": 18,
+        "question": "Quel est le titre du premier album du groupe Indochine, sorti en 1982 ?",
+        "propositions": [
+          "7000 danses",
+          "L'Aventurier",
+          "Le Baiser",
+          "Le Peril jaune"
+        ],
+        "reponse": "L'Aventurier",
+        "anecdote": "Apres un desinteret manifeste des medias pour Indochine dans les annees 1990, le groupe a retrouve le succes en 2002."
+      },
+      {
+        "id": 19,
+        "question": "Sur quelle chaîne de television musicale la new wave s'est-elle fortement concretisee ?",
+        "propositions": [
+          "Fun TV",
+          "MTV",
+          "MusiMax",
+          "Mezzo"
+        ],
+        "reponse": "MTV",
+        "anecdote": "À l'origine, comme pour le post-punk, la new wave definissait les nouveaux groupes et artistes pop rock anglo-americains."
+      },
+      {
+        "id": 20,
+        "question": "Quelle est la nationalite du groupe Front 242, assimile au mouvement new wave ?",
+        "propositions": [
+          "Suisse",
+          "Hollandaise",
+          "Belge",
+          "Allemande"
+        ],
+        "reponse": "Belge",
+        "anecdote": "Par ses prises de position radicales et par sa musique atypique et anti-consensuelle, Front 242 n'a jamais fait l'unanimite."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Ian Curtis et sa voix mortifere faisait partie de quel celebre groupe du mouvement new wave ?",
+        "propositions": [
+          "Killing Joke",
+          "The Pretenders",
+          "New Order",
+          "Joy Division"
+        ],
+        "reponse": "Joy Division",
+        "anecdote": "Le groupe gagnant en popularite, Ian Curtis souffrit de sa celebrite naissante qui s'accordait mal avec sa vie privee."
+      },
+      {
+        "id": 22,
+        "question": "Quel groupe francais interprete le titre « Cherchez le garcon », encore souvent diffuse ?",
+        "propositions": [
+          "Bijou",
+          "Goûts de Luxe",
+          "Taxi Girl",
+          "Les Infideles"
+        ],
+        "reponse": "Taxi Girl",
+        "anecdote": "Taxi Girl est un groupe de l'after punk à tendance new wave et à l'esthetique romantique, rouge et noire, magnetique et punk."
+      },
+      {
+        "id": 23,
+        "question": "Le nom de quel groupe musical des annees 1980 provient d'un graffiti apercu à Berlin ?",
+        "propositions": [
+          "Bronski Beat",
+          "Spandau Ballet",
+          "Talk Talk",
+          "Duran Duran"
+        ],
+        "reponse": "Spandau Ballet",
+        "anecdote": "Initialement inspire par un melange de funk, de jazz et de rock, le groupe s'est successivement appele The Cut puis The Makers."
+      },
+      {
+        "id": 24,
+        "question": "À quelle chanteuse anglaise doit-on le tube « Our Darkness » ?",
+        "propositions": [
+          "Anne Clark",
+          "Blondie",
+          "Patti Smith",
+          "Cyndi Lauper"
+        ],
+        "reponse": "Anne Clark",
+        "anecdote": "Sa musique experimentale la positionne comme une artiste majeure des annees 1980 : les textes ne sont en effet pas chantes."
+      },
+      {
+        "id": 25,
+        "question": "À quel groupe doit-on le legendaire « Flash in the Night » ?",
+        "propositions": [
+          "Secret Service",
+          "Saxon",
+          "The Korgis",
+          "Yazoo"
+        ],
+        "reponse": "Secret Service",
+        "anecdote": "En 1986, le chanteur Ola Hakansson a fait un duo avec Agnetha Faltskog, la chanteuse d'ABBA, intitule « The Way You Are »."
+      },
+      {
+        "id": 26,
+        "question": "Que vous rappelle « Un homme, dans une gare isolee, une valise à ses côtes » ?",
+        "propositions": [
+          "New Order",
+          "Visage",
+          "OMD",
+          "Tears For Fears"
+        ],
+        "reponse": "Visage",
+        "anecdote": "Le morceau « Fade to Grey » est aujourd'hui considere comme le premier single du courant musical Nouveaux Romantiques."
+      },
+      {
+        "id": 27,
+        "question": "Quel film documentaire, realise par Anton Corbijn, retrace la vie du chanteur Ian Curtis ?",
+        "propositions": [
+          "Control",
+          "Life",
+          "Closer",
+          "Linear"
+        ],
+        "reponse": "Control",
+        "anecdote": "Le scenario de « Control » est adapte du roman « Touching from a Distance », de sa femme Deborah, egalement coproductrice du film."
+      },
+      {
+        "id": 28,
+        "question": "Lequel de ces groupes new wave n'est pas issu de la ville de Manchester ?",
+        "propositions": [
+          "The Smiths",
+          "Sex Pistols",
+          "Joy Division",
+          "New Order"
+        ],
+        "reponse": "Sex Pistols",
+        "anecdote": "Les Sex Pistols sont un groupe forme en 1975 à Londres, connus pour etre les initiateurs du mouvement punk au Royaume-Uni."
+      },
+      {
+        "id": 29,
+        "question": "Qui est le chanteur du groupe britannique Echo and the Bunnymen ?",
+        "propositions": [
+          "Ian McCulloch",
+          "Joe Strummer",
+          "Dave Gahan",
+          "Robert Smith"
+        ],
+        "reponse": "Ian McCulloch",
+        "anecdote": "Le groupe Echo and the Bunnymen, toujours en activite, s'est disloque en 1988, separe en 1992 et reforme en 1996."
+      },
+      {
+        "id": 30,
+        "question": "Quel label independant compte parmi son catalogue Joy Division et New Order ?",
+        "propositions": [
+          "Radar Records",
+          "China Records",
+          "Mute Records",
+          "Factory Records"
+        ],
+        "reponse": "Factory Records",
+        "anecdote": "Tout comme le label 4AD, Factory Records disposait d'une equipe creative qui assura à ses artistes un son et une image singuliers."
+      }
+    ]
+    }
+  }
+}

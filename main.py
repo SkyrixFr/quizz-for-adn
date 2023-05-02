@@ -1,39 +1,54 @@
+import json
+from random import randint as rdint
+
 import cv2
-import mediapipe as mp
-import time
+import cvzone
+from cvzone.HandTrackingModule import HandDetector
+
+import appending_questions
+
+"""
+CVZONE fonctionne comme ca:
+colorR pour couleure intérieure
+colorT pour couleure texte
+colorB pour coleure bordure
+
+"""
+
+questions,reponses = appending_questions.get_questions()
+
+i=0
+question=[]
+reponse=[]
+while i<4:
+    try:
+        nb=rdint(0,3000)
+        print(nb)
+        question.append(questions[nb])
+        reponse.append(reponses[nb])
+        i+=1
+    except IndexError:
+        pass
+print(question,reponse)
+
 cap = cv2.VideoCapture(0)
-
-mpHands = mp.solutions.hands
-hands = mpHands.Hands(static_image_mode=False,
-                      max_num_hands=2,
-                      min_detection_confidence=0.5,
-                      min_tracking_confidence=0.5)
-mpDraw = mp.solutions.drawing_utils
-
-pTime = 0
-cTime = 0
+cap.set(3, 1920)
+cap.set(4, 1080)
+detector = HandDetector(detectionCon=0.8)
 
 while True:
+
     success, img = cap.read()
-    imgRGB = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-    results = hands.process(imgRGB)
-    #print(results.multi_hand_landmarks)
-    if results.multi_hand_landmarks:
-        for handLms in results.multi_hand_landmarks:
-            for id, lm in enumerate(handLms.landmark):
-                print(lm)
-                h, w, c = img.shape
-                cx, cy = int(lm.x *w), int(lm.y*h)
-                #if id ==0:
-                cv2.circle(img, (cx,cy), 3, (255,0,255), cv2.FILLED)
+    img = cv2.flip(img, 1)
+    hands, img = detector.findHands(img, flipType=False)
 
-            mpDraw.draw_landmarks(img, handLms, mpHands.HAND_CONNECTIONS)
+    img, bbox0 = cvzone.putTextRect(img, question[0], [100, 100], 2, 2, offset=50, border=5)
+    img, bbox1 = cvzone.putTextRect(img, reponse[0][0], [150, 350], 2, 2, offset=50, border=5)
+    img, bbox2 = cvzone.putTextRect(img, reponse[0][1], [700, 350], 2, 2, offset=50, border=5)
+    img, bbox3 = cvzone.putTextRect(img, reponse[0][2], [150, 500], 2, 2, offset=50, border=5)
+    img, bbox4 = cvzone.putTextRect(img, reponse[0][3], [700, 500], 2, 2, offset=50, border=5)
 
-    cTime = time.time()
-    fps = 1/(cTime-pTime)
-    pTime = cTime
 
-    cv2.putText(img,str(int(fps)), (10,70), cv2.FONT_HERSHEY_PLAIN, 3, (255,0,255), 3)
-
-    cv2.imshow("Image", img)
+    #imgs = cv2.resize(img, (1920,1080))
+    cv2.imshow("Game by Skyrix_ and justekaka", img) #change to imgs to change resolution
     cv2.waitKey(1)

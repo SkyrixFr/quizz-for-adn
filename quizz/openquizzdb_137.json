@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "2 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Celebrites",
+      "nom": "People : fev. 2017",
+      "slogan": "Ils ont fait l'actualite"
+    },
+    "en": {
+      "categorie": "Celebrities",
+      "nom": "People: Feb 2017",
+      "slogan": "They made the news"
+    },
+    "es": {
+      "categorie": "Famosos",
+      "nom": "Gente: febrero de 2017",
+      "slogan": "Fueron noticia"
+    },
+    "it": {
+      "categorie": "Celebrità",
+      "nom": "Persone: febbraio 2017",
+      "slogan": "Hanno fatto notizia"
+    },
+    "de": {
+      "categorie": "Prominente",
+      "nom": "Personen: Februar 2017",
+      "slogan": "Sie machten die Nachrichten"
+    },
+    "nl": {
+      "categorie": "Beroemdheden",
+      "nom": "Mensen: februari 2017",
+      "slogan": "Ze haalden het nieuws"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Qui Ian Somerhalder a-t-il à nouveau rencontre lors d'un dîner avec sa femme en fevrier 2017 ?",
+        "propositions": [
+          "Nina Dobrev",
+          "Katerina Graham",
+          "Sara Canning",
+          "Candice King"
+        ],
+        "reponse": "Nina Dobrev",
+        "anecdote": "Les deux acteurs et anciens amants, en froid depuis un certain temps dejà, semblent desormais reconcilies."
+      },
+      {
+        "id": 2,
+        "question": "Quelle chanteuse s'est opposee à la marque « Kylie » deposee par Kylie Jenner ?",
+        "propositions": [
+          "Tina Arena",
+          "Norah Jones",
+          "Isabelle Boulay",
+          "Kylie Minogue"
+        ],
+        "reponse": "Kylie Minogue",
+        "anecdote": "Devenue sex-symbol, Kylie Minogue est aujourd'hui une des celebrites les plus reconnaissables de sa generation."
+      },
+      {
+        "id": 3,
+        "question": "Quelle ex-presentatrice meteo sur TF1 est devenue chroniqueuse pour Le Point ?",
+        "propositions": [
+          "Sophie Davant",
+          "Valerie Maurice",
+          "Évelyne Dheliat",
+          "Catherine Laborde"
+        ],
+        "reponse": "Catherine Laborde",
+        "anecdote": "L'annonce de son depart est revelee « avec surprise » à la fin du journal televise de 20h de TF1, le 1er janvier 2017."
+      },
+      {
+        "id": 4,
+        "question": "Quel explorateur sud-africain a traverse l'Antarctique en 57 jours sans assistance ?",
+        "propositions": [
+          "Bertrand Piccard",
+          "Mike Horn",
+          "Francis Drake",
+          "Robert Gray"
+        ],
+        "reponse": "Mike Horn",
+        "anecdote": "Le premier contact de Mike Horn avec l'aventure a lieu en 1991 ou il decida d'explorer les Andes peruviennes en raft et parapente."
+      },
+      {
+        "id": 5,
+        "question": "Quelle ex-compagne de Jean-Paul Belmondo a ete condamnee à neuf mois de prison ?",
+        "propositions": [
+          "Salome Richard",
+          "Lisa Boyle",
+          "Barbara Gandolfi",
+          "Ruby Rose"
+        ],
+        "reponse": "Barbara Gandolfi",
+        "anecdote": "Barbara Gandolfi a ete condamnee à neuf mois de prison avec sursis et 5 500 euros d'amende pour avoir escroque Jean-Paul Belmondo."
+      },
+      {
+        "id": 6,
+        "question": "Quelle star mondiale a signe son grand retour à la mi-temps du Super Bowl 2017 ?",
+        "propositions": [
+          "Beyonce",
+          "Rihana",
+          "Lady Gaga",
+          "Britney Spears"
+        ],
+        "reponse": "Lady Gaga",
+        "anecdote": "La chanteuse aux dizaines de tubes planetaires y a electrise la scene du NRG Stadium pour le plus grand plaisir de ses fans."
+      },
+      {
+        "id": 7,
+        "question": "Quel chanteur a suivi pour M6 l'aventurier Mike Horn dans la jungle du Sri Lanka ?",
+        "propositions": [
+          "Julien Dore",
+          "M. Pokora",
+          "Amir",
+          "Christophe Mae"
+        ],
+        "reponse": "M. Pokora",
+        "anecdote": "Comme Michaal Youn en Namibie, le chanteur a depasse ses limites aux côtes de l'aventurier Mike Horn dans « À l'etat sauvage »."
+      },
+      {
+        "id": 8,
+        "question": "Quel candidat à la presidentielle 2017 a utilise un hologramme, à la surprise de tous ?",
+        "propositions": [
+          "Francois Bayrou",
+          "Philippe Poutou",
+          "Jean-Luc Melenchon",
+          "Nicolas Sarkozy"
+        ],
+        "reponse": "Jean-Luc Melenchon",
+        "anecdote": "Le candidat de la France insoumise à la presidentielle a tenu deux meetings simultanes le dimanche 5 fevrier 2017."
+      },
+      {
+        "id": 9,
+        "question": "Quel candidat des « 12 Coups de midi » a remporte 809.392 euros de gain ?",
+        "propositions": [
+          "Patrick",
+          "Christian",
+          "Bertrand",
+          "Michel"
+        ],
+        "reponse": "Christian",
+        "anecdote": "Le magazine « Society » a realise un portrait du « Professeur » montrant quel adversaire redoutable et redoute Christian etait."
+      },
+      {
+        "id": 10,
+        "question": "Quel important anniversaire la chanteuse Shakira a-t-elle fete en fevrier 2017 ?",
+        "propositions": [
+          "Ses 40 ans",
+          "Ses 50 ans",
+          "Ses 20 ans",
+          "Ses 30 ans"
+        ],
+        "reponse": "Ses 40 ans",
+        "anecdote": "Son association Pies Descalzos vient en aide aux enfants defavorises dont les familles ont ete victimes de groupes armes."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "Qui a fait ses debuts à la presentation du Mad Mag sur NRJ12 en fevrier 2017 ?",
+        "propositions": [
+          "Caroline Receveur",
+          "Jeny Priez",
+          "Cyril Hanouna",
+          "Julien Castaldi"
+        ],
+        "reponse": "Julien Castaldi",
+        "anecdote": "À 20 ans, le fils aîne de Benjamin Castaldi a fait ses premiers pas de chroniqueur dans le « Mad Mag » aux côtes d'Ayem."
+      },
+      {
+        "id": 12,
+        "question": "Quelle actrice a accueilli avec Andre Meyer leur premier enfant debut 2017 ?",
+        "propositions": [
+          "Lea Seydoux",
+          "Berenice Marlohe",
+          "Adele Exarchopoulos",
+          "Naomie Harris"
+        ],
+        "reponse": "Lea Seydoux",
+        "anecdote": "Pour « La Vie d'Adele », Lea Seydoux est recompensee par le jury du Festival de Cannes 2013 qui lui attribue la Palme d'or."
+      },
+      {
+        "id": 13,
+        "question": "Quel chroniqueur de l'emission TPMP a fait un court sejour parmi « Les Anges 9 » ?",
+        "propositions": [
+          "Jean-Michel Maire",
+          "Benjamin Castaldi",
+          "Matthieu Delormeau",
+          "Jean-Luc Lemoine"
+        ],
+        "reponse": "Jean-Michel Maire",
+        "anecdote": "Jean-Michel Maire a commence sa carriere en tant que chroniqueur judiciaire avant de devenir journaliste politique."
+      },
+      {
+        "id": 14,
+        "question": "Quelle actrice s'est presentee seins nus devant les paparazzi aux Magritte du cinema de 2017 ?",
+        "propositions": [
+          "Émilie Dequenne",
+          "Marie Gillain",
+          "Salome Richard",
+          "Virginie Efira"
+        ],
+        "reponse": "Salome Richard",
+        "anecdote": "« J'ai eu le courage de le faire parce que j'etais pres de chez moi, entre amis, parmi les miens », a confie Salome Richard."
+      },
+      {
+        "id": 15,
+        "question": "À quel age Valdemira Rodrigues de Oliveira a-t-elle epouse son compagnon ?",
+        "propositions": [
+          "106 ans",
+          "86 ans",
+          "76 ans",
+          "96 ans"
+        ],
+        "reponse": "106 ans",
+        "anecdote": "La jeune mariee, agee de 106 ans, a fait craquer un petit jeune de 66 printemps : 40 ans de difference d'age tout de meme!"
+      },
+      {
+        "id": 16,
+        "question": "Quelle mannequin a ete transformee via la chirurgie en Barbie plus vraie que nature ?",
+        "propositions": [
+          "Lisa Boyle",
+          "January Jones",
+          "Gigi Hadid",
+          "Karlie Kloss"
+        ],
+        "reponse": "Gigi Hadid",
+        "anecdote": "D'origine neerlando-palestinienne, Gigi Hadid a debute dans le mannequinat avec une campagne pour Guess enfants."
+      },
+      {
+        "id": 17,
+        "question": "Quel top-model australien s'est fiance avec un des fondateurs de Snapchat ?",
+        "propositions": [
+          "Gemma Ward",
+          "Ruby Rose",
+          "Miranda Kerr",
+          "Elle Macpherson"
+        ],
+        "reponse": "Miranda Kerr",
+        "anecdote": "En juillet 2010, Miranda Kerr se maria à l'acteur britannique Orlando Bloom avec qui elle partageait sa vie depuis 2007."
+      },
+      {
+        "id": 18,
+        "question": "Quel objet porte-bonheur Iris Mittenaere portait-elle lors de son election de Miss Univers ?",
+        "propositions": [
+          "Une chaussette",
+          "Un bracelet",
+          "Un collier",
+          "Une culotte"
+        ],
+        "reponse": "Un bracelet",
+        "anecdote": "Iris Mittenaere est la premiere Francaise à etre elue Miss Univers depuis l'election de Christiane Martel en 1953."
+      },
+      {
+        "id": 19,
+        "question": "Avec qui Rosie Huntington-Whiteley attendait-elle un enfant en 2017 ?",
+        "propositions": [
+          "Sylvester Stallone",
+          "Rolph Dungren",
+          "Bruce Willis",
+          "Jason Statham"
+        ],
+        "reponse": "Jason Statham",
+        "anecdote": "En juin 2010, Michael Bay engagera Rosie pour le troisieme volet de la serie « Transformers », produit par Steven Spielberg."
+      },
+      {
+        "id": 20,
+        "question": "Quel celebre rappeur a dû subir plusieurs operations importantes du genou ?",
+        "propositions": [
+          "Big Sean",
+          "Eminem",
+          "P. Diddy",
+          "Cam'ron"
+        ],
+        "reponse": "P. Diddy",
+        "anecdote": "Sur Instagram, P. Diddy a laisse eclater sa joie apres le succes de sa derniere operation du genou en fevrier 2017."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle comedienne francaise a ete placee en garde à vue en 2017 pour delit de fuite ?",
+        "propositions": [
+          "Marion Cotillard",
+          "Valerie Lemercier",
+          "Elsa Zylberstein",
+          "Julie Depardieu"
+        ],
+        "reponse": "Elsa Zylberstein",
+        "anecdote": "Elsa Zylberstein a ete membre du jury dans plusieurs festivals, dont le Festival du film britannique de Dinard en 2010."
+      },
+      {
+        "id": 22,
+        "question": "Quelle mannequin a pose totalement nue pour les besoins du prestigieux « W Magazine » ?",
+        "propositions": [
+          "Miranda Kerr",
+          "Kate Moss",
+          "Elle Macpherson",
+          "Ruby Rose"
+        ],
+        "reponse": "Kate Moss",
+        "anecdote": "Reputee pour sa vie sentimentale tumultueuse, on lui prete de nombreuses liaisons, notamment avec Mario Sorrenti."
+      },
+      {
+        "id": 23,
+        "question": "Quel ancien Bleu de l'equipe de France de football a declare etre atteint de paludisme ?",
+        "propositions": [
+          "Bixente Lizarazu",
+          "Emmanuel Petit",
+          "Laurent Blanc",
+          "Patrick Vieira"
+        ],
+        "reponse": "Emmanuel Petit",
+        "anecdote": "Emmanuel Petit evoluait au poste de milieu recuperateur et parfois comme defenseur central ou arriere gauche."
+      },
+      {
+        "id": 24,
+        "question": "Quel « Ken humain » voit sa sante gravement en danger apres sa cinquantieme operation ?",
+        "propositions": [
+          "Emilio Esteves",
+          "Carlo Vidor",
+          "Rodrigo Alves",
+          "Alessandro Batilda"
+        ],
+        "reponse": "Rodrigo Alves",
+        "anecdote": "Accro au bistouri depuis dix ans, Rodrigo Alves avait pourtant promis de s'arreter apres sa 47e operation de chirurgie esthetique."
+      },
+      {
+        "id": 25,
+        "question": "Quelle actrice a declare debut 2017 devoir sa nouvelle perte de poids au president Trump ?",
+        "propositions": [
+          "Lena Dunham",
+          "Sally Field",
+          "Lee Grant",
+          "Jodie Foster"
+        ],
+        "reponse": "Lena Dunham",
+        "anecdote": "Apres une serie de courts-metrages, elle realise « Tiny Furniture » qui gagne le prix du Jury du festival americain independant."
+      },
+      {
+        "id": 26,
+        "question": "Quelle finaliste de « Top Chef 2012 » a obtenu sa premiere etoile en 2017 ?",
+        "propositions": [
+          "Kelly Rangama",
+          "Marion Lefebvre",
+          "Fanny Rey",
+          "Naoalle D'Hainaut"
+        ],
+        "reponse": "Fanny Rey",
+        "anecdote": "Fanny Rey a notamment ete seconde en cuisine au restaurant doublement etoile « L'Oustau de Baumaniere »."
+      },
+      {
+        "id": 27,
+        "question": "Qui est devenu en 2017 le nouveau cheri mais egalement l'agent de la chanteuse Lady Gaga ?",
+        "propositions": [
+          "Rob Fusari",
+          "Lüc Carl",
+          "Christian Carino",
+          "Taylor Kinney"
+        ],
+        "reponse": "Christian Carino",
+        "anecdote": "Lady Gaga est reconnue pour ses excentricites flamboyantes qu'elle transmet à l'industrie de la musique à travers sa mode."
+      },
+      {
+        "id": 28,
+        "question": "Quel animal adore Valerie Damidot a-t-elle tristement perdu en fevrier 2017 ?",
+        "propositions": [
+          "Rif",
+          "Pouf",
+          "Teuf",
+          "Maf"
+        ],
+        "reponse": "Teuf",
+        "anecdote": "Sur NRJ 12, Valerie Damidot anime le jeu « Le Labo de Damidot » et integre « L'Academie des neuf », presentee par Benjamin Castaldi."
+      },
+      {
+        "id": 29,
+        "question": "Quel grand styliste a annonce en 2017 son depart de la maison Givenchy ?",
+        "propositions": [
+          "Francois Demachy",
+          "Damien Jalet",
+          "Julien Macdonald",
+          "Riccardo Tisci"
+        ],
+        "reponse": "Riccardo Tisci",
+        "anecdote": "Riccardo Tisci est le plus jeune styliste ayant ete nomme directeur artistique de cette maison de renommee mondiale."
+      },
+      {
+        "id": 30,
+        "question": "À quelle chanteuse a-t-on vole pour plus de 200 000 dollars de bijoux ?",
+        "propositions": [
+          "Rihana",
+          "Nicki Minaj",
+          "Beyonce",
+          "Lady Gaga"
+        ],
+        "reponse": "Nicki Minaj",
+        "anecdote": "Alors qu'elle n'etait pas chez elle, Nicki Minaj s'est fait cambrioler : à son retour, la star a retrouve sa maison devastee."
+      }
+    ]
+    }
+  }
+}

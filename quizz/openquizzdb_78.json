@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "2 / 5",
+  "version": 1,
+  "mise-à-jour": "2023-04-22",
+  "categorie-nom-slogan": {
+    "fr": {
+      "categorie": "Celebrites",
+      "nom": "Celebrites",
+      "slogan": "D'hier à aujourd'hui"
+    },
+    "en": {
+      "categorie": "Celebrities",
+      "nom": "Celebrities",
+      "slogan": "From yesterday to today"
+    },
+    "es": {
+      "categorie": "Famosos",
+      "nom": "Celebridades",
+      "slogan": "De ayer a hoy"
+    },
+    "it": {
+      "categorie": "Celebrità",
+      "nom": "Celebrità",
+      "slogan": "Da ieri a oggi"
+    },
+    "de": {
+      "categorie": "Prominente",
+      "nom": "Prominente",
+      "slogan": "Von gestern bis heute"
+    },
+    "nl": {
+      "categorie": "Beroemdheden",
+      "nom": "Beroemdheden",
+      "slogan": "Van gisteren tot vandaag"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "debutant": [
+      {
+        "id": 1,
+        "question": "Quel homme « capital » aux États-Unis fut le premier representant de l'Oncle Sam ?",
+        "propositions": [
+          "Theodore Roosevelt",
+          "Abraham Lincoln",
+          "Thomas Jefferson",
+          "George Washington"
+        ],
+        "reponse": "George Washington",
+        "anecdote": "George Washington est le premier president des États-Unis d'Amerique apres la guerre d'Independance."
+      },
+      {
+        "id": 2,
+        "question": "Quel compositeur autrichien fut un enfant prodige avant de devenir un createur surdoue ?",
+        "propositions": [
+          "Vivaldi",
+          "Beethoven",
+          "Mozart",
+          "Dvorak"
+        ],
+        "reponse": "Mozart",
+        "anecdote": "Son surnom « Woolfie » (petit loup) lui fut donne par sa femme Constance."
+      },
+      {
+        "id": 3,
+        "question": "De quel chanteur Joan Baez et Hugues Auffray ont-ils repris nombre de ses chansons ?",
+        "propositions": [
+          "Kurt Cobain",
+          "Bob Dylan",
+          "Jeff Buckley",
+          "Marilyn Manson"
+        ],
+        "reponse": "Bob Dylan",
+        "anecdote": "D'abord de tendance folk, Bob Dylan passa au rock en prenant une guitare electrique."
+      },
+      {
+        "id": 4,
+        "question": "Quel chanteur belge est enterre aux Îles Marquises ou il passa la fin de sa vie ?",
+        "propositions": [
+          "Alec Mansion",
+          "Jeff Bodart",
+          "Marc Morgan",
+          "Jacques Brel"
+        ],
+        "reponse": "Jacques Brel",
+        "anecdote": "Parmi ses oeuvres celebres, on peut citer « Madeleine », « Les Flamands » ou encore « Aux Marquises »."
+      },
+      {
+        "id": 5,
+        "question": "Quelle ancienne femme politique britannique ne semblait pourtant pas prete de rouiller ?",
+        "propositions": [
+          "Édith Cresson",
+          "Golda Meir",
+          "Margaret Thatcher",
+          "Ellen Church"
+        ],
+        "reponse": "Margaret Thatcher",
+        "anecdote": "Surnommee « la Dame de Fer », Margaret Thatcher etait connue pour ses positions tres tranchees."
+      },
+      {
+        "id": 6,
+        "question": "Quel chanteur francais, surnomme « le fou chantant », evoqua souvent la joie de vivre ?",
+        "propositions": [
+          "Serge Lama",
+          "Francois Valery",
+          "Charles Trenet",
+          "Marcel Amont"
+        ],
+        "reponse": "Charles Trenet",
+        "anecdote": "Charles Trenet est l'auteur de pres de mille chansons, succes populaires intemporels au-delà de la francophonie."
+      },
+      {
+        "id": 7,
+        "question": "Quel ancien secretaire du Parti portait une tache de vin sur le front ?",
+        "propositions": [
+          "Leonid Brejnev",
+          "Andreï Gromyko",
+          "Iouri Andropov",
+          "Mikhaïl Gorbatchev"
+        ],
+        "reponse": "Mikhaïl Gorbatchev",
+        "anecdote": "Gorbatchev se fit l'apôtre de la transparence dans le domaine de la politique interieure."
+      },
+      {
+        "id": 8,
+        "question": "Quel president de la Republique Francaise a utilise la rose comme symbole ?",
+        "propositions": [
+          "Georges Pompidou",
+          "Charles de Gaulle",
+          "Francois Mitterrand",
+          "Jacques Chirac"
+        ],
+        "reponse": "Francois Mitterrand",
+        "anecdote": "Francois Mitterrand fut le premier president de gauche de la Cinquieme Republique."
+      },
+      {
+        "id": 9,
+        "question": "Quelle actrice francaise a debute sa carriere dans « Les Parapluies de Cherbourg » ?",
+        "propositions": [
+          "Isabelle Adjani",
+          "Simone Signoret",
+          "Jeanne Moreau",
+          "Catherine Deneuve"
+        ],
+        "reponse": "Catherine Deneuve",
+        "anecdote": "Catherine Deneuve a recu un Cesar pour son interpretation dans « Le Dernier metro »."
+      },
+      {
+        "id": 10,
+        "question": "Quel homme de television et de radio reste celebre pour ses « Grosses tetes » ?",
+        "propositions": [
+          "Jacques Pradel",
+          "Laurent Boyer",
+          "Philippe Bouvard",
+          "Serge July"
+        ],
+        "reponse": "Philippe Bouvard",
+        "anecdote": "Philippe Bouvard a egalement ete attache de presse pour les disques Barclay et a anime « Le Petit theatre de Bouvard »."
+      }
+    ],
+    "confirme": [
+      {
+        "id": 11,
+        "question": "De qui peut-on dire que sa theorie fut une revolution, sans en avoir l'air ?",
+        "propositions": [
+          "Hugh Low",
+          "James Hector",
+          "Charles Darwin",
+          "Alexander Whyte"
+        ],
+        "reponse": "Charles Darwin",
+        "anecdote": "Il crea sa theorie apres de multiples etudes sur les animaux, theorie selon laquelle l'homme descendrait du singe."
+      },
+      {
+        "id": 12,
+        "question": "Quelle ancienne princesse detenait une solide formation de puericultrice ?",
+        "propositions": [
+          "Katharine Worsley",
+          "Marie Stuart",
+          "Diana Spencer",
+          "Sarah Ferguson"
+        ],
+        "reponse": "Diana Spencer",
+        "anecdote": "Ses demeles avec les nourrices de ses fils lui firent perdre une partie du credit dont elle jouissait aupres des Anglais."
+      },
+      {
+        "id": 13,
+        "question": "Quel chef auvergnat regroupa les troupes gauloises contre les Romains ?",
+        "propositions": [
+          "Vercingetorix",
+          "Julius Florus",
+          "Cavarinos",
+          "Ambiorix"
+        ],
+        "reponse": "Vercingetorix",
+        "anecdote": "Cesar le contraignit à jeter les armes à ses pieds avant de le faire etrangler dans sa prison."
+      },
+      {
+        "id": 14,
+        "question": "Quel chef de file de la Nouvelle Vague a realise un amour atomique à Hiroshima ?",
+        "propositions": [
+          "Alain Resnais",
+          "Claude Sautet",
+          "Andre Techine",
+          "Bertrand Blier"
+        ],
+        "reponse": "Alain Resnais",
+        "anecdote": "Parmi ses films, on peut noter « Providence », « Mon Oncle d'Amerique » et « Hiroshima mon amour »."
+      },
+      {
+        "id": 15,
+        "question": "Quel scientifique et aventurier a place son Zodiac sous le signe des poissons ?",
+        "propositions": [
+          "Alain Bombard",
+          "Joseph Kessel",
+          "Haroun Tazieff",
+          "Maurice Herzog"
+        ],
+        "reponse": "Alain Bombard",
+        "anecdote": "Pour prouver le caractere insubmersible de son canot de caoutchouc gonflable, il se fit naufrage volontaire."
+      },
+      {
+        "id": 16,
+        "question": "Quel poete et ecrivain francais abandonna son dada pour plus de realisme ?",
+        "propositions": [
+          "Rene Daumal",
+          "Andre Breton",
+          "Louis Aragon",
+          "Philippe Soupault"
+        ],
+        "reponse": "Louis Aragon",
+        "anecdote": "D'abord membre du mouvement Dada, Louis Aragon fonda avec quelques amis le mouvement Surrealiste."
+      },
+      {
+        "id": 17,
+        "question": "Quel militaire francais dirigea la France puis fut juge en nazi ?",
+        "propositions": [
+          "Robert Nivelle",
+          "Ferdinand Foch",
+          "Philippe Petain",
+          "Joseph Joffre"
+        ],
+        "reponse": "Philippe Petain",
+        "anecdote": "Philippe Petain, mort le 23 juillet 1951 à Port-Joinville, remporta de grands batailles lors de la guerre de 14."
+      },
+      {
+        "id": 18,
+        "question": "Quel animateur francais fut remercie pour s'etre moque du president de sa chaîne ?",
+        "propositions": [
+          "Benjamin Castaldi",
+          "Michel Polac",
+          "Jean-Luc Delarue",
+          "Jean-Marie Cavada"
+        ],
+        "reponse": "Michel Polac",
+        "anecdote": "Au debut de « Droit de Reponse » figurait une revue de presse humoristique qui s'intitulait « Rebuts de Presse »."
+      },
+      {
+        "id": 19,
+        "question": "Quel ecrivain fut le protege de Frederic Ier de Prusse avec qui il se brouilla ulterieurement ?",
+        "propositions": [
+          "Voltaire",
+          "Diderot",
+          "Lavoisier",
+          "Condorcet"
+        ],
+        "reponse": "Voltaire",
+        "anecdote": "Voltaire occupe une place particuliere dans la memoire collective francaise et internationale."
+      },
+      {
+        "id": 20,
+        "question": "Quel homme politique sovietique fut surnomme « le petit pere des peuples » ?",
+        "propositions": [
+          "Staline",
+          "Trotski",
+          "Sokolov",
+          "Brejnev"
+        ],
+        "reponse": "Staline",
+        "anecdote": "Il prit le pseudonyme de Staline en reference au mot « Stal » qui signifie acier en russe."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel ingenieur et industriel francais installa ses usines d'automobiles au quai de Javel ?",
+        "propositions": [
+          "Maurice Audibert",
+          "Andre Citroan",
+          "Marcel Renault",
+          "Pierre Peugeot"
+        ],
+        "reponse": "Andre Citroan",
+        "anecdote": "Andre Citroan mit au point, en 1934, la Traction avant qui surclassait nettement ses concurrentes."
+      },
+      {
+        "id": 22,
+        "question": "Quel fils d'aubergiste de campagne se fit connaître en Europe par ses operas ?",
+        "propositions": [
+          "Franz Schubert",
+          "Franz Liszt",
+          "Richard Wagner",
+          "Giuseppe Verdi"
+        ],
+        "reponse": "Giuseppe Verdi",
+        "anecdote": "Ardent patriote, Verdi se fit le champion des idees liberales qui conduisirent à l'independance et à l'Unite italiennes."
+      },
+      {
+        "id": 23,
+        "question": "Quel photographe est celebre pour ses portraits de jeunes filles en groupe ou isolees ?",
+        "propositions": [
+          "David Hamilton",
+          "David Slater",
+          "David Sims",
+          "David Bailey"
+        ],
+        "reponse": "David Hamilton",
+        "anecdote": "La gracile beaute des modeles est souvent renforcee par un flou tres romantique."
+      },
+      {
+        "id": 24,
+        "question": "Quel champion de ski alpin remporta trois medailles aux J.O. de 1968 ?",
+        "propositions": [
+          "Jean-Claude Killy",
+          "Mathieu Faivre",
+          "Jean Vuarnet",
+          "Michel Canac"
+        ],
+        "reponse": "Jean-Claude Killy",
+        "anecdote": "Jean-Claude Killy assura d'importantes fonctions pour les Jeux Olympiques d'Albertville de 1992."
+      },
+      {
+        "id": 25,
+        "question": "Quel acteur francais voua sa jeunesse au diable par deux fois ?",
+        "propositions": [
+          "Philippe Noiret",
+          "Jean Marais",
+          "Gerard Depardieu",
+          "Gerard Philipe"
+        ],
+        "reponse": "Gerard Philipe",
+        "anecdote": "Gerard Philippe s'illustra entre autres dans « Le Diable au corps » et « La Beaute du diable »."
+      },
+      {
+        "id": 26,
+        "question": "Quel peintre francais, ami de Robespierre, se prononca pour la mort de Louis XVI ?",
+        "propositions": [
+          "Jacques-Louis David",
+          "Maurice Denis",
+          "Antoine Barbier",
+          "Narcisse Chaillou"
+        ],
+        "reponse": "Jacques-Louis David",
+        "anecdote": "Sous Napoleon, Jacques-Louis David fut nomme « Premier Peintre du Regime »."
+      },
+      {
+        "id": 27,
+        "question": "Quel homme politique francais proclama la Republique et la decheance de Napoleon III ?",
+        "propositions": [
+          "Leon Gambetta",
+          "Gaston Doumergue",
+          "Pierre Laval",
+          "Jules Ferry"
+        ],
+        "reponse": "Leon Gambetta",
+        "anecdote": "Leon Gambetta fut l'une des personnalites politiques les plus importantes des premieres annees de la Troisieme Republique."
+      },
+      {
+        "id": 28,
+        "question": "Quel ingenieur et mecanicien ecossais mit au point la premiere machine à vapeur ?",
+        "propositions": [
+          "Henry Bell",
+          "Thomas Telford",
+          "James Watt",
+          "William Murdoch"
+        ],
+        "reponse": "James Watt",
+        "anecdote": "Son nom est aussi une unite de puissance electrique (un joule par seconde)."
+      },
+      {
+        "id": 29,
+        "question": "Quel chirurgien francais est surnomme « le pere de la chirurgie moderne » ?",
+        "propositions": [
+          "Louis Menciere",
+          "Paul Rivet",
+          "Ambroise Pare",
+          "Edmond Delorme"
+        ],
+        "reponse": "Ambroise Pare",
+        "anecdote": "Specialiste des amputations, il est le premier à avoir ligature les arteres alors que ses predecesseurs les cauterisaient au feu."
+      },
+      {
+        "id": 30,
+        "question": "Quel acteur inventa dans un de ses films le meurtre par ondes televisees ?",
+        "propositions": [
+          "Philippe Noiret",
+          "Michel Galabru",
+          "Jean Rochefort",
+          "Michel Serrault"
+        ],
+        "reponse": "Michel Galabru",
+        "anecdote": "C'est dans le film « Kamikaze » que Michel Galabru joue le rôle d'un ingenieur tueur."
+      }
+    ]
+    }
+  }
+}
