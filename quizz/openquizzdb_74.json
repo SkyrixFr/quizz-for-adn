@@ -1,67 +1,67 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "3 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
-      "nom": "People : fév. 2015",
-      "slogan": "Ils ont fait l'actualité"
+      "categorie": "Celebrites",
+      "nom": "People : fev. 2015",
+      "slogan": "Ils ont fait l'actualite"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "People: Feb 2015",
       "slogan": "They made the news"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Gente: febrero de 2015",
       "slogan": "Fueron noticia"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Persone: febbraio 2015",
       "slogan": "Hanno fatto notizia"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Personen: Februar 2015",
       "slogan": "Sie machten die Nachrichten"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Mensen: februari 2015",
       "slogan": "Ze haalden het nieuws"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Quel animateur télé a réglé ses comptes avec Benjamin Castaldi en direct en février 2015 ?",
+        "question": "Quel animateur tele a regle ses comptes avec Benjamin Castaldi en direct en fevrier 2015 ?",
         "propositions": [
           "Patrice Laffont",
           "Thomas Hugues",
           "Cyril Hanouna",
           "Pascal Bataille"
         ],
-        "réponse": "Cyril Hanouna",
-        "anecdote": "Cyril Hanouna est surtout connu pour être l'animateur de « Touche pas à mon poste ! » sur C8."
+        "reponse": "Cyril Hanouna",
+        "anecdote": "Cyril Hanouna est surtout connu pour etre l'animateur de « Touche pas à mon poste ! » sur C8."
       },
       {
         "id": 2,
-        "question": "Quelle chanteuse mène depuis 2015 une véritable guerre anti-Taylor Swift ?",
+        "question": "Quelle chanteuse mene depuis 2015 une veritable guerre anti-Taylor Swift ?",
         "propositions": [
           "Katy Perry",
           "Leona Lewis",
           "Pixie Lott",
           "Rita Ora"
         ],
-        "réponse": "Katy Perry",
-        "anecdote": "Katy Perry a connu un succès international en 2008 grâce au titre « I Kissed a Girl »."
+        "reponse": "Katy Perry",
+        "anecdote": "Katy Perry a connu un succes international en 2008 grace au titre « I Kissed a Girl »."
       },
       {
         "id": 3,
@@ -72,264 +72,264 @@
           "Kylie Minogue",
           "Julia Stone"
         ],
-        "réponse": "Kylie Minogue",
-        "anecdote": "Kylie Minogue a longtemps été surnommée la « princesse de la Pop Music »."
+        "reponse": "Kylie Minogue",
+        "anecdote": "Kylie Minogue a longtemps ete surnommee la « princesse de la Pop Music »."
       },
       {
         "id": 4,
-        "question": "Quelle jeune chanteuse et actrice a été sacrée « révélation féminine de l'année » 2015 ?",
+        "question": "Quelle jeune chanteuse et actrice a ete sacree « revelation feminine de l'annee » 2015 ?",
         "propositions": [
-          "Maeva Méline",
+          "Maeva Meline",
           "Alexandra Lucci",
           "Louane Emera",
           "Aurore Delplace"
         ],
-        "réponse": "Louane Emera",
-        "anecdote": "Louane a obtenu une grande notoriété en 2014 grâce à son premier rôle dans le film « La Famille Bélier »."
+        "reponse": "Louane Emera",
+        "anecdote": "Louane a obtenu une grande notoriete en 2014 grace à son premier rôle dans le film « La Famille Belier »."
       },
       {
         "id": 5,
-        "question": "Quelle star de la jet-set s'est dévoilée en février 2015 topless et fière de sa nouvelle poitrine ?",
+        "question": "Quelle star de la jet-set s'est devoilee en fevrier 2015 topless et fiere de sa nouvelle poitrine ?",
         "propositions": [
           "Nicole Richie",
           "Jessica Simpson",
           "Paris Hilton",
           "Kelly Trump"
         ],
-        "réponse": "Paris Hilton",
-        "anecdote": "Paris Hilton est l'une des arrières-petites-filles de Conrad Hilton, fondateur de la chaîne des hôtels Hilton."
+        "reponse": "Paris Hilton",
+        "anecdote": "Paris Hilton est l'une des arrieres-petites-filles de Conrad Hilton, fondateur de la chaîne des hôtels Hilton."
       },
       {
         "id": 6,
-        "question": "Quelle actrice appelle-t-on aussi depuis 2015 « la première dame de l'ombre » ?",
+        "question": "Quelle actrice appelle-t-on aussi depuis 2015 « la premiere dame de l'ombre » ?",
         "propositions": [
-          "Mélanie Laurent",
+          "Melanie Laurent",
           "Julie Gayet",
-          "Cécile de France",
+          "Cecile de France",
           "Mathilda May"
         ],
-        "réponse": "Julie Gayet",
-        "anecdote": "Julie Gayet s'est prononcée en faveur du projet de loi ouvrant le mariage homosexuel en France."
+        "reponse": "Julie Gayet",
+        "anecdote": "Julie Gayet s'est prononcee en faveur du projet de loi ouvrant le mariage homosexuel en France."
       },
       {
         "id": 7,
-        "question": "Selon Mila Kunis, qui a changé la première couche de Wyatt ?",
+        "question": "Selon Mila Kunis, qui a change la premiere couche de Wyatt ?",
         "propositions": [
           "Tom Selleck",
           "Ashton Kutcher",
           "Matthew Modine",
           "Josh Duhamel"
         ],
-        "réponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher s'est fait connaître avec son rôle de Michael Kelso dans la série télévisée That '70s Show."
+        "reponse": "Ashton Kutcher",
+        "anecdote": "Ashton Kutcher s'est fait connaître avec son rôle de Michael Kelso dans la serie televisee That '70s Show."
       },
       {
         "id": 8,
-        "question": "Avec qui Nicole Scherzinger a-t-elle rompu pour la quatrième fois en février 2015 ?",
+        "question": "Avec qui Nicole Scherzinger a-t-elle rompu pour la quatrieme fois en fevrier 2015 ?",
         "propositions": [
           "Lewis Hamilton",
           "Sebastian Vettel",
           "Mark Webber",
           "Fernando Alonso"
         ],
-        "réponse": "Lewis Hamilton",
-        "anecdote": "Nicole Scherzinger est une chanteuse américaine connue comme étant l'ex-chanteuse des Pussycat Dolls. "
+        "reponse": "Lewis Hamilton",
+        "anecdote": "Nicole Scherzinger est une chanteuse americaine connue comme etant l'ex-chanteuse des Pussycat Dolls. "
       },
       {
         "id": 9,
-        "question": "Quel acteur et chanteur a intégré en février 2015 l'équipe de France de poker ?",
+        "question": "Quel acteur et chanteur a integre en fevrier 2015 l'equipe de France de poker ?",
         "propositions": [
           "Johnny Hallyday",
           "JoeyStarr",
           "Marc Lavoine",
           "Patrick Bruel"
         ],
-        "réponse": "Patrick Bruel",
-        "anecdote": "Né Patrick Maurice Benguigui, il a obtenu par décret, en 2003, le droit de changer son nom en Patrick Bruel Benguigui."
+        "reponse": "Patrick Bruel",
+        "anecdote": "Ne Patrick Maurice Benguigui, il a obtenu par decret, en 2003, le droit de changer son nom en Patrick Bruel Benguigui."
       },
       {
         "id": 10,
-        "question": "Quelle chanteuse et jeune maman Christophe Maé a-t-il pris sous son aile en 2015 ?",
+        "question": "Quelle chanteuse et jeune maman Christophe Mae a-t-il pris sous son aile en 2015 ?",
         "propositions": [
           "Emma Daumas",
           "Olivia Ruiz",
           "Jenifer",
           "Nolwenn Leroy"
         ],
-        "réponse": "Jenifer",
-        "anecdote": "Jenifer est également connue pour faire partie du jury de The Voice, la plus belle voix et The Voice Kids."
+        "reponse": "Jenifer",
+        "anecdote": "Jenifer est egalement connue pour faire partie du jury de The Voice, la plus belle voix et The Voice Kids."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Quel acteur français a été hospitalisé à 89 ans après son malaise sur scène ?",
+        "question": "Quel acteur francais a ete hospitalise à 89 ans apres son malaise sur scene ?",
         "propositions": [
           "Pierre Dux",
           "Robert Hirsch",
           "Christian Hecq",
           "Jacques Dufilho"
         ],
-        "réponse": "Robert Hirsch",
-        "anecdote": "Robert Hirsch a déjà fait réaliser sa tombe pour être enterré dans le cimetière de Bouère."
+        "reponse": "Robert Hirsch",
+        "anecdote": "Robert Hirsch a dejà fait realiser sa tombe pour etre enterre dans le cimetiere de Bouere."
       },
       {
         "id": 12,
-        "question": "Quelle rappeuse a officialisé en février 2015 sur Instagram sa relation avec Meek Mill ?",
+        "question": "Quelle rappeuse a officialise en fevrier 2015 sur Instagram sa relation avec Meek Mill ?",
         "propositions": [
           "Nicki Minaj",
           "Amber Rose",
           "Missy Elliott",
           "Queen Latifah"
         ],
-        "réponse": "Nicki Minaj",
-        "anecdote": "Nicki Minaj est la seule rappeuse féminine à être représentée dans la liste des Hip Hop Cash Kings de Forbes."
+        "reponse": "Nicki Minaj",
+        "anecdote": "Nicki Minaj est la seule rappeuse feminine à etre representee dans la liste des Hip Hop Cash Kings de Forbes."
       },
       {
         "id": 13,
-        "question": "Qui voit-on aux côtés de Kendall Jenner sur la couverture du « Love Magazine » de février 2015 ?",
+        "question": "Qui voit-on aux côtes de Kendall Jenner sur la couverture du « Love Magazine » de fevrier 2015 ?",
         "propositions": [
           "Sienna Miller",
           "Suki Waterhouse",
           "Cara Delevingne",
           "Alexa Chung"
         ],
-        "réponse": "Cara Delevingne",
-        "anecdote": "Très active sur les réseaux sociaux notamment sur Instagram, Cara Delevingne st considérée comme une « it girl »."
+        "reponse": "Cara Delevingne",
+        "anecdote": "Tres active sur les reseaux sociaux notamment sur Instagram, Cara Delevingne st consideree comme une « it girl »."
       },
       {
         "id": 14,
-        "question": "Quel gagnant de « Nouvelle Star » a sorti un premier EP en février 2015 ?",
+        "question": "Quel gagnant de « Nouvelle Star » a sorti un premier EP en fevrier 2015 ?",
         "propositions": [
-          "Julien Doré",
+          "Julien Dore",
           "Jonatan Cerrada",
           "Mathieu Saïkaly",
           "Christophe Willem"
         ],
-        "réponse": "Mathieu Saïkaly",
-        "anecdote": "L'émission « Nouvelle Star » est basée sur le format à succès « Pop Idol » et produite par FremantleMedia et 19TV Ltd."
+        "reponse": "Mathieu Saïkaly",
+        "anecdote": "L'emission « Nouvelle Star » est basee sur le format à succes « Pop Idol » et produite par FremantleMedia et 19TV Ltd."
       },
       {
         "id": 15,
-        "question": "Quel journaliste a fait un malaise en plein direct de « C à Vous », jusqu'à interrompre l'émission ?",
+        "question": "Quel journaliste a fait un malaise en plein direct de « C à Vous », jusqu'à interrompre l'emission ?",
         "propositions": [
           "Alain Marschall",
           "Alexandre Debanne",
           "Olivier Chiabodo",
           "Patrick Cohen"
         ],
-        "réponse": "Patrick Cohen",
-        "anecdote": "Ce journaliste français de radio et de télévision est le présentateur du « 7/9 » de France Inter depuis 2010."
+        "reponse": "Patrick Cohen",
+        "anecdote": "Ce journaliste francais de radio et de television est le presentateur du « 7/9 » de France Inter depuis 2010."
       },
       {
         "id": 16,
-        "question": "Quelle ex-mannequin est devenue une maman attentionnée pour sa petite fille Cosima ?",
+        "question": "Quelle ex-mannequin est devenue une maman attentionnee pour sa petite fille Cosima ?",
         "propositions": [
           "Claudia Schiffer",
           "Barbara Meier",
           "Diane Kruger",
           "Heidi Klum"
         ],
-        "réponse": "Claudia Schiffer",
-        "anecdote": "Claudia Schiffer a initialement atteint le sommet de sa popularité en raison de sa ressemblance avec Brigitte Bardot."
+        "reponse": "Claudia Schiffer",
+        "anecdote": "Claudia Schiffer a initialement atteint le sommet de sa popularite en raison de sa ressemblance avec Brigitte Bardot."
       },
       {
         "id": 17,
-        "question": "Quelle mannequin a pu être fière de son homme, Tom Brady, au Super Bowl 2015 ?",
+        "question": "Quelle mannequin a pu etre fiere de son homme, Tom Brady, au Super Bowl 2015 ?",
         "propositions": [
           "Adriana Lima",
           "Alice Dellal",
           "Gisele Bündchen",
           "Fernanda Lima"
         ],
-        "réponse": "Gisele Bündchen",
-        "anecdote": "Gisele Bündchen a escorteé la malle officielle transportant le trophée de la Coupe du monde de football de 2014."
+        "reponse": "Gisele Bündchen",
+        "anecdote": "Gisele Bündchen a escortee la malle officielle transportant le trophee de la Coupe du monde de football de 2014."
       },
       {
         "id": 18,
-        "question": "Quelle actrice et petite-fille d'Elvis Presley s'est mariée en février 2015 ?",
+        "question": "Quelle actrice et petite-fille d'Elvis Presley s'est mariee en fevrier 2015 ?",
         "propositions": [
           "Riley Keough",
           "Kristen Stewart",
           "Dakota Fanning",
           "Olivia Munn"
         ],
-        "réponse": "Riley Keough",
-        "anecdote": "Riley Keough est une actrice et mannequin américaine, fille de Lisa Marie Presley et de Danny Keough."
+        "reponse": "Riley Keough",
+        "anecdote": "Riley Keough est une actrice et mannequin americaine, fille de Lisa Marie Presley et de Danny Keough."
       },
       {
         "id": 19,
-        "question": "Quelle actrice a posé nue avec un boa constrictor pour le « Vanity Fair » de février 2015 ?",
+        "question": "Quelle actrice a pose nue avec un boa constrictor pour le « Vanity Fair » de fevrier 2015 ?",
         "propositions": [
           "Julianne Moore",
           "Cate Blanchett",
           "Jennifer Lawrence",
           "Natalie Portman"
         ],
-        "réponse": "Jennifer Lawrence",
-        "anecdote": "En 2015, selon la magazine « Forbes », elle est l'actrice la mieux payée au monde avec prés de 52 millions de dollars."
+        "reponse": "Jennifer Lawrence",
+        "anecdote": "En 2015, selon la magazine « Forbes », elle est l'actrice la mieux payee au monde avec pres de 52 millions de dollars."
       },
       {
         "id": 20,
-        "question": "Qui a enflammé la planète lors du show à la mi-temps du Super Bowl 2015 ?",
+        "question": "Qui a enflamme la planete lors du show à la mi-temps du Super Bowl 2015 ?",
         "propositions": [
           "Nelly Furtado",
           "Christina Aguilera",
           "Hilary Duff",
           "Katy Perry"
         ],
-        "réponse": "Katy Perry",
-        "anecdote": "Katy Perry est la seule artiste à être restée plus de 52 semaines consécutives dans le top 10 du « Billboard Hot 100 »."
+        "reponse": "Katy Perry",
+        "anecdote": "Katy Perry est la seule artiste à etre restee plus de 52 semaines consecutives dans le top 10 du « Billboard Hot 100 »."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Qui a dévoilé la première photo de son fils Sasha sur Instagram en février 2015 ?",
+        "question": "Qui a devoile la premiere photo de son fils Sasha sur Instagram en fevrier 2015 ?",
         "propositions": [
           "Shakira",
           "Jennifer Lopez",
           "Luz Casal",
           "Eva Amaral"
         ],
-        "réponse": "Shakira",
-        "anecdote": "Shakira est devenue célèbre pour ses chansons mélangeant pop latino et musique du monde."
+        "reponse": "Shakira",
+        "anecdote": "Shakira est devenue celebre pour ses chansons melangeant pop latino et musique du monde."
       },
       {
         "id": 22,
-        "question": "Quelle actrice est aussi une maman stylée pour ses enfants, Honor et Haven ?",
+        "question": "Quelle actrice est aussi une maman stylee pour ses enfants, Honor et Haven ?",
         "propositions": [
           "Eva Green",
           "Brooklyn Decker",
           "Jessica Alba",
           "Rosario Dawson"
         ],
-        "réponse": "Jessica Alba",
-        "anecdote": "Grâce à son physique avantageux, Jessica Alba est apparue ans la rubrique « Hot 100 » du magazine « Maximal »."
+        "reponse": "Jessica Alba",
+        "anecdote": "Grace à son physique avantageux, Jessica Alba est apparue ans la rubrique « Hot 100 » du magazine « Maximal »."
       },
       {
         "id": 23,
-        "question": "Quel producteur de hip-hop a été inculpé pour meurtre en février 2015 ?",
+        "question": "Quel producteur de hip-hop a ete inculpe pour meurtre en fevrier 2015 ?",
         "propositions": [
           "Dan Hornsby",
           "Michael Lange",
           "Suge Knight",
           "Rob Fusari"
         ],
-        "réponse": "Suge Knight",
-        "anecdote": "Suge Knight est, avec Dr. Dre, co-fondateur du label de référence du début des années 1990 « Death Row Records »."
+        "reponse": "Suge Knight",
+        "anecdote": "Suge Knight est, avec Dr. Dre, co-fondateur du label de reference du debut des annees 1990 « Death Row Records »."
       },
       {
         "id": 24,
-        "question": "Quelle chanteuse a été vue hyper complice de son baby boy Future Zahir ?",
+        "question": "Quelle chanteuse a ete vue hyper complice de son baby boy Future Zahir ?",
         "propositions": [
           "Rihanna",
           "Indila",
           "Jamelia",
           "Ciara"
         ],
-        "réponse": "Ciara",
-        "anecdote": "C'est en décembre 2012 que Ciara a commencé à fréquenter le rappeur Future."
+        "reponse": "Ciara",
+        "anecdote": "C'est en decembre 2012 que Ciara a commence à frequenter le rappeur Future."
       },
       {
         "id": 25,
@@ -340,68 +340,68 @@
           "Daniel Day-Lewis",
           "Colin Firth"
         ],
-        "réponse": "Eddie Redmayne",
-        "anecdote": "Eddie Redmayne a décroché en 2015 l'Oscar du meilleur acteur pour son interprétation du physicien et cosmologiste Stephen Hawking."
+        "reponse": "Eddie Redmayne",
+        "anecdote": "Eddie Redmayne a decroche en 2015 l'Oscar du meilleur acteur pour son interpretation du physicien et cosmologiste Stephen Hawking."
       },
       {
         "id": 26,
-        "question": "Quelle actrice britannique a fêté son anniversaire début février 2015 ?",
+        "question": "Quelle actrice britannique a fete son anniversaire debut fevrier 2015 ?",
         "propositions": [
           "Gemma Arterton",
           "Elizabeth Hurley",
           "Fiona Lewis",
           "Keira Knightley"
         ],
-        "réponse": "Gemma Arterton",
-        "anecdote": "En France, Barbara Beretta est la voix française régulière de Gemma Arterton."
+        "reponse": "Gemma Arterton",
+        "anecdote": "En France, Barbara Beretta est la voix francaise reguliere de Gemma Arterton."
       },
       {
         "id": 27,
-        "question": "Quel poète et compositeur américain nous a quitté en février 2015 ?",
+        "question": "Quel poete et compositeur americain nous a quitte en fevrier 2015 ?",
         "propositions": [
           "Cid Corman",
           "Rod McKuen",
           "Lewis Thomas",
           "James Lipton"
         ],
-        "réponse": "Rod McKuen",
-        "anecdote": "Bien qu'ayant vendu plusieurs millions d'exemplaires de ses livres, sa poésie restera dénigrée par les critiques."
+        "reponse": "Rod McKuen",
+        "anecdote": "Bien qu'ayant vendu plusieurs millions d'exemplaires de ses livres, sa poesie restera denigree par les critiques."
       },
       {
         "id": 28,
-        "question": "Quelle star de la télé-réalité a déclaré en février 2015 vouloir faire un selfie avec Jésus ?",
+        "question": "Quelle star de la tele-realite a declare en fevrier 2015 vouloir faire un selfie avec Jesus ?",
         "propositions": [
           "Nicole Richie",
           "Nicole Polizzi",
           "Kim Kardashian",
           "Kelly Trump"
         ],
-        "réponse": "Kim Kardashian",
-        "anecdote": "Kim Kardashian était une amie proche de Paris Hilton, ce qui lui a permis d'attirer l'attention des médias."
+        "reponse": "Kim Kardashian",
+        "anecdote": "Kim Kardashian etait une amie proche de Paris Hilton, ce qui lui a permis d'attirer l'attention des medias."
       },
       {
         "id": 29,
-        "question": "Quel acteur britannique a demandé en février 2015 la grâce de 49 000 homosexuels ?",
+        "question": "Quel acteur britannique a demande en fevrier 2015 la grace de 49 000 homosexuels ?",
         "propositions": [
           "R. Everett",
           "D. Craig",
           "B. Cumberbatch",
           "O. Bloom"
         ],
-        "réponse": "B. Cumberbatch",
-        "anecdote": "Benedict Cumberbatch, qui a commencé sa carrière par le théâtre, serait un cousin éloigné du roi Richard III."
+        "reponse": "B. Cumberbatch",
+        "anecdote": "Benedict Cumberbatch, qui a commence sa carriere par le theatre, serait un cousin eloigne du roi Richard III."
       },
       {
         "id": 30,
-        "question": "Quelle mannequin a dit : « Une femme peut être sexuelle, puissante et féministe » ?",
+        "question": "Quelle mannequin a dit : « Une femme peut etre sexuelle, puissante et feministe » ?",
         "propositions": [
           "Kendall Jenner",
           "Danielle Evans",
           "Brooklyn Decker",
           "Emily Ratajkowski"
         ],
-        "réponse": "Emily Ratajkowski",
-        "anecdote": "Grâce à son apparition dans « Blurred Lines », la marque de lingerie Victoria's Secret l'a engagé en tant que mannequin."
+        "reponse": "Emily Ratajkowski",
+        "anecdote": "Grace à son apparition dans « Blurred Lines », la marque de lingerie Victoria's Secret l'a engage en tant que mannequin."
       }
     ]
     }

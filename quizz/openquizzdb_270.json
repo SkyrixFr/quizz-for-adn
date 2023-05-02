@@ -1,225 +1,225 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "3 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
   "version": 1,
   "mise-à-jour": "2022-01-20",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
+      "categorie": "Celebrites",
       "nom": "Jean-Marie Bigard",
       "slogan": "Bigard met le paquet"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "Jean-Marie Bigard",
       "slogan": "Bigard goes all out"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Jean-Marie Bigard",
       "slogan": "Bigard hace todo lo posible"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Jean-Marie Bigard",
       "slogan": "Bigard fa di tutto"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Jean-Marie Bigard",
       "slogan": "Bigard geht aufs Ganze"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Jean-Marie Bigard",
       "slogan": "Bigard gaat helemaal uit"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "De qui Jean-Marie Bigard voulait-il se faire repérer une fois monté à Paris ?",
+        "question": "De qui Jean-Marie Bigard voulait-il se faire reperer une fois monte à Paris ?",
         "propositions": [
           "Jacques Martin",
           "Laurent Ruquier",
           "Michel Drucker",
           "Philippe Bouvard"
         ],
-        "réponse": "Philippe Bouvard",
-        "anecdote": "Grâce à sa connaissance du répertoire de Robert Lamoureux, il souhaitait passer dans l'émission télévisée « Le Petit Théâtre »."
+        "reponse": "Philippe Bouvard",
+        "anecdote": "Grace à sa connaissance du repertoire de Robert Lamoureux, il souhaitait passer dans l'emission televisee « Le Petit Theatre »."
       },
       {
         "id": 2,
-        "question": "Grâce à quelle émission sur FR3 Jean-Marie Bigard a-t-il été révélé au grand public ?",
+        "question": "Grace à quelle emission sur FR3 Jean-Marie Bigard a-t-il ete revele au grand public ?",
         "propositions": [
           "Co-Co Boy",
           "La Classe",
           "Merci Bernard",
           "Yacapa"
         ],
-        "réponse": "La Classe",
-        "anecdote": "Il y écrira plus de cent sketches avec Laurent Baffie, et bien d'autres comme Franck Godard ou Pierre Veys."
+        "reponse": "La Classe",
+        "anecdote": "Il y ecrira plus de cent sketches avec Laurent Baffie, et bien d'autres comme Franck Godard ou Pierre Veys."
       },
       {
         "id": 3,
-        "question": "Quelle célèbre fausse pub Jean-Marie Bigard a-t-il tourné avec les Nuls ?",
+        "question": "Quelle celebre fausse pub Jean-Marie Bigard a-t-il tourne avec les Nuls ?",
         "propositions": [
           "Kwiskas",
           "Royal rabbin",
           "Toniglandyl",
           "Bastorama"
         ],
-        "réponse": "Toniglandyl",
-        "anecdote": "C'est durant « La Classe » qu'il a écrit quelques sketchs pour les Nuls, alors en pleine gloire sur Canal+ dans « Nulle part ailleurs »."
+        "reponse": "Toniglandyl",
+        "anecdote": "C'est durant « La Classe » qu'il a ecrit quelques sketchs pour les Nuls, alors en pleine gloire sur Canal+ dans « Nulle part ailleurs »."
       },
       {
         "id": 4,
         "question": "Quel candidat UMP a-t-il activement soutenu en avril 2007 ?",
         "propositions": [
           "Nicolas Sarkozy",
-          "Alain Juppé",
-          "François Fillon",
+          "Alain Juppe",
+          "Francois Fillon",
           "Jean-Pierre Raffarin"
         ],
-        "réponse": "Nicolas Sarkozy",
-        "anecdote": "Ce soutien est survenu aux élections présidentielles, avant d'accompagner celui-ci à Rome pour rencontrer le pape Benoît XVI."
+        "reponse": "Nicolas Sarkozy",
+        "anecdote": "Ce soutien est survenu aux elections presidentielles, avant d'accompagner celui-ci à Rome pour rencontrer le pape Benoît XVI."
       },
       {
         "id": 5,
-        "question": "Avec quelle comédienne Jean-Marie Bigard vit-il actuellement ?",
+        "question": "Avec quelle comedienne Jean-Marie Bigard vit-il actuellement ?",
         "propositions": [
           "Anne Marivin",
           "Lola Marois",
           "Betty Mars",
           "Maryse Martin"
         ],
-        "réponse": "Lola Marois",
-        "anecdote": "Avec sa nouvelle compagne, épousée officiellement en 2011, il aura des jumeaux en novembre 2012 prénommés Jules et Bella."
+        "reponse": "Lola Marois",
+        "anecdote": "Avec sa nouvelle compagne, epousee officiellement en 2011, il aura des jumeaux en novembre 2012 prenommes Jules et Bella."
       },
       {
         "id": 6,
-        "question": "Dans quel film de Claude Lelouch Jean-Marie Bigard a-t-il interprété un médecin optimiste ?",
+        "question": "Dans quel film de Claude Lelouch Jean-Marie Bigard a-t-il interprete un medecin optimiste ?",
         "propositions": [
           "Chacun sa vie",
           "Roman de gare",
           "Ces amours-là",
           "Un plus une"
         ],
-        "réponse": "Chacun sa vie",
-        "anecdote": "Pour ce film, le Swann d'or de la meilleure actrice a été décerné à Béatrice Dalle au Festival du film de Cabourg 2017."
+        "reponse": "Chacun sa vie",
+        "anecdote": "Pour ce film, le Swann d'or de la meilleure actrice a ete decerne à Beatrice Dalle au Festival du film de Cabourg 2017."
       },
       {
         "id": 7,
-        "question": "Pour quels attentats Jean-Marie Bigard a-t-il défendu la thèse du complot ?",
+        "question": "Pour quels attentats Jean-Marie Bigard a-t-il defendu la these du complot ?",
         "propositions": [
           "Bataclan",
           "Bruxelles",
           "Madrid",
           "World Trade Center"
         ],
-        "réponse": "World Trade Center",
-        "anecdote": "Les partisans de ces théories soutiennent que le rapport officiel n'est pas assez complet et comporterait mensonges et omissions."
+        "reponse": "World Trade Center",
+        "anecdote": "Les partisans de ces theories soutiennent que le rapport officiel n'est pas assez complet et comporterait mensonges et omissions."
       },
       {
         "id": 8,
-        "question": "Près de quelle ville de l'Aube Jean-Marie Bigard a-t-il vu le jour ?",
+        "question": "Pres de quelle ville de l'Aube Jean-Marie Bigard a-t-il vu le jour ?",
         "propositions": [
           "Sainte-Savine",
           "Romilly-sur-Seine",
           "Bar-sur-Aube",
           "Troyes"
         ],
-        "réponse": "Troyes",
-        "anecdote": "Jean-Marie Bigard est un humoriste, acteur et réalisateur français, né le 17 mai 1954 à Fontaine-Luyères, près de Troyes."
+        "reponse": "Troyes",
+        "anecdote": "Jean-Marie Bigard est un humoriste, acteur et realisateur francais, ne le 17 mai 1954 à Fontaine-Luyeres, pres de Troyes."
       },
       {
         "id": 9,
-        "question": "Avec quel copain troyen a-t-il présenté son premier sketch chez Bouvard ?",
+        "question": "Avec quel copain troyen a-t-il presente son premier sketch chez Bouvard ?",
         "propositions": [
           "Tex",
           "Popeck",
           "Fary",
           "Rufus"
         ],
-        "réponse": "Tex",
-        "anecdote": "Bouvard plongera toutefois Bigard dans l'anonymat, relégué à son rôle de moteur caché aux spectateurs par une couverture."
+        "reponse": "Tex",
+        "anecdote": "Bouvard plongera toutefois Bigard dans l'anonymat, relegue à son rôle de moteur cache aux spectateurs par une couverture."
       },
       {
         "id": 10,
-        "question": "Quel est le numéro proposé par Bigard dans son spectacle de 2012 ?",
+        "question": "Quel est le numero propose par Bigard dans son spectacle de 2012 ?",
         "propositions": [
           "N° 7",
           "N° 1",
           "N° 5",
           "N° 9"
         ],
-        "réponse": "N° 9",
-        "anecdote": "Son spectacle odorant, initialement intitulé « Tout est relatif », s'appellera « N° 9 de Bigard » comme le N° 5 de Chanel."
+        "reponse": "N° 9",
+        "anecdote": "Son spectacle odorant, initialement intitule « Tout est relatif », s'appellera « N° 9 de Bigard » comme le N° 5 de Chanel."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Suite à la pratique de quel sport reviendra-t-il chez lui avec une médaille ?",
+        "question": "Suite à la pratique de quel sport reviendra-t-il chez lui avec une medaille ?",
         "propositions": [
           "Tennis",
           "Handball",
           "Judo",
           "Football"
         ],
-        "réponse": "Handball",
-        "anecdote": "Sélectionné dans l'équipe juniors de la région Nord-Est de la France, il gagnera le tournoi et reviendra avec une médaille."
+        "reponse": "Handball",
+        "anecdote": "Selectionne dans l'equipe juniors de la region Nord-Est de la France, il gagnera le tournoi et reviendra avec une medaille."
       },
       {
         "id": 12,
-        "question": "Quel futur humoriste conduira-t-il au lycée durant ses années d'enseignement ?",
+        "question": "Quel futur humoriste conduira-t-il au lycee durant ses annees d'enseignement ?",
         "propositions": [
           "Albert Dupontel",
           "Pierre Palmade",
           "Tarek Boudali",
-          "Raphaël Mezrahi"
+          "Raphaal Mezrahi"
         ],
-        "réponse": "Raphaël Mezrahi",
-        "anecdote": "Après sa candidature acceptée par le CREPS, et, après six mois de formation, il devient maître auxiliaire remplaçant."
+        "reponse": "Raphaal Mezrahi",
+        "anecdote": "Apres sa candidature acceptee par le CREPS, et, apres six mois de formation, il devient maître auxiliaire remplacant."
       },
       {
         "id": 13,
-        "question": "Quel fut le premier spectacle présenté par Bigard au théâtre du Point-Virgule ?",
+        "question": "Quel fut le premier spectacle presente par Bigard au theatre du Point-Virgule ?",
         "propositions": [
           "N°9 de Bigard",
-          "Pièces détachées",
-          "Bigard Intégral",
+          "Pieces detachees",
+          "Bigard Integral",
           "Oh Ben Oui !"
         ],
-        "réponse": "Pièces détachées",
-        "anecdote": "Constitué de sketches faisant intervenir trois comédiens. Brigitte Chardin et Frédéric Darie lui donneront la réplique."
+        "reponse": "Pieces detachees",
+        "anecdote": "Constitue de sketches faisant intervenir trois comediens. Brigitte Chardin et Frederic Darie lui donneront la replique."
       },
       {
         "id": 14,
-        "question": "Quelle était sa profession lorsque sa mère est morte d'un cancer du pancréas ?",
+        "question": "Quelle etait sa profession lorsque sa mere est morte d'un cancer du pancreas ?",
         "propositions": [
           "Barman",
           "Prof de gym",
           "Militaire",
           "Pompiste"
         ],
-        "réponse": "Barman",
-        "anecdote": "Cette catastrophe ne l'empêche pas de continuer à faire rire les clients, le plongeant néanmoins dans un état dépressif."
+        "reponse": "Barman",
+        "anecdote": "Cette catastrophe ne l'empeche pas de continuer à faire rire les clients, le plongeant neanmoins dans un etat depressif."
       },
       {
         "id": 15,
-        "question": "Devant combien de spectateurs a-t-il joué la dernière de « Bigard met le paquet » ?",
+        "question": "Devant combien de spectateurs a-t-il joue la derniere de « Bigard met le paquet » ?",
         "propositions": [
           "7 000",
           "20 000",
           "13 000",
           "10 000"
         ],
-        "réponse": "13 000",
-        "anecdote": "L'affiche, représentant un slip très moulant, fait polémique, mais le spectacle se démarque par un sketch sur la langue française."
+        "reponse": "13 000",
+        "anecdote": "L'affiche, representant un slip tres moulant, fait polemique, mais le spectacle se demarque par un sketch sur la langue francaise."
       },
       {
         "id": 16,
@@ -230,183 +230,183 @@
           "Denitsa Ikonomova",
           "Katrina Patchett"
         ],
-        "réponse": "Fauve Hautot",
-        "anecdote": "Bigard arrivera en quart de finale de l'émission et terminera cinquième de la compétition, éliminé face à Adriana Karembeu."
+        "reponse": "Fauve Hautot",
+        "anecdote": "Bigard arrivera en quart de finale de l'emission et terminera cinquieme de la competition, elimine face à Adriana Karembeu."
       },
       {
         "id": 17,
-        "question": "Dans quel téléfilm Jean-Marie Bigard a-t-il interprété le rôle de François Ragueneau ?",
+        "question": "Dans quel telefilm Jean-Marie Bigard a-t-il interprete le rôle de Francois Ragueneau ?",
         "propositions": [
           "Le Dirlo",
           "Simon le juste",
           "Roman noir",
           "Exils"
         ],
-        "réponse": "Le Dirlo",
-        "anecdote": "« Le Dirlo » est une comédie dramatique française réalisée par Patrick Volson, diffusé le 30 octobre 2003 sur TF1."
+        "reponse": "Le Dirlo",
+        "anecdote": "« Le Dirlo » est une comedie dramatique francaise realisee par Patrick Volson, diffuse le 30 octobre 2003 sur TF1."
       },
       {
         "id": 18,
-        "question": "Auprès de quel commissaire Bigard a-t-il interprété le rôle de Franck Saulnier ?",
+        "question": "Aupres de quel commissaire Bigard a-t-il interprete le rôle de Franck Saulnier ?",
         "propositions": [
           "Magellan",
           "Laurenti",
           "Valence",
           "Moulin"
         ],
-        "réponse": "Magellan",
-        "anecdote": "L'épisode « Le Bassin des grands », réalisé par Étienne Dhaene, a fait 19 % de part de marché avec 4 millions de téléspectateurs."
+        "reponse": "Magellan",
+        "anecdote": "L'episode « Le Bassin des grands », realise par Étienne Dhaene, a fait 19 % de part de marche avec 4 millions de telespectateurs."
       },
       {
         "id": 19,
-        "question": "Dans quelle pièce de Marcel Aymé Jean-Marie Bigard a-t-il joué en 2008 ?",
+        "question": "Dans quelle piece de Marcel Ayme Jean-Marie Bigard a-t-il joue en 2008 ?",
         "propositions": [
-          "Clérambard",
+          "Clerambard",
           "Le Minotaure",
-          "Vogue la galère",
+          "Vogue la galere",
           "Le Placard"
         ],
-        "réponse": "Clérambard",
-        "anecdote": "« Clérambard » est une pièce de théâtre représentée pour la première fois en 1950 sur la scène de la Comédie des Champs-Élysées."
+        "reponse": "Clerambard",
+        "anecdote": "« Clerambard » est une piece de theatre representee pour la premiere fois en 1950 sur la scene de la Comedie des Champs-Élysees."
       },
       {
         "id": 20,
-        "question": "Dans quel film d'Alexandre Jardin, Bigard a-t-il interprété le rôle de Stéphane ?",
+        "question": "Dans quel film d'Alexandre Jardin, Bigard a-t-il interprete le rôle de Stephane ?",
         "propositions": [
           "Le Prof",
           "Oui",
-          "Bille en tête",
+          "Bille en tete",
           "Fanfan"
         ],
-        "réponse": "Oui",
-        "anecdote": "Fondateur en 2015 du mouvement citoyen Bleu Blanc Zèbre, Alexandre Jardin a tenté d'être candidat à la présidence en 2016."
+        "reponse": "Oui",
+        "anecdote": "Fondateur en 2015 du mouvement citoyen Bleu Blanc Zebre, Alexandre Jardin a tente d'etre candidat à la presidence en 2016."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Où se positionne Jean-Marie Bigard parmi ses frères et soeurs ?",
+        "question": "Ou se positionne Jean-Marie Bigard parmi ses freres et soeurs ?",
         "propositions": [
           "Cadet",
-          "Troisième",
-          "Deuxième",
-          "Aîné"
+          "Troisieme",
+          "Deuxieme",
+          "Aîne"
         ],
-        "réponse": "Cadet",
-        "anecdote": "Il est le quatrième enfant d'une famille modeste né d'un père charcutier et d'une mère ouvrière dans l'industrie automobile."
+        "reponse": "Cadet",
+        "anecdote": "Il est le quatrieme enfant d'une famille modeste ne d'un pere charcutier et d'une mere ouvriere dans l'industrie automobile."
       },
       {
         "id": 22,
-        "question": "Vers quel BEP Jean-Marie Bigard s'est-il orienté à l'âge de seize ans ?",
+        "question": "Vers quel BEP Jean-Marie Bigard s'est-il oriente à l'age de seize ans ?",
         "propositions": [
           "Maroquinerie",
           "Peinture",
-          "Mécanique générale",
+          "Mecanique generale",
           "Boulangerie"
         ],
-        "réponse": "Mécanique générale",
-        "anecdote": "Allergique aux contraintes et à l'enfermement inhérents à l'école, il sait parfois se montrer sensible aux encouragements."
+        "reponse": "Mecanique generale",
+        "anecdote": "Allergique aux contraintes et à l'enfermement inherents à l'ecole, il sait parfois se montrer sensible aux encouragements."
       },
       {
         "id": 23,
-        "question": "De quelles voitures a-t-il organisé un commerce avec trois copains ?",
+        "question": "De quelles voitures a-t-il organise un commerce avec trois copains ?",
         "propositions": [
-          "Tractions Citroën",
+          "Tractions Citroan",
           "Buick Special",
           "Ferrari 250",
           "Aston Martin"
         ],
-        "réponse": "Tractions Citroën",
-        "anecdote": "Ils rachetaient les véhicules abandonnés, les retapaient et les revendaient à Paris pour environ trente fois le prix d'achat."
+        "reponse": "Tractions Citroan",
+        "anecdote": "Ils rachetaient les vehicules abandonnes, les retapaient et les revendaient à Paris pour environ trente fois le prix d'achat."
       },
       {
         "id": 24,
-        "question": "Par qui son père sera-t-il assassiné suite à un drame de jalousie ?",
+        "question": "Par qui son pere sera-t-il assassine suite à un drame de jalousie ?",
         "propositions": [
           "Un dentiste",
           "Un facteur",
           "Un bûcheron",
           "Un plombier"
         ],
-        "réponse": "Un bûcheron",
-        "anecdote": "C'est la promesse faite à sa mère malade de se mettre à travailler vraiment qui donnera naissance à sa vie professionnelle."
+        "reponse": "Un bûcheron",
+        "anecdote": "C'est la promesse faite à sa mere malade de se mettre à travailler vraiment qui donnera naissance à sa vie professionnelle."
       },
       {
         "id": 25,
-        "question": "Dans la publicité de quel fromage Jean-Marie Bigard était-il déguisé en indien ?",
+        "question": "Dans la publicite de quel fromage Jean-Marie Bigard etait-il deguise en indien ?",
         "propositions": [
           "Chaumes",
           "Boursault",
           "Saint Albray",
           "Babybel"
         ],
-        "réponse": "Boursault",
-        "anecdote": "Durant ses premières années à Paris, Bigard s'est présenté, comme on le lui a conseillé, à environ deux cents castings."
+        "reponse": "Boursault",
+        "anecdote": "Durant ses premieres annees à Paris, Bigard s'est presente, comme on le lui a conseille, à environ deux cents castings."
       },
       {
         "id": 26,
-        "question": "Qui a mis en scène en 1988 le spectacle à succès « Vous avez dit Bigard » ?",
+        "question": "Qui a mis en scene en 1988 le spectacle à succes « Vous avez dit Bigard » ?",
         "propositions": [
           "Myriam Isker",
           "Christine Bertholier",
           "Jean-Louis Cap",
           "Franck Godard"
         ],
-        "réponse": "Franck Godard",
-        "anecdote": "Ce spectacle lui permet de s'installer dans un style « stand-up », dont la caractéristique est de s'adresser directement au public."
+        "reponse": "Franck Godard",
+        "anecdote": "Ce spectacle lui permet de s'installer dans un style « stand-up », dont la caracteristique est de s'adresser directement au public."
       },
       {
         "id": 27,
-        "question": "Avec quelle danseuse brésilienne a-t-il affronté onze fécondations in vitro ?",
+        "question": "Avec quelle danseuse bresilienne a-t-il affronte onze fecondations in vitro ?",
         "propositions": [
           "Carla",
           "Sylvia",
           "Claudia",
           "Dora"
         ],
-        "réponse": "Claudia",
-        "anecdote": "Jean-Marie Bigard a rencontré Claudia, une danseuse d'origine brésilienne du Paradis Latin, avec qui il se marie en 1991."
+        "reponse": "Claudia",
+        "anecdote": "Jean-Marie Bigard a rencontre Claudia, une danseuse d'origine bresilienne du Paradis Latin, avec qui il se marie en 1991."
       },
       {
         "id": 28,
-        "question": "Dans quelle série a-t-on pu voir Bigard dans l'épisode intitulé « Mise aux poings » ?",
+        "question": "Dans quelle serie a-t-on pu voir Bigard dans l'episode intitule « Mise aux poings » ?",
         "propositions": [
           "Maguy",
           "Coplan",
           "Navarro",
           "David Lansky"
         ],
-        "réponse": "Maguy",
-        "anecdote": "Rosy Varte est la seule comédienne de la série à être présente dans la totalité des 333 épisodes de la série « Maguy »."
+        "reponse": "Maguy",
+        "anecdote": "Rosy Varte est la seule comedienne de la serie à etre presente dans la totalite des 333 episodes de la serie « Maguy »."
       },
       {
         "id": 29,
-        "question": "Qui a dessiné les deux tomes de la BD « Les Aventures de Bigard » ?",
+        "question": "Qui a dessine les deux tomes de la BD « Les Aventures de Bigard » ?",
         "propositions": [
-          "André Daix",
+          "Andre Daix",
           "Luc Cornillon",
           "Jacky Clech",
           "Bloz"
         ],
-        "réponse": "Jacky Clech",
-        "anecdote": "Jacky Clech a aussi dessiné « Les Inconnus - Les Zinédits » en 2007 et « Pierre Bellemare raconte » en 2009."
+        "reponse": "Jacky Clech",
+        "anecdote": "Jacky Clech a aussi dessine « Les Inconnus - Les Zinedits » en 2007 et « Pierre Bellemare raconte » en 2009."
       },
       {
         "id": 30,
-        "question": "Quelle marque de tracteurs Jean-Marie Bigard a-t-il chanté en 1988 ?",
+        "question": "Quelle marque de tracteurs Jean-Marie Bigard a-t-il chante en 1988 ?",
         "propositions": [
           "Renault Agriculture",
-          "Motor Ibérica",
+          "Motor Iberica",
           "Hardi-Evrard",
           "Massey Ferguson"
         ],
-        "réponse": "Massey Ferguson",
-        "anecdote": "Massey Ferguson est une société du groupe américain Agco Corporation, dont le siège est situé à Duluth, en Géorgie."
+        "reponse": "Massey Ferguson",
+        "anecdote": "Massey Ferguson est une societe du groupe americain Agco Corporation, dont le siege est situe à Duluth, en Georgie."
       }
     ]
     },
     "en": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Who did Jean-Marie Bigard want to be spotted when he got to Paris ?",
@@ -416,8 +416,8 @@
           "Jacques Martin",
           "Laurent Ruquier"
         ],
-        "réponse": "Philippe Bouvard",
-        "anecdote": "Thanks to his knowledge of Robert Lamoureux's repertoire, he wished to appear on the television show « Le Petit Théâtre »."
+        "reponse": "Philippe Bouvard",
+        "anecdote": "Thanks to his knowledge of Robert Lamoureux's repertoire, he wished to appear on the television show « Le Petit Theatre »."
       },
       {
         "id": 2,
@@ -428,7 +428,7 @@
           "Merci Bernard",
           "La Classe"
         ],
-        "réponse": "La Classe",
+        "reponse": "La Classe",
         "anecdote": "He will write more than a hundred sketches with Laurent Baffie, and many others like Franck Godard or Pierre Veys."
       },
       {
@@ -440,19 +440,19 @@
           "Kwiskas",
           "Bastorama"
         ],
-        "réponse": "Toniglandyl",
+        "reponse": "Toniglandyl",
         "anecdote": "It was during « La Classe » that he wrote a few sketches for Dummies, then in full glory on Canal  in « Nowhere else »."
       },
       {
         "id": 4,
         "question": "Which UMP candidate did he actively support in April 2007 ?",
         "propositions": [
-          "Alain Juppé",
+          "Alain Juppe",
           "Jean-Pierre Raffarin",
           "Nicolas Sarkozy",
-          "François Fillon"
+          "Francois Fillon"
         ],
-        "réponse": "Nicolas Sarkozy",
+        "reponse": "Nicolas Sarkozy",
         "anecdote": "This support arose in the presidential elections, before accompanying him to Rome to meet Pope Benedict XVI."
       },
       {
@@ -464,7 +464,7 @@
           "Maryse Martin",
           "Anne Marivin"
         ],
-        "réponse": "Lola Marois",
+        "reponse": "Lola Marois",
         "anecdote": "With his new partner, officially married in 2011, he will have twins in November 2012 named Jules and Bella."
       },
       {
@@ -476,8 +476,8 @@
           "Ces amours-là",
           "Un plus une"
         ],
-        "réponse": "Chacun sa vie",
-        "anecdote": "For this film, the Golden Swann for Best Actress was awarded to Béatrice Dalle at the Cabourg Film Festival 2017."
+        "reponse": "Chacun sa vie",
+        "anecdote": "For this film, the Golden Swann for Best Actress was awarded to Beatrice Dalle at the Cabourg Film Festival 2017."
       },
       {
         "id": 7,
@@ -488,7 +488,7 @@
           "Madrid",
           "Brussels"
         ],
-        "réponse": "World Trade Center",
+        "reponse": "World Trade Center",
         "anecdote": "Proponents of these theories argue that the official report is not comprehensive enough and would contain lies and omissions."
       },
       {
@@ -500,8 +500,8 @@
           "Romilly-sur-Seine",
           "Troyes"
         ],
-        "réponse": "Troyes",
-        "anecdote": "Jean-Marie Bigard is a French humorist, actor and director, born May 17, 1954 in Fontaine-Luyères, near Troyes."
+        "reponse": "Troyes",
+        "anecdote": "Jean-Marie Bigard is a French humorist, actor and director, born May 17, 1954 in Fontaine-Luyeres, near Troyes."
       },
       {
         "id": 9,
@@ -512,7 +512,7 @@
           "Fary",
           "Popeck"
         ],
-        "réponse": "Tex",
+        "reponse": "Tex",
         "anecdote": "Bouvard, however, plunged Bigard into anonymity, relegated to its role as an engine hidden from viewers by a blanket."
       },
       {
@@ -524,11 +524,11 @@
           "No. 7",
           "No. 5"
         ],
-        "réponse": "No. 9",
+        "reponse": "No. 9",
         "anecdote": "Her fragrant show, initially titled « Everything is relative », will be called « N° 9 de Bigard » like N° 5 by Chanel."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Following the practice of which sport will he return home with a medal ?",
@@ -538,7 +538,7 @@
           "Handball",
           "Tennis"
         ],
-        "réponse": "Handball",
+        "reponse": "Handball",
         "anecdote": "Selected in the junior team of the North-East region of France, he will win the tournament and come back with a medal."
       },
       {
@@ -547,10 +547,10 @@
         "propositions": [
           "Albert Dupontel",
           "Tarek Boudali",
-          "Raphaël Mezrahi",
+          "Raphaal Mezrahi",
           "Pierre Palmade"
         ],
-        "réponse": "Raphaël Mezrahi",
+        "reponse": "Raphaal Mezrahi",
         "anecdote": "After his application accepted by the CREPS, and, after six months of training, he becomes a substitute auxiliary master."
       },
       {
@@ -558,12 +558,12 @@
         "question": "What was the first show presented by Bigard at the Point-Virgule theater ?",
         "propositions": [
           "N°9 de Bigard",
-          "Bigard Intégral",
-          "Pièces détachées",
+          "Bigard Integral",
+          "Pieces detachees",
           "Oh Ben Oui !"
         ],
-        "réponse": "Pièces détachées",
-        "anecdote": "Made up of sketches involving three actors. Brigitte Chardin and Frédéric Darie will give him the answer."
+        "reponse": "Pieces detachees",
+        "anecdote": "Made up of sketches involving three actors. Brigitte Chardin and Frederic Darie will give him the answer."
       },
       {
         "id": 14,
@@ -574,7 +574,7 @@
           "Military",
           "Gas station attendant"
         ],
-        "réponse": "Bartender",
+        "reponse": "Bartender",
         "anecdote": "This catastrophe did not prevent him from continuing to make customers laugh, nevertheless plunging him into a state of depression."
       },
       {
@@ -586,7 +586,7 @@
           "7,000",
           "20,000"
         ],
-        "réponse": "13,000",
+        "reponse": "13,000",
         "anecdote": "The poster, representing very tight-fitting briefs, is controversial, but the show stands out with a sketch on the French language."
       },
       {
@@ -598,19 +598,19 @@
           "Fauve Hautot",
           "Katrina Patchett"
         ],
-        "réponse": "Fauve Hautot",
+        "reponse": "Fauve Hautot",
         "anecdote": "Bigard will arrive in the show's quarterfinals and finish fifth in the competition, eliminated against Adriana Karembeu."
       },
       {
         "id": 17,
-        "question": "In which TV movie did Jean-Marie Bigard play the role of François Ragueneau ?",
+        "question": "In which TV movie did Jean-Marie Bigard play the role of Francois Ragueneau ?",
         "propositions": [
           "Simon le juste",
           "Le Dirlo",
           "Exils",
           "Roman noir"
         ],
-        "réponse": "Le Dirlo",
+        "reponse": "Le Dirlo",
         "anecdote": "« Le Dirlo » is a French comedy-drama directed by Patrick Volson, broadcast on October 30, 2003 on TF1."
       },
       {
@@ -622,32 +622,32 @@
           "Valencia",
           "Laurenti"
         ],
-        "réponse": "Magellan",
+        "reponse": "Magellan",
         "anecdote": "The episode « Le Bassin des grands », directed by Étienne Dhaene, achieved a 19 % market share with 4 million viewers."
       },
       {
         "id": 19,
-        "question": "In which play by Marcel Aymé did Jean-Marie Bigard play in 2008 ?",
+        "question": "In which play by Marcel Ayme did Jean-Marie Bigard play in 2008 ?",
         "propositions": [
-          "Clérambard",
+          "Clerambard",
           "Le Placard",
           "Le Minotaure",
-          "Vogue la galère"
+          "Vogue la galere"
         ],
-        "réponse": "Clérambard",
-        "anecdote": "« Clérambard » is a play performed for the first time in 1950 on the stage of the Comédie des Champs-Élysées."
+        "reponse": "Clerambard",
+        "anecdote": "« Clerambard » is a play performed for the first time in 1950 on the stage of the Comedie des Champs-Élysees."
       },
       {
         "id": 20,
-        "question": "In which film by Alexandre Jardin did Jean-Marie Bigard play the role of Stéphane ?",
+        "question": "In which film by Alexandre Jardin did Jean-Marie Bigard play the role of Stephane ?",
         "propositions": [
           "Le Prof",
           "Fanfan",
           "Oui",
-          "Bille en tête"
+          "Bille en tete"
         ],
-        "réponse": "Oui",
-        "anecdote": "Founder in 2015 of the citizen movement Bleu Blanc Zèbre, Alexandre Jardin tried to be a candidate for the presidency in 2016."
+        "reponse": "Oui",
+        "anecdote": "Founder in 2015 of the citizen movement Bleu Blanc Zebre, Alexandre Jardin tried to be a candidate for the presidency in 2016."
       }
     ],
     "expert": [
@@ -660,7 +660,7 @@
           "Second",
           "Third"
         ],
-        "réponse": "Cadet",
+        "reponse": "Cadet",
         "anecdote": "He is the fourth child of a modest family born to a butcher father and a working mother in the automotive industry."
       },
       {
@@ -672,7 +672,7 @@
           "Bakery",
           "Leather goods"
         ],
-        "réponse": "General mechanics",
+        "reponse": "General mechanics",
         "anecdote": "Allergic to the constraints and confinement inherent in school, he sometimes knows how to be sensitive to encouragement."
       },
       {
@@ -680,11 +680,11 @@
         "question": "What cars did he organize a business with three friends of ?",
         "propositions": [
           "Ferrari 250",
-          "Citroën Tractions",
+          "Citroan Tractions",
           "Buick Special",
           "Aston Martin"
         ],
-        "réponse": "Citroën Tractions",
+        "reponse": "Citroan Tractions",
         "anecdote": "They bought back abandoned vehicles, rebuilt them and sold them back to Paris for about thirty times the purchase price."
       },
       {
@@ -696,7 +696,7 @@
           "A lumberjack",
           "A factor"
         ],
-        "réponse": "A lumberjack",
+        "reponse": "A lumberjack",
         "anecdote": "It is the promise made to his sick mother to really get to work that will give birth to his professional life."
       },
       {
@@ -708,7 +708,7 @@
           "Boursault",
           "Babybel"
         ],
-        "réponse": "Boursault",
+        "reponse": "Boursault",
         "anecdote": "During his early years in Paris, Bigard performed, as he was advised, at around two hundred castings."
       },
       {
@@ -720,7 +720,7 @@
           "Franck Godard",
           "Myriam Isker"
         ],
-        "réponse": "Franck Godard",
+        "reponse": "Franck Godard",
         "anecdote": "This show allows him to settle in a stand-up style, the characteristic of which is to address the public directly."
       },
       {
@@ -732,7 +732,7 @@
           "Carla",
           "Dora"
         ],
-        "réponse": "Claudia",
+        "reponse": "Claudia",
         "anecdote": "Jean-Marie Bigard met Claudia, a dancer of Brazilian origin from Paradis Latin, with whom he married in 1991."
       },
       {
@@ -744,7 +744,7 @@
           "David Lansky",
           "Maguy"
         ],
-        "réponse": "Maguy",
+        "reponse": "Maguy",
         "anecdote": "Rosy Varte is the only actress in the series to appear in all 333 episodes of the « Maguy » series."
       },
       {
@@ -752,12 +752,12 @@
         "question": "Who drew the two volumes of the « Les Aventures de Bigard » comic strip ?",
         "propositions": [
           "Bloz",
-          "André Daix",
+          "Andre Daix",
           "Jacky Clech ",
           "Luc Cornillon"
         ],
-        "réponse": "Jacky Clech ",
-        "anecdote": "Jacky Clech also drew « Les Inconnus - Les Zinédits » in 2007 and « Pierre Bellemare tells » in 2009."
+        "reponse": "Jacky Clech ",
+        "anecdote": "Jacky Clech also drew « Les Inconnus - Les Zinedits » in 2007 and « Pierre Bellemare tells » in 2009."
       },
       {
         "id": 30,
@@ -766,15 +766,15 @@
           "Renault Agriculture",
           "Hardi-Evrard",
           "Massey Ferguson",
-          "Motor Ibérica"
+          "Motor Iberica"
         ],
-        "réponse": "Massey Ferguson",
+        "reponse": "Massey Ferguson",
         "anecdote": "Massey Ferguson is a US group company, Agco Corporation, headquartered in Duluth, Georgia."
       }
     ]
     },
     "de": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Wen wollte Jean-Marie Bigard sehen, als er in Paris ankam ?",
@@ -784,8 +784,8 @@
           "Michel Drucker",
           "Philippe Bouvard"
         ],
-        "réponse": "Philippe Bouvard",
-        "anecdote": "Dank seiner Kenntnis des Repertoires von Robert Lamoureux wollte er in der Fernsehsendung « Le Petit Théâtre » auftreten."
+        "reponse": "Philippe Bouvard",
+        "anecdote": "Dank seiner Kenntnis des Repertoires von Robert Lamoureux wollte er in der Fernsehsendung « Le Petit Theatre » auftreten."
       },
       {
         "id": 2,
@@ -796,7 +796,7 @@
           "Co-Co Boy",
           "Merci Bernard"
         ],
-        "réponse": "La Classe",
+        "reponse": "La Classe",
         "anecdote": "Dort schrieb er mehr als hundert Skizzen mit Laurent Baffie und vielen anderen wie Franck Godard oder Pierre Veys."
       },
       {
@@ -808,7 +808,7 @@
           "Königlicher Rabbiner",
           "Bastorama"
         ],
-        "réponse": "Toniglandyl",
+        "reponse": "Toniglandyl",
         "anecdote": "Während « La Classe » schrieb er ein paar Skizzen für Dummies, dann in voller Pracht auf Canal  in « Nirgendwo sonst »."
       },
       {
@@ -817,10 +817,10 @@
         "propositions": [
           "Jean-Pierre Raffarin",
           "Nicolas Sarkozy",
-          "François Fillon",
-          "Alain Juppé"
+          "Francois Fillon",
+          "Alain Juppe"
         ],
-        "réponse": "Nicolas Sarkozy",
+        "reponse": "Nicolas Sarkozy",
         "anecdote": "Diese Unterstützung entstand bei den Präsidentschaftswahlen, bevor er nach Rom begleitet wurde, um Papst Benedikt XVI."
       },
       {
@@ -832,7 +832,7 @@
           "Lola Marois",
           "Betty Mars"
         ],
-        "réponse": "Lola Marois",
+        "reponse": "Lola Marois",
         "anecdote": "Mit seinem neuen Partner, der 2011 offiziell verheiratet ist, wird er im November 2012 Zwillinge namens Jules und Bella haben."
       },
       {
@@ -844,8 +844,8 @@
           "Un plus une",
           "Ces amours-là"
         ],
-        "réponse": "Chacun sa vie",
-        "anecdote": "Für diesen Film wurde Béatrice Dalle beim Cabourg Film Festival 2017 mit dem Goldenen Swann als beste Schauspielerin ausgezeichnet."
+        "reponse": "Chacun sa vie",
+        "anecdote": "Für diesen Film wurde Beatrice Dalle beim Cabourg Film Festival 2017 mit dem Goldenen Swann als beste Schauspielerin ausgezeichnet."
       },
       {
         "id": 7,
@@ -856,7 +856,7 @@
           "Madrid",
           "World Trade Center"
         ],
-        "réponse": "World Trade Center",
+        "reponse": "World Trade Center",
         "anecdote": "Befürworter dieser Theorien argumentieren, dass der offizielle Bericht nicht umfassend genug ist und Lügen und Auslassungen enthalten würde."
       },
       {
@@ -868,8 +868,8 @@
           "Sainte-Savine",
           "Troyes"
         ],
-        "réponse": "Troyes",
-        "anecdote": "Jean-Marie Bigard ist ein französischer Humorist, Schauspieler und Regisseur, geboren am 17. Mai 1954 in Fontaine-Luyères bei Troyes."
+        "reponse": "Troyes",
+        "anecdote": "Jean-Marie Bigard ist ein französischer Humorist, Schauspieler und Regisseur, geboren am 17. Mai 1954 in Fontaine-Luyeres bei Troyes."
       },
       {
         "id": 9,
@@ -880,7 +880,7 @@
           "Rufus",
           "Tex"
         ],
-        "réponse": "Tex",
+        "reponse": "Tex",
         "anecdote": "Bouvard stürzte Bigard jedoch in die Anonymität und stieg in seine Rolle als Motor ab, der von einer Decke vor den Zuschauern verborgen wurde."
       },
       {
@@ -892,11 +892,11 @@
           "Nr. 7",
           "Nr. 1"
         ],
-        "réponse": "Nr. 9",
+        "reponse": "Nr. 9",
         "anecdote": "Ihre duftende Show mit dem anfänglichen Titel « Alles ist relativ » wird von Chanel « N° 9 de Bigard » wie N° 5 genannt."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Nach welcher Sportart wird er mit einer Medaille nach Hause zurückkehren ?",
@@ -906,7 +906,7 @@
           "Tennis",
           "Handball"
         ],
-        "réponse": "Handball",
+        "reponse": "Handball",
         "anecdote": "Er wird in der Juniorenmannschaft der nordöstlichen Region Frankreichs ausgewählt, gewinnt das Turnier und kommt mit einer Medaille zurück."
       },
       {
@@ -914,11 +914,11 @@
         "question": "Welchen zukünftigen Humoristen wird er während seiner Unterrichtszeit zur High School führen ?",
         "propositions": [
           "Pierre Palmade",
-          "Raphaël Mezrahi",
+          "Raphaal Mezrahi",
           "Albert Dupontel",
           "Tarek Boudali"
         ],
-        "réponse": "Raphaël Mezrahi",
+        "reponse": "Raphaal Mezrahi",
         "anecdote": "Nach seiner vom CREPS angenommenen Bewerbung und nach sechsmonatiger Ausbildung wird er Ersatz-Hilfsmeister."
       },
       {
@@ -927,11 +927,11 @@
         "propositions": [
           "Oh Ben Oui !",
           "N°9 de Bigard",
-          "Bigard Intégral",
-          "Pièces détachées"
+          "Bigard Integral",
+          "Pieces detachees"
         ],
-        "réponse": "Pièces détachées",
-        "anecdote": "Bestehend aus Skizzen mit drei Schauspielern. Brigitte Chardin und Frédéric Darie werden ihm die Antwort geben."
+        "reponse": "Pieces detachees",
+        "anecdote": "Bestehend aus Skizzen mit drei Schauspielern. Brigitte Chardin und Frederic Darie werden ihm die Antwort geben."
       },
       {
         "id": 14,
@@ -942,7 +942,7 @@
           "Barkeeper",
           "Militär"
         ],
-        "réponse": "Barkeeper",
+        "reponse": "Barkeeper",
         "anecdote": "Diese Katastrophe hindert ihn nicht daran, die Kunden weiterhin zum Lachen zu bringen, und versetzt ihn dennoch in einen depressiven Zustand."
       },
       {
@@ -954,7 +954,7 @@
           "7.000",
           "20.000"
         ],
-        "réponse": "13.000",
+        "reponse": "13.000",
         "anecdote": "Das Poster, das sehr eng anliegende Slips darstellt, ist umstritten, aber die Show zeichnet sich durch eine Skizze der französischen Sprache aus."
       },
       {
@@ -966,19 +966,19 @@
           "Katrina Patchett",
           "Denitsa Ikonomova"
         ],
-        "réponse": "Fauve Hautot",
+        "reponse": "Fauve Hautot",
         "anecdote": "Bigard wird im Viertelfinale der Show eintreffen und den fünften Platz im Wettbewerb belegen, der gegen Adriana Karembeu ausgeschieden ist."
       },
       {
         "id": 17,
-        "question": "In welchem Fernsehfilm spielte Jean-Marie Bigard die Rolle von François Ragueneau ?",
+        "question": "In welchem Fernsehfilm spielte Jean-Marie Bigard die Rolle von Francois Ragueneau ?",
         "propositions": [
           "Le Dirlo",
           "Exils",
           "Simon le juste",
           "Roman noir"
         ],
-        "réponse": "Le Dirlo",
+        "reponse": "Le Dirlo",
         "anecdote": "« Le Dirlo » ist ein französisches Comedy-Drama unter der Regie von Patrick Volson, das am 30. Oktober 2003 auf TF1 ausgestrahlt wurde."
       },
       {
@@ -990,32 +990,32 @@
           "Mühle",
           "Magellan"
         ],
-        "réponse": "Magellan",
+        "reponse": "Magellan",
         "anecdote": "Die Folge « Le Bassin des grands » unter der Regie von Étienne Dhaene erreichte mit 4 Millionen Zuschauern einen Marktanteil von 19 %."
       },
       {
         "id": 19,
-        "question": "In welchem Stück von Marcel Aymé spielte Jean-Marie Bigard 2008 ?",
+        "question": "In welchem Stück von Marcel Ayme spielte Jean-Marie Bigard 2008 ?",
         "propositions": [
           "Le Minotaure",
-          "Clérambard",
+          "Clerambard",
           "Le Placard",
-          "Vogue la galère"
+          "Vogue la galere"
         ],
-        "réponse": "Clérambard",
-        "anecdote": "« Clérambard » ist ein Stück, das 1950 zum ersten Mal auf der Bühne der Comédie des Champs-Élysées aufgeführt wurde."
+        "reponse": "Clerambard",
+        "anecdote": "« Clerambard » ist ein Stück, das 1950 zum ersten Mal auf der Bühne der Comedie des Champs-Élysees aufgeführt wurde."
       },
       {
         "id": 20,
-        "question": "In welchem Film von Alexandre Jardin spielte Jean-Marie Bigard die Rolle des Stéphane ?",
+        "question": "In welchem Film von Alexandre Jardin spielte Jean-Marie Bigard die Rolle des Stephane ?",
         "propositions": [
           "Fanfan",
-          "Bille en tête",
+          "Bille en tete",
           "Oui",
           "Le Prof"
         ],
-        "réponse": "Oui",
-        "anecdote": "Alexandre Jardin, Gründer der Bürgerbewegung Bleu Blanc Zèbre im Jahr 2015, versuchte 2016, Präsidentschaftskandidat zu werden."
+        "reponse": "Oui",
+        "anecdote": "Alexandre Jardin, Gründer der Bürgerbewegung Bleu Blanc Zebre im Jahr 2015, versuchte 2016, Präsidentschaftskandidat zu werden."
       }
     ],
     "expert": [
@@ -1028,7 +1028,7 @@
           "Elder",
           "Kadett"
         ],
-        "réponse": "Kadett",
+        "reponse": "Kadett",
         "anecdote": "Er ist das vierte Kind einer bescheidenen Familie, die von einem Metzgervater und einer berufstätigen Mutter in der Automobilindustrie geboren wurde."
       },
       {
@@ -1040,7 +1040,7 @@
           "Allgemeine Mechanik",
           "Lederwaren"
         ],
-        "réponse": "Allgemeine Mechanik",
+        "reponse": "Allgemeine Mechanik",
         "anecdote": "Er ist allergisch gegen die Zwänge und Einschränkungen der Schule und weiß manchmal, wie man auf Ermutigung reagiert."
       },
       {
@@ -1049,10 +1049,10 @@
         "propositions": [
           "Ferrari 250",
           "Aston Martin",
-          "Citroën Tractions",
+          "Citroan Tractions",
           "Buick Special"
         ],
-        "réponse": "Citroën Tractions",
+        "reponse": "Citroan Tractions",
         "anecdote": "Sie kauften verlassene Fahrzeuge zurück, reparierten sie und verkauften sie in Paris für etwa das Dreifache des Kaufpreises zurück."
       },
       {
@@ -1064,7 +1064,7 @@
           "Ein Holzfäller",
           "Ein Klempner"
         ],
-        "réponse": "Ein Holzfäller",
+        "reponse": "Ein Holzfäller",
         "anecdote": "Es ist das Versprechen an seine kranke Mutter, wirklich zur Arbeit zu gehen, das sein Berufsleben hervorbringt."
       },
       {
@@ -1076,7 +1076,7 @@
           "Boursault",
           "Babybel"
         ],
-        "réponse": "Boursault",
+        "reponse": "Boursault",
         "anecdote": "In seinen frühen Jahren in Paris trat Bigard, wie ihm geraten wurde, bei rund zweihundert Castings auf."
       },
       {
@@ -1088,7 +1088,7 @@
           "Jean-Louis Cap",
           "Myriam Isker"
         ],
-        "réponse": "Franck Godard",
+        "reponse": "Franck Godard",
         "anecdote": "Diese Show ermöglicht es ihm, sich in einem Stand-up-Stil niederzulassen, dessen Merkmal darin besteht, die Öffentlichkeit direkt anzusprechen."
       },
       {
@@ -1100,7 +1100,7 @@
           "Sylvia",
           "Carla"
         ],
-        "réponse": "Claudia",
+        "reponse": "Claudia",
         "anecdote": "Jean-Marie Bigard lernte Claudia kennen, eine Tänzerin brasilianischer Herkunft aus Paradis Latin, mit der er 1991 heiratete."
       },
       {
@@ -1112,7 +1112,7 @@
           "Coplan",
           "Navarro"
         ],
-        "réponse": "Maguy",
+        "reponse": "Maguy",
         "anecdote": "Rosy Varte ist die einzige Schauspielerin in der Serie, die in allen 333 Folgen der Serie « Maguy » zu sehen ist."
       },
       {
@@ -1121,134 +1121,134 @@
         "propositions": [
           "Jacky Clech ",
           "Bloz",
-          "André Daix",
+          "Andre Daix",
           "Luc Cornillon"
         ],
-        "réponse": "Jacky Clech ",
-        "anecdote": "Jacky Clech zeichnete 2007 auch « Les Inconnus - Les Zinédits » und « Pierre Bellemare » 2009."
+        "reponse": "Jacky Clech ",
+        "anecdote": "Jacky Clech zeichnete 2007 auch « Les Inconnus - Les Zinedits » und « Pierre Bellemare » 2009."
       },
       {
         "id": 30,
         "question": "Welche Traktormarke hat Jean-Marie Bigard 1988 gesungen ?",
         "propositions": [
           "Massey Ferguson",
-          "Motor Ibérica",
+          "Motor Iberica",
           "Hardi-Evrard",
           "Renault Landwirtschaft"
         ],
-        "réponse": "Massey Ferguson",
+        "reponse": "Massey Ferguson",
         "anecdote": "Massey Ferguson ist ein US-amerikanisches Konzernunternehmen, Agco Corporation, mit Hauptsitz in Duluth, Georgia."
       }
     ]
     },
     "es": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "¿A quién quería que Jean-Marie Bigard se viera cuando llegara a París ?",
+        "question": "¿A quien quería que Jean-Marie Bigard se viera cuando llegara a París ?",
         "propositions": [
           "Laurent Ruquier",
           "Philippe Bouvard",
           "Jacques Martin",
           "Michel Drucker"
         ],
-        "réponse": "Philippe Bouvard",
-        "anecdote": "Gracias a su conocimiento del repertorio de Robert Lamoureux, quiso aparecer en el programa de televisión « Le Petit Théâtre »."
+        "reponse": "Philippe Bouvard",
+        "anecdote": "Gracias a su conocimiento del repertorio de Robert Lamoureux, quiso aparecer en el programa de televisión « Le Petit Theatre »."
       },
       {
         "id": 2,
-        "question": "¿Gracias a qué programa de FR3 se reveló Jean-Marie Bigard al público en general ?",
+        "question": "¿Gracias a que programa de FR3 se reveló Jean-Marie Bigard al público en general ?",
         "propositions": [
           "Co-Co Boy",
           "Yacapa",
           "La Classe",
           "Merci Bernard"
         ],
-        "réponse": "La Classe",
+        "reponse": "La Classe",
         "anecdote": "Allí escribió más de un centenar de bocetos con Laurent Baffie, y muchos otros como Franck Godard o Pierre Veys."
       },
       {
         "id": 3,
-        "question": "¿Qué famoso pub falso ha filmado Jean-Marie Bigard con Dummies ?",
+        "question": "¿Que famoso pub falso ha filmado Jean-Marie Bigard con Dummies ?",
         "propositions": [
           "Toniglandyl",
           "Kwiskas",
           "Bastorama",
           "Rabino real"
         ],
-        "réponse": "Toniglandyl",
+        "reponse": "Toniglandyl",
         "anecdote": "Fue durante « La Classe » que escribió algunos bocetos para Dummies, luego en toda su gloria en Canal  en « Ningún otro lugar »."
       },
       {
         "id": 4,
-        "question": "¿A qué candidato de la UMP apoyó activamente en abril de 2007 ?",
+        "question": "¿A que candidato de la UMP apoyó activamente en abril de 2007 ?",
         "propositions": [
-          "François Fillon",
-          "Alain Juppé",
+          "Francois Fillon",
+          "Alain Juppe",
           "Jean-Pierre Raffarin",
           "Nicolas Sarkozy"
         ],
-        "réponse": "Nicolas Sarkozy",
+        "reponse": "Nicolas Sarkozy",
         "anecdote": "Este apoyo surgió en las elecciones presidenciales, antes de acompañarlo a Roma para encontrarse con el Papa Benedicto XVI."
       },
       {
         "id": 5,
-        "question": "¿Con qué actriz vive actualmente Jean-Marie Bigard ?",
+        "question": "¿Con que actriz vive actualmente Jean-Marie Bigard ?",
         "propositions": [
           "Lola Marois",
           "Maryse Martin",
           "Betty Mars",
           "Anne Marivin"
         ],
-        "réponse": "Lola Marois",
+        "reponse": "Lola Marois",
         "anecdote": "Con su nueva pareja, oficialmente casada en 2011, tendrá gemelos en noviembre de 2012 llamados Jules y Bella."
       },
       {
         "id": 6,
-        "question": "¿En qué película de Claude Lelouch interpretó Jean-Marie Bigard a un médico optimista ?",
+        "question": "¿En que película de Claude Lelouch interpretó Jean-Marie Bigard a un medico optimista ?",
         "propositions": [
           "Un plus une",
           "Ces amours-là",
           "Roman de gare",
           "Chacun sa vie"
         ],
-        "réponse": "Chacun sa vie",
-        "anecdote": "Por esta película, el Cisne de Oro a la Mejor Actriz fue otorgado a Béatrice Dalle en el Festival de Cine de Cabourg 2017."
+        "reponse": "Chacun sa vie",
+        "anecdote": "Por esta película, el Cisne de Oro a la Mejor Actriz fue otorgado a Beatrice Dalle en el Festival de Cine de Cabourg 2017."
       },
       {
         "id": 7,
-        "question": "¿Por qué ataques defendió Jean-Marie Bigard la tesis de la conspiración ?",
+        "question": "¿Por que ataques defendió Jean-Marie Bigard la tesis de la conspiración ?",
         "propositions": [
           "Madrid",
           "Bruselas",
           "Bataclan",
           "World Trade Center"
         ],
-        "réponse": "World Trade Center",
+        "reponse": "World Trade Center",
         "anecdote": "Los defensores de estas teorías argumentan que el informe oficial no es lo suficientemente completo y contendría mentiras y omisiones."
       },
       {
         "id": 8,
-        "question": "¿Cerca de qué ciudad de Aube nació Jean-Marie Bigard ?",
+        "question": "¿Cerca de que ciudad de Aube nació Jean-Marie Bigard ?",
         "propositions": [
           "Romilly-sur-Seine",
           "Bar-sur-Aube",
           "Troyes",
           "Sainte-Savine"
         ],
-        "réponse": "Troyes",
-        "anecdote": "Jean-Marie Bigard es un humorista, actor y director francés, nacido el 17 de mayo de 1954 en Fontaine-Luyères, cerca de Troyes."
+        "reponse": "Troyes",
+        "anecdote": "Jean-Marie Bigard es un humorista, actor y director frances, nacido el 17 de mayo de 1954 en Fontaine-Luyeres, cerca de Troyes."
       },
       {
         "id": 9,
-        "question": "¿Con qué amigo troyano presentó su primer boceto en Bouvard ?",
+        "question": "¿Con que amigo troyano presentó su primer boceto en Bouvard ?",
         "propositions": [
           "Popeck",
           "Rufus",
           "Fary",
           "Tex"
         ],
-        "réponse": "Tex",
+        "reponse": "Tex",
         "anecdote": "Bouvard, sin embargo, sumió a Bigard en el anonimato, relegado a su papel de motor oculto a los espectadores por una manta."
       },
       {
@@ -1260,46 +1260,46 @@
           "No. 1",
           "No. 7"
         ],
-        "réponse": "No. 9",
+        "reponse": "No. 9",
         "anecdote": "Su espectáculo fragante, inicialmente titulado « Todo es relativo », se llamará « N° 9 de Bigard » como N° 5 de Chanel."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "¿Tras la práctica de qué deporte volverá a casa con una medalla ?",
+        "question": "¿Tras la práctica de que deporte volverá a casa con una medalla ?",
         "propositions": [
           "Tenis",
           "Judo",
           "Balonmano",
           "Fútbol ","Football"
         ],
-        "réponse": "Balonmano",
+        "reponse": "Balonmano",
         "anecdote": "Seleccionado en el equipo juvenil del noreste de Francia, ganará el torneo y volverá con una medalla."
       },
       {
         "id": 12,
-        "question": "¿Qué futuro humorista llevará a la escuela secundaria durante sus años de profesor ?",
+        "question": "¿Que futuro humorista llevará a la escuela secundaria durante sus años de profesor ?",
         "propositions": [
           "Albert Dupontel",
           "Tarek Boudali",
-          "Raphaël Mezrahi",
+          "Raphaal Mezrahi",
           "Pierre Palmade"
         ],
-        "réponse": "Raphaël Mezrahi",
+        "reponse": "Raphaal Mezrahi",
         "anecdote": "Tras su solicitud aceptada por el CREPS, y tras seis meses de formación pasa a ser maestro auxiliar suplente."
       },
       {
         "id": 13,
         "question": "¿Cuál fue el primer espectáculo que presentó Bigard en el teatro Point-Virgule ?",
         "propositions": [
-          "Pièces détachées",
+          "Pieces detachees",
           "Oh Ben Oui !",
           "N°9 de Bigard",
-          "Bigard Intégral"
+          "Bigard Integral"
         ],
-        "réponse": "Pièces détachées",
-        "anecdote": "Compuesto por bocetos que involucran a tres actores. Brigitte Chardin y Frédéric Darie le darán la respuesta."
+        "reponse": "Pieces detachees",
+        "anecdote": "Compuesto por bocetos que involucran a tres actores. Brigitte Chardin y Frederic Darie le darán la respuesta."
       },
       {
         "id": 14,
@@ -1310,7 +1310,7 @@
           "Asistente de gasolinera",
           "Profesor de gimnasia"
         ],
-        "réponse": "Bartender",
+        "reponse": "Bartender",
         "anecdote": "Esta catástrofe no le impidió seguir haciendo reír a los clientes y, sin embargo, lo sumió en un estado de depresión."
       },
       {
@@ -1322,68 +1322,68 @@
           "10.000",
           "20.000"
         ],
-        "réponse": "13.000",
-        "anecdote": "El cartel, que representa calzoncillos muy ajustados, es controvertido, pero el espectáculo destaca con un boceto en el idioma francés."
+        "reponse": "13.000",
+        "anecdote": "El cartel, que representa calzoncillos muy ajustados, es controvertido, pero el espectáculo destaca con un boceto en el idioma frances."
       },
       {
         "id": 16,
-        "question": "¿Quién fue el compañero de Jean-Marie Bigard en « Dance with the stars » en TF1 ?",
+        "question": "¿Quien fue el compañero de Jean-Marie Bigard en « Dance with the stars » en TF1 ?",
         "propositions": [
           "Fauve Hautot",
           "Denitsa Ikonomova",
           "Katrina Patchett",
           "Candice Pascal"
         ],
-        "réponse": "Fauve Hautot",
+        "reponse": "Fauve Hautot",
         "anecdote": "Bigard llegará a los cuartos de final del programa y terminará quinto en la competencia, eliminado ante Adriana Karembeu."
       },
       {
         "id": 17,
-        "question": "¿En qué película para televisión interpretó Jean-Marie Bigard el papel de François Ragueneau ?",
+        "question": "¿En que película para televisión interpretó Jean-Marie Bigard el papel de Francois Ragueneau ?",
         "propositions": [
           "Simon le juste",
           "Le Dirlo",
           "Exils",
           "Roman noir"
         ],
-        "réponse": "Le Dirlo",
+        "reponse": "Le Dirlo",
         "anecdote": "« Le Dirlo » es una comedia dramática francesa dirigida por Patrick Volson, transmitida el 30 de octubre de 2003 por TF1."
       },
       {
         "id": 18,
-        "question": "¿Con qué comisario Bigard interpretó el papel de Franck Saulnier ?",
+        "question": "¿Con que comisario Bigard interpretó el papel de Franck Saulnier ?",
         "propositions": [
           "Mill",
           "Laurenti",
           "Magellan",
           "Valencia"
         ],
-        "réponse": "Magellan",
+        "reponse": "Magellan",
         "anecdote": "El episodio « Le Bassin des grands », dirigido por Étienne Dhaene, alcanzó una cuota de mercado del 19 % con 4 millones de espectadores."
       },
       {
         "id": 19,
-        "question": "¿En qué obra de Marcel Aymé jugó Jean-Marie Bigard en 2008 ?",
+        "question": "¿En que obra de Marcel Ayme jugó Jean-Marie Bigard en 2008 ?",
         "propositions": [
-          "Vogue la galère",
+          "Vogue la galere",
           "Le Placard",
-          "Clérambard",
+          "Clerambard",
           "Le Minotaure"
         ],
-        "réponse": "Clérambard",
-        "anecdote": "« Clérambard » es una obra representada por primera vez en 1950 en el escenario de la Comédie des Champs-Élysées."
+        "reponse": "Clerambard",
+        "anecdote": "« Clerambard » es una obra representada por primera vez en 1950 en el escenario de la Comedie des Champs-Élysees."
       },
       {
         "id": 20,
-        "question": "¿En qué película de Alexandre Jardin interpretó Jean-Marie Bigard el papel de Stéphane ?",
+        "question": "¿En que película de Alexandre Jardin interpretó Jean-Marie Bigard el papel de Stephane ?",
         "propositions": [
-          "Bille en tête",
+          "Bille en tete",
           "Oui",
           "Le Prof",
           "Fanfan"
         ],
-        "réponse": "Oui",
-        "anecdote": "Fundador en 2015 del movimiento ciudadano Bleu Blanc Zèbre, Alexandre Jardin intentó ser candidato a la presidencia en 2016."
+        "reponse": "Oui",
+        "anecdote": "Fundador en 2015 del movimiento ciudadano Bleu Blanc Zebre, Alexandre Jardin intentó ser candidato a la presidencia en 2016."
       }
     ],
     "expert": [
@@ -1396,144 +1396,144 @@
           "Tercero",
           "Cadete"
         ],
-        "réponse": "Cadete",
+        "reponse": "Cadete",
         "anecdote": "Es el cuarto hijo de una familia modesta de padre carnicero y madre trabajadora en la industria automotriz."
       },
       {
         "id": 22,
-        "question": "¿A qué BEP acudió Jean-Marie Bigard a los dieciséis años ?",
+        "question": "¿A que BEP acudió Jean-Marie Bigard a los dieciseis años ?",
         "propositions": [
           "Mecánica general",
           "Panadería",
           "Marroquinería",
           "Pintura"
         ],
-        "réponse": "Mecánica general",
-        "anecdote": "Alérgico a las limitaciones y el encierro inherentes a la escuela, a veces sabe cómo ser sensible al estímulo."
+        "reponse": "Mecánica general",
+        "anecdote": "Alergico a las limitaciones y el encierro inherentes a la escuela, a veces sabe cómo ser sensible al estímulo."
       },
       {
         "id": 23,
-        "question": "¿De qué autos organizó un negocio con tres amigos ?",
+        "question": "¿De que autos organizó un negocio con tres amigos ?",
         "propositions": [
-          "Tracciones Citroën",
+          "Tracciones Citroan",
           "Ferrari 250",
           "Aston Martin",
           "Buick Special"
         ],
-        "réponse": "Tracciones Citroën",
+        "reponse": "Tracciones Citroan",
         "anecdote": "Compraron vehículos abandonados, los reconstruyeron y los vendieron a París por unas treinta veces el precio de compra."
       },
       {
         "id": 24,
-        "question": "¿Quién asesinará a su padre tras un drama de celos ?",
+        "question": "¿Quien asesinará a su padre tras un drama de celos ?",
         "propositions": [
           "Un factor",
           "Un dentista",
           "Un fontanero",
           "Un leñador"
         ],
-        "réponse": "Un leñador",
+        "reponse": "Un leñador",
         "anecdote": "Es la promesa que le hizo a su madre enferma de realmente ponerse a trabajar lo que dará origen a su vida profesional."
       },
       {
         "id": 25,
-        "question": "¿En el anuncio de qué queso se disfrazó Jean-Marie Bigard de indio ?",
+        "question": "¿En el anuncio de que queso se disfrazó Jean-Marie Bigard de indio ?",
         "propositions": [
           "Babybel",
           "Saint Albray",
           "Rastrojo",
           "Boursault"
         ],
-        "réponse": "Boursault",
+        "reponse": "Boursault",
         "anecdote": "Durante sus primeros años en París, Bigard actuó, como le aconsejaron, en unos doscientos castings."
       },
       {
         "id": 26,
-        "question": "En 1988, ¿quién dirigió el exitoso programa « Dijiste Bigard » ?",
+        "question": "En 1988, ¿quien dirigió el exitoso programa « Dijiste Bigard » ?",
         "propositions": [
           "Gorra Jean-Louis",
           "Franck Godard",
           "Myriam Isker",
           "Christine Bertholier"
         ],
-        "réponse": "Franck Godard",
+        "reponse": "Franck Godard",
         "anecdote": "Este espectáculo le permite instalarse en un estilo stand-up, cuya característica es dirigirse directamente al público."
       },
       {
         "id": 27,
-        "question": "¿Con qué bailarina brasileña se enfrentó a once fecundaciones in vitro ?",
+        "question": "¿Con que bailarina brasileña se enfrentó a once fecundaciones in vitro ?",
         "propositions": [
           "Claudia",
           "Carla",
           "Dora",
           "Sylvia"
         ],
-        "réponse": "Claudia",
+        "reponse": "Claudia",
         "anecdote": "Jean-Marie Bigard conoció a Claudia, una bailarina de origen brasileño de Paradis Latin, con quien se casó en 1991."
       },
       {
         "id": 28,
-        "question": "¿En qué serie vimos a Bigard en el episodio titulado « Mise aux poings » ?",
+        "question": "¿En que serie vimos a Bigard en el episodio titulado « Mise aux poings » ?",
         "propositions": [
           "Navarro",
           "David Lansky",
           "Maguy",
           "Coplan"
         ],
-        "réponse": "Maguy",
+        "reponse": "Maguy",
         "anecdote": "Rosy Varte es la única actriz de la serie que aparece en los 333 episodios de la serie « Maguy »."
       },
       {
         "id": 29,
-        "question": "¿Quién dibujó los dos volúmenes de la historieta « Les Aventures de Bigard » ?",
+        "question": "¿Quien dibujó los dos volúmenes de la historieta « Les Aventures de Bigard » ?",
         "propositions": [
-          "André Daix",
+          "Andre Daix",
           "Luc Cornillon",
           "Jacky Clech ",
           "Bloz"
         ],
-        "réponse": "Jacky Clech ",
-        "anecdote": "Jacky Clech también dibujó « Les Inconnus - Les Zinédits » en 2007 y « Pierre Bellemare dice » en 2009."
+        "reponse": "Jacky Clech ",
+        "anecdote": "Jacky Clech tambien dibujó « Les Inconnus - Les Zinedits » en 2007 y « Pierre Bellemare dice » en 2009."
       },
       {
         "id": 30,
-        "question": "¿Qué marca de tractores cantó Jean-Marie Bigard en 1988 ?",
+        "question": "¿Que marca de tractores cantó Jean-Marie Bigard en 1988 ?",
         "propositions": [
-          "Motor Ibérica",
+          "Motor Iberica",
           "Massey Ferguson",
           "Agricultura Renault",
           "Hardi-Evrard"
         ],
-        "réponse": "Massey Ferguson",
+        "reponse": "Massey Ferguson",
         "anecdote": "Massey Ferguson es una empresa del grupo estadounidense, Agco Corporation, con sede en Duluth, Georgia."
       }
     ]
     },
     "it": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Chi voleva che Jean-Marie Bigard fosse visto quando è arrivato a Parigi ?",
+        "question": "Chi voleva che Jean-Marie Bigard fosse visto quando e arrivato a Parigi ?",
         "propositions": [
           "Philippe Bouvard",
           "Jacques Martin",
           "Laurent Ruquier",
           "Michel Drucker"
         ],
-        "réponse": "Philippe Bouvard",
-        "anecdote": "Grazie alla sua conoscenza del repertorio di Robert Lamoureux, ha voluto comparire nel programma televisivo « Le Petit Théâtre »."
+        "reponse": "Philippe Bouvard",
+        "anecdote": "Grazie alla sua conoscenza del repertorio di Robert Lamoureux, ha voluto comparire nel programma televisivo « Le Petit Theatre »."
       },
       {
         "id": 2,
-        "question": "Grazie a quale programma su FR3 è stato rivelato al grande pubblico Jean-Marie Bigard ?",
+        "question": "Grazie a quale programma su FR3 e stato rivelato al grande pubblico Jean-Marie Bigard ?",
         "propositions": [
           "Co-Co Boy",
           "Merci Bernard",
           "La Classe",
           "Yacapa"
         ],
-        "réponse": "La Classe",
-        "anecdote": "Scriverà più di cento schizzi con Laurent Baffie e molti altri come Franck Godard o Pierre Veys."
+        "reponse": "La Classe",
+        "anecdote": "Scriverà piu di cento schizzi con Laurent Baffie e molti altri come Franck Godard o Pierre Veys."
       },
       {
         "id": 3,
@@ -1544,20 +1544,20 @@
           "Bastorama",
           "Rabbino reale"
         ],
-        "réponse": "Toniglandyl",
+        "reponse": "Toniglandyl",
         "anecdote": "Fu durante « La Classe » che scrisse alcuni schizzi per Dummies, poi in piena gloria su Canal  in « Nowhere else »."
       },
       {
         "id": 4,
         "question": "Quale candidato UMP ha sostenuto attivamente nell'aprile 2007 ?",
         "propositions": [
-          "François Fillon",
-          "Alain Juppé",
+          "Francois Fillon",
+          "Alain Juppe",
           "Jean-Pierre Raffarin",
           "Nicolas Sarkozy"
         ],
-        "réponse": "Nicolas Sarkozy",
-        "anecdote": "Questo sostegno è sorto nelle elezioni presidenziali, prima di accompagnarlo a Roma per incontrare papa Benedetto XVI."
+        "reponse": "Nicolas Sarkozy",
+        "anecdote": "Questo sostegno e sorto nelle elezioni presidenziali, prima di accompagnarlo a Roma per incontrare papa Benedetto XVI."
       },
       {
         "id": 5,
@@ -1568,7 +1568,7 @@
           "Lola Marois",
           "Anne Marivin"
         ],
-        "réponse": "Lola Marois",
+        "reponse": "Lola Marois",
         "anecdote": "Con il suo nuovo partner, sposato ufficialmente nel 2011, avrà due gemelli nel novembre 2012 chiamati Jules e Bella."
       },
       {
@@ -1580,8 +1580,8 @@
           "Ces amours-là",
           "Roman de gare"
         ],
-        "réponse": "Chacun sa vie",
-        "anecdote": "Per questo film, il Cigno d'oro per la migliore attrice è stato assegnato a Béatrice Dalle al Cabourg Film Festival 2017."
+        "reponse": "Chacun sa vie",
+        "anecdote": "Per questo film, il Cigno d'oro per la migliore attrice e stato assegnato a Beatrice Dalle al Cabourg Film Festival 2017."
       },
       {
         "id": 7,
@@ -1592,20 +1592,20 @@
           "Madrid",
           "World Trade Center"
         ],
-        "réponse": "World Trade Center",
-        "anecdote": "I sostenitori di queste teorie sostengono che il rapporto ufficiale non è abbastanza completo e conterrebbe bugie e omissioni."
+        "reponse": "World Trade Center",
+        "anecdote": "I sostenitori di queste teorie sostengono che il rapporto ufficiale non e abbastanza completo e conterrebbe bugie e omissioni."
       },
       {
         "id": 8,
-        "question": "Vicino a quale città dell'Aube è nato Jean-Marie Bigard ?",
+        "question": "Vicino a quale città dell'Aube e nato Jean-Marie Bigard ?",
         "propositions": [
           "Bar-sur-Aube",
           "Sainte-Savine",
           "Romilly-sur-Seine",
           "Troyes"
         ],
-        "réponse": "Troyes",
-        "anecdote": "Jean-Marie Bigard è un umorista, attore e regista francese, nato il 17 maggio 1954 a Fontaine-Luyères, vicino a Troyes."
+        "reponse": "Troyes",
+        "anecdote": "Jean-Marie Bigard e un umorista, attore e regista francese, nato il 17 maggio 1954 a Fontaine-Luyeres, vicino a Troyes."
       },
       {
         "id": 9,
@@ -1616,23 +1616,23 @@
           "Fary",
           "Tex"
         ],
-        "réponse": "Tex",
+        "reponse": "Tex",
         "anecdote": "Bouvard, tuttavia, immerse Bigard nell'anonimato, relegato al suo ruolo di motore nascosto agli spettatori da una coperta."
       },
       {
         "id": 10,
-        "question": "Qual è il numero proposto da Bigard nel suo spettacolo del 2012 ?",
+        "question": "Qual e il numero proposto da Bigard nel suo spettacolo del 2012 ?",
         "propositions": [
           "No. 5",
           "No. 9",
           "No. 7",
           "No. 1"
         ],
-        "réponse": "No. 9",
-        "anecdote": "Il suo fragrante spettacolo, inizialmente intitolato « Tutto è relativo », si chiamerà « N° 9 de Bigard » come N° 5 di Chanel."
+        "reponse": "No. 9",
+        "anecdote": "Il suo fragrante spettacolo, inizialmente intitolato « Tutto e relativo », si chiamerà « N° 9 de Bigard » come N° 5 di Chanel."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Dopo la pratica di quale sport tornerà a casa con una medaglia ?",
@@ -1642,7 +1642,7 @@
           "Tennis",
           "Judo"
         ],
-        "réponse": "Pallamano",
+        "reponse": "Pallamano",
         "anecdote": "Selezionato nella squadra juniores della regione del nord-est della Francia, vincerà il torneo e tornerà con una medaglia."
       },
       {
@@ -1651,23 +1651,23 @@
         "propositions": [
           "Albert Dupontel",
           "Tarek Boudali",
-          "Raphaël Mezrahi",
+          "Raphaal Mezrahi",
           "Pierre Palmade"
         ],
-        "réponse": "Raphaël Mezrahi",
+        "reponse": "Raphaal Mezrahi",
         "anecdote": "Dopo la sua domanda accettata dal CREPS e, dopo sei mesi di formazione, diventa maestro ausiliario sostituto."
       },
       {
         "id": 13,
-        "question": "Qual è stato il primo spettacolo presentato da Bigard al teatro Point-Virgule ?",
+        "question": "Qual e stato il primo spettacolo presentato da Bigard al teatro Point-Virgule ?",
         "propositions": [
-          "Pièces détachées",
+          "Pieces detachees",
           "Oh Ben Oui !",
-          "Bigard Intégral",
+          "Bigard Integral",
           "N°9 de Bigard"
         ],
-        "réponse": "Pièces détachées",
-        "anecdote": "Costituito da schizzi che coinvolgono tre attori. Brigitte Chardin e Frédéric Darie gli daranno la risposta."
+        "reponse": "Pieces detachees",
+        "anecdote": "Costituito da schizzi che coinvolgono tre attori. Brigitte Chardin e Frederic Darie gli daranno la risposta."
       },
       {
         "id": 14,
@@ -1678,7 +1678,7 @@
           "Barista",
           "Addetto alla stazione di servizio"
         ],
-        "réponse": "Barista",
+        "reponse": "Barista",
         "anecdote": "Questa catastrofe non gli impedisce di continuare a far ridere i clienti, facendolo tuttavia precipitare in uno stato depressivo."
       },
       {
@@ -1690,8 +1690,8 @@
           "7.000",
           "10.000"
         ],
-        "réponse": "13.000",
-        "anecdote": "Il poster, che rappresenta slip molto aderenti, è controverso, ma lo spettacolo si distingue per uno schizzo in lingua francese."
+        "reponse": "13.000",
+        "anecdote": "Il poster, che rappresenta slip molto aderenti, e controverso, ma lo spettacolo si distingue per uno schizzo in lingua francese."
       },
       {
         "id": 16,
@@ -1702,20 +1702,20 @@
           "Candice Pascal",
           "Katrina Patchett"
         ],
-        "réponse": "Fauve Hautot",
+        "reponse": "Fauve Hautot",
         "anecdote": "Bigard arriverà nei quarti di finale e finirà quinto nella competizione, eliminata contro Adriana Karembeu."
       },
       {
         "id": 17,
-        "question": "In quale film TV Jean-Marie Bigard ha interpretato il ruolo di François Ragueneau ?",
+        "question": "In quale film TV Jean-Marie Bigard ha interpretato il ruolo di Francois Ragueneau ?",
         "propositions": [
           "Simon le juste",
           "Le Dirlo",
           "Exils",
           "Roman noir"
         ],
-        "réponse": "Le Dirlo",
-        "anecdote": "« Le Dirlo » è una commedia drammatica francese diretta da Patrick Volson, trasmessa il 30 ottobre 2003 su TF1."
+        "reponse": "Le Dirlo",
+        "anecdote": "« Le Dirlo » e una commedia drammatica francese diretta da Patrick Volson, trasmessa il 30 ottobre 2003 su TF1."
       },
       {
         "id": 18,
@@ -1726,32 +1726,32 @@
           "Valencia",
           "Mill"
         ],
-        "réponse": "Magellan",
+        "reponse": "Magellan",
         "anecdote": "L'episodio « Le Bassin des grands », diretto da Étienne Dhaene, ha raggiunto una quota di mercato del 19 % con 4 milioni di telespettatori."
       },
       {
         "id": 19,
-        "question": "In quale commedia di Marcel Aymé ha interpretato Jean-Marie Bigard nel 2008 ?",
+        "question": "In quale commedia di Marcel Ayme ha interpretato Jean-Marie Bigard nel 2008 ?",
         "propositions": [
           "Le Placard",
-          "Vogue la galère",
-          "Clérambard",
+          "Vogue la galere",
+          "Clerambard",
           "Le Minotaure"
         ],
-        "réponse": "Clérambard",
-        "anecdote": "« Clérambard » è un'opera teatrale rappresentata per la prima volta nel 1950 sul palco della Comédie des Champs-Élysées."
+        "reponse": "Clerambard",
+        "anecdote": "« Clerambard » e un'opera teatrale rappresentata per la prima volta nel 1950 sul palco della Comedie des Champs-Élysees."
       },
       {
         "id": 20,
-        "question": "In quale film di Alexandre Jardin Jean-Marie Bigard ha interpretato il ruolo di Stéphane ?",
+        "question": "In quale film di Alexandre Jardin Jean-Marie Bigard ha interpretato il ruolo di Stephane ?",
         "propositions": [
           "Oui",
-          "Bille en tête",
+          "Bille en tete",
           "Fanfan",
           "Le Prof"
         ],
-        "réponse": "Oui",
-        "anecdote": "Fondatore nel 2015 del movimento cittadino Bleu Blanc Zèbre, Alexandre Jardin ha cercato di candidarsi alla presidenza nel 2016."
+        "reponse": "Oui",
+        "anecdote": "Fondatore nel 2015 del movimento cittadino Bleu Blanc Zebre, Alexandre Jardin ha cercato di candidarsi alla presidenza nel 2016."
       }
     ],
     "expert": [
@@ -1764,7 +1764,7 @@
           "Cadet",
           "Secondo"
         ],
-        "réponse": "Cadet",
+        "reponse": "Cadet",
         "anecdote": "È il quarto figlio di una famiglia modesta, nato da padre macellaio e madre lavoratrice nell'industria automobilistica."
       },
       {
@@ -1776,7 +1776,7 @@
           "Pelletteria",
           "Panetteria"
         ],
-        "réponse": "Meccanica generale",
+        "reponse": "Meccanica generale",
         "anecdote": "Allergico ai vincoli e al confinamento insiti nella scuola, sa talvolta essere sensibile agli incoraggiamenti."
       },
       {
@@ -1786,9 +1786,9 @@
           "Ferrari 250",
           "Buick Special",
           "Aston Martin",
-          "Citroën Tractions"
+          "Citroan Tractions"
         ],
-        "réponse": "Citroën Tractions",
+        "reponse": "Citroan Tractions",
         "anecdote": "Hanno ricomprato i veicoli abbandonati, li hanno ricostruiti e venduti a Parigi per una trentina di volte il prezzo di acquisto."
       },
       {
@@ -1800,7 +1800,7 @@
           "Un fattore",
           "Un boscaiolo"
         ],
-        "réponse": "Un boscaiolo",
+        "reponse": "Un boscaiolo",
         "anecdote": "È la promessa fatta alla madre malata di mettersi davvero al lavoro che darà vita alla sua vita professionale."
       },
       {
@@ -1812,7 +1812,7 @@
           "Babybel",
           "Saint Albray"
         ],
-        "réponse": "Boursault",
+        "reponse": "Boursault",
         "anecdote": "Durante i suoi primi anni a Parigi, Bigard si esibì, come gli era stato consigliato, in circa duecento casting."
       },
       {
@@ -1824,8 +1824,8 @@
           "Myriam Isker",
           "Franck Godard"
         ],
-        "réponse": "Franck Godard",
-        "anecdote": "Questo spettacolo gli permette di ambientarsi in uno stile stand-up, la cui caratteristica è rivolgersi direttamente al pubblico."
+        "reponse": "Franck Godard",
+        "anecdote": "Questo spettacolo gli permette di ambientarsi in uno stile stand-up, la cui caratteristica e rivolgersi direttamente al pubblico."
       },
       {
         "id": 27,
@@ -1836,8 +1836,8 @@
           "Sylvia",
           "Claudia"
         ],
-        "réponse": "Claudia",
-        "anecdote": "Jean-Marie Bigard ha incontrato Claudia, una ballerina di origine brasiliana del Paradis Latin, con la quale si è sposato nel 1991."
+        "reponse": "Claudia",
+        "anecdote": "Jean-Marie Bigard ha incontrato Claudia, una ballerina di origine brasiliana del Paradis Latin, con la quale si e sposato nel 1991."
       },
       {
         "id": 28,
@@ -1848,8 +1848,8 @@
           "David Lansky",
           "Navarro"
         ],
-        "réponse": "Maguy",
-        "anecdote": "Rosy Varte è l'unica attrice della serie ad apparire in tutti i 333 episodi della serie « Maguy »."
+        "reponse": "Maguy",
+        "anecdote": "Rosy Varte e l'unica attrice della serie ad apparire in tutti i 333 episodi della serie « Maguy »."
       },
       {
         "id": 29,
@@ -1857,11 +1857,11 @@
         "propositions": [
           "Jacky Clech ",
           "Bloz",
-          "André Daix",
+          "Andre Daix",
           "Luc Cornillon"
         ],
-        "réponse": "Jacky Clech ",
-        "anecdote": "Jacky Clech ha anche disegnato « Les Inconnus - Les Zinédits » nel 2007 e « Pierre Bellemare racconta » nel 2009."
+        "reponse": "Jacky Clech ",
+        "anecdote": "Jacky Clech ha anche disegnato « Les Inconnus - Les Zinedits » nel 2007 e « Pierre Bellemare racconta » nel 2009."
       },
       {
         "id": 30,
@@ -1870,15 +1870,15 @@
           "Renault Agriculture",
           "Massey Ferguson",
           "Hardi-Evrard",
-          "Motor Ibérica"
+          "Motor Iberica"
         ],
-        "réponse": "Massey Ferguson",
-        "anecdote": "Massey Ferguson è una società del gruppo statunitense, Agco Corporation, con sede a Duluth, Georgia."
+        "reponse": "Massey Ferguson",
+        "anecdote": "Massey Ferguson e una società del gruppo statunitense, Agco Corporation, con sede a Duluth, Georgia."
       }
     ]
     },
     "nl": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Wie wilde Jean-Marie Bigard gezien worden als hij in Parijs aankwam ?",
@@ -1888,8 +1888,8 @@
           "Michel Drucker",
           "Philippe Bouvard"
         ],
-        "réponse": "Philippe Bouvard",
-        "anecdote": "Dankzij zijn kennis van het repertoire van Robert Lamoureux, wenste hij te verschijnen in het tv-programma « Le Petit Théâtre »."
+        "reponse": "Philippe Bouvard",
+        "anecdote": "Dankzij zijn kennis van het repertoire van Robert Lamoureux, wenste hij te verschijnen in het tv-programma « Le Petit Theatre »."
       },
       {
         "id": 2,
@@ -1900,7 +1900,7 @@
           "Co-Co Boy",
           "Yacapa"
         ],
-        "réponse": "La Classe",
+        "reponse": "La Classe",
         "anecdote": "Hij zal meer dan honderd schetsen schrijven met Laurent Baffie, en vele anderen zoals Franck Godard of Pierre Veys."
       },
       {
@@ -1912,7 +1912,7 @@
           "Bastorama",
           "Kwiskas"
         ],
-        "réponse": "Toniglandyl",
+        "reponse": "Toniglandyl",
         "anecdote": "Het was tijdens « La Classe » dat hij een paar sketches voor Dummies schreef, daarna in volle glorie op Canal  in « Nowhere else »."
       },
       {
@@ -1920,11 +1920,11 @@
         "question": "Welke UMP-kandidaat ondersteunde hij actief in april 2007 ?",
         "propositions": [
           "Jean-Pierre Raffarin",
-          "Alain Juppé",
-          "François Fillon",
+          "Alain Juppe",
+          "Francois Fillon",
           "Nicolas Sarkozy"
         ],
-        "réponse": "Nicolas Sarkozy",
+        "reponse": "Nicolas Sarkozy",
         "anecdote": "Deze steun ontstond tijdens de presidentsverkiezingen, voordat hij hem vergezelde naar Rome om paus Benedictus XVI te ontmoeten."
       },
       {
@@ -1936,7 +1936,7 @@
           "Maryse Martin",
           "Anne Marivin"
         ],
-        "réponse": "Lola Marois",
+        "reponse": "Lola Marois",
         "anecdote": "Met zijn nieuwe partner, officieel getrouwd in 2011, krijgt hij in november 2012 een tweeling genaamd Jules en Bella."
       },
       {
@@ -1948,8 +1948,8 @@
           "Roman de gare",
           "Un plus une"
         ],
-        "réponse": "Chacun sa vie",
-        "anecdote": "Voor deze film werd op het Filmfestival van Cabourg 2017 de Gouden Zwaan voor Beste Actrice toegekend aan Béatrice Dalle."
+        "reponse": "Chacun sa vie",
+        "anecdote": "Voor deze film werd op het Filmfestival van Cabourg 2017 de Gouden Zwaan voor Beste Actrice toegekend aan Beatrice Dalle."
       },
       {
         "id": 7,
@@ -1960,8 +1960,8 @@
           "Brussel",
           "World Trade Center"
         ],
-        "réponse": "World Trade Center",
-        "anecdote": "Voorstanders van deze theorieën beweren dat het officiële rapport niet volledig genoeg is en leugens en weglatingen zou bevatten."
+        "reponse": "World Trade Center",
+        "anecdote": "Voorstanders van deze theoriean beweren dat het officiale rapport niet volledig genoeg is en leugens en weglatingen zou bevatten."
       },
       {
         "id": 8,
@@ -1972,8 +1972,8 @@
           "Romilly-sur-Seine",
           "Bar-sur-Aube"
         ],
-        "réponse": "Troyes",
-        "anecdote": "Jean-Marie Bigard is een Franse humorist, acteur en regisseur, geboren op 17 mei 1954 in Fontaine-Luyères, nabij Troyes."
+        "reponse": "Troyes",
+        "anecdote": "Jean-Marie Bigard is een Franse humorist, acteur en regisseur, geboren op 17 mei 1954 in Fontaine-Luyeres, nabij Troyes."
       },
       {
         "id": 9,
@@ -1984,7 +1984,7 @@
           "Rufus",
           "Fary"
         ],
-        "réponse": "Tex",
+        "reponse": "Tex",
         "anecdote": "Bouvard dompelde Bigard echter in anonimiteit, gedegradeerd tot zijn rol als motor die voor toeschouwers verborgen was door een deken."
       },
       {
@@ -1996,11 +1996,11 @@
           "Nee.9",
           "Nee.5"
         ],
-        "réponse": "Nee.9",
+        "reponse": "Nee.9",
         "anecdote": "Haar geurige show, aanvankelijk getiteld « Alles is relatief », zal « N° 9 de Bigard » heten, zoals N° 5 van Chanel."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Na het beoefenen van welke sport gaat hij naar huis met een medaille ?",
@@ -2010,7 +2010,7 @@
           "Voetbal",
           "Handbal"
         ],
-        "réponse": "Handbal",
+        "reponse": "Handbal",
         "anecdote": "Geselecteerd in het juniorenteam van de noordoostelijke regio van Frankrijk, zal hij het toernooi winnen en terugkomen met een medaille."
       },
       {
@@ -2019,23 +2019,23 @@
         "propositions": [
           "Tarek Boudali",
           "Pierre Palmade",
-          "Raphaël Mezrahi",
+          "Raphaal Mezrahi",
           "Albert Dupontel"
         ],
-        "réponse": "Raphaël Mezrahi",
+        "reponse": "Raphaal Mezrahi",
         "anecdote": "Na aanvaarding van zijn aanvraag door de CREPS en na zes maanden opleiding wordt hij een plaatsvervangende hulpmeester."
       },
       {
         "id": 13,
         "question": "Wat was de eerste show die Bigard presenteerde in het Point-Virgule-theater ?",
         "propositions": [
-          "Bigard Intégral",
-          "Pièces détachées",
+          "Bigard Integral",
+          "Pieces detachees",
           "Oh Ben Oui !",
           "N°9 de Bigard"
         ],
-        "réponse": "Pièces détachées",
-        "anecdote": "Bestaat uit schetsen met drie acteurs. Brigitte Chardin en Frédéric Darie zullen hem het antwoord geven."
+        "reponse": "Pieces detachees",
+        "anecdote": "Bestaat uit schetsen met drie acteurs. Brigitte Chardin en Frederic Darie zullen hem het antwoord geven."
       },
       {
         "id": 14,
@@ -2046,7 +2046,7 @@
           "Gym leraar",
           "Tankstationbediende"
         ],
-        "réponse": "Barman",
+        "reponse": "Barman",
         "anecdote": "Deze catastrofe belet hem niet om klanten aan het lachen te blijven maken, maar hem toch in een depressieve toestand te dompelen."
       },
       {
@@ -2058,7 +2058,7 @@
           "13.000",
           "7.000"
         ],
-        "réponse": "13.000",
+        "reponse": "13.000",
         "anecdote": "De poster, die zeer strakke slipjes voorstelt, is controversieel, maar de show valt op door een schets van de Franse taal."
       },
       {
@@ -2070,19 +2070,19 @@
           "Candice Pascal",
           "Fauve Hautot"
         ],
-        "réponse": "Fauve Hautot",
+        "reponse": "Fauve Hautot",
         "anecdote": "Bigard bereikt de kwartfinales van de show en wordt vijfde in de competitie, uitgeschakeld tegen Adriana Karembeu."
       },
       {
         "id": 17,
-        "question": "In welke tv-film speelde Jean-Marie Bigard de rol van François Ragueneau ?",
+        "question": "In welke tv-film speelde Jean-Marie Bigard de rol van Francois Ragueneau ?",
         "propositions": [
           "Roman noir",
           "Simon le juste",
           "Exils",
           "Le Dirlo"
         ],
-        "réponse": "Le Dirlo",
+        "reponse": "Le Dirlo",
         "anecdote": "« Le Dirlo » is een Frans komedie-drama geregisseerd door Patrick Volson, uitgezonden op 30 oktober 2003 op TF1."
       },
       {
@@ -2094,32 +2094,32 @@
           "Molen",
           "Valencia"
         ],
-        "réponse": "Magellan",
+        "reponse": "Magellan",
         "anecdote": "De aflevering « Le Bassin des grands », geregisseerd door Étienne Dhaene, behaalde een marktaandeel van 19 % met 4 miljoen kijkers."
       },
       {
         "id": 19,
-        "question": "In welk stuk van Marcel Aymé speelde Jean-Marie Bigard in 2008 ?",
+        "question": "In welk stuk van Marcel Ayme speelde Jean-Marie Bigard in 2008 ?",
         "propositions": [
-          "Clérambard",
-          "Vogue la galère",
+          "Clerambard",
+          "Vogue la galere",
           "Le Minotaure",
           "Le Placard"
         ],
-        "réponse": "Clérambard",
-        "anecdote": "« Clérambard » is een toneelstuk dat voor het eerst werd opgevoerd in 1950 op het podium van de Comédie des Champs-Élysées."
+        "reponse": "Clerambard",
+        "anecdote": "« Clerambard » is een toneelstuk dat voor het eerst werd opgevoerd in 1950 op het podium van de Comedie des Champs-Élysees."
       },
       {
         "id": 20,
-        "question": "In welke film van Alexandre Jardin speelde Jean-Marie Bigard de rol van Stéphane ?",
+        "question": "In welke film van Alexandre Jardin speelde Jean-Marie Bigard de rol van Stephane ?",
         "propositions": [
           "Oui",
-          "Bille en tête",
+          "Bille en tete",
           "Le Prof",
           "Fanfan"
         ],
-        "réponse": "Oui",
-        "anecdote": "Alexandre Jardin, oprichter in 2015 van de burgerbeweging Bleu Blanc Zèbre, probeerde in 2016 kandidaat te zijn voor het presidentschap."
+        "reponse": "Oui",
+        "anecdote": "Alexandre Jardin, oprichter in 2015 van de burgerbeweging Bleu Blanc Zebre, probeerde in 2016 kandidaat te zijn voor het presidentschap."
       }
     ],
     "expert": [
@@ -2132,7 +2132,7 @@
           "Cadet",
           "Tweede"
         ],
-        "réponse": "Cadet",
+        "reponse": "Cadet",
         "anecdote": "Hij is het vierde kind van een bescheiden gezin, geboren uit een vader van een slager en een werkende moeder in de auto-industrie."
       },
       {
@@ -2144,19 +2144,19 @@
           "Lederwaren",
           "Schilderen"
         ],
-        "réponse": "Algemene mechanica",
+        "reponse": "Algemene mechanica",
         "anecdote": "Allergisch voor de beperkingen en opsluiting die inherent zijn aan school, weet hij soms hoe hij gevoelig moet zijn voor aanmoediging."
       },
       {
         "id": 23,
         "question": "Van welke auto's organiseerde hij een bedrijf met drie vrienden ?",
         "propositions": [
-          "Citroën Tracties",
+          "Citroan Tracties",
           "Aston Martin",
           "Ferrari 250",
           "Buick Special"
         ],
-        "réponse": "Citroën Tracties",
+        "reponse": "Citroan Tracties",
         "anecdote": "Ze kochten achtergelaten voertuigen terug, herstelden ze en verkochten ze terug in Parijs voor ongeveer dertig keer de aankoopprijs."
       },
       {
@@ -2168,7 +2168,7 @@
           "Een tandarts",
           "Een houthakker"
         ],
-        "réponse": "Een houthakker",
+        "reponse": "Een houthakker",
         "anecdote": "Het is de belofte aan zijn zieke moeder om echt aan het werk te gaan, waardoor zijn professionele leven zal ontstaan."
       },
       {
@@ -2180,7 +2180,7 @@
           "Saint Albray",
           "Boursault"
         ],
-        "réponse": "Boursault",
+        "reponse": "Boursault",
         "anecdote": "Tijdens zijn vroege jaren in Parijs trad Bigard, zoals hem werd geadviseerd, op bij ongeveer tweehonderd castings."
       },
       {
@@ -2192,7 +2192,7 @@
           "Franck Godard",
           "Jean-Louis pet"
         ],
-        "réponse": "Franck Godard",
+        "reponse": "Franck Godard",
         "anecdote": "Deze show stelt hem in staat zich te vestigen in een stand-up stijl, met als kenmerk dat hij het publiek rechtstreeks aanspreekt."
       },
       {
@@ -2204,7 +2204,7 @@
           "Sylvia",
           "Claudia"
         ],
-        "réponse": "Claudia",
+        "reponse": "Claudia",
         "anecdote": "Jean-Marie Bigard ontmoette Claudia, een danseres van Braziliaanse afkomst uit Paradis Latin, met wie hij in 1991 trouwde."
       },
       {
@@ -2216,20 +2216,20 @@
           "David Lansky",
           "Maguy"
         ],
-        "réponse": "Maguy",
+        "reponse": "Maguy",
         "anecdote": "Rosy Varte is de enige actrice in de serie die in alle 333 afleveringen van de « Maguy » serie verschijnt."
       },
       {
         "id": 29,
         "question": "Wie heeft de twee delen van de strip « Les Aventures de Bigard » getekend ?",
         "propositions": [
-          "André Daix",
+          "Andre Daix",
           "Luc Cornillon",
           "Bloz",
           "Jacky Clech "
         ],
-        "réponse": "Jacky Clech ",
-        "anecdote": "Jacky Clech tekende ook « Les Inconnus - Les Zinédits » in 2007 en « vertelt Pierre Bellemare » in 2009."
+        "reponse": "Jacky Clech ",
+        "anecdote": "Jacky Clech tekende ook « Les Inconnus - Les Zinedits » in 2007 en « vertelt Pierre Bellemare » in 2009."
       },
       {
         "id": 30,
@@ -2238,9 +2238,9 @@
           "Massey Ferguson",
           "Hardi-Evrard",
           "Renault Landbouw",
-          "Motor Ibérica"
+          "Motor Iberica"
         ],
-        "réponse": "Massey Ferguson",
+        "reponse": "Massey Ferguson",
         "anecdote": "Massey Ferguson is een Amerikaanse groepsmaatschappij, Agco Corporation, met hoofdkantoor in Duluth, Georgia."
       }
     ]

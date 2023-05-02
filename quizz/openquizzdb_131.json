@@ -1,213 +1,213 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "4 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "4 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
+      "categorie": "Celebrites",
       "nom": "Donald Trump",
-      "slogan": "Le président inattendu"
+      "slogan": "Le president inattendu"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "Donald Trump",
       "slogan": "The Unexpected President"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Donald Trump",
       "slogan": "El presidente inesperado"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Donald Trump",
       "slogan": "Il presidente inaspettato"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Donald Trump",
       "slogan": "Der unerwartete Präsident"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Donald Trump",
       "slogan": "De onverwachte president"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "En quelle année Donald Trump a-t-il remporté l'élection présidentielle ?",
+        "question": "En quelle annee Donald Trump a-t-il remporte l'election presidentielle ?",
         "propositions": [
           "2015",
           "2016",
           "2014",
           "2017"
         ],
-        "réponse": "2016",
-        "anecdote": "Il renverse la tendance annoncée en particulier en Floride, en Caroline du Nord, dans le Wisconsin et en Pennsylvanie."
+        "reponse": "2016",
+        "anecdote": "Il renverse la tendance annoncee en particulier en Floride, en Caroline du Nord, dans le Wisconsin et en Pennsylvanie."
       },
       {
         "id": 2,
-        "question": "Quelle tour possédant un studio de télévision a servi de décor à l'émission « The Apprentice » ?",
+        "question": "Quelle tour possedant un studio de television a servi de decor à l'emission « The Apprentice » ?",
         "propositions": [
           "Paramount Plaza",
           "Axa Center",
           "Trump Tower",
           "Citicorp Building"
         ],
-        "réponse": "Trump Tower",
-        "anecdote": "La Trump Tower est construite sur le site de l'ancienne boutique phare de Bonwit Teller, un grand magasin de luxe fondé en 1895."
+        "reponse": "Trump Tower",
+        "anecdote": "La Trump Tower est construite sur le site de l'ancienne boutique phare de Bonwit Teller, un grand magasin de luxe fonde en 1895."
       },
       {
         "id": 3,
-        "question": "De quel célèbre boxeur Donald Trump a-t-il été un temps le conseiller financier ?",
+        "question": "De quel celebre boxeur Donald Trump a-t-il ete un temps le conseiller financier ?",
         "propositions": [
           "Tony Tucker",
           "Mike Tyson",
           "Frank Bruno",
           "James Smith"
         ],
-        "réponse": "Mike Tyson",
+        "reponse": "Mike Tyson",
         "anecdote": "Parmi les matchs de boxe accueillis au Trump Plaza, on se souvient du combat de Michael Spinks contre Mike Tyson en 1988."
       },
       {
         "id": 4,
-        "question": "À quel équivalent du Tour de France Trump a-t-il donné son nom entre 1989 et 1990 ?",
+        "question": "À quel equivalent du Tour de France Trump a-t-il donne son nom entre 1989 et 1990 ?",
         "propositions": [
           "Tour de Trump",
           "Trump Horizon",
           "Cyclo Trump",
           "Trump Cycle"
         ],
-        "réponse": "Tour de Trump",
-        "anecdote": "Trump abandonnera après la seconde édition, du fait des difficultés financières que connaissent alors ses principales entreprises."
+        "reponse": "Tour de Trump",
+        "anecdote": "Trump abandonnera apres la seconde edition, du fait des difficultes financieres que connaissent alors ses principales entreprises."
       },
       {
         "id": 5,
-        "question": "Duquel de ces concours de beauté Donald Trump n'a-t-il jamais été propriétaire ?",
+        "question": "Duquel de ces concours de beaute Donald Trump n'a-t-il jamais ete proprietaire ?",
         "propositions": [
           "Miss Univers",
           "Miss USA",
           "Miss Teen USA",
           "Miss Europe"
         ],
-        "réponse": "Miss Europe",
-        "anecdote": "Insatisfait des conditions de diffusion de ses concours sur CBS, Donald Trump a transféré ceux-ci en 2002 sur NBC."
+        "reponse": "Miss Europe",
+        "anecdote": "Insatisfait des conditions de diffusion de ses concours sur CBS, Donald Trump a transfere ceux-ci en 2002 sur NBC."
       },
       {
         "id": 6,
-        "question": "Quelle était la phrase fétiche prononcée par Donald Trump dans « The Apprentice » ?",
+        "question": "Quelle etait la phrase fetiche prononcee par Donald Trump dans « The Apprentice » ?",
         "propositions": [
           "Trop facile !",
-          "Vous êtes viré !",
-          "C'est un détail !",
+          "Vous etes vire !",
+          "C'est un detail !",
           "Pas de chance !"
         ],
-        "réponse": "Vous êtes viré !",
-        "anecdote": "La première année a rapporté à Trump 50 000 dollars par épisode (soit environ 700 000 dollars pour la première saison)."
+        "reponse": "Vous etes vire !",
+        "anecdote": "La premiere annee a rapporte à Trump 50 000 dollars par episode (soit environ 700 000 dollars pour la premiere saison)."
       },
       {
         "id": 7,
-        "question": "Quel est le prénom de la première dame des États-Unis suite à l'élection de Donald Trump ?",
+        "question": "Quel est le prenom de la premiere dame des États-Unis suite à l'election de Donald Trump ?",
         "propositions": [
           "Marla",
           "Ivanka",
           "Ivana",
           "Melania"
         ],
-        "réponse": "Melania",
-        "anecdote": "Melania Knauss est un mannequin originaire de Slovénie avec laquelle il a un fils, Barron William Trump, né le 20 mars 2006."
+        "reponse": "Melania",
+        "anecdote": "Melania Knauss est un mannequin originaire de Slovenie avec laquelle il a un fils, Barron William Trump, ne le 20 mars 2006."
       },
       {
         "id": 8,
-        "question": "Qui a été nommé par Donald Trump en janvier 2017 haut conseiller au président ?",
+        "question": "Qui a ete nomme par Donald Trump en janvier 2017 haut conseiller au president ?",
         "propositions": [
           "Rudy Giuliani",
           "Jared Kushner",
           "Rex Tillerson",
           "Chris Christie"
         ],
-        "réponse": "Jared Kushner",
-        "anecdote": "Jared Kushner, promoteur immobilier, est marié à une des filles de Donald Trump, l'ancien mannequin Ivanka Trump."
+        "reponse": "Jared Kushner",
+        "anecdote": "Jared Kushner, promoteur immobilier, est marie à une des filles de Donald Trump, l'ancien mannequin Ivanka Trump."
       },
       {
         "id": 9,
-        "question": "De quelle émission télévisée de télé-réalité Donald Trump a-t-il été l'animateur ?",
+        "question": "De quelle emission televisee de tele-realite Donald Trump a-t-il ete l'animateur ?",
         "propositions": [
           "The Apprentice",
           "The Job",
           "Spin City",
           "WWE Raw"
         ],
-        "réponse": "The Apprentice",
-        "anecdote": "La 2 327ème étoile lui est décernée en 2007 sur le Hollywood Walk of Fame, au titre de son émission de téléréalité « The Apprentice »."
+        "reponse": "The Apprentice",
+        "anecdote": "La 2 327eme etoile lui est decernee en 2007 sur le Hollywood Walk of Fame, au titre de son emission de telerealite « The Apprentice »."
       },
       {
         "id": 10,
-        "question": "Face à qui Donald Trump a-t-il remporté les élections présidentielles de 2016 ?",
+        "question": "Face à qui Donald Trump a-t-il remporte les elections presidentielles de 2016 ?",
         "propositions": [
           "Barack Obama",
           "Bill Clinton",
           "George W. Bush",
           "Hillary Clinton"
         ],
-        "réponse": "Hillary Clinton",
-        "anecdote": "Sa campagne se caractérise par un positionnement populiste, nationaliste, isolationniste, protectionniste et climato-sceptique."
+        "reponse": "Hillary Clinton",
+        "anecdote": "Sa campagne se caracterise par un positionnement populiste, nationaliste, isolationniste, protectionniste et climato-sceptique."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Quel casino acheté par Donald Trump fut à l'époque le casino le plus cher jamais construit ?",
+        "question": "Quel casino achete par Donald Trump fut à l'epoque le casino le plus cher jamais construit ?",
         "propositions": [
           "Luxor",
           "Dunes",
           "Riviera",
           "Taj Mahal"
         ],
-        "réponse": "Taj Mahal",
-        "anecdote": "Après des années de pertes, le Trump Taj Mahal est racheté en 2016 près de 300 millions de dollars par le milliardaire Carl Icahn."
+        "reponse": "Taj Mahal",
+        "anecdote": "Apres des annees de pertes, le Trump Taj Mahal est rachete en 2016 pres de 300 millions de dollars par le milliardaire Carl Icahn."
       },
       {
         "id": 12,
-        "question": "Auprès de combien de frères et soeurs Donald Trump a-t-il évolué étant jeune ?",
+        "question": "Aupres de combien de freres et soeurs Donald Trump a-t-il evolue etant jeune ?",
         "propositions": [
           "Deux",
           "Quatre",
           "Cinq",
           "Trois"
         ],
-        "réponse": "Quatre",
-        "anecdote": "Quatrième d'une famille de cinq enfants, Donald Trump est le fils de Fred Trump et de son épouse Mary Anne Trump."
+        "reponse": "Quatre",
+        "anecdote": "Quatrieme d'une famille de cinq enfants, Donald Trump est le fils de Fred Trump et de son epouse Mary Anne Trump."
       },
       {
         "id": 13,
-        "question": "Dans quel domaine Donald Trump a-t-il obtenu en mai 1968 un Baccalauréat universitaire ?",
+        "question": "Dans quel domaine Donald Trump a-t-il obtenu en mai 1968 un Baccalaureat universitaire ?",
         "propositions": [
           "Biologie",
           "Langues vivantes",
           "Marketing",
           "Économie"
         ],
-        "réponse": "Économie",
-        "anecdote": "Pendant ses études, il travaille pour l'entreprise familiale, Elizabeth Trump et Son, qui porte le nom de sa grand-mère paternelle."
+        "reponse": "Économie",
+        "anecdote": "Pendant ses etudes, il travaille pour l'entreprise familiale, Elizabeth Trump et Son, qui porte le nom de sa grand-mere paternelle."
       },
       {
         "id": 14,
-        "question": "À qui Donald Trump a-t-il confié la gestion du Plaza Hotel acquis pour 400 millions de dollars ?",
+        "question": "À qui Donald Trump a-t-il confie la gestion du Plaza Hotel acquis pour 400 millions de dollars ?",
         "propositions": [
           "Ivana Trump",
           "Jared Kushner",
           "Lev Leviev",
           "Tony Schwarz"
         ],
-        "réponse": "Ivana Trump",
-        "anecdote": "Le bâtiment actuel, construit en 1907, est un immeuble massif dont l'esthétique rappelle celle des châteaux français de la Renaissance."
+        "reponse": "Ivana Trump",
+        "anecdote": "Le batiment actuel, construit en 1907, est un immeuble massif dont l'esthetique rappelle celle des chateaux francais de la Renaissance."
       },
       {
         "id": 15,
@@ -218,166 +218,166 @@
           "Ski",
           "Golf"
         ],
-        "réponse": "Golf",
-        "anecdote": "Malgré l'opposition de résidents, il crée un terrain de golf sur une zone pourtant déclarée « site d'intérêt scientifique particulier »."
+        "reponse": "Golf",
+        "anecdote": "Malgre l'opposition de residents, il cree un terrain de golf sur une zone pourtant declaree « site d'interet scientifique particulier »."
       },
       {
         "id": 16,
-        "question": "Dans quel quartier de Manhattan l'agence « Trump Model Management » est-elle située ?",
+        "question": "Dans quel quartier de Manhattan l'agence « Trump Model Management » est-elle situee ?",
         "propositions": [
           "SoHo",
           "Tribeca",
           "Harlem",
           "NoLIta"
         ],
-        "réponse": "SoHo",
-        "anecdote": "« Trump Model Management » a fait venir près de 250 mannequins étrangères pour les faire travailler dans l'industrie de la mode."
+        "reponse": "SoHo",
+        "anecdote": "« Trump Model Management » a fait venir pres de 250 mannequins etrangeres pour les faire travailler dans l'industrie de la mode."
       },
       {
         "id": 17,
-        "question": "Pour quel personnage fictif du cinéma Bob Gale s'est-il inspiré de Donald Trump ?",
+        "question": "Pour quel personnage fictif du cinema Bob Gale s'est-il inspire de Donald Trump ?",
         "propositions": [
           "Marty McFly",
           "Sam Baines",
           "Emmett Brown",
           "Biff Tannen"
         ],
-        "réponse": "Biff Tannen",
-        "anecdote": "Biff Tannen est devenu milliardaire dans un futur alternatif dans le film à succès « Retour vers le futur 2 »."
+        "reponse": "Biff Tannen",
+        "anecdote": "Biff Tannen est devenu milliardaire dans un futur alternatif dans le film à succes « Retour vers le futur 2 »."
       },
       {
         "id": 18,
-        "question": "Via quel sport Donald Trump s'est-il lié d'amitié avec Vince et Linda McMahon ?",
+        "question": "Via quel sport Donald Trump s'est-il lie d'amitie avec Vince et Linda McMahon ?",
         "propositions": [
           "Le catch",
           "Le cyclisme",
           "Le rafting",
           "Le tennis"
         ],
-        "réponse": "Le catch",
-        "anecdote": "Linda McMahon a versé pas moins de six millions de dollars à Donald Trump pour sa campagne présidentielle."
+        "reponse": "Le catch",
+        "anecdote": "Linda McMahon a verse pas moins de six millions de dollars à Donald Trump pour sa campagne presidentielle."
       },
       {
         "id": 19,
-        "question": "Quel président avait déjà utilisé le slogan : « Rendons sa grandeur à l'Amérique ! » ?",
+        "question": "Quel president avait dejà utilise le slogan : « Rendons sa grandeur à l'Amerique ! » ?",
         "propositions": [
           "Barack Obama",
           "Jimmy Carter",
           "Bill Clinton",
           "Ronald Reagan"
         ],
-        "réponse": "Ronald Reagan",
-        "anecdote": "Donald Trump a annoncé sa candidature aux primaires républicaines présidentielles américaines le 16 juin 2015."
+        "reponse": "Ronald Reagan",
+        "anecdote": "Donald Trump a annonce sa candidature aux primaires republicaines presidentielles americaines le 16 juin 2015."
       },
       {
         "id": 20,
-        "question": "À sa prise de fonction comme président américain, Donald Trump était... ",
+        "question": "À sa prise de fonction comme president americain, Donald Trump etait... ",
         "propositions": [
-          "Le plus âgé",
+          "Le plus age",
           "Pauvre",
           "Grand favori",
-          "Démocrate"
+          "Democrate"
         ],
-        "réponse": "Le plus âgé",
-        "anecdote": "À sa prise de fonction, Donald Trump est le président américain le plus âgé (70 ans) et le plus riche jamais élu."
+        "reponse": "Le plus age",
+        "anecdote": "À sa prise de fonction, Donald Trump est le president americain le plus age (70 ans) et le plus riche jamais elu."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "La remise à neuf de quel hôtel constitua la première affaire importante de Donald Trump ?",
+        "question": "La remise à neuf de quel hôtel constitua la premiere affaire importante de Donald Trump ?",
         "propositions": [
           "Plaza Hotel",
           "Marina",
           "Wollman Rink",
           "Grand Hyatt Hotel"
         ],
-        "réponse": "Grand Hyatt Hotel",
-        "anecdote": "Le chantier fut en grande partie financé par une prêt de 70 millions de dollars négocié par Fred Trump avec le groupe Hyatt."
+        "reponse": "Grand Hyatt Hotel",
+        "anecdote": "Le chantier fut en grande partie finance par une pret de 70 millions de dollars negocie par Fred Trump avec le groupe Hyatt."
       },
       {
         "id": 22,
-        "question": "Dans combien de longs-métrages de cinéma Donald Trump a-t-il fait des apparitions ?",
+        "question": "Dans combien de longs-metrages de cinema Donald Trump a-t-il fait des apparitions ?",
         "propositions": [
           "Six",
           "Quatre",
           "Douze",
           "Huit"
         ],
-        "réponse": "Douze",
-        "anecdote": "Donald Trump est apparu dans douze longs-métrages de cinéma et quatorze séries télévisées, généralement dans son propre rôle."
+        "reponse": "Douze",
+        "anecdote": "Donald Trump est apparu dans douze longs-metrages de cinema et quatorze series televisees, generalement dans son propre rôle."
       },
       {
         "id": 23,
-        "question": "Dans quel roman Donald Trump est-il considéré comme un modèle par Patrick Bateman ?",
+        "question": "Dans quel roman Donald Trump est-il considere comme un modele par Patrick Bateman ?",
         "propositions": [
           "Dracula",
-          "Millénium",
+          "Millenium",
           "American Psycho",
           "Don Quichotte"
         ],
-        "réponse": "American Psycho",
-        "anecdote": "Donald Trump est aussi souvent comparé à Charles Foster Kane, le personnage principal de « Citizen Kane », chef-d'oeuvre d'Orson Welles."
+        "reponse": "American Psycho",
+        "anecdote": "Donald Trump est aussi souvent compare à Charles Foster Kane, le personnage principal de « Citizen Kane », chef-d'oeuvre d'Orson Welles."
       },
       {
         "id": 24,
-        "question": "En quelle année la Trump Tower, résidence principale de Donald Trump, fut-elle terminée ?",
+        "question": "En quelle annee la Trump Tower, residence principale de Donald Trump, fut-elle terminee ?",
         "propositions": [
           "2003",
           "1983",
           "1973",
           "1993"
         ],
-        "réponse": "1983",
-        "anecdote": "L'immeuble est terminé en 1983 et héberge par la suite le penthouse qui sert de résidence principale à Donald Trump."
+        "reponse": "1983",
+        "anecdote": "L'immeuble est termine en 1983 et heberge par la suite le penthouse qui sert de residence principale à Donald Trump."
       },
       {
         "id": 25,
-        "question": "Quel est le prix de la carte de membre du club privé du Mar-a-Lago à Palm Beach ?",
+        "question": "Quel est le prix de la carte de membre du club prive du Mar-a-Lago à Palm Beach ?",
         "propositions": [
           "15 000 $",
           "150 000 $",
           "300 000 $",
           "5 000 $"
         ],
-        "réponse": "150 000 $",
-        "anecdote": "En 1985, Trump fait l'acquisition de la résidence de luxe Mar-a-Lago à Palm Beach (Floride) pour la somme de 5 millions de dollars."
+        "reponse": "150 000 $",
+        "anecdote": "En 1985, Trump fait l'acquisition de la residence de luxe Mar-a-Lago à Palm Beach (Floride) pour la somme de 5 millions de dollars."
       },
       {
         "id": 26,
-        "question": "Avec quel journaliste américain Donald Trump a-t-il publié son autobiographie ?",
+        "question": "Avec quel journaliste americain Donald Trump a-t-il publie son autobiographie ?",
         "propositions": [
           "Dave Barry",
           "Tony Schwarz",
           "William Goldman",
           "Dan Simmons"
         ],
-        "réponse": "Tony Schwarz",
-        "anecdote": "Énorme succès de librairie, l'ouvrage restera pendant treize semaines en tête de la New York Times Best Seller list."
+        "reponse": "Tony Schwarz",
+        "anecdote": "Énorme succes de librairie, l'ouvrage restera pendant treize semaines en tete de la New York Times Best Seller list."
       },
       {
         "id": 27,
-        "question": "En quelle année Donald Trump a-t-il reçu son étoile sur le Hollywood Walk of Fame ?",
+        "question": "En quelle annee Donald Trump a-t-il recu son etoile sur le Hollywood Walk of Fame ?",
         "propositions": [
           "2003",
           "2010",
           "2000",
           "2007"
         ],
-        "réponse": "2007",
-        "anecdote": "Via l'émission télévisée « The Apprentice », Donald Trump fut remercié pour sa contribution au divertissement télévisuel."
+        "reponse": "2007",
+        "anecdote": "Via l'emission televisee « The Apprentice », Donald Trump fut remercie pour sa contribution au divertissement televisuel."
       },
       {
         "id": 28,
-        "question": "Combien de délégués Donald Trump a-t-il dû recueillir pour obtenir l'investiture en 2016 ?",
+        "question": "Combien de delegues Donald Trump a-t-il dû recueillir pour obtenir l'investiture en 2016 ?",
         "propositions": [
           "1 237",
           "1 389",
           "1 016",
           "1 148"
         ],
-        "réponse": "1 237",
-        "anecdote": "Après sa large victoire dans l'État de New York, il est devenu le seul candidat capable de recueillir les 1 237 délégués nécessaires."
+        "reponse": "1 237",
+        "anecdote": "Apres sa large victoire dans l'État de New York, il est devenu le seul candidat capable de recueillir les 1 237 delegues necessaires."
       },
       {
         "id": 29,
@@ -388,20 +388,20 @@
           "46",
           "6"
         ],
-        "réponse": "6",
-        "anecdote": "Le décompte fut réalisé par Politico qui estime qu' « aucun candidat n'avait jamais reçu aussi peu de soutiens dans la presse »."
+        "reponse": "6",
+        "anecdote": "Le decompte fut realise par Politico qui estime qu' « aucun candidat n'avait jamais recu aussi peu de soutiens dans la presse »."
       },
       {
         "id": 30,
-        "question": "Quel groupe a sorti en 1990 une chanson intitulée « Donald Trump », écrite par Prince ?",
+        "question": "Quel groupe a sorti en 1990 une chanson intitulee « Donald Trump », ecrite par Prince ?",
         "propositions": [
           "Heatwave",
           "The Time",
           "Funkadelic",
           "Pleasure"
         ],
-        "réponse": "The Time",
-        "anecdote": "Dans l'intervalle entre 1984 et 1989, plusieurs membres du groupe The Time ont mené d'importantes carrières solos."
+        "reponse": "The Time",
+        "anecdote": "Dans l'intervalle entre 1984 et 1989, plusieurs membres du groupe The Time ont mene d'importantes carrieres solos."
       }
     ]
     }

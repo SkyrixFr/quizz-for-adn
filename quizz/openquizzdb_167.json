@@ -1,67 +1,67 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "3 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
+      "categorie": "Celebrites",
       "nom": "Beaux gosses",
-      "slogan": "Le teint halé et les muscles saillants"
+      "slogan": "Le teint hale et les muscles saillants"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "Beautiful kids",
       "slogan": "The tanned complexion and prominent muscles"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Hermosos niños",
       "slogan": "La tez bronceada y los músculos prominentes"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Bellissimi bambini",
       "slogan": "La carnagione abbronzata ei muscoli prominenti"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Schöne Kinder",
       "slogan": "Der gebräunte Teint und die markanten Muskeln"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Mooie kinderen",
       "slogan": "De gebruinde teint en prominente spieren"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Avec quel ancien chanteur de NSYNC Cameron Diaz a-t-elle vécu jusqu'en 2007 ?",
+        "question": "Avec quel ancien chanteur de NSYNC Cameron Diaz a-t-elle vecu jusqu'en 2007 ?",
         "propositions": [
           "Lance Bass",
           "Justin Timberlake",
           "Chris Kirkpatrick",
           "Joey Fatone"
         ],
-        "réponse": "Justin Timberlake",
-        "anecdote": "Dans une interview, Justin Timberlake a déclaré souffrir de troubles obsessionnels compulsifs (TOC) mélangés à un déficit de l'attention."
+        "reponse": "Justin Timberlake",
+        "anecdote": "Dans une interview, Justin Timberlake a declare souffrir de troubles obsessionnels compulsifs (TOC) melanges à un deficit de l'attention."
       },
       {
         "id": 2,
-        "question": "Quel acteur au regard bleu a tissé sa toile en 2007 autour de Jennifer Meyer ?",
+        "question": "Quel acteur au regard bleu a tisse sa toile en 2007 autour de Jennifer Meyer ?",
         "propositions": [
           "Christian Bale",
           "Tobey Maguire",
           "Sam Worthington",
           "Elijah Wood"
         ],
-        "réponse": "Tobey Maguire",
-        "anecdote": "En octobre 2016, il fut annoncé que Tobey Maguire et Jennifer Meyer, parents de deux enfants, divorcent après neuf ans de mariage."
+        "reponse": "Tobey Maguire",
+        "anecdote": "En octobre 2016, il fut annonce que Tobey Maguire et Jennifer Meyer, parents de deux enfants, divorcent apres neuf ans de mariage."
       },
       {
         "id": 3,
@@ -72,142 +72,142 @@
           "Brad Pitt",
           "Andy Garcia"
         ],
-        "réponse": "George Clooney",
-        "anecdote": "George Clooney est devenu célèbre auprès du grand public grâce à son rôle du docteur Doug Ross dans la série télévisée « Urgences »."
+        "reponse": "George Clooney",
+        "anecdote": "George Clooney est devenu celebre aupres du grand public grace à son rôle du docteur Doug Ross dans la serie televisee « Urgences »."
       },
       {
         "id": 4,
-        "question": "Dans quelle région du monde Florent Pagny vit-il quand il ne se trouve pas en France ?",
+        "question": "Dans quelle region du monde Florent Pagny vit-il quand il ne se trouve pas en France ?",
         "propositions": [
           "Patagonie",
           "Argentine",
           "Chili",
           "Uruguay"
         ],
-        "réponse": "Patagonie",
-        "anecdote": "Entre 1988 et 1991, Florent Pagny a vécu une relation sulfureuse avec la chanteuse Vanessa Paradis, de neuf ans sa cadette."
+        "reponse": "Patagonie",
+        "anecdote": "Entre 1988 et 1991, Florent Pagny a vecu une relation sulfureuse avec la chanteuse Vanessa Paradis, de neuf ans sa cadette."
       },
       {
         "id": 5,
-        "question": "Quel chanteur à qui on s'attache a débuté en faisant la manche à St-Tropez ?",
+        "question": "Quel chanteur à qui on s'attache a debute en faisant la manche à St-Tropez ?",
         "propositions": [
-          "Christophe Maé",
+          "Christophe Mae",
           "Christophe Willem",
           "Florent Pagny",
-          "Julien Doré"
+          "Julien Dore"
         ],
-        "réponse": "Christophe Maé",
-        "anecdote": "Passionné de tennis et de ski, il abandonna le sport à la suite d'une polyarthrite chronique qui l'immobilisa à l'âge de 16 ans."
+        "reponse": "Christophe Mae",
+        "anecdote": "Passionne de tennis et de ski, il abandonna le sport à la suite d'une polyarthrite chronique qui l'immobilisa à l'age de 16 ans."
       },
       {
         "id": 6,
-        "question": "Avec quel collègue de série télévisée Hayden Pannetiere a-t-elle filé le parfait amour ?",
+        "question": "Avec quel collegue de serie televisee Hayden Pannetiere a-t-elle file le parfait amour ?",
         "propositions": [
           "Milo Ventimiglia",
           "Zachary Quinto",
           "Greg Grunberg",
           "Adrian Pasdar"
         ],
-        "réponse": "Milo Ventimiglia",
-        "anecdote": "Fan de « Star Wars », Milo Ventimiglia rêvait de devenir acteur de la saga et fait tout ce qu'il pouvait pour s'en donner les moyens."
+        "reponse": "Milo Ventimiglia",
+        "anecdote": "Fan de « Star Wars », Milo Ventimiglia revait de devenir acteur de la saga et fait tout ce qu'il pouvait pour s'en donner les moyens."
       },
       {
         "id": 7,
-        "question": "Lequel de ces acteurs s'est retrouvé célibataire après sa rupture avec Bar Refaeli ?",
+        "question": "Lequel de ces acteurs s'est retrouve celibataire apres sa rupture avec Bar Refaeli ?",
         "propositions": [
           "Casey Affleck",
           "Colin Firth",
           "Leonardo DiCaprio",
           "Daniel Day-Lewis"
         ],
-        "réponse": "Leonardo DiCaprio",
-        "anecdote": "Parallèlement à ses métiers dans le cinéma, Leonardo DiCaprio est également connu pour son fort engagement en faveur de l'écologie."
+        "reponse": "Leonardo DiCaprio",
+        "anecdote": "Parallelement à ses metiers dans le cinema, Leonardo DiCaprio est egalement connu pour son fort engagement en faveur de l'ecologie."
       },
       {
         "id": 8,
-        "question": "Quel nul a fréquenté douze écoles différentes, de la sixième à la Terminale ?",
+        "question": "Quel nul a frequente douze ecoles differentes, de la sixieme à la Terminale ?",
         "propositions": [
           "Bruno Carette",
           "Alain Chabat",
           "Dominique Farrugia",
           "Smaïn"
         ],
-        "réponse": "Alain Chabat",
-        "anecdote": "Ayant vécu à Bobigny, Alain Chabat a longtemps souhaité devenir dessinateur de BD ou faire carrière comme chanteur de rock."
+        "reponse": "Alain Chabat",
+        "anecdote": "Ayant vecu à Bobigny, Alain Chabat a longtemps souhaite devenir dessinateur de BD ou faire carriere comme chanteur de rock."
       },
       {
         "id": 9,
-        "question": "Quel acteur a réalisé avec son père un reportage sur les réfugiés du Darfour ?",
+        "question": "Quel acteur a realise avec son pere un reportage sur les refugies du Darfour ?",
         "propositions": [
           "Richard Gere",
           "Leonardo DiCaprio",
           "Bruce Willis",
           "George Clooney"
         ],
-        "réponse": "George Clooney",
-        "anecdote": "En septembre 2006, George Clooney a été reçu par le Conseil de sécurité des Nations unies pour que cesse le génocide au Darfour."
+        "reponse": "George Clooney",
+        "anecdote": "En septembre 2006, George Clooney a ete recu par le Conseil de securite des Nations unies pour que cesse le genocide au Darfour."
       },
       {
         "id": 10,
-        "question": "Qui est le célèbre papa de Rumer Glenn, de Scout LaRue et de Tallulah Belle ?",
+        "question": "Qui est le celebre papa de Rumer Glenn, de Scout LaRue et de Tallulah Belle ?",
         "propositions": [
           "Bruce Willis",
           "Elijah Wood",
           "Edward Norton",
           "Mickey Rourke"
         ],
-        "réponse": "Bruce Willis",
-        "anecdote": "Les films avec Bruce Willis ont jusqu'ici rapporté trois milliards de dollars au box-office américain et sept milliards dans le monde."
+        "reponse": "Bruce Willis",
+        "anecdote": "Les films avec Bruce Willis ont jusqu'ici rapporte trois milliards de dollars au box-office americain et sept milliards dans le monde."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Quel faux millionnaire et vrai maçon a séduit des filles à la télévision en 2003 ?",
+        "question": "Quel faux millionnaire et vrai macon a seduit des filles à la television en 2003 ?",
         "propositions": [
           "Pascal Olmeta",
-          "Grégory Basso",
+          "Gregory Basso",
           "Henri Leconte",
           "David Charvet"
         ],
-        "réponse": "Grégory Basso",
-        "anecdote": "Après de petits rôles et enregistrements, Grégory Basso tient désormais une discothèque située dans le sud de la France."
+        "reponse": "Gregory Basso",
+        "anecdote": "Apres de petits rôles et enregistrements, Gregory Basso tient desormais une discotheque situee dans le sud de la France."
       },
       {
         "id": 12,
         "question": "Quel humoriste a dit : « Tromper une femme, ce n'est pas tromper, c'est comparer » ?",
         "propositions": [
           "Franck Dubosc",
-          "Sébastien Cauet",
+          "Sebastien Cauet",
           "Albert Dupontel",
           "Laurent Gerra"
         ],
-        "réponse": "Franck Dubosc",
-        "anecdote": "À ce jour, l'acteur Franck Dubosc cumule un box-office total supérieur aux cinquante millions d'entrées en France."
+        "reponse": "Franck Dubosc",
+        "anecdote": "À ce jour, l'acteur Franck Dubosc cumule un box-office total superieur aux cinquante millions d'entrees en France."
       },
       {
         "id": 13,
-        "question": "Quel ancien champion de tennis américain a été marié à Brooke Shields ?",
+        "question": "Quel ancien champion de tennis americain a ete marie à Brooke Shields ?",
         "propositions": [
           "Jimmy Connors",
           "John McEnroe",
           "Björn Borg",
-          "André Agassi"
+          "Andre Agassi"
         ],
-        "réponse": "André Agassi",
-        "anecdote": "Le principal rival d'Agassi au cours de sa carrière fut Pete Sampras, qu'il affronta à 34 reprises dont cinq finales de Grand Chelem."
+        "reponse": "Andre Agassi",
+        "anecdote": "Le principal rival d'Agassi au cours de sa carriere fut Pete Sampras, qu'il affronta à 34 reprises dont cinq finales de Grand Chelem."
       },
       {
         "id": 14,
-        "question": "Quel vainqueur de « La Nouvelle Star » fut désigné en 2007 l'homme le plus sexy de l'année ?",
+        "question": "Quel vainqueur de « La Nouvelle Star » fut designe en 2007 l'homme le plus sexy de l'annee ?",
         "propositions": [
           "Steeve Estatof",
-          "Julien Doré",
+          "Julien Dore",
           "Christophe Willem",
           "Pierrick Lilliu"
         ],
-        "réponse": "Julien Doré",
-        "anecdote": "Julien Doré a d'abord travaillé dans une entreprise de manutention et jouait avec son groupe Dig Up Elvis dans des bars de Nîmes."
+        "reponse": "Julien Dore",
+        "anecdote": "Julien Dore a d'abord travaille dans une entreprise de manutention et jouait avec son groupe Dig Up Elvis dans des bars de Nîmes."
       },
       {
         "id": 15,
@@ -218,20 +218,20 @@
           "Christoph Waltz",
           "Javier Bardem"
         ],
-        "réponse": "Heath Ledger",
+        "reponse": "Heath Ledger",
         "anecdote": "Heath Ledger est surtout connu pour son rôle dans « Le Secret de Brokeback Mountain » et celui du Joker dans « The Dark Knight »."
       },
       {
         "id": 16,
-        "question": "Quel champion incontesté de la terre battue est né sur l'île de Majorque ?",
+        "question": "Quel champion inconteste de la terre battue est ne sur l'île de Majorque ?",
         "propositions": [
           "Andy Murray",
           "Marcelo Melo",
           "Roger Federer",
           "Rafael Nadal"
         ],
-        "réponse": "Rafael Nadal",
-        "anecdote": "En devenant champion olympique en 2008, Rafael Nadal est le deuxième à réaliser le Grand Chelem doré en carrière après Agassi."
+        "reponse": "Rafael Nadal",
+        "anecdote": "En devenant champion olympique en 2008, Rafael Nadal est le deuxieme à realiser le Grand Chelem dore en carriere apres Agassi."
       },
       {
         "id": 17,
@@ -242,94 +242,94 @@
           "Josh Hartnett",
           "Ewan McGregor"
         ],
-        "réponse": "Josh Hartnett",
-        "anecdote": "Entre 2000 et 2011, Josh Hartnett a généré de nombreuses relations amoureuses, entre autres avec Kelly Carlson et Abbie Cornish."
+        "reponse": "Josh Hartnett",
+        "anecdote": "Entre 2000 et 2011, Josh Hartnett a genere de nombreuses relations amoureuses, entre autres avec Kelly Carlson et Abbie Cornish."
       },
       {
         "id": 18,
-        "question": "Quel animateur télé au look BCBG a été condamné à un stage de citoyenneté ?",
+        "question": "Quel animateur tele au look BCBG a ete condamne à un stage de citoyennete ?",
         "propositions": [
-          "Yann Barthès",
+          "Yann Barthes",
           "Jean-Luc Delarue",
           "Vincent Cerutti",
           "Thierry Beccaro"
         ],
-        "réponse": "Jean-Luc Delarue",
-        "anecdote": "Jean-Luc Delarue a été confronté à différentes difficultés d'ordre judiciaire en sa qualité de président de la société Réservoir Prod."
+        "reponse": "Jean-Luc Delarue",
+        "anecdote": "Jean-Luc Delarue a ete confronte à differentes difficultes d'ordre judiciaire en sa qualite de president de la societe Reservoir Prod."
       },
       {
         "id": 19,
-        "question": "Quel américano-danois a été homme de main de la mafia russe pour David Cronenberg ?",
+        "question": "Quel americano-danois a ete homme de main de la mafia russe pour David Cronenberg ?",
         "propositions": [
           "Erik Hansen",
           "Jesper Klein",
           "Viggo Mortensen",
           "Torben Meyer"
         ],
-        "réponse": "Viggo Mortensen",
-        "anecdote": "Viggo Mortensen parle couramment anglais, espagnol, danois et a de bonnes notions en français, italien, suédois et norvégien."
+        "reponse": "Viggo Mortensen",
+        "anecdote": "Viggo Mortensen parle couramment anglais, espagnol, danois et a de bonnes notions en francais, italien, suedois et norvegien."
       },
       {
         "id": 20,
-        "question": "Qui fut le mari de Caroline Proust, actrice principale de la série télévisée « Engrenages » ?",
+        "question": "Qui fut le mari de Caroline Proust, actrice principale de la serie televisee « Engrenages » ?",
         "propositions": [
           "Patrick Chesnais",
           "Benoît Magimel",
-          "Gérard Lanvin",
+          "Gerard Lanvin",
           "Clovis Cornillac"
         ],
-        "réponse": "Clovis Cornillac",
-        "anecdote": "Depuis 2009, Clovis Cornillac est en couple avec la comédienne française Lilou Fogli qu'il a épousée le 30 août 2013."
+        "reponse": "Clovis Cornillac",
+        "anecdote": "Depuis 2009, Clovis Cornillac est en couple avec la comedienne francaise Lilou Fogli qu'il a epousee le 30 août 2013."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quel acteur français fut le compagnon de Halle Berry et de Kylie Minogue ?",
+        "question": "Quel acteur francais fut le compagnon de Halle Berry et de Kylie Minogue ?",
         "propositions": [
           "Olivier Martinez",
           "Bruno Putzulu",
           "Mathieu Kassovitz",
           "Mathieu Amalric"
         ],
-        "réponse": "Olivier Martinez",
-        "anecdote": "Olivier Martinez a tenu le rôle d'Angelo Pardi aux côtés de Juliette Binoche dans « Le Hussard sur le toit » de Jean-Paul Rappeneau."
+        "reponse": "Olivier Martinez",
+        "anecdote": "Olivier Martinez a tenu le rôle d'Angelo Pardi aux côtes de Juliette Binoche dans « Le Hussard sur le toit » de Jean-Paul Rappeneau."
       },
       {
         "id": 22,
-        "question": "Qui a épousé Jennifer Flavin, avec qui il a eu trois filles : Sophia, Sistine et Scarlet ?",
+        "question": "Qui a epouse Jennifer Flavin, avec qui il a eu trois filles : Sophia, Sistine et Scarlet ?",
         "propositions": [
           "Jason Statham",
           "Dolph Lundgren",
           "Sylvester Stallone",
           "Eric Roberts"
         ],
-        "réponse": "Sylvester Stallone",
-        "anecdote": "Après la victoire de Donald Trump en 2016, ce dernier proposa à Sylvester Stallone la présidence du National Endowment for the Arts."
+        "reponse": "Sylvester Stallone",
+        "anecdote": "Apres la victoire de Donald Trump en 2016, ce dernier proposa à Sylvester Stallone la presidence du National Endowment for the Arts."
       },
       {
         "id": 23,
-        "question": "De quel acteur césarisé Claude Chabrol dit-il qu'il est le Al Pacino français ?",
+        "question": "De quel acteur cesarise Claude Chabrol dit-il qu'il est le Al Pacino francais ?",
         "propositions": [
           "Vincent Cassel",
           "Mathieu Amalric",
-          "François Cluzet",
+          "Francois Cluzet",
           "Daniel Auteuil"
         ],
-        "réponse": "François Cluzet",
-        "anecdote": "Depuis 2004, François Cluzet est parrain de l'association Vaincre la mucoviscidose en compagnie d'Isabelle Carré et Gérard Lenorman."
+        "reponse": "Francois Cluzet",
+        "anecdote": "Depuis 2004, Francois Cluzet est parrain de l'association Vaincre la mucoviscidose en compagnie d'Isabelle Carre et Gerard Lenorman."
       },
       {
         "id": 24,
-        "question": "De quel bel Irlandais Charlize Theron a-t-elle partagé sa vie de 2002 à 2010 ?",
+        "question": "De quel bel Irlandais Charlize Theron a-t-elle partage sa vie de 2002 à 2010 ?",
         "propositions": [
           "Hugh Leonard",
           "Jim Sheridan",
           "Adrian Dunbar",
           "Stuart Townsend"
         ],
-        "réponse": "Stuart Townsend",
-        "anecdote": "Stuart Townsend a d'abord opté pour une carrière de boxeur avant de débuter en 1996 au cinéma dans le film « Trojan Eddie »."
+        "reponse": "Stuart Townsend",
+        "anecdote": "Stuart Townsend a d'abord opte pour une carriere de boxeur avant de debuter en 1996 au cinema dans le film « Trojan Eddie »."
       },
       {
         "id": 25,
@@ -340,73 +340,73 @@
           "Choc",
           "VSD"
         ],
-        "réponse": "Choc",
-        "anecdote": "Les photos auraient été prises le 2 janvier, au Huvafen Fushi, un luxueux hôtel des îles Maldives où l'animateur était en vacances."
+        "reponse": "Choc",
+        "anecdote": "Les photos auraient ete prises le 2 janvier, au Huvafen Fushi, un luxueux hôtel des îles Maldives ou l'animateur etait en vacances."
       },
       {
         "id": 26,
-        "question": "Quel acteur britannique très sexy a été ambassadeur du parfum « Hypnôse » de Lancôme ?",
+        "question": "Quel acteur britannique tres sexy a ete ambassadeur du parfum « Hypnôse » de Lancôme ?",
         "propositions": [
           "Clive Owen",
           "Chris Hemsworth",
           "Sean Connery",
           "Michael York"
         ],
-        "réponse": "Clive Owen",
-        "anecdote": "En France, Julien Kramer est la voix française régulière de Clive Owen, bien que Bernard Gabay l'ait également doublé."
+        "reponse": "Clive Owen",
+        "anecdote": "En France, Julien Kramer est la voix francaise reguliere de Clive Owen, bien que Bernard Gabay l'ait egalement double."
       },
       {
         "id": 27,
-        "question": "Quel chanteur du groupe Good Charlotte est le père des enfants de Nicole Richie ?",
+        "question": "Quel chanteur du groupe Good Charlotte est le pere des enfants de Nicole Richie ?",
         "propositions": [
           "Joel Madden",
           "Dean Butterworth",
           "Paul Thomas",
           "Billy Martin"
         ],
-        "réponse": "Joel Madden",
-        "anecdote": "Lors d'un concert des Beastie Boys dans les années 1990, ce fut le déclic pour les jumeaux qui décidèrent de se consacrer à la musique."
+        "reponse": "Joel Madden",
+        "anecdote": "Lors d'un concert des Beastie Boys dans les annees 1990, ce fut le declic pour les jumeaux qui deciderent de se consacrer à la musique."
       },
       {
         "id": 28,
-        "question": "Qui a risqué d'être arrêté pour avoir embrassé en Inde et en public l'actrice Shilpa Shetty ?",
+        "question": "Qui a risque d'etre arrete pour avoir embrasse en Inde et en public l'actrice Shilpa Shetty ?",
         "propositions": [
           "Johnny Depp",
           "Colin Farrell",
           "Joaquin Phoenix",
           "Richard Gere"
         ],
-        "réponse": "Richard Gere",
-        "anecdote": "Richard Gere se sert de sa notoriété d'acteur pour promouvoir son aide au peuple tibétain opprimé par le gouvernement chinois."
+        "reponse": "Richard Gere",
+        "anecdote": "Richard Gere se sert de sa notoriete d'acteur pour promouvoir son aide au peuple tibetain opprime par le gouvernement chinois."
       },
       {
         "id": 29,
-        "question": "Quel joueur de foot a été surnommé Petit Bison par Emmanuel Petit ?",
+        "question": "Quel joueur de foot a ete surnomme Petit Bison par Emmanuel Petit ?",
         "propositions": [
           "Christophe Dugarry",
           "Laurent Blanc",
           "Bixente Lizarazu",
           "Thierry Henry"
         ],
-        "réponse": "Bixente Lizarazu",
-        "anecdote": "Formé dans son Pays basque natal, Bixente Lizarazu a intégré les Girondins de Bordeaux où il a débuté comme professionnel."
+        "reponse": "Bixente Lizarazu",
+        "anecdote": "Forme dans son Pays basque natal, Bixente Lizarazu a integre les Girondins de Bordeaux ou il a debute comme professionnel."
       },
       {
         "id": 30,
-        "question": "À quel sex-symbol des années 1970 l'actrice Kelly Preston est-elle mariée ?",
+        "question": "À quel sex-symbol des annees 1970 l'actrice Kelly Preston est-elle mariee ?",
         "propositions": [
           "Kevin Costner",
           "Hugh Jackman",
           "Ryan Gosling",
           "John Travolta"
         ],
-        "réponse": "John Travolta",
-        "anecdote": "John Travolta, qui vit à Ocala en Floride, est un membre actif de la scientologie, tout comme son collègue de cinéma Tom Cruise."
+        "reponse": "John Travolta",
+        "anecdote": "John Travolta, qui vit à Ocala en Floride, est un membre actif de la scientologie, tout comme son collegue de cinema Tom Cruise."
       }
     ]
     },
     "en": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "With what former NSYNC singer Cameron Diaz did she live until 2007 ?",
@@ -416,7 +416,7 @@
           "Joey Fatone",
           "Justin Timberlake"
         ],
-        "réponse": "Justin Timberlake",
+        "reponse": "Justin Timberlake",
         "anecdote": "In an interview, Justin Timberlake said he suffered from obsessive-compulsive disorder (OCD) mixed with a lack of attention."
       },
       {
@@ -428,7 +428,7 @@
           "Elijah Wood",
           "Tobey Maguire"
         ],
-        "réponse": "Tobey Maguire",
+        "reponse": "Tobey Maguire",
         "anecdote": "In October 2016, it is announced that Tobey Maguire and Jennifer Meyer, parents of two children, divorce after 9 years of marriage."
       },
       {
@@ -440,7 +440,7 @@
           "Andy Garcia",
           "Brad Pitt"
         ],
-        "réponse": "George Clooney",
+        "reponse": "George Clooney",
         "anecdote": "George Clooney became famous to the general public for his role as Dr. Doug Ross in the television series « Urgences »."
       },
       {
@@ -452,19 +452,19 @@
           "Uruguay",
           "Chile"
         ],
-        "réponse": "Patagonia",
+        "reponse": "Patagonia",
         "anecdote": "Between 1988 and 1991, Florent Pagny had a sulphurous relationship with singer Vanessa Paradis, nine years younger."
       },
       {
         "id": 5,
         "question": "Which singer to whom one attaches began by making the sleeve with St-Tropez ?",
         "propositions": [
-          "Julien Doré",
+          "Julien Dore",
           "Christophe Willem",
           "Florent Pagny",
-          "Christophe Maé"
+          "Christophe Mae"
         ],
-        "réponse": "Christophe Maé",
+        "reponse": "Christophe Mae",
         "anecdote": "Passionate about tennis and skiing, he gave up sport after a chronic polyarthritis that immobilized him at the age of 16."
       },
       {
@@ -476,7 +476,7 @@
           "Zachary Quinto",
           "Milo Ventimiglia"
         ],
-        "réponse": "Milo Ventimiglia",
+        "reponse": "Milo Ventimiglia",
         "anecdote": "Passionate about « Star Wars », Milo Ventimiglia dreams of becoming an actor in the saga and does everything he can to give himself the means."
       },
       {
@@ -488,7 +488,7 @@
           "Daniel Day-Lewis",
           "Colin Firth"
         ],
-        "réponse": "Leonardo DiCaprio",
+        "reponse": "Leonardo DiCaprio",
         "anecdote": "Along with his life in the film, Leonardo DiCaprio is also known for his strong commitment to ecology."
       },
       {
@@ -500,7 +500,7 @@
           "Dominique Farrugia",
           "Bruno Carette"
         ],
-        "réponse": "Alain Chabat",
+        "reponse": "Alain Chabat",
         "anecdote": "Having lived in Bobigny, Alain Chabat has long wanted to become a cartoonist or career as a rock singer."
       },
       {
@@ -512,7 +512,7 @@
           "Leonardo DiCaprio",
           "George Clooney"
         ],
-        "réponse": "George Clooney",
+        "reponse": "George Clooney",
         "anecdote": "In September 2006, George Clooney was received by the UN Security Council to stop the genocide in Darfur."
       },
       {
@@ -524,11 +524,11 @@
           "Elijah Wood",
           "Edward Norton"
         ],
-        "réponse": "Bruce Willis",
+        "reponse": "Bruce Willis",
         "anecdote": "The movies with Bruce Willis have brought in $ 3 billion in American box office and seven billion worldwide."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "What fake millionaire and true maestro did girls drunk in 2003 ?",
@@ -536,10 +536,10 @@
           "Pascal Olmeta",
           "Henri Leconte",
           "David Charvet",
-          "Grégory Basso"
+          "Gregory Basso"
         ],
-        "réponse": "Grégory Basso",
-        "anecdote": "After small roles and recordings, Grégory Basso is now a discotheque located in the south of France."
+        "reponse": "Gregory Basso",
+        "anecdote": "After small roles and recordings, Gregory Basso is now a discotheque located in the south of France."
       },
       {
         "id": 12,
@@ -550,7 +550,7 @@
           "Sebastien Cauet",
           "Franck Dubosc"
         ],
-        "réponse": "Franck Dubosc",
+        "reponse": "Franck Dubosc",
         "anecdote": "To date, the actor Franck Dubosc has a total box office of more than fifty million entries in France."
       },
       {
@@ -560,9 +560,9 @@
           "Jimmy Connors",
           "John McEnroe",
           "Björn Borg",
-          "André Agassi"
+          "Andre Agassi"
         ],
-        "réponse": "André Agassi",
+        "reponse": "Andre Agassi",
         "anecdote": "Agassi's main rival during his career was Pete Sampras, whom he faced on 34 occasions including five Grand Slam finals."
       },
       {
@@ -572,10 +572,10 @@
           "Pierrick Lilliu",
           "Christophe Willem",
           "Steeve Estatof",
-          "Julien Doré"
+          "Julien Dore"
         ],
-        "réponse": "Julien Doré",
-        "anecdote": "Julien Doré first worked in a handling company and played with his group Dig Up Elvis in bars of Nîmes."
+        "reponse": "Julien Dore",
+        "anecdote": "Julien Dore first worked in a handling company and played with his group Dig Up Elvis in bars of Nîmes."
       },
       {
         "id": 15,
@@ -586,7 +586,7 @@
           "Tim Robbins",
           "Javier Bardem"
         ],
-        "réponse": "Heath Ledger",
+        "reponse": "Heath Ledger",
         "anecdote": "Heath Ledgerest is best known for his role in « The Secret of Brokeback Mountain » and that of the Joker in « The Dark Knight »."
       },
       {
@@ -598,7 +598,7 @@
           "Andy Murray",
           "Marcelo Melo"
         ],
-        "réponse": "Rafael Nadal",
+        "reponse": "Rafael Nadal",
         "anecdote": "In becoming Olympic champion in 2008, Rafael Nadal is the second to achieve the Golden Grand Slam career after Agassi."
       },
       {
@@ -610,7 +610,7 @@
           "Tom Hardy",
           "Ewan McGregor"
         ],
-        "réponse": "Josh Hartnett",
+        "reponse": "Josh Hartnett",
         "anecdote": "Between 2000 and 2011, Josh Hartnett had several dating relationships, including Kelly Carlson and Abbie Cornish."
       },
       {
@@ -618,12 +618,12 @@
         "question": "What animator with a bcbg look was sentenced to a 3-day citizenship course ?",
         "propositions": [
           "Thierry Beccaro",
-          "Yann Barthès",
+          "Yann Barthes",
           "Vincent Cerutti",
           "Jean-Luc Delarue"
         ],
-        "réponse": "Jean-Luc Delarue",
-        "anecdote": "Jean-Luc Delarue has been confronted with various judicial difficulties in his capacity as President of Société Réservoir Prod."
+        "reponse": "Jean-Luc Delarue",
+        "anecdote": "Jean-Luc Delarue has been confronted with various judicial difficulties in his capacity as President of Societe Reservoir Prod."
       },
       {
         "id": 19,
@@ -634,7 +634,7 @@
           "Jesper Klein",
           "Viggo Mortensen"
         ],
-        "réponse": "Viggo Mortensen",
+        "reponse": "Viggo Mortensen",
         "anecdote": "Viggo Mortensen is fluent in English, Spanish, Danish and has good notions in French, Italian, Swedish and Norwegian."
       },
       {
@@ -646,7 +646,7 @@
           "Benoît Magimel",
           "Philippe Lanvin"
         ],
-        "réponse": "Clovis Cornillac",
+        "reponse": "Clovis Cornillac",
         "anecdote": "Since 2009, Clovis Cornillac has been in a relationship with the French comedian Lilou Fogli, whom he married on August 30, 2013."
       }
     ],
@@ -660,7 +660,7 @@
           "Mathieu Amalric",
           "Bruno Putzulu"
         ],
-        "réponse": "Olivier Martinez",
+        "reponse": "Olivier Martinez",
         "anecdote": "Olivier Martinez held the role of Angelo Pardi alongside Juliette Binoche in Jean-Paul Rappeneau's Le Hussard on the Roof."
       },
       {
@@ -672,7 +672,7 @@
           "Sylvester Stallone",
           "Eric Roberts"
         ],
-        "réponse": "Sylvester Stallone",
+        "reponse": "Sylvester Stallone",
         "anecdote": "After Donald Trump's victory in 2016, he proposed Stallone as president of the National Endowment for the Arts."
       },
       {
@@ -681,11 +681,11 @@
         "propositions": [
           "Vincent Cassel",
           "Mathieu Amalric",
-          "François Cluzet",
+          "Francois Cluzet",
           "Daniel Auteuil"
         ],
-        "réponse": "François Cluzet",
-        "anecdote": "Since 2004, he is the sponsor of the association Defeat Cystic Fibrosis with Isabelle Carré et Gérard Lenorman."
+        "reponse": "Francois Cluzet",
+        "anecdote": "Since 2004, he is the sponsor of the association Defeat Cystic Fibrosis with Isabelle Carre et Gerard Lenorman."
       },
       {
         "id": 24,
@@ -696,7 +696,7 @@
           "Stuart Townsend",
           "Jim Sheridan"
         ],
-        "réponse": "Stuart Townsend",
+        "reponse": "Stuart Townsend",
         "anecdote": "Stuart Townsend first opted for a boxing career before starting in 1996 at the film in the film « Trojan Eddie »."
       },
       {
@@ -708,7 +708,7 @@
           "VSD",
           "Paris Match"
         ],
-        "réponse": "Choc",
+        "reponse": "Choc",
         "anecdote": "The photos were taken on January 2nd, at Huvafen Fushi, a luxury hotel in the Maldives Islands where the host was on vacation."
       },
       {
@@ -720,7 +720,7 @@
           "Michael York",
           "Clive Owen"
         ],
-        "réponse": "Clive Owen",
+        "reponse": "Clive Owen",
         "anecdote": "In France, Julien Kramer is the regular French voice of Clive Owen, although Bernard Gabay has also doubled it."
       },
       {
@@ -732,7 +732,7 @@
           "Joel Madden",
           "Billy Martin"
         ],
-        "réponse": "Joel Madden",
+        "reponse": "Joel Madden",
         "anecdote": "During a concert of the Beastie Boys of the 1990s, it was the click for the twins who decided to devote themselves to music."
       },
       {
@@ -744,7 +744,7 @@
           "Colin Farrell",
           "Johnny Depp"
         ],
-        "réponse": "Richard Gere",
+        "reponse": "Richard Gere",
         "anecdote": "Richard Gere is using his notoriety as an actor to promote his aid to the Tibetan people oppressed by the Chinese government."
       },
       {
@@ -756,7 +756,7 @@
           "Laurent Blanc",
           "Bixente Lizarazu"
         ],
-        "réponse": "Bixente Lizarazu",
+        "reponse": "Bixente Lizarazu",
         "anecdote": "Formed in his native Basque Country, Bixente Lizarazu has joined the Girondins de Bordeaux where he started as a professional."
       },
       {
@@ -768,13 +768,13 @@
           "John Travolta",
           "Ryan Gosling"
         ],
-        "réponse": "John Travolta",
+        "reponse": "John Travolta",
         "anecdote": "John Travolta, who lives in Ocala, Florida, is an active member of Scientology, as is his colleague Tom Cruise."
       }
     ]
     },
     "de": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Mit welcher ehemaligen NSYNC-Sängerin Cameron Diaz lebte sie bis 2007 ?",
@@ -784,7 +784,7 @@
           "Chris Kirkpatrick",
           "Joey Fatone"
         ],
-        "réponse": "Justin Timberlake",
+        "reponse": "Justin Timberlake",
         "anecdote": "In einem Interview sagte Justin Timberlake, dass er an einer Zwangsstörung (OCD) leidet, die mit einem Mangel an Aufmerksamkeit einhergeht."
       },
       {
@@ -796,7 +796,7 @@
           "Christian Bale",
           "Tobey Maguire"
         ],
-        "réponse": "Tobey Maguire",
+        "reponse": "Tobey Maguire",
         "anecdote": "Im Oktober 2016 wird bekannt gegeben, dass sich Tobey Maguire und Jennifer Meyer, Eltern von zwei Kindern, nach 9 Jahren Ehe scheiden lassen."
       },
       {
@@ -808,7 +808,7 @@
           "Andy Garcia",
           "Brad Pitt"
         ],
-        "réponse": "George Clooney",
+        "reponse": "George Clooney",
         "anecdote": "George Clooney wurde in der breiten Öffentlichkeit für seine Rolle als Dr. Doug Ross in der Fernsehserie « Urgences » berühmt."
       },
       {
@@ -820,19 +820,19 @@
           "Chile",
           "Patagonien"
         ],
-        "réponse": "Patagonien",
+        "reponse": "Patagonien",
         "anecdote": "Zwischen 1988 und 1991 hatte Florent Pagny mit der neun Jahre jüngeren Sängerin Vanessa Paradis eine schwefelige Beziehung."
       },
       {
         "id": 5,
         "question": "Welcher Sänger, an den man anknüpft, hat mit Saint-Tropez angefangen, den Ärmel zu machen ?",
         "propositions": [
-          "Julien Doré",
+          "Julien Dore",
           "Christophe Willem",
           "Florent Pagny",
-          "Christophe Maé"
+          "Christophe Mae"
         ],
-        "réponse": "Christophe Maé",
+        "reponse": "Christophe Mae",
         "anecdote": "Leidenschaft für Tennis und Skifahren gab er nach einer chronischen Polyarthritis, die ihn im Alter von 16 Jahren bewegte, den Sport auf."
       },
       {
@@ -844,7 +844,7 @@
           "Zachary Quinto",
           "Adrian Pasdar"
         ],
-        "réponse": "Milo Ventimiglia",
+        "reponse": "Milo Ventimiglia",
         "anecdote": "Milo Ventimiglia ist leidenschaftlich über « Star Wars » und träumt davon, Schauspieler in der Saga zu werden, und tut alles, um sich selbst die Mittel zu geben."
       },
       {
@@ -856,7 +856,7 @@
           "Casey Affleck",
           "Daniel Day-Lewis"
         ],
-        "réponse": "Leonardo DiCaprio",
+        "reponse": "Leonardo DiCaprio",
         "anecdote": "Neben seinem Leben im Film ist Leonardo DiCaprio auch für sein starkes Engagement für die Ökologie bekannt."
       },
       {
@@ -868,7 +868,7 @@
           "Smaïn",
           "Bruno Carette"
         ],
-        "réponse": "Alain Chabat",
+        "reponse": "Alain Chabat",
         "anecdote": "Alain Chabat, der in Bobigny lebte, wollte schon lange ein Cartoonist oder eine Karriere als Rocksänger werden."
       },
       {
@@ -880,7 +880,7 @@
           "Leonardo DiCaprio",
           "George Clooney"
         ],
-        "réponse": "George Clooney",
+        "reponse": "George Clooney",
         "anecdote": "Im September 2006 wurde George Clooney vom UN-Sicherheitsrat empfangen, um den Völkermord in Darfur zu stoppen."
       },
       {
@@ -892,22 +892,22 @@
           "Mickey Rourke",
           "Elijah Wood"
         ],
-        "réponse": "Bruce Willis",
+        "reponse": "Bruce Willis",
         "anecdote": "Die Filme mit Bruce Willis haben an den amerikanischen Kinokassen drei Milliarden und sieben Milliarden weltweit eingebracht."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Welchen gefälschten Millionär und wahren Maestro haben Mädchen 2003 getrunken ?",
         "propositions": [
-          "Grégory Basso",
+          "Gregory Basso",
           "Pascal Olmeta",
           "David Charvet",
           "Henri Leconte"
         ],
-        "réponse": "Grégory Basso",
-        "anecdote": "Nach kleinen Rollen und Aufnahmen ist Gréory Basso jetzt eine Diskothek in Südfrankreich."
+        "reponse": "Gregory Basso",
+        "anecdote": "Nach kleinen Rollen und Aufnahmen ist Greory Basso jetzt eine Diskothek in Südfrankreich."
       },
       {
         "id": 12,
@@ -918,19 +918,19 @@
           "Sebastien Cauet",
           "Franck Dubosc"
         ],
-        "réponse": "Franck Dubosc",
+        "reponse": "Franck Dubosc",
         "anecdote": "Bis heute hat der Schauspieler Franck Dubosc in Frankreich mehr als fünfzig Millionen Einträge."
       },
       {
         "id": 13,
         "question": "Welcher ehemalige amerikanische Tennismeister war mit Brooke Shields verheiratet ?",
         "propositions": [
-          "André Agassi",
+          "Andre Agassi",
           "John McEnroe",
           "Björn Borg",
           "Jimmy Connors"
         ],
-        "réponse": "André Agassi",
+        "reponse": "Andre Agassi",
         "anecdote": "Agassis Hauptgegner während seiner Karriere war Pete Sampras, dem er 34 Mal, darunter fünf Grand-Slam-Finals, gegenüberstand."
       },
       {
@@ -938,12 +938,12 @@
         "question": "Welcher « New Star » Sieger wurde 2007 zum sexiesten Mann des Jahres gekürt ?",
         "propositions": [
           "Pierrick Lilliu",
-          "Julien Doré",
+          "Julien Dore",
           "Christophe Willem",
           "Steeve Estatof"
         ],
-        "réponse": "Julien Doré",
-        "anecdote": "Julien Doré arbeitete zunächst in einer Umschlagsfirma und spielte mit seiner Gruppe Dig Up Elvis in Bars von Nîmes."
+        "reponse": "Julien Dore",
+        "anecdote": "Julien Dore arbeitete zunächst in einer Umschlagsfirma und spielte mit seiner Gruppe Dig Up Elvis in Bars von Nîmes."
       },
       {
         "id": 15,
@@ -954,7 +954,7 @@
           "Christoph Waltz",
           "Javier Bardem"
         ],
-        "réponse": "Heath Ledger",
+        "reponse": "Heath Ledger",
         "anecdote": "Heath Ledgerest ist am besten für seine Rolle in « Das Geheimnis des Brokeback Mountain » und die des Jokers in « The Dark Knight » bekannt."
       },
       {
@@ -966,7 +966,7 @@
           "Rafael Nadal",
           "Andy Murray"
         ],
-        "réponse": "Rafael Nadal",
+        "reponse": "Rafael Nadal",
         "anecdote": "Als er 2008 Olympiasieger wurde, ist Rafael Nadal nach Agassi der zweite, der die Golden Grand Slam-Karriere erreicht hat."
       },
       {
@@ -978,20 +978,20 @@
           "Ewan McGregor",
           "Josh Hartnett"
         ],
-        "réponse": "Josh Hartnett",
+        "reponse": "Josh Hartnett",
         "anecdote": "Zwischen 2000 und 2011 hatte Josh Hartnett mehrere Dating-Beziehungen, darunter Kelly Carlson und Abbie Cornish."
       },
       {
         "id": 18,
         "question": "Welcher Animator mit einem bcbg-Look wurde zu einem 3-tägigen Staatsbürgerkurs verurteilt ?",
         "propositions": [
-          "Yann Barthès",
+          "Yann Barthes",
           "Vincent Cerutti",
           "Thierry Beccaro",
           "Jean-Luc Delarue"
         ],
-        "réponse": "Jean-Luc Delarue",
-        "anecdote": "Jean-Luc Delarue war in seiner Eigenschaft als Präsident der Société Réservoir Prod mit verschiedenen gerichtlichen Schwierigkeiten konfrontiert."
+        "reponse": "Jean-Luc Delarue",
+        "anecdote": "Jean-Luc Delarue war in seiner Eigenschaft als Präsident der Societe Reservoir Prod mit verschiedenen gerichtlichen Schwierigkeiten konfrontiert."
       },
       {
         "id": 19,
@@ -1002,7 +1002,7 @@
           "Torben Meyer",
           "Jesper Klein"
         ],
-        "réponse": "Viggo Mortensen",
+        "reponse": "Viggo Mortensen",
         "anecdote": "Viggo Mortensen spricht fließend Englisch, Spanisch, Dänisch und hat gute Vorstellungen in Französisch, Italienisch, Schwedisch und Norwegisch."
       },
       {
@@ -1014,7 +1014,7 @@
           "Clovis Cornillac",
           "Benoît Magimel"
         ],
-        "réponse": "Clovis Cornillac",
+        "reponse": "Clovis Cornillac",
         "anecdote": "Clovis Cornillac ist seit 2009 in einer Beziehung mit dem französischen Komiker Lilou Fogli, den er am 30."
       }
     ],
@@ -1028,7 +1028,7 @@
           "Bruno Putzulu",
           "Mathieu Amalric"
         ],
-        "réponse": "Olivier Martinez",
+        "reponse": "Olivier Martinez",
         "anecdote": "Olivier Martinez hatte die Rolle von Angelo Pardi neben Juliette Binoche in Le Hussard von Jean-Paul Rappeneau auf dem Dach inne."
       },
       {
@@ -1040,7 +1040,7 @@
           "Sylvester Stallone",
           "Jason Statham"
         ],
-        "réponse": "Sylvester Stallone",
+        "reponse": "Sylvester Stallone",
         "anecdote": "Nach dem Sieg von Donald Trump im Jahr 2016 schlug er Stallone als Präsidenten der National Endowment for the Arts vor."
       },
       {
@@ -1048,12 +1048,12 @@
         "question": "Von welchem Außenseiter Claude Chabrol ist er der Franzose Al Pacino ?",
         "propositions": [
           "Daniel Auteuil",
-          "François Cluzet",
+          "Francois Cluzet",
           "Mathieu Amalric",
           "Vincent Cassel"
         ],
-        "réponse": "François Cluzet",
-        "anecdote": "Seit 2004 ist er Sponsor des Vereins Defeat Cystic Fibrosis mit Isabelle Carré und Gérard Lenorman."
+        "reponse": "Francois Cluzet",
+        "anecdote": "Seit 2004 ist er Sponsor des Vereins Defeat Cystic Fibrosis mit Isabelle Carre und Gerard Lenorman."
       },
       {
         "id": 24,
@@ -1064,7 +1064,7 @@
           "Hugh Leonard",
           "Jim Sheridan"
         ],
-        "réponse": "Stuart Townsend",
+        "reponse": "Stuart Townsend",
         "anecdote": "Stuart Townsend entschied sich zunächst für eine Boxkarriere, bevor er 1996 mit dem Film « Trojan Eddie » anfing."
       },
       {
@@ -1076,7 +1076,7 @@
           "Paris Match",
           "Choc"
         ],
-        "réponse": "Choc",
+        "reponse": "Choc",
         "anecdote": "Die Fotos wurden am 2. Januar im Huvafen Fushi aufgenommen, einem Luxushotel auf den Malediven, in dem der Gastgeber im Urlaub war."
       },
       {
@@ -1088,7 +1088,7 @@
           "Sean Connery",
           "Clive Owen"
         ],
-        "réponse": "Clive Owen",
+        "reponse": "Clive Owen",
         "anecdote": "In Frankreich ist Julien Kramer die reguläre französische Stimme von Clive Owen, obwohl Bernard Gabay sie ebenfalls verdoppelt hat."
       },
       {
@@ -1100,7 +1100,7 @@
           "Paul Thomas",
           "Joel Madden"
         ],
-        "réponse": "Joel Madden",
+        "reponse": "Joel Madden",
         "anecdote": "Während eines Konzertes der Beastie Boys der 1990er Jahre war es der Klick für die Zwillinge, die sich entschieden, sich der Musik zu widmen."
       },
       {
@@ -1112,7 +1112,7 @@
           "Colin Farrell",
           "Joaquin Phoenix"
         ],
-        "réponse": "Richard Gere",
+        "reponse": "Richard Gere",
         "anecdote": "Richard Gere nutzt seine Berühmtheit als Schauspieler, um seine Unterstützung für die von der chinesischen Regierung unterdrückten Tibeter zu fördern."
       },
       {
@@ -1124,7 +1124,7 @@
           "Bixente Lizarazu",
           "Thierry Henry"
         ],
-        "réponse": "Bixente Lizarazu",
+        "reponse": "Bixente Lizarazu",
         "anecdote": "Bixente Lizarazu wurde in seiner Heimat Baskenland gegründet und hat sich den Girondins de Bordeaux angeschlossen, wo er als Profi angefangen hat."
       },
       {
@@ -1136,96 +1136,96 @@
           "Hugh Jackman",
           "Ryan Gosling"
         ],
-        "réponse": "John Travolta",
+        "reponse": "John Travolta",
         "anecdote": "John Travolta, der in Ocala, Florida lebt, ist ebenso wie sein Kollege Tom Cruise aktives Mitglied von Scientology."
       }
     ]
     },
     "es": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "¿Con qué ex cantante de NSYNC, Cameron Díaz, ella vivió hasta 2007 ?",
+        "question": "¿Con que ex cantante de NSYNC, Cameron Díaz, ella vivió hasta 2007 ?",
         "propositions": [
           "Chris Kirkpatrick",
           "Lance Bass",
           "Justin Timberlake",
           "Joey Fatone"
         ],
-        "réponse": "Justin Timberlake",
+        "reponse": "Justin Timberlake",
         "anecdote": "En una entrevista, Justin Timberlake dijo que padecía un trastorno obsesivo-compulsivo (TOC) mezclado con una falta de atención."
       },
       {
         "id": 2,
-        "question": "¿Qué actor de ojos azules tejió su lienzo en 2007 alrededor de Jennifer Meyer ?",
+        "question": "¿Que actor de ojos azules tejió su lienzo en 2007 alrededor de Jennifer Meyer ?",
         "propositions": [
           "Sam Worthington",
           "Christian Bale",
           "Elijah Wood",
           "Tobey Maguire"
         ],
-        "réponse": "Tobey Maguire",
-        "anecdote": "En octubre de 2016, se anunció que Tobey Maguire y Jennifer Meyer, padres de dos hijos, se divorciaron después de 9 años de matrimonio."
+        "reponse": "Tobey Maguire",
+        "anecdote": "En octubre de 2016, se anunció que Tobey Maguire y Jennifer Meyer, padres de dos hijos, se divorciaron despues de 9 años de matrimonio."
       },
       {
         "id": 3,
-        "question": "¿Qué actor de « Ocean's Eleven » vendió un beso por 350,000 euros por una buena causa ?",
+        "question": "¿Que actor de « Ocean's Eleven » vendió un beso por 350,000 euros por una buena causa ?",
         "propositions": [
           "Matt Damon",
           "Brad Pitt",
           "George Clooney",
           "Andy Garcia"
         ],
-        "réponse": "George Clooney",
+        "reponse": "George Clooney",
         "anecdote": "George Clooney se hizo famoso entre el público en general por su papel como el Dr. Doug Ross en la serie de televisión « Urgences »."
       },
       {
         "id": 4,
-        "question": "¿En qué región vive Florent Pagny cuando no está en Francia ?",
+        "question": "¿En que región vive Florent Pagny cuando no está en Francia ?",
         "propositions": [
           "Argentina",
           "Uruguay",
           "Patagonia",
           "Chile"
         ],
-        "réponse": "Patagonia",
+        "reponse": "Patagonia",
         "anecdote": "Entre 1988 y 1991, Florent Pagny tuvo una relación sulfurosa con la cantante Vanessa Paradis, nueve años más joven."
       },
       {
         "id": 5,
-        "question": " ¿Qué cantante a quien uno une comienza haciendo la manga con St-Tropez ?",
+        "question": " ¿Que cantante a quien uno une comienza haciendo la manga con St-Tropez ?",
         "propositions": [
           "Christophe Willem",
-          "Julien Doré",
-          "Christophe Maé",
+          "Julien Dore",
+          "Christophe Mae",
           "Florent Pagny"
         ],
-        "réponse": "Christophe Maé",
-        "anecdote": "Apasionado por el tenis y el esquí, abandonó el deporte después de una poliartritis crónica que lo inmovilizó a la edad de 16 años."
+        "reponse": "Christophe Mae",
+        "anecdote": "Apasionado por el tenis y el esquí, abandonó el deporte despues de una poliartritis crónica que lo inmovilizó a la edad de 16 años."
       },
       {
         "id": 6,
-        "question": "¿Con qué otro héroe tuvo el amor perfecto Hayden Pannetiere ?",
+        "question": "¿Con que otro heroe tuvo el amor perfecto Hayden Pannetiere ?",
         "propositions": [
           "Zachary Quinto",
           "Adrian pasdar",
           "Greg Grunberg",
           "Milo Ventimiglia"
         ],
-        "réponse": "Milo Ventimiglia",
+        "reponse": "Milo Ventimiglia",
         "anecdote": "Apasionado por « Star Wars », Milo Ventimiglia sueña con convertirse en actor de la saga y hace todo lo posible para darse a sí mismo."
       },
       {
         "id": 7,
-        "question": "¿Cuál de estos actores terminó endeudado después de romper con Bar Refaeli ?",
+        "question": "¿Cuál de estos actores terminó endeudado despues de romper con Bar Refaeli ?",
         "propositions": [
           "Daniel Day-Lewis",
           "Leonardo DiCaprio",
           "Casey Affleck",
           "Colin Firth"
         ],
-        "réponse": "Leonardo DiCaprio",
-        "anecdote": "Junto con su vida en la película, Leonardo DiCaprio también es conocido por su fuerte compromiso con la ecología."
+        "reponse": "Leonardo DiCaprio",
+        "anecdote": "Junto con su vida en la película, Leonardo DiCaprio tambien es conocido por su fuerte compromiso con la ecología."
       },
       {
         "id": 8,
@@ -1236,46 +1236,46 @@
           "Alain Chabat",
           "Dominique Farrugia"
         ],
-        "réponse": "Alain Chabat",
+        "reponse": "Alain Chabat",
         "anecdote": "Habiendo vivido en Bobigny, Alain Chabat siempre ha querido convertirse en dibujante o en una carrera como cantante de rock."
       },
       {
         "id": 9,
-        "question": "¿Qué actor hizo con su padre un informe sobre los campos de refugiados en Darfur ?",
+        "question": "¿Que actor hizo con su padre un informe sobre los campos de refugiados en Darfur ?",
         "propositions": [
           "Leonardo DiCaprio",
           "Richard Gere",
           "Bruce Willis",
           "George Clooney"
         ],
-        "réponse": "George Clooney",
+        "reponse": "George Clooney",
         "anecdote": "En septiembre de 2006, George Clooney fue recibido por el Consejo de Seguridad de la ONU para detener el genocidio en Darfur."
       },
       {
         "id": 10,
-        "question": "¿Quién es el famoso padre de Rumer Glenn, Scout LaRue y Tallulah Belle ?",
+        "question": "¿Quien es el famoso padre de Rumer Glenn, Scout LaRue y Tallulah Belle ?",
         "propositions": [
           "Bruce Willis",
           "Elijah Wood",
           "Mickey Rourke",
           "Edward Norton"
         ],
-        "réponse": "Bruce Willis",
+        "reponse": "Bruce Willis",
         "anecdote": "Las películas con Bruce Willis han generado $ 3 mil millones en taquilla estadounidense y siete mil millones en todo el mundo."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "¿Qué falso millonario y verdadero maestro emborracharon a las chicas en 2003 ?",
+        "question": "¿Que falso millonario y verdadero maestro emborracharon a las chicas en 2003 ?",
         "propositions": [
           "David charvet",
           "Pascal Olmeta",
-          "Grégory Basso",
+          "Gregory Basso",
           "Henri Leconte"
         ],
-        "réponse": "Grégory Basso",
-        "anecdote": "Después de pequeños papeles y grabaciones, Grégory Basso es ahora una discoteca ubicada en el sur de Francia."
+        "reponse": "Gregory Basso",
+        "anecdote": "Despues de pequeños papeles y grabaciones, Gregory Basso es ahora una discoteca ubicada en el sur de Francia."
       },
       {
         "id": 12,
@@ -1286,32 +1286,32 @@
           "Franck Dubosc",
           "Sebastien Cauet"
         ],
-        "réponse": "Franck Dubosc",
+        "reponse": "Franck Dubosc",
         "anecdote": "Hasta la fecha, el actor Franck Dubosc tiene una taquilla total de más de cincuenta millones de entradas en Francia."
       },
       {
         "id": 13,
-        "question": "¿Qué ex campeón de tenis estadounidense estuvo casado con Brooke Shields ?",
+        "question": "¿Que ex campeón de tenis estadounidense estuvo casado con Brooke Shields ?",
         "propositions": [
           "Björn Borg",
           "Jimmy Connors",
-          "André Agassi",
+          "Andre Agassi",
           "John McEnroe"
         ],
-        "réponse": "André Agassi",
+        "reponse": "Andre Agassi",
         "anecdote": "El principal rival de Agassi durante su carrera fue Pete Sampras, a quien enfrentó en 34 ocasiones, incluyendo cinco finales de Grand Slam."
       },
       {
         "id": 14,
-        "question": "¿Qué ganador de « New Star » fue nombrado en 2007 como el hombre más sexy del año ?",
+        "question": "¿Que ganador de « New Star » fue nombrado en 2007 como el hombre más sexy del año ?",
         "propositions": [
           "Pierrick lilliu",
           "Christophe Willem",
           "Steeve Estatof",
-          "Julien Doré"
+          "Julien Dore"
         ],
-        "réponse": "Julien Doré",
-        "anecdote": "Julien Doré primero trabajó en una empresa de manipulación y jugó con su grupo Dig Up Elvis en bares de Nîmes."
+        "reponse": "Julien Dore",
+        "anecdote": "Julien Dore primero trabajó en una empresa de manipulación y jugó con su grupo Dig Up Elvis en bares de Nîmes."
       },
       {
         "id": 15,
@@ -1322,195 +1322,195 @@
           "Christoph Waltz",
           "Tim Robbins"
         ],
-        "réponse": "Heath Ledger",
+        "reponse": "Heath Ledger",
         "anecdote": "Heath Ledgerest es mejor conocido por su papel en « The Secret of Brokeback Mountain » y el de Joker en « The Dark Knight »."
       },
       {
         "id": 16,
-        "question": "¿Qué campeón de arcilla nace en la isla de Mallorca ?",
+        "question": "¿Que campeón de arcilla nace en la isla de Mallorca ?",
         "propositions": [
           "Roger Federer",
           "Rafael nadal",
           "Marcelo melo",
           "Andy Murray"
         ],
-        "réponse": "Rafael nadal",
-        "anecdote": "Al convertirse en campeón olímpico en 2008, Rafael Nadal es el segundo en lograr la carrera de Golden Grand Slam después de Agassi."
+        "reponse": "Rafael nadal",
+        "anecdote": "Al convertirse en campeón olímpico en 2008, Rafael Nadal es el segundo en lograr la carrera de Golden Grand Slam despues de Agassi."
       },
       {
         "id": 17,
-        "question": "¿Qué chico guapo hizo el crack de Scarlett Johansson, Gisele Bündchen y Rihanna ?",
+        "question": "¿Que chico guapo hizo el crack de Scarlett Johansson, Gisele Bündchen y Rihanna ?",
         "propositions": [
           "Josh Hartnett",
           "Ewan McGregor",
           "Eric Bana",
           "Tom Hardy"
         ],
-        "réponse": "Josh Hartnett",
+        "reponse": "Josh Hartnett",
         "anecdote": "Entre 2000 y 2011, Josh Hartnett tuvo varias relaciones de pareja, entre ellas Kelly Carlson y Abbie Cornish."
       },
       {
         "id": 18,
-        "question": "¿Qué animador con un look bcbg fue sentenciado a un curso de ciudadanía de 3 días ?",
+        "question": "¿Que animador con un look bcbg fue sentenciado a un curso de ciudadanía de 3 días ?",
         "propositions": [
-          "Yann Barthès",
+          "Yann Barthes",
           "Jean-Luc Delarue",
           "Thierry Beccaro",
           "Vincent Cerutti"
         ],
-        "réponse": "Jean-Luc Delarue",
-        "anecdote": "Jean-Luc Delarue se ha enfrentado a varias dificultades judiciales en su calidad de Presidente de Société Réservoir Prod."
+        "reponse": "Jean-Luc Delarue",
+        "anecdote": "Jean-Luc Delarue se ha enfrentado a varias dificultades judiciales en su calidad de Presidente de Societe Reservoir Prod."
       },
       {
         "id": 19,
-        "question": "¿Qué estadounidense-danés era un hombre de la mafia rusa para David Cronenberg ?",
+        "question": "¿Que estadounidense-danes era un hombre de la mafia rusa para David Cronenberg ?",
         "propositions": [
           "Viggo Mortensen",
           "Erik Hansen",
           "Torben Meyer",
           "Jesper klein"
         ],
-        "réponse": "Viggo Mortensen",
-        "anecdote": "Viggo Mortensen habla con fluidez inglés, español, danés y tiene buenas nociones en francés, italiano, sueco y noruego."
+        "reponse": "Viggo Mortensen",
+        "anecdote": "Viggo Mortensen habla con fluidez ingles, español, danes y tiene buenas nociones en frances, italiano, sueco y noruego."
       },
       {
         "id": 20,
-        "question": "¿Quién fue el esposo de Caroline Proust, actriz principal de la serie « Engrenages » ?",
+        "question": "¿Quien fue el esposo de Caroline Proust, actriz principal de la serie « Engrenages » ?",
         "propositions": [
           "Clovis Cornillac",
           "Benoît Magimel",
           "Philippe Lanvin",
           "Patrick Chesnais"
         ],
-        "réponse": "Clovis Cornillac",
-        "anecdote": "Desde 2009, Clovis Cornillac ha estado en una relación con el comediante francés Lilou Fogli, con quien se casó el 30 de agosto de 2013."
+        "reponse": "Clovis Cornillac",
+        "anecdote": "Desde 2009, Clovis Cornillac ha estado en una relación con el comediante frances Lilou Fogli, con quien se casó el 30 de agosto de 2013."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "¿Qué actor francés fue el compañero de Halle Berry y Kylie Minogue ?",
+        "question": "¿Que actor frances fue el compañero de Halle Berry y Kylie Minogue ?",
         "propositions": [
           "Bruno Putzulu",
           "Mathieu Kassovitz",
           "Olivier martinez",
           "Mathieu Amalric"
         ],
-        "réponse": "Olivier martinez",
+        "reponse": "Olivier martinez",
         "anecdote": "Olivier Martínez tuvo el papel de Angelo Pardi junto a Juliette Binoche en Le Hussard on the Roof de Jean-Paul Rappeneau."
       },
       {
         "id": 22,
-        "question": "¿Quién hizo Jennifer Flavin, con quien tuvo Sophia, Sistine y Scarlet ?",
+        "question": "¿Quien hizo Jennifer Flavin, con quien tuvo Sophia, Sistine y Scarlet ?",
         "propositions": [
           "Jason Statham",
           "Sylvester Stallone",
           "Eric Roberts",
           "Dolph Lundgren"
         ],
-        "réponse": "Sylvester Stallone",
-        "anecdote": "Después de la victoria de Donald Trump en 2016, propuso a Stallone como presidente del National Endowment for the Arts."
+        "reponse": "Sylvester Stallone",
+        "anecdote": "Despues de la victoria de Donald Trump en 2016, propuso a Stallone como presidente del National Endowment for the Arts."
       },
       {
         "id": 23,
-        "question": "¿Por qué el forastero Claude Chabrol dice que es el francés Al Pacino ?",
+        "question": "¿Por que el forastero Claude Chabrol dice que es el frances Al Pacino ?",
         "propositions": [
           "Daniel Auteuil",
           "Vincent Cassel",
           "Mathieu Amalric",
-          "François Cluzet"
+          "Francois Cluzet"
         ],
-        "réponse": "François Cluzet",
-        "anecdote": "Desde 2004, es patrocinador de la asociación Defeat Cystic Fibrosis con Isabelle Carré y Gérard Lenorman."
+        "reponse": "Francois Cluzet",
+        "anecdote": "Desde 2004, es patrocinador de la asociación Defeat Cystic Fibrosis con Isabelle Carre y Gerard Lenorman."
       },
       {
         "id": 24,
-        "question": "¿Qué hermoso irlandés compartió Charlize Theron en la vida desde 2002 hasta 2010 ?",
+        "question": "¿Que hermoso irlandes compartió Charlize Theron en la vida desde 2002 hasta 2010 ?",
         "propositions": [
           "Adrian Dunbar",
           "Stuart Townsend",
           "Hugh Leonard",
           "Jim Sheridan"
         ],
-        "réponse": "Stuart Townsend",
+        "reponse": "Stuart Townsend",
         "anecdote": "Stuart Townsend optó por una carrera de boxeo antes de comenzar en 1996 en la película « Trojan Eddie »."
       },
       {
         "id": 25,
-        "question": "¿De qué revista obtuvo el retiro Christophe Dechavanne el desnudo en 2006 ?",
+        "question": "¿De que revista obtuvo el retiro Christophe Dechavanne el desnudo en 2006 ?",
         "propositions": [
           "Le Figaro",
           "Choc",
           "VSD",
           "Paris Match"
         ],
-        "réponse": "Choc",
+        "reponse": "Choc",
         "anecdote": "Las fotos fueron tomadas el 2 de enero en Huvafen Fushi, un hotel de lujo en las Islas Maldivas donde el anfitrión estaba de vacaciones."
       },
       {
         "id": 26,
-        "question": "¿Qué actor británico tan sexy ha sido el embajador del perfume Lancôme Hypnôse ?",
+        "question": "¿Que actor británico tan sexy ha sido el embajador del perfume Lancôme Hypnôse ?",
         "propositions": [
           "Sean Connery",
           "Chris Hemsworth",
           "Clive Owen",
           "Michael York"
         ],
-        "réponse": "Clive Owen",
-        "anecdote": "En Francia, Julien Kramer es la voz regular francesa de Clive Owen, aunque Bernard Gabay también la ha duplicado."
+        "reponse": "Clive Owen",
+        "anecdote": "En Francia, Julien Kramer es la voz regular francesa de Clive Owen, aunque Bernard Gabay tambien la ha duplicado."
       },
       {
         "id": 27,
-        "question": "¿Qué cantante de Good Charlotte es el padre de Nicole Richie ?",
+        "question": "¿Que cantante de Good Charlotte es el padre de Nicole Richie ?",
         "propositions": [
           "Billy martin",
           "Joel Madden",
           "Paul Thomas",
           "Dean Butterworth"
         ],
-        "réponse": "Joel Madden",
-        "anecdote": "Durante un concierto de los Beastie Boys de la década de 1990, fue el clic de los gemelos quienes decidieron dedicarse a la música."
+        "reponse": "Joel Madden",
+        "anecdote": "Durante un concierto de los Beastie Boys de la decada de 1990, fue el clic de los gemelos quienes decidieron dedicarse a la música."
       },
       {
         "id": 28,
-        "question": "¿Quién arriesgó ser arrestado por besarse en la India y en la actriz pública Shilpa Shetty ?",
+        "question": "¿Quien arriesgó ser arrestado por besarse en la India y en la actriz pública Shilpa Shetty ?",
         "propositions": [
           "Johnny depp",
           "Colin Farrell",
           "Richard Gere",
           "Joaquin Phoenix"
         ],
-        "réponse": "Richard Gere",
+        "reponse": "Richard Gere",
         "anecdote": "Richard Gere está utilizando su notoriedad como actor para promover su ayuda entre los tibetanos oprimidos por el gobierno chino."
       },
       {
         "id": 29,
-        "question": "¿Qué jugador de fútbol fue apodado Petit Bison por Emmanuel Petit ?",
+        "question": "¿Que jugador de fútbol fue apodado Petit Bison por Emmanuel Petit ?",
         "propositions": [
           "Laurent Blanc",
           "Bixente Lizarazu",
           "Thierry Henry",
           "Christophe Dugarry"
         ],
-        "réponse": "Bixente Lizarazu",
+        "reponse": "Bixente Lizarazu",
         "anecdote": "Formado en su País Vasco natal, Bixente Lizarazu se unió a los Girondins de Bordeaux donde comenzó como profesional."
       },
       {
         "id": 30,
-        "question": "¿Con qué símbolo sexual de los años 70 está casada la actriz Kelly Preston ?",
+        "question": "¿Con que símbolo sexual de los años 70 está casada la actriz Kelly Preston ?",
         "propositions": [
           "John Travolta",
           "Hugh Jackman",
           "Kevin Costner",
           "Ryan Gosling"
         ],
-        "réponse": "John Travolta",
+        "reponse": "John Travolta",
         "anecdote": "John Travolta, que vive en Ocala, Florida, es un miembro activo de Scientology, al igual que su colega Tom Cruise."
       }
     ]
     },
     "it": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Con quale ex cantante dei NSYNC, Cameron Diaz, ha vissuto fino al 2007 ?",
@@ -1520,7 +1520,7 @@
           "Justin Timberlake",
           "Lance Bass"
         ],
-        "réponse": "Justin Timberlake",
+        "reponse": "Justin Timberlake",
         "anecdote": "In un'intervista, Justin Timberlake ha dichiarato di soffrire di disturbo ossessivo-compulsivo (OCD) misto a mancanza di attenzione."
       },
       {
@@ -1532,7 +1532,7 @@
           "Christian Bale",
           "Tobey Maguire"
         ],
-        "réponse": "Tobey Maguire",
+        "reponse": "Tobey Maguire",
         "anecdote": "Nell'ottobre 2016, viene annunciato che Tobey Maguire e Jennifer Meyer, genitori di due figli, divorziano dopo 9 anni di matrimonio."
       },
       {
@@ -1544,31 +1544,31 @@
           "Matt Damon",
           "George Clooney"
         ],
-        "réponse": "George Clooney",
+        "reponse": "George Clooney",
         "anecdote": "George Clooney divenne famoso al grande pubblico per il suo ruolo come Dr. Doug Ross nella serie televisiva « Urgences »."
       },
       {
         "id": 4,
-        "question": "In quale regione vive Florent Pagny quando non è in Francia ?",
+        "question": "In quale regione vive Florent Pagny quando non e in Francia ?",
         "propositions": [
           "Argentina",
           "Patagonia",
           "Cile",
           "Uruguay"
         ],
-        "réponse": "Patagonia",
-        "anecdote": "Tra il 1988 e il 1991, Florent Pagny ebbe una relazione solforosa con la cantante Vanessa Paradis, di nove anni più giovane."
+        "reponse": "Patagonia",
+        "anecdote": "Tra il 1988 e il 1991, Florent Pagny ebbe una relazione solforosa con la cantante Vanessa Paradis, di nove anni piu giovane."
       },
       {
         "id": 5,
         "question": "Quale cantante a cui si allega un attaccante ha iniziato facendo la manica con St-Tropez ?",
         "propositions": [
           "Christophe Willem",
-          "Julien Doré",
-          "Christophe Maé",
+          "Julien Dore",
+          "Christophe Mae",
           "Florent Pagny"
         ],
-        "réponse": "Christophe Maé",
+        "reponse": "Christophe Mae",
         "anecdote": "Appassionato di tennis e sci, ha rinunciato allo sport dopo una poliartrite cronica che lo ha immobilizzato all'età di 16 anni."
       },
       {
@@ -1580,7 +1580,7 @@
           "Greg Grunberg",
           "Zachary Quinto"
         ],
-        "réponse": "Milo Ventimiglia",
+        "reponse": "Milo Ventimiglia",
         "anecdote": "Appassionata di « Star Wars », Milo Ventimiglia sogna di diventare un attore della saga e fa tutto il possibile per darsi i mezzi."
       },
       {
@@ -1592,8 +1592,8 @@
           "Colin Firth",
           "Leonardo DiCaprio"
         ],
-        "réponse": "Leonardo DiCaprio",
-        "anecdote": "Insieme alla sua vita nel film, Leonardo DiCaprio è anche noto per il suo forte impegno per l'ecologia."
+        "reponse": "Leonardo DiCaprio",
+        "anecdote": "Insieme alla sua vita nel film, Leonardo DiCaprio e anche noto per il suo forte impegno per l'ecologia."
       },
       {
         "id": 8,
@@ -1604,7 +1604,7 @@
           "Alain Chabat",
           "Bruno Carette"
         ],
-        "réponse": "Alain Chabat",
+        "reponse": "Alain Chabat",
         "anecdote": "Avendo vissuto a Bobigny, Alain Chabat ha sempre desiderato diventare un fumettista o una carriera come cantante rock."
       },
       {
@@ -1616,23 +1616,23 @@
           "Bruce Willis",
           "George Clooney"
         ],
-        "réponse": "George Clooney",
-        "anecdote": "Nel settembre 2006, George Clooney è stato ricevuto dal Consiglio di sicurezza dell'ONU per fermare il genocidio in Darfur."
+        "reponse": "George Clooney",
+        "anecdote": "Nel settembre 2006, George Clooney e stato ricevuto dal Consiglio di sicurezza dell'ONU per fermare il genocidio in Darfur."
       },
       {
         "id": 10,
-        "question": "Chi è il famoso papà di Rumer Glenn, Scout LaRue e Tallulah Belle ?",
+        "question": "Chi e il famoso papà di Rumer Glenn, Scout LaRue e Tallulah Belle ?",
         "propositions": [
           "Bruce Willis",
           "Edward Norton",
           "Elijah Wood",
           "Mickey Rourke"
         ],
-        "réponse": "Bruce Willis",
+        "reponse": "Bruce Willis",
         "anecdote": "I film con Bruce Willis hanno fruttato $ 3 miliardi nel botteghino americano e sette miliardi in tutto il mondo."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Che finto milionario e vero maestro hanno fatto ubriacare le ragazze nel 2003 ?",
@@ -1640,21 +1640,21 @@
           "David Charvet",
           "Pascal Olmeta",
           "Henri Leconte",
-          "Grégory Basso"
+          "Gregory Basso"
         ],
-        "réponse": "Grégory Basso",
-        "anecdote": "Dopo piccoli ruoli e registrazioni, Grégory Basso è ora una discoteca situata nel sud della Francia."
+        "reponse": "Gregory Basso",
+        "anecdote": "Dopo piccoli ruoli e registrazioni, Gregory Basso e ora una discoteca situata nel sud della Francia."
       },
       {
         "id": 12,
-        "question": "Che comico ha detto: « Ingannare una donna non è ingannare, è paragonare » ?",
+        "question": "Che comico ha detto: « Ingannare una donna non e ingannare, e paragonare » ?",
         "propositions": [
           "Sebastien Cauet",
           "Laurent Gerra",
           "Franck Dubosc",
           "Albert Dupontel"
         ],
-        "réponse": "Franck Dubosc",
+        "reponse": "Franck Dubosc",
         "anecdote": "Ad oggi, l'attore Franck Dubosc ha un botteghino totale di oltre cinquanta milioni di entrate in Francia."
       },
       {
@@ -1663,47 +1663,47 @@
         "propositions": [
           "Björn Borg",
           "John McEnroe",
-          "André Agassi",
+          "Andre Agassi",
           "Jimmy Connors"
         ],
-        "réponse": "André Agassi",
-        "anecdote": "Il principale rivale di Agassi durante la sua carriera è stato Pete Sampras, che ha affrontato in 34 occasioni, tra cui cinque finali del Grande Slam."
+        "reponse": "Andre Agassi",
+        "anecdote": "Il principale rivale di Agassi durante la sua carriera e stato Pete Sampras, che ha affrontato in 34 occasioni, tra cui cinque finali del Grande Slam."
       },
       {
         "id": 14,
-        "question": "Quale vincitore di « New Star » è stato nominato nel 2007 l'uomo più sexy dell'anno ?",
+        "question": "Quale vincitore di « New Star » e stato nominato nel 2007 l'uomo piu sexy dell'anno ?",
         "propositions": [
           "Steeve Estatof",
           "Pierrick Lilliu",
           "Christophe Willem",
-          "Julien Doré"
+          "Julien Dore"
         ],
-        "réponse": "Julien Doré",
-        "anecdote": "Julien Doré ha lavorato per la prima volta in una società di movimentazione e ha suonato con il suo gruppo Dig Up Elvis nei bar di Nîmes."
+        "reponse": "Julien Dore",
+        "anecdote": "Julien Dore ha lavorato per la prima volta in una società di movimentazione e ha suonato con il suo gruppo Dig Up Elvis nei bar di Nîmes."
       },
       {
         "id": 15,
-        "question": "Quale ex Michelle Williams è il sexy Joker del film « The Dark Knight » ?",
+        "question": "Quale ex Michelle Williams e il sexy Joker del film « The Dark Knight » ?",
         "propositions": [
           "Heath Ledger",
           "Christoph Waltz",
           "Tim Robbins",
           "Javier Bardem"
         ],
-        "réponse": "Heath Ledger",
-        "anecdote": "Heath Ledgerest è meglio conosciuto per il suo ruolo in « The Secret of Brokeback Mountain » e quello del Joker in « The Dark Knight »."
+        "reponse": "Heath Ledger",
+        "anecdote": "Heath Ledgerest e meglio conosciuto per il suo ruolo in « The Secret of Brokeback Mountain » e quello del Joker in « The Dark Knight »."
       },
       {
         "id": 16,
-        "question": "Quale campione di argilla è nato sull'isola di Maiorca ?",
+        "question": "Quale campione di argilla e nato sull'isola di Maiorca ?",
         "propositions": [
           "Roger Federer",
           "Andy Murray",
           "Marcelo Melo",
           "Rafael Nadal"
         ],
-        "réponse": "Rafael Nadal",
-        "anecdote": "Nel diventare campione olimpico nel 2008, Rafael Nadal è il secondo a conquistare la carriera del Golden Grand Slam dopo Agassi."
+        "reponse": "Rafael Nadal",
+        "anecdote": "Nel diventare campione olimpico nel 2008, Rafael Nadal e il secondo a conquistare la carriera del Golden Grand Slam dopo Agassi."
       },
       {
         "id": 17,
@@ -1714,20 +1714,20 @@
           "Tom Hardy",
           "Josh Hartnett"
         ],
-        "réponse": "Josh Hartnett",
+        "reponse": "Josh Hartnett",
         "anecdote": "Tra il 2000 e il 2011, Josh Hartnett ha avuto diversi rapporti, tra cui Kelly Carlson e Abbie Cornish."
       },
       {
         "id": 18,
-        "question": "Quale animatore con un aspetto bcbg è stato condannato a un corso di cittadinanza di 3 giorni ?",
+        "question": "Quale animatore con un aspetto bcbg e stato condannato a un corso di cittadinanza di 3 giorni ?",
         "propositions": [
           "Jean-Luc Delarue",
           "Thierry Beccaro",
-          "Yann Barthès",
+          "Yann Barthes",
           "Vincent Cerutti"
         ],
-        "réponse": "Jean-Luc Delarue",
-        "anecdote": "Jean-Luc Delarue ha dovuto affrontare varie difficoltà giudiziarie nella sua qualità di Presidente della Société Réservoir Prod."
+        "reponse": "Jean-Luc Delarue",
+        "anecdote": "Jean-Luc Delarue ha dovuto affrontare varie difficoltà giudiziarie nella sua qualità di Presidente della Societe Reservoir Prod."
       },
       {
         "id": 19,
@@ -1738,7 +1738,7 @@
           "Jesper Klein",
           "Viggo Mortensen"
         ],
-        "réponse": "Viggo Mortensen",
+        "reponse": "Viggo Mortensen",
         "anecdote": "Viggo Mortensen parla correntemente inglese, spagnolo, danese e ha buone nozioni in francese, italiano, svedese e norvegese."
       },
       {
@@ -1750,7 +1750,7 @@
           "Clovis Cornillac",
           "Benoît Magimel"
         ],
-        "réponse": "Clovis Cornillac",
+        "reponse": "Clovis Cornillac",
         "anecdote": "Dal 2009, Clovis Cornillac ha avuto una relazione con il comico francese Lilou Fogli, che ha sposato il 30 agosto 2013."
       }
     ],
@@ -1764,7 +1764,7 @@
           "Bruno Putzulu",
           "Mathieu Kassovitz"
         ],
-        "réponse": "Olivier Martinez",
+        "reponse": "Olivier Martinez",
         "anecdote": "Olivier Martinez ha interpretato il ruolo di Angelo Pardi accanto a Juliette Binoche in Le Hussard on the Roof di Jean-Paul Rappeneau."
       },
       {
@@ -1776,7 +1776,7 @@
           "Dolph Lundgren",
           "Jason Statham"
         ],
-        "réponse": "Sylvester Stallone",
+        "reponse": "Sylvester Stallone",
         "anecdote": "Dopo la vittoria di Donald Trump nel 2016, ha proposto Stallone come presidente del National Endowment for the Arts."
       },
       {
@@ -1786,10 +1786,10 @@
           "Daniel Auteuil",
           "Mathieu Amalric",
           "Vincent Cassel",
-          "François Cluzet"
+          "Francois Cluzet"
         ],
-        "réponse": "François Cluzet",
-        "anecdote": "Dal 2004 è sponsor dell'Associazione Defeat Cystic Fibrosis con Isabelle Carré e Gérard Lenorman."
+        "reponse": "Francois Cluzet",
+        "anecdote": "Dal 2004 e sponsor dell'Associazione Defeat Cystic Fibrosis con Isabelle Carre e Gerard Lenorman."
       },
       {
         "id": 24,
@@ -1800,7 +1800,7 @@
           "Stuart Townsend",
           "Hugh Leonard"
         ],
-        "réponse": "Stuart Townsend",
+        "reponse": "Stuart Townsend",
         "anecdote": "Stuart Townsend ha optato per la carriera di pugile prima di iniziare nel 1996 nel film « Trojan Eddie »."
       },
       {
@@ -1812,32 +1812,32 @@
           "VSD",
           "Choc"
         ],
-        "réponse": "Choc",
+        "reponse": "Choc",
         "anecdote": "Le foto sono state scattate il 2 gennaio a Huvafen Fushi, un hotel di lusso nelle isole Maldive dove l'ospite era in vacanza."
       },
       {
         "id": 26,
-        "question": "Quale attore inglese molto sexy è stato l'ambasciatore del profumo di Lancôme Hypnôse ?",
+        "question": "Quale attore inglese molto sexy e stato l'ambasciatore del profumo di Lancôme Hypnôse ?",
         "propositions": [
           "Michael York",
           "Sean Connery",
           "Chris Hemsworth",
           "Clive Owen"
         ],
-        "réponse": "Clive Owen",
-        "anecdote": "In Francia, Julien Kramer è la voce francese regolare di Clive Owen, anche se Bernard Gabay lo ha anche raddoppiato."
+        "reponse": "Clive Owen",
+        "anecdote": "In Francia, Julien Kramer e la voce francese regolare di Clive Owen, anche se Bernard Gabay lo ha anche raddoppiato."
       },
       {
         "id": 27,
-        "question": "Quale cantante di Good Charlotte è il padre di Nicole Richie ?",
+        "question": "Quale cantante di Good Charlotte e il padre di Nicole Richie ?",
         "propositions": [
           "Joel Madden",
           "Dean Butterworth",
           "Billy Martin",
           "Paul Thomas"
         ],
-        "réponse": "Joel Madden",
-        "anecdote": "Durante un concerto dei Beastie Boys degli anni '90, è stato il clic per i gemelli che hanno deciso di dedicarsi alla musica."
+        "reponse": "Joel Madden",
+        "anecdote": "Durante un concerto dei Beastie Boys degli anni '90, e stato il clic per i gemelli che hanno deciso di dedicarsi alla musica."
       },
       {
         "id": 28,
@@ -1848,37 +1848,37 @@
           "Colin Farrell",
           "Richard Gere"
         ],
-        "réponse": "Richard Gere",
+        "reponse": "Richard Gere",
         "anecdote": "Richard Gere sta usando la sua notorietà come attore per promuovere il suo aiuto al popolo tibetano oppresso dal governo cinese."
       },
       {
         "id": 29,
-        "question": "Quale calciatore è stato soprannominato Petit Bison da Emmanuel Petit ?",
+        "question": "Quale calciatore e stato soprannominato Petit Bison da Emmanuel Petit ?",
         "propositions": [
           "Laurent Blanc",
           "Bixente Lizarazu",
           "Thierry Henry",
           "Christophe Dugarry"
         ],
-        "réponse": "Bixente Lizarazu",
-        "anecdote": "Formata nel suo Paese di origine, la Bixente Lizarazu è entrata a far parte dei Girondini di Bordeaux, dove ha iniziato come professionista."
+        "reponse": "Bixente Lizarazu",
+        "anecdote": "Formata nel suo Paese di origine, la Bixente Lizarazu e entrata a far parte dei Girondini di Bordeaux, dove ha iniziato come professionista."
       },
       {
         "id": 30,
-        "question": "A quale sex symbol degli anni '70 è sposata l'attrice Kelly Preston ?",
+        "question": "A quale sex symbol degli anni '70 e sposata l'attrice Kelly Preston ?",
         "propositions": [
           "John Travolta",
           "Hugh Jackman",
           "Ryan Gosling",
           "Kevin Costner"
         ],
-        "réponse": "John Travolta",
-        "anecdote": "John Travolta, che vive a Ocala, in Florida, è un membro attivo di Scientology, così come il suo collega Tom Cruise."
+        "reponse": "John Travolta",
+        "anecdote": "John Travolta, che vive a Ocala, in Florida, e un membro attivo di Scientology, così come il suo collega Tom Cruise."
       }
     ]
     },
     "nl": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Met welke voormalige NSYNC-zanger Cameron Diaz leefde ze tot 2007 ?",
@@ -1888,7 +1888,7 @@
           "Chris Kirkpatrick",
           "Joey Fatone"
         ],
-        "réponse": "Justin Timberlake",
+        "reponse": "Justin Timberlake",
         "anecdote": "In een interview zei Justin Timberlake dat hij leed aan een obsessief-compulsieve stoornis (OCD), vermengd met een gebrek aan aandacht."
       },
       {
@@ -1900,7 +1900,7 @@
           "Sam Worthington",
           "Tobey Maguire"
         ],
-        "réponse": "Tobey Maguire",
+        "reponse": "Tobey Maguire",
         "anecdote": "In oktober 2016 wordt aangekondigd dat Tobey Maguire en Jennifer Meyer, ouders van twee kinderen, na 9 jaar huwelijk scheiden."
       },
       {
@@ -1912,7 +1912,7 @@
           "George Clooney",
           "Matt Damon"
         ],
-        "réponse": "George Clooney",
+        "reponse": "George Clooney",
         "anecdote": "George Clooney werd beroemd voor het grote publiek vanwege zijn rol als Dr. Doug Ross in de televisieserie « Urgences »."
       },
       {
@@ -1920,24 +1920,24 @@
         "question": "In welke regio woont Florent Pagny als hij niet in Frankrijk is ?",
         "propositions": [
           "Chili",
-          "Patagonië",
+          "Patagonia",
           "Uruguay",
-          "Argentinië"
+          "Argentinia"
         ],
-        "réponse": "Patagonië",
+        "reponse": "Patagonia",
         "anecdote": "Tussen 1988 en 1991 had Florent Pagny een zwoele relatie met zanger Vanessa Paradis, negen jaar jonger."
       },
       {
         "id": 5,
         "question": "Welke zanger aan wie men hecht begon met het maken van de hoes met St-Tropez ?",
         "propositions": [
-          "Julien Doré",
-          "Christophe Maé",
+          "Julien Dore",
+          "Christophe Mae",
           "Florent Pagny",
           "Christophe Willem"
         ],
-        "réponse": "Christophe Maé",
-        "anecdote": "Gepassioneerd over tennis en skiën, gaf hij de sport op na een chronische polyartritis die hem op 16-jarige leeftijd immobiliseerde."
+        "reponse": "Christophe Mae",
+        "anecdote": "Gepassioneerd over tennis en skian, gaf hij de sport op na een chronische polyartritis die hem op 16-jarige leeftijd immobiliseerde."
       },
       {
         "id": 6,
@@ -1948,7 +1948,7 @@
           "Adrian Pasdar",
           "Zachary Quinto"
         ],
-        "réponse": "Milo Ventimiglia",
+        "reponse": "Milo Ventimiglia",
         "anecdote": "Gepassioneerd over « Star Wars », droomt Milo Ventimiglia ervan een acteur te worden in de sage en doet hij er alles aan om zichzelf de middelen te geven."
       },
       {
@@ -1960,7 +1960,7 @@
           "Leonardo DiCaprio",
           "Colin Firth"
         ],
-        "réponse": "Leonardo DiCaprio",
+        "reponse": "Leonardo DiCaprio",
         "anecdote": "Samen met zijn leven in de film staat Leonardo DiCaprio ook bekend om zijn sterke betrokkenheid bij ecologie."
       },
       {
@@ -1972,8 +1972,8 @@
           "Bruno Carette",
           "Dominique Farrugia"
         ],
-        "réponse": "Alain Chabat",
-        "anecdote": "Alain Chabat heeft in Bobigny gewoond en wil al heel lang een cartoonist of een carrière als rockzanger worden."
+        "reponse": "Alain Chabat",
+        "anecdote": "Alain Chabat heeft in Bobigny gewoond en wil al heel lang een cartoonist of een carriere als rockzanger worden."
       },
       {
         "id": 9,
@@ -1984,7 +1984,7 @@
           "Richard Gere",
           "George Clooney"
         ],
-        "réponse": "George Clooney",
+        "reponse": "George Clooney",
         "anecdote": "In september 2006 werd George Clooney door de VN-Veiligheidsraad ontvangen om de genocide in Darfur te stoppen."
       },
       {
@@ -1996,11 +1996,11 @@
           "Elijah Wood",
           "Mickey Rourke"
         ],
-        "réponse": "Bruce Willis",
+        "reponse": "Bruce Willis",
         "anecdote": "De films met Bruce Willis hebben $ 3 miljard dollar in de Amerikaanse kassa en zeven miljard wereldwijd gebracht."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Welke nep-miljonair en echte maestro hebben meisjes in 2003 gedronken ?",
@@ -2008,10 +2008,10 @@
           "David Charvet",
           "Henri Leconte",
           "Pascal Olmeta",
-          "Grégory Basso"
+          "Gregory Basso"
         ],
-        "réponse": "Grégory Basso",
-        "anecdote": "Na kleine rollen en opnames is Gréghory Basso nu een discotheek in het zuiden van Frankrijk."
+        "reponse": "Gregory Basso",
+        "anecdote": "Na kleine rollen en opnames is Greghory Basso nu een discotheek in het zuiden van Frankrijk."
       },
       {
         "id": 12,
@@ -2022,7 +2022,7 @@
           "Albert Dupontel",
           "Franck Dubosc"
         ],
-        "réponse": "Franck Dubosc",
+        "reponse": "Franck Dubosc",
         "anecdote": "Tot op heden heeft de acteur Franck Dubosc een totale box office van meer dan vijftig miljoen inzendingen in Frankrijk."
       },
       {
@@ -2032,22 +2032,22 @@
           "John McEnroe",
           "Jimmy Connors",
           "Björn Borg",
-          "André Agassi"
+          "Andre Agassi"
         ],
-        "réponse": "André Agassi",
-        "anecdote": "Agassi's belangrijkste rivaal tijdens zijn carrière was Pete Sampras, met wie hij te maken kreeg tijdens 34 gelegenheden waaronder vijf Grand Slam-finales."
+        "reponse": "Andre Agassi",
+        "anecdote": "Agassi's belangrijkste rivaal tijdens zijn carriere was Pete Sampras, met wie hij te maken kreeg tijdens 34 gelegenheden waaronder vijf Grand Slam-finales."
       },
       {
         "id": 14,
         "question": "Welke « New Star » winnaar werd in 2007 uitgeroepen tot de meest sexy man van het jaar ?",
         "propositions": [
-          "Julien Doré",
+          "Julien Dore",
           "Steeve Estatof",
           "Pierrick Lilliu",
           "Christophe Willem"
         ],
-        "réponse": "Julien Doré",
-        "anecdote": "Julien Doré werkte eerst in een afhandelingsbedrijf en speelde met zijn groep Dig Up Elvis in bars van Nîmes."
+        "reponse": "Julien Dore",
+        "anecdote": "Julien Dore werkte eerst in een afhandelingsbedrijf en speelde met zijn groep Dig Up Elvis in bars van Nîmes."
       },
       {
         "id": 15,
@@ -2058,7 +2058,7 @@
           "Christoph Waltz",
           "Tim Robbins"
         ],
-        "réponse": "Heath Ledger",
+        "reponse": "Heath Ledger",
         "anecdote": "Heath Ledgerest is vooral bekend vanwege zijn rol in « The Secret of Brokeback Mountain » en die van de Joker in « The Dark Knight »."
       },
       {
@@ -2070,8 +2070,8 @@
           "Roger Federer",
           "Marcelo Melo"
         ],
-        "réponse": "Rafael Nadal",
-        "anecdote": "Nadat hij in 2008 olympisch kampioen werd, is Rafael Nadal de tweede om de Golden Grand Slam-carrière na Agassi te behalen."
+        "reponse": "Rafael Nadal",
+        "anecdote": "Nadat hij in 2008 olympisch kampioen werd, is Rafael Nadal de tweede om de Golden Grand Slam-carriere na Agassi te behalen."
       },
       {
         "id": 17,
@@ -2082,7 +2082,7 @@
           "Tom Hardy",
           "Eric Bana"
         ],
-        "réponse": "Josh Hartnett",
+        "reponse": "Josh Hartnett",
         "anecdote": "Tussen 2000 en 2011 had Josh Hartnett verschillende datingrelaties, waaronder Kelly Carlson en Abbie Cornish."
       },
       {
@@ -2090,12 +2090,12 @@
         "question": "Welke animator met een bcbg-look werd veroordeeld tot een driedaagse burgerschapscursus ?",
         "propositions": [
           "Jean-Luc Delarue",
-          "Yann Barthès",
+          "Yann Barthes",
           "Vincent Cerutti",
           "Thierry Beccaro"
         ],
-        "réponse": "Jean-Luc Delarue",
-        "anecdote": "Jean-Luc Delarue werd geconfronteerd met verschillende juridische problemen in zijn hoedanigheid van president van Société Réservoir Prod."
+        "reponse": "Jean-Luc Delarue",
+        "anecdote": "Jean-Luc Delarue werd geconfronteerd met verschillende juridische problemen in zijn hoedanigheid van president van Societe Reservoir Prod."
       },
       {
         "id": 19,
@@ -2106,8 +2106,8 @@
           "Jesper Klein",
           "Erik Hansen"
         ],
-        "réponse": "Viggo Mortensen",
-        "anecdote": "Viggo Mortensen spreekt vloeiend Engels, Spaans, Deens en heeft goede ideeën in het Frans, Italiaans, Zweeds en Noors."
+        "reponse": "Viggo Mortensen",
+        "anecdote": "Viggo Mortensen spreekt vloeiend Engels, Spaans, Deens en heeft goede ideean in het Frans, Italiaans, Zweeds en Noors."
       },
       {
         "id": 20,
@@ -2118,7 +2118,7 @@
           "Clovis Cornillac",
           "Patrick Chesnais"
         ],
-        "réponse": "Clovis Cornillac",
+        "reponse": "Clovis Cornillac",
         "anecdote": "Sinds 2009 heeft Clovis Cornillac een relatie met de Franse komiek Lilou Fogli, met wie hij op 30 augustus 2013 trouwde."
       }
     ],
@@ -2132,7 +2132,7 @@
           "Mathieu Kassovitz",
           "Mathieu Amalric"
         ],
-        "réponse": "Olivier Martinez",
+        "reponse": "Olivier Martinez",
         "anecdote": "Olivier Martinez bekleedde de rol van Angelo Pardi naast Juliette Binoche in Le Hussard on the Roof van Jean-Paul Rappeneau."
       },
       {
@@ -2144,7 +2144,7 @@
           "Jason Statham",
           "Sylvester Stallone"
         ],
-        "réponse": "Sylvester Stallone",
+        "reponse": "Sylvester Stallone",
         "anecdote": "Na de overwinning van Donald Trump in 2016, stelde hij Stallone voor als voorzitter van de National Endowment for the Arts."
       },
       {
@@ -2152,12 +2152,12 @@
         "question": "Van welke buitenstaander Claude Chabrol zegt hij dat hij de Franse Al Pacino is ?",
         "propositions": [
           "Mathieu Amalric",
-          "François Cluzet",
+          "Francois Cluzet",
           "Daniel Auteuil",
           "Vincent Cassel"
         ],
-        "réponse": "François Cluzet",
-        "anecdote": "Sinds 2004 is hij de sponsor van de vereniging Defeat Cystic Fibrosis met Isabelle Carré en Gérard Lenorman."
+        "reponse": "Francois Cluzet",
+        "anecdote": "Sinds 2004 is hij de sponsor van de vereniging Defeat Cystic Fibrosis met Isabelle Carre en Gerard Lenorman."
       },
       {
         "id": 24,
@@ -2168,8 +2168,8 @@
           "Stuart Townsend",
           "Jim Sheridan"
         ],
-        "réponse": "Stuart Townsend",
-        "anecdote": "Stuart Townsend koos eerst voor een bokscarrière voordat hij in 1996 begon met de film in de film « Trojan Eddie »."
+        "reponse": "Stuart Townsend",
+        "anecdote": "Stuart Townsend koos eerst voor een bokscarriere voordat hij in 1996 begon met de film in de film « Trojan Eddie »."
       },
       {
         "id": 25,
@@ -2180,7 +2180,7 @@
           "Paris Match",
           "VSD"
         ],
-        "réponse": "Choc",
+        "reponse": "Choc",
         "anecdote": "De foto's zijn genomen op 2 januari in Huvafen Fushi, een luxe hotel op de Malediven eilanden waar de gastheer op vakantie was."
       },
       {
@@ -2192,7 +2192,7 @@
           "Sean Connery",
           "Chris Hemsworth"
         ],
-        "réponse": "Clive Owen",
+        "reponse": "Clive Owen",
         "anecdote": "In Frankrijk is Julien Kramer de reguliere Franse stem van Clive Owen, hoewel Bernard Gabay die ook heeft verdubbeld."
       },
       {
@@ -2204,7 +2204,7 @@
           "Paul Thomas",
           "Billy Martin"
         ],
-        "réponse": "Joel Madden",
+        "reponse": "Joel Madden",
         "anecdote": "Tijdens een concert van de Beastie Boys uit de jaren negentig, was het de klik voor de tweeling die besloot om zich aan muziek te wijden."
       },
       {
@@ -2216,7 +2216,7 @@
           "Joaquin Phoenix",
           "Johnny Depp"
         ],
-        "réponse": "Richard Gere",
+        "reponse": "Richard Gere",
         "anecdote": "Richard Gere gebruikt zijn bekendheid als acteur om zijn hulp aan het Tibetaanse volk, onderdrukt door de Chinese overheid, te promoten."
       },
       {
@@ -2228,7 +2228,7 @@
           "Christophe Dugarry",
           "Thierry Henry"
         ],
-        "réponse": "Bixente Lizarazu",
+        "reponse": "Bixente Lizarazu",
         "anecdote": "Gevormd in zijn geboorteland Baskenland, is Bixente Lizarazu toegetreden tot de Girondins de Bordeaux, waar hij begon als een professional."
       },
       {
@@ -2240,7 +2240,7 @@
           "Hugh Jackman",
           "Ryan Gosling"
         ],
-        "réponse": "John Travolta",
+        "reponse": "John Travolta",
         "anecdote": "John Travolta, woonachtig in Ocala, Florida, is een actief lid van Scientology, net als zijn collega Tom Cruise."
       }
     ]

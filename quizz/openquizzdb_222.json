@@ -1,412 +1,412 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "3 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
+      "categorie": "Celebrites",
       "nom": "People : mai 2018",
-      "slogan": "Ils ont fait l'actualité"
+      "slogan": "Ils ont fait l'actualite"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "People: May 2018",
       "slogan": "They made the news"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Personas: mayo de 2018",
       "slogan": "Fueron noticia"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Persone: maggio 2018",
       "slogan": "Hanno fatto notizia"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Personen: Mai 2018",
       "slogan": "Sie machten die Nachrichten"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Mensen: mei 2018",
       "slogan": "Ze haalden het nieuws"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Quelle grande artiste belge de la chanson nous a brutalement quitté en mai 2018 ?",
+        "question": "Quelle grande artiste belge de la chanson nous a brutalement quitte en mai 2018 ?",
         "propositions": [
-          "Mélanie Cohl",
+          "Melanie Cohl",
           "Jo Lemaire",
           "Maurane",
           "Vikor Lazlo"
         ],
-        "réponse": "Maurane",
-        "anecdote": "Maurane a été retrouvée morte chez elle à Schaerbeek, près de Bruxelles. La veille, elle chantait au Festival de l'Iris dans la capitale."
+        "reponse": "Maurane",
+        "anecdote": "Maurane a ete retrouvee morte chez elle à Schaerbeek, pres de Bruxelles. La veille, elle chantait au Festival de l'Iris dans la capitale."
       },
       {
         "id": 2,
-        "question": "Qui lève le voile dans son livre confession intitulé « Puisque tout passe » ?",
+        "question": "Qui leve le voile dans son livre confession intitule « Puisque tout passe » ?",
         "propositions": [
           "Claire Chazal",
           "Florence Schaal",
           "Anne-Sophie Lapix",
           "Laurence Ferrari"
         ],
-        "réponse": "Claire Chazal",
-        "anecdote": "Claire Chazal s'astreint quotidiennement à une longue séance de danse classique qui lui sculpte le corps et calme son esprit."
+        "reponse": "Claire Chazal",
+        "anecdote": "Claire Chazal s'astreint quotidiennement à une longue seance de danse classique qui lui sculpte le corps et calme son esprit."
       },
       {
         "id": 3,
-        "question": "Quelle jeune artiste fut la première fille à remporter « The Voice » France ?",
+        "question": "Quelle jeune artiste fut la premiere fille à remporter « The Voice » France ?",
         "propositions": [
-          "Maëlle",
+          "Maalle",
           "Lucyl",
           "Yasmine",
           "Amandine"
         ],
-        "réponse": "Maëlle",
-        "anecdote": "Cette septième édition aura connu l'affaire Mennel, l'élimination de Gulaan, la révélation des quatre finalistes et l'hommage à Maurane."
+        "reponse": "Maalle",
+        "anecdote": "Cette septieme edition aura connu l'affaire Mennel, l'elimination de Gulaan, la revelation des quatre finalistes et l'hommage à Maurane."
       },
       {
         "id": 4,
-        "question": "Qui a fini sa montée des marches pieds nus à Cannes en 2018 ?",
+        "question": "Qui a fini sa montee des marches pieds nus à Cannes en 2018 ?",
         "propositions": [
           "Eliza Bennett",
           "Lily Collins",
           "Judith Chemla",
           "Kristen Stewart"
         ],
-        "réponse": "Kristen Stewart",
-        "anecdote": "Un geste qui n'est pas sans rappeler qu'en 2016, l'actrice révélée par « Twillight » avait posé pieds nus lors du photocall de Café Society."
+        "reponse": "Kristen Stewart",
+        "anecdote": "Un geste qui n'est pas sans rappeler qu'en 2016, l'actrice revelee par « Twillight » avait pose pieds nus lors du photocall de Cafe Society."
       },
       {
         "id": 5,
-        "question": "Quelle maman des Miss France attendait son troisième enfant en mai 2018 ?",
+        "question": "Quelle maman des Miss France attendait son troisieme enfant en mai 2018 ?",
         "propositions": [
           "Mareva Galanter",
           "Isabelle Benard",
           "Flora Coquerel",
           "Sylvie Tellier"
         ],
-        "réponse": "Sylvie Tellier",
-        "anecdote": "Elle est déjà maman d'un petit Oscar de 8 ans (avec Camille Le Maux) et d'une petite Margaux de 4 ans (avec son mari Laurent)."
+        "reponse": "Sylvie Tellier",
+        "anecdote": "Elle est dejà maman d'un petit Oscar de 8 ans (avec Camille Le Maux) et d'une petite Margaux de 4 ans (avec son mari Laurent)."
       },
       {
         "id": 6,
-        "question": "Quel chanteur a été contraint d'annuler sa tournée, victime d'une lourde chute ?",
+        "question": "Quel chanteur a ete contraint d'annuler sa tournee, victime d'une lourde chute ?",
         "propositions": [
           "Eddy Mitchell",
           "Salvatore Adamo",
           "Jacques Dutronc",
           "Charles Aznavour"
         ],
-        "réponse": "Charles Aznavour",
-        "anecdote": "Victime d'une lourde chute le 12 mai 2018, le chanteur de 93 ans a dû annuler ses concerts à la fois au Japon et en Ouzbékistan."
+        "reponse": "Charles Aznavour",
+        "anecdote": "Victime d'une lourde chute le 12 mai 2018, le chanteur de 93 ans a dû annuler ses concerts à la fois au Japon et en Ouzbekistan."
       },
       {
         "id": 7,
-        "question": "Quel célèbre chroniqueur a annoncé quitter la chaîne C8 pour rejoindre TF1 ?",
+        "question": "Quel celebre chroniqueur a annonce quitter la chaîne C8 pour rejoindre TF1 ?",
         "propositions": [
           "Florian Gazan",
           "Bernard Montiel",
           "Camille Combal",
           "Bruno Guillon"
         ],
-        "réponse": "Camille Combal",
-        "anecdote": "Camille Combal a en effet décidé de quitter l'émission médias TPMP en fin de saison après six années de bons et loyaux services."
+        "reponse": "Camille Combal",
+        "anecdote": "Camille Combal a en effet decide de quitter l'emission medias TPMP en fin de saison apres six annees de bons et loyaux services."
       },
       {
         "id": 8,
-        "question": "Quel artiste aimé des français a relancé le jeu télé « Burger Quizz » sur TMC ?",
+        "question": "Quel artiste aime des francais a relance le jeu tele « Burger Quizz » sur TMC ?",
         "propositions": [
           "Alain Chabat",
           "Albert Dupontel",
           "Didier Bourdon",
           "Franck Dubosc"
         ],
-        "réponse": "Alain Chabat",
-        "anecdote": "Alain Chabat est fidèle à cet humour de potache qui, sous un apparent je-m'en-foutisme, exige une minutie d'horloger."
+        "reponse": "Alain Chabat",
+        "anecdote": "Alain Chabat est fidele à cet humour de potache qui, sous un apparent je-m'en-foutisme, exige une minutie d'horloger."
       },
       {
         "id": 9,
-        "question": "Quel ingénieur aérospatial a présenté plusieurs films à Cannes en 2018 ?",
+        "question": "Quel ingenieur aerospatial a presente plusieurs films à Cannes en 2018 ?",
         "propositions": [
           "Michel Tognini",
           "Patrick Baudry",
           "Philippe Perrin",
           "Thomas Pesquet"
         ],
-        "réponse": "Thomas Pesquet",
-        "anecdote": "Décollage en fusée de Baïkonour, balade dans la station orbitale internationale pour finir par une vertigineuse sortie extravéhiculaire."
+        "reponse": "Thomas Pesquet",
+        "anecdote": "Decollage en fusee de Baïkonour, balade dans la station orbitale internationale pour finir par une vertigineuse sortie extravehiculaire."
       },
       {
         "id": 10,
-        "question": "Quelle candidate de Koh-Lanta a porté plainte pour agression sexuelle ?",
+        "question": "Quelle candidate de Koh-Lanta a porte plainte pour agression sexuelle ?",
         "propositions": [
           "Candide Renard",
           "Isabelle Segui",
           "Wendy Gervois",
           "Delphine Bano"
         ],
-        "réponse": "Candide Renard",
-        "anecdote": "La production a mis un terme au tournage de la dernière saison après qu'une candidate aurait été victime d'une tentative de viol."
+        "reponse": "Candide Renard",
+        "anecdote": "La production a mis un terme au tournage de la derniere saison apres qu'une candidate aurait ete victime d'une tentative de viol."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Quel compositeur de David Guetta a déclaré avoir souffert de neuf cancers ?",
+        "question": "Quel compositeur de David Guetta a declare avoir souffert de neuf cancers ?",
         "propositions": [
           "Fred Rister",
           "Greg Parys",
           "Dim Chris",
           "Tom Bouthier"
         ],
-        "réponse": "Fred Rister",
-        "anecdote": "Désormais, il se plonge dans sa première passion, la musique. Sa raison de (sur)vivre. Fred Rister a écrit le titre « I want a miracle »."
+        "reponse": "Fred Rister",
+        "anecdote": "Desormais, il se plonge dans sa premiere passion, la musique. Sa raison de (sur)vivre. Fred Rister a ecrit le titre « I want a miracle »."
       },
       {
         "id": 12,
-        "question": "Quelle gagnante de l'Eurovision a fait une lourde chute après sa victoire ?",
+        "question": "Quelle gagnante de l'Eurovision a fait une lourde chute apres sa victoire ?",
         "propositions": [
           "Jessica Mauboy",
           "Netta Barzilai",
           "Laura Rizzotto",
           "Elina Nechayeva"
         ],
-        "réponse": "Netta Barzilai",
-        "anecdote": "Netta Barzilai a écrasé la compétition avec son titre qui fait écho au mouvement #MeToo et à l'émancipation de la femme."
+        "reponse": "Netta Barzilai",
+        "anecdote": "Netta Barzilai a ecrase la competition avec son titre qui fait echo au mouvement #MeToo et à l'emancipation de la femme."
       },
       {
         "id": 13,
-        "question": "Quel acteur s'est fait virer de la série « L'arme fatale » suite à son comportement odieux ?",
+        "question": "Quel acteur s'est fait virer de la serie « L'arme fatale » suite à son comportement odieux ?",
         "propositions": [
           "Peter Wingfield",
           "John Boyd",
           "Kiefer Sutherland",
           "Clayne Crawford"
         ],
-        "réponse": "Clayne Crawford",
-        "anecdote": "Une partie des acteurs et techniciens auraient même été mal à l'aise à l'idée d'être en plateau avec lui pour harcèlement moral."
+        "reponse": "Clayne Crawford",
+        "anecdote": "Une partie des acteurs et techniciens auraient meme ete mal à l'aise à l'idee d'etre en plateau avec lui pour harcelement moral."
       },
       {
         "id": 14,
-        "question": "Quelle interprète de Lois Lane nous a quitté en 2018 à l'âge de 69 ans ?",
+        "question": "Quelle interprete de Lois Lane nous a quitte en 2018 à l'age de 69 ans ?",
         "propositions": [
           "Margot Kidder",
           "Lisa Guerrero",
           "Sarah Douglas",
           "Susannah York"
         ],
-        "réponse": "Margot Kidder",
-        "anecdote": "Côté vie privée, Margot Kidder avait été mariée au réalisateur français Philippe de Broca entre 1983 et 1984."
+        "reponse": "Margot Kidder",
+        "anecdote": "Côte vie privee, Margot Kidder avait ete mariee au realisateur francais Philippe de Broca entre 1983 et 1984."
       },
       {
         "id": 15,
-        "question": "Quel rappeur s'est montré torse nu sur la campagne 2018 pro-vegan de Peta ?",
+        "question": "Quel rappeur s'est montre torse nu sur la campagne 2018 pro-vegan de Peta ?",
         "propositions": [
           "Stomy Bugsy",
           "La Fouine",
           "JoeyStarr",
           "Maître Gims"
         ],
-        "réponse": "Stomy Bugsy",
-        "anecdote": "Le 14 mai 2017, dans une tribune publiée dans le quotidien Libération, il faisait partie des 15 artistes à appeler le gouvernement."
+        "reponse": "Stomy Bugsy",
+        "anecdote": "Le 14 mai 2017, dans une tribune publiee dans le quotidien Liberation, il faisait partie des 15 artistes à appeler le gouvernement."
       },
       {
         "id": 16,
-        "question": "Quelle grande actrice française est apparue brune au Festival de Cannes ?",
+        "question": "Quelle grande actrice francaise est apparue brune au Festival de Cannes ?",
         "propositions": [
           "Catherine Jacob",
           "Catherine Lara",
           "Catherine Frot",
           "Catherine Deneuve"
         ],
-        "réponse": "Catherine Deneuve",
-        "anecdote": "Si cette couleur de cheveux l'a véritablement rendu méconnaissable, il faut savoir que le brun est sa couleur naturelle."
+        "reponse": "Catherine Deneuve",
+        "anecdote": "Si cette couleur de cheveux l'a veritablement rendu meconnaissable, il faut savoir que le brun est sa couleur naturelle."
       },
       {
         "id": 17,
-        "question": "Quelle fille d'Estelle Lefébure a posé dans les bras de Kamran Ahmed ?",
+        "question": "Quelle fille d'Estelle Lefebure a pose dans les bras de Kamran Ahmed ?",
         "propositions": [
           "Darina Scotti",
           "Candide Renard",
           "Lou Villafranca",
           "Ilona Smet"
         ],
-        "réponse": "Ilona Smet",
-        "anecdote": "Dans la story de son compte Instagram, la jeune femme a partagé une photo du gâteau que son chéri lui a préparé pour ses 23 ans."
+        "reponse": "Ilona Smet",
+        "anecdote": "Dans la story de son compte Instagram, la jeune femme a partage une photo du gateau que son cheri lui a prepare pour ses 23 ans."
       },
       {
         "id": 18,
-        "question": "Qui a dit concernant la mort de son fils Ludovic : « C'était sa route » ?",
+        "question": "Qui a dit concernant la mort de son fils Ludovic : « C'etait sa route » ?",
         "propositions": [
           "Catherine Deneuve",
           "Sylvie Vartan",
           "Nathalie Baye",
           "Sheila"
         ],
-        "réponse": "Sheila",
-        "anecdote": "Pour la chanteuse, le côté positif de ce malheur est d'avoir réussi à chanter un peu plus d'un mois après la disparition de son fils."
+        "reponse": "Sheila",
+        "anecdote": "Pour la chanteuse, le côte positif de ce malheur est d'avoir reussi à chanter un peu plus d'un mois apres la disparition de son fils."
       },
       {
         "id": 19,
-        "question": "Quelle chanteuse s'est rasé la tête pour l'émission « The Island » ?",
+        "question": "Quelle chanteuse s'est rase la tete pour l'emission « The Island » ?",
         "propositions": [
-          "Alizée",
-          "Lââm",
+          "Alizee",
+          "Laam",
           "Nadiya",
           "Shy'm"
         ],
-        "réponse": "Lââm",
-        "anecdote": "Le mardi 15 mai 2018 à 21h, M6 a diffusé la version célébrités de son émission d'aventure « The Island » menée par Mike Horn."
+        "reponse": "Laam",
+        "anecdote": "Le mardi 15 mai 2018 à 21h, M6 a diffuse la version celebrites de son emission d'aventure « The Island » menee par Mike Horn."
       },
       {
         "id": 20,
-        "question": "Quelle petite fille d'Elvis Presley fut à l'affiche de deux films présentés à Cannes ?",
+        "question": "Quelle petite fille d'Elvis Presley fut à l'affiche de deux films presentes à Cannes ?",
         "propositions": [
           "Traci Bingham",
           "Riley Keough",
           "Lynnette Cole",
           "Mackenzie Foy"
         ],
-        "réponse": "Riley Keough",
-        "anecdote": "Mannequin dès l'âge de 14 ans, elle a arpenté les podiums du monde entier avant de répondre à l'appel du cinéma en 2010."
+        "reponse": "Riley Keough",
+        "anecdote": "Mannequin des l'age de 14 ans, elle a arpente les podiums du monde entier avant de repondre à l'appel du cinema en 2010."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Comment se nomme la fille unique de la regrettée Maurane ?",
+        "question": "Comment se nomme la fille unique de la regrettee Maurane ?",
         "propositions": [
           "Candide Renard",
           "Ilona Smet",
           "Darina Scotti",
           "Lou Villafranca"
         ],
-        "réponse": "Lou Villafranca",
-        "anecdote": "Silencieuse depuis la mort de sa mère, Lou, âgée de 25 ans, a pris la parole aux obsèques de la chanteuse qui se tenaient à Bruxelles."
+        "reponse": "Lou Villafranca",
+        "anecdote": "Silencieuse depuis la mort de sa mere, Lou, agee de 25 ans, a pris la parole aux obseques de la chanteuse qui se tenaient à Bruxelles."
       },
       {
         "id": 22,
-        "question": "À 29 ans, qui a sorti son premier livre intitulé « Secrets d'Influenceur » ?",
+        "question": "À 29 ans, qui a sorti son premier livre intitule « Secrets d'Influenceur » ?",
         "propositions": [
           "Tristan Nitot",
           "Loïc Le Meur",
           "Valentin Lucas",
           "Étienne Chouard"
         ],
-        "réponse": "Valentin Lucas",
-        "anecdote": "Tout à fait légitime sur le réseau Instagram, l'ex-compagnon de Caroline Receveur est suivi par près de 250 000 abonnés."
+        "reponse": "Valentin Lucas",
+        "anecdote": "Tout à fait legitime sur le reseau Instagram, l'ex-compagnon de Caroline Receveur est suivi par pres de 250 000 abonnes."
       },
       {
         "id": 23,
-        "question": "Quel scénariste de Marvel réclame en procès un milliard de dollars ?",
+        "question": "Quel scenariste de Marvel reclame en proces un milliard de dollars ?",
         "propositions": [
           "Brian Reed",
           "Peter David",
           "Rich Buckler",
           "Stan Lee"
         ],
-        "réponse": "Stan Lee",
+        "reponse": "Stan Lee",
         "anecdote": "À 95 ans, le fondateur de l'empire Marvel conteste les conditions de la vente de POW! Entertainment à une holding chinoise."
       },
       {
         "id": 24,
-        "question": "Quel objet Khloé Kardashian a-t-elle offert à sa soeur Kim pour la fêtes des mères ?",
+        "question": "Quel objet Khloe Kardashian a-t-elle offert à sa soeur Kim pour la fetes des meres ?",
         "propositions": [
           "Valise",
           "Biberon",
           "Vibromasseur",
-          "Télévision"
+          "Television"
         ],
-        "réponse": "Vibromasseur",
-        "anecdote": "Une scène très drôle que Kim Kardashian a partagé sur la story de son compte Instagram, pour le plus grand plaisir de ses followers."
+        "reponse": "Vibromasseur",
+        "anecdote": "Une scene tres drôle que Kim Kardashian a partage sur la story de son compte Instagram, pour le plus grand plaisir de ses followers."
       },
       {
         "id": 25,
-        "question": "Qui s'est incliné face à Camille Delcroix en finale de Top Chef 2018 ?",
+        "question": "Qui s'est incline face à Camille Delcroix en finale de Top Chef 2018 ?",
         "propositions": [
           "Victor Mercier",
           "Geoffrey Degros",
-          "Clément Vergeat",
+          "Clement Vergeat",
           "Vincent Crepel"
         ],
-        "réponse": "Victor Mercier",
-        "anecdote": "Son procès avec Cédric Naudon lui a notam­ment permis de finan­cer son tour du monde réalisé avec son meilleur ami Benja­min."
+        "reponse": "Victor Mercier",
+        "anecdote": "Son proces avec Cedric Naudon lui a notam­ment permis de finan­cer son tour du monde realise avec son meilleur ami Benja­min."
       },
       {
         "id": 26,
-        "question": "Quelle top model tchèque a été victime d'un accident de culotte à Cannes ?",
+        "question": "Quelle top model tcheque a ete victime d'un accident de culotte à Cannes ?",
         "propositions": [
           "Daniela Pestova",
           "Petra Nemcova",
           "Eva Herzigova",
           "Ivana Trump"
         ],
-        "réponse": "Petra Nemcova",
-        "anecdote": "Vêtue d'une robe Andrès Acosta, Petra Nemcova n'a pas pu cacher sa culotte couleur nude après un coup de vent sur la Croisette."
+        "reponse": "Petra Nemcova",
+        "anecdote": "Vetue d'une robe Andres Acosta, Petra Nemcova n'a pas pu cacher sa culotte couleur nude apres un coup de vent sur la Croisette."
       },
       {
         "id": 27,
-        "question": "Avec qui Laury Thilleman, ancienne Miss France, était-elle en couple en mai 2018 ?",
+        "question": "Avec qui Laury Thilleman, ancienne Miss France, etait-elle en couple en mai 2018 ?",
         "propositions": [
           "Santi Santamaria",
           "Robert de Nola",
           "Juan Arbe­laez",
           "Martin Berasategui"
         ],
-        "réponse": "Juan Arbe­laez",
-        "anecdote": "« La plus grande qualité de Laury, c'est sa simpli­cité, son côté pétillant et sa lumière qu'elle apporte où elle arrive »."
+        "reponse": "Juan Arbe­laez",
+        "anecdote": "« La plus grande qualite de Laury, c'est sa simpli­cite, son côte petillant et sa lumiere qu'elle apporte ou elle arrive »."
       },
       {
         "id": 28,
-        "question": "Qui est mariée à Antoine Griezmann, buteur de la finale de l'Europa League 2018 ?",
+        "question": "Qui est mariee à Antoine Griezmann, buteur de la finale de l'Europa League 2018 ?",
         "propositions": [
           "Lou Villafranca",
           "Petra Nemcova",
           "Lisa Guerrero",
           "Erika Choperena"
         ],
-        "réponse": "Erika Choperena",
-        "anecdote": "La femme de la star de l'Atletico et de l'équipe de France arbore une nouvelle couleur de cheveux depuis quelques semaines."
+        "reponse": "Erika Choperena",
+        "anecdote": "La femme de la star de l'Atletico et de l'equipe de France arbore une nouvelle couleur de cheveux depuis quelques semaines."
       },
       {
         "id": 29,
-        "question": "De passage à Tokyo, quelle artiste française s'est initiée au bondage ?",
+        "question": "De passage à Tokyo, quelle artiste francaise s'est initiee au bondage ?",
         "propositions": [
           "Silvia Saint",
           "Nabilla Benattia",
           "Virginie Caprice",
           "Clara Morgane"
         ],
-        "réponse": "Clara Morgane",
-        "anecdote": "Clara Morgane a en effet profité de son séjour à Tokyo pour s'essayer à un art traditionnel japonais pour le moins extrême."
+        "reponse": "Clara Morgane",
+        "anecdote": "Clara Morgane a en effet profite de son sejour à Tokyo pour s'essayer à un art traditionnel japonais pour le moins extreme."
       },
       {
         "id": 30,
-        "question": "Quelle fille adoptive de Sylvie Vartan a fait une touchante déclaration à sa mère ?",
+        "question": "Quelle fille adoptive de Sylvie Vartan a fait une touchante declaration à sa mere ?",
         "propositions": [
           "Marina Hedman",
           "Darina Scotti",
           "Cathy Barry",
           "Sophie Dee"
         ],
-        "réponse": "Darina Scotti",
-        "anecdote": "Au lieu de faire un post Instagram, comme elle a pu le faire récemment, la jeune fille a multiplié les messages en story."
+        "reponse": "Darina Scotti",
+        "anecdote": "Au lieu de faire un post Instagram, comme elle a pu le faire recemment, la jeune fille a multiplie les messages en story."
       }
     ]
     },
     "en": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "What great Belgian artist of the song brutally left us in May 2018 ?",
@@ -416,7 +416,7 @@
           "Vikor Lazlo",
           "Jo Lemaire"
         ],
-        "réponse": "Maurane",
+        "reponse": "Maurane",
         "anecdote": "Maurane was found dead at her home in Schaerbeek, near Brussels. The day before, she was singing at the Iris Festival in the capital."
       },
       {
@@ -428,7 +428,7 @@
           "Anne-Sophie Lapix",
           "Laurence Ferrari"
         ],
-        "réponse": "Claire Chazal",
+        "reponse": "Claire Chazal",
         "anecdote": "Claire Chazal carries out daily a long session of classical dance that sculpts the body and calm his mind."
       },
       {
@@ -440,7 +440,7 @@
           "Yasmine",
           "Maelle"
         ],
-        "réponse": "Maelle",
+        "reponse": "Maelle",
         "anecdote": "This seventh edition will have seen the Mennel affair, the elimination of Gulaan, the revelation of the four finalists and the tribute to Maurane."
       },
       {
@@ -452,7 +452,7 @@
           "Lily Collins",
           "Judith Chemla"
         ],
-        "réponse": "Kristen Stewart",
+        "reponse": "Kristen Stewart",
         "anecdote": "A gesture that is reminiscent of that in 2016, the actress dreamed by « Twillight » had posed barefoot at the Photocall Cafe Society."
       },
       {
@@ -464,7 +464,7 @@
           "Sylvie Tellier",
           "Mareva Galanter"
         ],
-        "réponse": "Sylvie Tellier",
+        "reponse": "Sylvie Tellier",
         "anecdote": "She is already the mother of a little Oscar of 8 years (with Camille Le Maux) and a small Margaux of 4 years (with her husband Laurent)."
       },
       {
@@ -476,7 +476,7 @@
           "Eddy Mitchell",
           "Jacques Dutronc"
         ],
-        "réponse": "Charles Aznavour",
+        "reponse": "Charles Aznavour",
         "anecdote": "Victim of a heavy fall on May 12, 2018, the 93-year-old singer had to cancel his concerts both in Japan and Uzbekistan."
       },
       {
@@ -488,7 +488,7 @@
           "Camille Combal",
           "Florian Gazan"
         ],
-        "réponse": "Camille Combal",
+        "reponse": "Camille Combal",
         "anecdote": "Camille Combal has indeed decided to leave the TPMP media show at the end of the season after six years of good and loyal service."
       },
       {
@@ -500,7 +500,7 @@
           "Didier Bourdon",
           "Franck Dubosc"
         ],
-        "réponse": "Alain Chabat",
+        "reponse": "Alain Chabat",
         "anecdote": "Alain Chabat is faithful to this humor of schoolboy who, under an apparent je-m'-foutisme, requires a meticulous watchmaker."
       },
       {
@@ -512,7 +512,7 @@
           "Philippe Perrin",
           "Thomas Pesquet"
         ],
-        "réponse": "Thomas Pesquet",
+        "reponse": "Thomas Pesquet",
         "anecdote": "Rocket taking off from Baikonur, stroll in the international orbital station to end with a vertiginous extravehicular exit."
       },
       {
@@ -524,11 +524,11 @@
           "Candide Renard",
           "Delphine Bano"
         ],
-        "réponse": "Candide Renard",
+        "reponse": "Candide Renard",
         "anecdote": "The production ended the filming of the last season after a candidate was the victim of an attempted rape."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Which composer of David Guetta has claimed to have suffered from nine cancers ?",
@@ -538,7 +538,7 @@
           "Dim Chris",
           "Greg Parys"
         ],
-        "réponse": "Fred Rister",
+        "reponse": "Fred Rister",
         "anecdote": "From now on, he immerses himself in his first passion, music."
       },
       {
@@ -550,7 +550,7 @@
           "Elina Nechayeva",
           "Jessica Mauboy"
         ],
-        "réponse": "Netta Barzilai",
+        "reponse": "Netta Barzilai",
         "anecdote": "Netta Barzilai crushed the competition with her title, which echoes the #MeToo movement and the woman's emancipation."
       },
       {
@@ -562,7 +562,7 @@
           "John Boyd",
           "Peter Wingfield"
         ],
-        "réponse": "Clayne Crawford",
+        "reponse": "Clayne Crawford",
         "anecdote": "Some of the actors and technicians would have been uncomfortable with the idea of being on the plateau with him for moral harassment."
       },
       {
@@ -574,7 +574,7 @@
           "Sarah Douglas",
           "Margot Kidder"
         ],
-        "réponse": "Margot Kidder",
+        "reponse": "Margot Kidder",
         "anecdote": "On the private side, Margot Kidder had been married to French director Philippe de Broca between 1983 and 1984."
       },
       {
@@ -586,8 +586,8 @@
           "Master Gims",
           "JoeyStarr"
         ],
-        "réponse": "Stomy Bugsy",
-        "anecdote": "On May 14, 2017, in a tribune published in the daily newspaper Libération, he was one of 15 artists to call the government."
+        "reponse": "Stomy Bugsy",
+        "anecdote": "On May 14, 2017, in a tribune published in the daily newspaper Liberation, he was one of 15 artists to call the government."
       },
       {
         "id": 16,
@@ -598,7 +598,7 @@
           "Catherine Jacob",
           "Catherine Deneuve"
         ],
-        "réponse": "Catherine Deneuve",
+        "reponse": "Catherine Deneuve",
         "anecdote": "If this hair color has truly made me unknowable, you should know that brown is its natural color."
       },
       {
@@ -610,7 +610,7 @@
           "Darina Scotti",
           "Lou Villafranca"
         ],
-        "réponse": "Ilona Smet",
+        "reponse": "Ilona Smet",
         "anecdote": "In the story of her Instagram account, the young woman shared a picture of the cake that her boyfriend had prepared for her 23 years."
       },
       {
@@ -622,7 +622,7 @@
           "Sheila",
           "Sylvie Vartan"
         ],
-        "réponse": "Sheila",
+        "reponse": "Sheila",
         "anecdote": "For the singer, the positive side of this misfortune is to have been able to sing a little more than a month after the disappearance of her son."
       },
       {
@@ -634,7 +634,7 @@
           "Laam",
           "Nadiya"
         ],
-        "réponse": "Laam",
+        "reponse": "Laam",
         "anecdote": "On Tuesday, May 15, 2018 at 9 pm, M6 aired the celebrity version of Mike Horn's « The Island » adventure show."
       },
       {
@@ -646,7 +646,7 @@
           "Traci Bingham",
           "Lynnette Cole"
         ],
-        "réponse": "Riley Keough",
+        "reponse": "Riley Keough",
         "anecdote": "Model at the age of 14, she paced the catwalks of the world before answering the call of the cinema in 2010."
       }
     ],
@@ -660,7 +660,7 @@
           "Candide Renard",
           "Darina Scotti"
         ],
-        "réponse": "Lou Villafranca",
+        "reponse": "Lou Villafranca",
         "anecdote": "Silent since the death of her mother, Lou, age 25, spoke at the curse of the singer who was in Brussels."
       },
       {
@@ -672,7 +672,7 @@
           "Loic Le Meur",
           "Étienne Chouard"
         ],
-        "réponse": "Valentin Lucas",
+        "reponse": "Valentin Lucas",
         "anecdote": "Quite legitimate on the Instagram network, the former companion of Caroline Receveur is followed by nearly 250,000 subscribers."
       },
       {
@@ -684,7 +684,7 @@
           "Stan Lee",
           "Peter David"
         ],
-        "réponse": "Stan Lee",
+        "reponse": "Stan Lee",
         "anecdote": "At the age of 95, the founder of the Marvel empire challenges the conditions of the sale of POW! Entertainment at a Chinese holding."
       },
       {
@@ -696,20 +696,20 @@
           "Television",
           "Vibrator"
         ],
-        "réponse": "Vibrator",
+        "reponse": "Vibrator",
         "anecdote": "A very funny scene that Kim Kardashian shared on the story of his Instagram account, to the delight of his followers."
       },
       {
         "id": 25,
         "question": "Who bowed to Camille Delcroix in the 2018 Top Chef final ?",
         "propositions": [
-          "Clément Vergeat",
+          "Clement Vergeat",
           "Vincent Crepel",
           "Victor Mercier",
           "Geoffrey Degros"
         ],
-        "réponse": "Victor Mercier",
-        "anecdote": "His trial with Cédric Naudon allowed him to finance his world tour with his best friend Benjamin."
+        "reponse": "Victor Mercier",
+        "anecdote": "His trial with Cedric Naudon allowed him to finance his world tour with his best friend Benjamin."
       },
       {
         "id": 26,
@@ -720,7 +720,7 @@
           "Petra Nemcova",
           "Eva Herzigova"
         ],
-        "réponse": "Petra Nemcova",
+        "reponse": "Petra Nemcova",
         "anecdote": "Dressed in an Andres Acosta dress, Petra Nemcova could not hide her nude panties after a gale on the Croisette."
       },
       {
@@ -732,7 +732,7 @@
           "Robert de Nola",
           "Martin Berasategui"
         ],
-        "réponse": "Juan Arbe­laez",
+        "reponse": "Juan Arbe­laez",
         "anecdote": "« Laury's greatest quality is its simplicity, its piquant side, and the light it brings where it comes »."
       },
       {
@@ -744,7 +744,7 @@
           "Lisa Guerrero",
           "Erika Choperena"
         ],
-        "réponse": "Erika Choperena",
+        "reponse": "Erika Choperena",
         "anecdote": "The woman of the star of Atletico and the team of France has been wearing a new hair color for a few weeks."
       },
       {
@@ -756,7 +756,7 @@
           "Virginie Caprice",
           "Silvia Saint"
         ],
-        "réponse": "Clara Morgane",
+        "reponse": "Clara Morgane",
         "anecdote": "Clara Morgane has indeed benefited from her stay in Tokyo to try a traditional Japanese art for the less extreme."
       },
       {
@@ -768,13 +768,13 @@
           "Sophie Dee",
           "Darina Scotti"
         ],
-        "réponse": "Darina Scotti",
+        "reponse": "Darina Scotti",
         "anecdote": "Instead of doing an Instagram post, as she was able to do recently, the girl multiplied the messages in story."
       }
     ]
     },
     "de": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Welcher große belgische Künstler des Liedes hat uns im Mai 2018 brutal verlassen ?",
@@ -784,7 +784,7 @@
           "Maurane",
           "Jo Lemaire"
         ],
-        "réponse": "Maurane",
+        "reponse": "Maurane",
         "anecdote": "Maurane wurde in ihrem Haus in Schaerbeek bei Brüssel tot aufgefunden. Am Tag zuvor sang sie beim Iris Festival in der Hauptstadt."
       },
       {
@@ -796,7 +796,7 @@
           "Claire Chazal",
           "Florence Schaal"
         ],
-        "réponse": "Claire Chazal",
+        "reponse": "Claire Chazal",
         "anecdote": "Claire Chazal führt täglich eine lange Sitzung mit klassischem Tanz durch, die den Körper formt und seinen Geist beruhigt."
       },
       {
@@ -808,7 +808,7 @@
           "Amandine",
           "Yasmine"
         ],
-        "réponse": "Maelle",
+        "reponse": "Maelle",
         "anecdote": "Diese siebte Ausgabe wird die Mennel-Affäre, die Beseitigung von Gulaan, die Enthüllung der vier Finalisten und die Hommage an Maurane gesehen haben."
       },
       {
@@ -820,7 +820,7 @@
           "Judith Chemla",
           "Eliza Bennett"
         ],
-        "réponse": "Kristen Stewart",
+        "reponse": "Kristen Stewart",
         "anecdote": "Eine Geste, die an das Jahr 2016 erinnert, als die von « Twillight » geträumte Schauspielerin in der Photocall Cafall Society barfuß posierte."
       },
       {
@@ -832,7 +832,7 @@
           "Isabelle Benard",
           "Sylvie Tellier"
         ],
-        "réponse": "Sylvie Tellier",
+        "reponse": "Sylvie Tellier",
         "anecdote": "Sie ist bereits Mutter eines kleinen Oscar von 8 Jahren (mit Camille Le Maux) und eines kleinen Margaux von 4 Jahren (mit ihrem Ehemann Laurent)."
       },
       {
@@ -844,7 +844,7 @@
           "Salvatore Adamo",
           "Charles Aznavour"
         ],
-        "réponse": "Charles Aznavour",
+        "reponse": "Charles Aznavour",
         "anecdote": "Nach einem schweren Sturz am 12. Mai 2018 musste der 93-jährige Sänger seine Konzerte in Japan und Usbekistan absagen."
       },
       {
@@ -856,7 +856,7 @@
           "Bruno Guillon",
           "Camille Combal"
         ],
-        "réponse": "Camille Combal",
+        "reponse": "Camille Combal",
         "anecdote": "Camille Combal hat in der Tat beschlossen, die TPMP-Medienshow nach sechs Jahren guten und loyalen Dienstes zum Ende der Saison zu verlassen."
       },
       {
@@ -868,7 +868,7 @@
           "Alain Chabat",
           "Didier Bourdon"
         ],
-        "réponse": "Alain Chabat",
+        "reponse": "Alain Chabat",
         "anecdote": "Alain Chabat ist diesem Humor eines Schülers treu, der unter einem offensichtlichen Vorurteil einen akribischen Uhrmacher verlangt."
       },
       {
@@ -880,7 +880,7 @@
           "Thomas Pesquet",
           "Patrick Baudry"
         ],
-        "réponse": "Thomas Pesquet",
+        "reponse": "Thomas Pesquet",
         "anecdote": "Raketenstart in Baikonur, Bummel in der internationalen Orbitalstation, um mit einem schwindelerregenden extravehikulären Ausgang zu enden."
       },
       {
@@ -892,11 +892,11 @@
           "Wendy Gervois",
           "Isabelle Segui"
         ],
-        "réponse": "Candide Renard",
+        "reponse": "Candide Renard",
         "anecdote": "Die Produktion beendete die Dreharbeiten der letzten Staffel, nachdem ein Kandidat Opfer eines Vergewaltigungsversuchs geworden war."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Welcher Komponist von David Guetta hat behauptet, an neun Krebsarten gelitten zu haben ?",
@@ -906,7 +906,7 @@
           "Dim Chris",
           "Greg Parys"
         ],
-        "réponse": "Fred Rister",
+        "reponse": "Fred Rister",
         "anecdote": "Von nun an taucht er in seine erste Leidenschaft ein, die Musik."
       },
       {
@@ -918,7 +918,7 @@
           "Laura Rizzotto",
           "Jessica Mauboy"
         ],
-        "réponse": "Netta Barzilai",
+        "reponse": "Netta Barzilai",
         "anecdote": "Netta Barzilai besiegte die Konkurrenz mit ihrem Titel, der die #MeToo-Bewegung und die Emanzipation der Frau widerspiegelt."
       },
       {
@@ -930,7 +930,7 @@
           "Clayne Crawford",
           "Peter Wingfield"
         ],
-        "réponse": "Clayne Crawford",
+        "reponse": "Clayne Crawford",
         "anecdote": "Einigen Schauspielern und Technikern wäre der Gedanke, wegen moralischer Belästigung mit ihm auf dem Plateau zu sein, unangenehm gewesen."
       },
       {
@@ -942,7 +942,7 @@
           "Sarah Douglas",
           "Susannah York"
         ],
-        "réponse": "Margot Kidder",
+        "reponse": "Margot Kidder",
         "anecdote": "Privat war Margot Kidder zwischen 1983 und 1984 mit dem französischen Regisseur Philippe de Broca verheiratet."
       },
       {
@@ -954,8 +954,8 @@
           "La Fouine",
           "Meister Gims"
         ],
-        "réponse": "Stomy Bugsy",
-        "anecdote": "Am 14. Mai 2017 rief er in einer Tribüne, die in der Tageszeitung Libération veröffentlicht wurde, als einer von 15 Künstlern die Regierung an."
+        "reponse": "Stomy Bugsy",
+        "anecdote": "Am 14. Mai 2017 rief er in einer Tribüne, die in der Tageszeitung Liberation veröffentlicht wurde, als einer von 15 Künstlern die Regierung an."
       },
       {
         "id": 16,
@@ -966,7 +966,7 @@
           "Catherine Jacob",
           "Catherine Lara"
         ],
-        "réponse": "Catherine Deneuve",
+        "reponse": "Catherine Deneuve",
         "anecdote": "Wenn diese Haarfarbe mich wirklich unerkennbar gemacht hat, sollten Sie wissen, dass Braun seine natürliche Farbe ist."
       },
       {
@@ -978,7 +978,7 @@
           "Darina Scotti",
           "Candide Renard"
         ],
-        "réponse": "Ilona Smet",
+        "reponse": "Ilona Smet",
         "anecdote": "In der Geschichte ihres Instagram-Accounts teilte die junge Frau ein Bild von der Torte, die ihr Freund für sie 23 Jahre lang zubereitet hatte."
       },
       {
@@ -990,7 +990,7 @@
           "Nathalie Baye",
           "Sylvie Vartan"
         ],
-        "réponse": "Sheila",
+        "reponse": "Sheila",
         "anecdote": "Für die Sängerin ist die positive Seite dieses Unglücks, etwas mehr als einen Monat nach dem Verschwinden ihres Sohnes singen zu können."
       },
       {
@@ -1002,7 +1002,7 @@
           "Alizee",
           "Laam"
         ],
-        "réponse": "Laam",
+        "reponse": "Laam",
         "anecdote": "Am Dienstag, den 15. Mai 2018 um 21 Uhr, strahlte M6 die Promi-Version von Mike Horns Abenteuershow « The Island » aus."
       },
       {
@@ -1014,7 +1014,7 @@
           "Riley Keough",
           "Mackenzie Foy"
         ],
-        "réponse": "Riley Keough",
+        "reponse": "Riley Keough",
         "anecdote": "Mit 14 Jahren schritt sie auf den Laufstegen der Welt, bevor sie 2010 dem Ruf des Kinos folgte."
       }
     ],
@@ -1028,7 +1028,7 @@
           "Lou Villafranca",
           "Ilona Smet"
         ],
-        "réponse": "Lou Villafranca",
+        "reponse": "Lou Villafranca",
         "anecdote": "Lou, 25 Jahre alt, schwieg seit dem Tod ihrer Mutter und sprach auf den Fluch der Sängerin, die in Brüssel war."
       },
       {
@@ -1040,7 +1040,7 @@
           "Étienne Chouard",
           "Tristan Nitot"
         ],
-        "réponse": "Valentin Lucas",
+        "reponse": "Valentin Lucas",
         "anecdote": "Der ehemalige Begleiter von Caroline Receveur wird von fast 250.000 Abonnenten verfolgt."
       },
       {
@@ -1052,7 +1052,7 @@
           "Rich Buckler",
           "Brian Reed"
         ],
-        "réponse": "Stan Lee",
+        "reponse": "Stan Lee",
         "anecdote": "Im Alter von 95 Jahren stellt der Gründer des Marvel-Imperiums die Bedingungen für den Verkauf von POW! Unterhaltung in einer chinesischen Holding."
       },
       {
@@ -1064,20 +1064,20 @@
           "Fernseher",
           "Koffer"
         ],
-        "réponse": "Vibrator",
+        "reponse": "Vibrator",
         "anecdote": "Eine sehr lustige Szene, die Kim Kardashian zur Freude seiner Anhänger über die Geschichte seines Instagram-Accounts teilte."
       },
       {
         "id": 25,
         "question": "Wer verbeugte sich im Finale des Spitzenkochs 2018 vor Camille Delcroix ?",
         "propositions": [
-          "Clément Vergeat",
+          "Clement Vergeat",
           "Victor Mercier",
           "Geoffrey Degros",
           "Vincent Crepel"
         ],
-        "réponse": "Victor Mercier",
-        "anecdote": "Sein Prozess mit Cédric Naudon ermöglichte es ihm, seine Welttournee mit seinem besten Freund Benjamin zu finanzieren."
+        "reponse": "Victor Mercier",
+        "anecdote": "Sein Prozess mit Cedric Naudon ermöglichte es ihm, seine Welttournee mit seinem besten Freund Benjamin zu finanzieren."
       },
       {
         "id": 26,
@@ -1088,7 +1088,7 @@
           "Eva Herzigova",
           "Ivana Trump"
         ],
-        "réponse": "Petra Nemcova",
+        "reponse": "Petra Nemcova",
         "anecdote": "Petra Nemcova, gekleidet in ein Kleid von Andres Acosta, konnte ihr nacktes Höschen nach einem Sturm auf der Croisette nicht verstecken."
       },
       {
@@ -1100,7 +1100,7 @@
           "Martin Berasategui",
           "Robert de Nola"
         ],
-        "réponse": "Juan Arbe­laez",
+        "reponse": "Juan Arbe­laez",
         "anecdote": "« Laurys größte Qualität ist seine Einfachheit, seine pikante Seite und das Licht, das es dorthin bringt, wo es herkommt »."
       },
       {
@@ -1112,7 +1112,7 @@
           "Erika Choperena",
           "Petra Nemcova"
         ],
-        "réponse": "Erika Choperena",
+        "reponse": "Erika Choperena",
         "anecdote": "Die Frau des Stars von Atletico und das Team von Frankreich tragen seit einigen Wochen eine neue Haarfarbe."
       },
       {
@@ -1124,7 +1124,7 @@
           "Clara Morgane",
           "Virginie Caprice"
         ],
-        "réponse": "Clara Morgane",
+        "reponse": "Clara Morgane",
         "anecdote": "Clara Morgane hat in der Tat von ihrem Aufenthalt in Tokio profitiert, um eine traditionelle japanische Kunst für weniger Extreme auszuprobieren."
       },
       {
@@ -1136,253 +1136,253 @@
           "Cathy Barry",
           "Marina Hedman"
         ],
-        "réponse": "Darina Scotti",
+        "reponse": "Darina Scotti",
         "anecdote": "Anstatt einen Instagram-Post zu schreiben, wie sie es kürzlich konnte, multiplizierte das Mädchen die Nachrichten in der Geschichte."
       }
     ]
     },
     "es": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "¿Qué gran artista belga de la canción nos dejó brutalmente en mayo de 2018 ?",
+        "question": "¿Que gran artista belga de la canción nos dejó brutalmente en mayo de 2018 ?",
         "propositions": [
           "Jo Lemaire",
           "Maurane",
           "Vikor Lazlo",
           "Melanie Cohl"
         ],
-        "réponse": "Maurane",
+        "reponse": "Maurane",
         "anecdote": "Maurane fue encontrada muerta en su casa en Schaerbeek, cerca de Bruselas. El día anterior, ella estaba cantando en el Festival Iris en la capital."
       },
       {
         "id": 2,
-        "question": "¿Quién levanta el velo en la confesión de su libro titulada « Como todo va » ?",
+        "question": "¿Quien levanta el velo en la confesión de su libro titulada « Como todo va » ?",
         "propositions": [
           "Anne-Sophie Lapix",
           "Florencia Schaal",
           "Claire Chazal",
           "Laurence Ferrari"
         ],
-        "réponse": "Claire Chazal",
+        "reponse": "Claire Chazal",
         "anecdote": "Claire Chazal realiza diariamente una larga sesión de danza clásica que esculpe el cuerpo y calma su mente."
       },
       {
         "id": 3,
-        "question": "¿Qué joven artista fue la primera chica en ganar « The Voice » France ?",
+        "question": "¿Que joven artista fue la primera chica en ganar « The Voice » France ?",
         "propositions": [
           "Amandine",
           "Yasmine",
           "Lucyl",
           "Maelle"
         ],
-        "réponse": "Maelle",
-        "anecdote": "Esta séptima edición habrá visto el asunto Mennel, la eliminación de Gulaan, la revelación de los cuatro finalistas y el homenaje a Maurane."
+        "reponse": "Maelle",
+        "anecdote": "Esta septima edición habrá visto el asunto Mennel, la eliminación de Gulaan, la revelación de los cuatro finalistas y el homenaje a Maurane."
       },
       {
         "id": 4,
-        "question": "¿Quién terminó sus marchas descalzas en Cannes en 2018 ?",
+        "question": "¿Quien terminó sus marchas descalzas en Cannes en 2018 ?",
         "propositions": [
           "Judith Chemla",
           "Kristen Stewart",
           "Lily Collins",
           "Eliza Bennett"
         ],
-        "réponse": "Kristen Stewart",
+        "reponse": "Kristen Stewart",
         "anecdote": "Un gesto que recuerda a eso en 2016, la actriz soñada por « Twillight » había posado descalza en la Photocall Cafe Society."
       },
       {
         "id": 5,
-        "question": "¿Qué madre de Miss Francia esperaba a su tercer hijo en mayo de 2018 ?",
+        "question": "¿Que madre de Miss Francia esperaba a su tercer hijo en mayo de 2018 ?",
         "propositions": [
           "Sylvie Tellier",
           "Isabelle Benard",
           "Flora Coquerel",
           "Mareva Galanter"
         ],
-        "réponse": "Sylvie Tellier",
+        "reponse": "Sylvie Tellier",
         "anecdote": "Ella ya es madre de un pequeño Oscar de 8 años (con Camille Le Maux) y una pequeña Margaux de 4 años (con su esposo Laurent)."
       },
       {
         "id": 6,
-        "question": "¿Qué cantante se vio obligado a cancelar su gira, víctima de una fuerte caída ?",
+        "question": "¿Que cantante se vio obligado a cancelar su gira, víctima de una fuerte caída ?",
         "propositions": [
           "Jacques Dutronc",
           "Eddy Mitchell",
           "Salvatore Adamo",
           "Charles Aznavour"
         ],
-        "réponse": "Charles Aznavour",
+        "reponse": "Charles Aznavour",
         "anecdote": "Víctima de una fuerte caída el 12 de mayo de 2018, el cantante de 93 años tuvo que cancelar sus conciertos tanto en Japón como en Uzbekistán."
       },
       {
         "id": 7,
-        "question": "¿Qué famoso columnista anunció dejar el canal C8 para unirse a TF1 ?",
+        "question": "¿Que famoso columnista anunció dejar el canal C8 para unirse a TF1 ?",
         "propositions": [
           "Florian Gazan",
           "Camille Combal",
           "Bernard Montiel",
           "Bruno Guillon"
         ],
-        "réponse": "Camille Combal",
-        "anecdote": "Camille Combal ha decidido dejar el programa de medios TPMP al final de la temporada después de seis años de servicio bueno y leal."
+        "reponse": "Camille Combal",
+        "anecdote": "Camille Combal ha decidido dejar el programa de medios TPMP al final de la temporada despues de seis años de servicio bueno y leal."
       },
       {
         "id": 8,
-        "question": "¿Qué artista amado por French ha relanzado el juego TV « Burger Quizz » en TMC ?",
+        "question": "¿Que artista amado por French ha relanzado el juego TV « Burger Quizz » en TMC ?",
         "propositions": [
           "Franck Dubosc",
           "Didier Bourdon",
           "Alain Chabat",
           "Albert Dupontel"
         ],
-        "réponse": "Alain Chabat",
+        "reponse": "Alain Chabat",
         "anecdote": "Alain Chabat es fiel a este humor de colegial que, bajo un aparente je-m'-foutisme, requiere un relojero meticuloso."
       },
       {
         "id": 9,
-        "question": "¿Qué ingeniero aeroespacial ha presentado varias películas en Cannes en 2018 ?",
+        "question": "¿Que ingeniero aeroespacial ha presentado varias películas en Cannes en 2018 ?",
         "propositions": [
           "Patrick Baudry",
           "Thomas Pesquet",
           "Michel Tognini",
           "Philippe Perrin"
         ],
-        "réponse": "Thomas Pesquet",
+        "reponse": "Thomas Pesquet",
         "anecdote": "Despegue de un cohete desde Baikonur, pasee por la estación orbital internacional para terminar con una vertiginosa salida extravehicular."
       },
       {
         "id": 10,
-        "question": "¿Qué candidato de Koh-Lanta presentó una queja por agresión sexual ?",
+        "question": "¿Que candidato de Koh-Lanta presentó una queja por agresión sexual ?",
         "propositions": [
           "Candide Renard",
           "Delphine Bano",
           "Isabelle Segui",
           "Wendy Gervois"
         ],
-        "réponse": "Candide Renard",
-        "anecdote": "La producción terminó la filmación de la última temporada después de que un candidato fue víctima de un intento de violación."
+        "reponse": "Candide Renard",
+        "anecdote": "La producción terminó la filmación de la última temporada despues de que un candidato fue víctima de un intento de violación."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "¿Qué compositor de David Guetta ha afirmado haber sufrido nueve cánceres ?",
+        "question": "¿Que compositor de David Guetta ha afirmado haber sufrido nueve cánceres ?",
         "propositions": [
           "Dim Chris",
           "Fred Rister",
           "Tom Bouthier",
           "Greg Parys"
         ],
-        "réponse": "Fred Rister",
+        "reponse": "Fred Rister",
         "anecdote": "A partir de ahora, se sumerge en su primera pasión, la música."
       },
       {
         "id": 12,
-        "question": "¿Qué ganador de Eurovisión cayó fuertemente después de su victoria ?",
+        "question": "¿Que ganador de Eurovisión cayó fuertemente despues de su victoria ?",
         "propositions": [
           "Netta Barzilai",
           "Laura Rizzotto",
           "Jessica Mauboy",
           "Elina Nechayeva"
         ],
-        "réponse": "Netta Barzilai",
+        "reponse": "Netta Barzilai",
         "anecdote": "Netta Barzilai aplastó a la competencia con su título, que hace eco del movimiento #MeToo y la emancipación de la mujer."
       },
       {
         "id": 13,
-        "question": "¿Qué actor fue despedido de la serie « El arma fatal » después de su comportamiento desagradable ?",
+        "question": "¿Que actor fue despedido de la serie « El arma fatal » despues de su comportamiento desagradable ?",
         "propositions": [
           "Clayne Crawford",
           "John Boyd",
           "Kiefer Sutherland",
           "Peter Wingfield"
         ],
-        "réponse": "Clayne Crawford",
-        "anecdote": "Algunos de los actores y técnicos se habrían sentido incómodos con la idea de estar en la meseta con él por acoso moral."
+        "reponse": "Clayne Crawford",
+        "anecdote": "Algunos de los actores y tecnicos se habrían sentido incómodos con la idea de estar en la meseta con el por acoso moral."
       },
       {
         "id": 14,
-        "question": "¿Qué intérprete nos dejó Lois Lane en 2018 a la edad de 69 años ?",
+        "question": "¿Que interprete nos dejó Lois Lane en 2018 a la edad de 69 años ?",
         "propositions": [
           "Lisa Guerrero",
           "Susannah York",
           "Sarah Douglas",
           "Margot Kidder"
         ],
-        "réponse": "Margot Kidder",
-        "anecdote": "En lo privado, Margot Kidder se había casado con el director francés Philippe de Broca entre 1983 y 1984."
+        "reponse": "Margot Kidder",
+        "anecdote": "En lo privado, Margot Kidder se había casado con el director frances Philippe de Broca entre 1983 y 1984."
       },
       {
         "id": 15,
-        "question": "¿Qué rapero estaba sin camisa en la campaña Peta pro-vegana 2018 ?",
+        "question": "¿Que rapero estaba sin camisa en la campaña Peta pro-vegana 2018 ?",
         "propositions": [
           "La Fouine",
           "Stomy Bugsy",
           "JoeyStarr",
           "Maestro Gims"
         ],
-        "réponse": "Stomy Bugsy",
-        "anecdote": "El 14 de mayo de 2017, en una tribuna publicada en el diario Libération, fue uno de los 15 artistas que llamó al gobierno."
+        "reponse": "Stomy Bugsy",
+        "anecdote": "El 14 de mayo de 2017, en una tribuna publicada en el diario Liberation, fue uno de los 15 artistas que llamó al gobierno."
       },
       {
         "id": 16,
-        "question": "¿Qué gran actriz francesa ha aparecido morena en el Festival de Cine de Cannes ?",
+        "question": "¿Que gran actriz francesa ha aparecido morena en el Festival de Cine de Cannes ?",
         "propositions": [
           "Catherine Lara",
           "Catherine Jacob",
           "Catherine Frot",
           "Catherine Deneuve"
         ],
-        "réponse": "Catherine Deneuve",
+        "reponse": "Catherine Deneuve",
         "anecdote": "Si este color de cabello realmente me ha hecho incognoscible, debes saber que el marrón es su color natural."
       },
       {
         "id": 17,
-        "question": "¿Qué hija de Estelle Lefebure posó en los brazos de Kamran Ahmed ?",
+        "question": "¿Que hija de Estelle Lefebure posó en los brazos de Kamran Ahmed ?",
         "propositions": [
           "Darina Scotti",
           "Ilona Smet",
           "Lou Villafranca",
           "Candide Renard"
         ],
-        "réponse": "Ilona Smet",
+        "reponse": "Ilona Smet",
         "anecdote": "En la historia de su cuenta de Instagram, la joven compartió una foto del pastel que su novio había preparado para sus 23 años."
       },
       {
         "id": 18,
-        "question": "¿Quién dijo acerca de la muerte de su hijo Ludovic: « Era su manera » ?",
+        "question": "¿Quien dijo acerca de la muerte de su hijo Ludovic: « Era su manera » ?",
         "propositions": [
           "Sylvie Vartan",
           "Nathalie Baye",
           "Catherine Deneuve",
           "Sheila"
         ],
-        "réponse": "Sheila",
-        "anecdote": "Para la cantante, el lado positivo de esta desgracia es haber podido cantar un poco más de un mes después de la desaparición de su hijo."
+        "reponse": "Sheila",
+        "anecdote": "Para la cantante, el lado positivo de esta desgracia es haber podido cantar un poco más de un mes despues de la desaparición de su hijo."
       },
       {
         "id": 19,
-        "question": "¿Qué cantante se ha afeitado la cabeza para la transmisión de « The Island » ?",
+        "question": "¿Que cantante se ha afeitado la cabeza para la transmisión de « The Island » ?",
         "propositions": [
           "Laam",
           "Nadiya",
           "Shy'm",
           "Alizee"
         ],
-        "réponse": "Laam",
+        "reponse": "Laam",
         "anecdote": "El martes 15 de mayo de 2018 a las 9 p.m., M6 transmitió la versión de celebridades del programa de aventuras « The Island » de Mike Horn."
       },
       {
         "id": 20,
-        "question": "¿Qué pequeña niña de Elvis Presley fue el póster de dos películas presentadas en Cannes ?",
+        "question": "¿Que pequeña niña de Elvis Presley fue el póster de dos películas presentadas en Cannes ?",
         "propositions": [
           "Mackenzie Foy",
           "Riley Keough",
           "Lynnette Cole",
           "Traci Bingham"
         ],
-        "réponse": "Riley Keough",
+        "reponse": "Riley Keough",
         "anecdote": "Modelo a los 14 años, recorrió las pasarelas del mundo antes de responder a la llamada del cine en 2010."
       }
     ],
@@ -1396,121 +1396,121 @@
           "Darina Scotti",
           "Ilona Smet"
         ],
-        "réponse": "Lou Villafranca",
+        "reponse": "Lou Villafranca",
         "anecdote": "En silencio desde la muerte de su madre, Lou, de 25 años, habló sobre las obsesiones de la cantante en Bruselas."
       },
       {
         "id": 22,
-        "question": "A los 29 años, ¿quién lanzó su primer libro titulado « Secrets d'Influenceur » ?",
+        "question": "A los 29 años, ¿quien lanzó su primer libro titulado « Secrets d'Influenceur » ?",
         "propositions": [
           "Tristan Nitot",
           "Loic Le Meur",
           "Valentin Lucas",
           "Etienne Chouard"
         ],
-        "réponse": "Valentin Lucas",
+        "reponse": "Valentin Lucas",
         "anecdote": "Muy legítimo en la red de Instagram, a la ex compañera de Caroline Receveur le siguen casi 250,000 suscriptores."
       },
       {
         "id": 23,
-        "question": "¿Qué guionista de Marvel reclama $ 1 mil millones ?",
+        "question": "¿Que guionista de Marvel reclama $ 1 mil millones ?",
         "propositions": [
           "Stan Lee",
           "Peter David",
           "Brian Reed",
           "Rich Buckler"
         ],
-        "réponse": "Stan Lee",
+        "reponse": "Stan Lee",
         "anecdote": "¡A los 95 años, el fundador del imperio Marvel desafía las condiciones de la venta de prisioneros de guerra! Entretenimiento en una explotación china."
       },
       {
         "id": 24,
-        "question": "¿Qué objeto le ofreció Khloe Kardashian a su hermana Kim para el Día de la Madre ?",
+        "question": "¿Que objeto le ofreció Khloe Kardashian a su hermana Kim para el Día de la Madre ?",
         "propositions": [
           "Maleta",
           "TV",
           "Botella",
           "Vibrador"
         ],
-        "réponse": "Vibrador",
+        "reponse": "Vibrador",
         "anecdote": "Una escena muy divertida que Kim Kardashian compartió en la historia de su cuenta de Instagram, para deleite de sus seguidores."
       },
       {
         "id": 25,
-        "question": "¿Quién se inclinó ante Camille Delcroix en la final de Top Chef 2018 ?",
+        "question": "¿Quien se inclinó ante Camille Delcroix en la final de Top Chef 2018 ?",
         "propositions": [
           "Vincent Crepel",
           "Geoffrey Degros",
           "Victor Mercier",
-          "Clément Vergeat"
+          "Clement Vergeat"
         ],
-        "réponse": "Victor Mercier",
-        "anecdote": "Su juicio con Cédric Naudon le permitió financiar su gira mundial con su mejor amigo Benjamin."
+        "reponse": "Victor Mercier",
+        "anecdote": "Su juicio con Cedric Naudon le permitió financiar su gira mundial con su mejor amigo Benjamin."
       },
       {
         "id": 26,
-        "question": "¿Qué supermodelo checa fue víctima de un accidente culotte en Cannes ?",
+        "question": "¿Que supermodelo checa fue víctima de un accidente culotte en Cannes ?",
         "propositions": [
           "Ivana Trump",
           "Daniela Pestova",
           "Petra Nemcova",
           "Eva Herzigova"
         ],
-        "réponse": "Petra Nemcova",
-        "anecdote": "Vestida con un vestido de Andres Acosta, Petra Nemcova no pudo ocultar sus bragas desnudas después de un vendaval en la Croisette."
+        "reponse": "Petra Nemcova",
+        "anecdote": "Vestida con un vestido de Andres Acosta, Petra Nemcova no pudo ocultar sus bragas desnudas despues de un vendaval en la Croisette."
       },
       {
         "id": 27,
-        "question": "¿Con quién estaba Laury Thilleman, ex Miss Francia, una pareja en mayo de 2018 ?",
+        "question": "¿Con quien estaba Laury Thilleman, ex Miss Francia, una pareja en mayo de 2018 ?",
         "propositions": [
           "Santi Santamaria",
           "Robert de Nola",
           "Martin Berasategui",
           "Juan Arbe­laez"
         ],
-        "réponse": "Juan Arbe­laez",
+        "reponse": "Juan Arbe­laez",
         "anecdote": "« La mayor calidad de Laury es su simplicidad, su lado picante y la luz que trae a donde viene »."
       },
       {
         "id": 28,
-        "question": "¿Quién está casado con Antoine Griezmann, anotador en la final de la Europa League 2018 ?",
+        "question": "¿Quien está casado con Antoine Griezmann, anotador en la final de la Europa League 2018 ?",
         "propositions": [
           "Lou Villafranca",
           "Lisa Guerrero",
           "Erika Choperena",
           "Petra Nemcova"
         ],
-        "réponse": "Erika Choperena",
-        "anecdote": "La mujer de la estrella del Atlético y el equipo de Francia lleva unas semanas vistiendo un nuevo color de cabello."
+        "reponse": "Erika Choperena",
+        "anecdote": "La mujer de la estrella del Atletico y el equipo de Francia lleva unas semanas vistiendo un nuevo color de cabello."
       },
       {
         "id": 29,
-        "question": "Mientras que en Tokio, ¿qué artista francés fue introducido a la esclavitud ?",
+        "question": "Mientras que en Tokio, ¿que artista frances fue introducido a la esclavitud ?",
         "propositions": [
           "Virginie Caprice",
           "Clara Morgane",
           "Silvia Saint",
           "Nabilla Benattia"
         ],
-        "réponse": "Clara Morgane",
-        "anecdote": "Clara Morgane se ha beneficiado de su estancia en Tokio para probar un arte tradicional japonés para los menos extremos."
+        "reponse": "Clara Morgane",
+        "anecdote": "Clara Morgane se ha beneficiado de su estancia en Tokio para probar un arte tradicional japones para los menos extremos."
       },
       {
         "id": 30,
-        "question": "¿Qué hija adoptiva de Sylvie Vartan le hizo una conmovedora declaración a su madre ?",
+        "question": "¿Que hija adoptiva de Sylvie Vartan le hizo una conmovedora declaración a su madre ?",
         "propositions": [
           "Cathy Barry",
           "Sophie Dee",
           "Marina Hedman",
           "Darina Scotti"
         ],
-        "réponse": "Darina Scotti",
+        "reponse": "Darina Scotti",
         "anecdote": "En lugar de hacer una publicación en Instagram, como pudo hacer recientemente, la niña multiplicó los mensajes en la historia."
       }
     ]
     },
     "it": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Quale grande artista belga della canzone ci ha lasciato brutalmente a maggio 2018 ?",
@@ -1520,8 +1520,8 @@
           "Vikor Lazlo",
           "Jo Lemaire"
         ],
-        "réponse": "Maurane",
-        "anecdote": "Maurane è stato trovato morto nella sua casa di Schaerbeek, vicino a Bruxelles. Il giorno prima cantava all'Iris Festival nella capitale."
+        "reponse": "Maurane",
+        "anecdote": "Maurane e stato trovato morto nella sua casa di Schaerbeek, vicino a Bruxelles. Il giorno prima cantava all'Iris Festival nella capitale."
       },
       {
         "id": 2,
@@ -1532,19 +1532,19 @@
           "Florence Schaal",
           "Anne-Sophie Lapix"
         ],
-        "réponse": "Claire Chazal",
+        "reponse": "Claire Chazal",
         "anecdote": "Claire Chazal svolge quotidianamente una lunga sessione di danza classica che scolpisce il corpo e calma la sua mente."
       },
       {
         "id": 3,
-        "question": "Quale giovane artista è stata la prima ragazza a vincere la Francia « The Voice » ?",
+        "question": "Quale giovane artista e stata la prima ragazza a vincere la Francia « The Voice » ?",
         "propositions": [
           "Lucyl",
           "Yasmine",
           "Amandine",
           "Maelle"
         ],
-        "réponse": "Maelle",
+        "reponse": "Maelle",
         "anecdote": "Questa settima edizione avrà visto l'affare Mennel, l'eliminazione di Gulaan, la rivelazione dei quattro finalisti e l'omaggio a Maurane."
       },
       {
@@ -1556,7 +1556,7 @@
           "Kristen Stewart",
           "Eliza Bennett"
         ],
-        "réponse": "Kristen Stewart",
+        "reponse": "Kristen Stewart",
         "anecdote": "Un gesto che ricorda quello del 2016, l'attrice sognata da « Twillight » aveva posato a piedi nudi alla Photocall Cafe Society."
       },
       {
@@ -1568,19 +1568,19 @@
           "Isabelle Benard",
           "Flora Coquerel"
         ],
-        "réponse": "Sylvie Tellier",
+        "reponse": "Sylvie Tellier",
         "anecdote": "È già la madre di un piccolo Oscar di 8 anni (con Camille Le Maux) e un piccolo Margaux di 4 anni (con suo marito Laurent)."
       },
       {
         "id": 6,
-        "question": "Quale cantante è stato costretto ad annullare il suo tour, vittima di una forte caduta ?",
+        "question": "Quale cantante e stato costretto ad annullare il suo tour, vittima di una forte caduta ?",
         "propositions": [
           "Jacques Dutronc",
           "Eddy Mitchell",
           "Salvatore Adamo",
           "Charles Aznavour"
         ],
-        "réponse": "Charles Aznavour",
+        "reponse": "Charles Aznavour",
         "anecdote": "Vittima di una forte caduta il 12 maggio 2018, il cantante 93enne ha dovuto annullare i suoi concerti sia in Giappone che in Uzbekistan."
       },
       {
@@ -1592,7 +1592,7 @@
           "Bruno Guillon",
           "Bernard Montiel"
         ],
-        "réponse": "Camille Combal",
+        "reponse": "Camille Combal",
         "anecdote": "Camille Combal ha infatti deciso di abbandonare lo spettacolo multimediale TPMP alla fine della stagione dopo sei anni di servizio buono e fedele."
       },
       {
@@ -1604,8 +1604,8 @@
           "Franck Dubosc",
           "Alain Chabat"
         ],
-        "réponse": "Alain Chabat",
-        "anecdote": "Alain Chabat è fedele a questo umorismo di scolaro che, sotto un apparente je-m'-foutisme, richiede un meticoloso orologiaio."
+        "reponse": "Alain Chabat",
+        "anecdote": "Alain Chabat e fedele a questo umorismo di scolaro che, sotto un apparente je-m'-foutisme, richiede un meticoloso orologiaio."
       },
       {
         "id": 9,
@@ -1616,7 +1616,7 @@
           "Thomas Pesquet",
           "Michel Tognini"
         ],
-        "réponse": "Thomas Pesquet",
+        "reponse": "Thomas Pesquet",
         "anecdote": "Il razzo che decolla da Baikonur, passeggia nella stazione orbitale internazionale per terminare con una vertiginosa uscita extraveicolare."
       },
       {
@@ -1628,11 +1628,11 @@
           "Isabelle Segui",
           "Candide Renard"
         ],
-        "réponse": "Candide Renard",
-        "anecdote": "La produzione ha terminato le riprese dell'ultima stagione dopo che un candidato è stato vittima di un tentativo di stupro."
+        "reponse": "Candide Renard",
+        "anecdote": "La produzione ha terminato le riprese dell'ultima stagione dopo che un candidato e stato vittima di un tentativo di stupro."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Quale compositore di David Guetta ha affermato di aver sofferto di nove tumori ?",
@@ -1642,31 +1642,31 @@
           "Dim Chris",
           "Tom Bouthier"
         ],
-        "réponse": "Fred Rister",
+        "reponse": "Fred Rister",
         "anecdote": "Da ora in poi, si immerge nella sua prima passione, la musica."
       },
       {
         "id": 12,
-        "question": "Quale vincitore dell'Eurovision è fortemente caduto dopo la sua vittoria ?",
+        "question": "Quale vincitore dell'Eurovision e fortemente caduto dopo la sua vittoria ?",
         "propositions": [
           "Laura Rizzotto",
           "Elina Nechayeva",
           "Netta Barzilai",
           "Jessica Mauboy"
         ],
-        "réponse": "Netta Barzilai",
+        "reponse": "Netta Barzilai",
         "anecdote": "Netta Barzilai ha schiacciato la competizione con il suo titolo, che fa eco al movimento #MeToo e all'emancipazione della donna."
       },
       {
         "id": 13,
-        "question": "Quale attore è stato licenziato dalla serie « L'arma fatale » a seguito del suo comportamento odioso ?",
+        "question": "Quale attore e stato licenziato dalla serie « L'arma fatale » a seguito del suo comportamento odioso ?",
         "propositions": [
           "Kiefer Sutherland",
           "John Boyd",
           "Clayne Crawford",
           "Peter Wingfield"
         ],
-        "réponse": "Clayne Crawford",
+        "reponse": "Clayne Crawford",
         "anecdote": "Alcuni degli attori e dei tecnici si sarebbero sentiti a disagio con l'idea di essere sul plateau con lui per molestie morali."
       },
       {
@@ -1678,7 +1678,7 @@
           "Lisa Guerrero",
           "Sarah Douglas"
         ],
-        "réponse": "Margot Kidder",
+        "reponse": "Margot Kidder",
         "anecdote": "Sul lato privato, Margot Kidder era stata sposata con il regista francese Philippe de Broca tra il 1983 e il 1984."
       },
       {
@@ -1690,20 +1690,20 @@
           "Maestro Gims",
           "La Fouine"
         ],
-        "réponse": "Stomy Bugsy",
-        "anecdote": "Il 14 maggio 2017, in una tribuna pubblicata sul quotidiano Libération, è stato uno dei 15 artisti a chiamare il governo."
+        "reponse": "Stomy Bugsy",
+        "anecdote": "Il 14 maggio 2017, in una tribuna pubblicata sul quotidiano Liberation, e stato uno dei 15 artisti a chiamare il governo."
       },
       {
         "id": 16,
-        "question": "Quale grande attrice francese è apparsa bruna al Festival di Cannes ?",
+        "question": "Quale grande attrice francese e apparsa bruna al Festival di Cannes ?",
         "propositions": [
           "Catherine Lara",
           "Catherine Jacob",
           "Catherine Frot",
           "Catherine Deneuve"
         ],
-        "réponse": "Catherine Deneuve",
-        "anecdote": "Se questo colore di capelli mi ha davvero reso inconoscibile, dovresti sapere che il marrone è il suo colore naturale."
+        "reponse": "Catherine Deneuve",
+        "anecdote": "Se questo colore di capelli mi ha davvero reso inconoscibile, dovresti sapere che il marrone e il suo colore naturale."
       },
       {
         "id": 17,
@@ -1714,7 +1714,7 @@
           "Ilona Smet",
           "Candide Renard"
         ],
-        "réponse": "Ilona Smet",
+        "reponse": "Ilona Smet",
         "anecdote": "Nella storia del suo account Instagram, la giovane donna ha condiviso una foto della torta che il suo ragazzo aveva preparato per i suoi 23 anni."
       },
       {
@@ -1726,19 +1726,19 @@
           "Sheila",
           "Catherine Deneuve"
         ],
-        "réponse": "Sheila",
-        "anecdote": "Per la cantante, il lato positivo di questa sventura è di aver potuto cantare poco più di un mese dopo la scomparsa di suo figlio."
+        "reponse": "Sheila",
+        "anecdote": "Per la cantante, il lato positivo di questa sventura e di aver potuto cantare poco piu di un mese dopo la scomparsa di suo figlio."
       },
       {
         "id": 19,
-        "question": "Quale cantante si è rasata la testa per la trasmissione di « The Island » ?",
+        "question": "Quale cantante si e rasata la testa per la trasmissione di « The Island » ?",
         "propositions": [
           "Laam",
           "Alizee",
           "Nadiya",
           "Shy'm"
         ],
-        "réponse": "Laam",
+        "reponse": "Laam",
         "anecdote": "Martedì 15 maggio 2018 alle 21:00, M6 ha mandato in onda la versione celebrità dello spettacolo d'avventura « The Island » di Mike Horn."
       },
       {
@@ -1750,21 +1750,21 @@
           "Riley Keough",
           "Mackenzie Foy"
         ],
-        "réponse": "Riley Keough",
+        "reponse": "Riley Keough",
         "anecdote": "Modella all'età di 14 anni, ha percorso le passerelle del mondo prima di rispondere alla chiamata del cinema nel 2010."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Qual è il nome dell'unica figlia del defunto Maurane ?",
+        "question": "Qual e il nome dell'unica figlia del defunto Maurane ?",
         "propositions": [
           "Lou Villafranca",
           "Darina Scotti",
           "Ilona Smet",
           "Candide Renard"
         ],
-        "réponse": "Lou Villafranca",
+        "reponse": "Lou Villafranca",
         "anecdote": "Silenzioso dalla morte di sua madre, Lou, 25 anni, ha parlato della maledizione della cantante che era a Bruxelles."
       },
       {
@@ -1776,8 +1776,8 @@
           "Étienne Chouard",
           "Valentin Lucas"
         ],
-        "réponse": "Valentin Lucas",
-        "anecdote": "Abbastanza legittimo sulla rete Instagram, l'ex compagno di Caroline Receveur è seguito da quasi 250.000 abbonati."
+        "reponse": "Valentin Lucas",
+        "anecdote": "Abbastanza legittimo sulla rete Instagram, l'ex compagno di Caroline Receveur e seguito da quasi 250.000 abbonati."
       },
       {
         "id": 23,
@@ -1788,7 +1788,7 @@
           "Peter David",
           "Brian Reed"
         ],
-        "réponse": "Stan Lee",
+        "reponse": "Stan Lee",
         "anecdote": "All'età di 95 anni, il fondatore dell'impero Marvel sfida le condizioni della vendita di POW! Intrattenimento presso un'azienda cinese."
       },
       {
@@ -1800,31 +1800,31 @@
           "Vibratore",
           "Bottiglia"
         ],
-        "réponse": "Vibratore",
+        "reponse": "Vibratore",
         "anecdote": "Una scena molto divertente che Kim Kardashian ha condiviso sulla storia del suo account Instagram, per la gioia dei suoi seguaci."
       },
       {
         "id": 25,
-        "question": "Chi si è inchinato a Camille Delcroix nella finale del Top Chef 2018 ?",
+        "question": "Chi si e inchinato a Camille Delcroix nella finale del Top Chef 2018 ?",
         "propositions": [
           "Geoffrey Degros",
           "Victor Mercier",
           "Vincent Crepel",
-          "Clément Vergeat"
+          "Clement Vergeat"
         ],
-        "réponse": "Victor Mercier",
-        "anecdote": "Il suo processo con Cédric Naudon gli ha permesso di finanziare il suo tour mondiale con il suo migliore amico Benjamin."
+        "reponse": "Victor Mercier",
+        "anecdote": "Il suo processo con Cedric Naudon gli ha permesso di finanziare il suo tour mondiale con il suo migliore amico Benjamin."
       },
       {
         "id": 26,
-        "question": "Quale top model ceca è stata vittima di un incidente culotte a Cannes ?",
+        "question": "Quale top model ceca e stata vittima di un incidente culotte a Cannes ?",
         "propositions": [
           "Ivana Trump",
           "Petra Nemcova",
           "Eva Herzigova",
           "Daniela Pestova"
         ],
-        "réponse": "Petra Nemcova",
+        "reponse": "Petra Nemcova",
         "anecdote": "Vestito con un abito di Andres Acosta, Petra Nemcova non riusciva a nascondere le sue mutandine nude dopo una tempesta sulla Croisette."
       },
       {
@@ -1836,31 +1836,31 @@
           "Santi Santamaria",
           "Robert de Nola"
         ],
-        "réponse": "Juan Arbe­laez",
-        "anecdote": "« La più grande qualità di Laury è la sua semplicità, il suo lato piccante e la luce che porta dove viene »."
+        "reponse": "Juan Arbe­laez",
+        "anecdote": "« La piu grande qualità di Laury e la sua semplicità, il suo lato piccante e la luce che porta dove viene »."
       },
       {
         "id": 28,
-        "question": "Chi è sposato con Antoine Griezmann, capocannoniere della finale di Europa League 2018 ?",
+        "question": "Chi e sposato con Antoine Griezmann, capocannoniere della finale di Europa League 2018 ?",
         "propositions": [
           "Lisa Guerrero",
           "Erika Choperena",
           "Lou Villafranca",
           "Petra Nemcova"
         ],
-        "réponse": "Erika Choperena",
+        "reponse": "Erika Choperena",
         "anecdote": "La donna della stella di Atletico e la squadra di Francia ha indossato un nuovo colore di capelli per alcune settimane."
       },
       {
         "id": 29,
-        "question": "Mentre a Tokyo, quale artista francese è stato introdotto alla schiavitù ?",
+        "question": "Mentre a Tokyo, quale artista francese e stato introdotto alla schiavitu ?",
         "propositions": [
           "Virginie Caprice",
           "Silvia Saint",
           "Nabilla Benattia",
           "Clara Morgane"
         ],
-        "réponse": "Clara Morgane",
+        "reponse": "Clara Morgane",
         "anecdote": "Clara Morgane ha davvero beneficiato del suo soggiorno a Tokyo per provare un'arte giapponese tradizionale per i meno estremi."
       },
       {
@@ -1872,13 +1872,13 @@
           "Darina Scotti",
           "Sophie Dee"
         ],
-        "réponse": "Darina Scotti",
+        "reponse": "Darina Scotti",
         "anecdote": "Invece di fare un post su Instagram, come ha potuto fare di recente, la ragazza ha moltiplicato i messaggi nella storia."
       }
     ]
     },
     "nl": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Welke geweldige Belgische artiest van het nummer heeft ons in mei 2018 op brute wijze verlaten ?",
@@ -1888,7 +1888,7 @@
           "Maurane",
           "Jo Lemaire"
         ],
-        "réponse": "Maurane",
+        "reponse": "Maurane",
         "anecdote": "Maurane werd dood aangetroffen in haar huis in Schaarbeek, nabij Brussel. De dag ervoor zong ze op het Irisfestival in de hoofdstad."
       },
       {
@@ -1900,7 +1900,7 @@
           "Claire Chazal",
           "Anne-Sophie Lapix"
         ],
-        "réponse": "Claire Chazal",
+        "reponse": "Claire Chazal",
         "anecdote": "Claire Chazal voert dagelijks een lange sessie klassieke dans uit die het lichaam beeldhouwt en zijn geest kalmeert."
       },
       {
@@ -1912,7 +1912,7 @@
           "Maelle",
           "Yasmine"
         ],
-        "réponse": "Maelle",
+        "reponse": "Maelle",
         "anecdote": "Deze zevende editie zal de Mennel-affaire hebben gezien, de eliminatie van Gulaan, de onthulling van de vier finalisten en het eerbetoon aan Maurane."
       },
       {
@@ -1924,7 +1924,7 @@
           "Lily Collins",
           "Eliza Bennett"
         ],
-        "réponse": "Kristen Stewart",
+        "reponse": "Kristen Stewart",
         "anecdote": "Een gebaar dat doet denken aan dat in 2016, de actrice droomde van « Twillight » had op blote voeten geposeerd bij de Photocall Cafe Society."
       },
       {
@@ -1936,7 +1936,7 @@
           "Mareva Galanter",
           "Flora Coquerel"
         ],
-        "réponse": "Sylvie Tellier",
+        "reponse": "Sylvie Tellier",
         "anecdote": "Ze is al de moeder van een kleine Oscar van 8 jaar (met Camille Le Maux) en een kleine Margaux van 4 jaar (met haar man Laurent)."
       },
       {
@@ -1948,7 +1948,7 @@
           "Jacques Dutronc",
           "Charles Aznavour"
         ],
-        "réponse": "Charles Aznavour",
+        "reponse": "Charles Aznavour",
         "anecdote": "Het slachtoffer van een zware val op 12 mei 2018, de 93-jarige zanger moest zijn concerten annuleren in zowel Japan als Oezbekistan."
       },
       {
@@ -1960,7 +1960,7 @@
           "Camille Combal",
           "Bernard Montiel"
         ],
-        "réponse": "Camille Combal",
+        "reponse": "Camille Combal",
         "anecdote": "Camille Combal heeft inderdaad besloten om de TPMP-mediashow aan het einde van het seizoen te verlaten na zes jaar goede en loyale service."
       },
       {
@@ -1972,7 +1972,7 @@
           "Franck Dubosc",
           "Albert Dupontel"
         ],
-        "réponse": "Alain Chabat",
+        "reponse": "Alain Chabat",
         "anecdote": "Alain Chabat is trouw aan deze humor van schooljongen die, onder een kennelijke je-m'-foutisme, een nauwgezette horlogemaker nodig heeft."
       },
       {
@@ -1984,7 +1984,7 @@
           "Philippe Perrin",
           "Michel Tognini"
         ],
-        "réponse": "Thomas Pesquet",
+        "reponse": "Thomas Pesquet",
         "anecdote": "Raket opstijgend vanuit Baikonur, wandeling in het internationale orbitale station om te eindigen met een duizelingwekkende extravehiculaire uitgang."
       },
       {
@@ -1996,11 +1996,11 @@
           "Isabelle Segui",
           "Candide Renard"
         ],
-        "réponse": "Candide Renard",
-        "anecdote": "De productie beëindigde het filmen van het afgelopen seizoen nadat een kandidaat het slachtoffer was van een poging tot verkrachting."
+        "reponse": "Candide Renard",
+        "anecdote": "De productie beaindigde het filmen van het afgelopen seizoen nadat een kandidaat het slachtoffer was van een poging tot verkrachting."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Welke componist van David Guetta heeft beweerd te hebben geleden aan negen soorten kanker ?",
@@ -2010,7 +2010,7 @@
           "Greg Parys",
           "Dim Chris"
         ],
-        "réponse": "Fred Rister",
+        "reponse": "Fred Rister",
         "anecdote": "Vanaf nu dompelt hij zich onder in zijn eerste passie, muziek."
       },
       {
@@ -2022,7 +2022,7 @@
           "Netta Barzilai",
           "Elina Nechayeva"
         ],
-        "réponse": "Netta Barzilai",
+        "reponse": "Netta Barzilai",
         "anecdote": "Netta Barzilai verpletterde de competitie met haar titel, die de #MeToo-beweging en de emancipatie van de vrouw weerspiegelt."
       },
       {
@@ -2034,7 +2034,7 @@
           "John Boyd",
           "Peter Wingfield"
         ],
-        "réponse": "Clayne Crawford",
+        "reponse": "Clayne Crawford",
         "anecdote": "Sommige acteurs en technici zouden zich ongemakkelijk hebben gevoeld bij het idee om bij hem op het plateau te zijn voor morele intimidatie."
       },
       {
@@ -2046,8 +2046,8 @@
           "Margot Kidder",
           "Sarah Douglas"
         ],
-        "réponse": "Margot Kidder",
-        "anecdote": "Aan de privézijde was Margot Kidder tussen 1983 en 1984 getrouwd met de Franse regisseur Philippe de Broca."
+        "reponse": "Margot Kidder",
+        "anecdote": "Aan de privezijde was Margot Kidder tussen 1983 en 1984 getrouwd met de Franse regisseur Philippe de Broca."
       },
       {
         "id": 15,
@@ -2058,8 +2058,8 @@
           "La Fouine",
           "Meester Gims"
         ],
-        "réponse": "Stomie Bugsy",
-        "anecdote": "Op 14 mei 2017 was hij in een tribune gepubliceerd in het dagblad Libération een van de 15 kunstenaars die de regering belden."
+        "reponse": "Stomie Bugsy",
+        "anecdote": "Op 14 mei 2017 was hij in een tribune gepubliceerd in het dagblad Liberation een van de 15 kunstenaars die de regering belden."
       },
       {
         "id": 16,
@@ -2070,7 +2070,7 @@
           "Catherine Lara",
           "Catherine Deneuve"
         ],
-        "réponse": "Catherine Deneuve",
+        "reponse": "Catherine Deneuve",
         "anecdote": "Als deze haarkleur me echt onkenbaar heeft gemaakt, moet je weten dat bruin zijn natuurlijke kleur is."
       },
       {
@@ -2082,7 +2082,7 @@
           "Lou Villafranca",
           "Candide Renard"
         ],
-        "réponse": "Ilona Smet",
+        "reponse": "Ilona Smet",
         "anecdote": "In het verhaal van haar Instagram-account deelde de jonge vrouw een foto van de cake die haar vriendje voor haar 23 jaar had voorbereid."
       },
       {
@@ -2094,7 +2094,7 @@
           "Sheila",
           "Sylvie Vartan"
         ],
-        "réponse": "Sheila",
+        "reponse": "Sheila",
         "anecdote": "Voor de zangeres is de positieve kant van dit ongeluk dat ze iets meer dan een maand na het verdwijnen van haar zoon had kunnen zingen."
       },
       {
@@ -2106,7 +2106,7 @@
           "Laam",
           "Nadiya"
         ],
-        "réponse": "Laam",
+        "reponse": "Laam",
         "anecdote": "Op dinsdag 15 mei 2018 om 9 uur's avonds heeft M6 de celebrity-versie van Mike Horn's « The Island » adventure show uitgezonden."
       },
       {
@@ -2118,7 +2118,7 @@
           "Riley Keough",
           "Traci Bingham"
         ],
-        "réponse": "Riley Keough",
+        "reponse": "Riley Keough",
         "anecdote": "Model op 14-jarige leeftijd liep ze over de catwalks van de wereld voordat ze de oproep van de bioscoop beantwoordde in 2010."
       }
     ],
@@ -2132,7 +2132,7 @@
           "Darina Scotti",
           "Ilona Smet"
         ],
-        "réponse": "Lou Villafranca",
+        "reponse": "Lou Villafranca",
         "anecdote": "Zwijgend sinds de dood van haar moeder, Lou, 25 jaar oud, sprak tijdens de vloek van de zangeres die in Brussel was."
       },
       {
@@ -2144,7 +2144,7 @@
           "Valentin Lucas",
           "Loic Le Meur"
         ],
-        "réponse": "Valentin Lucas",
+        "reponse": "Valentin Lucas",
         "anecdote": "Vrij legitiem op het Instagram-netwerk, wordt de voormalige metgezel van Caroline Receveur gevolgd door bijna 250.000 abonnees."
       },
       {
@@ -2156,7 +2156,7 @@
           "Peter David",
           "Rich Buckler"
         ],
-        "réponse": "Stan Lee",
+        "reponse": "Stan Lee",
         "anecdote": "Op 95-jarige leeftijd daagt de oprichter van het Marvel-imperium de voorwaarden voor de verkoop van POW! Entertainment op een Chinees bedrijf."
       },
       {
@@ -2168,8 +2168,8 @@
           "Vibrator",
           "Koffer"
         ],
-        "réponse": "Vibrator",
-        "anecdote": "Een zeer grappige scène die Kim Kardashian op het verhaal van zijn Instagram-account deelde, tot grote vreugde van zijn volgers."
+        "reponse": "Vibrator",
+        "anecdote": "Een zeer grappige scene die Kim Kardashian op het verhaal van zijn Instagram-account deelde, tot grote vreugde van zijn volgers."
       },
       {
         "id": 25,
@@ -2177,11 +2177,11 @@
         "propositions": [
           "Vincent Crepel",
           "Geoffrey Degros",
-          "Clément Vergeat",
+          "Clement Vergeat",
           "Victor Mercier"
         ],
-        "réponse": "Victor Mercier",
-        "anecdote": "Zijn proces met Cédric Naudon stelde hem in staat zijn wereldreis met zijn beste vriend Benjamin te financieren."
+        "reponse": "Victor Mercier",
+        "anecdote": "Zijn proces met Cedric Naudon stelde hem in staat zijn wereldreis met zijn beste vriend Benjamin te financieren."
       },
       {
         "id": 26,
@@ -2192,7 +2192,7 @@
           "Eva Herzigova",
           "Daniela Pestova"
         ],
-        "réponse": "Petra Nemcova",
+        "reponse": "Petra Nemcova",
         "anecdote": "Gekleed in een Andres Acosta-jurk kon Petra Nemcova haar naakte slipje niet verbergen na een storm op de Croisette."
       },
       {
@@ -2204,7 +2204,7 @@
           "Santi Santamaria",
           "Juan Arbe­laez"
         ],
-        "réponse": "Juan Arbe­laez",
+        "reponse": "Juan Arbe­laez",
         "anecdote": "« Laury's grootste kwaliteit is de eenvoud, de pikante kant en het licht dat het brengt waar het vandaan komt »."
       },
       {
@@ -2216,7 +2216,7 @@
           "Erika Choperena",
           "Petra Nemcova"
         ],
-        "réponse": "Erika Choperena",
+        "reponse": "Erika Choperena",
         "anecdote": "De vrouw van de ster van Atletico en het team van Frankrijk hebben sinds enkele weken een nieuwe haarkleur."
       },
       {
@@ -2228,7 +2228,7 @@
           "Virginie Caprice",
           "Nabilla Benattia"
         ],
-        "réponse": "Clara Morgane",
+        "reponse": "Clara Morgane",
         "anecdote": "Clara Morgane heeft inderdaad geprofiteerd van haar verblijf in Tokio om een traditionele Japanse kunst te proberen voor de minder extreme."
       },
       {
@@ -2240,7 +2240,7 @@
           "Cathy Barry",
           "Marina Hedman"
         ],
-        "réponse": "Darina Scotti",
+        "reponse": "Darina Scotti",
         "anecdote": "In plaats van een Instagram-bericht te plaatsen, zoals ze onlangs kon doen, vermenigvuldigde het meisje de berichten in het verhaal."
       }
     ]

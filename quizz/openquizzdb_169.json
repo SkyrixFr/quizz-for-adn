@@ -1,347 +1,347 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "3 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
+      "categorie": "Celebrites",
       "nom": "People : juillet 2017",
-      "slogan": "Ils ont fait l'actualité"
+      "slogan": "Ils ont fait l'actualite"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "People: July 2017",
       "slogan": "They made the news"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Gente: julio de 2017",
       "slogan": "Fueron noticia"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Persone: luglio 2017",
       "slogan": "Hanno fatto notizia"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Personen: Juli 2017",
       "slogan": "Sie machten die Nachrichten"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Mensen: juli 2017",
       "slogan": "Ze haalden het nieuws"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Quelle animatrice télé a fêté en juillet 2017 son million d'abonnés sur Twitter ?",
+        "question": "Quelle animatrice tele a fete en juillet 2017 son million d'abonnes sur Twitter ?",
         "propositions": [
-          "Valérie Bénaïm",
+          "Valerie Benaïm",
           "Caroline Ithurbide",
-          "Géraldine Maillet",
-          "Enora Malagré"
+          "Geraldine Maillet",
+          "Enora Malagre"
         ],
-        "réponse": "Enora Malagré",
-        "anecdote": "Enora Malagré a préparé pour l'occasion une fête avec tous ses fans et une autre animation durant le deuxième week-end de septembre."
+        "reponse": "Enora Malagre",
+        "anecdote": "Enora Malagre a prepare pour l'occasion une fete avec tous ses fans et une autre animation durant le deuxieme week-end de septembre."
       },
       {
         "id": 2,
-        "question": "Quel danseur a décidé de continuer sa carrière sous l'influence de Céline Dion ?",
+        "question": "Quel danseur a decide de continuer sa carriere sous l'influence de Celine Dion ?",
         "propositions": [
           "Pablo Puyol",
           "Pepe Munoz",
           "Antonio Gades",
           "Pep Ramis"
         ],
-        "réponse": "Pepe Munoz",
-        "anecdote": "Le danseur de 33 ans avait pourtant envisagé de délaisser la danse pour se consacrer à sa seconde passion : le stylisme."
+        "reponse": "Pepe Munoz",
+        "anecdote": "Le danseur de 33 ans avait pourtant envisage de delaisser la danse pour se consacrer à sa seconde passion : le stylisme."
       },
       {
         "id": 3,
-        "question": "Quel humoriste est systématiquement contrôlé par le fisc depuis près de 30 ans ?",
+        "question": "Quel humoriste est systematiquement contrôle par le fisc depuis pres de 30 ans ?",
         "propositions": [
           "Olivier de Benoist",
           "Ahmed Sylla",
           "Jean-Marie Bigard",
           "Arnaud Tsamere"
         ],
-        "réponse": "Jean-Marie Bigard",
-        "anecdote": "Jean-Marie Bigard manque également souvent d'être déprogrammé pour son sexisme et sa vulgarité par le CSA."
+        "reponse": "Jean-Marie Bigard",
+        "anecdote": "Jean-Marie Bigard manque egalement souvent d'etre deprogramme pour son sexisme et sa vulgarite par le CSA."
       },
       {
         "id": 4,
-        "question": "Quel nageur, aujourd'hui retraité, a remporté l'or à Budapest en juillet 2017 ?",
+        "question": "Quel nageur, aujourd'hui retraite, a remporte l'or à Budapest en juillet 2017 ?",
         "propositions": [
           "Julien Sauvage",
           "Camille Lacourt",
           "Paul Vasseur",
-          "Stéphane Lecat"
+          "Stephane Lecat"
         ],
-        "réponse": "Camille Lacourt",
-        "anecdote": "À 32 ans, le jeune homme a déjà plein de projets : restaurant-bar/cocktail à Paris et ambassadeur pour la marque Clarins."
+        "reponse": "Camille Lacourt",
+        "anecdote": "À 32 ans, le jeune homme a dejà plein de projets : restaurant-bar/cocktail à Paris et ambassadeur pour la marque Clarins."
       },
       {
         "id": 5,
-        "question": "Quelle héroïne de « Jules et Jim » nous a quittés à l'âge de 89 ans ?",
+        "question": "Quelle heroïne de « Jules et Jim » nous a quittes à l'age de 89 ans ?",
         "propositions": [
           "Suzanne Flon",
           "Jeanne Moreau",
           "Danielle Darrieux",
           "Annie Girardot"
         ],
-        "réponse": "Jeanne Moreau",
-        "anecdote": "Jeanne Moreau laisse derrière elle de nombreux films cultes dont « Jules et Jim » ou « Le Journal d'une femme de chambre »."
+        "reponse": "Jeanne Moreau",
+        "anecdote": "Jeanne Moreau laisse derriere elle de nombreux films cultes dont « Jules et Jim » ou « Le Journal d'une femme de chambre »."
       },
       {
         "id": 6,
-        "question": "Durant quel festival 22 000 personnes ont-elles dû être évacuées suite à un incendie ?",
+        "question": "Durant quel festival 22 000 personnes ont-elles dû etre evacuees suite à un incendie ?",
         "propositions": [
           "Qlimax",
           "Bassleader",
           "Tekknozid",
           "Tomorrowland"
         ],
-        "réponse": "Tomorrowland",
-        "anecdote": "Une enquête fut lancée pour déterminer les causes de l'incendie, dû à des problèmes techniques selon les organisateurs."
+        "reponse": "Tomorrowland",
+        "anecdote": "Une enquete fut lancee pour determiner les causes de l'incendie, dû à des problemes techniques selon les organisateurs."
       },
       {
         "id": 7,
-        "question": "Quel ex d'Halle Berry a été shooté en 2017 pour une campagne Mango Man ?",
+        "question": "Quel ex d'Halle Berry a ete shoote en 2017 pour une campagne Mango Man ?",
         "propositions": [
           "Mathieu Amalric",
           "Yvan Attal",
           "Mathieu Kassovitz",
           "Olivier Martinez"
         ],
-        "réponse": "Olivier Martinez",
-        "anecdote": "Une très belle campagne Mango Man qui réunit aussi les tops Freja Beha et Amber Valletta, shootées par le talentueux Mario Sorrenti."
+        "reponse": "Olivier Martinez",
+        "anecdote": "Une tres belle campagne Mango Man qui reunit aussi les tops Freja Beha et Amber Valletta, shootees par le talentueux Mario Sorrenti."
       },
       {
         "id": 8,
-        "question": "Combien de bougies Carla Bruni-Sarkozy a-t-elle soufflé en 2017 ?",
+        "question": "Combien de bougies Carla Bruni-Sarkozy a-t-elle souffle en 2017 ?",
         "propositions": [
           "60",
           "30",
           "50",
           "40"
         ],
-        "réponse": "50",
-        "anecdote": "Carla Bruni a posé et joué dans plusieurs publicités, notamment pour le joaillier Bulgari et la marque automobile Ford."
+        "reponse": "50",
+        "anecdote": "Carla Bruni a pose et joue dans plusieurs publicites, notamment pour le joaillier Bulgari et la marque automobile Ford."
       },
       {
         "id": 9,
-        "question": "Que fait Khloé Kardashian pour dévoiler sans retenue un fessier parfait ?",
+        "question": "Que fait Khloe Kardashian pour devoiler sans retenue un fessier parfait ?",
         "propositions": [
           "Elle le brosse",
           "Elle le frappe",
           "Elle le maquille",
           "Elle le secoue"
         ],
-        "réponse": "Elle le maquille",
-        "anecdote": "Khloé Kardashian a lancé avec ses soeurs plusieurs collections de vêtements, de maquillage et de produits de beauté."
+        "reponse": "Elle le maquille",
+        "anecdote": "Khloe Kardashian a lance avec ses soeurs plusieurs collections de vetements, de maquillage et de produits de beaute."
       },
       {
         "id": 10,
-        "question": "Quel acteur du film « Dunkerque » a la particularité de posséder quatre tétons ?",
+        "question": "Quel acteur du film « Dunkerque » a la particularite de posseder quatre tetons ?",
         "propositions": [
           "Harry Styles",
           "Zayn Malik",
           "Liam Payne",
           "Niall Horan"
         ],
-        "réponse": "Harry Styles",
+        "reponse": "Harry Styles",
         "anecdote": "À la suite d'une suggestion de la chanteuse Nicole Scherzinger, Harry Styles formera le groupe One Direction."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "De quel chanteur de rhythm and blues Brad Pitt est-il un fan incontesté ?",
+        "question": "De quel chanteur de rhythm and blues Brad Pitt est-il un fan inconteste ?",
         "propositions": [
           "Franck Ocean",
           "Johnny Gill",
           "John Legend",
           "Chris Brown"
         ],
-        "réponse": "Franck Ocean",
-        "anecdote": "Selon certaines rumeurs, la musique de Franck Ocean aurait même aidé Brad Pitt à se remettre de son divorce avec Angélina Jolie."
+        "reponse": "Franck Ocean",
+        "anecdote": "Selon certaines rumeurs, la musique de Franck Ocean aurait meme aide Brad Pitt à se remettre de son divorce avec Angelina Jolie."
       },
       {
         "id": 12,
-        "question": "Quel fils de la chanteuse Sheila nous a quittés le 8 juillet 2017 ?",
+        "question": "Quel fils de la chanteuse Sheila nous a quittes le 8 juillet 2017 ?",
         "propositions": [
           "Paul Chenailler",
-          "Noël Castelain",
+          "Noal Castelain",
           "Ludovic Chancel",
           "Christian Coudray"
         ],
-        "réponse": "Ludovic Chancel",
+        "reponse": "Ludovic Chancel",
         "anecdote": "Ludovic, le fils de la chanteuse Sheila, voulait quitter sa compagne Sylvie Ortega Munos, peu de temps avant sa mort."
       },
       {
         "id": 13,
-        "question": "Quelle actrice a vomi durant une représentation théâtrale d'Olivia Wilde ?",
+        "question": "Quelle actrice a vomi durant une representation theatrale d'Olivia Wilde ?",
         "propositions": [
           "Cate Blanchett",
           "Emma Stone",
           "Natalie Portman",
           "Jennifer Lawrence"
         ],
-        "réponse": "Jennifer Lawrence",
-        "anecdote": "La cause de cette réaction émotive : des scènes de tortures, des scènes de violence où toutes les libertés de penser sont réprimées."
+        "reponse": "Jennifer Lawrence",
+        "anecdote": "La cause de cette reaction emotive : des scenes de tortures, des scenes de violence ou toutes les libertes de penser sont reprimees."
       },
       {
         "id": 14,
-        "question": "Quelle comédienne a accouché d'un petit Souleymane en juillet 2017 ?",
+        "question": "Quelle comedienne a accouche d'un petit Souleymane en juillet 2017 ?",
         "propositions": [
-          "Géraldine Nakache",
+          "Geraldine Nakache",
           "Naidra Ayadi",
           "Leïla Bekhti",
           "Zita Hanrot"
         ],
-        "réponse": "Leïla Bekhti",
-        "anecdote": "La comédienne d'« Un Prophète », de « Tout ce qui brille » et de « La Source des femmes » est mariée avec Tahar Rahim."
+        "reponse": "Leïla Bekhti",
+        "anecdote": "La comedienne d'« Un Prophete », de « Tout ce qui brille » et de « La Source des femmes » est mariee avec Tahar Rahim."
       },
       {
         "id": 15,
-        "question": "Quel mannequin et chérie de Vincent Cassel a publié des photos torrides en 2017 ?",
+        "question": "Quel mannequin et cherie de Vincent Cassel a publie des photos torrides en 2017 ?",
         "propositions": [
           "Claudia Romani",
           "Tina Kunakey",
           "Miriam Leone",
           "Valeria Cavalli"
         ],
-        "réponse": "Tina Kunakey",
-        "anecdote": "Tina Kunakey, de son vrai nom Tina Kunakey Di Vita, née le 5 avril 1997, est une top modèle togolaise et italienne."
+        "reponse": "Tina Kunakey",
+        "anecdote": "Tina Kunakey, de son vrai nom Tina Kunakey Di Vita, nee le 5 avril 1997, est une top modele togolaise et italienne."
       },
       {
         "id": 16,
-        "question": "Laquelle de ces célébrités a déclaré en juillet 2017 avoir peur de vomir ?",
+        "question": "Laquelle de ces celebrites a declare en juillet 2017 avoir peur de vomir ?",
         "propositions": [
           "Lorie",
           "Shy'm",
           "Tal",
-          "Alizée"
+          "Alizee"
         ],
-        "réponse": "Shy'm",
-        "anecdote": "Shy'm a livré ses secrets dans le magazine Biba et avoué notamment une de ses plus grandes craintes : l'émétophobie."
+        "reponse": "Shy'm",
+        "anecdote": "Shy'm a livre ses secrets dans le magazine Biba et avoue notamment une de ses plus grandes craintes : l'emetophobie."
       },
       {
         "id": 17,
-        "question": "À qui Jean-Pascal Lacoste a-t-il fait une déclaration d'amour en juillet 2017 ?",
+        "question": "À qui Jean-Pascal Lacoste a-t-il fait une declaration d'amour en juillet 2017 ?",
         "propositions": [
           "Delphine Tellier",
           "Sigrid Agren",
           "Cindy Bruna",
           "Audrey Marnay"
         ],
-        "réponse": "Delphine Tellier",
-        "anecdote": "En janvier 2001, Jean-Pascal Lacoste a été sélectionné par TF1 pour participer à la première édition de « Star Academy »."
+        "reponse": "Delphine Tellier",
+        "anecdote": "En janvier 2001, Jean-Pascal Lacoste a ete selectionne par TF1 pour participer à la premiere edition de « Star Academy »."
       },
       {
         "id": 18,
-        "question": "Quelle chroniqueuse de « Téléfoot » a dit oui à son chéri Jean-Luc Guizonne ?",
+        "question": "Quelle chroniqueuse de « Telefoot » a dit oui à son cheri Jean-Luc Guizonne ?",
         "propositions": [
           "Nathalie Simon",
-          "Cécile de Ménibus",
+          "Cecile de Menibus",
           "Charlotte Namura",
           "Ariane Carletti"
         ],
-        "réponse": "Charlotte Namura",
-        "anecdote": "Charlotte Namura a été repérée par l'équipe de Téléfoot alors qu'elle faisait des chroniques sports sur une petite Web TV."
+        "reponse": "Charlotte Namura",
+        "anecdote": "Charlotte Namura a ete reperee par l'equipe de Telefoot alors qu'elle faisait des chroniques sports sur une petite Web TV."
       },
       {
         "id": 19,
-        "question": "Avec quel footballeur français Julia Roberts partage-t-elle une amitié étonnante ?",
+        "question": "Avec quel footballeur francais Julia Roberts partage-t-elle une amitie etonnante ?",
         "propositions": [
           "Dimitri Payet",
           "Paul Pogba",
           "Moussa Sissoko",
           "Samuel Umtiti"
         ],
-        "réponse": "Paul Pogba",
-        "anecdote": "Paul Pogba a fait partie des 23 joueurs français sélectionnés par Didier Deschamps pour disputer l'Euro 2016."
+        "reponse": "Paul Pogba",
+        "anecdote": "Paul Pogba a fait partie des 23 joueurs francais selectionnes par Didier Deschamps pour disputer l'Euro 2016."
       },
       {
         "id": 20,
-        "question": "Quel mannequin a vu son compte Twitter bloqué par Donald Trump en 2017 ?",
+        "question": "Quel mannequin a vu son compte Twitter bloque par Donald Trump en 2017 ?",
         "propositions": [
           "Lily Aldridge",
           "Camilla Alves",
           "Karlie Kloss",
           "Chrissy Teigen"
         ],
-        "réponse": "Chrissy Teigen",
-        "anecdote": "Côté vie privée, Chrissy Teigen a rencontré le chan­teur John Legend en 2007 sur le tour­nage du clip « Stereo »."
+        "reponse": "Chrissy Teigen",
+        "anecdote": "Côte vie privee, Chrissy Teigen a rencontre le chan­teur John Legend en 2007 sur le tour­nage du clip « Stereo »."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quel pasteur fut longtemps accusé d'influencer le jeune Justin Bieber ?",
+        "question": "Quel pasteur fut longtemps accuse d'influencer le jeune Justin Bieber ?",
         "propositions": [
           "Gary Trust",
           "Carl Lentz",
           "Gil Kaufman",
           "Jan Hoffman"
         ],
-        "réponse": "Carl Lentz",
-        "anecdote": "Le chanteur de 23 ans serait devenu inséparable du pasteur Carl Lentz, au travers duquel il verrait un véritable père d'adoption."
+        "reponse": "Carl Lentz",
+        "anecdote": "Le chanteur de 23 ans serait devenu inseparable du pasteur Carl Lentz, au travers duquel il verrait un veritable pere d'adoption."
       },
       {
         "id": 22,
-        "question": "Quelle chanteuse française a déclaré avoir souffert d'une longue paralysie faciale ?",
+        "question": "Quelle chanteuse francaise a declare avoir souffert d'une longue paralysie faciale ?",
         "propositions": [
           "Louisy Joseph",
-          "Ophélie Winter",
-          "Chimène Badi",
+          "Ophelie Winter",
+          "Chimene Badi",
           "Sheryfa Luna"
         ],
-        "réponse": "Ophélie Winter",
-        "anecdote": "Au sommet de sa popularité, Ophélie Winter a partagé la vie du chanteur MC Solaar, avec qui elle collabore sur « Un jour »."
+        "reponse": "Ophelie Winter",
+        "anecdote": "Au sommet de sa popularite, Ophelie Winter a partage la vie du chanteur MC Solaar, avec qui elle collabore sur « Un jour »."
       },
       {
         "id": 23,
-        "question": "Quelle chérie de David Guetta s'est déhanchée sur ses musiques durant l'été 2017 ?",
+        "question": "Quelle cherie de David Guetta s'est dehanchee sur ses musiques durant l'ete 2017 ?",
         "propositions": [
           "Chrissy Teigen",
           "Jessica Ledon",
-          "Kléofina Pnishi",
+          "Kleofina Pnishi",
           "Tina Kunakey"
         ],
-        "réponse": "Jessica Ledon",
-        "anecdote": "Symbole de la French Touch, David Guetta est le compositeur de l'hymne de l'Euro 2016 se déroulant en France."
+        "reponse": "Jessica Ledon",
+        "anecdote": "Symbole de la French Touch, David Guetta est le compositeur de l'hymne de l'Euro 2016 se deroulant en France."
       },
       {
         "id": 24,
-        "question": "Quel fondateur d'Amazon est devenu le 26 juillet 2017 la première fortune mondiale ?",
+        "question": "Quel fondateur d'Amazon est devenu le 26 juillet 2017 la premiere fortune mondiale ?",
         "propositions": [
           "Jeff Bezos",
           "David Ho",
           "Kenneth Starr",
           "Andrew Grove"
         ],
-        "réponse": "Jeff Bezos",
-        "anecdote": "Entrepreneur et investisseur américain, Jeff Bezos détrône ainsi le célèbre créateur de Microsoft Windows, Bill Gates."
+        "reponse": "Jeff Bezos",
+        "anecdote": "Entrepreneur et investisseur americain, Jeff Bezos detrône ainsi le celebre createur de Microsoft Windows, Bill Gates."
       },
       {
         "id": 25,
-        "question": "Quelle chanteuse country s'est tuée en rentrant d'un de ses concerts le 22 juillet 2017 ?",
+        "question": "Quelle chanteuse country s'est tuee en rentrant d'un de ses concerts le 22 juillet 2017 ?",
         "propositions": [
           "Patsy Cline",
           "Alison Krauss",
           "Abby Nicole",
           "Sara Carter"
         ],
-        "réponse": "Abby Nicole",
-        "anecdote": "Après s'être produite sur scène, la jeune femme s'était rendue à une fête foraine orga­ni­sée près du lieu où elle avait chanté."
+        "reponse": "Abby Nicole",
+        "anecdote": "Apres s'etre produite sur scene, la jeune femme s'etait rendue à une fete foraine orga­ni­see pres du lieu ou elle avait chante."
       },
       {
         "id": 26,
@@ -352,56 +352,56 @@
           "Flavia de Oliveira",
           "Lais Ribeiro"
         ],
-        "réponse": "Caroline Caputo",
-        "anecdote": "En plus de son génie footballistique, Neymar partage sa vie sentimentale avec une sublime mannequin brésilienne de 23 ans."
+        "reponse": "Caroline Caputo",
+        "anecdote": "En plus de son genie footballistique, Neymar partage sa vie sentimentale avec une sublime mannequin bresilienne de 23 ans."
       },
       {
         "id": 27,
-        "question": "Quel chanteur a été retrouvé pendu chez lui le 20 juillet 2017 ?",
+        "question": "Quel chanteur a ete retrouve pendu chez lui le 20 juillet 2017 ?",
         "propositions": [
           "Chester Bennington",
           "Mitch Lucker",
           "Wayne Static",
           "Jonathan Davis"
         ],
-        "réponse": "Chester Bennington",
-        "anecdote": "Le leader du groupe Linkin Park a été inhumé au cours d'une cérémonie privée dans la banlieue de Los Angeles."
+        "reponse": "Chester Bennington",
+        "anecdote": "Le leader du groupe Linkin Park a ete inhume au cours d'une ceremonie privee dans la banlieue de Los Angeles."
       },
       {
         "id": 28,
-        "question": "Quelle jolie jeune femme a été élue Miss Provence 2017 ?",
+        "question": "Quelle jolie jeune femme a ete elue Miss Provence 2017 ?",
         "propositions": [
-          "Kléofina Pnishi",
-          "Julia Courtès",
-          "Noémie Mazella",
+          "Kleofina Pnishi",
+          "Julia Courtes",
+          "Noemie Mazella",
           "Marine Mahiques"
         ],
-        "réponse": "Kléofina Pnishi",
-        "anecdote": "La jeune femme de 23 ans a eu la chance de faire quelques apparitions dans des séries télé, dont « Plus Belle La Vie »."
+        "reponse": "Kleofina Pnishi",
+        "anecdote": "La jeune femme de 23 ans a eu la chance de faire quelques apparitions dans des series tele, dont « Plus Belle La Vie »."
       },
       {
         "id": 29,
-        "question": "Quelle chanteuse est morte électrocutée à la fin de son concert le 19 juillet 2017 ?",
+        "question": "Quelle chanteuse est morte electrocutee à la fin de son concert le 19 juillet 2017 ?",
         "propositions": [
           "Barbara Weldens",
           "Marie Espinosa",
           "France Cartigny",
-          "Caroline Fèvre"
+          "Caroline Fevre"
         ],
-        "réponse": "Barbara Weldens",
-        "anecdote": "À la fin de son concert, dans le cadre du Festival Léo Ferré, Barbara Weldens a été électrocutée et n'a pu être réanimée."
+        "reponse": "Barbara Weldens",
+        "anecdote": "À la fin de son concert, dans le cadre du Festival Leo Ferre, Barbara Weldens a ete electrocutee et n'a pu etre reanimee."
       },
       {
         "id": 30,
-        "question": "Quelle star du PSG s'est vue dérober son alliance en juillet 2017 ?",
+        "question": "Quelle star du PSG s'est vue derober son alliance en juillet 2017 ?",
         "propositions": [
           "Thiago Motta",
           "Serge Aurier",
           "Thomas Meunier",
           "Blaise Matuidi"
         ],
-        "réponse": "Blaise Matuidi",
-        "anecdote": "Quelques jours après son mariage, la star du PSG a perdu son alliance, dérobée dans la boîte à gants de sa voiture de luxe."
+        "reponse": "Blaise Matuidi",
+        "anecdote": "Quelques jours apres son mariage, la star du PSG a perdu son alliance, derobee dans la boîte à gants de sa voiture de luxe."
       }
     ]
     }

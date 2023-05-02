@@ -1,383 +1,383 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "2 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "2 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
+      "categorie": "Celebrites",
       "nom": "People : oct. 2017",
-      "slogan": "Ils ont fait l'actualité"
+      "slogan": "Ils ont fait l'actualite"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "People: Oct 2017",
       "slogan": "They made the news"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Gente: octubre de 2017",
       "slogan": "Fueron noticia"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Persone: ottobre 2017",
       "slogan": "Hanno fatto notizia"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Personen: Okt. 2017",
       "slogan": "Sie machten die Nachrichten"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Mensen: okt 2017",
       "slogan": "Ze haalden het nieuws"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Qui fut le premier rappeur à prendre place dans une salle du musée Grévin ?",
+        "question": "Qui fut le premier rappeur à prendre place dans une salle du musee Grevin ?",
         "propositions": [
           "Lefa",
           "Barack Adama",
           "Black M",
           "Maître Gims"
         ],
-        "réponse": "Maître Gims",
-        "anecdote": "Près de Michael Jackson et Madonna, Maître Gims était ravi de voir son double : un événement mérité selon son amie Vitaa."
+        "reponse": "Maître Gims",
+        "anecdote": "Pres de Michael Jackson et Madonna, Maître Gims etait ravi de voir son double : un evenement merite selon son amie Vitaa."
       },
       {
         "id": 2,
-        "question": "Quelle ex de Johnny Depp est désormais séparée du milliardaire Elon Musk ?",
+        "question": "Quelle ex de Johnny Depp est desormais separee du milliardaire Elon Musk ?",
         "propositions": [
           "Carole King",
           "Amber Heard",
           "Marcia Cross",
           "Elisabeth Moss"
         ],
-        "réponse": "Amber Heard",
-        "anecdote": "Amber Heard aurait rencontré la doublure de Dwayne Johnson sur les plateaux du film « Aquaman »."
+        "reponse": "Amber Heard",
+        "anecdote": "Amber Heard aurait rencontre la doublure de Dwayne Johnson sur les plateaux du film « Aquaman »."
       },
       {
         "id": 3,
-        "question": "Avec quel danseur Alizée a-t-elle ouvert une école de danse à Ajaccio ?",
+        "question": "Avec quel danseur Alizee a-t-elle ouvert une ecole de danse à Ajaccio ?",
         "propositions": [
-          "Grégoire Lyonnet",
+          "Gregoire Lyonnet",
           "Guillaume Foucault",
           "Christophe Licata",
           "Maxime Dereymez"
         ],
-        "réponse": "Grégoire Lyonnet",
-        "anecdote": "Après sa participation à l'émission Graines de star, Alizée est repérée par la chanteuse Mylène Farmer, qui lui écrit deux albums."
+        "reponse": "Gregoire Lyonnet",
+        "anecdote": "Apres sa participation à l'emission Graines de star, Alizee est reperee par la chanteuse Mylene Farmer, qui lui ecrit deux albums."
       },
       {
         "id": 4,
-        "question": "Quel tennisman a ouvert un restaurant végétarien gratuit pour les sans-abri ?",
+        "question": "Quel tennisman a ouvert un restaurant vegetarien gratuit pour les sans-abri ?",
         "propositions": [
           "Rafael Nadal",
           "Novak Djokovic",
           "Roger Federer",
           "Stefan Edberg"
         ],
-        "réponse": "Novak Djokovic",
-        "anecdote": "« L'argent n'est pas un problème pour moi. J'ai gagné assez d'argent pour pouvoir nourrir toute la Serbie. »"
+        "reponse": "Novak Djokovic",
+        "anecdote": "« L'argent n'est pas un probleme pour moi. J'ai gagne assez d'argent pour pouvoir nourrir toute la Serbie. »"
       },
       {
         "id": 5,
-        "question": "Quelle mannequin XL affole la toile avec des vidéos sexy ?",
+        "question": "Quelle mannequin XL affole la toile avec des videos sexy ?",
         "propositions": [
           "Crystal Renn",
           "Ashley Graham",
           "Jordin Sparks",
           "Mia Tyler"
         ],
-        "réponse": "Ashley Graham",
-        "anecdote": "Après une séance d'abdos sur son compte Instagram, elle danse lascivement en culotte et soutien-gorge parme, sur un shooting."
+        "reponse": "Ashley Graham",
+        "anecdote": "Apres une seance d'abdos sur son compte Instagram, elle danse lascivement en culotte et soutien-gorge parme, sur un shooting."
       },
       {
         "id": 6,
-        "question": "Quelle artiste du septième art nous a quitté à l'âge de cent ans ?",
+        "question": "Quelle artiste du septieme art nous a quitte à l'age de cent ans ?",
         "propositions": [
           "Corinne Jaber",
           "Judith Magre",
           "Annie Girardot",
           "Danielle Darrieux"
         ],
-        "réponse": "Danielle Darrieux",
-        "anecdote": "Depuis « Le Bal », l'iconique actrice a eu une carrière aussi longue que prolifique : pas moins de 80 ans dans le cinéma."
+        "reponse": "Danielle Darrieux",
+        "anecdote": "Depuis « Le Bal », l'iconique actrice a eu une carriere aussi longue que prolifique : pas moins de 80 ans dans le cinema."
       },
       {
         "id": 7,
-        "question": "Quelle célébrité est toujours harcelée vingt ans après le scandale Clinton ?",
+        "question": "Quelle celebrite est toujours harcelee vingt ans apres le scandale Clinton ?",
         "propositions": [
           "Monica Lewinsky",
           "Delphine Arnault",
           "Sylvia Anderson",
           "Clara Furse"
         ],
-        "réponse": "Monica Lewinsky",
-        "anecdote": "L'« affaire Lewinsky » ou le « Monicagate » a connu une médiatisation exceptionnelle, tant aux États-Unis qu'à l'étranger."
+        "reponse": "Monica Lewinsky",
+        "anecdote": "L'« affaire Lewinsky » ou le « Monicagate » a connu une mediatisation exceptionnelle, tant aux États-Unis qu'à l'etranger."
       },
       {
         "id": 8,
-        "question": "Quelle ancienne ministre de l'Éducation nationale a fêté ses 40 ans en 2017 ?",
+        "question": "Quelle ancienne ministre de l'Éducation nationale a fete ses 40 ans en 2017 ?",
         "propositions": [
           "Najat Belkacem",
           "Marylise Lebranchu",
-          "Valérie Fourneyron",
+          "Valerie Fourneyron",
           "Sylvia Pinel"
         ],
-        "réponse": "Najat Belkacem",
-        "anecdote": "Avec son mari Boris Vallaud, Najat Vallaud-Belkacem forme l'un des couples les plus glamours de la scène politique française."
+        "reponse": "Najat Belkacem",
+        "anecdote": "Avec son mari Boris Vallaud, Najat Vallaud-Belkacem forme l'un des couples les plus glamours de la scene politique francaise."
       },
       {
         "id": 9,
-        "question": "Quelle actrice s'est très affiné pour « Les nouvelles aventures de Cendrillon » ?",
+        "question": "Quelle actrice s'est tres affine pour « Les nouvelles aventures de Cendrillon » ?",
         "propositions": [
           "Fanny Valette",
           "Rachida Brakni",
           "Marilou Berry",
           "Audrey Tautou"
         ],
-        "réponse": "Marilou Berry",
-        "anecdote": "« Je voulais une Cendrillon chétive, et en tout cas très plate, puisqu'il y a toute une blague autour de sa poitrine dans le film. »"
+        "reponse": "Marilou Berry",
+        "anecdote": "« Je voulais une Cendrillon chetive, et en tout cas tres plate, puisqu'il y a toute une blague autour de sa poitrine dans le film. »"
       },
       {
         "id": 10,
-        "question": "Qui a dû signer une clause de non-nudité pour le Super Bowl ?",
+        "question": "Qui a dû signer une clause de non-nudite pour le Super Bowl ?",
         "propositions": [
           "Robin Thicke",
           "Adam Levine",
           "Jason Mraz",
           "Justin Timberlake"
         ],
-        "réponse": "Justin Timberlake",
-        "anecdote": "Justin Timberlake ne pourra ainsi plus créer un scandale similaire à celui qu'il a créé face aux américains lors du Super Bowl 2004."
+        "reponse": "Justin Timberlake",
+        "anecdote": "Justin Timberlake ne pourra ainsi plus creer un scandale similaire à celui qu'il a cree face aux americains lors du Super Bowl 2004."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Qui est devenu en quelques jours l'acquitté le plus célèbre des États-Unis ?",
+        "question": "Qui est devenu en quelques jours l'acquitte le plus celebre des États-Unis ?",
         "propositions": [
           "O.J.Simpson",
           "Martin Goldstein",
           "Jack Powers",
           "Frank Morris"
         ],
-        "réponse": "O.J.Simpson",
-        "anecdote": "Libéré après 9 ans, « The Juice » avait été condamné à trente-trois ans de prison pour un vol à main armée, commis en 2007."
+        "reponse": "O.J.Simpson",
+        "anecdote": "Libere apres 9 ans, « The Juice » avait ete condamne à trente-trois ans de prison pour un vol à main armee, commis en 2007."
       },
       {
         "id": 12,
-        "question": "Qui a proposé aux BET Hip-Hop Awards un freestyle corrosif sur Donald Trump ?",
+        "question": "Qui a propose aux BET Hip-Hop Awards un freestyle corrosif sur Donald Trump ?",
         "propositions": [
           "Snoop Dogg",
           "Nelly",
           "The Game",
           "Eminem"
         ],
-        "réponse": "Eminem",
-        "anecdote": "La mise en scène de son freestyle, dans un parking sans musique, est aussi épurée que les paroles de ce rap sont au vitriol."
+        "reponse": "Eminem",
+        "anecdote": "La mise en scene de son freestyle, dans un parking sans musique, est aussi epuree que les paroles de ce rap sont au vitriol."
       },
       {
         "id": 13,
-        "question": "De quel célèbre footballeur Antonella Roccuzzo attend-elle son troisième enfant ?",
+        "question": "De quel celebre footballeur Antonella Roccuzzo attend-elle son troisieme enfant ?",
         "propositions": [
           "Michael Owen",
           "Fabio Cannavaro",
           "Lionel Messi",
           "Cristiano Ronaldo"
         ],
-        "réponse": "Lionel Messi",
-        "anecdote": "Les deux tourtereaux vont donc accueillir un troisième enfant, eux qui sont déjà parents de deux garçons Thiago et Mateo."
+        "reponse": "Lionel Messi",
+        "anecdote": "Les deux tourtereaux vont donc accueillir un troisieme enfant, eux qui sont dejà parents de deux garcons Thiago et Mateo."
       },
       {
         "id": 14,
-        "question": "Quelle ex-animatrice des « Maternelles » présente la saison 6 du Meilleur Pâtissier ?",
+        "question": "Quelle ex-animatrice des « Maternelles » presente la saison 6 du Meilleur Patissier ?",
         "propositions": [
           "Julia Vignali",
           "Louise Bourgoin",
-          "Daphné Chollet",
+          "Daphne Chollet",
           "Alexandra Kazan"
         ],
-        "réponse": "Julia Vignali",
-        "anecdote": "« Je n'ai pas eu envie de scanner ce que faisait Faustine Bollaert car j'avais déjà une idée de son énergie et de son ton. »"
+        "reponse": "Julia Vignali",
+        "anecdote": "« Je n'ai pas eu envie de scanner ce que faisait Faustine Bollaert car j'avais dejà une idee de son energie et de son ton. »"
       },
       {
         "id": 15,
-        "question": "Qui a apporté les témoignages de treize victimes du producteur Harvey Weinstein ?",
+        "question": "Qui a apporte les temoignages de treize victimes du producteur Harvey Weinstein ?",
         "propositions": [
           "Gary Sick",
           "Ronan Farrow",
           "John Kamm",
           "James Lawson"
         ],
-        "réponse": "Ronan Farrow",
-        "anecdote": "Le journaliste et fils de Mia Farrow a mis en lumière une sombre machination dans l'industrie cinématographique américaine."
+        "reponse": "Ronan Farrow",
+        "anecdote": "Le journaliste et fils de Mia Farrow a mis en lumiere une sombre machination dans l'industrie cinematographique americaine."
       },
       {
         "id": 16,
-        "question": "Qui est devenue une célébrité mondiale en obtenant le rôle de Rey dans « Star Wars » ?",
+        "question": "Qui est devenue une celebrite mondiale en obtenant le rôle de Rey dans « Star Wars » ?",
         "propositions": [
           "Daisy Ridley",
           "Felicity Kendal",
           "Sophie Turner",
           "Natalie Dormer"
         ],
-        "réponse": "Daisy Ridley",
-        "anecdote": "Sous la pression, Daisy Ridley s'est demandée si elle serait capable de continuer et même de tourner dans l'épisode VIII."
+        "reponse": "Daisy Ridley",
+        "anecdote": "Sous la pression, Daisy Ridley s'est demandee si elle serait capable de continuer et meme de tourner dans l'episode VIII."
       },
       {
         "id": 17,
-        "question": "Quel Français a obtenu en 2017 le titre de meilleur pâtissier du monde ?",
+        "question": "Quel Francais a obtenu en 2017 le titre de meilleur patissier du monde ?",
         "propositions": [
-          "Cédric Grolet",
+          "Cedric Grolet",
           "Pascal Caffet",
           "Philippe Urraca",
           "Roland Mesnier"
         ],
-        "réponse": "Cédric Grolet",
-        "anecdote": "Il avait déjà été sacré en 2015 par le maga­zine Le Chef et « chef pâtis­sier de l'année 2016 » par l'as­so­cia­tion des Relais Desserts."
+        "reponse": "Cedric Grolet",
+        "anecdote": "Il avait dejà ete sacre en 2015 par le maga­zine Le Chef et « chef patis­sier de l'annee 2016 » par l'as­so­cia­tion des Relais Desserts."
       },
       {
         "id": 18,
-        "question": "Quel artiste a été forcé d'annuler ses concerts après un accident de vélo ?",
+        "question": "Quel artiste a ete force d'annuler ses concerts apres un accident de velo ?",
         "propositions": [
           "James Blunt",
           "Ed Sheeran",
           "Justin Bieber",
           "Robbie Williams"
         ],
-        "réponse": "Ed Sheeran",
-        "anecdote": "Un bras dans le plâtre, l'autre en écharpe, Ed Sheeran a expliqué qu'il serait dans l'incapacité de jouer en live."
+        "reponse": "Ed Sheeran",
+        "anecdote": "Un bras dans le platre, l'autre en echarpe, Ed Sheeran a explique qu'il serait dans l'incapacite de jouer en live."
       },
       {
         "id": 19,
-        "question": "Quelle jeune actrice cubaine est l'héroïne de « Blade Runner 2049 » ?",
+        "question": "Quelle jeune actrice cubaine est l'heroïne de « Blade Runner 2049 » ?",
         "propositions": [
           "Maria Bravo",
           "Vanessa Otero",
           "Lola Flores",
           "Ana de Armas"
         ],
-        "réponse": "Ana de Armas",
-        "anecdote": "Ana de Armas a été mariée à Marc Clotet (de 2011 à 2013) et vit actuellement avec l'acteur vénézuélien Edgar Ramirez."
+        "reponse": "Ana de Armas",
+        "anecdote": "Ana de Armas a ete mariee à Marc Clotet (de 2011 à 2013) et vit actuellement avec l'acteur venezuelien Edgar Ramirez."
       },
       {
         "id": 20,
-        "question": "Qui a repris les rennes de l'émission « Thalassa » sur France3 ?",
+        "question": "Qui a repris les rennes de l'emission « Thalassa » sur France3 ?",
         "propositions": [
           "Fanny Agostini",
           "Karine Ferri",
           "Sandra Lou",
           "Myriam Seurat"
         ],
-        "réponse": "Fanny Agostini",
-        "anecdote": "Aux élections municipales de 2014, Fanny Agostini fut candidate à La Bourboule sur la liste du maire sortant, Éric Brut."
+        "reponse": "Fanny Agostini",
+        "anecdote": "Aux elections municipales de 2014, Fanny Agostini fut candidate à La Bourboule sur la liste du maire sortant, Éric Brut."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quel créateur français est mort à 60 ans d'une rupture d'anévrisme ?",
+        "question": "Quel createur francais est mort à 60 ans d'une rupture d'anevrisme ?",
         "propositions": [
           "Ralph Lauren",
           "Carlo Rino",
-          "Hervé Léger",
+          "Herve Leger",
           "Louis Vuitton"
         ],
-        "réponse": "Hervé Léger",
-        "anecdote": "La création parisienne perd une icône, devenue célèbre grâce aux robes bandage de sa marque de vêtements."
+        "reponse": "Herve Leger",
+        "anecdote": "La creation parisienne perd une icône, devenue celebre grace aux robes bandage de sa marque de vetements."
       },
       {
         "id": 22,
-        "question": "Quel gagnant du « Jardin préféré des Français » a été mis en examen en 2017 ?",
+        "question": "Quel gagnant du « Jardin prefere des Francais » a ete mis en examen en 2017 ?",
         "propositions": [
           "Jacques Lubet",
           "Jean Beaucarnot",
-          "Frédéric Dumoulin",
+          "Frederic Dumoulin",
           "Daniel Malgouyres"
         ],
-        "réponse": "Daniel Malgouyres",
-        "anecdote": "Le lauréat du programme de France 2 a été laissé en liberté sous contrôle judiciaire, conformément aux réquisitions du parquet."
+        "reponse": "Daniel Malgouyres",
+        "anecdote": "Le laureat du programme de France 2 a ete laisse en liberte sous contrôle judiciaire, conformement aux requisitions du parquet."
       },
       {
         "id": 23,
-        "question": "De quel homme d'affaires Petra Ecclestone est-elle officiellement divorcée ?",
+        "question": "De quel homme d'affaires Petra Ecclestone est-elle officiellement divorcee ?",
         "propositions": [
           "David Koch",
           "James Stunt",
           "Sheldon Adelson",
           "Jim Walton"
         ],
-        "réponse": "James Stunt",
-        "anecdote": "La benjamine du magnat de la Formule 1 partageait avec James Stunt une fortune estimée à plus de 8 milliards d'euros."
+        "reponse": "James Stunt",
+        "anecdote": "La benjamine du magnat de la Formule 1 partageait avec James Stunt une fortune estimee à plus de 8 milliards d'euros."
       },
       {
         "id": 24,
-        "question": "Quelle comédienne a vu son compte suspendu dans l'affaire Harvey Weinstein ?",
+        "question": "Quelle comedienne a vu son compte suspendu dans l'affaire Harvey Weinstein ?",
         "propositions": [
           "Jenny McCarthy",
           "Rose McGowan",
           "Denise Richards",
           "Katherine Heigl"
         ],
-        "réponse": "Rose McGowan",
-        "anecdote": "En solidarité avec Rose McGowan (élément clé), des actrices d'Hollywood, dont Alyssa Milano, ont décidé de boycotter Twitter."
+        "reponse": "Rose McGowan",
+        "anecdote": "En solidarite avec Rose McGowan (element cle), des actrices d'Hollywood, dont Alyssa Milano, ont decide de boycotter Twitter."
       },
       {
         "id": 25,
-        "question": "Quel ex-acteur de Glee doit la vie à son colocataire après une tentative de suicide ?",
+        "question": "Quel ex-acteur de Glee doit la vie à son colocataire apres une tentative de suicide ?",
         "propositions": [
           "Kevin McHale",
           "Darren Criss",
           "Chris Colfer",
           "Mark Salling"
         ],
-        "réponse": "Mark Salling",
-        "anecdote": "Le comédien américain de 35 ans, qui a plaidé coupable dans une affaire de pédopornographie, a été sauvé par son colocataire."
+        "reponse": "Mark Salling",
+        "anecdote": "Le comedien americain de 35 ans, qui a plaide coupable dans une affaire de pedopornographie, a ete sauve par son colocataire."
       },
       {
         "id": 26,
-        "question": "Quel styliste français collabore de très près avec Melania Trump ?",
+        "question": "Quel styliste francais collabore de tres pres avec Melania Trump ?",
         "propositions": [
           "Thierry Mugler",
           "Ted Lapidus",
-          "Hervé Pierre",
-          "Julien Fournié"
+          "Herve Pierre",
+          "Julien Fournie"
         ],
-        "réponse": "Hervé Pierre",
-        "anecdote": "Melania Trump a introduit sa robe dessinée pour l'investiture de Donald Trump au musée nationale de l'histoire américain."
+        "reponse": "Herve Pierre",
+        "anecdote": "Melania Trump a introduit sa robe dessinee pour l'investiture de Donald Trump au musee nationale de l'histoire americain."
       },
       {
         "id": 27,
-        "question": "Quelle lauréate de Star Academy propose désormais des cours de chant ?",
+        "question": "Quelle laureate de Star Academy propose desormais des cours de chant ?",
         "propositions": [
           "Morganne Matis",
-          "Magalie Vaé",
-          "Laurène Bourvon",
-          "Marina Vénache"
+          "Magalie Vae",
+          "Laurene Bourvon",
+          "Marina Venache"
         ],
-        "réponse": "Magalie Vaé",
-        "anecdote": "Après la musique, Magalie Vaé s'est lancée dans la comédie en campant un rôle dans la série musicale « Dreams : 1 Rêve 2 Vies »."
+        "reponse": "Magalie Vae",
+        "anecdote": "Apres la musique, Magalie Vae s'est lancee dans la comedie en campant un rôle dans la serie musicale « Dreams : 1 Reve 2 Vies »."
       },
       {
         "id": 28,
-        "question": "Quelle vedette de télé-réalité a dévoilé sa première fragrance baptisée « Glamoureuse » ?",
+        "question": "Quelle vedette de tele-realite a devoile sa premiere fragrance baptisee « Glamoureuse » ?",
         "propositions": [
           "Aurelie Dotremont",
-          "Inès Lee",
+          "Ines Lee",
           "Cindy Stoessel",
           "Priscilla Lya"
         ],
-        "réponse": "Aurelie Dotremont",
-        "anecdote": "L'ancienne copine de Nabilla avait déjà tenté d'investir le marché de la beauté avec une gamme de cosmétiques (vernis, ...)."
+        "reponse": "Aurelie Dotremont",
+        "anecdote": "L'ancienne copine de Nabilla avait dejà tente d'investir le marche de la beaute avec une gamme de cosmetiques (vernis, ...)."
       },
       {
         "id": 29,
@@ -388,20 +388,20 @@
           "Audrina Patridge",
           "Alida Kurras"
         ],
-        "réponse": "Natalie Zettel",
-        "anecdote": "Kylie Jenner est du côté de sa mère la demi-soeur des illustres Kim Kardashian West, Kourtney Kardashian et Khloé Kardashian."
+        "reponse": "Natalie Zettel",
+        "anecdote": "Kylie Jenner est du côte de sa mere la demi-soeur des illustres Kim Kardashian West, Kourtney Kardashian et Khloe Kardashian."
       },
       {
         "id": 30,
-        "question": "Quel artiste contemporain ultra coté partage la vie de Valérie Lemercier ?",
+        "question": "Quel artiste contemporain ultra cote partage la vie de Valerie Lemercier ?",
         "propositions": [
-          "Raphaël Zarka",
+          "Raphaal Zarka",
           "Bruno Peinado",
           "Bertrand Lavier",
           "Mathias Kiss"
         ],
-        "réponse": "Mathias Kiss",
-        "anecdote": "Valérie Lemercier a été la compagne du musicien Bertrand Burgalat. Ils se séparent en 1997 mais sont restés des amis proches."
+        "reponse": "Mathias Kiss",
+        "anecdote": "Valerie Lemercier a ete la compagne du musicien Bertrand Burgalat. Ils se separent en 1997 mais sont restes des amis proches."
       }
     ]
     }

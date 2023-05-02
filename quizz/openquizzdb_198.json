@@ -1,395 +1,395 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "3 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
+      "categorie": "Celebrites",
       "nom": "People : janv. 2018",
-      "slogan": "Ils ont fait l'actualité"
+      "slogan": "Ils ont fait l'actualite"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "People: Jan 2018",
       "slogan": "They made the news"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Gente: ene 2018",
       "slogan": "Fueron noticia"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Persone: gennaio 2018",
       "slogan": "Hanno fatto notizia"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Personen: Januar 2018",
       "slogan": "Sie machten die Nachrichten"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Mensen: Jan 2018",
       "slogan": "Ze haalden het nieuws"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Quel producteur a suscité début 2018 un scandale sexuel sans précédent à Hollywood ?",
+        "question": "Quel producteur a suscite debut 2018 un scandale sexuel sans precedent à Hollywood ?",
         "propositions": [
           "Stan Winston",
           "Robert Wall",
           "Tom Werner",
           "Harvey Weinstein"
         ],
-        "réponse": "Harvey Weinstein",
-        "anecdote": "Certains comédiens même très proches ont expliqué pourquoi ils n'ont jamais pu se douter des agissements contestés du producteur."
+        "reponse": "Harvey Weinstein",
+        "anecdote": "Certains comediens meme tres proches ont explique pourquoi ils n'ont jamais pu se douter des agissements contestes du producteur."
       },
       {
         "id": 2,
-        "question": "Quel ancien champion de natation a rendu hommage à France Gall sur scène ?",
+        "question": "Quel ancien champion de natation a rendu hommage à France Gall sur scene ?",
         "propositions": [
           "Florent Manaudou",
-          "César Cielo",
+          "Cesar Cielo",
           "Anthony Ervin",
           "Matt Biondi"
         ],
-        "réponse": "Florent Manaudou",
-        "anecdote": "Initié à la guitare par son beau-frère Jérémy Frérot, le frère de Laure Manaudou s'est produit au cabaret l'Étoile bleue à Marseille."
+        "reponse": "Florent Manaudou",
+        "anecdote": "Initie à la guitare par son beau-frere Jeremy Frerot, le frere de Laure Manaudou s'est produit au cabaret l'Étoile bleue à Marseille."
       },
       {
         "id": 3,
-        "question": "Quelle chanteuse emblématique du groupe Cranberries a trouvé la mort en 2018 ?",
+        "question": "Quelle chanteuse emblematique du groupe Cranberries a trouve la mort en 2018 ?",
         "propositions": [
           "Sinead O'Connor",
           "Janet Devlin",
           "Enya",
           "Dolores O'Riordan"
         ],
-        "réponse": "Dolores O'Riordan",
+        "reponse": "Dolores O'Riordan",
         "anecdote": "Elle devait enregistrer le lendemain une nouvelle version de « Zombie » et revoir son ami de longue date, le producteur Dan Waite."
       },
       {
         "id": 4,
-        "question": "Quel animateur de « Slam » rêve d'une paternité épanouie ?",
+        "question": "Quel animateur de « Slam » reve d'une paternite epanouie ?",
         "propositions": [
           "Philippe Vandel",
-          "Cyril Féraud",
+          "Cyril Feraud",
           "Florian Gazan",
           "Guy Carlier"
         ],
-        "réponse": "Cyril Féraud",
-        "anecdote": "Cyril Féraud a été choisi par France 3 pour être SON visage avec « Personne n'y avait pensé » et « La Carte aux trésors »."
+        "reponse": "Cyril Feraud",
+        "anecdote": "Cyril Feraud a ete choisi par France 3 pour etre SON visage avec « Personne n'y avait pense » et « La Carte aux tresors »."
       },
       {
         "id": 5,
-        "question": "Quel célèbre mannequin a fêté ses 44 ans le 16 janvier 2018 ?",
+        "question": "Quel celebre mannequin a fete ses 44 ans le 16 janvier 2018 ?",
         "propositions": [
           "Kelly Brook",
           "Kate Moss",
           "Katie Price",
           "Louise Glover"
         ],
-        "réponse": "Kate Moss",
-        "anecdote": "Avec son look ado, critiquée pour son usage abusif de la chirurgie, Kate Moss reste pour autant une icône de sa génération."
+        "reponse": "Kate Moss",
+        "anecdote": "Avec son look ado, critiquee pour son usage abusif de la chirurgie, Kate Moss reste pour autant une icône de sa generation."
       },
       {
         "id": 6,
-        "question": "Sommé de faire un régime, combien pesait Donald Trump en janvier 2018 ?",
+        "question": "Somme de faire un regime, combien pesait Donald Trump en janvier 2018 ?",
         "propositions": [
           "98 kg",
           "108 kg",
           "118 kg",
           "128 kg"
         ],
-        "réponse": "108 kg",
-        "anecdote": "Son médecin a observé chez lui un taux de cholestérol trop élevé et a annoncé qu'il lui avait recommandé de faire davantage d'exercice."
+        "reponse": "108 kg",
+        "anecdote": "Son medecin a observe chez lui un taux de cholesterol trop eleve et a annonce qu'il lui avait recommande de faire davantage d'exercice."
       },
       {
         "id": 7,
-        "question": "Quel humoriste canadien a été victime d'une embolie pulmonaire ?",
+        "question": "Quel humoriste canadien a ete victime d'une embolie pulmonaire ?",
         "propositions": [
           "Yvan Ducharme",
           "Daniel Lemire",
           "Claude Meunier",
           "Anthony Kavanagh"
         ],
-        "réponse": "Anthony Kavanagh",
-        "anecdote": "Se trouvant en Nouvelle-Calédonie pour son dernier spectacle, Anthony Kavanagh a dû être hospitalisé d'urgence à Nouméa."
+        "reponse": "Anthony Kavanagh",
+        "anecdote": "Se trouvant en Nouvelle-Caledonie pour son dernier spectacle, Anthony Kavanagh a dû etre hospitalise d'urgence à Noumea."
       },
       {
         "id": 8,
-        "question": "Quel héritier britannique s'est rasé la tête pour contrer sa calvitie ?",
+        "question": "Quel heritier britannique s'est rase la tete pour contrer sa calvitie ?",
         "propositions": [
           "William",
           "Charles",
           "Harry",
           "George"
         ],
-        "réponse": "William",
-        "anecdote": "L'état capillaire du prince William était au coeur des questionnements depuis des années déjà, se faisant même tacler par Kate Middleton."
+        "reponse": "William",
+        "anecdote": "L'etat capillaire du prince William etait au coeur des questionnements depuis des annees dejà, se faisant meme tacler par Kate Middleton."
       },
       {
         "id": 9,
-        "question": "Quelle ancienne Desperate Housewife a lancé sa chaîne YouTube bien-être ?",
+        "question": "Quelle ancienne Desperate Housewife a lance sa chaîne YouTube bien-etre ?",
         "propositions": [
           "Teri Hatcher",
           "Nicollette Sheridan",
           "Eva Longoria",
           "Marcia Cross"
         ],
-        "réponse": "Teri Hatcher",
-        "anecdote": "La comédienne va à la rencontre d'inconnus pour aborder des sujets comme la religion ou encore le cap de la cinquantaine."
+        "reponse": "Teri Hatcher",
+        "anecdote": "La comedienne va à la rencontre d'inconnus pour aborder des sujets comme la religion ou encore le cap de la cinquantaine."
       },
       {
         "id": 10,
-        "question": "Qui a été élue le 13 janvier en France Miss Prestige National 2018 ?",
+        "question": "Qui a ete elue le 13 janvier en France Miss Prestige National 2018 ?",
         "propositions": [
           "Charlotte Depaepe",
-          "Cécile Bègue",
+          "Cecile Begue",
           "Émilie Secret",
           "Margaux Deroy"
         ],
-        "réponse": "Charlotte Depaepe",
-        "anecdote": "Cette nouvelle reine de beauté est étudiante en master de management pour devenir directrice médico-sociale."
+        "reponse": "Charlotte Depaepe",
+        "anecdote": "Cette nouvelle reine de beaute est etudiante en master de management pour devenir directrice medico-sociale."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Qui est la nouvelle égérie 2018 de la marque de maillots de bain Seafolly ?",
+        "question": "Qui est la nouvelle egerie 2018 de la marque de maillots de bain Seafolly ?",
         "propositions": [
           "Heidi Klum",
           "Adriana Lima",
           "Marisa Miller",
           "Toni Garrn"
         ],
-        "réponse": "Toni Garrn",
-        "anecdote": "Toni Garrn a déjà collaboré avec les plus grands noms de la mode, tels que Calvin Klein, Ralph Lauren, Dior, Givenchy et  Versace."
+        "reponse": "Toni Garrn",
+        "anecdote": "Toni Garrn a dejà collabore avec les plus grands noms de la mode, tels que Calvin Klein, Ralph Lauren, Dior, Givenchy et  Versace."
       },
       {
         "id": 12,
-        "question": "Qui est le deuxième agriculteur gay dans l'histoire de « L'amour est dans le pré » ?",
+        "question": "Qui est le deuxieme agriculteur gay dans l'histoire de « L'amour est dans le pre » ?",
         "propositions": [
           "Benjamin",
           "Didier",
           "Francis",
           "Thomas"
         ],
-        "réponse": "Thomas",
-        "anecdote": "L'ex-brancardier devenu ostréiculteur a décidé de s'inscrire après sa rupture avec son ex, à la suite d'une idylle qui avait duré dix ans."
+        "reponse": "Thomas",
+        "anecdote": "L'ex-brancardier devenu ostreiculteur a decide de s'inscrire apres sa rupture avec son ex, à la suite d'une idylle qui avait dure dix ans."
       },
       {
         "id": 13,
-        "question": "Quelle starlette a été cambriolée alors qu'elle se trouvait en vacances en Thaïlande ?",
+        "question": "Quelle starlette a ete cambriolee alors qu'elle se trouvait en vacances en Thaïlande ?",
         "propositions": [
           "Sarah Fraisou",
           "Julie Ricci",
-          "Amélie Neten",
+          "Amelie Neten",
           "Barbara Lune"
         ],
-        "réponse": "Sarah Fraisou",
+        "reponse": "Sarah Fraisou",
         "anecdote": "Les internautes taclent la vedette des Anges, reprochant à l'ambassadrice des femmes rondes d'en faire trop."
       },
       {
         "id": 14,
-        "question": "Qui a annoncé vouloir reprendre les tubes de Johnny Hallyday en zouk ?",
+        "question": "Qui a annonce vouloir reprendre les tubes de Johnny Hallyday en zouk ?",
         "propositions": [
           "Ève Angeli",
           "Sheryfa Luna",
           "Amel Bent",
           "Liane Foly"
         ],
-        "réponse": "Ève Angeli",
-        "anecdote": "Cette annonce a suscité tellement de moqueries sur les réseaux sociaux que la chanteuse a décidé de ne pas sortir cet album."
+        "reponse": "Ève Angeli",
+        "anecdote": "Cette annonce a suscite tellement de moqueries sur les reseaux sociaux que la chanteuse a decide de ne pas sortir cet album."
       },
       {
         "id": 15,
-        "question": "Quel artiste français a suscité un clash médiatique avec Grégoire ?",
+        "question": "Quel artiste francais a suscite un clash mediatique avec Gregoire ?",
         "propositions": [
           "Matthieu Chedid",
           "Manu Chao",
           "Patrick Bruel",
           "Benjamin Biolay"
         ],
-        "réponse": "Benjamin Biolay",
-        "anecdote": "Par le biais des réseaux sociaux, le compositeur de 44 ans avait mouché Grégoire, le taxant d'avoir plagié son titre « Ton héritage »."
+        "reponse": "Benjamin Biolay",
+        "anecdote": "Par le biais des reseaux sociaux, le compositeur de 44 ans avait mouche Gregoire, le taxant d'avoir plagie son titre « Ton heritage »."
       },
       {
         "id": 16,
-        "question": "Quelle grande star américaine s'est fait retirer une tumeur à la lèvre ?",
+        "question": "Quelle grande star americaine s'est fait retirer une tumeur à la levre ?",
         "propositions": [
           "Julianne Moore",
           "Jane Fonda",
           "Meryl Streep",
           "Barbra Streisand"
         ],
-        "réponse": "Jane Fonda",
-        "anecdote": "Admirée par les professionnels du métier et par le public, du haut de ses 80 ans, Jane Fonda reste une figure incontournable du cinéma."
+        "reponse": "Jane Fonda",
+        "anecdote": "Admiree par les professionnels du metier et par le public, du haut de ses 80 ans, Jane Fonda reste une figure incontournable du cinema."
       },
       {
         "id": 17,
-        "question": "Quel blogueur a déclaré la guerre à Jeremstar via les réseaux sociaux ?",
+        "question": "Quel blogueur a declare la guerre à Jeremstar via les reseaux sociaux ?",
         "propositions": [
           "Aqababe",
           "Korben",
           "Obion",
           "Pacco"
         ],
-        "réponse": "Aqababe",
-        "anecdote": "Le blogueur, qui se prénomme Aniss, a balancé en ligne une vidéo intime de Jeremstar, retirée quelques heures plus tard."
+        "reponse": "Aqababe",
+        "anecdote": "Le blogueur, qui se prenomme Aniss, a balance en ligne une video intime de Jeremstar, retiree quelques heures plus tard."
       },
       {
         "id": 18,
-        "question": "Quelle compagne de François Baroin a présenté « Brillantissime » ?",
+        "question": "Quelle compagne de Francois Baroin a presente « Brillantissime » ?",
         "propositions": [
           "Chantal Lauby",
           "Josiane Balasko",
-          "Michèle Laroque",
+          "Michele Laroque",
           "Isabelle Boulay"
         ],
-        "réponse": "Michèle Laroque",
-        "anecdote": "Chose assez rare en public, l'actrice a voulu compter sur le soutien du maire LR de Troyes avant de présenter son film à la presse."
+        "reponse": "Michele Laroque",
+        "anecdote": "Chose assez rare en public, l'actrice a voulu compter sur le soutien du maire LR de Troyes avant de presenter son film à la presse."
       },
       {
         "id": 19,
-        "question": "Quel juré de « The Voice » a décidé de se retirer des réseaux sociaux ?",
+        "question": "Quel jure de « The Voice » a decide de se retirer des reseaux sociaux ?",
         "propositions": [
           "M. Pokora",
           "Pascal Obispo",
           "Mika",
           "Florent Pagny"
         ],
-        "réponse": "M. Pokora",
-        "anecdote": "Après une année 2017 bien remplie, le chanteur opère un vrai changement de vie qui passera par l'autre côté de l'Atlantique."
+        "reponse": "M. Pokora",
+        "anecdote": "Apres une annee 2017 bien remplie, le chanteur opere un vrai changement de vie qui passera par l'autre côte de l'Atlantique."
       },
       {
         "id": 20,
-        "question": "Quel acteur a cru mourir après une fausse alerte au missile à Hawaï ?",
+        "question": "Quel acteur a cru mourir apres une fausse alerte au missile à Hawaï ?",
         "propositions": [
           "Jim Carrey",
           "Sean Penn",
           "Colin Firth",
           "Tom Cruise"
         ],
-        "réponse": "Jim Carrey",
-        "anecdote": "Le gouverneur d'Hawaï a expliqué que quelqu'un avait appuyé sur le mauvais bouton durant une procédure de vérification."
+        "reponse": "Jim Carrey",
+        "anecdote": "Le gouverneur d'Hawaï a explique que quelqu'un avait appuye sur le mauvais bouton durant une procedure de verification."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quel chanteur a vu la mort de près après une opération à coeur ouvert ?",
+        "question": "Quel chanteur a vu la mort de pres apres une operation à coeur ouvert ?",
         "propositions": [
-          "Gérard Blanchard",
-          "Hervé Cristiani",
+          "Gerard Blanchard",
+          "Herve Cristiani",
           "Michel Jonasz",
           "Yves Duteil"
         ],
-        "réponse": "Yves Duteil",
-        "anecdote": "En 2001, Yves Duteil avait chanté pour aider sa femme à lutter contre la maladie avec un titre intitulé « Pour que tu ne meures pas »."
+        "reponse": "Yves Duteil",
+        "anecdote": "En 2001, Yves Duteil avait chante pour aider sa femme à lutter contre la maladie avec un titre intitule « Pour que tu ne meures pas »."
       },
       {
         "id": 22,
-        "question": "De qui Tom Hanks est-il toujours aussi amoureux après 30 ans de mariage ?",
+        "question": "De qui Tom Hanks est-il toujours aussi amoureux apres 30 ans de mariage ?",
         "propositions": [
           "Angie Harmon",
           "Kelly Clarkson",
           "Rita Wilson",
           "Tiffani Thiessen"
         ],
-        "réponse": "Rita Wilson",
-        "anecdote": "À l'avant-première londonienne du film « Pentagon Papers », Tom Hanks est apparu sur le tapis rouge avec sa femme Rita Wilson."
+        "reponse": "Rita Wilson",
+        "anecdote": "À l'avant-premiere londonienne du film « Pentagon Papers », Tom Hanks est apparu sur le tapis rouge avec sa femme Rita Wilson."
       },
       {
         "id": 23,
-        "question": "Quelle présentatrice télé a enterré sa vie de jeune fille au Fouquet's ?",
+        "question": "Quelle presentatrice tele a enterre sa vie de jeune fille au Fouquet's ?",
         "propositions": [
-          "Daphné Roulier",
-          "Ophélie Meunier",
+          "Daphne Roulier",
+          "Ophelie Meunier",
           "Annie Lemoine",
-          "Maya Lauqué"
+          "Maya Lauque"
         ],
-        "réponse": "Ophélie Meunier",
-        "anecdote": "La célèbre présentatrice télé officiant dans « Zone Interdite » avait en effet révélé qu'elle se marierait avec Mathieu Vergne de TF1."
+        "reponse": "Ophelie Meunier",
+        "anecdote": "La celebre presentatrice tele officiant dans « Zone Interdite » avait en effet revele qu'elle se marierait avec Mathieu Vergne de TF1."
       },
       {
         "id": 24,
-        "question": "Quelle influenceuse Instagram a livré son astuce anti-bouton ?",
+        "question": "Quelle influenceuse Instagram a livre son astuce anti-bouton ?",
         "propositions": [
           "Giorgia Tordini",
           "Huda Kattan",
           "Clara Luciani",
           "Marie Gilliot"
         ],
-        "réponse": "Huda Kattan",
-        "anecdote": "Elle est l'une des influenceuses beauté les plus puissantes de la toile et ne rate jamais une occasion de nous donner ses précieux conseils."
+        "reponse": "Huda Kattan",
+        "anecdote": "Elle est l'une des influenceuses beaute les plus puissantes de la toile et ne rate jamais une occasion de nous donner ses precieux conseils."
       },
       {
         "id": 25,
-        "question": "Quel aventurier s'est lourdement blessé dans « La Villa des coeurs brisés » ?",
+        "question": "Quel aventurier s'est lourdement blesse dans « La Villa des coeurs brises » ?",
         "propositions": [
           "Julien Bert",
-          "Florent Ré",
+          "Florent Re",
           "Vivian Grimigni",
-          "Raphaël Pépin"
+          "Raphaal Pepin"
         ],
-        "réponse": "Raphaël Pépin",
-        "anecdote": "Après avoir lourdement chuté d'une table en verre, le jeune homme a été hospitalisé et s'en sort avec 14 points de suture sur la fesse."
+        "reponse": "Raphaal Pepin",
+        "anecdote": "Apres avoir lourdement chute d'une table en verre, le jeune homme a ete hospitalise et s'en sort avec 14 points de suture sur la fesse."
       },
       {
         "id": 26,
-        "question": "Quelle chanteuse fut poursuivie en justice pour des concerts annulés en 2016 ?",
+        "question": "Quelle chanteuse fut poursuivie en justice pour des concerts annules en 2016 ?",
         "propositions": [
           "Katy Perry",
           "Mariah Carey",
           "Rihanna",
           "Taylor Swift"
         ],
-        "réponse": "Mariah Carey",
-        "anecdote": "La société Fenix lui a réclamé trois millions de dollars en réparation de plusieurs annulations de concerts en Amérique du Sud en 2016."
+        "reponse": "Mariah Carey",
+        "anecdote": "La societe Fenix lui a reclame trois millions de dollars en reparation de plusieurs annulations de concerts en Amerique du Sud en 2016."
       },
       {
         "id": 27,
-        "question": "Quelle star est devenue l'actrice de série la mieux payée aux États-Unis ?",
+        "question": "Quelle star est devenue l'actrice de serie la mieux payee aux États-Unis ?",
         "propositions": [
           "Ellen Pompeo",
           "Sara Ramirez",
           "Sandra Oh",
           "Jessica Capshaw"
         ],
-        "réponse": "Ellen Pompeo",
-        "anecdote": "Après les départs de Patrick Dempsey puis de Martin Henderson, elle a négocié vingt millions par an pour sa série « Grey's Anatomy »."
+        "reponse": "Ellen Pompeo",
+        "anecdote": "Apres les departs de Patrick Dempsey puis de Martin Henderson, elle a negocie vingt millions par an pour sa serie « Grey's Anatomy »."
       },
       {
         "id": 28,
-        "question": "Qui a été choisi pour succéder à Tex pour l'émission « Les Z'amours » ?",
+        "question": "Qui a ete choisi pour succeder à Tex pour l'emission « Les Z'amours » ?",
         "propositions": [
           "Marc Michaud",
           "Bruno Guillon",
           "Camille Combal",
           "Florian Gazan"
         ],
-        "réponse": "Bruno Guillon",
-        "anecdote": "Avant de lancer sa carrière sur NRJ, Bruno Guillon a fait ses premières armes au sein de la radio locale d'Angély FM."
+        "reponse": "Bruno Guillon",
+        "anecdote": "Avant de lancer sa carriere sur NRJ, Bruno Guillon a fait ses premieres armes au sein de la radio locale d'Angely FM."
       },
       {
         "id": 29,
-        "question": "Après Julien Castaldi, avec qui Ludivine Birker s'est-elle recasée ?",
+        "question": "Apres Julien Castaldi, avec qui Ludivine Birker s'est-elle recasee ?",
         "propositions": [
           "Benjamin",
           "Constantin",
           "Carlos",
           "David"
         ],
-        "réponse": "Benjamin",
-        "anecdote": "Ludivine Birker a annoncé l'heureuse nouvelle à Purebreak, bien qu'elle souhaite, cette fois, que sa vie amoureuse reste privée."
+        "reponse": "Benjamin",
+        "anecdote": "Ludivine Birker a annonce l'heureuse nouvelle à Purebreak, bien qu'elle souhaite, cette fois, que sa vie amoureuse reste privee."
       },
       {
         "id": 30,
@@ -400,13 +400,13 @@
           "Jason Trawick",
           "Charlie Ebersol"
         ],
-        "réponse": "Sam Asghari",
-        "anecdote": "En couple avec Sam Asghari depuis un an, fiancée en secret, Britney Spears pourrait se marier pour la troisième fois en 2018."
+        "reponse": "Sam Asghari",
+        "anecdote": "En couple avec Sam Asghari depuis un an, fiancee en secret, Britney Spears pourrait se marier pour la troisieme fois en 2018."
       }
     ]
     },
     "en": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Which producer sparked 2018 an unprecedented sex scandal in Hollywood ?",
@@ -416,7 +416,7 @@
           "Tom Werner",
           "Robert Wall"
         ],
-        "réponse": "Harvey Weinstein",
+        "reponse": "Harvey Weinstein",
         "anecdote": "Some even very close comedians have explained why they have never been able to suspect the disputed actions of the producer."
       },
       {
@@ -424,12 +424,12 @@
         "question": "Which former swimming champion paid tribute to France Gall on stage ?",
         "propositions": [
           "Florent Manaudou",
-          "César Cielo",
+          "Cesar Cielo",
           "Matt Biondi",
           "Anthony Ervin"
         ],
-        "réponse": "Florent Manaudou",
-        "anecdote": "Initiated on the guitar by her brother-in-law Jérémy Frérot, the brother of Laure Manaudou performed at the cabaret l'Étoile bleue in Marseille."
+        "reponse": "Florent Manaudou",
+        "anecdote": "Initiated on the guitar by her brother-in-law Jeremy Frerot, the brother of Laure Manaudou performed at the cabaret l'Étoile bleue in Marseille."
       },
       {
         "id": 3,
@@ -440,7 +440,7 @@
           "Dolores O'Riordan",
           "Janet Devlin"
         ],
-        "réponse": "Dolores O'Riordan",
+        "reponse": "Dolores O'Riordan",
         "anecdote": "She was to record the next day a new version of « Zombie » and see her long-time friend, producer Dan Waite."
       },
       {
@@ -448,11 +448,11 @@
         "question": "Which host of « Slam » dreams of paternity ?",
         "propositions": [
           "Philippe Vandel",
-          "Cyril Féraud",
+          "Cyril Feraud",
           "Guy Carlier",
           "Florian Gazan"
         ],
-        "réponse": "Cyril Féraud",
+        "reponse": "Cyril Feraud",
         "anecdote": "Cyril Ferrarel was chosen by France 3 to be his face with « Nobody thought of it » and « the treasure map »."
       },
       {
@@ -464,7 +464,7 @@
           "Katie Price",
           "Louise Glover"
         ],
-        "réponse": "Kate Moss",
+        "reponse": "Kate Moss",
         "anecdote": "With her adolescent look, criticized for her misuse of surgery, Kate Moss remains an icon of her generation."
       },
       {
@@ -476,7 +476,7 @@
           "118 kg",
           "98 kg"
         ],
-        "réponse": "108 kg",
+        "reponse": "108 kg",
         "anecdote": "His doctor observed that he had a high cholesterol level and announced that he had recommended that he exercise more."
       },
       {
@@ -488,7 +488,7 @@
           "Anthony Kavanagh",
           "Daniel Lemire"
         ],
-        "réponse": "Anthony Kavanagh",
+        "reponse": "Anthony Kavanagh",
         "anecdote": "Being in New Caledonia for his last show, Anthony Kavanagh had to be hospitalized urgently in Noumea."
       },
       {
@@ -500,7 +500,7 @@
           "Harry",
           "George"
         ],
-        "réponse": "William",
+        "reponse": "William",
         "anecdote": "Prince William's hair condition has been at the heart of questions for years now, even being tackled by Kate Middleton."
       },
       {
@@ -512,7 +512,7 @@
           "Teri Hatcher",
           "Nicollette Sheridan"
         ],
-        "réponse": "Teri Hatcher",
+        "reponse": "Teri Hatcher",
         "anecdote": "The comedian goes out to meet strangers to discuss topics such as religion or even the 50's."
       },
       {
@@ -520,15 +520,15 @@
         "question": "Who was elected on January 13th in France Miss Prestige National 2018 ?",
         "propositions": [
           "Charlotte Depaepe",
-          "Cécile Bègue",
+          "Cecile Begue",
           "Émilie Secret",
           "Margaux Deroy"
         ],
-        "réponse": "Charlotte Depaepe",
+        "reponse": "Charlotte Depaepe",
         "anecdote": "This new beauty queen is studying for a master's degree in management to become a medical and social director."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Who is the new 2018 segment of the Seafolly Swimwear brand ?",
@@ -538,7 +538,7 @@
           "Toni Garrn",
           "Adriana Lima"
         ],
-        "réponse": "Toni Garrn",
+        "reponse": "Toni Garrn",
         "anecdote": "Toni Garrn has already collaborated with the biggest names in fashion, such as Calvin Klein, Ralph Lauren, Dior, Givenchy and Versace."
       },
       {
@@ -550,7 +550,7 @@
           "Didier",
           "Francis"
         ],
-        "réponse": "Thomas",
+        "reponse": "Thomas",
         "anecdote": "The former stretcher became oyster farmer decided to register after his break with his ex, following a romance that had lasted ten years."
       },
       {
@@ -560,9 +560,9 @@
           "Barbara Lune",
           "Sarah Fraisou",
           "Julie Ricci",
-          "Amélie Neten"
+          "Amelie Neten"
         ],
-        "réponse": "Sarah Fraisou",
+        "reponse": "Sarah Fraisou",
         "anecdote": "Internet users are tapping the star of the Angels, accusing the ambassador of women rounds to do too much."
       },
       {
@@ -574,20 +574,20 @@
           "Sheryfa Luna",
           "Amel Bent"
         ],
-        "réponse": "Eve Angeli",
+        "reponse": "Eve Angeli",
         "anecdote": "This announcement has caused so much jabbering on Twitter and the social networks that the singer has decided not to release this album."
       },
       {
         "id": 15,
-        "question": "Which French artist sparked a media clash with Grégoire ?",
+        "question": "Which French artist sparked a media clash with Gregoire ?",
         "propositions": [
           "Manu Chao",
           "Benjamin Biolay",
           "Patrick Bruel",
           "Matthieu Chedid"
         ],
-        "réponse": "Benjamin Biolay",
-        "anecdote": "Through the social networks, the 44-year-old composer had stained Grégoire, accusing him of plagiarizing his title « Your inheritance »."
+        "reponse": "Benjamin Biolay",
+        "anecdote": "Through the social networks, the 44-year-old composer had stained Gregoire, accusing him of plagiarizing his title « Your inheritance »."
       },
       {
         "id": 16,
@@ -598,7 +598,7 @@
           "Jane Fonda",
           "Barbra Streisand"
         ],
-        "réponse": "Jane Fonda",
+        "reponse": "Jane Fonda",
         "anecdote": "Admired by business professionals and the public, 80 years old, Jane Fonda remains a key figure in the film."
       },
       {
@@ -610,19 +610,19 @@
           "Aqababe",
           "Pacco"
         ],
-        "réponse": "Aqababe",
+        "reponse": "Aqababe",
         "anecdote": "The blogger, who names himself Aniss, swayed an intimate video of Jeremstar, pulled out a few hours later."
       },
       {
         "id": 18,
-        "question": "What companion of François Baroin presented « Brillantissime » ?",
+        "question": "What companion of Francois Baroin presented « Brillantissime » ?",
         "propositions": [
           "Isabelle Boulay",
           "Michele Laroque",
           "Chantal Lauby",
           "Josiane Balasko"
         ],
-        "réponse": "Michele Laroque",
+        "reponse": "Michele Laroque",
         "anecdote": "Quite rare in public, the actress wanted to count on the support of Mayor LR Troyes before presenting his film to the press."
       },
       {
@@ -634,7 +634,7 @@
           "Florent Pagny",
           "Pascal Obispo"
         ],
-        "réponse": "M. Pokora",
+        "reponse": "M. Pokora",
         "anecdote": "After a busy year in 2017, the singer operates a real change of life that will pass by the other side of the Atlantic."
       },
       {
@@ -646,7 +646,7 @@
           "Sean Penn",
           "Tom Cruise"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "The governor of Hawaii explained that someone had pressed the wrong button during a check procedure."
       }
     ],
@@ -655,12 +655,12 @@
         "id": 21,
         "question": "Which singer saw death almost after an open heart surgery ?",
         "propositions": [
-          "Hervé Cristiani",
-          "Gérard Blanchard",
+          "Herve Cristiani",
+          "Gerard Blanchard",
           "Michel Jonasz",
           "Yves Duteil"
         ],
-        "réponse": "Yves Duteil",
+        "reponse": "Yves Duteil",
         "anecdote": "In 2001, Yves Duteil had sung to help his wife fight against the disease with a title called « So you do not die »."
       },
       {
@@ -672,7 +672,7 @@
           "Kelly Clarkson",
           "Angie Harmon"
         ],
-        "réponse": "Rita Wilson",
+        "reponse": "Rita Wilson",
         "anecdote": "London premiere of the film « Pentagon Papers », Tom Hanks appeared on the red carpet with his wife Rita Wilson."
       },
       {
@@ -680,11 +680,11 @@
         "question": "Which TV presenter buried her maiden life at Fouquet's ?",
         "propositions": [
           "Annie Lemoine",
-          "Daphné Roulier",
-          "Maya Lauqué",
-          "Ophélie Meunier"
+          "Daphne Roulier",
+          "Maya Lauque",
+          "Ophelie Meunier"
         ],
-        "réponse": "Ophélie Meunier",
+        "reponse": "Ophelie Meunier",
         "anecdote": "The famous presenter teleporting in « Forbidden Zone » had indeed revealed that she would marry Mathieu Vergne of TF1."
       },
       {
@@ -696,19 +696,19 @@
           "Giorgia Tordini",
           "Marie Gilliot"
         ],
-        "réponse": "Huda Kattan",
+        "reponse": "Huda Kattan",
         "anecdote": "She is one of the most powerful beauty influencers of the web and never misses an opportunity to give us her precious advice."
       },
       {
         "id": 25,
         "question": "Which adventurer was heavily injured in « The Villa of Broken Hearts » ?",
         "propositions": [
-          "Florent Ré",
+          "Florent Re",
           "Vivian Grimigni",
-          "Raphaël Pépin",
+          "Raphaal Pepin",
           "Julien Bert"
         ],
-        "réponse": "Raphaël Pépin",
+        "reponse": "Raphaal Pepin",
         "anecdote": "After falling heavily from a glass table, the young man was hospitalized and managed with 14 stitches on the buttocks."
       },
       {
@@ -720,7 +720,7 @@
           "Taylor Swift",
           "Mariah Carey"
         ],
-        "réponse": "Mariah Carey",
+        "reponse": "Mariah Carey",
         "anecdote": "The company Fenix claims three million dollars in repair of several cancellations of concerts in South America in 2016."
       },
       {
@@ -732,7 +732,7 @@
           "Jessica Capshaw",
           "Sara Ramirez"
         ],
-        "réponse": "Ellen Pompeo",
+        "reponse": "Ellen Pompeo",
         "anecdote": "After the departure of Patrick Dempsey and Martin Henderson, she traded twenty million a year for her « Gray's Anatomy » series."
       },
       {
@@ -744,8 +744,8 @@
           "Florian Gazan",
           "Marc Michaud"
         ],
-        "réponse": "Bruno Guillon",
-        "anecdote": "Before launching his career on NRJ, Bruno Guillon made his first appearances on the local radio station of Angé FM."
+        "reponse": "Bruno Guillon",
+        "anecdote": "Before launching his career on NRJ, Bruno Guillon made his first appearances on the local radio station of Ange FM."
       },
       {
         "id": 29,
@@ -756,7 +756,7 @@
           "David",
           "Carlos"
         ],
-        "réponse": "Benjamin",
+        "reponse": "Benjamin",
         "anecdote": "Ludivine Birker announced the happy news at Purebreak, although she wishes, this time, that her love life remains private."
       },
       {
@@ -768,13 +768,13 @@
           "Sam Asghari",
           "Jason Trawick"
         ],
-        "réponse": "Sam Asghari",
+        "reponse": "Sam Asghari",
         "anecdote": "As a couple with Sam Asghari for a year, secretly engaged, Britney Spears could get married for the third time in 2018."
       }
     ]
     },
     "de": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Welcher Produzent löste 2018 einen beispiellosen Sexskandal in Hollywood aus ?",
@@ -784,7 +784,7 @@
           "Stan Winston",
           "Harvey Weinstein"
         ],
-        "réponse": "Harvey Weinstein",
+        "reponse": "Harvey Weinstein",
         "anecdote": "Einige sogar sehr enge Komiker haben erklärt, warum sie die umstrittenen Handlungen des Produzenten nie verdächtigen konnten."
       },
       {
@@ -792,12 +792,12 @@
         "question": "Welcher ehemalige Schwimmmeister würdigte France Gall auf der Bühne ?",
         "propositions": [
           "Anthony Ervin",
-          "César Cielo",
+          "Cesar Cielo",
           "Florent Manaudou",
           "Matt Biondi"
         ],
-        "réponse": "Florent Manaudou",
-        "anecdote": "Der Bruder von Laure Manaudou wurde von seinem Schwager Jérémy Frérot an der Gitarre initiiert und trat im Kabarett Étoile Bleu in Marseille auf."
+        "reponse": "Florent Manaudou",
+        "anecdote": "Der Bruder von Laure Manaudou wurde von seinem Schwager Jeremy Frerot an der Gitarre initiiert und trat im Kabarett Étoile Bleu in Marseille auf."
       },
       {
         "id": 3,
@@ -808,7 +808,7 @@
           "Dolores O'Riordan",
           "Enya"
         ],
-        "réponse": "Dolores O'Riordan",
+        "reponse": "Dolores O'Riordan",
         "anecdote": "Am nächsten Tag sollte sie eine neue Version von « Zombie » aufnehmen und sich mit ihrem langjährigen Freund, dem Produzenten Dan Waite, treffen."
       },
       {
@@ -816,11 +816,11 @@
         "question": "Welcher Wirt von « Slam » träumt von Vaterschaft ?",
         "propositions": [
           "Philippe Vandel",
-          "Cyril Féraud",
+          "Cyril Feraud",
           "Florian Gazan",
           "Guy Carlier"
         ],
-        "réponse": "Cyril Féraud",
+        "reponse": "Cyril Feraud",
         "anecdote": "Cyril Ferrarel wurde von France 3 als sein Gesicht mit « Niemand dachte daran » und « der Schatzkarte » ausgewählt."
       },
       {
@@ -832,7 +832,7 @@
           "Katie Price",
           "Kate Moss"
         ],
-        "réponse": "Kate Moss",
+        "reponse": "Kate Moss",
         "anecdote": "Mit ihrem jugendlichen Aussehen, das für ihren Missbrauch von Operationen kritisiert wird, bleibt Kate Moss eine Ikone ihrer Generation."
       },
       {
@@ -844,7 +844,7 @@
           "98 kg",
           "118 kg"
         ],
-        "réponse": "108 kg",
+        "reponse": "108 kg",
         "anecdote": "Sein Arzt stellte fest, dass er einen hohen Cholesterinspiegel hatte und gab bekannt, dass er empfohlen hatte, mehr Sport zu treiben."
       },
       {
@@ -856,7 +856,7 @@
           "Daniel Lemire",
           "Claude Meunier"
         ],
-        "réponse": "Anthony Kavanagh",
+        "reponse": "Anthony Kavanagh",
         "anecdote": "Anthony Kavanagh, der für seine letzte Show in Neukaledonien war, musste dringend in Noumea ins Krankenhaus eingeliefert werden."
       },
       {
@@ -868,7 +868,7 @@
           "Harry",
           "William"
         ],
-        "réponse": "William",
+        "reponse": "William",
         "anecdote": "Der Haarzustand von Prinz William steht seit Jahren im Mittelpunkt der Fragen und wird sogar von Kate Middleton angegangen."
       },
       {
@@ -880,23 +880,23 @@
           "Teri Hatcher",
           "Marcia Cross"
         ],
-        "réponse": "Teri Hatcher",
+        "reponse": "Teri Hatcher",
         "anecdote": "Der Komiker geht mit Fremden aus, um Themen wie Religion oder sogar die 50er Jahre zu besprechen."
       },
       {
         "id": 10,
         "question": "Wer wurde am 13. Januar in Frankreich zur Miss Prestige National 2018 gewählt ?",
         "propositions": [
-          "Cécile Bégue",
+          "Cecile Begue",
           "Margaux Deroy",
           "Émilie Secret",
           "Charlotte Depaepe"
         ],
-        "réponse": "Charlotte Depaepe",
+        "reponse": "Charlotte Depaepe",
         "anecdote": "Die neue Schönheitskönigin macht einen Master-Abschluss in Management, um Ärztin und Sozialdirektorin zu werden."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Wer ist das neue Segment 2018 der Marke Seafolly Swimwear ?",
@@ -906,7 +906,7 @@
           "Toni Garrn",
           "Adriana Lima"
         ],
-        "réponse": "Toni Garrn",
+        "reponse": "Toni Garrn",
         "anecdote": "Toni Garrn hat bereits mit den größten Modemarken wie Calvin Klein, Ralph Lauren, Dior, Givenchy und Versace zusammengearbeitet."
       },
       {
@@ -918,19 +918,19 @@
           "Benjamin",
           "Thomas"
         ],
-        "réponse": "Thomas",
+        "reponse": "Thomas",
         "anecdote": "Der ehemalige Bahre wurde Austernzüchter und beschloss, sich nach seiner Pause bei seinem Ex anzumelden, nach einer Romanze, die zehn Jahre gedauert hatte."
       },
       {
         "id": 13,
         "question": "Welches Starlet wurde eingebrochen, als sie in Thailand Urlaub machte ?",
         "propositions": [
-          "Amélie Neten",
+          "Amelie Neten",
           "Barbara Lune",
           "Sarah Fraisou",
           "Julie Ricci"
         ],
-        "réponse": "Sarah Fraisou",
+        "reponse": "Sarah Fraisou",
         "anecdote": "Internetnutzer tippen auf den Stern der Engel und beschuldigen die Botschafterin der Frauenrunden, zu viel zu tun."
       },
       {
@@ -942,19 +942,19 @@
           "Amel Bent",
           "Eve Angeli"
         ],
-        "réponse": "Eve Angeli",
+        "reponse": "Eve Angeli",
         "anecdote": "Diese Ankündigung hat auf Twitter und in den sozialen Netzwerken so viel Geschwätz ausgelöst, dass der Sänger beschlossen hat, dieses Album nicht zu veröffentlichen."
       },
       {
         "id": 15,
-        "question": "Welcher französische Künstler hat einen Medienkonflikt mit Grégoire ausgelöst ?",
+        "question": "Welcher französische Künstler hat einen Medienkonflikt mit Gregoire ausgelöst ?",
         "propositions": [
           "Manu Chao",
           "Patrick Bruel",
           "Matthieu Chedid",
           "Benjamin Biolay"
         ],
-        "réponse": "Benjamin Biolay",
+        "reponse": "Benjamin Biolay",
         "anecdote": "Durch soziale Netzwerke hatte der 44-jährige Komponist Gregory in die Luft gesprengt und behauptet, seinen Titel « Your inheritance » plagiiert zu haben."
       },
       {
@@ -966,7 +966,7 @@
           "Jane Fonda",
           "Meryl Streep"
         ],
-        "réponse": "Jane Fonda",
+        "reponse": "Jane Fonda",
         "anecdote": "Die 80-jährige Jane Fonda wird von Geschäftsleuten und der Öffentlichkeit bewundert und bleibt eine Schlüsselfigur im Film."
       },
       {
@@ -978,19 +978,19 @@
           "Pacco",
           "Obion"
         ],
-        "réponse": "Aqababe",
+        "reponse": "Aqababe",
         "anecdote": "Der Blogger, der sich Aniss nennt, schwankte ein intimes Video von Jeremstar und zog es einige Stunden später heraus."
       },
       {
         "id": 18,
-        "question": "Welcher Gefährte von François Baroin präsentierte « Brillantissime » ?",
+        "question": "Welcher Gefährte von Francois Baroin präsentierte « Brillantissime » ?",
         "propositions": [
           "Chantal Lauby",
           "Isabelle Boulay",
           "Michele Laroque",
           "Josiane Balasko"
         ],
-        "réponse": "Michele Laroque",
+        "reponse": "Michele Laroque",
         "anecdote": "In der Öffentlichkeit sehr selten, wollte die Schauspielerin auf die Unterstützung von Bürgermeister LR Troyes zählen, bevor sie den Film der Presse vorstellte."
       },
       {
@@ -1002,7 +1002,7 @@
           "Pascal Obispo",
           "M. Pokora"
         ],
-        "réponse": "M. Pokora",
+        "reponse": "M. Pokora",
         "anecdote": "Nach einem arbeitsreichen Jahr im Jahr 2017 führt der Sänger eine echte Veränderung des Lebens durch, die auf der anderen Seite des Atlantiks vorbeiziehen wird."
       },
       {
@@ -1014,7 +1014,7 @@
           "Sean Penn",
           "Tom Cruise"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "Der Gouverneur von Hawaii erklärte, dass während eines Überprüfungsvorgangs jemand den falschen Knopf gedrückt habe."
       }
     ],
@@ -1023,12 +1023,12 @@
         "id": 21,
         "question": "Welcher Sänger sah den Tod fast nach einer Operation am offenen Herzen ?",
         "propositions": [
-          "Hervé Cristiani",
+          "Herve Cristiani",
           "Yves Duteil",
-          "Gérard Blanchard",
+          "Gerard Blanchard",
           "Michel Jonasz"
         ],
-        "réponse": "Yves Duteil",
+        "reponse": "Yves Duteil",
         "anecdote": "Im Jahr 2001 hatte Yves Duteil gesungen, um seiner Frau beim Kampf gegen die Krankheit mit dem Titel « Also du stirbst nicht » zu helfen."
       },
       {
@@ -1040,7 +1040,7 @@
           "Tiffani Thiessen",
           "Kelly Clarkson"
         ],
-        "réponse": "Rita Wilson",
+        "reponse": "Rita Wilson",
         "anecdote": "In der Londoner Premiere des Films « Pentagon Papers » trat Tom Hanks mit seiner Frau Rita Wilson auf dem roten Teppich auf."
       },
       {
@@ -1048,11 +1048,11 @@
         "question": "Welche Fernsehmoderatorin hat ihr junges Leben bei Fouquet begraben ?",
         "propositions": [
           "Annie Lemoine",
-          "Maya Lauqué",
-          "Daphné Roulier",
-          "Ophélie Meunier"
+          "Maya Lauque",
+          "Daphne Roulier",
+          "Ophelie Meunier"
         ],
-        "réponse": "Ophélie Meunier",
+        "reponse": "Ophelie Meunier",
         "anecdote": "Die berühmte Moderatorin, die sich in die « Verbotene Zone » teleportierte, hatte in der Tat offenbart, dass sie Mathieu Vergne von TF1 heiraten würde."
       },
       {
@@ -1064,7 +1064,7 @@
           "Giorgia Tordini",
           "Huda Kattan"
         ],
-        "réponse": "Huda Kattan",
+        "reponse": "Huda Kattan",
         "anecdote": "Sie ist eine der mächtigsten Schönheitsbeeinflusserinnen im Internet und verpasst nie die Gelegenheit, uns ihre wertvollen Ratschläge zu geben."
       },
       {
@@ -1072,11 +1072,11 @@
         "question": "Welcher Abenteurer wurde in « Die Villa der gebrochenen Herzen » schwer verletzt ?",
         "propositions": [
           "Vivian Grimigni",
-          "Raphaël Pépin",
-          "Florent Ré",
+          "Raphaal Pepin",
+          "Florent Re",
           "Julien Bert"
         ],
-        "réponse": "Raphaël Pépin",
+        "reponse": "Raphaal Pepin",
         "anecdote": "Nachdem der junge Mann schwer von einem Glastisch gefallen war, wurde er ins Krankenhaus eingeliefert und mit 14 Stichen am Gesäß behandelt."
       },
       {
@@ -1088,7 +1088,7 @@
           "Mariah Carey",
           "Taylor Swift"
         ],
-        "réponse": "Mariah Carey",
+        "reponse": "Mariah Carey",
         "anecdote": "Die Firma Fenix behauptet drei Millionen Dollar für die Reparatur mehrerer Konzertstornierungen in Südamerika im Jahr 2016."
       },
       {
@@ -1100,7 +1100,7 @@
           "Jessica Capshaw",
           "Ellen Pompeo"
         ],
-        "réponse": "Ellen Pompeo",
+        "reponse": "Ellen Pompeo",
         "anecdote": "Nach dem Abgang von Patrick Dempsey und Martin Henderson tauschte sie 20 Millionen pro Jahr gegen ihre Serie « Gray's Anatomy »."
       },
       {
@@ -1112,8 +1112,8 @@
           "Marc Michaud",
           "Florian Gazan"
         ],
-        "réponse": "Bruno Guillon",
-        "anecdote": "Bevor Bruno Guillon seine Karriere bei NRJ startete, trat er erstmals beim lokalen Radiosender Angé FM auf."
+        "reponse": "Bruno Guillon",
+        "anecdote": "Bevor Bruno Guillon seine Karriere bei NRJ startete, trat er erstmals beim lokalen Radiosender Ange FM auf."
       },
       {
         "id": 29,
@@ -1124,7 +1124,7 @@
           "Constantin",
           "Carlos"
         ],
-        "réponse": "Benjamin",
+        "reponse": "Benjamin",
         "anecdote": "Ludivine Birker verkündete die frohe Botschaft bei Purebreak, obwohl sie diesmal wünscht, dass ihr Liebesleben privat bleibt."
       },
       {
@@ -1136,71 +1136,71 @@
           "Charlie Ebersol",
           "David Lucado"
         ],
-        "réponse": "Sam Asghari",
+        "reponse": "Sam Asghari",
         "anecdote": "In einer einjährigen Beziehung mit Sam Asghari, heimlich verlobt, könnte Britney Spears 2018 zum dritten Mal heiraten."
       }
     ]
     },
     "es": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "¿Qué productor provocó en 2018 un escándalo sexual sin precedentes en Hollywood ?",
+        "question": "¿Que productor provocó en 2018 un escándalo sexual sin precedentes en Hollywood ?",
         "propositions": [
           "Stan Winston",
           "Harvey Weinstein",
           "Tom Werner",
           "Robert Wall"
         ],
-        "réponse": "Harvey Weinstein",
-        "anecdote": "Algunos incluso cómicos muy cercanos han explicado por qué nunca han podido sospechar las acciones disputadas del productor."
+        "reponse": "Harvey Weinstein",
+        "anecdote": "Algunos incluso cómicos muy cercanos han explicado por que nunca han podido sospechar las acciones disputadas del productor."
       },
       {
         "id": 2,
-        "question": "¿Qué ex campeón de natación rindió homenaje a France Gall en el escenario ?",
+        "question": "¿Que ex campeón de natación rindió homenaje a France Gall en el escenario ?",
         "propositions": [
           "Anthony Ervin",
           "Florent Manaudou",
-          "César Cielo",
+          "Cesar Cielo",
           "Matt Biondi"
         ],
-        "réponse": "Florent Manaudou",
-        "anecdote": "Iniciada en la guitarra por su cuñado Jérémy Frérot, el hermano de Laure Manaudou tocó en el cabaret l'Étoile bleue en Marsella."
+        "reponse": "Florent Manaudou",
+        "anecdote": "Iniciada en la guitarra por su cuñado Jeremy Frerot, el hermano de Laure Manaudou tocó en el cabaret l'Étoile bleue en Marsella."
       },
       {
         "id": 3,
-        "question": "¿Qué cantante emblemático del grupo Cranberries murió en 2018 ?",
+        "question": "¿Que cantante emblemático del grupo Cranberries murió en 2018 ?",
         "propositions": [
           "Enya",
           "Sinead O'Connor",
           "Dolores O'Riordan",
           "Janet Devlin"
         ],
-        "réponse": "Dolores O'Riordan",
+        "reponse": "Dolores O'Riordan",
         "anecdote": "Debía grabar al día siguiente una nueva versión de « Zombie » y ver a su viejo amigo, el productor Dan Waite."
       },
       {
         "id": 4,
-        "question": "¿Qué anfitrión de « Slam » dreams of paternity ?",
+        "question": "¿Que anfitrión de « Slam » dreams of paternity ?",
         "propositions": [
           "Philippe Vandel",
           "Florian Gazan",
-          "Cyril Féraud",
+          "Cyril Feraud",
           "Guy Carlier"
         ],
-        "réponse": "Cyril Féraud",
+        "reponse": "Cyril Feraud",
         "anecdote": "Cyril Ferrarel fue elegido por France 3 para ser su cara con « Nadie lo pensó » y « el mapa del tesoro »."
       },
       {
         "id": 5,
-        "question": "¿Qué modelo famoso tenía 44 años el 16 de enero de 2018 ?",
+        "question": "¿Que modelo famoso tenía 44 años el 16 de enero de 2018 ?",
         "propositions": [
           "Kelly Brook",
           "Louise Glover",
           "Katie Price",
           "Kate Moss"
         ],
-        "réponse": "Kate Moss",
+        "reponse": "Kate Moss",
         "anecdote": "Con su mirada adolescente, criticada por su mal uso de la cirugía, Kate Moss sigue siendo un ícono de su generación."
       },
       {
@@ -1212,305 +1212,305 @@
           "118 kg",
           "98 kg"
         ],
-        "réponse": "108 kg",
-        "anecdote": "Su médico observó que tenía un nivel de colesterol alto y anunció que le había recomendado que hiciera más ejercicio."
+        "reponse": "108 kg",
+        "anecdote": "Su medico observó que tenía un nivel de colesterol alto y anunció que le había recomendado que hiciera más ejercicio."
       },
       {
         "id": 7,
-        "question": "¿Qué comediante canadiense sufrió una embolia pulmonar ?",
+        "question": "¿Que comediante canadiense sufrió una embolia pulmonar ?",
         "propositions": [
           "Anthony Kavanagh",
           "Daniel Lemire",
           "Claude Meunier",
           "Yvan Ducharme"
         ],
-        "réponse": "Anthony Kavanagh",
+        "reponse": "Anthony Kavanagh",
         "anecdote": "Estando en Nueva Caledonia para su último concierto, Anthony Kavanagh tuvo que ser hospitalizado con urgencia en Numea."
       },
       {
         "id": 8,
-        "question": "¿Qué heredero británico se ha afeitado la cabeza para contrarrestar la calvicie ?",
+        "question": "¿Que heredero británico se ha afeitado la cabeza para contrarrestar la calvicie ?",
         "propositions": [
           "Harry",
           "George",
           "William",
           "Charles"
         ],
-        "réponse": "William",
+        "reponse": "William",
         "anecdote": "La condición del cabello de Prince William ha estado en el corazón de las preguntas durante años, incluso siendo abordada por Kate Middleton."
       },
       {
         "id": 9,
-        "question": "¿Qué vieja ama de casa desesperada ha lanzado el bienestar de su canal de YouTube ?",
+        "question": "¿Que vieja ama de casa desesperada ha lanzado el bienestar de su canal de YouTube ?",
         "propositions": [
           "Teri Hatcher",
           "Nicollette Sheridan",
           "Eva Longoria",
           "Marcia Cross"
         ],
-        "réponse": "Teri Hatcher",
+        "reponse": "Teri Hatcher",
         "anecdote": "El comediante sale a reunirse con extraños para discutir temas como la religión o incluso los años 50."
       },
       {
         "id": 10,
-        "question": "¿Quién fue elegido el 13 de enero en Francia Miss Prestige National 2018 ?",
+        "question": "¿Quien fue elegido el 13 de enero en Francia Miss Prestige National 2018 ?",
         "propositions": [
           "Émilie Secret",
           "Margaux Deroy",
           "Charlotte Depaepe",
-          "Cécile Bègue"
+          "Cecile Begue"
         ],
-        "réponse": "Charlotte Depaepe",
-        "anecdote": "Esta nueva reina de belleza está estudiando para obtener una maestría en administración para convertirse en directora médica y social."
+        "reponse": "Charlotte Depaepe",
+        "anecdote": "Esta nueva reina de belleza está estudiando para obtener una maestría en administración para convertirse en directora medica y social."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "¿Quién es el nuevo segmento 2018 de la marca Seafolly Swimwear ?",
+        "question": "¿Quien es el nuevo segmento 2018 de la marca Seafolly Swimwear ?",
         "propositions": [
           "Marisa Miller",
           "Toni Garrn",
           "Adriana lima",
           "Heidi Klum"
         ],
-        "réponse": "Toni Garrn",
+        "reponse": "Toni Garrn",
         "anecdote": "Toni Garrn ya ha colaborado con los nombres más importantes de la moda, como Calvin Klein, Ralph Lauren, Dior, Givenchy y Versace."
       },
       {
         "id": 12,
-        "question": "¿Quién es el segundo granjero gay en la historia de « El amor está en el pre » ?",
+        "question": "¿Quien es el segundo granjero gay en la historia de « El amor está en el pre » ?",
         "propositions": [
           "Didier",
           "Francis",
           "Benjamin",
           "Thomas"
         ],
-        "réponse": "Thomas",
-        "anecdote": "La antigua camilla se convirtió en un criador de ostras que decidió registrarse después de su separación con su ex, después de un romance que había durado diez años."
+        "reponse": "Thomas",
+        "anecdote": "La antigua camilla se convirtió en un criador de ostras que decidió registrarse despues de su separación con su ex, despues de un romance que había durado diez años."
       },
       {
         "id": 13,
-        "question": "¿Qué estrella fue robada mientras ella estaba de vacaciones en Tailandia ?",
+        "question": "¿Que estrella fue robada mientras ella estaba de vacaciones en Tailandia ?",
         "propositions": [
           "Barbara Lune",
           "Sarah Fraisou",
-          "Améie Neten",
+          "Ameie Neten",
           "Julie Ricci"
         ],
-        "réponse": "Sarah Fraisou",
+        "reponse": "Sarah Fraisou",
         "anecdote": "Los usuarios de Internet están tocando la estrella de los Ángeles, acusando a la embajadora de las rondas de mujeres de hacer demasiado."
       },
       {
         "id": 14,
-        "question": "¿Quién ha anunciado que quiere tomar los tubos de Johnny Hallyday en zouk ?",
+        "question": "¿Quien ha anunciado que quiere tomar los tubos de Johnny Hallyday en zouk ?",
         "propositions": [
           "Sheryfa Luna",
           "Liane Foly",
           "Eve Angeli",
           "Amel Bent"
         ],
-        "réponse": "Eve Angeli",
+        "reponse": "Eve Angeli",
         "anecdote": "Este anuncio ha causado tantos comentarios en Twitter y en las redes sociales que el cantante ha decidido no lanzar este álbum."
       },
       {
         "id": 15,
-        "question": "¿Qué artista francés provocó un choque mediático con Grégoire ?",
+        "question": "¿Que artista frances provocó un choque mediático con Gregoire ?",
         "propositions": [
           "Matthieu Chedid",
           "Manu Chao",
           "Patrick Bruel",
           "Benjamin Biolay"
         ],
-        "réponse": "Benjamin Biolay",
-        "anecdote": "A través de las redes sociales, el compositor de 44 años había manchado a Grégoire, acusándolo de plagiar su título « Tu herencia »."
+        "reponse": "Benjamin Biolay",
+        "anecdote": "A traves de las redes sociales, el compositor de 44 años había manchado a Gregoire, acusándolo de plagiar su título « Tu herencia »."
       },
       {
         "id": 16,
-        "question": "¿A qué gran estrella americana se le extrajo un tumor con el labio ?",
+        "question": "¿A que gran estrella americana se le extrajo un tumor con el labio ?",
         "propositions": [
           "Barbra Streisand",
           "Meryl Streep",
           "Julianne moore",
           "Jane Fonda"
         ],
-        "réponse": "Jane Fonda",
+        "reponse": "Jane Fonda",
         "anecdote": "Admirada por profesionales de negocios y el público, de 80 años de edad, Jane Fonda sigue siendo una figura clave en la película."
       },
       {
         "id": 17,
-        "question": "¿Qué blogger declaró la guerra a Jeremstar a través de las redes sociales ?",
+        "question": "¿Que blogger declaró la guerra a Jeremstar a traves de las redes sociales ?",
         "propositions": [
           "Aqababe",
           "Obion",
           "Pacco",
           "Korben"
         ],
-        "réponse": "Aqababe",
-        "anecdote": "El bloguero, que se llama a sí mismo Aniss, balanceó un video íntimo de Jeremstar y lo sacó unas horas después."
+        "reponse": "Aqababe",
+        "anecdote": "El bloguero, que se llama a sí mismo Aniss, balanceó un video íntimo de Jeremstar y lo sacó unas horas despues."
       },
       {
         "id": 18,
-        "question": "¿Qué compañero de François Baroin presentó « Brillantissime » ?",
+        "question": "¿Que compañero de Francois Baroin presentó « Brillantissime » ?",
         "propositions": [
           "Isabelle Boulay",
           "Josiane Balasko",
           "Chantal Lauby",
           "Michele Laroque"
         ],
-        "réponse": "Michele Laroque",
+        "reponse": "Michele Laroque",
         "anecdote": "Muy rara en público, la actriz quería contar con el apoyo del alcalde LR Troyes antes de presentar su película a la prensa."
       },
       {
         "id": 19,
-        "question": "¿Qué jurado de « The Voice » ha decidido retirarse de las redes sociales ?",
+        "question": "¿Que jurado de « The Voice » ha decidido retirarse de las redes sociales ?",
         "propositions": [
           "M. Pokora",
           "Mika",
           "Florent Pagny",
           "Pascal Obispo"
         ],
-        "réponse": "M. Pokora",
-        "anecdote": "Después de un año ocupado en 2017, la cantante opera un verdadero cambio de vida que pasará por el otro lado del Atlántico."
+        "reponse": "M. Pokora",
+        "anecdote": "Despues de un año ocupado en 2017, la cantante opera un verdadero cambio de vida que pasará por el otro lado del Atlántico."
       },
       {
         "id": 20,
-        "question": "¿Qué actor pensó que murió después de una falsa advertencia de misiles en Hawai ?",
+        "question": "¿Que actor pensó que murió despues de una falsa advertencia de misiles en Hawai ?",
         "propositions": [
           "Jim Carrey",
           "Tom Cruise",
           "Colin Firth",
           "Sean Penn"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "El gobernador de Hawai explicó que alguien había presionado el botón incorrecto durante un procedimiento de verificación."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "¿Qué cantante vio la muerte casi después de una cirugía a corazón abierto ?",
+        "question": "¿Que cantante vio la muerte casi despues de una cirugía a corazón abierto ?",
         "propositions": [
-          "Hervé Cristiani",
+          "Herve Cristiani",
           "Yves Duteil",
-          "Gérard Blanchard",
+          "Gerard Blanchard",
           "Michel Jonasz"
         ],
-        "réponse": "Yves Duteil",
+        "reponse": "Yves Duteil",
         "anecdote": "En 2001, Yves Duteil había cantado para ayudar a su esposa a luchar contra la enfermedad con un título llamado « Para que no mueras »."
       },
       {
         "id": 22,
-        "question": "¿De quién aún está enamorado Tom Hanks después de 30 años de matrimonio ?",
+        "question": "¿De quien aún está enamorado Tom Hanks despues de 30 años de matrimonio ?",
         "propositions": [
           "Rita Wilson",
           "Kelly Clarkson",
           "Tiffani Thiessen",
           "Angie Harmon"
         ],
-        "réponse": "Rita Wilson",
+        "reponse": "Rita Wilson",
         "anecdote": "Estreno en Londres de la película « Pentagon Papers », Tom Hanks apareció en la alfombra roja con su esposa Rita Wilson."
       },
       {
         "id": 23,
-        "question": "¿Qué presentadora de televisión enterró su vida inaugural en Fouquet's ?",
+        "question": "¿Que presentadora de televisión enterró su vida inaugural en Fouquet's ?",
         "propositions": [
-          "Ophéle meunier",
-          "Maya lauqué",
+          "Ophele meunier",
+          "Maya lauque",
           "Annie Lemoine",
-          "Daphné Roulier"
+          "Daphne Roulier"
         ],
-        "réponse": "Ophéle meunier",
+        "reponse": "Ophele meunier",
         "anecdote": "La famosa presentadora que se teletransportaba en « Forbidden Zone » había revelado que se casaría con Mathieu Vergne de TF1."
       },
       {
         "id": 24,
-        "question": "¿Qué influencer Instagram ha entregado su truco anti-botón ?",
+        "question": "¿Que influencer Instagram ha entregado su truco anti-botón ?",
         "propositions": [
           "Clara Luciani",
           "Giorgia Tordini",
           "Huda Kattan",
           "Marie Gilliot"
         ],
-        "réponse": "Huda Kattan",
+        "reponse": "Huda Kattan",
         "anecdote": "Es una de las influencias de belleza más poderosas de la web y nunca pierde la oportunidad de darnos su precioso consejo."
       },
       {
         "id": 25,
-        "question": "¿Qué aventurero resultó gravemente herido en « La Villa de los Corazones Rotos » ?",
+        "question": "¿Que aventurero resultó gravemente herido en « La Villa de los Corazones Rotos » ?",
         "propositions": [
-          "Florent Ré",
+          "Florent Re",
           "Vivian Grimigni",
           "Julien Bert",
-          "Raphaël Pépin"
+          "Raphaal Pepin"
         ],
-        "réponse": "Raphaël Pépin",
-        "anecdote": "Después de caer pesadamente de una mesa de vidrio, el joven fue hospitalizado y se le administraron 14 puntos en las nalgas."
+        "reponse": "Raphaal Pepin",
+        "anecdote": "Despues de caer pesadamente de una mesa de vidrio, el joven fue hospitalizado y se le administraron 14 puntos en las nalgas."
       },
       {
         "id": 26,
-        "question": "¿Qué cantante fue demandado por conciertos cancelados en 2016 ?",
+        "question": "¿Que cantante fue demandado por conciertos cancelados en 2016 ?",
         "propositions": [
           "Katy Perry",
           "Taylor Swift",
           "Mariah Carey",
           "Rihanna"
         ],
-        "réponse": "Mariah Carey",
-        "anecdote": "La compañía Fenix reclama tres millones de dólares en la reparación de varias cancelaciones de conciertos en Sudamérica en 2016."
+        "reponse": "Mariah Carey",
+        "anecdote": "La compañía Fenix reclama tres millones de dólares en la reparación de varias cancelaciones de conciertos en Sudamerica en 2016."
       },
       {
         "id": 27,
-        "question": "¿Qué estrella se ha convertido en la actriz de serie mejor pagada en los Estados Unidos ?",
+        "question": "¿Que estrella se ha convertido en la actriz de serie mejor pagada en los Estados Unidos ?",
         "propositions": [
           "Ellen Pompeo",
           "Jessica Capshaw",
           "Sara ramirez",
           "Sandra Oh"
         ],
-        "réponse": "Ellen Pompeo",
-        "anecdote": "Después de la partida de Patrick Dempsey y Martin Henderson, ella intercambió veinte millones al año por su serie « Grey's Anatomy »."
+        "reponse": "Ellen Pompeo",
+        "anecdote": "Despues de la partida de Patrick Dempsey y Martin Henderson, ella intercambió veinte millones al año por su serie « Grey's Anatomy »."
       },
       {
         "id": 28,
-        "question": "¿Quién fue elegido para suceder a Tex para los « Les Z'amours » ?",
+        "question": "¿Quien fue elegido para suceder a Tex para los « Les Z'amours » ?",
         "propositions": [
           "Marc Michaud",
           "Camille combal",
           "Florian Gazan",
           "Bruno Guillon"
         ],
-        "réponse": "Bruno Guillon",
-        "anecdote": "Antes de lanzar su carrera en NRJ, Bruno Guillon hizo sus primeras apariciones en la estación de radio local de Angé FM."
+        "reponse": "Bruno Guillon",
+        "anecdote": "Antes de lanzar su carrera en NRJ, Bruno Guillon hizo sus primeras apariciones en la estación de radio local de Ange FM."
       },
       {
         "id": 29,
-        "question": "Después de Julien Castaldi, ¿con quién retrocedió Ludivine Birker ?",
+        "question": "Despues de Julien Castaldi, ¿con quien retrocedió Ludivine Birker ?",
         "propositions": [
           "Constantin",
           "Benjamin",
           "David",
           "Carlos"
         ],
-        "réponse": "Benjamin",
+        "reponse": "Benjamin",
         "anecdote": "Ludivine Birker anunció la feliz noticia en Purebreak, aunque esta vez desea que su vida amorosa sea privada."
       },
       {
         "id": 30,
-        "question": "¿Qué Britney Spears de 23 años habría dicho que sí ?",
+        "question": "¿Que Britney Spears de 23 años habría dicho que sí ?",
         "propositions": [
           "David lucado",
           "Jason Trawick",
           "Charlie Ebersol",
           "Sam Asghari"
         ],
-        "réponse": "Sam Asghari",
+        "reponse": "Sam Asghari",
         "anecdote": "Como pareja con Sam Asghari durante un año, comprometida en secreto, Britney Spears podría casarse por tercera vez en 2018."
       }
     ]
     },
     "it": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Quale produttore ha scatenato il 2018 uno scandalo sessuale senza precedenti a Hollywood ?",
@@ -1520,8 +1520,8 @@
           "Robert Wall",
           "Harvey Weinstein"
         ],
-        "réponse": "Harvey Weinstein",
-        "anecdote": "Alcuni comici anche molto stretti hanno spiegato perché non sono mai stati in grado di sospettare le azioni contestate del produttore."
+        "reponse": "Harvey Weinstein",
+        "anecdote": "Alcuni comici anche molto stretti hanno spiegato perche non sono mai stati in grado di sospettare le azioni contestate del produttore."
       },
       {
         "id": 2,
@@ -1530,21 +1530,21 @@
           "Florent Manaudou",
           "Anthony Ervin",
           "Matt Biondi",
-          "César Cielo"
+          "Cesar Cielo"
         ],
-        "réponse": "Florent Manaudou",
-        "anecdote": "Iniziato alla chitarra da suo cognato Jérémy Frérot, il fratello di Laure Manaudou si esibì al cabaret di Étoile Bleue a Marsiglia."
+        "reponse": "Florent Manaudou",
+        "anecdote": "Iniziato alla chitarra da suo cognato Jeremy Frerot, il fratello di Laure Manaudou si esibì al cabaret di Étoile Bleue a Marsiglia."
       },
       {
         "id": 3,
-        "question": "Quale cantante emblematica del gruppo Cranberries è morta nel 2018 ?",
+        "question": "Quale cantante emblematica del gruppo Cranberries e morta nel 2018 ?",
         "propositions": [
           "Sinead O'Connor",
           "Dolores O'Riordan",
           "Janet Devlin",
           "Enya"
         ],
-        "réponse": "Dolores O'Riordan",
+        "reponse": "Dolores O'Riordan",
         "anecdote": "Doveva registrare il giorno successivo una nuova versione di « Zombie » e vedere il suo amico di lunga data, il produttore Dan Waite."
       },
       {
@@ -1554,10 +1554,10 @@
           "Guy Carlier",
           "Florian Gazan",
           "Philippe Vandel",
-          "Cyril Féraud"
+          "Cyril Feraud"
         ],
-        "réponse": "Cyril Féraud",
-        "anecdote": "Cyril Ferrarel è stato scelto da France 3 per essere il suo volto con « Nessuno ci ha pensato » e « la mappa del tesoro »."
+        "reponse": "Cyril Feraud",
+        "anecdote": "Cyril Ferrarel e stato scelto da France 3 per essere il suo volto con « Nessuno ci ha pensato » e « la mappa del tesoro »."
       },
       {
         "id": 5,
@@ -1568,7 +1568,7 @@
           "Kelly Brook",
           "Louise Glover"
         ],
-        "réponse": "Kate Moss",
+        "reponse": "Kate Moss",
         "anecdote": "Con il suo aspetto da adolescente, criticato per il suo uso improprio della chirurgia, Kate Moss rimane un'icona della sua generazione."
       },
       {
@@ -1580,8 +1580,8 @@
           "98 kg",
           "108 kg"
         ],
-        "réponse": "108 kg",
-        "anecdote": "Il suo dottore ha osservato che aveva un livello di colesterolo alto e ha annunciato che gli aveva raccomandato di esercitare di più."
+        "reponse": "108 kg",
+        "anecdote": "Il suo dottore ha osservato che aveva un livello di colesterolo alto e ha annunciato che gli aveva raccomandato di esercitare di piu."
       },
       {
         "id": 7,
@@ -1592,7 +1592,7 @@
           "Anthony Kavanagh",
           "Yvan Ducharme"
         ],
-        "réponse": "Anthony Kavanagh",
+        "reponse": "Anthony Kavanagh",
         "anecdote": "Essendo in Nuova Caledonia per il suo ultimo spettacolo, Anthony Kavanagh ha dovuto essere ricoverato urgentemente a Noumea."
       },
       {
@@ -1604,8 +1604,8 @@
           "Harry",
           "William"
         ],
-        "réponse": "William",
-        "anecdote": "La condizione dei capelli del principe William è stata al centro delle domande per anni, anche se è stata affrontata da Kate Middleton."
+        "reponse": "William",
+        "anecdote": "La condizione dei capelli del principe William e stata al centro delle domande per anni, anche se e stata affrontata da Kate Middleton."
       },
       {
         "id": 9,
@@ -1616,57 +1616,57 @@
           "Eva Longoria",
           "Nicollette Sheridan"
         ],
-        "réponse": "Teri Hatcher",
+        "reponse": "Teri Hatcher",
         "anecdote": "Il comico esce per incontrare estranei per discutere di argomenti come la religione o anche gli anni '50."
       },
       {
         "id": 10,
-        "question": "Chi è stato eletto il 13 gennaio in Francia, Miss Prestige National 2018 ?",
+        "question": "Chi e stato eletto il 13 gennaio in Francia, Miss Prestige National 2018 ?",
         "propositions": [
           "Margaux Deroy",
           "Émilie Secret",
           "Charlotte Depaepe",
-          "Cécile Bègue"
+          "Cecile Begue"
         ],
-        "réponse": "Charlotte Depaepe",
+        "reponse": "Charlotte Depaepe",
         "anecdote": "Questa nuova regina di bellezza sta studiando per un master in gestione per diventare un direttore medico e sociale."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Chi è il nuovo segmento 2018 del marchio Seafolly Swimwear ?",
+        "question": "Chi e il nuovo segmento 2018 del marchio Seafolly Swimwear ?",
         "propositions": [
           "Marisa Miller",
           "Heidi Klum",
           "Toni Garrn",
           "Adriana Lima"
         ],
-        "réponse": "Toni Garrn",
-        "anecdote": "Toni Garrn ha già collaborato con i più grandi nomi della moda, come Calvin Klein, Ralph Lauren, Dior, Givenchy e Versace."
+        "reponse": "Toni Garrn",
+        "anecdote": "Toni Garrn ha già collaborato con i piu grandi nomi della moda, come Calvin Klein, Ralph Lauren, Dior, Givenchy e Versace."
       },
       {
         "id": 12,
-        "question": "Chi è il secondo allevatore gay nella storia di « Love is in the pre » ?",
+        "question": "Chi e il secondo allevatore gay nella storia di « Love is in the pre » ?",
         "propositions": [
           "Benjamin",
           "Francis",
           "Didier",
           "Thomas"
         ],
-        "réponse": "Thomas",
+        "reponse": "Thomas",
         "anecdote": "L'ex barella divenne un'ostrica agricoltore che decise di registrarsi dopo la rottura con la sua ex, dopo una storia d'amore durata dieci anni."
       },
       {
         "id": 13,
-        "question": "Quale starlet è stata svaligiata mentre era in vacanza in Tailandia ?",
+        "question": "Quale starlet e stata svaligiata mentre era in vacanza in Tailandia ?",
         "propositions": [
           "Julie Ricci",
           "Sarah Fraisou",
-          "Amélie Neten",
+          "Amelie Neten",
           "Barbara Lune"
         ],
-        "réponse": "Sarah Fraisou",
+        "reponse": "Sarah Fraisou",
         "anecdote": "Gli utenti di Internet stanno sfruttando la stella degli Angeli, accusando l'ambasciatore delle donne di fare troppo."
       },
       {
@@ -1678,31 +1678,31 @@
           "Sheryfa Luna",
           "Eve Angeli"
         ],
-        "réponse": "Eve Angeli",
+        "reponse": "Eve Angeli",
         "anecdote": "Questo annuncio ha causato così tanto jabbering su Twitter e sui social network che il cantante ha deciso di non pubblicare questo album."
       },
       {
         "id": 15,
-        "question": "Quale artista francese ha suscitato uno scontro tra media e Grégoire ?",
+        "question": "Quale artista francese ha suscitato uno scontro tra media e Gregoire ?",
         "propositions": [
           "Manu Chao",
           "Benjamin Biolay",
           "Patrick Bruel",
           "Matthieu Chedid"
         ],
-        "réponse": "Benjamin Biolay",
+        "reponse": "Benjamin Biolay",
         "anecdote": "Attraverso i social network, il compositore di 44 anni aveva soffiato Gregory, affermando di aver plagiato il suo titolo « Your inheritance »."
       },
       {
         "id": 16,
-        "question": "Quale grande stella americana è stata rimossa un tumore con il labbro ?",
+        "question": "Quale grande stella americana e stata rimossa un tumore con il labbro ?",
         "propositions": [
           "Jane Fonda",
           "Barbra Streisand",
           "Meryl Streep",
           "Julianne Moore"
         ],
-        "réponse": "Jane Fonda",
+        "reponse": "Jane Fonda",
         "anecdote": "Ammirata dagli uomini d'affari e dal pubblico, 80 anni, Jane Fonda rimane una figura chiave nel film."
       },
       {
@@ -1714,19 +1714,19 @@
           "Obion",
           "Korben"
         ],
-        "réponse": "Aqababe",
+        "reponse": "Aqababe",
         "anecdote": "Il blogger, che si chiama Aniss, ha oscurato un video intimo di Jeremstar, tirato fuori poche ore dopo."
       },
       {
         "id": 18,
-        "question": "Quale compagno di François Baroin ha presentato « Brillantissime » ?",
+        "question": "Quale compagno di Francois Baroin ha presentato « Brillantissime » ?",
         "propositions": [
           "Michele Laroque",
           "Chantal Lauby",
           "Josiane Balasko",
           "Isabelle Boulay"
         ],
-        "réponse": "Michele Laroque",
+        "reponse": "Michele Laroque",
         "anecdote": "Abbastanza raro in pubblico, l'attrice ha voluto contare sul sostegno del sindaco LR Troyes prima di presentare il suo film alla stampa."
       },
       {
@@ -1738,7 +1738,7 @@
           "Mika",
           "M. Pokora"
         ],
-        "réponse": "M. Pokora",
+        "reponse": "M. Pokora",
         "anecdote": "Dopo un anno impegnativo nel 2017, il cantante opera un vero cambiamento di vita che passerà dall'altra parte dell'Atlantico."
       },
       {
@@ -1750,7 +1750,7 @@
           "Jim Carrey",
           "Tom Cruise"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "Il governatore delle Hawaii ha spiegato che qualcuno aveva premuto il pulsante sbagliato durante una procedura di controllo."
       }
     ],
@@ -1761,34 +1761,34 @@
         "propositions": [
           "Yves Duteil",
           "Michel Jonasz",
-          "Hervé Cristiani",
-          "Gérard Blanchard"
+          "Herve Cristiani",
+          "Gerard Blanchard"
         ],
-        "réponse": "Yves Duteil",
+        "reponse": "Yves Duteil",
         "anecdote": "Nel 2001, Yves Duteil aveva cantato per aiutare sua moglie a combattere la malattia con un titolo chiamato « Quindi non muori »."
       },
       {
         "id": 22,
-        "question": "Di chi è Tom Hanks ancora innamorato dopo 30 anni di matrimonio ?",
+        "question": "Di chi e Tom Hanks ancora innamorato dopo 30 anni di matrimonio ?",
         "propositions": [
           "Rita Wilson",
           "Kelly Clarkson",
           "Angie Harmon",
           "Tiffani Thiessen"
         ],
-        "réponse": "Rita Wilson",
-        "anecdote": "Prima di Londra del film « Pentagon Papers », Tom Hanks è apparso sul tappeto rosso con sua moglie Rita Wilson."
+        "reponse": "Rita Wilson",
+        "anecdote": "Prima di Londra del film « Pentagon Papers », Tom Hanks e apparso sul tappeto rosso con sua moglie Rita Wilson."
       },
       {
         "id": 23,
         "question": "Quale presentatrice televisiva ha seppellito la sua vita da fanciulla a Fouquet's ?",
         "propositions": [
-          "Ophélie Meunier",
-          "Daphné Roulier",
-          "Maya Lauqué",
+          "Ophelie Meunier",
+          "Daphne Roulier",
+          "Maya Lauque",
           "Annie Lemoine"
         ],
-        "réponse": "Ophélie Meunier",
+        "reponse": "Ophelie Meunier",
         "anecdote": "Il famoso presentatore teletrasportato in « Forbidden Zone » aveva infatti rivelato che avrebbe sposato Mathieu Vergne di TF1."
       },
       {
@@ -1800,67 +1800,67 @@
           "Marie Gilliot",
           "Clara Luciani"
         ],
-        "réponse": "Huda Kattan",
-        "anecdote": "È una delle più potenti influenti della bellezza del web e non perde occasione per darci i suoi preziosi consigli."
+        "reponse": "Huda Kattan",
+        "anecdote": "È una delle piu potenti influenti della bellezza del web e non perde occasione per darci i suoi preziosi consigli."
       },
       {
         "id": 25,
-        "question": "Quale avventuriero è stato gravemente ferito in « The Villa of Broken Hearts » ?",
+        "question": "Quale avventuriero e stato gravemente ferito in « The Villa of Broken Hearts » ?",
         "propositions": [
-          "Raphaël Pépin",
+          "Raphaal Pepin",
           "Vivian Grimigni",
           "Julien Bert",
-          "Florent Ré"
+          "Florent Re"
         ],
-        "réponse": "Raphaël Pépin",
-        "anecdote": "Dopo essere caduto pesantemente da un tavolo di vetro, il giovane è stato ricoverato in ospedale e gestito con 14 punti sui glutei."
+        "reponse": "Raphaal Pepin",
+        "anecdote": "Dopo essere caduto pesantemente da un tavolo di vetro, il giovane e stato ricoverato in ospedale e gestito con 14 punti sui glutei."
       },
       {
         "id": 26,
-        "question": "Quale cantante è stato citato in giudizio per concerti annullati nel 2016 ?",
+        "question": "Quale cantante e stato citato in giudizio per concerti annullati nel 2016 ?",
         "propositions": [
           "Rihanna",
           "Katy Perry",
           "Mariah Carey",
           "Taylor Swift"
         ],
-        "réponse": "Mariah Carey",
+        "reponse": "Mariah Carey",
         "anecdote": "La compagnia Fenix rivendica tre milioni di dollari in riparazione di diverse cancellazioni di concerti in Sud America nel 2016."
       },
       {
         "id": 27,
-        "question": "Quale star è diventata l'attrice più pagata negli Stati Uniti ?",
+        "question": "Quale star e diventata l'attrice piu pagata negli Stati Uniti ?",
         "propositions": [
           "Sara Ramirez",
           "Ellen Pompeo",
           "Jessica Capshaw",
           "Sandra Oh"
         ],
-        "réponse": "Ellen Pompeo",
+        "reponse": "Ellen Pompeo",
         "anecdote": "Dopo la partenza di Patrick Dempsey e poi di Martin Henderson, ha negoziato venti milioni l'anno per la serie « Grey's Anatomy »."
       },
       {
         "id": 28,
-        "question": "Chi è stato scelto per succedere a Tex per « Les Z'amours » ?",
+        "question": "Chi e stato scelto per succedere a Tex per « Les Z'amours » ?",
         "propositions": [
           "Florian Gazan",
           "Marc Michaud",
           "Bruno Guillon",
           "Camille Combal"
         ],
-        "réponse": "Bruno Guillon",
-        "anecdote": "Prima di iniziare la sua carriera in NRJ, Bruno Guillon ha fatto le sue prime apparizioni alla stazione radio locale di Angé FM."
+        "reponse": "Bruno Guillon",
+        "anecdote": "Prima di iniziare la sua carriera in NRJ, Bruno Guillon ha fatto le sue prime apparizioni alla stazione radio locale di Ange FM."
       },
       {
         "id": 29,
-        "question": "Dopo Julien Castaldi, con chi è caduta Ludivine Birker ?",
+        "question": "Dopo Julien Castaldi, con chi e caduta Ludivine Birker ?",
         "propositions": [
           "Constantin",
           "David",
           "Benjamin",
           "Carlos"
         ],
-        "réponse": "Benjamin",
+        "reponse": "Benjamin",
         "anecdote": "Ludivine Birker ha annunciato la felice notizia a Purebreak, anche se lei desidera, questa volta, che la sua vita sentimentale rimanga privata."
       },
       {
@@ -1872,13 +1872,13 @@
           "Charlie Ebersol",
           "Jason Trawick"
         ],
-        "réponse": "Sam Asghari",
+        "reponse": "Sam Asghari",
         "anecdote": "Come coppia con Sam Asghari per un anno, segretamente fidanzata, Britney Spears potrebbe sposarsi per la terza volta nel 2018."
       }
     ]
     },
     "nl": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Welke producer leidde in 2018 een ongekend seksschandaal in Hollywood ?",
@@ -1888,7 +1888,7 @@
           "Stan Winston",
           "Robert Wall"
         ],
-        "réponse": "Harvey Weinstein",
+        "reponse": "Harvey Weinstein",
         "anecdote": "Sommige zelfs zeer nabije komieken hebben uitgelegd waarom ze de betwiste acties van de producent nooit hebben kunnen vermoeden."
       },
       {
@@ -1896,12 +1896,12 @@
         "question": "Welke voormalige zwemkampioen bracht hulde aan France Gall op het podium ?",
         "propositions": [
           "Matt Biondi",
-          "César Cielo",
+          "Cesar Cielo",
           "Anthony Ervin",
           "Florent Manaudou"
         ],
-        "réponse": "Florent Manaudou",
-        "anecdote": "Geïnitieerd op de gitaar door haar zwager Jérémy Frérot, trad de broer van Laure Manaudou op in het cabaret l'Étoile bleue in Marseille."
+        "reponse": "Florent Manaudou",
+        "anecdote": "Geïnitieerd op de gitaar door haar zwager Jeremy Frerot, trad de broer van Laure Manaudou op in het cabaret l'Étoile bleue in Marseille."
       },
       {
         "id": 3,
@@ -1912,7 +1912,7 @@
           "Janet Devlin",
           "Enya"
         ],
-        "réponse": "Dolores O'Riordan",
+        "reponse": "Dolores O'Riordan",
         "anecdote": "Ze zou de volgende dag een nieuwe versie van « Zombie » opnemen en haar oude vriend, producer Dan Waite, zien."
       },
       {
@@ -1920,11 +1920,11 @@
         "question": "Welke host van « Slam » dromen van vaderschap ?",
         "propositions": [
           "Philippe Vandel",
-          "Cyril Féraud",
+          "Cyril Feraud",
           "Florian Gazan",
           "Guy Carlier"
         ],
-        "réponse": "Cyril Féraud",
+        "reponse": "Cyril Feraud",
         "anecdote": "Cyril Ferrarel werd door France 3 gekozen als zijn gezicht met « Niemand dacht eraan » en « de schatkaart »."
       },
       {
@@ -1936,7 +1936,7 @@
           "Kelly Brook",
           "Kate Moss"
         ],
-        "réponse": "Kate Moss",
+        "reponse": "Kate Moss",
         "anecdote": "Met haar adolescente blik, bekritiseerd vanwege haar misbruik van chirurgie, blijft Kate Moss een icoon van haar generatie."
       },
       {
@@ -1948,7 +1948,7 @@
           "98 kg",
           "128 kg"
         ],
-        "réponse": "108 kg",
+        "reponse": "108 kg",
         "anecdote": "Zijn arts merkte op dat hij een hoog cholesterolgehalte had en kondigde aan dat hij had aanbevolen meer te bewegen."
       },
       {
@@ -1960,7 +1960,7 @@
           "Daniel Lemire",
           "Yvan Ducharme"
         ],
-        "réponse": "Anthony Kavanagh",
+        "reponse": "Anthony Kavanagh",
         "anecdote": "Omdat hij in New Caledonia was voor zijn laatste show, moest Anthony Kavanagh met spoed in het ziekenhuis worden opgenomen in Noumea."
       },
       {
@@ -1972,7 +1972,7 @@
           "William",
           "Harry"
         ],
-        "réponse": "William",
+        "reponse": "William",
         "anecdote": "Prins William's haarconditie staat al jaren centraal in vragen, zelfs aangepakt door Kate Middleton."
       },
       {
@@ -1984,7 +1984,7 @@
           "Marcia Cross",
           "Eva Longoria"
         ],
-        "réponse": "Teri Hatcher",
+        "reponse": "Teri Hatcher",
         "anecdote": "De komiek gaat vreemdelingen ontmoeten om onderwerpen als religie of zelfs de jaren 50 te bespreken."
       },
       {
@@ -1992,15 +1992,15 @@
         "question": "Wie werd er op 13 januari in Frankrijk Miss Prestige National 2018 gekozen ?",
         "propositions": [
           "Margaux Deroy",
-          "Cécile Bègue",
+          "Cecile Begue",
           "Charlotte Depaepe",
           "Émilie Secret"
         ],
-        "réponse": "Charlotte Depaepe",
+        "reponse": "Charlotte Depaepe",
         "anecdote": "Deze nieuwe schoonheidskoningin studeert voor een master in management om een medisch en sociaal directeur te worden."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Wie is het nieuwe 2018-segment van het merk Seafolly Swimwear ?",
@@ -2010,7 +2010,7 @@
           "Adriana Lima",
           "Heidi Klum"
         ],
-        "réponse": "Toni Garrn",
+        "reponse": "Toni Garrn",
         "anecdote": "Toni Garrn heeft al samengewerkt met de grootste namen in de mode, zoals Calvin Klein, Ralph Lauren, Dior, Givenchy en Versace."
       },
       {
@@ -2022,7 +2022,7 @@
           "Benjamin",
           "Didier"
         ],
-        "réponse": "Thomas",
+        "reponse": "Thomas",
         "anecdote": "De voormalige brancard werd een oesterboer en besloot zich na zijn relatie met zijn ex te registreren, na een romance die tien jaar had geduurd."
       },
       {
@@ -2030,11 +2030,11 @@
         "question": "Welke sterretje werd ingebroken terwijl ze op vakantie was in Thailand ?",
         "propositions": [
           "Julie Ricci",
-          "Amélie Neten",
+          "Amelie Neten",
           "Barbara Lune",
           "Sarah Fraisou"
         ],
-        "réponse": "Sarah Fraisou",
+        "reponse": "Sarah Fraisou",
         "anecdote": "Internetgebruikers tikken op de ster van de Angels en beschuldigen de ambassadeur van vrouwenrondes om te veel te doen."
       },
       {
@@ -2046,20 +2046,20 @@
           "Amel Bent",
           "Sheryfa Luna"
         ],
-        "réponse": "Eve Angeli",
+        "reponse": "Eve Angeli",
         "anecdote": "Deze aankondiging heeft zoveel gejammer veroorzaakt op Twitter en de sociale netwerken dat de zanger besloten heeft dit album niet uit te brengen."
       },
       {
         "id": 15,
-        "question": "Welke Franse kunstenaar waagde een media-botsing met Grégoire ?",
+        "question": "Welke Franse kunstenaar waagde een media-botsing met Gregoire ?",
         "propositions": [
           "Benjamin Biolay",
           "Manu Chao",
           "Matthieu Chedid",
           "Patrick Bruel"
         ],
-        "réponse": "Benjamin Biolay",
-        "anecdote": "Via de sociale netwerken had de 44-jarige componist Grégoire bevuild en hem beschuldigd van het plagiëren van zijn titel « Your inheritance »."
+        "reponse": "Benjamin Biolay",
+        "anecdote": "Via de sociale netwerken had de 44-jarige componist Gregoire bevuild en hem beschuldigd van het plagiaren van zijn titel « Your inheritance »."
       },
       {
         "id": 16,
@@ -2070,7 +2070,7 @@
           "Barbra Streisand",
           "Julianne Moore"
         ],
-        "réponse": "Jane Fonda",
+        "reponse": "Jane Fonda",
         "anecdote": "Gepassioneerd door zakelijke professionals en het publiek, 80 jaar oud, blijft Jane Fonda een sleutelfiguur in de film."
       },
       {
@@ -2082,19 +2082,19 @@
           "Aqababe",
           "Pacco"
         ],
-        "réponse": "Aqababe",
+        "reponse": "Aqababe",
         "anecdote": "De blogger, die zichzelf Aniss noemt, zwaaide een intieme video van Jeremstar, die een paar uur later werd teruggetrokken."
       },
       {
         "id": 18,
-        "question": "Welke metgezel van François Baroin presenteerde « Brillantissime » ?",
+        "question": "Welke metgezel van Francois Baroin presenteerde « Brillantissime » ?",
         "propositions": [
           "Michele Laroque",
           "Josiane Balasko",
           "Chantal Lauby",
           "Isabelle Boulay"
         ],
-        "réponse": "Michele Laroque",
+        "reponse": "Michele Laroque",
         "anecdote": "Vrij zeldzaam in het openbaar, wilde de actrice rekenen op de steun van burgemeester LR Troyes voordat hij zijn film aan de pers presenteerde."
       },
       {
@@ -2106,7 +2106,7 @@
           "M. Pokora",
           "Pascal Obispo"
         ],
-        "réponse": "M. Pokora",
+        "reponse": "M. Pokora",
         "anecdote": "Na een druk jaar 2017, werkt de zanger een echte verandering van leven die aan de andere kant van de Atlantische Oceaan voorbij zal gaan."
       },
       {
@@ -2118,7 +2118,7 @@
           "Colin Firth",
           "Tom Cruise"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "De gouverneur van Hawaii legde uit dat iemand tijdens een controleprocedure op de verkeerde knop had gedrukt."
       }
     ],
@@ -2127,12 +2127,12 @@
         "id": 21,
         "question": "Welke zanger zag de dood bijna na een openhartoperatie ?",
         "propositions": [
-          "Gérard Blanchard",
-          "Hervé Cristiani",
+          "Gerard Blanchard",
+          "Herve Cristiani",
           "Michel Jonasz",
           "Yves Duteil"
         ],
-        "réponse": "Yves Duteil",
+        "reponse": "Yves Duteil",
         "anecdote": "In 2001 had Yves Duteil gezongen om zijn vrouw te helpen vechten tegen de ziekte met de titel « Zodat jij niet sterft »."
       },
       {
@@ -2144,19 +2144,19 @@
           "Kelly Clarkson",
           "Tiffani Thiessen"
         ],
-        "réponse": "Rita Wilson",
-        "anecdote": "De première van Londen van de film « Pentagon Papers », Tom Hanks verscheen op de rode loper bij zijn vrouw Rita Wilson."
+        "reponse": "Rita Wilson",
+        "anecdote": "De premiere van Londen van de film « Pentagon Papers », Tom Hanks verscheen op de rode loper bij zijn vrouw Rita Wilson."
       },
       {
         "id": 23,
         "question": "Welke tv-presentator begroef haar meisjesleven bij Fouquet's ?",
         "propositions": [
-          "Daphné Roulier",
+          "Daphne Roulier",
           "Annie Lemoine",
-          "Maya Lauqué",
-          "Ophélie Meunier"
+          "Maya Lauque",
+          "Ophelie Meunier"
         ],
-        "réponse": "Ophélie Meunier",
+        "reponse": "Ophelie Meunier",
         "anecdote": "De beroemde presentator die teleporteerde in « Verboden Zone » had inderdaad onthuld dat ze zou trouwen met Mathieu Vergne van TF1."
       },
       {
@@ -2168,7 +2168,7 @@
           "Huda Kattan",
           "Clara Luciani"
         ],
-        "réponse": "Huda Kattan",
+        "reponse": "Huda Kattan",
         "anecdote": "Ze is een van de krachtigste schoonheidsbeïnvloeders van het internet en mist nooit een kans om ons haar waardevolle advies te geven."
       },
       {
@@ -2176,11 +2176,11 @@
         "question": "Welke avonturier raakte zwaar gewond in « The Villa of Broken Hearts » ?",
         "propositions": [
           "Vivian Grimigni",
-          "Raphaël Pépin",
+          "Raphaal Pepin",
           "Julien Bert",
-          "Florent Ré"
+          "Florent Re"
         ],
-        "réponse": "Raphaël Pépin",
+        "reponse": "Raphaal Pepin",
         "anecdote": "Nadat hij zwaar van een glazen tafel was gevallen, werd de jongeman opgenomen in het ziekenhuis en bestuurd met 14 steken op de billen."
       },
       {
@@ -2192,7 +2192,7 @@
           "Katy Perry",
           "Rihanna"
         ],
-        "réponse": "Mariah Carey",
+        "reponse": "Mariah Carey",
         "anecdote": "Het bedrijf Fenix claimt drie miljoen dollar in reparatie van verschillende annuleringen van concerten in Zuid-Amerika in 2016."
       },
       {
@@ -2204,7 +2204,7 @@
           "Sara Ramirez",
           "Ellen Pompeo"
         ],
-        "réponse": "Ellen Pompeo",
+        "reponse": "Ellen Pompeo",
         "anecdote": "Na het vertrek van Patrick Dempsey en vervolgens Martin Henderson heeft ze 20 miljoen euro per jaar onderhandeld voor haar serie « Grey's Anatomy »."
       },
       {
@@ -2216,8 +2216,8 @@
           "Marc Michaud",
           "Camille Combal"
         ],
-        "réponse": "Bruno Guillon",
-        "anecdote": "Alvorens zijn carrière op NRJ te lanceren, maakte Bruno Guillon zijn eerste optreden op het lokale radiostation van Angé FM."
+        "reponse": "Bruno Guillon",
+        "anecdote": "Alvorens zijn carriere op NRJ te lanceren, maakte Bruno Guillon zijn eerste optreden op het lokale radiostation van Ange FM."
       },
       {
         "id": 29,
@@ -2228,8 +2228,8 @@
           "Constantin",
           "Benjamin"
         ],
-        "réponse": "Benjamin",
-        "anecdote": "Ludivine Birker kondigde het blijde nieuws aan bij Purebreak, hoewel ze dit keer wil dat haar liefdesleven privé blijft."
+        "reponse": "Benjamin",
+        "anecdote": "Ludivine Birker kondigde het blijde nieuws aan bij Purebreak, hoewel ze dit keer wil dat haar liefdesleven prive blijft."
       },
       {
         "id": 30,
@@ -2240,7 +2240,7 @@
           "David Lucado",
           "Sam Asghari"
         ],
-        "réponse": "Sam Asghari",
+        "reponse": "Sam Asghari",
         "anecdote": "Als stel met Sam Asghari voor een jaar, in het geheim, kon Britney Spears voor de derde keer trouwen in 2018."
       }
     ]

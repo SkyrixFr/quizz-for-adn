@@ -1,261 +1,261 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "3 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
   "version": 1,
   "mise-à-jour": "2021-02-14",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Informatique",
+      "categorie": "Informatique",
       "nom": "Linux",
       "slogan": "Non, ce n'est pas un pingouin"
     },
     "en": {
-      "catégorie": "Computer science",
+      "categorie": "Computer science",
       "nom": "Linux",
       "slogan": "No, it's not a penguin"
     },
     "es": {
-      "catégorie": "Ciencias de la Computación",
+      "categorie": "Ciencias de la Computación",
       "nom": "Linux",
       "slogan": "No, no es un pingüino"
     },
     "it": {
-      "catégorie": "Informatica",
+      "categorie": "Informatica",
       "nom": "Linux",
-      "slogan": "No, non è un pinguino"
+      "slogan": "No, non e un pinguino"
     },
     "de": {
-      "catégorie": "Informatik",
+      "categorie": "Informatik",
       "nom": "Linux",
       "slogan": "Nein, es ist kein Pinguin"
     },
     "nl": {
-      "catégorie": "Computertechnologie",
+      "categorie": "Computertechnologie",
       "nom": "Linux",
       "slogan": "Nee, het is geen pinguïn"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Quel programmeur a créé et continue de diriger le développement du noyau de Linux ?",
+        "question": "Quel programmeur a cree et continue de diriger le developpement du noyau de Linux ?",
         "propositions": [
           "Steeve Jobs",
           "Linus Torvalds",
           "Bill Gates",
           "Larry Ellison"
         ],
-        "réponse": "Linus Torvalds",
-        "anecdote": "Linus Torvalds a découvert l'informatique vers l'âge de 11 ans grâce à l'ordinateur de son grand-père, un Commodore VIC-20."
+        "reponse": "Linus Torvalds",
+        "anecdote": "Linus Torvalds a decouvert l'informatique vers l'age de 11 ans grace à l'ordinateur de son grand-pere, un Commodore VIC-20."
       },
       {
         "id": 2,
-        "question": "Quel est le principal atout de Linux, développé et maintenu par Linus Torvalds ?",
+        "question": "Quel est le principal atout de Linux, developpe et maintenu par Linus Torvalds ?",
         "propositions": [
           "Il est libre",
           "Il est amusant",
           "Il est Finlandais",
           "Il est beau"
         ],
-        "réponse": "Il est libre",
-        "anecdote": "« Linux » est le nom couramment donné à tout système d'exploitation libre fonctionnant avec le noyau Linux."
+        "reponse": "Il est libre",
+        "anecdote": "« Linux » est le nom couramment donne à tout systeme d'exploitation libre fonctionnant avec le noyau Linux."
       },
       {
         "id": 3,
-        "question": "Quel animal représentant Linux est aussi la mascotte de l'université d'Helsinki ?",
+        "question": "Quel animal representant Linux est aussi la mascotte de l'universite d'Helsinki ?",
         "propositions": [
           "Caribou",
           "Manchot",
           "Marmotte",
           "Gnou"
         ],
-        "réponse": "Manchot",
-        "anecdote": "Dessiné en 1996, l'usage de ce manchot est libre et se retrouve dans de très nombreux projets et logotypes liés à Linux."
+        "reponse": "Manchot",
+        "anecdote": "Dessine en 1996, l'usage de ce manchot est libre et se retrouve dans de tres nombreux projets et logotypes lies à Linux."
       },
       {
         "id": 4,
-        "question": "Quelle commande Linux, basée sur la commande UNIX, permet d'effacer un fichier ?",
+        "question": "Quelle commande Linux, basee sur la commande UNIX, permet d'effacer un fichier ?",
         "propositions": [
           "Delete",
           "Rm",
           "Rem",
           "Del"
         ],
-        "réponse": "Rm",
+        "reponse": "Rm",
         "anecdote": "De par la filiation avec UNIX, la ligne de commande est toujours disponible dans GNU/Linux, quelle que soit la distribution."
       },
       {
         "id": 5,
-        "question": "Laquelle de ces propositions désigne une distribution Linux fondée en 1993 ?",
+        "question": "Laquelle de ces propositions designe une distribution Linux fondee en 1993 ?",
         "propositions": [
           "Red Hat",
           "Souze",
           "Mandrika",
           "Zubuntu"
         ],
-        "réponse": "Red Hat",
-        "anecdote": "Red Hat est l'une des entreprises dédiées aux logiciels Open Source les plus importantes et les plus reconnues."
+        "reponse": "Red Hat",
+        "anecdote": "Red Hat est l'une des entreprises dediees aux logiciels Open Source les plus importantes et les plus reconnues."
       },
       {
         "id": 6,
-        "question": "Quel système d'exploitation mobile majeur de l'industrie s'appuie sur un noyau Linux ?",
+        "question": "Quel systeme d'exploitation mobile majeur de l'industrie s'appuie sur un noyau Linux ?",
         "propositions": [
           "Windows Phone",
           "BlackBerry 10",
           "iOS",
           "Android"
         ],
-        "réponse": "Android",
-        "anecdote": "En 2015, Android était le système d'exploitation le plus utilisé dans le monde avec plus de 80 % de parts de marché."
+        "reponse": "Android",
+        "anecdote": "En 2015, Android etait le systeme d'exploitation le plus utilise dans le monde avec plus de 80 % de parts de marche."
       },
       {
         "id": 7,
-        "question": "Sous Linux, comment appelle-t-on les logiciels assemblés autour du noyau ?",
+        "question": "Sous Linux, comment appelle-t-on les logiciels assembles autour du noyau ?",
         "propositions": [
-          "Intégré",
+          "Integre",
           "Distribution",
-          "Logithèque",
+          "Logitheque",
           "Progiciel"
         ],
-        "réponse": "Distribution",
-        "anecdote": "Il existe une très grande variété de distributions, ayant chacune des objectifs et une philosophie particulière."
+        "reponse": "Distribution",
+        "anecdote": "Il existe une tres grande variete de distributions, ayant chacune des objectifs et une philosophie particuliere."
       },
       {
         "id": 8,
-        "question": "Quel serveur web présent sous Linux est aussi présent sur les serveurs du monde entier ?",
+        "question": "Quel serveur web present sous Linux est aussi present sur les serveurs du monde entier ?",
         "propositions": [
           "Apache",
           "Mohican",
           "Comanche",
           "Sioux"
         ],
-        "réponse": "Apache",
-        "anecdote": "Depuis avril 1996, selon l'étude permanente de Netcraft, Apache est devenu le serveur HTTP le plus répandu sur Internet."
+        "reponse": "Apache",
+        "anecdote": "Depuis avril 1996, selon l'etude permanente de Netcraft, Apache est devenu le serveur HTTP le plus repandu sur Internet."
       },
       {
         "id": 9,
-        "question": "Quel est le nom de la mascotte de Linux, connue des mordus du système d'exploitation ?",
+        "question": "Quel est le nom de la mascotte de Linux, connue des mordus du systeme d'exploitation ?",
         "propositions": [
           "Wilber",
           "Gnu",
           "Tux",
           "Puffy"
         ],
-        "réponse": "Tux",
-        "anecdote": "Le dessin du personnage a été choisi à l'issue d'un concours organisé en 1996, remporté par Larry Ewing."
+        "reponse": "Tux",
+        "anecdote": "Le dessin du personnage a ete choisi à l'issue d'un concours organise en 1996, remporte par Larry Ewing."
       },
       {
         "id": 10,
-        "question": "Parmi ces commandes Linux, laquelle affiche à l'écran le contenu d'un fichier texte ?",
+        "question": "Parmi ces commandes Linux, laquelle affiche à l'ecran le contenu d'un fichier texte ?",
         "propositions": [
           "Man",
           "Ls",
           "Type",
           "Cat"
         ],
-        "réponse": "Cat",
-        "anecdote": "La différence essentielle de Linux par rapport à d'autres systèmes d'exploitation concurrents est d'être un système d'exploitation libre."
+        "reponse": "Cat",
+        "anecdote": "La difference essentielle de Linux par rapport à d'autres systemes d'exploitation concurrents est d'etre un systeme d'exploitation libre."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "En quelle année Linus Torvalds a-t-il livré la première version du noyau Linux ?",
+        "question": "En quelle annee Linus Torvalds a-t-il livre la premiere version du noyau Linux ?",
         "propositions": [
           "1993",
           "1995",
           "1997",
           "1991"
         ],
-        "réponse": "1991",
-        "anecdote": "En 1991, les compatibles PC dominent le marché des ordinateurs personnels et fonctionnent généralement sous MS-DOS ou Windows."
+        "reponse": "1991",
+        "anecdote": "En 1991, les compatibles PC dominent le marche des ordinateurs personnels et fonctionnent generalement sous MS-DOS ou Windows."
       },
       {
         "id": 12,
-        "question": "Quel ancien mot bantou désigne une célèbre distribution Linux ?",
+        "question": "Quel ancien mot bantou designe une celebre distribution Linux ?",
         "propositions": [
           "Mandriva",
           "Fedora",
           "Ubuntu",
           "Gentoo"
         ],
-        "réponse": "Ubuntu",
-        "anecdote": "Le nom de la distribution provient d'un ancien mot bantou qui signifie « Je suis ce que je suis grâce à ce que nous sommes tous »."
+        "reponse": "Ubuntu",
+        "anecdote": "Le nom de la distribution provient d'un ancien mot bantou qui signifie « Je suis ce que je suis grace à ce que nous sommes tous »."
       },
       {
         "id": 13,
-        "question": "Quel navigateur web et gestionnaire de fichiers est utilisé par défaut pour KDE ?",
+        "question": "Quel navigateur web et gestionnaire de fichiers est utilise par defaut pour KDE ?",
         "propositions": [
           "Firefox",
           "Netscape",
           "Konqueror",
           "Chrome"
         ],
-        "réponse": "Konqueror",
-        "anecdote": "Konqueror peut également afficher le contenu d'un serveur FTP, permettre de parcourir le réseau local et de visualiser des fichiers."
+        "reponse": "Konqueror",
+        "anecdote": "Konqueror peut egalement afficher le contenu d'un serveur FTP, permettre de parcourir le reseau local et de visualiser des fichiers."
       },
       {
         "id": 14,
-        "question": "Quel nom porte la distribution française de Linux, simple à installer et à utiliser ?",
+        "question": "Quel nom porte la distribution francaise de Linux, simple à installer et à utiliser ?",
         "propositions": [
           "Slackware",
           "Debian",
           "SUSE",
           "Mandriva"
         ],
-        "réponse": "Mandriva",
+        "reponse": "Mandriva",
         "anecdote": "Ciblant à la fois le grand public et les professionnels, cette distribution GNU/Linux est construite autour de KDE."
       },
       {
         "id": 15,
-        "question": "Quel type de fichiers est pris en compte par le gestionnaire de paquets intégré à Ubuntu ?",
+        "question": "Quel type de fichiers est pris en compte par le gestionnaire de paquets integre à Ubuntu ?",
         "propositions": [
           ".dev",
           ".rss",
           ".rpm",
           ".deb"
         ],
-        "réponse": ".deb",
-        "anecdote": "Par défaut, Ubuntu est installé avec une pluralité de logiciels libres tels que LibreOffice, Firefox, Thunderbird et Transmission."
+        "reponse": ".deb",
+        "anecdote": "Par defaut, Ubuntu est installe avec une pluralite de logiciels libres tels que LibreOffice, Firefox, Thunderbird et Transmission."
       },
       {
         "id": 16,
-        "question": "Sous Linux, quelle commande est utilisée pour créer un compte utilisateur ?",
+        "question": "Sous Linux, quelle commande est utilisee pour creer un compte utilisateur ?",
         "propositions": [
           "Mkaccount",
           "Passwd",
           "Adduser",
           "Useradd"
         ],
-        "réponse": "Useradd",
-        "anecdote": "Grâce à sa ligne de commande, scientifiques, ingénieurs et développeurs comptent parmi ses plus fréquents utilisateurs."
+        "reponse": "Useradd",
+        "anecdote": "Grace à sa ligne de commande, scientifiques, ingenieurs et developpeurs comptent parmi ses plus frequents utilisateurs."
       },
       {
         "id": 17,
-        "question": "De quel projet sont tirés les outils gravitant autour de Linux ?",
+        "question": "De quel projet sont tires les outils gravitant autour de Linux ?",
         "propositions": [
           "iOS",
           "GNU",
           "Mimix",
           "BSD"
         ],
-        "réponse": "GNU",
-        "anecdote": "GNU est un projet de système d'exploitation libre lancé en 1983 par Richard Stallman, puis maintenu par le projet GNU."
+        "reponse": "GNU",
+        "anecdote": "GNU est un projet de systeme d'exploitation libre lance en 1983 par Richard Stallman, puis maintenu par le projet GNU."
       },
       {
         "id": 18,
-        "question": "De quelle distribution Linux est dérivé le système d'exploitation Ubuntu ?",
+        "question": "De quelle distribution Linux est derive le systeme d'exploitation Ubuntu ?",
         "propositions": [
           "Debian",
           "Slackware",
           "Fedora",
           "Red Hat"
         ],
-        "réponse": "Debian",
-        "anecdote": "Ancien développeur Debian, Mark Shuttleworth souhaitait proposer une version plus facile d'accès pour les novices."
+        "reponse": "Debian",
+        "anecdote": "Ancien developpeur Debian, Mark Shuttleworth souhaitait proposer une version plus facile d'acces pour les novices."
       },
       {
         "id": 19,
@@ -266,106 +266,106 @@
           "Mandriva",
           "Slackware"
         ],
-        "réponse": "Slackware",
-        "anecdote": "Slackware est une distribution Linux qui, à la différence d'autres distributions, a longtemps été maintenue par une seule personne."
+        "reponse": "Slackware",
+        "anecdote": "Slackware est une distribution Linux qui, à la difference d'autres distributions, a longtemps ete maintenue par une seule personne."
       },
       {
         "id": 20,
-        "question": "Quel environnement graphique de type « fenêtré » est utilisé sous Linux ?",
+        "question": "Quel environnement graphique de type « fenetre » est utilise sous Linux ?",
         "propositions": [
           "Z Window",
           "X Window",
           "L Window",
           "K Window"
         ],
-        "réponse": "X Window",
-        "anecdote": "Cet environnement graphique gère l'interaction homme-machine par l'écran, la souris et le clavier de certains ordinateurs en réseau."
+        "reponse": "X Window",
+        "anecdote": "Cet environnement graphique gere l'interaction homme-machine par l'ecran, la souris et le clavier de certains ordinateurs en reseau."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quel programmeur et militant du logiciel libre a créé le Projet GNU en 1984 ?",
+        "question": "Quel programmeur et militant du logiciel libre a cree le Projet GNU en 1984 ?",
         "propositions": [
           "Alan Cox",
           "Richard Stallman",
           "Linus Torvalds",
           "John Neumann"
         ],
-        "réponse": "Richard Stallman",
-        "anecdote": "Richard Stallman consacre la majeure partie de son temps à la promotion du logiciel libre auprès de divers publics et assemblées."
+        "reponse": "Richard Stallman",
+        "anecdote": "Richard Stallman consacre la majeure partie de son temps à la promotion du logiciel libre aupres de divers publics et assemblees."
       },
       {
         "id": 22,
-        "question": "Quel lecteur multimédia ressemblant à « Winamp » est souvent utilisé sous Linux ?",
+        "question": "Quel lecteur multimedia ressemblant à « Winamp » est souvent utilise sous Linux ?",
         "propositions": [
           "XMMS",
           "Mplayer",
           "Spotify",
           "Tomahawk"
         ],
-        "réponse": "XMMS",
-        "anecdote": "XMMS fut codé sous le nom de « X11Amp » par Peter et Mikal Alm en novembre 1997, pour combler un manque sous GNU/Linux."
+        "reponse": "XMMS",
+        "anecdote": "XMMS fut code sous le nom de « X11Amp » par Peter et Mikal Alm en novembre 1997, pour combler un manque sous GNU/Linux."
       },
       {
         "id": 23,
-        "question": "Quelle société financée par le sud-africain Mark Shuttleworth commandite Ubuntu ?",
+        "question": "Quelle societe financee par le sud-africain Mark Shuttleworth commandite Ubuntu ?",
         "propositions": [
           "Pentax",
           "Canonical",
           "Nikon",
           "Panasonic"
         ],
-        "réponse": "Canonical",
-        "anecdote": "La société Canonical, basée sur l'Île de Man, a été créée en 2004 et opère dans 30 pays différents, employant 500 personnes."
+        "reponse": "Canonical",
+        "anecdote": "La societe Canonical, basee sur l'Île de Man, a ete creee en 2004 et opere dans 30 pays differents, employant 500 personnes."
       },
       {
         "id": 24,
-        "question": "Avec quel acteur du monde Linux la société Microsoft a-t-elle signé un important accord ?",
+        "question": "Avec quel acteur du monde Linux la societe Microsoft a-t-elle signe un important accord ?",
         "propositions": [
           "SUSE",
           "Red Hat",
           "Ubuntu",
           "Mandriva"
         ],
-        "réponse": "SUSE",
-        "anecdote": "Apparue au début de l'année 1994, SUSE est en effet la plus ancienne distribution commerciale encore existante."
+        "reponse": "SUSE",
+        "anecdote": "Apparue au debut de l'annee 1994, SUSE est en effet la plus ancienne distribution commerciale encore existante."
       },
       {
         "id": 25,
-        "question": "La station spatiale internationale a abandonné Windows au profit de quelle distribution Linux ?",
+        "question": "La station spatiale internationale a abandonne Windows au profit de quelle distribution Linux ?",
         "propositions": [
           "SUSE",
           "Debian",
           "Red Hat",
           "Ubuntu"
         ],
-        "réponse": "Debian",
-        "anecdote": "Debian est utilisée comme base de nombreuses autres distributions telles que Knoppix et Ubuntu, qui rencontrent un grand succès."
+        "reponse": "Debian",
+        "anecdote": "Debian est utilisee comme base de nombreuses autres distributions telles que Knoppix et Ubuntu, qui rencontrent un grand succes."
       },
       {
         "id": 26,
-        "question": "À ce jour, quel pays utilise le plus régulièrement GNU/Linux comme système pour ses bureaux ?",
+        "question": "À ce jour, quel pays utilise le plus regulierement GNU/Linux comme systeme pour ses bureaux ?",
         "propositions": [
           "Kenya",
           "Venezuela",
           "Finlande",
           "Cuba"
         ],
-        "réponse": "Cuba",
-        "anecdote": "Les deux environnements GNOME et KDE, qui reposent sur des technologies communes, ont atteint une maturité certaine."
+        "reponse": "Cuba",
+        "anecdote": "Les deux environnements GNOME et KDE, qui reposent sur des technologies communes, ont atteint une maturite certaine."
       },
       {
         "id": 27,
-        "question": "Quel graphiste a dessiné en 1996 le manchot Tux initial, mascotte du projet Linux ?",
+        "question": "Quel graphiste a dessine en 1996 le manchot Tux initial, mascotte du projet Linux ?",
         "propositions": [
           "Rob Janoff",
           "Wes Wilson",
           "Jeffrey Lynch",
           "Larry Ewing"
         ],
-        "réponse": "Larry Ewing",
-        "anecdote": "Programmeur américain, Larry Ewing a réalisé la mascotte Tux avec l'aide du logiciel libre « The GIMP »."
+        "reponse": "Larry Ewing",
+        "anecdote": "Programmeur americain, Larry Ewing a realise la mascotte Tux avec l'aide du logiciel libre « The GIMP »."
       },
       {
         "id": 28,
@@ -376,32 +376,32 @@
           "Zelda",
           "Super Mario Kart"
         ],
-        "réponse": "Quake III Arena",
-        "anecdote": "Le jeu développé par ID Software a également été publié sur Macintosh, Dreamcast, PlayStation 2 et sur Xbox Live Arcade."
+        "reponse": "Quake III Arena",
+        "anecdote": "Le jeu developpe par ID Software a egalement ete publie sur Macintosh, Dreamcast, PlayStation 2 et sur Xbox Live Arcade."
       },
       {
         "id": 29,
-        "question": "Quelle console de jeu open source possède un système d'exploitation Linux compilé ?",
+        "question": "Quelle console de jeu open source possede un systeme d'exploitation Linux compile ?",
         "propositions": [
           "Pandora",
           "GP32",
           "N-Gage",
           "Game Gear"
         ],
-        "réponse": "Pandora",
-        "anecdote": "La Pandora était capable à sa sortie de lancer « Quake », « Quake II » et « Quake III » Arena sans ralentissement."
+        "reponse": "Pandora",
+        "anecdote": "La Pandora etait capable à sa sortie de lancer « Quake », « Quake II » et « Quake III » Arena sans ralentissement."
       },
       {
         "id": 30,
-        "question": "Comment fut initialement appelé le projet Linux, devenu par la suite une marque ?",
+        "question": "Comment fut initialement appele le projet Linux, devenu par la suite une marque ?",
         "propositions": [
           "Serval",
           "Panther",
           "Longhorn",
           "Freax"
         ],
-        "réponse": "Freax",
-        "anecdote": "Le projet Freax trouve son nom définitif grâce à Ari Lemmke qui héberge le travail de Linus Torvalds dans un répertoire nommé « Linux »."
+        "reponse": "Freax",
+        "anecdote": "Le projet Freax trouve son nom definitif grace à Ari Lemmke qui heberge le travail de Linus Torvalds dans un repertoire nomme « Linux »."
       }
     ]
     }

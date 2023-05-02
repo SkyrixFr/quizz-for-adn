@@ -1,44 +1,44 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "2 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "2 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
-      "nom": "People : fév. 2018",
-      "slogan": "Ils ont fait l'actualité"
+      "categorie": "Celebrites",
+      "nom": "People : fev. 2018",
+      "slogan": "Ils ont fait l'actualite"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "People: Feb 2018",
       "slogan": "They made the news"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Gente: febrero de 2018",
       "slogan": "Fueron noticia"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Persone: febbraio 2018",
       "slogan": "Hanno fatto notizia"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Personen: Februar 2018",
       "slogan": "Sie machten die Nachrichten"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Mensen: februari 2018",
       "slogan": "Ze haalden het nieuws"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Qui est depuis toujours la marraine de coeur de Laetitia Hallyday ?",
@@ -48,8 +48,8 @@
           "Annie Cordy",
           "Line Renaud"
         ],
-        "réponse": "Line Renaud",
-        "anecdote": "C'est avec beaucoup d'émotion que Line Renaud est revenue le dimanche 4 février 2018 sur la disparition de son filleul."
+        "reponse": "Line Renaud",
+        "anecdote": "C'est avec beaucoup d'emotion que Line Renaud est revenue le dimanche 4 fevrier 2018 sur la disparition de son filleul."
       },
       {
         "id": 2,
@@ -57,71 +57,71 @@
         "propositions": [
           "Prince",
           "Elvis Presley",
-          "Michaël Jackson",
+          "Michaal Jackson",
           "John Lennon"
         ],
-        "réponse": "Prince",
-        "anecdote": "L'image du chanteur Prince fut projetée sur une toile à mesure que retentissaient les notes du titre « I Would Die 4 U »."
+        "reponse": "Prince",
+        "anecdote": "L'image du chanteur Prince fut projetee sur une toile à mesure que retentissaient les notes du titre « I Would Die 4 U »."
       },
       {
         "id": 3,
-        "question": "Quel anniversaire de mariage Carla Bruni et Nicolas Sarkozy ont-ils fêté en 2018 ?",
+        "question": "Quel anniversaire de mariage Carla Bruni et Nicolas Sarkozy ont-ils fete en 2018 ?",
         "propositions": [
           "Leurs 20 ans",
           "Leurs 15 ans",
           "Leurs 10 ans",
           "Leurs 5 ans"
         ],
-        "réponse": "Leurs 10 ans",
-        "anecdote": "Des années après leur mariage, la chanteuse et l'ancien chef de l'État sont toujours aussi fous amoureux."
+        "reponse": "Leurs 10 ans",
+        "anecdote": "Des annees apres leur mariage, la chanteuse et l'ancien chef de l'État sont toujours aussi fous amoureux."
       },
       {
         "id": 4,
-        "question": "Quel célèbre chef a été récompensé par le guide Michelin 2018 ?",
+        "question": "Quel celebre chef a ete recompense par le guide Michelin 2018 ?",
         "propositions": [
           "Philippe Etchebest",
           "Christian Constant",
           "Cyril Lignac",
           "Thierry Marx"
         ],
-        "réponse": "Philippe Etchebest",
-        "anecdote": "Philippe Etchebest a été récompensé par l'édition 2018 du célèbre guide pour son nouveau concept gastronomique à Bordeaux."
+        "reponse": "Philippe Etchebest",
+        "anecdote": "Philippe Etchebest a ete recompense par l'edition 2018 du celebre guide pour son nouveau concept gastronomique à Bordeaux."
       },
       {
         "id": 5,
-        "question": "Quel ex mari de la comédienne Demi Moore a fêté ses 40 ans en 2018 ?",
+        "question": "Quel ex mari de la comedienne Demi Moore a fete ses 40 ans en 2018 ?",
         "propositions": [
           "Ashton Kutcher",
           "Martin Sheen",
           "Bruce Willis",
           "Christian Slater"
         ],
-        "réponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher a connu le début du succès grâce à son rôle de Michael Kelso dans la série télé « That' 70s show »."
+        "reponse": "Ashton Kutcher",
+        "anecdote": "Ashton Kutcher a connu le debut du succes grace à son rôle de Michael Kelso dans la serie tele « That' 70s show »."
       },
       {
         "id": 6,
-        "question": "De manière étonnante, quel rappeur américain a annoncé préparer un album de gospel ?",
+        "question": "De maniere etonnante, quel rappeur americain a annonce preparer un album de gospel ?",
         "propositions": [
           "Ice Cube",
           "Dr. Dre",
           "Snoop Dogg",
           "Warren G"
         ],
-        "réponse": "Snoop Dogg",
-        "anecdote": "Le rappeur a déjà dévoilé quelques titres, une poignée par rapport aux 32 que prévoyait le double album attendu pour le 16 mars."
+        "reponse": "Snoop Dogg",
+        "anecdote": "Le rappeur a dejà devoile quelques titres, une poignee par rapport aux 32 que prevoyait le double album attendu pour le 16 mars."
       },
       {
         "id": 7,
-        "question": "Quel acteur américain a été blanchi dans l'affaire du suicide de sa compagne ?",
+        "question": "Quel acteur americain a ete blanchi dans l'affaire du suicide de sa compagne ?",
         "propositions": [
           "Jim Carrey",
           "Christian Bale",
           "Danny DeVito",
           "Morgan Freeman"
         ],
-        "réponse": "Jim Carrey",
-        "anecdote": "Il devait passer au tribunal en avril 2018 pour homicide par imprudence sur Cathriona White, décédée le 28 septembre 2015."
+        "reponse": "Jim Carrey",
+        "anecdote": "Il devait passer au tribunal en avril 2018 pour homicide par imprudence sur Cathriona White, decedee le 28 septembre 2015."
       },
       {
         "id": 8,
@@ -132,204 +132,204 @@
           "Florence Shaal",
           "Laurence Ferrari"
         ],
-        "réponse": "Anne-Claire Coudray",
-        "anecdote": "Anne-Claire Coudray, la journaliste et présentatrice des JT du week-end de TF1, a fêté le 1er février 2018 son 41e anniversaire."
+        "reponse": "Anne-Claire Coudray",
+        "anecdote": "Anne-Claire Coudray, la journaliste et presentatrice des JT du week-end de TF1, a fete le 1er fevrier 2018 son 41e anniversaire."
       },
       {
         "id": 9,
-        "question": "Quel humoriste français a passé la nuit dans sa voiture, pris au piège de la neige ?",
+        "question": "Quel humoriste francais a passe la nuit dans sa voiture, pris au piege de la neige ?",
         "propositions": [
           "Didier Gustin",
           "Jean Roucas",
-          "Gérald Dahan",
+          "Gerald Dahan",
           "Yves Lecoq"
         ],
-        "réponse": "Yves Lecoq",
-        "anecdote": "Les caméras de BFM TV qui ont recueilli les témoignages des immobilisés ont en effet eu la surprise de tomber sur Yves Lecoq."
+        "reponse": "Yves Lecoq",
+        "anecdote": "Les cameras de BFM TV qui ont recueilli les temoignages des immobilises ont en effet eu la surprise de tomber sur Yves Lecoq."
       },
       {
         "id": 10,
-        "question": "Qui a annulé ses concerts pour assister au mariage du prince Harry avec Meghan Markle ?",
+        "question": "Qui a annule ses concerts pour assister au mariage du prince Harry avec Meghan Markle ?",
         "propositions": [
           "Elton John",
           "Justin Bieber",
           "Bruno Mars",
           "Kanye West"
         ],
-        "réponse": "Elton John",
-        "anecdote": "Très attendue, cette union royale a poussé certains ressortissants britanniques à prendre des décisions parfois radicales."
+        "reponse": "Elton John",
+        "anecdote": "Tres attendue, cette union royale a pousse certains ressortissants britanniques à prendre des decisions parfois radicales."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Quelle fille cachée de Claude François est sortie de l'ombre en février 2018 ?",
+        "question": "Quelle fille cachee de Claude Francois est sortie de l'ombre en fevrier 2018 ?",
         "propositions": [
           "Theresa Rogers",
           "Mazarine Pingeot",
           "Julie Bocquet",
           "Alexia Scott"
         ],
-        "réponse": "Julie Bocquet",
-        "anecdote": "Julie, la fille de Claude François, a déclaré que ce secret longtemps caché était difficile à porter, y compris pour ses enfants."
+        "reponse": "Julie Bocquet",
+        "anecdote": "Julie, la fille de Claude Francois, a declare que ce secret longtemps cache etait difficile à porter, y compris pour ses enfants."
       },
       {
         "id": 12,
-        "question": "Avec quelle ex de Pascal Obispo l'humoriste et comédien Michaël Youn est-il en couple ?",
+        "question": "Avec quelle ex de Pascal Obispo l'humoriste et comedien Michaal Youn est-il en couple ?",
         "propositions": [
           "Juliette Arnaud",
           "Isabelle Furnaro",
           "Elsa Pataky",
           "Florence Foresti"
         ],
-        "réponse": "Isabelle Furnaro",
-        "anecdote": "Depuis plus de 10 ans, l'humoriste Michaël Youn et la comédienne Isabelle Funaro écrivent ensemble une belle histoire d'amour."
+        "reponse": "Isabelle Furnaro",
+        "anecdote": "Depuis plus de 10 ans, l'humoriste Michaal Youn et la comedienne Isabelle Funaro ecrivent ensemble une belle histoire d'amour."
       },
       {
         "id": 13,
-        "question": "Quel anniversaire la ravissante Nabilla a-t-elle fêté le 5 février 2018 ?",
+        "question": "Quel anniversaire la ravissante Nabilla a-t-elle fete le 5 fevrier 2018 ?",
         "propositions": [
           "Ses 24 ans",
           "Ses 28 ans",
           "Ses 26 ans",
           "Ses 30 ans"
         ],
-        "réponse": "Ses 26 ans",
-        "anecdote": "La jolie brune, qui n'est désormais plus une bimbo, a fêté son anniversaire avec son frère Tarek et son chéri Thomas Vergara."
+        "reponse": "Ses 26 ans",
+        "anecdote": "La jolie brune, qui n'est desormais plus une bimbo, a fete son anniversaire avec son frere Tarek et son cheri Thomas Vergara."
       },
       {
         "id": 14,
-        "question": "Avec quel animateur Isabelle Mergault a-t-elle failli se marier lors d'une soirée bien arrosée ?",
+        "question": "Avec quel animateur Isabelle Mergault a-t-elle failli se marier lors d'une soiree bien arrosee ?",
         "propositions": [
           "Thierry Beccaro",
           "Julien Courbet",
           "Julien Lepers",
           "Laurent Ruquier"
         ],
-        "réponse": "Laurent Ruquier",
-        "anecdote": "Les amis de toujours vivaient à l'époque tous deux des échecs sentimentaux croisés et noyaient leur chagrin en picolant."
+        "reponse": "Laurent Ruquier",
+        "anecdote": "Les amis de toujours vivaient à l'epoque tous deux des echecs sentimentaux croises et noyaient leur chagrin en picolant."
       },
       {
         "id": 15,
-        "question": "Quel acteur de la série « Glee » est mort d'asphyxie après s'être pendu à un arbre ?",
+        "question": "Quel acteur de la serie « Glee » est mort d'asphyxie apres s'etre pendu à un arbre ?",
         "propositions": [
           "Darren Criss",
           "Chris Colfer",
           "Cory Monteith",
           "Mark Salling"
         ],
-        "réponse": "Mark Salling",
-        "anecdote": "L'acteur Mark Salling avait déjà fait une tentative de suicide il y a quelques mois en se coupant les veines au niveau des poignets."
+        "reponse": "Mark Salling",
+        "anecdote": "L'acteur Mark Salling avait dejà fait une tentative de suicide il y a quelques mois en se coupant les veines au niveau des poignets."
       },
       {
         "id": 16,
-        "question": "Avec qui Karine le Marchand a-t-elle formé un couple atypique et surprenant ?",
+        "question": "Avec qui Karine le Marchand a-t-elle forme un couple atypique et surprenant ?",
         "propositions": [
           "JoeyStarr",
           "Laurent Boyer",
-          "Stéphane Plaza",
+          "Stephane Plaza",
           "Cyril Lignac"
         ],
-        "réponse": "JoeyStarr",
-        "anecdote": "La jolie star du paf et ex de Lilian Thuram a expliqué que quel que soit l'homme avec lequel elle était, il prenait soin d'elle."
+        "reponse": "JoeyStarr",
+        "anecdote": "La jolie star du paf et ex de Lilian Thuram a explique que quel que soit l'homme avec lequel elle etait, il prenait soin d'elle."
       },
       {
         "id": 17,
-        "question": "Quel philosophe a révélé sur son site internet avoir été victime d'un AVC ?",
+        "question": "Quel philosophe a revele sur son site internet avoir ete victime d'un AVC ?",
         "propositions": [
           "Benoît Chantre",
           "Michel Onfray",
           "Alain Foix",
           "Mark Alizart"
         ],
-        "réponse": "Michel Onfray",
-        "anecdote": "Depuis sa chambre d'hôpital, le célèbre philosophe a toutefois donné des nouvelles rassurantes sur son état de santé."
+        "reponse": "Michel Onfray",
+        "anecdote": "Depuis sa chambre d'hôpital, le celebre philosophe a toutefois donne des nouvelles rassurantes sur son etat de sante."
       },
       {
         "id": 18,
-        "question": "Quelle compagne du footballeur Neymar a attiré tous les regards au Brésil ?",
+        "question": "Quelle compagne du footballeur Neymar a attire tous les regards au Bresil ?",
         "propositions": [
           "Tania Khalill",
           "Bianca Bin",
           "Bruna Marquezine",
           "Paolla Oliveira"
         ],
-        "réponse": "Bruna Marquezine",
-        "anecdote": "Pendant une soirée organisée par Vogue à Sao Paulo au Brésil, Bruna a fait sensation en portant une tenue très minimaliste."
+        "reponse": "Bruna Marquezine",
+        "anecdote": "Pendant une soiree organisee par Vogue à Sao Paulo au Bresil, Bruna a fait sensation en portant une tenue tres minimaliste."
       },
       {
         "id": 19,
-        "question": "Quelle somme Chuck Norris a-t-il réclamé pour tromperie sur « Walker Texas Ranger » ?",
+        "question": "Quelle somme Chuck Norris a-t-il reclame pour tromperie sur « Walker Texas Ranger » ?",
         "propositions": [
           "10 millions",
           "30 millions",
           "20 millions",
           "40 millions"
         ],
-        "réponse": "30 millions",
-        "anecdote": "Chuck Norris a déposé un recours à la Cour Supérieure de Los Angeles contre CBS pour droits d'exploitation non versés."
+        "reponse": "30 millions",
+        "anecdote": "Chuck Norris a depose un recours à la Cour Superieure de Los Angeles contre CBS pour droits d'exploitation non verses."
       },
       {
         "id": 20,
-        "question": "Qui s'est fait tatoué le bras après un pari perdu contre son ami Leonardo Dicaprio ?",
+        "question": "Qui s'est fait tatoue le bras apres un pari perdu contre son ami Leonardo Dicaprio ?",
         "propositions": [
           "Colin McFarlane",
           "John Nolan",
           "Glenn Ford",
           "Tom Hardy"
         ],
-        "réponse": "Tom Hardy",
-        "anecdote": "Sur une photo postée sur Instagram le 29 janvier 2018, on a aperçu un nouveau tatouage sur le bras de Tom Hardy."
+        "reponse": "Tom Hardy",
+        "anecdote": "Sur une photo postee sur Instagram le 29 janvier 2018, on a apercu un nouveau tatouage sur le bras de Tom Hardy."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quelle actrice a une nouvelle fois accepté de poser nue pour la PETA en février 2018 ?",
+        "question": "Quelle actrice a une nouvelle fois accepte de poser nue pour la PETA en fevrier 2018 ?",
         "propositions": [
           "Helen Hunt",
           "Gillian Anderson",
           "Teri Hatcher",
           "Halle Berry"
         ],
-        "réponse": "Gillian Anderson",
-        "anecdote": "Les gens se détournent des campagnes anti-fourrure montrant des animaux torturés mais s'intéressent aux campagnes de PETA."
+        "reponse": "Gillian Anderson",
+        "anecdote": "Les gens se detournent des campagnes anti-fourrure montrant des animaux tortures mais s'interessent aux campagnes de PETA."
       },
       {
         "id": 22,
-        "question": "Avec qui Kylie Jenner est-elle devenue jeune maman le 1er février 2018 ?",
+        "question": "Avec qui Kylie Jenner est-elle devenue jeune maman le 1er fevrier 2018 ?",
         "propositions": [
-          "John Forté",
+          "John Forte",
           "Travis Scott",
           "Mike City",
           "Mike Dean"
         ],
-        "réponse": "Travis Scott",
-        "anecdote": "Si la jeune femme de 20 ans a annoncé elle-même la naissance de sa progéniture, elle a mis un certain temps pour révéler son prénom."
+        "reponse": "Travis Scott",
+        "anecdote": "Si la jeune femme de 20 ans a annonce elle-meme la naissance de sa progeniture, elle a mis un certain temps pour reveler son prenom."
       },
       {
         "id": 23,
-        "question": "Quel chanteur américain, alors âgé de 76 ans en 2018, a annoncé une tournée d'adieux ?",
+        "question": "Quel chanteur americain, alors age de 76 ans en 2018, a annonce une tournee d'adieux ?",
         "propositions": [
           "Bob Dylan",
           "Paul Simon",
           "Keith Jarrett",
           "Peter Gabriel"
         ],
-        "réponse": "Paul Simon",
-        "anecdote": "Dans un communiqué, le chanteur et ancien membre du duo Simon and Garfunkel a fait savoir qu'il mettait fin à ses tournées."
+        "reponse": "Paul Simon",
+        "anecdote": "Dans un communique, le chanteur et ancien membre du duo Simon and Garfunkel a fait savoir qu'il mettait fin à ses tournees."
       },
       {
         "id": 24,
-        "question": "Avec quel footballeur français Pamela Anderson a-t-elle été en couple en 2018 ?",
+        "question": "Avec quel footballeur francais Pamela Anderson a-t-elle ete en couple en 2018 ?",
         "propositions": [
           "Mathieu Debuchy",
           "Samir Nasri",
           "Adil Rami",
           "Olivier Giroud"
         ],
-        "réponse": "Adil Rami",
-        "anecdote": "Après presque un an d'amour avec Adil Rami, Pamela Anderson avait sauté le pas et s'était installée avec son compagnon à Marseille."
+        "reponse": "Adil Rami",
+        "anecdote": "Apres presque un an d'amour avec Adil Rami, Pamela Anderson avait saute le pas et s'etait installee avec son compagnon à Marseille."
       },
       {
         "id": 25,
@@ -340,32 +340,32 @@
           "Daisy Gonzalez",
           "Sara Ramirez"
         ],
-        "réponse": "Daisy Gonzalez",
-        "anecdote": "Avec ses soeurs Khloé et Kim, Kourtney a lancé plusieurs collections de vêtements, de maquillages et de produits de beauté."
+        "reponse": "Daisy Gonzalez",
+        "anecdote": "Avec ses soeurs Khloe et Kim, Kourtney a lance plusieurs collections de vetements, de maquillages et de produits de beaute."
       },
       {
         "id": 26,
-        "question": "Quel jour de février a-t-on célébré la Journée Mondiale du Nutella ?",
+        "question": "Quel jour de fevrier a-t-on celebre la Journee Mondiale du Nutella ?",
         "propositions": [
-          "10 février",
-          "15 février",
-          "20 février",
-          "5 février"
+          "10 fevrier",
+          "15 fevrier",
+          "20 fevrier",
+          "5 fevrier"
         ],
-        "réponse": "5 février",
-        "anecdote": "Oui, vous ne rêvez pas : la pâte à tartiner la plus célèbre possède bien sa propre fête, célébrée partout à travers le monde le 5 février."
+        "reponse": "5 fevrier",
+        "anecdote": "Oui, vous ne revez pas : la pate à tartiner la plus celebre possede bien sa propre fete, celebree partout à travers le monde le 5 fevrier."
       },
       {
         "id": 27,
-        "question": "Quelle fille de Patrick Chêne a rejoint le casting de la série télévisée « Demain nous appartient » ?",
+        "question": "Quelle fille de Patrick Chene a rejoint le casting de la serie televisee « Demain nous appartient » ?",
         "propositions": [
-          "Sophie Chêne",
-          "Juliette Chêne",
-          "Camille Chêne",
-          "Dorothée Chêne"
+          "Sophie Chene",
+          "Juliette Chene",
+          "Camille Chene",
+          "Dorothee Chene"
         ],
-        "réponse": "Juliette Chêne",
-        "anecdote": "Comédienne historique de « Plus belle la vie », Juliette Chêne a campé le rôle de Juliette Frémont entre 2004 et 2008."
+        "reponse": "Juliette Chene",
+        "anecdote": "Comedienne historique de « Plus belle la vie », Juliette Chene a campe le rôle de Juliette Fremont entre 2004 et 2008."
       },
       {
         "id": 28,
@@ -374,39 +374,39 @@
           "John Law",
           "Alan Green",
           "Jeff Hakman",
-          "Pierre Agnès"
+          "Pierre Agnes"
         ],
-        "réponse": "Pierre Agnès",
-        "anecdote": "Pierre Agnès était porté disparu depuis le 30 janvier 2018 après un voyage en mer au large de Capbreton, dans les Landes."
+        "reponse": "Pierre Agnes",
+        "anecdote": "Pierre Agnes etait porte disparu depuis le 30 janvier 2018 apres un voyage en mer au large de Capbreton, dans les Landes."
       },
       {
         "id": 29,
-        "question": "Qui a fait le buzz suite à son twerk improvisé à l'anniversaire de Neymar ?",
+        "question": "Qui a fait le buzz suite à son twerk improvise à l'anniversaire de Neymar ?",
         "propositions": [
           "Damaris Lewis",
           "Cintia Dicker",
           "Izabel Goulart",
           "Julie Henderson"
         ],
-        "réponse": "Izabel Goulart",
-        "anecdote": "Au total, ce sont près de 250 invités qui ont rempli le luxueux Pavillon Cambon situé dans le deuxième arrondissement de Paris."
+        "reponse": "Izabel Goulart",
+        "anecdote": "Au total, ce sont pres de 250 invites qui ont rempli le luxueux Pavillon Cambon situe dans le deuxieme arrondissement de Paris."
       },
       {
         "id": 30,
-        "question": "Dévoilé tardivement, quel est le prénom de la fille de Kylie Jenner née début février 2018 ?",
+        "question": "Devoile tardivement, quel est le prenom de la fille de Kylie Jenner nee debut fevrier 2018 ?",
         "propositions": [
           "Kendall",
           "Sondra",
           "Stormi",
           "Sierra"
         ],
-        "réponse": "Stormi",
-        "anecdote": "Après neuf mois d'une grossesse plus que protégée, la jeune femme de 20 ans a (enfin) révélé le prénom de son bébé sur Instagram."
+        "reponse": "Stormi",
+        "anecdote": "Apres neuf mois d'une grossesse plus que protegee, la jeune femme de 20 ans a (enfin) revele le prenom de son bebe sur Instagram."
       }
     ]
     },
     "en": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Who has always been godmother to Laetitia Hallyday ?",
@@ -416,7 +416,7 @@
           "Line Renaud",
           "Brigitte Fontaine"
         ],
-        "réponse": "Line Renaud",
+        "reponse": "Line Renaud",
         "anecdote": "It is with great emotion that Line Renaud returned on Sunday, February 4, 2018 on the disappearance of his godson Johnny Hallyday."
       },
       {
@@ -425,10 +425,10 @@
         "propositions": [
           "John Lennon",
           "Elvis Presley",
-          "Michaël Jackson",
+          "Michaal Jackson",
           "Prince"
         ],
-        "réponse": "Prince",
+        "reponse": "Prince",
         "anecdote": "The singer Prince's image was projected on a canvas as the notes of the title « I Would Die 4 U » sounded."
       },
       {
@@ -440,7 +440,7 @@
           "Their 15 years",
           "Their 10 years"
         ],
-        "réponse": "Their 10 years",
+        "reponse": "Their 10 years",
         "anecdote": "Many years after their wedding in a salon of the Elysee, the singer and the former head of state are still as crazy in love."
       },
       {
@@ -452,7 +452,7 @@
           "Christian Constant",
           "Philippe Etchebest"
         ],
-        "réponse": "Philippe Etchebest",
+        "reponse": "Philippe Etchebest",
         "anecdote": "Philippe Etchebest was rewarded by the 2018 edition of the famous guide for his new gastronomic concept in Bordeaux."
       },
       {
@@ -464,7 +464,7 @@
           "Ashton Kutcher",
           "Bruce Willis"
         ],
-        "réponse": "Ashton Kutcher",
+        "reponse": "Ashton Kutcher",
         "anecdote": "Ashton Kutcher began his success with his role as Michael Kelso in the serie « That '70s show »."
       },
       {
@@ -476,7 +476,7 @@
           "Snoop Dogg",
           "Warren G"
         ],
-        "réponse": "Snoop Dogg",
+        "reponse": "Snoop Dogg",
         "anecdote": "The rapper has already unveiled some titles, a handle compared to the 32 that provided the double album expected for March 16."
       },
       {
@@ -488,7 +488,7 @@
           "Jim Carrey",
           "Danny DeVito"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "He was scheduled to go to court in April 2018 for imprudent homicide on Cathriona White, passed away on September 28, 2015."
       },
       {
@@ -500,7 +500,7 @@
           "Caroline Henry",
           "Anne-Claire Coudray"
         ],
-        "réponse": "Anne-Claire Coudray",
+        "reponse": "Anne-Claire Coudray",
         "anecdote": "Anne-Claire Coudray, journalist and presenter of the TF1 week-end news, celebrated her 41st birthday on February 1, 2018."
       },
       {
@@ -512,7 +512,7 @@
           "Didier Gustin",
           "Jean Roucas"
         ],
-        "réponse": "Yves Lecoq",
+        "reponse": "Yves Lecoq",
         "anecdote": "The cameras of BFM TV who collected the testimonies of the immobilized were indeed surprised to find Yves Lecoq."
       },
       {
@@ -524,22 +524,22 @@
           "Elton John",
           "Bruno Mars"
         ],
-        "réponse": "Elton John",
+        "reponse": "Elton John",
         "anecdote": "Highly expected, this royal union has pushed some British nationals to make sometimes radical decisions."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "What hidden girl of Claude François emerged from the shadows in February 2018 ?",
+        "question": "What hidden girl of Claude Francois emerged from the shadows in February 2018 ?",
         "propositions": [
           "Theresa Rogers",
           "Julie Bocquet",
           "Alexia Scott",
           "Mazarine Pingeot"
         ],
-        "réponse": "Julie Bocquet",
-        "anecdote": "Julie, the daughter of Claude François, said that this long-hidden secret was hard to wear, even for her children."
+        "reponse": "Julie Bocquet",
+        "anecdote": "Julie, the daughter of Claude Francois, said that this long-hidden secret was hard to wear, even for her children."
       },
       {
         "id": 12,
@@ -550,7 +550,7 @@
           "Florence Foresti",
           "Isabelle Furnaro"
         ],
-        "réponse": "Isabelle Furnaro",
+        "reponse": "Isabelle Furnaro",
         "anecdote": "For more than 10 years, comedian Michael Youn and comedian Isabelle Funaro have written together a beautiful love story."
       },
       {
@@ -562,7 +562,7 @@
           "His 26 years",
           "His 24 years"
         ],
-        "réponse": "His 26 years",
+        "reponse": "His 26 years",
         "anecdote": "The pretty brunette, who is no longer a bimbo, celebrated her birthday with her brother Tarek and his boyfriend Thomas Vergara."
       },
       {
@@ -574,7 +574,7 @@
           "Laurent Ruquier",
           "Julien Courbet"
         ],
-        "réponse": "Laurent Ruquier",
+        "reponse": "Laurent Ruquier",
         "anecdote": "The friends of always lived at the time both sentimental chess crossed and drowned their sorrow by tinkering."
       },
       {
@@ -586,7 +586,7 @@
           "Chris Colfer",
           "Cory Monteith"
         ],
-        "réponse": "Mark Salling",
+        "reponse": "Mark Salling",
         "anecdote": "Actor Mark Salling had already made a suicide attempt a few months ago by cutting his veins at the wrists."
       },
       {
@@ -598,7 +598,7 @@
           "Laurent Boyer",
           "JoeyStarr"
         ],
-        "réponse": "JoeyStarr",
+        "reponse": "JoeyStarr",
         "anecdote": "The pretty star of the paf and ex Lilian Thuram explained that whatever the man with whom she was, he took care of her."
       },
       {
@@ -610,7 +610,7 @@
           "Alain Foix",
           "Mark Alizart"
         ],
-        "réponse": "Michel Onfray",
+        "reponse": "Michel Onfray",
         "anecdote": "From his hospital room, however, the famous philosopher has given reassuring news about his state of health."
       },
       {
@@ -622,7 +622,7 @@
           "Bianca Bin",
           "Bruna Marquezine"
         ],
-        "réponse": "Bruna Marquezine",
+        "reponse": "Bruna Marquezine",
         "anecdote": "During an evening organized by Vogue in Sao Paulo, Brazil, Bruna caused a sensation by wearing a very minimalist outfit."
       },
       {
@@ -634,7 +634,7 @@
           "20 million",
           "10 million"
         ],
-        "réponse": "30 million",
+        "reponse": "30 million",
         "anecdote": "Chuck Norris filed a lawsuit with the Los Angeles Superior Court against CBS for unpaid mining rights."
       },
       {
@@ -646,7 +646,7 @@
           "Tom Hardy",
           "Colin McFarlane"
         ],
-        "réponse": "Tom Hardy",
+        "reponse": "Tom Hardy",
         "anecdote": "On a photo posted on Instagram on January 29, 2018, a new tattoo was seen on Tom Hardy's arm."
       }
     ],
@@ -660,7 +660,7 @@
           "Gillian Anderson",
           "Helen Hunt"
         ],
-        "réponse": "Gillian Anderson",
+        "reponse": "Gillian Anderson",
         "anecdote": "People are turning away from anti-fur campaigns showing tortured animals but are interested in PETA campaigns."
       },
       {
@@ -672,7 +672,7 @@
           "Travis Scott",
           "Mike Dean"
         ],
-        "réponse": "Travis Scott",
+        "reponse": "Travis Scott",
         "anecdote": "If the 20-year-old herself announced the birth of her loan, she took some time to reveal her name."
       },
       {
@@ -684,7 +684,7 @@
           "Peter Gabriel",
           "Bob Dylan"
         ],
-        "réponse": "Paul Simon",
+        "reponse": "Paul Simon",
         "anecdote": "In a statement, the singer and former member of the duo Simon and Garfunkel said that he was putting an end to his tours."
       },
       {
@@ -696,7 +696,7 @@
           "Olivier Giroud",
           "Mathieu Debuchy"
         ],
-        "réponse": "Adil Rami",
+        "reponse": "Adil Rami",
         "anecdote": "After almost a year of love with Adil Rami, Pamela Anderson had taken the leap and settled with her companion in Marseille."
       },
       {
@@ -708,7 +708,7 @@
           "Lorena Rojas",
           "Litzy Dominguez"
         ],
-        "réponse": "Daisy Gonzalez",
+        "reponse": "Daisy Gonzalez",
         "anecdote": "With her sisters Khloe and Kim, Kourtney has launched several collections of clothing, make-up and beauty products."
       },
       {
@@ -720,19 +720,19 @@
           "February 20",
           "February 10"
         ],
-        "réponse": "February 5",
+        "reponse": "February 5",
         "anecdote": "Yes, you're not dreaming : the most famous spread has its own party, celebrated around the world on February 5th."
       },
       {
         "id": 27,
-        "question": "Which daughter of Patrick Chêne joined the cast of the television series « Tomorrow belongs to us » ?",
+        "question": "Which daughter of Patrick Chene joined the cast of the television series « Tomorrow belongs to us » ?",
         "propositions": [
           "Dorothee Chene",
           "Sophie Chene",
           "Juliette Chene",
           "Camille Chene"
         ],
-        "réponse": "Juliette Chene",
+        "reponse": "Juliette Chene",
         "anecdote": "As a historical comedian of « Most beautiful life », Juliette Chene played Juliette Fremont's role between 2004 and 2008."
       },
       {
@@ -744,8 +744,8 @@
           "Pierre Agnes",
           "Jeff Hakman"
         ],
-        "réponse": "Pierre Agnes",
-        "anecdote": "Pierre Agnès had been missing since January 30, 2018 after a trip at sea off Capbreton, in the Landes."
+        "reponse": "Pierre Agnes",
+        "anecdote": "Pierre Agnes had been missing since January 30, 2018 after a trip at sea off Capbreton, in the Landes."
       },
       {
         "id": 29,
@@ -756,7 +756,7 @@
           "Damaris Lewis",
           "Julie Henderson"
         ],
-        "réponse": "Izabel Goulart",
+        "reponse": "Izabel Goulart",
         "anecdote": "In total, nearly 250 guests filled the luxurious Pavillon Cambon located in the second arrondissement of Paris."
       },
       {
@@ -768,13 +768,13 @@
           "Stormi",
           "Sierra"
         ],
-        "réponse": "Stormi",
+        "reponse": "Stormi",
         "anecdote": "After nine months of being pregnant more than protected, the 20-year-old has (finally) revealed the name of her baby on Instagram."
       }
     ]
     },
     "de": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Wer war schon immer die Patin von Laetitia Hallyday ?",
@@ -784,19 +784,19 @@
           "Nana Mouskouri",
           "Brigitte Fontaine"
         ],
-        "réponse": "Linie Renaud",
+        "reponse": "Linie Renaud",
         "anecdote": "Mit großer Ergriffenheit kehrte Line Renaud am Sonntag, dem 4. Februar 2018, nach dem Verschwinden seines Patensohns Johnny Hallyday zurück."
       },
       {
         "id": 2,
         "question": "Welchen Künstler würdigte Justin Timberlake beim Super Bowl 2018 ?",
         "propositions": [
-          "Michaël Jackson",
+          "Michaal Jackson",
           "Prinz",
           "John Lennon",
           "Elvis Presley"
         ],
-        "réponse": "Prinz",
+        "reponse": "Prinz",
         "anecdote": "Das Bild des Sängers Prince wurde auf eine Leinwand projiziert, als die Noten des Titels « I Would Die 4 U » erklangen."
       },
       {
@@ -808,7 +808,7 @@
           "Ihre 15 Jahre",
           "Ihre 10 Jahre"
         ],
-        "réponse": "Ihre 10 Jahre",
+        "reponse": "Ihre 10 Jahre",
         "anecdote": "Viele Jahre nach ihrer Hochzeit in einem Salon am Elysee sind die Sängerin und das frühere Staatsoberhaupt noch genauso verliebt."
       },
       {
@@ -820,7 +820,7 @@
           "Philippe Etchebest",
           "Christliche Konstante"
         ],
-        "réponse": "Philippe Etchebest",
+        "reponse": "Philippe Etchebest",
         "anecdote": "Philippe Etchebest wurde für sein neues gastronomisches Konzept in Bordeaux mit der Ausgabe 2018 des berühmten Reiseführers belohnt."
       },
       {
@@ -832,7 +832,7 @@
           "Bruce Willis",
           "Martin Sheen"
         ],
-        "réponse": "Ashton Kutcher",
+        "reponse": "Ashton Kutcher",
         "anecdote": "Ashton Kutcher begann seinen Erfolg mit seiner Rolle als Michael Kelso in der Serie « That 70s show »."
       },
       {
@@ -844,7 +844,7 @@
           "Eiswürfel",
           "Dr. Dre"
         ],
-        "réponse": "Snoop Dogg",
+        "reponse": "Snoop Dogg",
         "anecdote": "Der Rapper hat bereits einige Titel enthüllt, ein Griff im Vergleich zu den 32, die das für den 16."
       },
       {
@@ -856,7 +856,7 @@
           "Jim Carrey",
           "Morgan Freeman"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "Er sollte im April 2018 wegen mutwilligen Mordes an Cathriona White vor Gericht gehen, der am 28."
       },
       {
@@ -868,7 +868,7 @@
           "Anne-Claire Coudray",
           "Laurence Ferrari"
         ],
-        "réponse": "Anne-Claire Coudray",
+        "reponse": "Anne-Claire Coudray",
         "anecdote": "Anne-Claire Coudray, Journalistin und Moderatorin der TF1-Wochenendnachrichten, feierte am 1."
       },
       {
@@ -880,7 +880,7 @@
           "Jean Roucas",
           "Gerald Dahan"
         ],
-        "réponse": "Yves Lecoq",
+        "reponse": "Yves Lecoq",
         "anecdote": "Die Kameras von BFM TV, die die Aussagen der Immobilisierten sammelten, waren in der Tat überrascht, Yves Lecoq zu finden."
       },
       {
@@ -892,22 +892,22 @@
           "Elton John",
           "Bruno Mars"
         ],
-        "réponse": "Elton John",
+        "reponse": "Elton John",
         "anecdote": "Wie zu erwarten war, hat diese königliche Vereinigung einige britische Staatsangehörige dazu gedrängt, manchmal radikale Entscheidungen zu treffen."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Welches versteckte Mädchen von Claude François tauchte im Februar 2018 aus den Schatten auf ?",
+        "question": "Welches versteckte Mädchen von Claude Francois tauchte im Februar 2018 aus den Schatten auf ?",
         "propositions": [
           "Theresa Rogers",
           "Alexia Scott",
           "Julie Bocquet",
           "Mazarine Pingeot"
         ],
-        "réponse": "Julie Bocquet",
-        "anecdote": "Julie, die Tochter von Claude François, sagte, dass dieses lange verborgene Geheimnis selbst für ihre Kinder schwer zu tragen sei."
+        "reponse": "Julie Bocquet",
+        "anecdote": "Julie, die Tochter von Claude Francois, sagte, dass dieses lange verborgene Geheimnis selbst für ihre Kinder schwer zu tragen sei."
       },
       {
         "id": 12,
@@ -918,7 +918,7 @@
           "Elsa Pataky",
           "Florenz Foresti"
         ],
-        "réponse": "Isabelle Furnaro",
+        "reponse": "Isabelle Furnaro",
         "anecdote": "Die Komikerin Michael Youn und die Komikerin Isabelle Funaro schreiben seit mehr als 10 Jahren zusammen eine wunderschöne Liebesgeschichte."
       },
       {
@@ -930,7 +930,7 @@
           "Seine 28 Jahre",
           "Seine 24 Jahre"
         ],
-        "réponse": "Seine 26 Jahre",
+        "reponse": "Seine 26 Jahre",
         "anecdote": "Die hübsche Brünette, die kein Bimbo mehr ist, feierte mit ihrem Bruder Tarek und seinem Freund Thomas Vergara ihren Geburtstag."
       },
       {
@@ -942,7 +942,7 @@
           "Julien Lepers",
           "Laurent Ruquier"
         ],
-        "réponse": "Laurent Ruquier",
+        "reponse": "Laurent Ruquier",
         "anecdote": "Die Freunde von damals lebten immer beide sentimental Schach und übertönten ihren Kummer durch Basteln."
       },
       {
@@ -954,7 +954,7 @@
           "Darren Criss",
           "Mark Salling"
         ],
-        "réponse": "Mark Salling",
+        "reponse": "Mark Salling",
         "anecdote": "Schauspieler Mark Salling hatte bereits vor einigen Monaten einen Selbstmordversuch unternommen, indem er sich die Adern an den Handgelenken abgeschnitten hatte."
       },
       {
@@ -966,7 +966,7 @@
           "Cyril Lignac",
           "Laurent Boyer"
         ],
-        "réponse": "JoeyStarr",
+        "reponse": "JoeyStarr",
         "anecdote": "Der hübsche Star der Kneipe und Ex-Lilian Thuram erklärte, dass er sich um sie kümmerte, egal mit wem sie zusammen war."
       },
       {
@@ -978,7 +978,7 @@
           "Benoit Chantre",
           "Mark Alizart"
         ],
-        "réponse": "Michel Onfray",
+        "reponse": "Michel Onfray",
         "anecdote": "Von seinem Krankenzimmer aus hat der berühmte Philosoph jedoch beruhigende Nachrichten über seinen Gesundheitszustand gegeben."
       },
       {
@@ -990,7 +990,7 @@
           "Bianca Bin",
           "Bruna Marquezine"
         ],
-        "réponse": "Bruna Marquezine",
+        "reponse": "Bruna Marquezine",
         "anecdote": "Während eines von Vogue in Sao Paulo, Brasilien, organisierten Abends sorgte Bruna mit einem sehr minimalistischen Outfit für Aufsehen."
       },
       {
@@ -1002,7 +1002,7 @@
           "20 Millionen",
           "10 Millionen"
         ],
-        "réponse": "30 Millionen",
+        "reponse": "30 Millionen",
         "anecdote": "Chuck Norris reichte beim Los Angeles Superior Court eine Klage gegen CBS wegen unbezahlter Bergbaurechte ein."
       },
       {
@@ -1014,7 +1014,7 @@
           "Tom Hardy",
           "Colin McFarlane"
         ],
-        "réponse": "Tom Hardy",
+        "reponse": "Tom Hardy",
         "anecdote": "Auf einem Foto, das am 29. Januar 2018 auf Instagram gepostet wurde, war ein neues Tattoo auf Tom Hardys Arm zu sehen."
       }
     ],
@@ -1028,7 +1028,7 @@
           "Gillian Anderson",
           "Helen Hunt"
         ],
-        "réponse": "Gillian Anderson",
+        "reponse": "Gillian Anderson",
         "anecdote": "Die Menschen wenden sich von Anti-Pelz-Kampagnen ab, in denen gefolterte Tiere gezeigt werden, sind aber an den Kampagnen von PETA interessiert."
       },
       {
@@ -1040,7 +1040,7 @@
           "Travis Scott",
           "John Fort ?"
         ],
-        "réponse": "Travis Scott",
+        "reponse": "Travis Scott",
         "anecdote": "Wenn die 20-jährige selbst die Geburt ihres Darlehens ankündigte, nahm sie sich etwas Zeit, um ihren Namen preiszugeben."
       },
       {
@@ -1052,7 +1052,7 @@
           "Peter Gabriel",
           "Paul Simon"
         ],
-        "réponse": "Paul Simon",
+        "reponse": "Paul Simon",
         "anecdote": "In einer Erklärung sagte der Sänger und ehemalige Mitglied des Duos Simon und Garfunkel, dass er seine Tourneen beenden würde."
       },
       {
@@ -1064,7 +1064,7 @@
           "Mathieu Debuchy",
           "Adil Rami"
         ],
-        "réponse": "Adil Rami",
+        "reponse": "Adil Rami",
         "anecdote": "Nach fast einem Jahr der Liebe zu Adil Rami hatte Pamela Anderson den Sprung gewagt und sich mit ihrer Begleiterin in Marseille niedergelassen."
       },
       {
@@ -1076,7 +1076,7 @@
           "Sara Ramirez",
           "Litzy Dominguez"
         ],
-        "réponse": "Daisy Gonzalez",
+        "reponse": "Daisy Gonzalez",
         "anecdote": "Mit ihren Schwestern Khloe und Kim hat Kourtney mehrere Kollektionen von Kleidung, Make-up und Schönheitsprodukten auf den Markt gebracht."
       },
       {
@@ -1088,19 +1088,19 @@
           "5. Februar",
           "20. Februar"
         ],
-        "réponse": "5. Februar",
+        "reponse": "5. Februar",
         "anecdote": "Ja, Sie träumen nicht : Die berühmteste Strecke hat ihre eigene Party, die am 5. Februar weltweit gefeiert wird."
       },
       {
         "id": 27,
-        "question": "Welche Tochter von Patrick Chêne hat sich der Besetzung der Fernsehserie « Tomorrow gehört uns » angeschlossen ?",
+        "question": "Welche Tochter von Patrick Chene hat sich der Besetzung der Fernsehserie « Tomorrow gehört uns » angeschlossen ?",
         "propositions": [
           "Sophie Chene",
           "Dorothee Chene",
           "Camille Chene",
           "Juliette Chene"
         ],
-        "réponse": "Juliette Chene",
+        "reponse": "Juliette Chene",
         "anecdote": "Als historische Komikerin des « schönsten Lebens » spielte Juliette Chene zwischen 2004 und 2008 die Rolle von Juliette Fremont"
       },
       {
@@ -1112,8 +1112,8 @@
           "John Law",
           "Jeff Hakman"
         ],
-        "réponse": "Pierre Agnes",
-        "anecdote": "Pierre Agnès war seit dem 30. Januar 2018 nach einer Seereise vor Capbreton in den Landes verschwunden."
+        "reponse": "Pierre Agnes",
+        "anecdote": "Pierre Agnes war seit dem 30. Januar 2018 nach einer Seereise vor Capbreton in den Landes verschwunden."
       },
       {
         "id": 29,
@@ -1124,7 +1124,7 @@
           "Cintia Dicker",
           "Damaris Lewis"
         ],
-        "réponse": "Izabel Goulart",
+        "reponse": "Izabel Goulart",
         "anecdote": "Insgesamt füllten fast 250 Gäste den luxuriösen Pavillon Cambon im zweiten Arrondissement von Paris."
       },
       {
@@ -1136,229 +1136,229 @@
           "Stormi",
           "Kendall"
         ],
-        "réponse": "Stormi",
+        "reponse": "Stormi",
         "anecdote": "Nach neun Monaten mehr als geschützter Schwangerschaft hat die 20-Jährige auf Instagram (endlich) den Namen ihres Babys preisgegeben."
       }
     ]
     },
     "es": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "¿Quién ha sido siempre la madrina de Laetitia Hallyday ?",
+        "question": "¿Quien ha sido siempre la madrina de Laetitia Hallyday ?",
         "propositions": [
           "Brigitte Fontaine",
           "Annie Cordy",
           "Nana Mouskouri",
           "Line Renaud"
         ],
-        "réponse": "Line Renaud",
+        "reponse": "Line Renaud",
         "anecdote": "Con gran emoción, Line Renaud regresó el domingo 4 de febrero de 2018 sobre la desaparición de su ahijado Johnny Hallyday."
       },
       {
         "id": 2,
-        "question": "¿A qué artista homenajeó Justin Timberlake en el Super Bowl 2018 ?",
+        "question": "¿A que artista homenajeó Justin Timberlake en el Super Bowl 2018 ?",
         "propositions": [
           "John Lennon",
-          "Michaël Jackson",
+          "Michaal Jackson",
           "Elvis Presley",
           "Príncipe"
         ],
-        "réponse": "Príncipe",
+        "reponse": "Príncipe",
         "anecdote": "La imagen del cantante Prince se proyectó en un lienzo cuando sonaron las notas del título « I would Die 4 U »."
       },
       {
         "id": 3,
-        "question": "¿Qué aniversario de boda celebraron Carla Bruni y Nicolas Sarkozy en 2018 ?",
+        "question": "¿Que aniversario de boda celebraron Carla Bruni y Nicolas Sarkozy en 2018 ?",
         "propositions": [
           "Sus 5 años",
           "Sus 15 años",
           "Sus 20 años",
           "Sus 10 años"
         ],
-        "réponse": "Sus 10 años",
-        "anecdote": "Muchos años después de su boda en un salón del Elíseo, el cantante y el ex jefe de estado siguen enamorados."
+        "reponse": "Sus 10 años",
+        "anecdote": "Muchos años despues de su boda en un salón del Elíseo, el cantante y el ex jefe de estado siguen enamorados."
       },
       {
         "id": 4,
-        "question": "¿Qué famoso chef fue premiado por la guía Michelin 2018 ?",
+        "question": "¿Que famoso chef fue premiado por la guía Michelin 2018 ?",
         "propositions": [
           "Philippe Etchebest",
           "Cyril Lignac",
           "Christian Constant",
           "Thierry Marx"
         ],
-        "réponse": "Philippe Etchebest",
+        "reponse": "Philippe Etchebest",
         "anecdote": "Philippe Etchebest fue recompensado con la edición 2018 de la famosa guía por su nuevo concepto gastronómico en Burdeos."
       },
       {
         "id": 5,
-        "question": "¿Qué ex marido del comediante Demi Moore cumplió 40 años en 2018 ?",
+        "question": "¿Que ex marido del comediante Demi Moore cumplió 40 años en 2018 ?",
         "propositions": [
           "Christian Slater",
           "Bruce Willis",
           "Martin Sheen",
           "Ashton Kutcher"
         ],
-        "réponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher comenzó su éxito con su papel de Michael Kelso en la serie « That '70s show »."
+        "reponse": "Ashton Kutcher",
+        "anecdote": "Ashton Kutcher comenzó su exito con su papel de Michael Kelso en la serie « That '70s show »."
       },
       {
         "id": 6,
-        "question": "Sorprendentemente, ¿qué rapero estadounidense ha anunciado para preparar un álbum de gospel ?",
+        "question": "Sorprendentemente, ¿que rapero estadounidense ha anunciado para preparar un álbum de gospel ?",
         "propositions": [
           "Snoop Dogg",
           "Dr. Dre",
           "Cubo de hielo",
           "Warren G"
         ],
-        "réponse": "Snoop Dogg",
+        "reponse": "Snoop Dogg",
         "anecdote": "El rapero ya ha revelado algunos títulos, un control en comparación con los 32 que proporcionaron el doble álbum esperado para el 16 de marzo."
       },
       {
         "id": 7,
-        "question": "¿Qué actor estadounidense está definitivamente encalado en el caso del suicidio de su compañero ?",
+        "question": "¿Que actor estadounidense está definitivamente encalado en el caso del suicidio de su compañero ?",
         "propositions": [
           "Danny DeVito",
           "Christian Bale",
           "Morgan Freeman",
           "Jim Carrey"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "Estaba programado para ir a los tribunales en abril de 2018 por homicidio imprudente contra Cathriona White, fallecido el 28 de septiembre de 2015."
       },
       {
         "id": 8,
-        "question": "¿Qué nueva reina de la información ha logrado reemplazar lentamente a Claire Chazal ?",
+        "question": "¿Que nueva reina de la información ha logrado reemplazar lentamente a Claire Chazal ?",
         "propositions": [
           "Anne-Claire Coudray",
           "Laurence Ferrari",
           "Caroline Henry",
           "Florence Shaal"
         ],
-        "réponse": "Anne-Claire Coudray",
+        "reponse": "Anne-Claire Coudray",
         "anecdote": "Anne-Claire Coudray, periodista y presentadora de las noticias de fin de semana TF1, celebró su 41 cumpleaños el 1 de febrero de 2018."
       },
       {
         "id": 9,
-        "question": "¿Qué humorista francés pasó la noche en su automóvil, atrapado en la nieve ?",
+        "question": "¿Que humorista frances pasó la noche en su automóvil, atrapado en la nieve ?",
         "propositions": [
           "Yves Lecoq",
           "Gerald Dahan",
           "Didier Gustin",
           "Jean Roucas"
         ],
-        "réponse": "Yves Lecoq",
+        "reponse": "Yves Lecoq",
         "anecdote": "Las cámaras de BFM TV que recopilaron los testimonios de los inmovilizados se sorprendieron al encontrar a Yves Lecoq."
       },
       {
         "id": 10,
-        "question": "¿Quién canceló dos de sus conciertos para asistir a la boda del Príncipe Harry con Meghan Markle ?",
+        "question": "¿Quien canceló dos de sus conciertos para asistir a la boda del Príncipe Harry con Meghan Markle ?",
         "propositions": [
           "Elton John",
           "Kanye West",
           "Bruno Mars",
           "Justin Bieber"
         ],
-        "réponse": "Elton John",
+        "reponse": "Elton John",
         "anecdote": "Muy esperado, esta unión real ha empujado a algunos ciudadanos británicos a tomar decisiones a veces radicales."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "¿Qué chica oculta de Claude François emergió de las sombras en febrero de 2018 ?",
+        "question": "¿Que chica oculta de Claude Francois emergió de las sombras en febrero de 2018 ?",
         "propositions": [
           "Theresa Rogers",
           "Alexia Scott",
           "Mazarine Pingeot",
           "Julie Bocquet"
         ],
-        "réponse": "Julie Bocquet",
-        "anecdote": "Julie, la hija de Claude François, dijo que este secreto largamente escondido era difícil de usar, incluso para sus hijos."
+        "reponse": "Julie Bocquet",
+        "anecdote": "Julie, la hija de Claude Francois, dijo que este secreto largamente escondido era difícil de usar, incluso para sus hijos."
       },
       {
         "id": 12,
-        "question": "¿Con qué ex del comediante Pascal Obispo y del comediante Michael Youn está en pareja ?",
+        "question": "¿Con que ex del comediante Pascal Obispo y del comediante Michael Youn está en pareja ?",
         "propositions": [
           "Juliette Arnaud",
           "Elsa Pataky",
           "Florencia Foresti",
           "Isabelle Furnaro"
         ],
-        "réponse": "Isabelle Furnaro",
+        "reponse": "Isabelle Furnaro",
         "anecdote": "Durante más de 10 años, el comediante Michael Youn y la comediante Isabelle Funaro han estado escribiendo juntos una hermosa historia de amor."
       },
       {
         "id": 13,
-        "question": "¿Qué cumpleaños fue la hermosa Nabilla el 5 de febrero de 2018 ?",
+        "question": "¿Que cumpleaños fue la hermosa Nabilla el 5 de febrero de 2018 ?",
         "propositions": [
           "Sus 28 años",
           "Sus 24 años",
           "Sus 26 años",
           "Sus 30 años"
         ],
-        "réponse": "Sus 26 años",
+        "reponse": "Sus 26 años",
         "anecdote": "La bella morena, que ya no es una tonta, celebró su cumpleaños con su hermano Tarek y su novio Thomas Vergara."
       },
       {
         "id": 14,
-        "question": "¿Con qué animadora Isabelle Mergault casi se casa durante una noche bien regada ?",
+        "question": "¿Con que animadora Isabelle Mergault casi se casa durante una noche bien regada ?",
         "propositions": [
           "Julien Courbet",
           "Thierry Beccaro",
           "Julien Lepers",
           "Laurent Ruquier"
         ],
-        "réponse": "Laurent Ruquier",
+        "reponse": "Laurent Ruquier",
         "anecdote": "Los amigos de siempre vivieron en el momento en que el ajedrez sentimental cruzaba y ahogaba su pena jugando."
       },
       {
         "id": 15,
-        "question": "¿Qué actor de la serie « Glee » murió de asfixia después de ser colgado en un árbol ?",
+        "question": "¿Que actor de la serie « Glee » murió de asfixia despues de ser colgado en un árbol ?",
         "propositions": [
           "Darren Criss",
           "Cory Monteith",
           "Chris Colfer",
           "Mark Salling"
         ],
-        "réponse": "Mark Salling",
+        "reponse": "Mark Salling",
         "anecdote": "El actor Mark Salling ya había hecho un intento de suicidio hace unos meses cortándose las venas de las muñecas."
       },
       {
         "id": 16,
-        "question": "¿Con quién formó Karine the Merchant una pareja atípica y sorprendente ?",
+        "question": "¿Con quien formó Karine the Merchant una pareja atípica y sorprendente ?",
         "propositions": [
           "JoeyStarr",
           "Cyril Lignac",
           "Stephane Plaza",
           "Laurent Boyer"
         ],
-        "réponse": "JoeyStarr",
-        "anecdote": "La bella estrella del paf y ex Lilian Thuram explicó que cualquiera que fuera el hombre con el que ella estaba, él la cuidaba."
+        "reponse": "JoeyStarr",
+        "anecdote": "La bella estrella del paf y ex Lilian Thuram explicó que cualquiera que fuera el hombre con el que ella estaba, el la cuidaba."
       },
       {
         "id": 17,
-        "question": "¿Qué filósofo ha revelado en su sitio web que ha sufrido un derrame cerebral ?",
+        "question": "¿Que filósofo ha revelado en su sitio web que ha sufrido un derrame cerebral ?",
         "propositions": [
           "Benoit Chantre",
           "Michel Onfray",
           "Alain Foix",
           "Mark Alizart"
         ],
-        "réponse": "Michel Onfray",
+        "reponse": "Michel Onfray",
         "anecdote": "Sin embargo, desde su habitación en el hospital, el famoso filósofo ha dado noticias tranquilizadoras sobre su estado de salud."
       },
       {
         "id": 18,
-        "question": "¿Qué socio del futbolista Neymar ha atraído todas las miradas hacia Brasil ?",
+        "question": "¿Que socio del futbolista Neymar ha atraído todas las miradas hacia Brasil ?",
         "propositions": [
           "Bianca Bin",
           "Bruna Marquezine",
           "Tania Khalill",
           "Paolla Oliveira"
         ],
-        "réponse": "Bruna Marquezine",
+        "reponse": "Bruna Marquezine",
         "anecdote": "Durante una noche organizada por Vogue en Sao Paulo, Brasil, Bruna causó sensación al usar un atuendo muy minimalista."
       },
       {
@@ -1370,129 +1370,129 @@
           "30 millones",
           "20 millones"
         ],
-        "réponse": "30 millones",
+        "reponse": "30 millones",
         "anecdote": "Chuck Norris presentó una demanda ante el Tribunal Superior de Los Ángeles contra CBS por derechos mineros impagos."
       },
       {
         "id": 20,
-        "question": "¿Quién puso su brazo en una apuesta perdida contra su amigo Leonardo Dicaprio ?",
+        "question": "¿Quien puso su brazo en una apuesta perdida contra su amigo Leonardo Dicaprio ?",
         "propositions": [
           "Tom Hardy",
           "John Nolan",
           "Colin McFarlane",
           "Glenn Ford"
         ],
-        "réponse": "Tom Hardy",
+        "reponse": "Tom Hardy",
         "anecdote": "En una foto publicada en Instagram el 29 de enero de 2018, se vio un nuevo tatuaje en el brazo de Tom Hardy."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "¿Qué actriz acordó una vez más posar desnuda para PETA en febrero de 2018 ?",
+        "question": "¿Que actriz acordó una vez más posar desnuda para PETA en febrero de 2018 ?",
         "propositions": [
           "Gillian Anderson",
           "Halle Berry",
           "Helen Hunt",
           "Teri Hatcher"
         ],
-        "réponse": "Gillian Anderson",
+        "reponse": "Gillian Anderson",
         "anecdote": "Las personas se están alejando de las campañas anti-pieles que muestran animales torturados, pero están interesadas en las campañas de PETA."
       },
       {
         "id": 22,
-        "question": "¿Con quién se convirtió Kylie Jenner en una madre joven el 1 de febrero de 2018 ?",
+        "question": "¿Con quien se convirtió Kylie Jenner en una madre joven el 1 de febrero de 2018 ?",
         "propositions": [
           "John Fort ?",
           "Travis Scott",
           "Mike Dean",
           "Mike City"
         ],
-        "réponse": "Travis Scott",
-        "anecdote": "Si la joven de 20 años anunció el nacimiento de su préstamo, se tomó un tiempo para revelar su nombre."
+        "reponse": "Travis Scott",
+        "anecdote": "Si la joven de 20 años anunció el nacimiento de su prestamo, se tomó un tiempo para revelar su nombre."
       },
       {
         "id": 23,
-        "question": "¿Qué cantante estadounidense, que tenía 76 años en 2018, anunció una gira de despedida ?",
+        "question": "¿Que cantante estadounidense, que tenía 76 años en 2018, anunció una gira de despedida ?",
         "propositions": [
           "Keith Jarrett",
           "Paul Simon",
           "Peter Gabriel",
           "Bob Dylan"
         ],
-        "réponse": "Paul Simon",
+        "reponse": "Paul Simon",
         "anecdote": "En un comunicado, el cantante y ex miembro del dúo Simon y Garfunkel dijo que estaba poniendo fin a sus giras."
       },
       {
         "id": 24,
-        "question": "¿Con qué futbolista francesa Pamela Anderson tuvo una relación en 2018 ?",
+        "question": "¿Con que futbolista francesa Pamela Anderson tuvo una relación en 2018 ?",
         "propositions": [
           "Adil Rami",
           "Mathieu Debuchy",
           "Samir Nasri",
           "Olivier Giroud"
         ],
-        "réponse": "Adil Rami",
-        "anecdote": "Después de casi un año de amor con Adil Rami, Pamela Anderson había dado el salto y se instaló con su compañera en Marsella."
+        "reponse": "Adil Rami",
+        "anecdote": "Despues de casi un año de amor con Adil Rami, Pamela Anderson había dado el salto y se instaló con su compañera en Marsella."
       },
       {
         "id": 25,
-        "question": "¿Qué guapa mexicana, hasta ahora desconocida, es el doble de Kourtney Kardashian ?",
+        "question": "¿Que guapa mexicana, hasta ahora desconocida, es el doble de Kourtney Kardashian ?",
         "propositions": [
           "Daisy Gonzalez",
           "Litzy Dominguez",
           "Lorena Rojas",
           "Sara Ramirez"
         ],
-        "réponse": "Daisy Gonzalez",
+        "reponse": "Daisy Gonzalez",
         "anecdote": "Con sus hermanas Khloe y Kim, Kourtney ha lanzado varias colecciones de ropa, maquillaje y productos de belleza."
       },
       {
         "id": 26,
-        "question": "¿Qué día de febrero se celebró el Día Mundial de la Nutella ?",
+        "question": "¿Que día de febrero se celebró el Día Mundial de la Nutella ?",
         "propositions": [
           "5 de febrero",
           "15 de febrero",
           "20 de febrero",
           "10 de febrero"
         ],
-        "réponse": "5 de febrero",
+        "reponse": "5 de febrero",
         "anecdote": "Sí, no estás soñando : la difusión más famosa tiene su propia fiesta, celebrada en todo el mundo el 5 de febrero."
       },
       {
         "id": 27,
-        "question": "¿Qué hija de Patrick Chêne se unió al elenco de la serie de televisión « Tomorrow nos pertenece » ?",
+        "question": "¿Que hija de Patrick Chene se unió al elenco de la serie de televisión « Tomorrow nos pertenece » ?",
         "propositions": [
           "Sophie Chene",
           "Camille Chene",
           "Juliette Chene",
           "Dorothee Chene"
         ],
-        "réponse": "Juliette Chene",
+        "reponse": "Juliette Chene",
         "anecdote": "Como comediante histórica de « La vida más bella », Juliette Chene desempeñó el papel de Juliette Fremont entre 2004 y 2008."
       },
       {
         "id": 28,
-        "question": "¿Qué CEO de la marca Quiksilver perdió la vida después de un viaje por mar ?",
+        "question": "¿Que CEO de la marca Quiksilver perdió la vida despues de un viaje por mar ?",
         "propositions": [
           "Pierre Agnes",
           "John Law",
           "Jeff Hakman",
           "Alan Green"
         ],
-        "réponse": "Pierre Agnes",
-        "anecdote": "Pierre Agnès había estado desaparecido desde el 30 de enero de 2018 después de un viaje en el mar frente a Capbreton, en las Landas."
+        "reponse": "Pierre Agnes",
+        "anecdote": "Pierre Agnes había estado desaparecido desde el 30 de enero de 2018 despues de un viaje en el mar frente a Capbreton, en las Landas."
       },
       {
         "id": 29,
-        "question": "¿Quién hizo el ruido después de su improvisado twerk en el cumpleaños de Neymar ?",
+        "question": "¿Quien hizo el ruido despues de su improvisado twerk en el cumpleaños de Neymar ?",
         "propositions": [
           "Izabel Goulart",
           "Julie Henderson",
           "Damaris Lewis",
           "Cintia Dicker"
         ],
-        "réponse": "Izabel Goulart",
+        "reponse": "Izabel Goulart",
         "anecdote": "En total, casi 250 invitados llenaron el lujoso Pavillon Cambon ubicado en el segundo distrito de París."
       },
       {
@@ -1504,36 +1504,36 @@
           "Sondra",
           "Sierra"
         ],
-        "réponse": "Stormi",
-        "anecdote": "Después de nueve meses de estar más que protegida, la joven de 20 años (finalmente) reveló el nombre de su bebé en Instagram."
+        "reponse": "Stormi",
+        "anecdote": "Despues de nueve meses de estar más que protegida, la joven de 20 años (finalmente) reveló el nombre de su bebe en Instagram."
       }
     ]
     },
     "it": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Chi è sempre stata madrina di Laetitia Hallyday ?",
+        "question": "Chi e sempre stata madrina di Laetitia Hallyday ?",
         "propositions": [
           "Brigitte Fontaine",
           "Annie Cordy",
           "Nana Mouskouri",
           "Linea Renaud"
         ],
-        "réponse": "Linea Renaud",
-        "anecdote": "È con grande emozione che Line Renaud è tornato domenica 4 febbraio 2018 alla scomparsa del suo figlioccio Johnny Hallyday."
+        "reponse": "Linea Renaud",
+        "anecdote": "È con grande emozione che Line Renaud e tornato domenica 4 febbraio 2018 alla scomparsa del suo figlioccio Johnny Hallyday."
       },
       {
         "id": 2,
         "question": "Quale artista ha reso omaggio a Justin Timberlake al Super Bowl 2018 ?",
         "propositions": [
-          "Michaël Jackson",
+          "Michaal Jackson",
           "John Lennon",
           "Prince",
           "Elvis Presley"
         ],
-        "réponse": "Prince",
-        "anecdote": "L'immagine del cantante Prince è stata proiettata su una tela mentre suonavano le note del titolo « I Would Die 4 U »."
+        "reponse": "Prince",
+        "anecdote": "L'immagine del cantante Prince e stata proiettata su una tela mentre suonavano le note del titolo « I Would Die 4 U »."
       },
       {
         "id": 3,
@@ -1544,20 +1544,20 @@
           "I loro 15 anni",
           "I loro 20 anni"
         ],
-        "réponse": "I loro 10 anni",
+        "reponse": "I loro 10 anni",
         "anecdote": "Molti anni dopo il loro matrimonio in un salone dell'Eliseo, il cantante e l'ex capo di stato sono ancora pazzi d'amore."
       },
       {
         "id": 4,
-        "question": "Quale famoso chef è stato premiato dalla guida Michelin 2018 ?",
+        "question": "Quale famoso chef e stato premiato dalla guida Michelin 2018 ?",
         "propositions": [
           "Philippe Etchebest",
           "Cyril Lignac",
           "Thierry Marx",
           "Costante cristiana"
         ],
-        "réponse": "Philippe Etchebest",
-        "anecdote": "Philippe Etchebest è stato premiato dall'edizione 2018 della famosa guida per il suo nuovo concetto gastronomico a Bordeaux."
+        "reponse": "Philippe Etchebest",
+        "anecdote": "Philippe Etchebest e stato premiato dall'edizione 2018 della famosa guida per il suo nuovo concetto gastronomico a Bordeaux."
       },
       {
         "id": 5,
@@ -1568,7 +1568,7 @@
           "Ashton Kutcher",
           "Christian Slater"
         ],
-        "réponse": "Ashton Kutcher",
+        "reponse": "Ashton Kutcher",
         "anecdote": "Ashton Kutcher ha iniziato il suo successo con il ruolo di Michael Kelso nella serie « That show anni '70 »."
       },
       {
@@ -1580,31 +1580,31 @@
           "Warren G",
           "Dr. Dre"
         ],
-        "réponse": "Snoop Dogg",
+        "reponse": "Snoop Dogg",
         "anecdote": "Il rapper ha già svelato alcuni titoli, una maniglia rispetto ai 32 che ha fornito il doppio album previsto per il 16 marzo."
       },
       {
         "id": 7,
-        "question": "Quale attore americano è definitivamente imbiancato nel caso del suicidio del suo compagno ?",
+        "question": "Quale attore americano e definitivamente imbiancato nel caso del suicidio del suo compagno ?",
         "propositions": [
           "Jim Carrey",
           "Danny DeVito",
           "Christian Bale",
           "Morgan Freeman"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "Era previsto che andasse in tribunale nell'aprile 2018 per omicidio imprudente su Cathriona White, deceduta il 28 settembre 2015."
       },
       {
         "id": 8,
-        "question": "Quale nuova regina di informazioni è riuscita lentamente a sostituire Claire Chazal ?",
+        "question": "Quale nuova regina di informazioni e riuscita lentamente a sostituire Claire Chazal ?",
         "propositions": [
           "Laurence Ferrari",
           "Anne-Claire Coudray",
           "Florence Shaal",
           "Caroline Henry"
         ],
-        "réponse": "Anne-Claire Coudray",
+        "reponse": "Anne-Claire Coudray",
         "anecdote": "Anne-Claire Coudray, giornalista e conduttrice delle notizie del fine settimana del TF1, ha celebrato il suo 41 ° compleanno il 1 ° febbraio 2018."
       },
       {
@@ -1616,7 +1616,7 @@
           "Jean Roucas",
           "Gerald Dahan"
         ],
-        "réponse": "Yves Lecoq",
+        "reponse": "Yves Lecoq",
         "anecdote": "Le telecamere di BFM TV che hanno raccolto le testimonianze degli immobilizzati sono state davvero sorprese di trovare Yves Lecoq."
       },
       {
@@ -1628,69 +1628,69 @@
           "Elton John",
           "Bruno Mars"
         ],
-        "réponse": "Elton John",
+        "reponse": "Elton John",
         "anecdote": "Molto atteso, questa unione reale ha spinto alcuni cittadini britannici a prendere decisioni talvolta radicali."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Quale ragazza nascosta di Claude François è emersa dall'ombra nel febbraio 2018 ?",
+        "question": "Quale ragazza nascosta di Claude Francois e emersa dall'ombra nel febbraio 2018 ?",
         "propositions": [
           "Alexia Scott",
           "Mazarine Pingeot",
           "Theresa Rogers",
           "Julie Bocquet"
         ],
-        "réponse": "Julie Bocquet",
-        "anecdote": "Julie, la figlia di Claude François, disse che questo segreto nascosto da tempo era difficile da indossare, anche per i suoi figli."
+        "reponse": "Julie Bocquet",
+        "anecdote": "Julie, la figlia di Claude Francois, disse che questo segreto nascosto da tempo era difficile da indossare, anche per i suoi figli."
       },
       {
         "id": 12,
-        "question": "Con quale ex comico e comico di Pascal Obispo Michael Youn è in coppia ?",
+        "question": "Con quale ex comico e comico di Pascal Obispo Michael Youn e in coppia ?",
         "propositions": [
           "Elsa Pataky",
           "Isabelle Furnaro",
           "Juliette Arnaud",
           "Firenze Foresti"
         ],
-        "réponse": "Isabelle Furnaro",
-        "anecdote": "Per più di 10 anni, il comico Michael Youn e il comico Isabelle Funaro hanno scritto insieme una bellissima storia d'amore."
+        "reponse": "Isabelle Furnaro",
+        "anecdote": "Per piu di 10 anni, il comico Michael Youn e il comico Isabelle Funaro hanno scritto insieme una bellissima storia d'amore."
       },
       {
         "id": 13,
-        "question": "Che compleanno è stato fatto l'adorabile Nabilla il 5 febbraio 2018 ?",
+        "question": "Che compleanno e stato fatto l'adorabile Nabilla il 5 febbraio 2018 ?",
         "propositions": [
           "I suoi 28 anni",
           "I suoi 30 anni",
           "I suoi 24 anni",
           "I suoi 26 anni"
         ],
-        "réponse": "I suoi 26 anni",
-        "anecdote": "La bella mora, che non è più un bimbo, ha festeggiato il suo compleanno con suo fratello Tarek e il suo ragazzo Thomas Vergara."
+        "reponse": "I suoi 26 anni",
+        "anecdote": "La bella mora, che non e piu un bimbo, ha festeggiato il suo compleanno con suo fratello Tarek e il suo ragazzo Thomas Vergara."
       },
       {
         "id": 14,
-        "question": "Con quale animatrice Isabelle Mergault si è quasi sposata durante una serata abbeverata ?",
+        "question": "Con quale animatrice Isabelle Mergault si e quasi sposata durante una serata abbeverata ?",
         "propositions": [
           "Julien Lepers",
           "Julien Courbet",
           "Thierry Beccaro",
           "Laurent Ruquier"
         ],
-        "réponse": "Laurent Ruquier",
+        "reponse": "Laurent Ruquier",
         "anecdote": "Gli amici di sempre vivevano nel momento in cui entrambi gli scacchi sentimentali incrociavano e affogavano il loro dolore armeggiando."
       },
       {
         "id": 15,
-        "question": "Quale attore della serie « Glee » è morto di asfissia dopo essere stato impiccato su un albero ?",
+        "question": "Quale attore della serie « Glee » e morto di asfissia dopo essere stato impiccato su un albero ?",
         "propositions": [
           "Mark Salling",
           "Chris Colfer",
           "Darren Criss",
           "Cory Monteith"
         ],
-        "réponse": "Mark Salling",
+        "reponse": "Mark Salling",
         "anecdote": "L'attore Mark Salling aveva già tentato il suicidio alcuni mesi fa tagliandosi le vene ai polsi."
       },
       {
@@ -1702,8 +1702,8 @@
           "Stephane Plaza",
           "Cyril Lignac"
         ],
-        "réponse": "JoeyStarr",
-        "anecdote": "La bella stella della zampa ed ex Lilian Thuram ha spiegato che qualunque cosa l'uomo con cui era, si è preso cura di lei."
+        "reponse": "JoeyStarr",
+        "anecdote": "La bella stella della zampa ed ex Lilian Thuram ha spiegato che qualunque cosa l'uomo con cui era, si e preso cura di lei."
       },
       {
         "id": 17,
@@ -1714,7 +1714,7 @@
           "Michel Onfray",
           "Mark Alizart"
         ],
-        "réponse": "Michel Onfray",
+        "reponse": "Michel Onfray",
         "anecdote": "Dalla sua stanza d'ospedale, tuttavia, il famoso filosofo ha dato notizie rassicuranti sul suo stato di salute."
       },
       {
@@ -1726,7 +1726,7 @@
           "Bruna Marquezine",
           "Paolla Oliveira"
         ],
-        "réponse": "Bruna Marquezine",
+        "reponse": "Bruna Marquezine",
         "anecdote": "Durante una serata organizzata da Vogue a San Paolo, in Brasile, Bruna ha fatto scalpore indossando un abito molto minimalista."
       },
       {
@@ -1738,7 +1738,7 @@
           "10 milioni",
           "40 milioni"
         ],
-        "réponse": "30 milioni",
+        "reponse": "30 milioni",
         "anecdote": "Chuck Norris ha intentato una causa presso la Corte Superiore di Los Angeles contro la CBS per diritti di estrazione non pagati."
       },
       {
@@ -1750,8 +1750,8 @@
           "Colin McFarlane",
           "Tom Hardy"
         ],
-        "réponse": "Tom Hardy",
-        "anecdote": "In una foto pubblicata su Instagram il 29 gennaio 2018, è stato visto un nuovo tatuaggio sul braccio di Tom Hardy."
+        "reponse": "Tom Hardy",
+        "anecdote": "In una foto pubblicata su Instagram il 29 gennaio 2018, e stato visto un nuovo tatuaggio sul braccio di Tom Hardy."
       }
     ],
     "expert": [
@@ -1764,19 +1764,19 @@
           "Halle Berry",
           "Helen Hunt"
         ],
-        "réponse": "Gillian Anderson",
+        "reponse": "Gillian Anderson",
         "anecdote": "Le persone si stanno allontanando dalle campagne anti-pelliccia che mostrano animali torturati, ma sono interessate alle campagne PETA."
       },
       {
         "id": 22,
-        "question": "Con chi Kylie Jenner è diventata una giovane madre il 1 ° febbraio 2018 ?",
+        "question": "Con chi Kylie Jenner e diventata una giovane madre il 1 ° febbraio 2018 ?",
         "propositions": [
           "Travis Scott",
           "Mike City",
           "Mike Dean",
           "John Fort ?"
         ],
-        "réponse": "Travis Scott",
+        "reponse": "Travis Scott",
         "anecdote": "Se la ventenne stessa ha annunciato la nascita del suo prestito, ha impiegato del tempo per rivelare il suo nome."
       },
       {
@@ -1788,7 +1788,7 @@
           "Bob Dylan",
           "Peter Gabriel"
         ],
-        "réponse": "Paul Simon",
+        "reponse": "Paul Simon",
         "anecdote": "In una dichiarazione, il cantante ed ex membro del duo Simon e Garfunkel ha dichiarato che avrebbe messo fine ai suoi tour."
       },
       {
@@ -1800,44 +1800,44 @@
           "Samir Nasri",
           "Olivier Giroud"
         ],
-        "réponse": "Adil Rami",
+        "reponse": "Adil Rami",
         "anecdote": "Dopo quasi un anno di amore con Adil Rami, Pamela Anderson aveva fatto il salto e si era stabilita con la sua compagna a Marsiglia."
       },
       {
         "id": 25,
-        "question": "Quale bel messicano, finora sconosciuto, è il doppio di Kourtney Kardashian ?",
+        "question": "Quale bel messicano, finora sconosciuto, e il doppio di Kourtney Kardashian ?",
         "propositions": [
           "Litzy Dominguez",
           "Lorena Rojas",
           "Daisy Gonzalez",
           "Sara Ramirez"
         ],
-        "réponse": "Daisy Gonzalez",
+        "reponse": "Daisy Gonzalez",
         "anecdote": "Con le sue sorelle Khloe e Kim, Kourtney ha lanciato diverse collezioni di abbigliamento, trucco e prodotti di bellezza."
       },
       {
         "id": 26,
-        "question": "In quale giorno di febbraio è stata celebrata la Giornata mondiale della Nutella ?",
+        "question": "In quale giorno di febbraio e stata celebrata la Giornata mondiale della Nutella ?",
         "propositions": [
           "20 febbraio",
           "15 febbraio",
           "5 febbraio",
           "10 febbraio"
         ],
-        "réponse": "5 febbraio",
-        "anecdote": "Sì, non stai sognando : la diffusione più famosa ha una sua festa, celebrata in tutto il mondo il 5 febbraio."
+        "reponse": "5 febbraio",
+        "anecdote": "Sì, non stai sognando : la diffusione piu famosa ha una sua festa, celebrata in tutto il mondo il 5 febbraio."
       },
       {
         "id": 27,
-        "question": "Quale figlia di Patrick Chêne si è unita al cast della serie televisiva « Tomorrow appartiene a noi » ?",
+        "question": "Quale figlia di Patrick Chene si e unita al cast della serie televisiva « Tomorrow appartiene a noi » ?",
         "propositions": [
           "Camille Chene",
           "Juliette Chene",
           "Sophie Chene",
           "Dorothee Chene"
         ],
-        "réponse": "Juliette Chene",
-        "anecdote": "Comica storica di « La vita più bella », Juliette Chene ha interpretato il ruolo di Juliette Fremont tra il 2004 e il 2008."
+        "reponse": "Juliette Chene",
+        "anecdote": "Comica storica di « La vita piu bella », Juliette Chene ha interpretato il ruolo di Juliette Fremont tra il 2004 e il 2008."
       },
       {
         "id": 28,
@@ -1848,8 +1848,8 @@
           "Pierre Agnes",
           "John Law"
         ],
-        "réponse": "Pierre Agnes",
-        "anecdote": "Pierre Agnès era scomparso dal 30 gennaio 2018 dopo un viaggio in mare al largo di Capbreton, nelle Landes."
+        "reponse": "Pierre Agnes",
+        "anecdote": "Pierre Agnes era scomparso dal 30 gennaio 2018 dopo un viaggio in mare al largo di Capbreton, nelle Landes."
       },
       {
         "id": 29,
@@ -1860,7 +1860,7 @@
           "Damaris Lewis",
           "Izabel Goulart"
         ],
-        "réponse": "Izabel Goulart",
+        "reponse": "Izabel Goulart",
         "anecdote": "In totale, quasi 250 ospiti hanno riempito il lussuoso Pavillon Cambon situato nel secondo arrondissement di Parigi."
       },
       {
@@ -1872,13 +1872,13 @@
           "Stormi",
           "Sierra"
         ],
-        "réponse": "Stormi",
-        "anecdote": "Dopo nove mesi di gravidanza più che protetta, la ventenne ha (finalmente) rivelato il nome del suo bambino su Instagram."
+        "reponse": "Stormi",
+        "anecdote": "Dopo nove mesi di gravidanza piu che protetta, la ventenne ha (finalmente) rivelato il nome del suo bambino su Instagram."
       }
     ]
     },
     "nl": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Wie is altijd meter geweest van Laetitia Hallyday ?",
@@ -1888,7 +1888,7 @@
           "Nana Mouskouri",
           "Lijn Renaud"
         ],
-        "réponse": "Lijn Renaud",
+        "reponse": "Lijn Renaud",
         "anecdote": "Met grote emotie keerde Line Renaud op zondag 4 februari 2018 terug na de verdwijning van zijn peetzoon Johnny Hallyday."
       },
       {
@@ -1897,10 +1897,10 @@
         "propositions": [
           "Elvis Presley",
           "John Lennon",
-          "Michaël Jackson",
+          "Michaal Jackson",
           "Prins"
         ],
-        "réponse": "Prins",
+        "reponse": "Prins",
         "anecdote": "Het beeld van zanger Prince werd op een doek geprojecteerd terwijl de tonen van de titel « I Would Die 4 U » klonken."
       },
       {
@@ -1912,7 +1912,7 @@
           "Hun 5 jaar",
           "Hun 15 jaar"
         ],
-        "réponse": "Hun 10 jaar",
+        "reponse": "Hun 10 jaar",
         "anecdote": "Vele jaren na hun huwelijk in een salon van de Elysee, zijn de zanger en het voormalige staatshoofd nog steeds even gek in de liefde."
       },
       {
@@ -1924,7 +1924,7 @@
           "Christian Constant",
           "Cyril Lignac"
         ],
-        "réponse": "Philippe Etchebest",
+        "reponse": "Philippe Etchebest",
         "anecdote": "Philippe Etchebest werd beloond met de 2018-editie van de beroemde gids voor zijn nieuwe gastronomische concept in Bordeaux."
       },
       {
@@ -1936,7 +1936,7 @@
           "Martin Sheen",
           "Bruce Willis"
         ],
-        "réponse": "Ashton Kutcher",
+        "reponse": "Ashton Kutcher",
         "anecdote": "Ashton Kutcher begon zijn succes met zijn rol als Michael Kelso in de serie « That '70s show »."
       },
       {
@@ -1948,7 +1948,7 @@
           "Warren G",
           "Dr. Dre"
         ],
-        "réponse": "Snoop Dogg",
+        "reponse": "Snoop Dogg",
         "anecdote": "De rapper heeft al enkele titels onthuld, een handvat vergeleken met de 32 die het dubbele album leverden dat op 16 maart werd verwacht."
       },
       {
@@ -1960,7 +1960,7 @@
           "Jim Carrey",
           "Danny DeVito"
         ],
-        "réponse": "Jim Carrey",
+        "reponse": "Jim Carrey",
         "anecdote": "Hij zou in april 2018 naar de rechtbank stappen wegens onvoorzichtige moord op Cathriona White, overleden op 28 september 2015."
       },
       {
@@ -1972,7 +1972,7 @@
           "Florence Shaal",
           "Anne-Claire Coudray"
         ],
-        "réponse": "Anne-Claire Coudray",
+        "reponse": "Anne-Claire Coudray",
         "anecdote": "Anne-Claire Coudray, journaliste en presentatrice van het TF1-weekendnieuws, vierde haar 41e verjaardag op 1 februari 2018."
       },
       {
@@ -1984,7 +1984,7 @@
           "Yves Lecoq",
           "Didier Gustin"
         ],
-        "réponse": "Yves Lecoq",
+        "reponse": "Yves Lecoq",
         "anecdote": "De camera's van BFM TV die de getuigenissen van de geïmmobiliseerde hebben verzameld, waren inderdaad verrast om Yves Lecoq te vinden."
       },
       {
@@ -1996,22 +1996,22 @@
           "Justin Bieber",
           "Bruno Mars"
         ],
-        "réponse": "Elton John",
+        "reponse": "Elton John",
         "anecdote": "Hoogst verwacht, heeft deze koninklijke unie enkele Britse onderdanen ertoe aangezet om soms radicale beslissingen te nemen."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Welk verborgen meisje van Claude François verscheen in februari 2018 uit de schaduw ?",
+        "question": "Welk verborgen meisje van Claude Francois verscheen in februari 2018 uit de schaduw ?",
         "propositions": [
           "Julie Bocquet",
           "Mazarine Pingeot",
           "Alexia Scott",
           "Theresa Rogers"
         ],
-        "réponse": "Julie Bocquet",
-        "anecdote": "Julie, de dochter van Claude François, zei dat dit lang verborgen geheim moeilijk te dragen was, zelfs voor haar kinderen."
+        "reponse": "Julie Bocquet",
+        "anecdote": "Julie, de dochter van Claude Francois, zei dat dit lang verborgen geheim moeilijk te dragen was, zelfs voor haar kinderen."
       },
       {
         "id": 12,
@@ -2022,7 +2022,7 @@
           "Isabelle Furnaro",
           "Elsa Pataky"
         ],
-        "réponse": "Isabelle Furnaro",
+        "reponse": "Isabelle Furnaro",
         "anecdote": "Al meer dan 10 jaar schrijven komiek Michael Youn en cabaretier Isabelle Funaro samen een prachtig liefdesverhaal."
       },
       {
@@ -2034,7 +2034,7 @@
           "Zijn 30 jaar",
           "Zijn 28 jaar"
         ],
-        "réponse": "Zijn 26 jaar",
+        "reponse": "Zijn 26 jaar",
         "anecdote": "De mooie brunette, die niet langer een bimbo is, vierde haar verjaardag met haar broer Tarek en zijn vriend Thomas Vergara."
       },
       {
@@ -2046,7 +2046,7 @@
           "Julien Courbet",
           "Laurent Ruquier"
         ],
-        "réponse": "Laurent Ruquier",
+        "reponse": "Laurent Ruquier",
         "anecdote": "De vrienden van altijd leefden op het moment dat beide sentimenteel schaken elkaar kruisten en hun verdriet verdronken door te knutselen."
       },
       {
@@ -2058,7 +2058,7 @@
           "Cory Monteith",
           "Chris Colfer"
         ],
-        "réponse": "Mark Salling",
+        "reponse": "Mark Salling",
         "anecdote": "Acteur Mark Salling had een paar maanden geleden al een zelfmoordpoging gedaan door zijn aderen bij de polsen door te snijden."
       },
       {
@@ -2070,7 +2070,7 @@
           "Cyril Lignac",
           "Laurent Boyer"
         ],
-        "réponse": "JoeyStarr",
+        "reponse": "JoeyStarr",
         "anecdote": "De mooie ster van de paf en ex Lilian Thuram legde uit dat ongeacht de man met wie ze was, hij voor haar zorgde."
       },
       {
@@ -2082,20 +2082,20 @@
           "Mark Alizart",
           "Michel Onfray"
         ],
-        "réponse": "Michel Onfray",
+        "reponse": "Michel Onfray",
         "anecdote": "Vanuit zijn ziekenhuiskamer heeft de beroemde filosoof echter geruststellend nieuws gegeven over zijn gezondheidstoestand."
       },
       {
         "id": 18,
-        "question": "Welke metgezel van voetballer Neymar heeft alle ogen in Brazilië getrokken ?",
+        "question": "Welke metgezel van voetballer Neymar heeft alle ogen in Brazilia getrokken ?",
         "propositions": [
           "Bruna Marquezine",
           "Tania Khalill",
           "Bianca Bin",
           "Paolla Oliveira"
         ],
-        "réponse": "Bruna Marquezine",
-        "anecdote": "Tijdens een avond georganiseerd door Vogue in Sao Paulo, Brazilië, veroorzaakte Bruna een sensatie door een zeer minimalistische outfit te dragen."
+        "reponse": "Bruna Marquezine",
+        "anecdote": "Tijdens een avond georganiseerd door Vogue in Sao Paulo, Brazilia, veroorzaakte Bruna een sensatie door een zeer minimalistische outfit te dragen."
       },
       {
         "id": 19,
@@ -2106,7 +2106,7 @@
           "20 miljoen",
           "10 miljoen"
         ],
-        "réponse": "30 miljoen",
+        "reponse": "30 miljoen",
         "anecdote": "Chuck Norris heeft bij het Los Angeles Superior Court een rechtszaak aangespannen tegen CBS wegens onbetaalde mijnbouwrechten."
       },
       {
@@ -2118,7 +2118,7 @@
           "John Nolan",
           "Glenn Ford"
         ],
-        "réponse": "Tom Hardy",
+        "reponse": "Tom Hardy",
         "anecdote": "Op een foto geplaatst op Instagram op 29 januari 2018, werd een nieuwe tatoeage op de arm van Tom Hardy gezien."
       }
     ],
@@ -2132,7 +2132,7 @@
           "Halle Berry",
           "Gillian Anderson"
         ],
-        "réponse": "Gillian Anderson",
+        "reponse": "Gillian Anderson",
         "anecdote": "Mensen keren zich af van anti-bont campagnes met gemartelde dieren, maar zijn geïnteresseerd in de campagnes van PETA."
       },
       {
@@ -2144,7 +2144,7 @@
           "John Fort ?",
           "Travis Scott"
         ],
-        "réponse": "Travis Scott",
+        "reponse": "Travis Scott",
         "anecdote": "Als de 20-jarige zelf de geboorte van haar lening aankondigde, nam ze de tijd om haar naam te onthullen."
       },
       {
@@ -2156,7 +2156,7 @@
           "Peter Gabriel",
           "Keith Jarrett"
         ],
-        "réponse": "Paul Simon",
+        "reponse": "Paul Simon",
         "anecdote": "In een verklaring zeiden de zanger en voormalig lid van het duo Simon en Garfunkel dat hij een einde maakte aan zijn tours."
       },
       {
@@ -2168,7 +2168,7 @@
           "Samir Nasri",
           "Olivier Giroud"
         ],
-        "réponse": "Adil Rami",
+        "reponse": "Adil Rami",
         "anecdote": "Na bijna een jaar van liefde met Adil Rami had Pamela Anderson de sprong gewaagd en zich met haar metgezel in Marseille gevestigd."
       },
       {
@@ -2180,7 +2180,7 @@
           "Daisy Gonzalez",
           "Lorena Rojas"
         ],
-        "réponse": "Daisy Gonzalez",
+        "reponse": "Daisy Gonzalez",
         "anecdote": "Met haar zussen Khloe en Kim heeft Kourtney verschillende collecties kleding, make-up en schoonheidsproducten gelanceerd."
       },
       {
@@ -2192,19 +2192,19 @@
           "15 februari",
           "10 februari"
         ],
-        "réponse": "5 februari",
+        "reponse": "5 februari",
         "anecdote": "Ja, je droomt niet : de beroemdste spread heeft zijn eigen feest, gevierd over de hele wereld op 5 februari."
       },
       {
         "id": 27,
-        "question": "Welke dochter van Patrick Chêne heeft zich aangesloten bij de cast van de televisieserie « Tomorrow hoort bij ons » ?",
+        "question": "Welke dochter van Patrick Chene heeft zich aangesloten bij de cast van de televisieserie « Tomorrow hoort bij ons » ?",
         "propositions": [
           "Sophie Chene",
           "Camille Chene",
           "Dorothee Chene",
           "Juliette Chene"
         ],
-        "réponse": "Juliette Chene",
+        "reponse": "Juliette Chene",
         "anecdote": "Als historische komiek van « Mooiste leven » speelde Juliette Chene de rol van Juliette Fremont tussen 2004 en 2008."
       },
       {
@@ -2216,8 +2216,8 @@
           "Alan Green",
           "Jeff Hakman"
         ],
-        "réponse": "Pierre Agnes",
-        "anecdote": "Pierre Agnès werd sinds 30 januari 2018 vermist na een reis op zee voor Capbreton, in de Landes."
+        "reponse": "Pierre Agnes",
+        "anecdote": "Pierre Agnes werd sinds 30 januari 2018 vermist na een reis op zee voor Capbreton, in de Landes."
       },
       {
         "id": 29,
@@ -2228,7 +2228,7 @@
           "Damaris Lewis",
           "Cintia Dicker"
         ],
-        "réponse": "Izabel Goulart",
+        "reponse": "Izabel Goulart",
         "anecdote": "In totaal vulden bijna 250 gasten het luxueuze Pavillon Cambon in het tweede arrondissement van Parijs."
       },
       {
@@ -2240,7 +2240,7 @@
           "Sondra",
           "Sierra"
         ],
-        "réponse": "Stormi",
+        "reponse": "Stormi",
         "anecdote": "Na negen maanden zwanger meer dan beschermd te zijn, heeft de 20-jarige (eindelijk) de naam van haar baby op Instagram onthuld."
       }
     ]

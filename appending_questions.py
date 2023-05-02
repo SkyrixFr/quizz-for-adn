@@ -8,6 +8,7 @@ def get_questions():
     end_number = 280  # Update this to the last file number in your sequence
 
     questions = []
+    reponses=[]
 
     total = 0
     # Iterate over the range of file numbers using a for loop
@@ -23,13 +24,19 @@ def get_questions():
                 try:
                     for i in range(0, 8000):
                         #print(str(json_data["quizz"]["fr"]["débutant"][i]["question"]))
-                        questions.append(str(json_data["quizz"]["fr"]["débutant"][i]["question"]))
+                        questions.append(str(json_data["quizz"]["fr"]["debutant"][i]["question"]))
+                        reponses.append(json_data["quizz"]["fr"]["debutant"][i]["propositions"])
                         total+=1
 
                 except IndexError:
                     total-=1
                     pass
 
+
+        except FileNotFoundError:
+            pass
+    return (questions,reponses)
+"""
                 try:
                     for i in range(0, 8000):
                         #print(str(json_data["quizz"]["fr"]["débutant"][i]["question"]))
@@ -49,7 +56,4 @@ def get_questions():
                 except IndexError:
                     total-=1
                     pass
-
-        except FileNotFoundError:
-            pass
-    return questions
+"""

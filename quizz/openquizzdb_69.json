@@ -1,91 +1,91 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "5 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "5 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Arts",
+      "categorie": "Arts",
       "nom": "Sculpture",
       "slogan": "Voie royale pour connaître le monde"
     },
     "en": {
-      "catégorie": "Arts",
+      "categorie": "Arts",
       "nom": "Carving",
       "slogan": "Royal way to know the world"
     },
     "es": {
-      "catégorie": "Letras",
+      "categorie": "Letras",
       "nom": "Tallado",
       "slogan": "Manera real de conocer el mundo"
     },
     "it": {
-      "catégorie": "Arts",
+      "categorie": "Arts",
       "nom": "Intaglio",
       "slogan": "Modo reale per conoscere il mondo"
     },
     "de": {
-      "catégorie": "Kunst",
+      "categorie": "Kunst",
       "nom": "Schnitzen",
       "slogan": "Königliche Art, die Welt kennenzulernen"
     },
     "nl": {
-      "catégorie": "Kunst",
+      "categorie": "Kunst",
       "nom": "Carving",
       "slogan": "Koninklijke manier om de wereld te leren kennen"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Qui a sculpté avec Tribolo et Montelupo les tombeaux des Médicis à Florence ?",
+        "question": "Qui a sculpte avec Tribolo et Montelupo les tombeaux des Medicis à Florence ?",
         "propositions": [
           "Michel-Ange",
           "Vicentino",
-          "Raphaël",
+          "Raphaal",
           "Donatello"
         ],
-        "réponse": "Michel-Ange",
-        "anecdote": "Les tombeaux des Médicis sont deux monuments de la « Nouvelle Sacristie » élaborée à l'intérieur des Chapelles des Médicis."
+        "reponse": "Michel-Ange",
+        "anecdote": "Les tombeaux des Medicis sont deux monuments de la « Nouvelle Sacristie » elaboree à l'interieur des Chapelles des Medicis."
       },
       {
         "id": 2,
-        "question": "Où peut-on voir la « Victoire de Samothrace », sculpture grecque de l'époque hellénistique ?",
+        "question": "Ou peut-on voir la « Victoire de Samothrace », sculpture grecque de l'epoque hellenistique ?",
         "propositions": [
           "Metro Museum",
           "Centre Pompidou",
           "Tate Gallery",
-          "Musée du Louvre"
+          "Musee du Louvre"
         ],
-        "réponse": "Musée du Louvre",
-        "anecdote": "La « Victoire de Samothrace » est une sculpture grecque représentant la déesse Niké, personnification de la victoire."
+        "reponse": "Musee du Louvre",
+        "anecdote": "La « Victoire de Samothrace » est une sculpture grecque representant la deesse Nike, personnification de la victoire."
       },
       {
         "id": 3,
-        "question": "Dans quelle ville de la côte belge trouve-t-on une célèbre statue de Léopold Ier ?",
+        "question": "Dans quelle ville de la côte belge trouve-t-on une celebre statue de Leopold Ier ?",
         "propositions": [
           "Coxyde",
           "Nieuwport",
           "Blankenberge",
           "La Panne"
         ],
-        "réponse": "La Panne",
+        "reponse": "La Panne",
         "anecdote": "C'est là que le premier roi des belges mit le pied sur « ses » terres en juillet 1831."
       },
       {
         "id": 4,
-        "question": "Que représente la sculpture de Marcel Duchamp « Fontaine », signée R. Mutt ?",
+        "question": "Que represente la sculpture de Marcel Duchamp « Fontaine », signee R. Mutt ?",
         "propositions": [
           "Urinoir",
           "Fontaine",
           "Cascade",
           "Vase"
         ],
-        "réponse": "Urinoir",
-        "anecdote": "Oeuvre controversée de l'art du XXe siècle, « Fontaine » est un ready made, c'est-à-dire un « objet tout fait »."
+        "reponse": "Urinoir",
+        "anecdote": "Oeuvre controversee de l'art du XXe siecle, « Fontaine » est un ready made, c'est-à-dire un « objet tout fait »."
       },
       {
         "id": 5,
@@ -96,178 +96,178 @@
           "Alexandre",
           "David"
         ],
-        "réponse": "David",
-        "anecdote": "La statue de 4.34 mètres de hauteur est tirée d'un bloc de marbre blanc de Carrare."
+        "reponse": "David",
+        "anecdote": "La statue de 4.34 metres de hauteur est tiree d'un bloc de marbre blanc de Carrare."
       },
       {
         "id": 6,
-        "question": "Quel français est le créateur de la statue de la liberté de New York ?",
+        "question": "Quel francais est le createur de la statue de la liberte de New York ?",
         "propositions": [
           "Antoine Bourdelle",
           "Auguste Bartholdi",
           "Anatole Guillot",
           "Joseph Desbrosses"
         ],
-        "réponse": "Auguste Bartholdi",
-        "anecdote": "Il est aussi l'auteur de la Fontaine Bartholdi, située Place des Terreaux à Lyon."
+        "reponse": "Auguste Bartholdi",
+        "anecdote": "Il est aussi l'auteur de la Fontaine Bartholdi, situee Place des Terreaux à Lyon."
       },
       {
         "id": 7,
-        "question": "Dans quel musée vous trouvez-vous si vous contemplez la Vénus de Milo ?",
+        "question": "Dans quel musee vous trouvez-vous si vous contemplez la Venus de Milo ?",
         "propositions": [
-          "Musée Rodin",
-          "Musée Hébert",
-          "Musée du Louvre",
-          "Musée Magnin"
+          "Musee Rodin",
+          "Musee Hebert",
+          "Musee du Louvre",
+          "Musee Magnin"
         ],
-        "réponse": "Musée du Louvre",
-        "anecdote": "Le buste de la statue a été mis au jour le 8 avril 1820 à Milo, une île de la mer Égée."
+        "reponse": "Musee du Louvre",
+        "anecdote": "Le buste de la statue a ete mis au jour le 8 avril 1820 à Milo, une île de la mer Égee."
       },
       {
         "id": 8,
-        "question": "Dans quel musée français peut-on admirer la « Victoire de Samothrace » ?",
+        "question": "Dans quel musee francais peut-on admirer la « Victoire de Samothrace » ?",
         "propositions": [
-          "Musée du Louvre",
-          "Musée d'Orsay",
-          "Musée Rodin",
-          "Musée Picasso"
+          "Musee du Louvre",
+          "Musee d'Orsay",
+          "Musee Rodin",
+          "Musee Picasso"
         ],
-        "réponse": "Musée du Louvre",
-        "anecdote": "Cette sculpture grecque représente la déesse Niké, personnification de la victoire."
+        "reponse": "Musee du Louvre",
+        "anecdote": "Cette sculpture grecque represente la deesse Nike, personnification de la victoire."
       },
       {
         "id": 9,
-        "question": "À quel sculpteur doit-on un désormais célèbre baiser, exposé dans un musée parisien ?",
+        "question": "À quel sculpteur doit-on un desormais celebre baiser, expose dans un musee parisien ?",
         "propositions": [
           "Choppin",
           "Rodin",
           "Lenoir",
           "Moreau"
         ],
-        "réponse": "Rodin",
-        "anecdote": "« Le Baiser » de Rodin est une sculpture en marbre représentant un couple enlacé réalisée à l'échelle 1."
+        "reponse": "Rodin",
+        "anecdote": "« Le Baiser » de Rodin est une sculpture en marbre representant un couple enlace realisee à l'echelle 1."
       },
       {
         "id": 10,
-        "question": "Dans quelle ville belge trouve-t-on près du beffroi une statue de Christine de Lalaing ?",
+        "question": "Dans quelle ville belge trouve-t-on pres du beffroi une statue de Christine de Lalaing ?",
         "propositions": [
           "Tournai",
           "Mons",
           "Bruxelles",
-          "Liège"
+          "Liege"
         ],
-        "réponse": "Tournai",
-        "anecdote": "En l'absence de son mari, elle défendit la ville de Tournai contre le prince de Parme."
+        "reponse": "Tournai",
+        "anecdote": "En l'absence de son mari, elle defendit la ville de Tournai contre le prince de Parme."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Dans quel type de sculpture le français Auguste Cain était-il spécialisé ?",
+        "question": "Dans quel type de sculpture le francais Auguste Cain etait-il specialise ?",
         "propositions": [
           "Monumentale",
-          "Funéraire",
+          "Funeraire",
           "Architecturale",
-          "Animalière"
+          "Animaliere"
         ],
-        "réponse": "Animalière",
-        "anecdote": "À partir des années 1860, Auguste Cain commencera à recevoir des commandes officielles."
+        "reponse": "Animaliere",
+        "anecdote": "À partir des annees 1860, Auguste Cain commencera à recevoir des commandes officielles."
       },
       {
         "id": 12,
-        "question": "Quel célèbre sculpteur a participé à la construction du Parthénon ?",
+        "question": "Quel celebre sculpteur a participe à la construction du Parthenon ?",
         "propositions": [
           "Phidias",
           "Elias",
           "Rodin",
           "Galidias"
         ],
-        "réponse": "Phidias",
-        "anecdote": "Phidias sera choisi par Périclès pour superviser l'ensemble des travaux de sculpture."
+        "reponse": "Phidias",
+        "anecdote": "Phidias sera choisi par Pericles pour superviser l'ensemble des travaux de sculpture."
       },
       {
         "id": 13,
-        "question": "De combien de personnages est composée la sculpture de Rodin « Les Bourgeois de Calais » ?",
+        "question": "De combien de personnages est composee la sculpture de Rodin « Les Bourgeois de Calais » ?",
         "propositions": [
           "Dix",
           "Six",
           "Quatre",
           "Deux"
         ],
-        "réponse": "Six",
-        "anecdote": "Le plâtre original achevé en 1889 a été édité en onze autres exemplaires en bronze."
+        "reponse": "Six",
+        "anecdote": "Le platre original acheve en 1889 a ete edite en onze autres exemplaires en bronze."
       },
       {
         "id": 14,
-        "question": "Quel monument fait de blocs de grès roses se trouve dans la ville de Belfort ?",
+        "question": "Quel monument fait de blocs de gres roses se trouve dans la ville de Belfort ?",
         "propositions": [
-          "Les Trois-Sièges",
+          "Les Trois-Sieges",
           "Lion de Belfort",
           "Tour de la Miotte",
           "Porte de Brisach"
         ],
-        "réponse": "Lion de Belfort",
-        "anecdote": "La sculpture représente un lion couché et blessé prêt à se dresser qui repose sur un piédestal en rocaillage."
+        "reponse": "Lion de Belfort",
+        "anecdote": "La sculpture represente un lion couche et blesse pret à se dresser qui repose sur un piedestal en rocaillage."
       },
       {
         "id": 15,
-        "question": "À quel sculpteur doit-on la statue équestre de Vercingétorix située à Clermont-Ferrand ?",
+        "question": "À quel sculpteur doit-on la statue equestre de Vercingetorix situee à Clermont-Ferrand ?",
         "propositions": [
           "Antoine Bourdelle",
           "Auguste Bartholdi",
           "Jean Baffier",
-          "Honoré Daumier"
+          "Honore Daumier"
         ],
-        "réponse": "Auguste Bartholdi",
-        "anecdote": "Cette statue fait face à la statue du général Desaix, sur la place de Jaude."
+        "reponse": "Auguste Bartholdi",
+        "anecdote": "Cette statue fait face à la statue du general Desaix, sur la place de Jaude."
       },
       {
         "id": 16,
-        "question": "Quel artiste suisse du XXe siècle connaît-on surtout pour ses sculptures longilignes ?",
+        "question": "Quel artiste suisse du XXe siecle connaît-on surtout pour ses sculptures longilignes ?",
         "propositions": [
           "Robert Hainard",
           "Heinz Schwartz",
           "Martin Gramp",
           "Alberto Giacometti"
         ],
-        "réponse": "Alberto Giacometti",
-        "anecdote": "À la fin de sa vie, Giacometti sera comblé d'honneurs en remportant de nombreux prix."
+        "reponse": "Alberto Giacometti",
+        "anecdote": "À la fin de sa vie, Giacometti sera comble d'honneurs en remportant de nombreux prix."
       },
       {
         "id": 17,
         "question": "Quelle est la hauteur, sans le socle, du « David » de Michel-Ange ?",
         "propositions": [
-          "4.34 mètres",
-          "6.84 mètres",
-          "3.26 mètres",
-          "5.67 mètres"
+          "4.34 metres",
+          "6.84 metres",
+          "3.26 metres",
+          "5.67 metres"
         ],
-        "réponse": "4.34 mètres",
-        "anecdote": "Michel-Ange a représenté David, une fronde à la main, avant son combat contre Goliath."
+        "reponse": "4.34 metres",
+        "anecdote": "Michel-Ange a represente David, une fronde à la main, avant son combat contre Goliath."
       },
       {
         "id": 18,
         "question": "À quel sculpteur doit-on le Lion de Belfort, sculpture monumentale en ronde-bosse ?",
         "propositions": [
           "Antoine Bourdelle",
-          "Honoré Daumier",
+          "Honore Daumier",
           "Auguste Bartholdi",
-          "Félix Charpentier"
+          "Felix Charpentier"
         ],
-        "réponse": "Auguste Bartholdi",
-        "anecdote": "Longue de 22 mètres, la sculpture est constituée de blocs de grès rose de Pérouse, sculptés individuellement."
+        "reponse": "Auguste Bartholdi",
+        "anecdote": "Longue de 22 metres, la sculpture est constituee de blocs de gres rose de Perouse, sculptes individuellement."
       },
       {
         "id": 19,
-        "question": "Quel graveur monégasque fut le sculpteur officiel de Napoléon 1er ?",
+        "question": "Quel graveur monegasque fut le sculpteur officiel de Napoleon 1er ?",
         "propositions": [
           "Bosio",
           "Pisano",
           "Le Bernin",
           "Houdon"
         ],
-        "réponse": "Bosio",
-        "anecdote": "François-Joseph Bosio fut recruté par Vivant Denon en 1808 pour être le portraitiste de Napoléon Ier."
+        "reponse": "Bosio",
+        "anecdote": "Francois-Joseph Bosio fut recrute par Vivant Denon en 1808 pour etre le portraitiste de Napoleon Ier."
       },
       {
         "id": 20,
@@ -278,130 +278,130 @@
           "Myron",
           "Phidias"
         ],
-        "réponse": "Myron",
-        "anecdote": "Pline l'Ancien dira de Myron qu'il est « plus fécond » que son rival Polyclète."
+        "reponse": "Myron",
+        "anecdote": "Pline l'Ancien dira de Myron qu'il est « plus fecond » que son rival Polyclete."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quelle était la nationalité du sculpteur et peintre Alberto Giacometti ?",
+        "question": "Quelle etait la nationalite du sculpteur et peintre Alberto Giacometti ?",
         "propositions": [
           "Portugaise",
           "Italienne",
           "Argentine",
           "Suisse"
         ],
-        "réponse": "Suisse",
-        "anecdote": "À la fin de sa vie, Giacometti a dénié à ses objets la moindre valeur, pourtant vendus aujourd'hui à plusieurs millions d'euros."
+        "reponse": "Suisse",
+        "anecdote": "À la fin de sa vie, Giacometti a denie à ses objets la moindre valeur, pourtant vendus aujourd'hui à plusieurs millions d'euros."
       },
       {
         "id": 22,
-        "question": "Quel sculpteur français est considéré comme un pionnier de la sculpture animalière ?",
+        "question": "Quel sculpteur francais est considere comme un pionnier de la sculpture animaliere ?",
         "propositions": [
           "Serge Mangin",
-          "Léon-Ernest Drivier",
+          "Leon-Ernest Drivier",
           "Raymond Martin",
-          "Pierre Jules Mène"
+          "Pierre Jules Mene"
         ],
-        "réponse": "Pierre Jules Mène",
-        "anecdote": "Il a produit de nombreuses sculptures particulièrement en vogue sous le second empire."
+        "reponse": "Pierre Jules Mene",
+        "anecdote": "Il a produit de nombreuses sculptures particulierement en vogue sous le second empire."
       },
       {
         "id": 23,
-        "question": "Quelles statues grecques, datant de la période archaïque, représentent des hommes nus ?",
+        "question": "Quelles statues grecques, datant de la periode archaïque, representent des hommes nus ?",
         "propositions": [
           "Des kouroï",
-          "Des éphèbes",
+          "Des ephebes",
           "Des kores",
           "Des callypiges"
         ],
-        "réponse": "Des kouroï",
-        "anecdote": "Les kouroi, aux visages montrant l'influence de la Crète, sont toujours nus, portant tout au plus une ceinture et parfois des bottes."
+        "reponse": "Des kouroï",
+        "anecdote": "Les kouroi, aux visages montrant l'influence de la Crete, sont toujours nus, portant tout au plus une ceinture et parfois des bottes."
       },
       {
         "id": 24,
-        "question": "Quelle technique de sculpture est observable de tous les côtés ?",
+        "question": "Quelle technique de sculpture est observable de tous les côtes ?",
         "propositions": [
           "La grande entaille",
           "Le relief pictural",
           "La ronde-bosse",
           "Le haut relief"
         ],
-        "réponse": "La ronde-bosse",
-        "anecdote": "Ce type de sculpture est le plus souvent utilisé pour des représentations figuratives."
+        "reponse": "La ronde-bosse",
+        "anecdote": "Ce type de sculpture est le plus souvent utilise pour des representations figuratives."
       },
       {
         "id": 25,
-        "question": "Quel artiste a décoré une fontaine à côté du centre Beaubourg, à Paris ?",
+        "question": "Quel artiste a decore une fontaine à côte du centre Beaubourg, à Paris ?",
         "propositions": [
           "Jean Tinguely",
           "David Smith",
           "Pol Bury",
           "Charles Despiau"
         ],
-        "réponse": "Jean Tinguely",
-        "anecdote": "La fontaine Stravinski évoque l'oeuvre musicale du compositeur russe Stravinski."
+        "reponse": "Jean Tinguely",
+        "anecdote": "La fontaine Stravinski evoque l'oeuvre musicale du compositeur russe Stravinski."
       },
       {
         "id": 26,
-        "question": "Dans quelle ville belge peut-on admirer une statue du soldat légendaire Silvius Brabo ?",
+        "question": "Dans quelle ville belge peut-on admirer une statue du soldat legendaire Silvius Brabo ?",
         "propositions": [
           "Namur",
           "Bruxelles",
           "Anvers",
           "Bastogne"
         ],
-        "réponse": "Anvers",
-        "anecdote": "La statue de Silvius Brabo brandissant et jetant la main d'Antigone est située sur la Grand-Place d'Anvers."
+        "reponse": "Anvers",
+        "anecdote": "La statue de Silvius Brabo brandissant et jetant la main d'Antigone est situee sur la Grand-Place d'Anvers."
       },
       {
         "id": 27,
-        "question": "Qui a réalisé « Le Passe-muraille », statue installée devant la maison où habitait Marcel Aymé ?",
+        "question": "Qui a realise « Le Passe-muraille », statue installee devant la maison ou habitait Marcel Ayme ?",
         "propositions": [
           "Antoine Blondin",
-          "Jacques Prévert",
+          "Jacques Prevert",
           "Aragon",
           "Jean Marais"
         ],
-        "réponse": "Jean Marais",
-        "anecdote": "Jean Marais est enterré dans le petit cimetière de Vallauris, la ville des potiers, où il a passé les dernières années de sa vie."
+        "reponse": "Jean Marais",
+        "anecdote": "Jean Marais est enterre dans le petit cimetiere de Vallauris, la ville des potiers, ou il a passe les dernieres annees de sa vie."
       },
       {
         "id": 28,
-        "question": "Quel sculpteur français a mis au point une technique de moulage du verre au XIXe siècle ?",
+        "question": "Quel sculpteur francais a mis au point une technique de moulage du verre au XIXe siecle ?",
         "propositions": [
           "Jules Coutan",
           "Henry Cros",
           "Louis Convers",
           "Pierre Curillon"
         ],
-        "réponse": "Henry Cros",
-        "anecdote": "Henry Cros a suivi l'enseignement des sculpteurs François Jouffroy et Antoine Étex et du peintre Jules Valadon."
+        "reponse": "Henry Cros",
+        "anecdote": "Henry Cros a suivi l'enseignement des sculpteurs Francois Jouffroy et Antoine Étex et du peintre Jules Valadon."
       },
       {
         "id": 29,
         "question": "Quelle sculpture de Gian Lorenzo Bernini, dit Le Bernin, se trouve à Londres ?",
         "propositions": [
           "Fontaine du Triton",
-          "Apollon et Daphné",
+          "Apollon et Daphne",
           "Neptune et Triton",
           "Rapt de Prosperine"
         ],
-        "réponse": "Neptune et Triton",
-        "anecdote": "L'art de Le Bernin, typiquement baroque, est caractérisé par la recherche du mouvement et des effets d'illusion."
+        "reponse": "Neptune et Triton",
+        "anecdote": "L'art de Le Bernin, typiquement baroque, est caracterise par la recherche du mouvement et des effets d'illusion."
       },
       {
         "id": 30,
-        "question": "Quel sculpteur, aimé de Louis XIV, a beaucoup travaillé pour le château de Versailles ?",
+        "question": "Quel sculpteur, aime de Louis XIV, a beaucoup travaille pour le chateau de Versailles ?",
         "propositions": [
           "Thomas Boudin",
           "Gervais Drouet",
           "Thibaud Maistrier",
           "Antoine Coysevox"
         ],
-        "réponse": "Antoine Coysevox",
-        "anecdote": "Antoine Coysevox fut le décorateur du célèbre navire de guerre « le Soleil royal »."
+        "reponse": "Antoine Coysevox",
+        "anecdote": "Antoine Coysevox fut le decorateur du celebre navire de guerre « le Soleil royal »."
       }
     ]
     }

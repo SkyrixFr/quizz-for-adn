@@ -1,249 +1,249 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "3 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "3 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
+      "categorie": "Celebrites",
       "nom": "Potins de stars 2014",
-      "slogan": "Ils ont fait l'actualité"
+      "slogan": "Ils ont fait l'actualite"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "Celebrity gossip 2014",
       "slogan": "They made the news"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Chismes de celebridades 2014",
       "slogan": "Fueron noticia"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Gossip sulle celebrità 2014",
       "slogan": "Hanno fatto notizia"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Promi-Klatsch 2014",
       "slogan": "Sie machten die Nachrichten"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Roddels over beroemdheden 2014",
       "slogan": "Ze haalden het nieuws"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Quel acteur australien a été sacré « homme le plus sexy de 2014 » par le magazine « People » ?",
+        "question": "Quel acteur australien a ete sacre « homme le plus sexy de 2014 » par le magazine « People » ?",
         "propositions": [
           "Brad Pitt",
           "Chris Hemsworth",
           "Hugh Jackman",
           "Tom Cruise"
         ],
-        "réponse": "Chris Hemsworth",
-        "anecdote": "Chris Hemsworth est mondialement reconnu grâce à l'interprétation du super-héros Thor dans les films Marvel."
+        "reponse": "Chris Hemsworth",
+        "anecdote": "Chris Hemsworth est mondialement reconnu grace à l'interpretation du super-heros Thor dans les films Marvel."
       },
       {
         "id": 2,
-        "question": "Quel anniversaire de carrière l'humoriste Gad Elmaleh a-t-il fêté à Paris fin 2014 ?",
+        "question": "Quel anniversaire de carriere l'humoriste Gad Elmaleh a-t-il fete à Paris fin 2014 ?",
         "propositions": [
           "Ses 20 ans",
           "Ses 30 ans",
           "Ses 15 ans",
           "Ses 25 ans"
         ],
-        "réponse": "Ses 20 ans",
-        "anecdote": "Gad Elmaleh est devenu la « risée du web » selon « Le Nouvel Observateur » suite à ses spots publicitaires pour la banque LCL."
+        "reponse": "Ses 20 ans",
+        "anecdote": "Gad Elmaleh est devenu la « risee du web » selon « Le Nouvel Observateur » suite à ses spots publicitaires pour la banque LCL."
       },
       {
         "id": 3,
-        "question": "Qui a remporté la saison 4 de « Danse avec les stars » avec son danseur Grégoire Lyonnet ?",
+        "question": "Qui a remporte la saison 4 de « Danse avec les stars » avec son danseur Gregoire Lyonnet ?",
         "propositions": [
-          "Alizée",
+          "Alizee",
           "Tal",
           "Shy'm",
           "Lorie"
         ],
-        "réponse": "Alizée",
-        "anecdote": "Après cette victoire, Alizée sort en juin 2014 un sixième album intitulé « Blonde », réalisé en collaboration avec Pascal Obispo."
+        "reponse": "Alizee",
+        "anecdote": "Apres cette victoire, Alizee sort en juin 2014 un sixieme album intitule « Blonde », realise en collaboration avec Pascal Obispo."
       },
       {
         "id": 4,
-        "question": "Dans quelle comédie musicale Matthieu Tota dit M. Pokora a-t-il chanté ?",
+        "question": "Dans quelle comedie musicale Matthieu Tota dit M. Pokora a-t-il chante ?",
         "propositions": [
           "Robin des Bois",
-          "Roméo et Juliette",
+          "Romeo et Juliette",
           "Disco",
           "Salut les copains"
         ],
-        "réponse": "Robin des Bois",
+        "reponse": "Robin des Bois",
         "anecdote": "En 2012, M. Pokora est devenu avec Adriana Karembeu ambassadeur de la marque de lunettes Atol."
       },
       {
         "id": 5,
-        "question": "Quelle star a remplacé Louis Bertignac dans « The Voice » à partir de la saison 3 ?",
+        "question": "Quelle star a remplace Louis Bertignac dans « The Voice » à partir de la saison 3 ?",
         "propositions": [
           "Jenifer",
           "Mika",
           "Patrick Bruel",
           "Garou"
         ],
-        "réponse": "Mika",
-        "anecdote": "Produite par Shine France, « The Voice » est adaptée de l'émission musicale néerlandaise « The Voice of Holland »."
+        "reponse": "Mika",
+        "anecdote": "Produite par Shine France, « The Voice » est adaptee de l'emission musicale neerlandaise « The Voice of Holland »."
       },
       {
         "id": 6,
-        "question": "Qui a été élu artiste masculin francophone de l'année aux NRJ Music Awards 2014 ?",
+        "question": "Qui a ete elu artiste masculin francophone de l'annee aux NRJ Music Awards 2014 ?",
         "propositions": [
-          "Christophe Maé",
+          "Christophe Mae",
           "M. Pokora",
           "Stromae",
           "Kendji Girac"
         ],
-        "réponse": "M. Pokora",
-        "anecdote": "Les NRJ Music Awards ont lieu généralement tous les ans, le premier samedi de novembre."
+        "reponse": "M. Pokora",
+        "anecdote": "Les NRJ Music Awards ont lieu generalement tous les ans, le premier samedi de novembre."
       },
       {
         "id": 7,
-        "question": "Quelle artiste française est considérée à tort comme une chanteuse de rue ?",
+        "question": "Quelle artiste francaise est consideree à tort comme une chanteuse de rue ?",
         "propositions": [
           "Anggun",
           "Indila",
           "Zaz",
           "Vitaa"
         ],
-        "réponse": "Zaz",
-        "anecdote": "Zaz a été connue grâce à la deuxième chanson de son premier album, « Zaz », qui a été publié le 10 mai 2010."
+        "reponse": "Zaz",
+        "anecdote": "Zaz a ete connue grace à la deuxieme chanson de son premier album, « Zaz », qui a ete publie le 10 mai 2010."
       },
       {
         "id": 8,
-        "question": "Quelle vedette de la série « Glee » a surpris tout le monde en épousant son meilleur ami ?",
+        "question": "Quelle vedette de la serie « Glee » a surpris tout le monde en epousant son meilleur ami ?",
         "propositions": [
           "Lea Michele",
           "Jessalyn Gilsig",
           "Naya Rivera",
           "Becca Tobin"
         ],
-        "réponse": "Naya Rivera",
+        "reponse": "Naya Rivera",
         "anecdote": "Naya Rivera soutient plusieurs associations, dont GLAAD, Stand Up To Cancer, The Elephant Project et The Sunshine Foundation."
       },
       {
         "id": 9,
-        "question": "Que s'est-il passé en 2014 pour les acteurs Melanie Griffith et Antonio Banderas ?",
+        "question": "Que s'est-il passe en 2014 pour les acteurs Melanie Griffith et Antonio Banderas ?",
         "propositions": [
-          "Ils se sont mariés",
-          "Ils se sont séparés",
-          "Ils ont eu un garçon",
+          "Ils se sont maries",
+          "Ils se sont separes",
+          "Ils ont eu un garcon",
           "Ils ont eu une fille"
         ],
-        "réponse": "Ils se sont séparés",
-        "anecdote": "De cette union, qui prendra fin après 18 ans de vie commune, est née Stella Banderas, le 24 septembre 1996."
+        "reponse": "Ils se sont separes",
+        "anecdote": "De cette union, qui prendra fin apres 18 ans de vie commune, est nee Stella Banderas, le 24 septembre 1996."
       },
       {
         "id": 10,
-        "question": "En 2014, quelle femme politique française était considérée comme la plus influente au monde ?",
+        "question": "En 2014, quelle femme politique francaise etait consideree comme la plus influente au monde ?",
         "propositions": [
           "Christine Lagarde",
           "Anne-Sophie Lapix",
           "Christiane Taubira",
           "Marine Le Pen"
         ],
-        "réponse": "Christine Lagarde",
-        "anecdote": "Le 5 juillet 2011, Christine Lagarde a été désignée directrice générale du Fonds monétaire international (FMI)."
+        "reponse": "Christine Lagarde",
+        "anecdote": "Le 5 juillet 2011, Christine Lagarde a ete designee directrice generale du Fonds monetaire international (FMI)."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Aux côtés duquel de ses enfants Angelina Jolie a-t-elle pu jouer dans le film « Maléfique » ?",
+        "question": "Aux côtes duquel de ses enfants Angelina Jolie a-t-elle pu jouer dans le film « Malefique » ?",
         "propositions": [
           "Knox",
           "Vivienne",
           "Shiloh",
           "Maddox"
         ],
-        "réponse": "Vivienne",
-        "anecdote": "Selon le magazine « Forbes », Angelina Jolie fut l'actrice la mieux payée d'Hollywood entre juin 2012 et juin 2013."
+        "reponse": "Vivienne",
+        "anecdote": "Selon le magazine « Forbes », Angelina Jolie fut l'actrice la mieux payee d'Hollywood entre juin 2012 et juin 2013."
       },
       {
         "id": 12,
-        "question": "Dans quel magazine Kim Kardashian a-t-elle posé nue, surprenant ainsi ses fans ?",
+        "question": "Dans quel magazine Kim Kardashian a-t-elle pose nue, surprenant ainsi ses fans ?",
         "propositions": [
           "Cosmopolitan",
           "Glamour",
           "Paper",
           "Vogue"
         ],
-        "réponse": "Paper",
-        "anecdote": "Kim Kardashian a réalisé « Kim Kardashian Superstar », une sextape en amateur en 2003 avec le chanteur R'n'B Ray J."
+        "reponse": "Paper",
+        "anecdote": "Kim Kardashian a realise « Kim Kardashian Superstar », une sextape en amateur en 2003 avec le chanteur R'n'B Ray J."
       },
       {
         "id": 13,
-        "question": "Quel auteur-compositeur-interprète américain a supprimé tous ses comptes sociaux fin 2014 ?",
+        "question": "Quel auteur-compositeur-interprete americain a supprime tous ses comptes sociaux fin 2014 ?",
         "propositions": [
           "Prince",
           "Chris Brown",
           "Seal",
           "Justin Timberlake"
         ],
-        "réponse": "Prince",
-        "anecdote": "Prince fut pourtant l'un des premiers à expérimenter la diffusion de la musique par Internet, avant de s'en distancer."
+        "reponse": "Prince",
+        "anecdote": "Prince fut pourtant l'un des premiers à experimenter la diffusion de la musique par Internet, avant de s'en distancer."
       },
       {
         "id": 14,
-        "question": "Quelle chanteuse est ressortie grande gagnante de la cérémonie des ARIA Awards de 2014 ?",
+        "question": "Quelle chanteuse est ressortie grande gagnante de la ceremonie des ARIA Awards de 2014 ?",
         "propositions": [
           "Kylie Minogue",
           "Dannii Minogue",
           "Natalie Imbruglia",
           "Sia"
         ],
-        "réponse": "Sia",
-        "anecdote": "Sia a débuté au sein du groupe australien Crisp durant les années 1990 et mène depuis une carrière solo florissante."
+        "reponse": "Sia",
+        "anecdote": "Sia a debute au sein du groupe australien Crisp durant les annees 1990 et mene depuis une carriere solo florissante."
       },
       {
         "id": 15,
-        "question": "Quelle rappeuse australienne, détrônant Eminem,fut révélation rap de l'année 2014 ?",
+        "question": "Quelle rappeuse australienne, detrônant Eminem,fut revelation rap de l'annee 2014 ?",
         "propositions": [
           "Amber Liu",
           "Minzy",
           "Leslie Hall",
           "Iggy Azalea"
         ],
-        "réponse": "Iggy Azalea",
-        "anecdote": "Iggy Azalea a été influencée par le hip-hop dès l'âge de 11 ans, alors qu'elle écoutait Tupac Shakur et sa chanson « Baby Don't Cry »."
+        "reponse": "Iggy Azalea",
+        "anecdote": "Iggy Azalea a ete influencee par le hip-hop des l'age de 11 ans, alors qu'elle ecoutait Tupac Shakur et sa chanson « Baby Don't Cry »."
       },
       {
         "id": 16,
-        "question": "Quelle chanteuse a été en couple avec Harry Styles, membre des One Direction ?",
+        "question": "Quelle chanteuse a ete en couple avec Harry Styles, membre des One Direction ?",
         "propositions": [
           "Taylor Swift",
           "Sheryl Crow",
           "Alison Krauss",
           "Lee Ann Womack"
         ],
-        "réponse": "Taylor Swift",
-        "anecdote": "Harry Styles a sorti quatre albums avec les One Direction, qui connaîtront tous un succès commercial important."
+        "reponse": "Taylor Swift",
+        "anecdote": "Harry Styles a sorti quatre albums avec les One Direction, qui connaîtront tous un succes commercial important."
       },
       {
         "id": 17,
-        "question": "Quelle actrice a révélé son homosexualité durant un discours public en février 2014 ?",
+        "question": "Quelle actrice a revele son homosexualite durant un discours public en fevrier 2014 ?",
         "propositions": [
           "Ellen Page",
           "Jennifer Lawrence",
           "Cate Blanchett",
           "Emma Watson"
         ],
-        "réponse": "Ellen Page",
-        "anecdote": "Ce discours a été prononcé le jour de la Saint-Valentin, lors d'une conférence LGBT."
+        "reponse": "Ellen Page",
+        "anecdote": "Ce discours a ete prononce le jour de la Saint-Valentin, lors d'une conference LGBT."
       },
       {
         "id": 18,
@@ -254,142 +254,142 @@
           "Orlando Bloom",
           "James Franco"
         ],
-        "réponse": "Orlando Bloom",
+        "reponse": "Orlando Bloom",
         "anecdote": "Justin Bieber est suivi sur Twitter par plus de 70 millions de followers et sur Facebook par plus de 73 millions de fans."
       },
       {
         "id": 19,
-        "question": "Avec qui Miley Cyrus a-t-elle officialisé sa relation en novembre 2014 ?",
+        "question": "Avec qui Miley Cyrus a-t-elle officialise sa relation en novembre 2014 ?",
         "propositions": [
           "P. Schwarzenegger",
           "L. Hemsworth",
           "J. Gaston",
           "O. Bloom"
         ],
-        "réponse": "P. Schwarzenegger",
-        "anecdote": "Miley Cyrus est surtout connue pour avoir incarné entre 2006 et 2011 Hannah Montana dans la série de Disney Channel."
+        "reponse": "P. Schwarzenegger",
+        "anecdote": "Miley Cyrus est surtout connue pour avoir incarne entre 2006 et 2011 Hannah Montana dans la serie de Disney Channel."
       },
       {
         "id": 20,
-        "question": "Quelle mannequin et actrice russe très célèbre a été la plus demandée en 2014 ?",
+        "question": "Quelle mannequin et actrice russe tres celebre a ete la plus demandee en 2014 ?",
         "propositions": [
           "Inna Zobova",
           "Milana Keller",
           "Julia Lemigova",
           "Natalia Vodianova"
         ],
-        "réponse": "Natalia Vodianova",
-        "anecdote": "Natalia Vodianova est également connue pour avoir joué dans le film « Belle du Seigneur » et pour être la compagne d'Antoine Arnault."
+        "reponse": "Natalia Vodianova",
+        "anecdote": "Natalia Vodianova est egalement connue pour avoir joue dans le film « Belle du Seigneur » et pour etre la compagne d'Antoine Arnault."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Marié à Vanessa Paradis, combien de dollars Johnny Depp pesait-il au box-office en 2014 ?",
+        "question": "Marie à Vanessa Paradis, combien de dollars Johnny Depp pesait-il au box-office en 2014 ?",
         "propositions": [
           "6 milliards",
           "4 milliards",
           "8 milliards",
           "2 milliards"
         ],
-        "réponse": "8 milliards",
-        "anecdote": "Johnny Depp est devenu célèbre dans les années 1980 grâce à son rôle dans la série télévisée « 21 Jump Street »."
+        "reponse": "8 milliards",
+        "anecdote": "Johnny Depp est devenu celebre dans les annees 1980 grace à son rôle dans la serie televisee « 21 Jump Street »."
       },
       {
         "id": 22,
-        "question": "Quelle mannequin sud-africain a été couronnée Miss Monde le 14 décembre 2014 ?",
+        "question": "Quelle mannequin sud-africain a ete couronnee Miss Monde le 14 decembre 2014 ?",
         "propositions": [
           "Rolene Strauss",
           "Ivian Sarcos",
           "Yu Wenxia",
           "Megan Young"
         ],
-        "réponse": "Rolene Strauss",
-        "anecdote": "Elle est la deuxième Miss Monde qui fut étudiante en médecine au cours de son règne après Miss Monde 1966, Reita Faria."
+        "reponse": "Rolene Strauss",
+        "anecdote": "Elle est la deuxieme Miss Monde qui fut etudiante en medecine au cours de son regne apres Miss Monde 1966, Reita Faria."
       },
       {
         "id": 23,
-        "question": "Quelle actrice et chanteuse américaine a décidé de congédier ses parents en avril 2014 ?",
+        "question": "Quelle actrice et chanteuse americaine a decide de congedier ses parents en avril 2014 ?",
         "propositions": [
           "Hilary Duff",
           "Miley Cyrus",
           "Selena Gomez",
           "Nicki Minaj"
         ],
-        "réponse": "Selena Gomez",
-        "anecdote": "En parallèle à sa carrière, Selena Gomez est également une ambassadrice de bonne volonté pour l'Unicef depuis 2009."
+        "reponse": "Selena Gomez",
+        "anecdote": "En parallele à sa carriere, Selena Gomez est egalement une ambassadrice de bonne volonte pour l'Unicef depuis 2009."
       },
       {
         "id": 24,
-        "question": "Avec qui s'est mariée Leighton Meester, l'interprète de Blair dans la série « Gossip Girl » ?",
+        "question": "Avec qui s'est mariee Leighton Meester, l'interprete de Blair dans la serie « Gossip Girl » ?",
         "propositions": [
           "Adam Brody",
           "Matthew Laborteaux",
           "Ed Westwick",
           "Joe Armstrong"
         ],
-        "réponse": "Ed Westwick",
+        "reponse": "Ed Westwick",
         "anecdote": "Leighton Meester est apparue à plusieurs reprises dans le classement des cent plus belles femmes du monde."
       },
       {
         "id": 25,
-        "question": "Dans quel pays Neil Patrick Harris et David Burtka ont-ils convolé en cérémonie intime ?",
+        "question": "Dans quel pays Neil Patrick Harris et David Burtka ont-ils convole en ceremonie intime ?",
         "propositions": [
           "Suisse",
           "Italie",
           "France",
           "États-Unis"
         ],
-        "réponse": "Italie",
-        "anecdote": "Le couple a adopté des faux jumeaux (un garçon et une fille), Gideon Scott et Harper Grace."
+        "reponse": "Italie",
+        "anecdote": "Le couple a adopte des faux jumeaux (un garcon et une fille), Gideon Scott et Harper Grace."
       },
       {
         "id": 26,
-        "question": "Qui a remplacé Nabilla, alors en prison, comme marraine de l'édition Top Model Belgium 2014 ?",
+        "question": "Qui a remplace Nabilla, alors en prison, comme marraine de l'edition Top Model Belgium 2014 ?",
         "propositions": [
           "Ayem",
           "Leila",
-          "Nadège",
-          "Amélie"
+          "Nadege",
+          "Amelie"
         ],
-        "réponse": "Leila",
-        "anecdote": "Nabilla a été mise en examen pour tentative de meurtre et violences volontaires aggravées sur son compagnon."
+        "reponse": "Leila",
+        "anecdote": "Nabilla a ete mise en examen pour tentative de meurtre et violences volontaires aggravees sur son compagnon."
       },
       {
         "id": 27,
-        "question": "Qui Tony Parker a-t-il épousé en 2014, après des fiançailles qui ont duré un an ?",
+        "question": "Qui Tony Parker a-t-il epouse en 2014, apres des fiancailles qui ont dure un an ?",
         "propositions": [
           "Iggy Azalea",
           "Naya Rivera",
           "Axelle Francine",
           "Eva Longoria"
         ],
-        "réponse": "Axelle Francine",
-        "anecdote": "Tony Parker a également été marié avec l'actrice américaine Eva Longoria, une des vedettes de la série « Desperate Housewives »."
+        "reponse": "Axelle Francine",
+        "anecdote": "Tony Parker a egalement ete marie avec l'actrice americaine Eva Longoria, une des vedettes de la serie « Desperate Housewives »."
       },
       {
         "id": 28,
-        "question": "Quelle comédienne a épousé le compositeur Michel Legrand le 18 septembre 2014 ?",
+        "question": "Quelle comedienne a epouse le compositeur Michel Legrand le 18 septembre 2014 ?",
         "propositions": [
-          "Macha Méril",
+          "Macha Meril",
           "Mireille Darc",
           "Laurence Badie",
-          "Anouk Aimée"
+          "Anouk Aimee"
         ],
-        "réponse": "Macha Méril",
-        "anecdote": "Macha Méril est née princesse Maria-Magdalena Wladimirovna Gagarina le 3 septembre 1940, à Rabat au Maroc."
+        "reponse": "Macha Meril",
+        "anecdote": "Macha Meril est nee princesse Maria-Magdalena Wladimirovna Gagarina le 3 septembre 1940, à Rabat au Maroc."
       },
       {
         "id": 29,
-        "question": "Quel boys band a annoncé qu'il allait se séparer dès que sa tournée 2014 serait terminée ?",
+        "question": "Quel boys band a annonce qu'il allait se separer des que sa tournee 2014 serait terminee ?",
         "propositions": [
           "The Wanted",
           "Fifth Harmony",
           "The Streets",
           "Coldplay"
         ],
-        "réponse": "The Wanted",
-        "anecdote": "Le 22 janvier 2014, les membres du groupe annoncent leur séparation pour se consacrer à des projets personnels."
+        "reponse": "The Wanted",
+        "anecdote": "Le 22 janvier 2014, les membres du groupe annoncent leur separation pour se consacrer à des projets personnels."
       },
       {
         "id": 30,
@@ -400,8 +400,8 @@
           "Rose",
           "Alison"
         ],
-        "réponse": "Esmeralda",
-        "anecdote": "Eva Mendes a passé plusieurs semaines en 2008 dans un centre de soins pour toxicomane et autre dépendance."
+        "reponse": "Esmeralda",
+        "anecdote": "Eva Mendes a passe plusieurs semaines en 2008 dans un centre de soins pour toxicomane et autre dependance."
       }
     ]
     }

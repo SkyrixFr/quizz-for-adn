@@ -1,347 +1,347 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "4 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "4 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Célébrités",
+      "categorie": "Celebrites",
       "nom": "Meghan Markle",
       "slogan": "Mannequin, actrice et duchesse"
     },
     "en": {
-      "catégorie": "Celebrities",
+      "categorie": "Celebrities",
       "nom": "Meghan Markle",
       "slogan": "Model, actress and duchess"
     },
     "es": {
-      "catégorie": "Famosos",
+      "categorie": "Famosos",
       "nom": "Megan Markle",
       "slogan": "Modelo, actriz y duquesa"
     },
     "it": {
-      "catégorie": "Celebrità",
+      "categorie": "Celebrità",
       "nom": "Meghan Markle",
       "slogan": "Modella, attrice e duchessa"
     },
     "de": {
-      "catégorie": "Prominente",
+      "categorie": "Prominente",
       "nom": "Meghan Markle",
       "slogan": "Model, Schauspielerin und Herzogin"
     },
     "nl": {
-      "catégorie": "Beroemdheden",
+      "categorie": "Beroemdheden",
       "nom": "Meghan Markle",
       "slogan": "Model, actrice en hertogin"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Quel titre Meghan Markle a-t-elle reçu suite à son deuxième mariage ?",
+        "question": "Quel titre Meghan Markle a-t-elle recu suite à son deuxieme mariage ?",
         "propositions": [
           "Comtesse de York",
           "Altesse royale",
           "Princesse de Windsor",
           "Duchesse de Sussex"
         ],
-        "réponse": "Duchesse de Sussex",
-        "anecdote": "Auparavant, il n'y a jamais eu de duchesse de Sussex, même si Augustus Frederick (premier titulaire) s'est marié deux fois."
+        "reponse": "Duchesse de Sussex",
+        "anecdote": "Auparavant, il n'y a jamais eu de duchesse de Sussex, meme si Augustus Frederick (premier titulaire) s'est marie deux fois."
       },
       {
         "id": 2,
-        "question": "Quel était le métier de Meghan Markle avant de devenir duchesse ?",
+        "question": "Quel etait le metier de Meghan Markle avant de devenir duchesse ?",
         "propositions": [
-          "Présentatrice télé",
+          "Presentatrice tele",
           "Juriste",
           "Actrice",
           "Joueuse de tennis"
         ],
-        "réponse": "Actrice",
-        "anecdote": "C'est dans la célèbre série télévisée américaine « Suits » que Meghan Markle a interprété Rachel Zane, une assistante juridique."
+        "reponse": "Actrice",
+        "anecdote": "C'est dans la celebre serie televisee americaine « Suits » que Meghan Markle a interprete Rachel Zane, une assistante juridique."
       },
       {
         "id": 3,
-        "question": "À l'issue de quelle saison Meghan Markle a-t-elle quitté la série « Suits » ?",
+        "question": "À l'issue de quelle saison Meghan Markle a-t-elle quitte la serie « Suits » ?",
         "propositions": [
-          "Huitième",
-          "Septième",
-          "Sixième",
-          "Cinquième"
+          "Huitieme",
+          "Septieme",
+          "Sixieme",
+          "Cinquieme"
         ],
-        "réponse": "Septième",
-        "anecdote": "En 2017, à la suite de ses fiançailles avec le Prince Harry, elle quitte la série « Suits » et prend la décision d'interrompre sa carrière d'actrice."
+        "reponse": "Septieme",
+        "anecdote": "En 2017, à la suite de ses fiancailles avec le Prince Harry, elle quitte la serie « Suits » et prend la decision d'interrompre sa carriere d'actrice."
       },
       {
         "id": 4,
-        "question": "En compagnie de quelle célèbre voiture Meghan Markle a-t-elle tourné à la télévision ?",
+        "question": "En compagnie de quelle celebre voiture Meghan Markle a-t-elle tourne à la television ?",
         "propositions": [
           "Christine",
           "K 2000",
           "General Lee",
           "Mystery Machine"
         ],
-        "réponse": "K 2000",
-        "anecdote": "« Le Retour de K 2000 » (Knight Rider) est une série télévisée américaine créée par David Andron et produite par Doug Liman."
+        "reponse": "K 2000",
+        "anecdote": "« Le Retour de K 2000 » (Knight Rider) est une serie televisee americaine creee par David Andron et produite par Doug Liman."
       },
       {
         "id": 5,
-        "question": "De combien d'années Meghan Markle est-elle l'aînée de son mari, le prince Harry ?",
+        "question": "De combien d'annees Meghan Markle est-elle l'aînee de son mari, le prince Harry ?",
         "propositions": [
           "Sept ans",
           "Neuf ans",
           "Trois ans",
           "Cinq ans"
         ],
-        "réponse": "Trois ans",
-        "anecdote": "Le 8 novembre 2016, il fut officiellement annoncé que Meghan Markle était la compagne du prince Harry, et ce depuis juin 2016."
+        "reponse": "Trois ans",
+        "anecdote": "Le 8 novembre 2016, il fut officiellement annonce que Meghan Markle etait la compagne du prince Harry, et ce depuis juin 2016."
       },
       {
         "id": 6,
-        "question": "Combien d'enfants d'honneur ont accompagné Meghan Markle lors de son mariage princier ?",
+        "question": "Combien d'enfants d'honneur ont accompagne Meghan Markle lors de son mariage princier ?",
         "propositions": [
           "Huit",
           "Six",
           "Quatre",
           "Dix"
         ],
-        "réponse": "Dix",
+        "reponse": "Dix",
         "anecdote": "Meghan Markle en a choisi cinq : ses deux filleules Rylan et Remi Ritt ainsi et les trois enfants de sa meilleure amie, Jessica Mulroney."
       },
       {
         "id": 7,
-        "question": "Quel métier est encore à ce jour exercé par la mère de Meghan Markle ?",
+        "question": "Quel metier est encore à ce jour exerce par la mere de Meghan Markle ?",
         "propositions": [
-          "Esthéticienne",
+          "Estheticienne",
           "Styliste",
-          "Romancière",
+          "Romanciere",
           "Professeur de yoga"
         ],
-        "réponse": "Professeur de yoga",
-        "anecdote": "Meghan Markle fut élevée à Los Angeles par sa mère afro-américaine, Doria Ragland, et son père, Thomas Wayne Markle."
+        "reponse": "Professeur de yoga",
+        "anecdote": "Meghan Markle fut elevee à Los Angeles par sa mere afro-americaine, Doria Ragland, et son pere, Thomas Wayne Markle."
       },
       {
         "id": 8,
-        "question": "Combien d'invités étaient à l'office religieux du mariage princier de Meghan Markle ?",
+        "question": "Combien d'invites etaient à l'office religieux du mariage princier de Meghan Markle ?",
         "propositions": [
           "300",
           "400",
           "500",
           "600"
         ],
-        "réponse": "600",
+        "reponse": "600",
         "anecdote": "Le code vestimentaire impose un complet ou queue de pie pour les hommes, une robe de cocktail et un chapeau pour les femmes."
       },
       {
         "id": 9,
-        "question": "À qui Meghan Markle a-t-elle écrit une célèbre lettre de réclamation à l'âge de onze ans ?",
+        "question": "À qui Meghan Markle a-t-elle ecrit une celebre lettre de reclamation à l'age de onze ans ?",
         "propositions": [
           "Laura Bush",
           "Michelle Obama",
           "Hillary Clinton",
           "Nancy Reagan"
         ],
-        "réponse": "Hillary Clinton",
-        "anecdote": "Le président de Procter And Gamble fera ainsi changer le texte d'une publicité télévisée nationale qu'elle a jugé trop sexiste."
+        "reponse": "Hillary Clinton",
+        "anecdote": "Le president de Procter And Gamble fera ainsi changer le texte d'une publicite televisee nationale qu'elle a juge trop sexiste."
       },
       {
         "id": 10,
-        "question": "Quelle était la marque de la robe de mariée de Meghan Markle lors de son deuxième mariage ?",
+        "question": "Quelle etait la marque de la robe de mariee de Meghan Markle lors de son deuxieme mariage ?",
         "propositions": [
           "Versace",
           "Lacroix",
           "Chanel",
           "Givenchy"
         ],
-        "réponse": "Givenchy",
-        "anecdote": "Elle était coiffée d'un chignon bas surmonté d'une tiare de diamants offerte par la reine, datant de 1932, sur une broche de 1893."
+        "reponse": "Givenchy",
+        "anecdote": "Elle etait coiffee d'un chignon bas surmonte d'une tiare de diamants offerte par la reine, datant de 1932, sur une broche de 1893."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Dans quel soap opera Meghan Markle a-t-elle fait sa première apparition sur les écrans ?",
+        "question": "Dans quel soap opera Meghan Markle a-t-elle fait sa premiere apparition sur les ecrans ?",
         "propositions": [
           "Dr House",
           "Urgence",
           "Hôpital central",
           "Chicago Med"
         ],
-        "réponse": "Hôpital central",
-        "anecdote": "Il est à ce jour le premier plus long et ancien feuilleton américain en production devant « Les Feux de l'amour » et « Amour, Gloire et Beauté »."
+        "reponse": "Hôpital central",
+        "anecdote": "Il est à ce jour le premier plus long et ancien feuilleton americain en production devant « Les Feux de l'amour » et « Amour, Gloire et Beaute »."
       },
       {
         "id": 12,
-        "question": "Où Markle s'est-elle rendu en 2014 pour soutenir les troupes américaines ?",
+        "question": "Ou Markle s'est-elle rendu en 2014 pour soutenir les troupes americaines ?",
         "propositions": [
           "Mongolie",
           "Afghanistan",
           "Jordanie",
           "Cambodge"
         ],
-        "réponse": "Afghanistan",
-        "anecdote": "Ceci dans le cadre de la tournée organisée par l'United Service Organizations, présidée par le chef d'État-Major des armées US."
+        "reponse": "Afghanistan",
+        "anecdote": "Ceci dans le cadre de la tournee organisee par l'United Service Organizations, presidee par le chef d'État-Major des armees US."
       },
       {
         "id": 13,
-        "question": "Dans quelle série de science-fiction policière Meghan Markle a-t-elle incarné Amy Jessup ?",
+        "question": "Dans quelle serie de science-fiction policiere Meghan Markle a-t-elle incarne Amy Jessup ?",
         "propositions": [
           "Dark Angel",
           "X-Files",
           "Fringe",
           "Beyond"
         ],
-        "réponse": "Fringe",
-        "anecdote": "Dans la série, l'équipe a recours à ce qu'on appelle en anglais la fringe science pour enquêter sur des phénomènes inexpliqués."
+        "reponse": "Fringe",
+        "anecdote": "Dans la serie, l'equipe a recours à ce qu'on appelle en anglais la fringe science pour enqueter sur des phenomenes inexpliques."
       },
       {
         "id": 14,
-        "question": "Quel producteur californien Meghan Markle a-t-elle épousé après 7 ans de vie commune ?",
+        "question": "Quel producteur californien Meghan Markle a-t-elle epouse apres 7 ans de vie commune ?",
         "propositions": [
           "Trevor Engelson",
           "Roy Marten",
           "Michel Gohou",
           "Marc Sorkin"
         ],
-        "réponse": "Trevor Engelson",
-        "anecdote": "Trevor Engelson est né en 1976 à Great Neck, New York, possède une nationalité américaine et appartient au milieu ethnique blanc."
+        "reponse": "Trevor Engelson",
+        "anecdote": "Trevor Engelson est ne en 1976 à Great Neck, New York, possede une nationalite americaine et appartient au milieu ethnique blanc."
       },
       {
         "id": 15,
-        "question": "Dans quel long métrage porté par Robert Pattinson Meghan Markle est-elle apparue ?",
+        "question": "Dans quel long metrage porte par Robert Pattinson Meghan Markle est-elle apparue ?",
         "propositions": [
           "The Rover",
           "Bel Ami",
           "Remember Me",
           "Cosmopolis"
         ],
-        "réponse": "Remember Me",
-        "anecdote": "Malgré d'excellentes recettes, les critiques ont été très sévères, déplorant que le film soit trop semblable à la saga « Twilight »."
+        "reponse": "Remember Me",
+        "anecdote": "Malgre d'excellentes recettes, les critiques ont ete tres severes, deplorant que le film soit trop semblable à la saga « Twilight »."
       },
       {
         "id": 16,
-        "question": "Quelle était la religion adoptée par Meghan Markle avant de devenir anglicane ?",
+        "question": "Quelle etait la religion adoptee par Meghan Markle avant de devenir anglicane ?",
         "propositions": [
           "Orthodoxe",
           "Protestante",
           "Hindoue",
           "Catholique"
         ],
-        "réponse": "Protestante",
-        "anecdote": "La cérémonie privée a été célébrée dans la chapelle royale du palais Saint James, présidée par l'archevêque de Cantorbéry, Justin Welby."
+        "reponse": "Protestante",
+        "anecdote": "La ceremonie privee a ete celebree dans la chapelle royale du palais Saint James, presidee par l'archeveque de Cantorbery, Justin Welby."
       },
       {
         "id": 17,
-        "question": "Dans quel film dramatique britannico-hongrois Meghan Markle a-t-elle joué son dernier rôle ?",
+        "question": "Dans quel film dramatique britannico-hongrois Meghan Markle a-t-elle joue son dernier rôle ?",
         "propositions": [
           "Extinction",
           "Anti-Social",
           "Paper World",
           "Le Fils de Saul"
         ],
-        "réponse": "Anti-Social",
-        "anecdote": "Dans ce film, différentes actions sont menées dans la ville de Londres, à notre époque, contre le milieu violent du trafic d'armes."
+        "reponse": "Anti-Social",
+        "anecdote": "Dans ce film, differentes actions sont menees dans la ville de Londres, à notre epoque, contre le milieu violent du trafic d'armes."
       },
       {
         "id": 18,
-        "question": "Quelle fleur chère à Diana illuminait le bouquet du second mariage de M. Markle ?",
+        "question": "Quelle fleur chere à Diana illuminait le bouquet du second mariage de M. Markle ?",
         "propositions": [
           "Myosotis",
           "Mimosa",
           "Millepertuis",
           "Magnolia"
         ],
-        "réponse": "Myosotis",
-        "anecdote": "Des fleurs furent cueillies par le prince Harry lui-même, la veille du mariage, dans le jardin de leur résidence à Kensington Palace."
+        "reponse": "Myosotis",
+        "anecdote": "Des fleurs furent cueillies par le prince Harry lui-meme, la veille du mariage, dans le jardin de leur residence à Kensington Palace."
       },
       {
         "id": 19,
-        "question": "Dans quelle série des « Experts » Meghan Markle a-t-elle incarné Veronica Perez ?",
+        "question": "Dans quelle serie des « Experts » Meghan Markle a-t-elle incarne Veronica Perez ?",
         "propositions": [
           "Manhattan",
           "San Francisco",
           "Miami",
           "Texas"
         ],
-        "réponse": "Manhattan",
-        "anecdote": "« Les Experts : Manhattan » ne comportent que quelques scènes extérieures filmées à New York, le reste étant tourné en studio."
+        "reponse": "Manhattan",
+        "anecdote": "« Les Experts : Manhattan » ne comportent que quelques scenes exterieures filmees à New York, le reste etant tourne en studio."
       },
       {
         "id": 20,
-        "question": "Dans quelle série télévisée Meghan Markle a-t-elle interprété la Belle au bois dormant ?",
+        "question": "Dans quelle serie televisee Meghan Markle a-t-elle interprete la Belle au bois dormant ?",
         "propositions": [
           "Heroes",
           "Ugly Betty",
           "Gossip Girl",
           "Castle"
         ],
-        "réponse": "Castle",
-        "anecdote": "Selon le magazine Variety, ABC pourrait bientôt lancer une série dérivée de « Castle », l'histoire se centrant sur Derrick Storm."
+        "reponse": "Castle",
+        "anecdote": "Selon le magazine Variety, ABC pourrait bientôt lancer une serie derivee de « Castle », l'histoire se centrant sur Derrick Storm."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "En quelle année Meghan Markle a-t-elle reçu une licence en relations internationales ?",
+        "question": "En quelle annee Meghan Markle a-t-elle recu une licence en relations internationales ?",
         "propositions": [
           "2007",
           "2003",
           "2005",
           "2009"
         ],
-        "réponse": "2003",
-        "anecdote": "Meghan Markle a étudié au sein d'écoles privées à Los Angeles puis à l'université Northwestern de Chicago, dans l'Illinois."
+        "reponse": "2003",
+        "anecdote": "Meghan Markle a etudie au sein d'ecoles privees à Los Angeles puis à l'universite Northwestern de Chicago, dans l'Illinois."
       },
       {
         "id": 22,
-        "question": "Dans quel pays Meghan Markle espérait-elle suivre une carrière politique ?",
+        "question": "Dans quel pays Meghan Markle esperait-elle suivre une carriere politique ?",
         "propositions": [
           "Argentine",
           "Canada",
           "Espagne",
-          "Grèce"
+          "Grece"
         ],
-        "réponse": "Argentine",
-        "anecdote": "Après l'université, Meghan Markle a travaillé un moment pour l'ambassade américaine de Buenos Aires, en Argentine."
+        "reponse": "Argentine",
+        "anecdote": "Apres l'universite, Meghan Markle a travaille un moment pour l'ambassade americaine de Buenos Aires, en Argentine."
       },
       {
         "id": 23,
-        "question": "Quel métier Meghan Markle a-t-elle exercé en freelance pour payer ses factures ?",
+        "question": "Quel metier Meghan Markle a-t-elle exerce en freelance pour payer ses factures ?",
         "propositions": [
           "Calligraphe",
           "Web designer",
-          "Vétérinaire",
+          "Veterinaire",
           "Comptable"
         ],
-        "réponse": "Calligraphe",
-        "anecdote": "Exercé à mi-temps, Meghan Markle proposait notamment des calligraphies personnalisées sur des cartons d'invitation de mariage."
+        "reponse": "Calligraphe",
+        "anecdote": "Exerce à mi-temps, Meghan Markle proposait notamment des calligraphies personnalisees sur des cartons d'invitation de mariage."
       },
       {
         "id": 24,
-        "question": "Pour quelle chaîne de grands magasins Meghan Markle est-elle devenue l'égérie ?",
+        "question": "Pour quelle chaîne de grands magasins Meghan Markle est-elle devenue l'egerie ?",
         "propositions": [
           "Reitmans",
           "Hamleys",
           "Liberty And Co",
           "Canada Goose"
         ],
-        "réponse": "Reitmans",
-        "anecdote": "Meghan Markle adore magasiner en ligne chez Reitmans, importante chaîne de commerce au détail de mode féminine au Canada."
+        "reponse": "Reitmans",
+        "anecdote": "Meghan Markle adore magasiner en ligne chez Reitmans, importante chaîne de commerce au detail de mode feminine au Canada."
       },
       {
         "id": 25,
-        "question": "Pour quel sommet annuel Meghan Markle s'est-elle exprimé sur l'esclavage moderne ?",
+        "question": "Pour quel sommet annuel Meghan Markle s'est-elle exprime sur l'esclavage moderne ?",
         "propositions": [
           "Fimcap",
           "Gordonia",
           "Nozem",
           "One Young World"
         ],
-        "réponse": "One Young World",
-        "anecdote": "Les jeunes leaders de ce sommet sont choisis après un long processus de sélection, jugés pour leur potentiel de leadership."
+        "reponse": "One Young World",
+        "anecdote": "Les jeunes leaders de ce sommet sont choisis apres un long processus de selection, juges pour leur potentiel de leadership."
       },
       {
         "id": 26,
@@ -352,61 +352,61 @@
           "Cory Vitiello",
           "Normand Laprise"
         ],
-        "réponse": "Cory Vitiello",
-        "anecdote": "Meghan Markle aurait fréquenté deux ans le chef torontois Cory Vitiello, après l'avoir rencontré dans son ancien restaurant."
+        "reponse": "Cory Vitiello",
+        "anecdote": "Meghan Markle aurait frequente deux ans le chef torontois Cory Vitiello, apres l'avoir rencontre dans son ancien restaurant."
       },
       {
         "id": 27,
-        "question": "Hormis Meghan Markle, quelle autre américaine divorcée a visé la famille royale ?",
+        "question": "Hormis Meghan Markle, quelle autre americaine divorcee a vise la famille royale ?",
         "propositions": [
           "Wallis Simpson",
           "Priscilla Presbury",
           "Sally Howard",
           "Sarah Cassaway"
         ],
-        "réponse": "Wallis Simpson",
-        "anecdote": "Après son divorce avec Earl Winfield Spencer Jr., Wallis Simpson s'est remarié le 21 juillet 1928 avec Ernest Aldrich Simpson."
+        "reponse": "Wallis Simpson",
+        "anecdote": "Apres son divorce avec Earl Winfield Spencer Jr., Wallis Simpson s'est remarie le 21 juillet 1928 avec Ernest Aldrich Simpson."
       },
       {
         "id": 28,
-        "question": "Quel roi d'Angleterre est un ancêtre du père de Meghan Markle ?",
+        "question": "Quel roi d'Angleterre est un ancetre du pere de Meghan Markle ?",
         "propositions": [
           "Charles II",
           "Henri III",
           "Jean sans Terre",
           "Édouard III"
         ],
-        "réponse": "Édouard III",
-        "anecdote": "Édouard fut couronné à Westminster (Londres) le 1er février 1327, à l'âge de 14 ans, en raison de la destitution de son père Édouard II."
+        "reponse": "Édouard III",
+        "anecdote": "Édouard fut couronne à Westminster (Londres) le 1er fevrier 1327, à l'age de 14 ans, en raison de la destitution de son pere Édouard II."
       },
       {
         "id": 29,
-        "question": "Quelle meilleure amie de Meghan Markle l'a accompagné à son mariage princier ?",
+        "question": "Quelle meilleure amie de Meghan Markle l'a accompagne à son mariage princier ?",
         "propositions": [
           "Sarah Rafferty",
           "Jessica Mulroney",
           "Katherine Heigl",
           "Amanda Schull"
         ],
-        "réponse": "Jessica Mulroney",
-        "anecdote": "Rachel Meghan Markle, dite Meghan Markle, est née le 4 août 1981 à Los Angeles, en Californie, de parents américains."
+        "reponse": "Jessica Mulroney",
+        "anecdote": "Rachel Meghan Markle, dite Meghan Markle, est nee le 4 août 1981 à Los Angeles, en Californie, de parents americains."
       },
       {
         "id": 30,
-        "question": "Combien a coûté la pièce montée du mariage princier de Meghan Markle ?",
+        "question": "Combien a coûte la piece montee du mariage princier de Meghan Markle ?",
         "propositions": [
           "43 000 euros",
           "38 000 euros",
           "57 000 euros",
           "22 000 euros"
         ],
-        "réponse": "57 000 euros",
-        "anecdote": "Rompant avec le classique pudding aux fruits confits, ce gâteau royal, composé d'ingrédients bio, fut réalisé par Claire Ptak."
+        "reponse": "57 000 euros",
+        "anecdote": "Rompant avec le classique pudding aux fruits confits, ce gateau royal, compose d'ingredients bio, fut realise par Claire Ptak."
       }
     ]
     },
     "en": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "What title did Meghan Markle receive after her second marriage ?",
@@ -416,7 +416,7 @@
           "Royal Highness",
           "Princess of Windsor"
         ],
-        "réponse": "Duchess of Sussex",
+        "reponse": "Duchess of Sussex",
         "anecdote": "Previously, there was never a Duchess of Sussex, even though Augustus Frederick (first owner) married twice."
       },
       {
@@ -428,7 +428,7 @@
           "Tennis player",
           "Actress"
         ],
-        "réponse": "Actress",
+        "reponse": "Actress",
         "anecdote": "It was in the famous American TV series « Suits » that Meghan Markle performed Rachel Zane, a legal assistant."
       },
       {
@@ -440,7 +440,7 @@
           "Sixth",
           "Fifth"
         ],
-        "réponse": "Seventh",
+        "reponse": "Seventh",
         "anecdote": "In 2017, following her engagements with Prince Harry, she left the series « Suits » and made the decision to interrupt her career as an actress."
       },
       {
@@ -452,7 +452,7 @@
           "K 2000",
           "Christine"
         ],
-        "réponse": "K 2000",
+        "reponse": "K 2000",
         "anecdote": "« The Return of K 2000 » (Knight Rider) is an American drama series created by David Andron and produced by Doug Liman."
       },
       {
@@ -464,7 +464,7 @@
           "Three years",
           "Nine years"
         ],
-        "réponse": "Three years",
+        "reponse": "Three years",
         "anecdote": "On November 8, 2016, it was officially announced that Meghan Markle was the companion of Prince Harry, and this since June 2016."
       },
       {
@@ -476,7 +476,7 @@
           "Ten",
           "Four"
         ],
-        "réponse": "Ten",
+        "reponse": "Ten",
         "anecdote": "Meghan Markle has chosen five : her two godchildren Rylan and Remi Ritt and the three children of her best friend, Jessica Mulroney."
       },
       {
@@ -488,7 +488,7 @@
           "Novelist",
           "Yoga teacher"
         ],
-        "réponse": "Yoga teacher",
+        "reponse": "Yoga teacher",
         "anecdote": "Meghan Markle was raised in Los Angeles by her African-American mother, Doria Ragland, and her father, Thomas Wayne Markle."
       },
       {
@@ -500,7 +500,7 @@
           "300",
           "600"
         ],
-        "réponse": "600",
+        "reponse": "600",
         "anecdote": "The dress code imposes a suit or tail for men, a cocktail dress and a hat for women."
       },
       {
@@ -512,7 +512,7 @@
           "Hillary Clinton",
           "Nancy Reagan"
         ],
-        "réponse": "Hillary Clinton",
+        "reponse": "Hillary Clinton",
         "anecdote": "The president of Procter And Gamble will change the text of a national television commercial that she considered too sexist."
       },
       {
@@ -524,11 +524,11 @@
           "Chanel",
           "Givenchy"
         ],
-        "réponse": "Givenchy",
+        "reponse": "Givenchy",
         "anecdote": "She was wearing a low bun surmounted by a diamond tiara donated by the queen, dating from 1932, on a brooch of 1893."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "In which soap opera did Meghan Markle make her first appearance on the screens ?",
@@ -538,7 +538,7 @@
           "Chicago Med",
           "Central Hospital"
         ],
-        "réponse": "Central Hospital",
+        "reponse": "Central Hospital",
         "anecdote": "It is today the first longest and oldest American soap opera in production in front of « The Fires of Love » and « Love, Glory and Beauty »."
       },
       {
@@ -550,7 +550,7 @@
           "Afghanistan",
           "Mongolia"
         ],
-        "réponse": "Afghanistan",
+        "reponse": "Afghanistan",
         "anecdote": "This was part of the tour organized by United Service Organizations, chaired by the US Army Chief of Staff."
       },
       {
@@ -562,7 +562,7 @@
           "Dark Angel",
           "Beyond"
         ],
-        "réponse": "Fringe",
+        "reponse": "Fringe",
         "anecdote": "In the series, the team uses what is known in English as fringe science to investigate unexplained phenomena."
       },
       {
@@ -574,7 +574,7 @@
           "Trevor Engelson",
           "Michel Gohou"
         ],
-        "réponse": "Trevor Engelson",
+        "reponse": "Trevor Engelson",
         "anecdote": "Trevor Engelson was born in 1976 in Great Neck, New York, has an American nationality and belongs to the white ethnic community."
       },
       {
@@ -586,7 +586,7 @@
           "Cosmopolis",
           "Bel Ami"
         ],
-        "réponse": "Remember Me",
+        "reponse": "Remember Me",
         "anecdote": "Despite excellent recipes, the critics were very skeptical, complaining that the movie was too similar to the « Twilight » saga."
       },
       {
@@ -598,7 +598,7 @@
           "Hindu",
           "Orthodox"
         ],
-        "réponse": "Protestant",
+        "reponse": "Protestant",
         "anecdote": "The private ceremony was celebrated in the Royal Chapel of Saint James Palace, presided over by the Archbishop of Canterbury, Justin Welby."
       },
       {
@@ -610,7 +610,7 @@
           "The Son of Saul",
           "Anti-Social"
         ],
-        "réponse": "Anti-Social",
+        "reponse": "Anti-Social",
         "anecdote": "In this film, various actions are carried out in the city of London, at our time, against the violent environment of arms trafficking."
       },
       {
@@ -622,7 +622,7 @@
           "St. John's Wort",
           "Myosotis"
         ],
-        "réponse": "Myosotis",
+        "reponse": "Myosotis",
         "anecdote": "Flowers were picked by Prince Harry himself, the day before the wedding, in the garden of their residence at Kensington Palace."
       },
       {
@@ -634,7 +634,7 @@
           "San Francisco",
           "Texas"
         ],
-        "réponse": "Manhattan",
+        "reponse": "Manhattan",
         "anecdote": "« The Experts: Manhattan » only have a few outdoor scenes filmed in New York, the rest being shot in the studio."
       },
       {
@@ -646,7 +646,7 @@
           "Castle",
           "Gossip Girl"
         ],
-        "réponse": "Castle",
+        "reponse": "Castle",
         "anecdote": "According to Variety magazine, ABC could soon launch a series of « Castle », the story centering on Derrick Storm."
       }
     ],
@@ -660,7 +660,7 @@
           "2003",
           "2005"
         ],
-        "réponse": "2003",
+        "reponse": "2003",
         "anecdote": "Meghan Markle studied at private schools in Los Angeles and then at Northwestern University in Chicago, Illinois."
       },
       {
@@ -672,7 +672,7 @@
           "Greece",
           "Canada"
         ],
-        "réponse": "Argentina",
+        "reponse": "Argentina",
         "anecdote": "After college, Meghan Markle worked for a while at the American Embassy in Buenos Aires, Argentina."
       },
       {
@@ -684,7 +684,7 @@
           "Veterinary",
           "Calligraphe"
         ],
-        "réponse": "Calligraphe",
+        "reponse": "Calligraphe",
         "anecdote": "Part-time exercise, Meghan Markle included personalized calligraphy on wedding invitation cards."
       },
       {
@@ -696,7 +696,7 @@
           "Reitmans",
           "Liberty And Co"
         ],
-        "réponse": "Reitmans",
+        "reponse": "Reitmans",
         "anecdote": "Meghan Markle loves shopping online at Reitmans, Canada's leading women's fashion retail chain."
       },
       {
@@ -708,7 +708,7 @@
           "Fimcap",
           "Gordonia"
         ],
-        "réponse": "One Young World",
+        "reponse": "One Young World",
         "anecdote": "The young leaders of this summit are chosen after a long process of selection, judged for their leadership potential."
       },
       {
@@ -720,7 +720,7 @@
           "Cory Vitiello",
           "Renaud Cyr"
         ],
-        "réponse": "Cory Vitiello",
+        "reponse": "Cory Vitiello",
         "anecdote": "Meghan Markle would have spent two years with Toronto chef Cory Vitiello, having met him at his old restaurant."
       },
       {
@@ -732,7 +732,7 @@
           "Sarah Cassaway",
           "Wallis Simpson"
         ],
-        "réponse": "Wallis Simpson",
+        "reponse": "Wallis Simpson",
         "anecdote": "After his divorce from Earl Winfield Spencer Jr., Wallis Simpson remarried on July 21, 1928 with Ernest Aldrich Simpson."
       },
       {
@@ -744,7 +744,7 @@
           "Edward III",
           "Charles II"
         ],
-        "réponse": "Edward III",
+        "reponse": "Edward III",
         "anecdote": "Edward was crowned in Westminster (London) on February 1, 1327, at the age of 14, because of the dismissal of his father Edward II."
       },
       {
@@ -756,7 +756,7 @@
           "Amanda Schull",
           "Jessica Mulroney"
         ],
-        "réponse": "Jessica Mulroney",
+        "reponse": "Jessica Mulroney",
         "anecdote": "Rachel Meghan Markle, known as Meghan Markle, was born on August 4, 1981 in Los Angeles, California, to American parents."
       },
       {
@@ -768,13 +768,13 @@
           "EUR 38,000",
           "EUR 43,000"
         ],
-        "réponse": "EUR 57,000",
+        "reponse": "EUR 57,000",
         "anecdote": "Breaking with the classic candied fruit pudding, this royal cake, made from organic ingredients, was made by Claire Ptak."
       }
     ]
     },
     "de": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Welchen Titel erhielt Meghan Markle nach ihrer zweiten Ehe ?",
@@ -784,7 +784,7 @@
           "Herzogin von Sussex",
           "Königliche Hoheit"
         ],
-        "réponse": "Herzogin von Sussex",
+        "reponse": "Herzogin von Sussex",
         "anecdote": "Zuvor gab es keine Herzogin von Sussex, obwohl Augustus Frederick (erster Besitzer) zweimal verheiratet war."
       },
       {
@@ -796,7 +796,7 @@
           "Anwalt",
           "Fernsehmoderator"
         ],
-        "réponse": "Schauspielerin",
+        "reponse": "Schauspielerin",
         "anecdote": "In der berühmten amerikanischen Fernsehserie « Suits » spielte Meghan Markle die Rechtsassistentin Rachel Zane."
       },
       {
@@ -808,7 +808,7 @@
           "Siebte",
           "Sechste"
         ],
-        "réponse": "Siebte",
+        "reponse": "Siebte",
         "anecdote": "Nach ihrer Verlobung mit Prince Harry verließ sie 2017 die Serie « Suits » und beschloss, ihre Karriere als Schauspielerin zu unterbrechen."
       },
       {
@@ -820,7 +820,7 @@
           "Mystery Machine",
           "General Lee"
         ],
-        "réponse": "K 2000",
+        "reponse": "K 2000",
         "anecdote": "« Die Rückkehr von K 2000 » (Knight Rider) ist eine amerikanische Dramaserie, die von David Andron kreiert und von Doug Liman produziert wurde."
       },
       {
@@ -832,7 +832,7 @@
           "Fünf Jahre",
           "Sieben Jahre"
         ],
-        "réponse": "Drei Jahre",
+        "reponse": "Drei Jahre",
         "anecdote": "Am 8. November 2016 wurde offiziell bekannt gegeben, dass Meghan Markle die Gefährtin von Prince Harry ist, und das seit Juni 2016."
       },
       {
@@ -844,7 +844,7 @@
           "Acht",
           "Vier"
         ],
-        "réponse": "Zehn",
+        "reponse": "Zehn",
         "anecdote": "Meghan Markle hat fünf ausgewählt : ihre beiden Patenkinder Rylan und Remi Ritt und die drei Kinder ihrer besten Freundin Jessica Mulroney."
       },
       {
@@ -856,7 +856,7 @@
           "Romancier",
           "Kosmetikerin"
         ],
-        "réponse": "Yogalehrer",
+        "reponse": "Yogalehrer",
         "anecdote": "Meghan Markle ist in Los Angeles von ihrer afroamerikanischen Mutter Doria Ragland und ihrem Vater Thomas Wayne Markle aufgewachsen."
       },
       {
@@ -868,7 +868,7 @@
           "300",
           "500"
         ],
-        "réponse": "600",
+        "reponse": "600",
         "anecdote": "Die Kleiderordnung schreibt einen Anzug oder Schwanz für Männer, ein Cocktailkleid und einen Hut für Frauen vor."
       },
       {
@@ -880,7 +880,7 @@
           "Michelle Obama",
           "Laura Bush"
         ],
-        "réponse": "Hillary Clinton",
+        "reponse": "Hillary Clinton",
         "anecdote": "Die Präsidentin von Procter And Gamble wird den Text einer nationalen Fernsehwerbung ändern, die sie für zu sexistisch hält."
       },
       {
@@ -892,11 +892,11 @@
           "Givenchy",
           "Lacroix"
         ],
-        "réponse": "Givenchy",
+        "reponse": "Givenchy",
         "anecdote": "Sie trug ein niedriges Brötchen, das von einer Diamant-Tiara überragt war, die die Königin aus dem Jahr 1932 an einer Brosche von 1893 gestiftet hatte."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "In welcher Seifenoper trat Meghan Markle zum ersten Mal auf den Bildschirmen auf ?",
@@ -906,7 +906,7 @@
           "Chicago Med",
           "Notfall"
         ],
-        "réponse": "Zentralkrankenhaus",
+        "reponse": "Zentralkrankenhaus",
         "anecdote": "Es ist heute die erste längste und älteste amerikanische Seifenoper in Produktion vor « The Fires of Love » und « Love, Glory and Beauty »."
       },
       {
@@ -918,7 +918,7 @@
           "Jordanien",
           "Mongolei"
         ],
-        "réponse": "Afghanistan",
+        "reponse": "Afghanistan",
         "anecdote": "Dies war Teil der Tour, die von United Service Organizations unter dem Vorsitz des Stabschefs der US-Armee organisiert wurde."
       },
       {
@@ -930,7 +930,7 @@
           "Dunkler Engel",
           "X-Files"
         ],
-        "réponse": "Rand",
+        "reponse": "Rand",
         "anecdote": "In der Serie verwendet das Team die im Englischen als Randwissenschaft bekannte Methode, um ungeklärte Phänomene zu untersuchen."
       },
       {
@@ -942,7 +942,7 @@
           "Marc Sorkin",
           "Michel Gohou"
         ],
-        "réponse": "Trevor Engelson",
+        "reponse": "Trevor Engelson",
         "anecdote": "Trevor Engelson wurde 1976 in Great Neck, New York, geboren, hat eine amerikanische Staatsangehörigkeit und gehört der weißen ethnischen Gemeinschaft an."
       },
       {
@@ -954,7 +954,7 @@
           "Der Rover",
           "Erinnere dich an mich"
         ],
-        "réponse": "Erinnere dich an mich",
+        "reponse": "Erinnere dich an mich",
         "anecdote": "Trotz hervorragender Rezepte waren die Kritiker sehr skeptisch und beschwerten sich, dass der Film der « Twilight » Saga zu ähnlich sei."
       },
       {
@@ -966,7 +966,7 @@
           "Protestantisch",
           "Hindu"
         ],
-        "réponse": "Protestantisch",
+        "reponse": "Protestantisch",
         "anecdote": "Die private Zeremonie wurde in der königlichen Kapelle des Saint James Palace unter dem Vorsitz des Erzbischofs von Canterbury, Justin Welby, gefeiert."
       },
       {
@@ -978,7 +978,7 @@
           "Aussterben",
           "Der Sohn von Saul"
         ],
-        "réponse": "unsozial",
+        "reponse": "unsozial",
         "anecdote": "In diesem Film werden in der heutigen Stadt London verschiedene Aktionen gegen das gewalttätige Umfeld des Waffenhandels durchgeführt."
       },
       {
@@ -990,7 +990,7 @@
           "Myosotis",
           "Mimosa"
         ],
-        "réponse": "Myosotis",
+        "reponse": "Myosotis",
         "anecdote": "Am Tag vor der Hochzeit pflückte Prinz Harry selbst im Garten seiner Residenz im Kensington Palace Blumen."
       },
       {
@@ -1002,7 +1002,7 @@
           "Texas",
           "San Francisco"
         ],
-        "réponse": "Manhattan",
+        "reponse": "Manhattan",
         "anecdote": "« The Experts: Manhattan » hat nur wenige Outdoor-Szenen in New York gedreht, der Rest wird im Studio gedreht."
       },
       {
@@ -1014,7 +1014,7 @@
           "Schloss",
           "Hässliche Betty"
         ],
-        "réponse": "Schloss",
+        "reponse": "Schloss",
         "anecdote": "Laut Variety Magazine könnte ABC in Kürze eine Serie von « Castle » herausbringen, die sich auf Derrick Storm konzentriert."
       }
     ],
@@ -1028,7 +1028,7 @@
           "2007",
           "2009"
         ],
-        "réponse": "2003",
+        "reponse": "2003",
         "anecdote": "Meghan Markle studierte an Privatschulen in Los Angeles und anschließend an der Northwestern University in Chicago, Illinois."
       },
       {
@@ -1040,7 +1040,7 @@
           "Argentinien",
           "Griechenland"
         ],
-        "réponse": "Argentinien",
+        "reponse": "Argentinien",
         "anecdote": "Nach dem College arbeitete Meghan Markle eine Weile an der amerikanischen Botschaft in Buenos Aires, Argentinien."
       },
       {
@@ -1052,7 +1052,7 @@
           "Veterinär",
           "Webdesigner"
         ],
-        "réponse": "Kalligraph",
+        "reponse": "Kalligraph",
         "anecdote": "Meghan Markle übte in Teilzeit eine personalisierte Kalligraphie auf Hochzeitseinladungskarten aus."
       },
       {
@@ -1064,7 +1064,7 @@
           "Reitmans",
           "Kanadagans"
         ],
-        "réponse": "Reitmans",
+        "reponse": "Reitmans",
         "anecdote": "Meghan Markle kauft gerne online bei Reitmans, Kanadas führender Einzelhandelskette für Damenmode."
       },
       {
@@ -1076,7 +1076,7 @@
           "Eine junge Welt",
           "Nozem"
         ],
-        "réponse": "Eine junge Welt",
+        "reponse": "Eine junge Welt",
         "anecdote": "Die jungen Führungskräfte dieses Gipfels werden nach einem langen Auswahlprozess ausgewählt, der nach ihrem Führungspotential beurteilt wird."
       },
       {
@@ -1088,7 +1088,7 @@
           "Normand Laprise",
           "Anthony Sedlak"
         ],
-        "réponse": "Cory Vitiello",
+        "reponse": "Cory Vitiello",
         "anecdote": "Meghan Markle hätte zwei Jahre mit dem Torontoer Koch Cory Vitiello verbracht, nachdem er ihn in seinem alten Restaurant getroffen hatte."
       },
       {
@@ -1100,7 +1100,7 @@
           "Sarah Cassaway",
           "Sally Howard"
         ],
-        "réponse": "Wallis Simpson",
+        "reponse": "Wallis Simpson",
         "anecdote": "Nach seiner Scheidung von Earl Winfield Spencer Jr. heiratete Wallis Simpson am 21. Juli 1928 erneut mit Ernest Aldrich Simpson."
       },
       {
@@ -1112,7 +1112,7 @@
           "Edward III",
           "Charles II"
         ],
-        "réponse": "Edward III",
+        "reponse": "Edward III",
         "anecdote": "Edward wurde am 1. Februar 1327 im Alter von 14 Jahren in Westminster (London) gekrönt, weil sein Vater Edward II entlassen worden war."
       },
       {
@@ -1124,7 +1124,7 @@
           "Amanda Schull",
           "Jessica Mulroney"
         ],
-        "réponse": "Jessica Mulroney",
+        "reponse": "Jessica Mulroney",
         "anecdote": "Rachel Meghan Markle, bekannt als Meghan Markle, wurde am 4. August 1981 in Los Angeles, Kalifornien, als Tochter amerikanischer Eltern geboren."
       },
       {
@@ -1136,23 +1136,23 @@
           "38.000 EUR",
           "22.000 EUR"
         ],
-        "réponse": "57.000 EUR",
+        "reponse": "57.000 EUR",
         "anecdote": "Dieser aus Bio-Zutaten hergestellte königliche Kuchen wurde von Claire Ptak hergestellt, um mit dem klassischen kandierten Fruchtpudding zu brechen."
       }
     ]
     },
     "es": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "¿Qué título recibió Meghan Markle después de su segundo matrimonio ?",
+        "question": "¿Que título recibió Meghan Markle despues de su segundo matrimonio ?",
         "propositions": [
           "Duquesa de Sussex",
           "Condesa de York",
           "Alteza Real",
           "Princesa de Windsor"
         ],
-        "réponse": "Duquesa de Sussex",
+        "reponse": "Duquesa de Sussex",
         "anecdote": "Anteriormente, nunca hubo una duquesa de Sussex, a pesar de que Augustus Frederick (primer propietario) se casó dos veces."
       },
       {
@@ -1164,31 +1164,31 @@
           "Presentador de televisión",
           "Tenista"
         ],
-        "réponse": "Actriz",
+        "reponse": "Actriz",
         "anecdote": "Fue en la famosa serie de televisión estadounidense « Suits » que Meghan Markle interpretó a Rachel Zane, una asistente legal."
       },
       {
         "id": 3,
-        "question": "¿Después de qué temporada dejó Meghan Markle la serie « Suits » ?",
+        "question": "¿Despues de que temporada dejó Meghan Markle la serie « Suits » ?",
         "propositions": [
           "Ocho",
           "Quinto",
-          "Séptimo",
+          "Septimo",
           "Sexto"
         ],
-        "réponse": "Séptimo",
-        "anecdote": "En 2017, después de sus compromisos con el Príncipe Harry, dejó la serie « Suits » y tomó la decisión de interrumpir su carrera como actriz."
+        "reponse": "Septimo",
+        "anecdote": "En 2017, despues de sus compromisos con el Príncipe Harry, dejó la serie « Suits » y tomó la decisión de interrumpir su carrera como actriz."
       },
       {
         "id": 4,
-        "question": "¿Con qué coche famoso salió Meghan Markle en televisión ?",
+        "question": "¿Con que coche famoso salió Meghan Markle en televisión ?",
         "propositions": [
           "Máquina de misterio",
           "K 2000",
           "General Lee",
           "Christine"
         ],
-        "réponse": "K 2000",
+        "reponse": "K 2000",
         "anecdote": "« The Return of K 2000 » (Knight Rider) es una serie dramática estadounidense creada por David Andron y producida por Doug Liman."
       },
       {
@@ -1200,7 +1200,7 @@
           "Tres años",
           "Nueve años"
         ],
-        "réponse": "Tres años",
+        "reponse": "Tres años",
         "anecdote": "El 8 de noviembre de 2016, se anunció oficialmente que Meghan Markle era la compañera del Príncipe Harry, y esto desde junio de 2016."
       },
       {
@@ -1212,19 +1212,19 @@
           "Cuatro",
           "Seis"
         ],
-        "réponse": "Diez",
+        "reponse": "Diez",
         "anecdote": "Meghan Markle ha elegido cinco : sus dos ahijados Rylan y Remi Ritt y los tres hijos de su mejor amiga, Jessica Mulroney."
       },
       {
         "id": 7,
-        "question": "¿Qué negocio sigue ejerciendo hoy la madre de Meghan Markle ?",
+        "question": "¿Que negocio sigue ejerciendo hoy la madre de Meghan Markle ?",
         "propositions": [
           "Novelista",
           "Profesora de yoga",
           "Estilista",
           "Esteticista"
         ],
-        "réponse": "Profesora de yoga",
+        "reponse": "Profesora de yoga",
         "anecdote": "Meghan Markle fue criada en Los Ángeles por su madre afroamericana, Doria Ragland, y su padre, Thomas Wayne Markle."
       },
       {
@@ -1236,19 +1236,19 @@
           "500",
           "600"
         ],
-        "réponse": "600",
+        "reponse": "600",
         "anecdote": "El código de vestimenta impone un traje o cola para hombres, un vestido de cóctel y un sombrero para mujeres."
       },
       {
         "id": 9,
-        "question": "¿A quién escribió Meghan Markle una famosa carta de queja a la edad de once años ?",
+        "question": "¿A quien escribió Meghan Markle una famosa carta de queja a la edad de once años ?",
         "propositions": [
           "Michelle Obama",
           "Nancy Reagan",
           "Laura Bush",
           "Hillary Clinton"
         ],
-        "réponse": "Hillary Clinton",
+        "reponse": "Hillary Clinton",
         "anecdote": "El presidente de Procter And Gamble cambiará el texto de un comercial de televisión nacional que ella consideró demasiado sexista."
       },
       {
@@ -1260,70 +1260,70 @@
           "Lacroix",
           "Versace"
         ],
-        "réponse": "Givenchy",
+        "reponse": "Givenchy",
         "anecdote": "Llevaba un moño bajo coronado por una tiara de diamantes donada por la reina, que data de 1932, en un broche de 1893."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "¿En qué telenovela hizo Meghan Markle su primera aparición en las pantallas ?",
+        "question": "¿En que telenovela hizo Meghan Markle su primera aparición en las pantallas ?",
         "propositions": [
           "Emergencia",
           "Chicago Med",
           "Hospital Central",
           "Dr. House"
         ],
-        "réponse": "Hospital Central",
+        "reponse": "Hospital Central",
         "anecdote": "Es hoy la primera telenovela estadounidense más larga y antigua en producción frente a « The Fires of Love » y « Love, Glory and Beauty »."
       },
       {
         "id": 12,
-        "question": "¿En qué país fue Meghan Markle en 2014 para apoyar a las tropas estadounidenses ?",
+        "question": "¿En que país fue Meghan Markle en 2014 para apoyar a las tropas estadounidenses ?",
         "propositions": [
           "Camboya",
           "Mongolia",
           "Jordania",
           "Afganistán"
         ],
-        "réponse": "Afganistán",
-        "anecdote": "Esto fue parte de la gira organizada por United Service Organizations, presidida por el Jefe de Estado Mayor del Ejército de EE."
+        "reponse": "Afganistán",
+        "anecdote": "Esto fue parte de la gira organizada por United Service Organizations, presidida por el Jefe de Estado Mayor del Ejercito de EE."
       },
       {
         "id": 13,
-        "question": "¿En qué serie de ficción de ciencia ficción Meghan Markle ha encarnado a Amy Jessup ?",
+        "question": "¿En que serie de ficción de ciencia ficción Meghan Markle ha encarnado a Amy Jessup ?",
         "propositions": [
           "Fringe",
           "Archivos X",
           "Ángel Oscuro",
           "Más allá de"
         ],
-        "réponse": "Fringe",
-        "anecdote": "En la serie, el equipo usa lo que se conoce en inglés como ciencia marginal para investigar fenómenos inexplicables."
+        "reponse": "Fringe",
+        "anecdote": "En la serie, el equipo usa lo que se conoce en ingles como ciencia marginal para investigar fenómenos inexplicables."
       },
       {
         "id": 14,
-        "question": "¿Con qué productor californiano, Meghan Markle, se casó después de siete años juntos ?",
+        "question": "¿Con que productor californiano, Meghan Markle, se casó despues de siete años juntos ?",
         "propositions": [
           "Roy Marten",
           "Michel Gohou",
           "Trevor Engelson",
           "Marc Sorkin"
         ],
-        "réponse": "Trevor Engelson",
-        "anecdote": "Trevor Engelson nació en 1976 en Great Neck, Nueva York, tiene nacionalidad estadounidense y pertenece a la comunidad étnica blanca."
+        "reponse": "Trevor Engelson",
+        "anecdote": "Trevor Engelson nació en 1976 en Great Neck, Nueva York, tiene nacionalidad estadounidense y pertenece a la comunidad etnica blanca."
       },
       {
         "id": 15,
-        "question": "¿En qué largometraje de Robert Pattinson apareció Meghan Markle ?",
+        "question": "¿En que largometraje de Robert Pattinson apareció Meghan Markle ?",
         "propositions": [
           "El Rover",
           "Bel Ami",
           "Recordarme",
           "Cosmópolis"
         ],
-        "réponse": "Recordarme",
-        "anecdote": "A pesar de las excelentes recetas, los críticos se mostraron muy escépticos y se quejaron de que la película era demasiado similar a la saga « Twilight »."
+        "reponse": "Recordarme",
+        "anecdote": "A pesar de las excelentes recetas, los críticos se mostraron muy escepticos y se quejaron de que la película era demasiado similar a la saga « Twilight »."
       },
       {
         "id": 16,
@@ -1334,165 +1334,165 @@
           "Ortodoxos",
           "Protestante"
         ],
-        "réponse": "Protestante",
+        "reponse": "Protestante",
         "anecdote": "La ceremonia privada se celebró en la Capilla Real del Palacio de Saint James, presidida por el Arzobispo de Canterbury, Justin Welby."
       },
       {
         "id": 17,
-        "question": "¿En qué película dramática británico-húngara interpretó Meghan Markle su último papel ?",
+        "question": "¿En que película dramática británico-húngara interpretó Meghan Markle su último papel ?",
         "propositions": [
           "Mundo del papel",
           "Extinción",
           "Antisocial",
           "El Hijo de Saúl"
         ],
-        "réponse": "Antisocial",
+        "reponse": "Antisocial",
         "anecdote": "En esta película, se llevan a cabo varias acciones en la ciudad de Londres, en nuestro momento, contra el ambiente violento del tráfico de armas."
       },
       {
         "id": 18,
-        "question": "¿Qué flor querida por Diana iluminó el ramo de la segunda boda de Meghan Markle ?",
+        "question": "¿Que flor querida por Diana iluminó el ramo de la segunda boda de Meghan Markle ?",
         "propositions": [
           "Miosotis",
           "Mimosa",
           "Magnolia",
           "Hierba de San Juan"
         ],
-        "réponse": "Miosotis",
+        "reponse": "Miosotis",
         "anecdote": "El príncipe Harry mismo recogió flores, el día antes de la boda, en el jardín de su residencia en el Palacio de Kensington."
       },
       {
         "id": 19,
-        "question": "¿En qué serie de « Expertos » interpretó Meghan Markle a Veronica Perez ?",
+        "question": "¿En que serie de « Expertos » interpretó Meghan Markle a Veronica Perez ?",
         "propositions": [
           "San Francisco",
           "Texas",
           "Miami",
           "Manhattan"
         ],
-        "réponse": "Manhattan",
+        "reponse": "Manhattan",
         "anecdote": "« Los expertos: Manhattan » solo tienen algunas escenas al aire libre filmadas en Nueva York, el resto se filma en el estudio."
       },
       {
         "id": 20,
-        "question": "¿En qué serie interpretó Meghan Markle la bella durmiente ?",
+        "question": "¿En que serie interpretó Meghan Markle la bella durmiente ?",
         "propositions": [
           "Betty fea",
-          "Héroes",
+          "Heroes",
           "Castillo",
           "Gossip Girl"
         ],
-        "réponse": "Castillo",
+        "reponse": "Castillo",
         "anecdote": "Según la revista Variety, ABC pronto podría lanzar una serie de « Castle », la historia centrada en Derrick Storm."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "¿En qué año recibió Meghan Markle una licenciatura en teatro y relaciones internacionales ?",
+        "question": "¿En que año recibió Meghan Markle una licenciatura en teatro y relaciones internacionales ?",
         "propositions": [
           "2009",
           "2005",
           "2007",
           "2003"
         ],
-        "réponse": "2003",
+        "reponse": "2003",
         "anecdote": "Meghan Markle estudió en escuelas privadas en Los Ángeles y luego en la Universidad Northwestern en Chicago, Illinois."
       },
       {
         "id": 22,
-        "question": "¿En qué país espera Meghan Markle seguir una carrera política ?",
+        "question": "¿En que país espera Meghan Markle seguir una carrera política ?",
         "propositions": [
           "España",
           "Grecia",
           "Canada",
           "Argentina"
         ],
-        "réponse": "Argentina",
-        "anecdote": "Después de la universidad, Meghan Markle trabajó durante un tiempo en la Embajada de los Estados Unidos en Buenos Aires, Argentina."
+        "reponse": "Argentina",
+        "anecdote": "Despues de la universidad, Meghan Markle trabajó durante un tiempo en la Embajada de los Estados Unidos en Buenos Aires, Argentina."
       },
       {
         "id": 23,
-        "question": "¿Qué negocio tiene Meghan Markle por cuenta propia para pagar sus facturas ?",
+        "question": "¿Que negocio tiene Meghan Markle por cuenta propia para pagar sus facturas ?",
         "propositions": [
           "Veterinaria",
           "Calligraphe",
           "Diseñador web",
           "Contable"
         ],
-        "réponse": "Calligraphe",
+        "reponse": "Calligraphe",
         "anecdote": "A tiempo parcial, Meghan Markle incluyó caligrafía personalizada en las tarjetas de invitación de boda."
       },
       {
         "id": 24,
-        "question": "¿Para qué cadena de tiendas por departamento se ha convertido Meghan Markle en una franquicia publicitaria ?",
+        "question": "¿Para que cadena de tiendas por departamento se ha convertido Meghan Markle en una franquicia publicitaria ?",
         "propositions": [
           "Liberty And Co",
           "Hamleys",
           "Reitmans",
           "Ganso de Canadá"
         ],
-        "réponse": "Reitmans",
+        "reponse": "Reitmans",
         "anecdote": "A Meghan Markle le encanta comprar en línea en Reitmans, la cadena minorista de moda femenina líder en Canadá."
       },
       {
         "id": 25,
-        "question": "¿Para qué cumbre anual habló Meghan Markle sobre la esclavitud moderna ?",
+        "question": "¿Para que cumbre anual habló Meghan Markle sobre la esclavitud moderna ?",
         "propositions": [
           "Un mundo joven",
           "Gordonia",
           "Nozem",
           "Fimcap"
         ],
-        "réponse": "Un mundo joven",
-        "anecdote": "Los jóvenes líderes de esta cumbre son elegidos después de un largo proceso de selección, juzgados por su potencial de liderazgo."
+        "reponse": "Un mundo joven",
+        "anecdote": "Los jóvenes líderes de esta cumbre son elegidos despues de un largo proceso de selección, juzgados por su potencial de liderazgo."
       },
       {
         "id": 26,
-        "question": "¿Qué chef culinaria canadiense, Meghan Markle, se separó en 2016 ?",
+        "question": "¿Que chef culinaria canadiense, Meghan Markle, se separó en 2016 ?",
         "propositions": [
           "Renaud Cyr",
           "Normand Laprise",
           "Cory Vitiello",
           "Anthony Sedlak"
         ],
-        "réponse": "Cory Vitiello",
-        "anecdote": "Meghan Markle habría pasado dos años con el chef de Toronto Cory Vitiello, habiéndolo encontrado en su antiguo restaurante."
+        "reponse": "Cory Vitiello",
+        "anecdote": "Meghan Markle habría pasado dos años con el chef de Toronto Cory Vitiello, habiendolo encontrado en su antiguo restaurante."
       },
       {
         "id": 27,
-        "question": "Además de Meghan Markle, ¿qué otro divorciado estadounidense también ha ingresado en la familia real ?",
+        "question": "Además de Meghan Markle, ¿que otro divorciado estadounidense tambien ha ingresado en la familia real ?",
         "propositions": [
           "Sarah Cassaway",
           "Wallis Simpson",
           "Priscilla Presbury",
           "Sally Howard"
         ],
-        "réponse": "Wallis Simpson",
-        "anecdote": "Después de su divorcio de Earl Winfield Spencer Jr., Wallis Simpson se volvió a casar el 21 de julio de 1928 con Ernest Aldrich Simpson."
+        "reponse": "Wallis Simpson",
+        "anecdote": "Despues de su divorcio de Earl Winfield Spencer Jr., Wallis Simpson se volvió a casar el 21 de julio de 1928 con Ernest Aldrich Simpson."
       },
       {
         "id": 28,
-        "question": "¿Qué rey de Inglaterra es ancestro del padre de Meghan Markle ?",
+        "question": "¿Que rey de Inglaterra es ancestro del padre de Meghan Markle ?",
         "propositions": [
           "Edward III",
           "Carlos II",
           "Enrique III",
           "John sin tierra"
         ],
-        "réponse": "Edward III",
+        "reponse": "Edward III",
         "anecdote": "Edward fue coronado en Westminster (Londres) el 1 de febrero de 1327, a la edad de 14 años, debido al despido de su padre Edward II."
       },
       {
         "id": 29,
-        "question": "¿Qué mejor amiga de Meghan Markle la acompañó a su boda principesca ?",
+        "question": "¿Que mejor amiga de Meghan Markle la acompañó a su boda principesca ?",
         "propositions": [
           "Sarah Rafferty",
           "Amanda Schull",
           "Katherine Heigl",
           "Jessica Mulroney"
         ],
-        "réponse": "Jessica Mulroney",
+        "reponse": "Jessica Mulroney",
         "anecdote": "Rachel Meghan Markle, conocida como Meghan Markle, nació el 4 de agosto de 1981 en Los Ángeles, California, de padres estadounidenses."
       },
       {
@@ -1504,13 +1504,13 @@
           "EUR 43,000",
           "EUR 57,000"
         ],
-        "réponse": "EUR 57,000",
+        "reponse": "EUR 57,000",
         "anecdote": "Rompiendo con el clásico budín de fruta confitada, este pastel real, hecho con ingredientes orgánicos, fue hecho por Claire Ptak."
       }
     ]
     },
     "it": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Quale titolo ha ricevuto Meghan Markle dopo il suo secondo matrimonio ?",
@@ -1520,7 +1520,7 @@
           "Contessa di York",
           "Altezza reale"
         ],
-        "réponse": "Duchessa del Sussex",
+        "reponse": "Duchessa del Sussex",
         "anecdote": "In precedenza, non c'era mai stata una duchessa del Sussex, anche se Augustus Frederick (primo proprietario) si sposò due volte."
       },
       {
@@ -1532,7 +1532,7 @@
           "Giocatore di tennis",
           "Avvocato"
         ],
-        "réponse": "Attrice",
+        "reponse": "Attrice",
         "anecdote": "Fu nella famosa serie TV americana « Suits » che Meghan Markle interpretò Rachel Zane, un'assistente legale."
       },
       {
@@ -1544,32 +1544,32 @@
           "Sesto",
           "Otto"
         ],
-        "réponse": "Settimo",
+        "reponse": "Settimo",
         "anecdote": "Nel 2017, in seguito ai suoi impegni con il principe Harry, ha lasciato la serie « Suits » e ha preso la decisione di interrompere la sua carriera di attrice."
       },
       {
         "id": 4,
-        "question": "Con quale macchina famosa Meghan Markle è andata in televisione ?",
+        "question": "Con quale macchina famosa Meghan Markle e andata in televisione ?",
         "propositions": [
           "Mystery Machine",
           "Christine",
           "Generale Lee",
           "K 2000"
         ],
-        "réponse": "K 2000",
-        "anecdote": "« The Return of K 2000 » (Knight Rider) è una serie drammatica americana creata da David Andron e prodotta da Doug Liman."
+        "reponse": "K 2000",
+        "anecdote": "« The Return of K 2000 » (Knight Rider) e una serie drammatica americana creata da David Andron e prodotta da Doug Liman."
       },
       {
         "id": 5,
-        "question": "Da quanti anni Meghan Markle è il compleanno di suo marito, il principe Harry ?",
+        "question": "Da quanti anni Meghan Markle e il compleanno di suo marito, il principe Harry ?",
         "propositions": [
           "Cinque anni",
           "Tre anni",
           "Nove anni",
           "Sette anni"
         ],
-        "réponse": "Tre anni",
-        "anecdote": "L'8 novembre 2016, è stato annunciato ufficialmente che Meghan Markle era la compagna del principe Harry, e questo dal giugno 2016."
+        "reponse": "Tre anni",
+        "anecdote": "L'8 novembre 2016, e stato annunciato ufficialmente che Meghan Markle era la compagna del principe Harry, e questo dal giugno 2016."
       },
       {
         "id": 6,
@@ -1580,7 +1580,7 @@
           "Quattro",
           "Otto"
         ],
-        "réponse": "Dieci",
+        "reponse": "Dieci",
         "anecdote": "Meghan Markle ne ha scelti cinque : i suoi due figliolini Rylan e Remi Ritt e i tre figli della sua migliore amica, Jessica Mulroney."
       },
       {
@@ -1592,8 +1592,8 @@
           "Romanziere",
           "Estetista"
         ],
-        "réponse": "Insegnante di yoga",
-        "anecdote": "Meghan Markle è cresciuta a Los Angeles da sua madre afroamericana, Doria Ragland, e da suo padre, Thomas Wayne Markle."
+        "reponse": "Insegnante di yoga",
+        "anecdote": "Meghan Markle e cresciuta a Los Angeles da sua madre afroamericana, Doria Ragland, e da suo padre, Thomas Wayne Markle."
       },
       {
         "id": 8,
@@ -1604,7 +1604,7 @@
           "500",
           "600"
         ],
-        "réponse": "600",
+        "reponse": "600",
         "anecdote": "Il codice di abbigliamento impone un abito o una coda per uomo, un abito da cocktail e un cappello per donna."
       },
       {
@@ -1616,7 +1616,7 @@
           "Laura Bush",
           "Nancy Reagan"
         ],
-        "réponse": "Hillary Clinton",
+        "reponse": "Hillary Clinton",
         "anecdote": "Il presidente di Procter And Gamble cambierà il testo di uno spot televisivo nazionale che considerava troppo sessista."
       },
       {
@@ -1628,11 +1628,11 @@
           "Versace",
           "Lacroix"
         ],
-        "réponse": "Givenchy",
+        "reponse": "Givenchy",
         "anecdote": "Indossava un panino basso sormontato da una tiara di diamanti donata dalla regina, risalente al 1932, su una spilla del 1893."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "In quale soap opera Meghan Markle ha fatto la sua prima apparizione sugli schermi ?",
@@ -1642,19 +1642,19 @@
           "Emergenza",
           "Chicago Med"
         ],
-        "réponse": "Ospedale centrale",
-        "anecdote": "Oggi è la prima soap opera americana più lunga e più antica in produzione di fronte a « The Fires of Love » e « Love, Glory and Beauty »."
+        "reponse": "Ospedale centrale",
+        "anecdote": "Oggi e la prima soap opera americana piu lunga e piu antica in produzione di fronte a « The Fires of Love » e « Love, Glory and Beauty »."
       },
       {
         "id": 12,
-        "question": "In quale paese Meghan Markle è andato nel 2014 per sostenere le truppe statunitensi ?",
+        "question": "In quale paese Meghan Markle e andato nel 2014 per sostenere le truppe statunitensi ?",
         "propositions": [
           "Mongolia",
           "Giordania",
           "Cambogia",
           "Afghanistan"
         ],
-        "réponse": "Afghanistan",
+        "reponse": "Afghanistan",
         "anecdote": "Questo faceva parte del tour organizzato dalle United Service Organizations, presieduto dal Capo di stato maggiore dell'esercito americano."
       },
       {
@@ -1666,44 +1666,44 @@
           "Dark Angel",
           "X-Files"
         ],
-        "réponse": "Frangia",
-        "anecdote": "Nella serie, il team utilizza ciò che è noto in inglese come scienza marginale per studiare fenomeni inspiegabili."
+        "reponse": "Frangia",
+        "anecdote": "Nella serie, il team utilizza ciò che e noto in inglese come scienza marginale per studiare fenomeni inspiegabili."
       },
       {
         "id": 14,
-        "question": "Quale produttore californiano Meghan Markle si è sposata dopo sette anni insieme ?",
+        "question": "Quale produttore californiano Meghan Markle si e sposata dopo sette anni insieme ?",
         "propositions": [
           "Michel Gohou",
           "Marc Sorkin",
           "Trevor Engelson",
           "Roy Marten"
         ],
-        "réponse": "Trevor Engelson",
-        "anecdote": "Trevor Engelson è nato nel 1976 a Great Neck, New York, ha una nazionalità americana e appartiene alla comunità etnica bianca."
+        "reponse": "Trevor Engelson",
+        "anecdote": "Trevor Engelson e nato nel 1976 a Great Neck, New York, ha una nazionalità americana e appartiene alla comunità etnica bianca."
       },
       {
         "id": 15,
-        "question": "In quale film di Robert Pattinson è apparso Meghan Markle ?",
+        "question": "In quale film di Robert Pattinson e apparso Meghan Markle ?",
         "propositions": [
           "Ricordami",
           "Rover",
           "Cosmopolis",
           "Bel Ami"
         ],
-        "réponse": "Ricordami",
+        "reponse": "Ricordami",
         "anecdote": "Nonostante le eccellenti ricette, i critici erano molto scettici, lamentandosi del fatto che il film fosse troppo simile alla saga di « Twilight »."
       },
       {
         "id": 16,
-        "question": "Qual è stata la religione adottata da Meghan Markle prima di diventare anglicana ?",
+        "question": "Qual e stata la religione adottata da Meghan Markle prima di diventare anglicana ?",
         "propositions": [
           "Cattolica",
           "Ortodossa",
           "Protestante",
-          "Indù"
+          "Indu"
         ],
-        "réponse": "Protestante",
-        "anecdote": "La cerimonia privata è stata celebrata nella Cappella reale di Saint James Palace, presieduta dall'arcivescovo di Canterbury, Justin Welby."
+        "reponse": "Protestante",
+        "anecdote": "La cerimonia privata e stata celebrata nella Cappella reale di Saint James Palace, presieduta dall'arcivescovo di Canterbury, Justin Welby."
       },
       {
         "id": 17,
@@ -1714,7 +1714,7 @@
           "Il figlio di Saul",
           "Paper World"
         ],
-        "réponse": "Antisociale",
+        "reponse": "Antisociale",
         "anecdote": "In questo film, varie azioni vengono eseguite nella città di Londra, ai nostri tempi, contro l'ambiente violento del traffico di armi."
       },
       {
@@ -1726,7 +1726,7 @@
           "Erba di San Giovanni",
           "Mimosa"
         ],
-        "réponse": "Miosotis",
+        "reponse": "Miosotis",
         "anecdote": "I fiori furono raccolti dallo stesso principe Harry, il giorno prima del matrimonio, nel giardino della loro residenza a Kensington Palace."
       },
       {
@@ -1738,8 +1738,8 @@
           "San Francisco",
           "Miami"
         ],
-        "réponse": "Manhattan",
-        "anecdote": "« Gli esperti: Manhattan » hanno solo alcune scene all'aperto girate a New York, il resto è girato in studio."
+        "reponse": "Manhattan",
+        "anecdote": "« Gli esperti: Manhattan » hanno solo alcune scene all'aperto girate a New York, il resto e girato in studio."
       },
       {
         "id": 20,
@@ -1750,7 +1750,7 @@
           "Castello",
           "Ugly Betty"
         ],
-        "réponse": "Castello",
+        "reponse": "Castello",
         "anecdote": "Secondo la rivista Variety, ABC potrebbe presto lanciare una serie di « Castle », la trama incentrata su Derrick Storm."
       }
     ],
@@ -1764,7 +1764,7 @@
           "2009",
           "2007"
         ],
-        "réponse": "2003",
+        "reponse": "2003",
         "anecdote": "Meghan Markle ha studiato in scuole private a Los Angeles e poi alla Northwestern University di Chicago, Illinois."
       },
       {
@@ -1776,7 +1776,7 @@
           "Grecia",
           "Canada"
         ],
-        "réponse": "Argentina",
+        "reponse": "Argentina",
         "anecdote": "Dopo il college, Meghan Markle ha lavorato per un po 'presso l'ambasciata americana a Buenos Aires, in Argentina."
       },
       {
@@ -1788,67 +1788,67 @@
           "Veterinario",
           "Web designer"
         ],
-        "réponse": "Calligraphe",
+        "reponse": "Calligraphe",
         "anecdote": "Esercizio part-time, Meghan Markle includeva calligrafia personalizzata su biglietti d'invito per il matrimonio."
       },
       {
         "id": 24,
-        "question": "Per quale catena di grandi magazzini Meghan Markle è diventata un franchising pubblicitario ?",
+        "question": "Per quale catena di grandi magazzini Meghan Markle e diventata un franchising pubblicitario ?",
         "propositions": [
           "Hamleys",
           "Liberty And Co",
           "Reitmans",
           "Canada Goose"
         ],
-        "réponse": "Reitmans",
+        "reponse": "Reitmans",
         "anecdote": "Meghan Markle ama fare shopping online presso Reitmans, la principale catena di negozi al dettaglio di moda femminile in Canada."
       },
       {
         "id": 25,
-        "question": "Per quale summit annuale Meghan Markle ha parlato della schiavitù moderna ?",
+        "question": "Per quale summit annuale Meghan Markle ha parlato della schiavitu moderna ?",
         "propositions": [
           "Un mondo giovane",
           "Fimcap",
           "Gordonia",
           "Nozem"
         ],
-        "réponse": "Un mondo giovane",
+        "reponse": "Un mondo giovane",
         "anecdote": "I giovani leader di questo vertice vengono scelti dopo un lungo processo di selezione, giudicato per il loro potenziale di leadership."
       },
       {
         "id": 26,
-        "question": "Quale chef culinario canadese, Meghan Markle, si è sciolto nel 2016 ?",
+        "question": "Quale chef culinario canadese, Meghan Markle, si e sciolto nel 2016 ?",
         "propositions": [
           "Anthony Sedlak",
           "Cory Vitiello",
           "Normand Laprise",
           "Renaud Cyr"
         ],
-        "réponse": "Cory Vitiello",
+        "reponse": "Cory Vitiello",
         "anecdote": "Meghan Markle avrebbe trascorso due anni con lo chef di Toronto Cory Vitiello, incontrandolo nel suo vecchio ristorante."
       },
       {
         "id": 27,
-        "question": "A parte Meghan Markle, quale altro divorzio americano è entrato anche nella famiglia reale ?",
+        "question": "A parte Meghan Markle, quale altro divorzio americano e entrato anche nella famiglia reale ?",
         "propositions": [
           "Wallis Simpson",
           "Sally Howard",
           "Sarah Cassaway",
           "Priscilla Presbury"
         ],
-        "réponse": "Wallis Simpson",
+        "reponse": "Wallis Simpson",
         "anecdote": "Dopo il divorzio da Earl Winfield Spencer Jr., Wallis Simpson si risposò il 21 luglio 1928 con Ernest Aldrich Simpson."
       },
       {
         "id": 28,
-        "question": "Quale re d'Inghilterra è un antenato del padre di Meghan Markle ?",
+        "question": "Quale re d'Inghilterra e un antenato del padre di Meghan Markle ?",
         "propositions": [
           "Carlo II",
           "Giovanni senza terra",
           "Henri III",
           "Edoardo III"
         ],
-        "réponse": "Edoardo III",
+        "reponse": "Edoardo III",
         "anecdote": "Edward fu incoronato a Westminster (Londra) il 1 ° febbraio 1327, all'età di 14 anni, a causa del licenziamento di suo padre Edoardo II."
       },
       {
@@ -1860,8 +1860,8 @@
           "Katherine Heigl",
           "Amanda Schull"
         ],
-        "réponse": "Jessica Mulroney",
-        "anecdote": "Rachel Meghan Markle, conosciuta come Meghan Markle, è nata il 4 agosto 1981 a Los Angeles, in California, da genitori americani."
+        "reponse": "Jessica Mulroney",
+        "anecdote": "Rachel Meghan Markle, conosciuta come Meghan Markle, e nata il 4 agosto 1981 a Los Angeles, in California, da genitori americani."
       },
       {
         "id": 30,
@@ -1872,13 +1872,13 @@
           "22.000 EUR",
           "43.000 EUR"
         ],
-        "réponse": "57.000 EUR",
-        "anecdote": "Rompere con il classico budino di frutta candita, questa torta reale, fatta con ingredienti biologici, è stata prodotta da Claire Ptak."
+        "reponse": "57.000 EUR",
+        "anecdote": "Rompere con il classico budino di frutta candita, questa torta reale, fatta con ingredienti biologici, e stata prodotta da Claire Ptak."
       }
     ]
     },
     "nl": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Welke titel kreeg Meghan Markle na haar tweede huwelijk ?",
@@ -1888,7 +1888,7 @@
           "Hertogin van Sussex",
           "Prinses van Windsor"
         ],
-        "réponse": "Hertogin van Sussex",
+        "reponse": "Hertogin van Sussex",
         "anecdote": "Voorheen was er nooit een hertogin van Sussex, hoewel Augustus Frederick (eerste eigenaar) twee keer trouwde."
       },
       {
@@ -1900,7 +1900,7 @@
           "Tv-presentator",
           "Advocaat"
         ],
-        "réponse": "Actrice",
+        "reponse": "Actrice",
         "anecdote": "Het was in de beroemde Amerikaanse tv-serie « Suits » dat Meghan Markle Rachel Zane, een juridisch assistent, uitvoerde."
       },
       {
@@ -1912,8 +1912,8 @@
           "Zesde",
           "Vijfde"
         ],
-        "réponse": "Zevende",
-        "anecdote": "In 2017, na haar verlovingen met Prins Harry, verliet ze de serie « Suits » en nam ze de beslissing om haar carrière als actrice te onderbreken."
+        "reponse": "Zevende",
+        "anecdote": "In 2017, na haar verlovingen met Prins Harry, verliet ze de serie « Suits » en nam ze de beslissing om haar carriere als actrice te onderbreken."
       },
       {
         "id": 4,
@@ -1924,7 +1924,7 @@
           "K 2000",
           "Christine"
         ],
-        "réponse": "K 2000",
+        "reponse": "K 2000",
         "anecdote": "« The Return of K 2000 » (Knight Rider) is een Amerikaanse dramaserie gemaakt door David Andron en geproduceerd door Doug Liman."
       },
       {
@@ -1936,7 +1936,7 @@
           "Zeven jaar",
           "Vijf jaar"
         ],
-        "réponse": "Drie jaar",
+        "reponse": "Drie jaar",
         "anecdote": "Op 8 november 2016 werd officieel aangekondigd dat Meghan Markle de metgezel van Prins Harry was, en dit sinds juni 2016."
       },
       {
@@ -1948,7 +1948,7 @@
           "Tien",
           "Acht"
         ],
-        "réponse": "Tien",
+        "reponse": "Tien",
         "anecdote": "Meghan Markle heeft er vijf uitgekozen : haar twee petekinderen Rylan en Remi Ritt en de drie kinderen van haar beste vriendin, Jessica Mulroney."
       },
       {
@@ -1960,7 +1960,7 @@
           "Romanschrijver",
           "Schoonheidsspecialiste"
         ],
-        "réponse": "Yoga leraar",
+        "reponse": "Yoga leraar",
         "anecdote": "Meghan Markle werd in Los Angeles grootgebracht door haar Afro-Amerikaanse moeder, Doria Ragland, en haar vader, Thomas Wayne Markle."
       },
       {
@@ -1972,7 +1972,7 @@
           "400",
           "500"
         ],
-        "réponse": "600",
+        "reponse": "600",
         "anecdote": "De dresscode legt een pak of staart op voor mannen, een cocktailjurk en een hoed voor vrouwen."
       },
       {
@@ -1984,7 +1984,7 @@
           "Michelle Obama",
           "Hillary Clinton"
         ],
-        "réponse": "Hillary Clinton",
+        "reponse": "Hillary Clinton",
         "anecdote": "De president van Procter And Gamble zal de tekst van een nationale televisiecommercial wijzigen die zij te seksistisch vond."
       },
       {
@@ -1996,11 +1996,11 @@
           "Lacroix",
           "Versace"
         ],
-        "réponse": "Givenchy",
+        "reponse": "Givenchy",
         "anecdote": "Ze droeg een laag broodje met daarboven een diamanten tiara geschonken door de koningin, uit 1932, op een broche van 1893."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "In welke soapserie verscheen Meghan Markle voor het eerst op de schermen ?",
@@ -2010,7 +2010,7 @@
           "Chicago Med",
           "Centraal ziekenhuis"
         ],
-        "réponse": "Centraal ziekenhuis",
+        "reponse": "Centraal ziekenhuis",
         "anecdote": "Het is vandaag de eerste langste en oudste Amerikaanse soapserie in productie voor « The Fires of Love » en « Love, Glory and Beauty »."
       },
       {
@@ -2019,10 +2019,10 @@
         "propositions": [
           "Cambodja",
           "Afghanistan",
-          "Mongolië",
-          "Jordanië"
+          "Mongolia",
+          "Jordania"
         ],
-        "réponse": "Afghanistan",
+        "reponse": "Afghanistan",
         "anecdote": "Dit was onderdeel van de tour georganiseerd door United Service Organisations, voorgezeten door de stafchef van het Amerikaanse leger."
       },
       {
@@ -2034,7 +2034,7 @@
           "X-bestanden",
           "Voorbij"
         ],
-        "réponse": "Fringe",
+        "reponse": "Fringe",
         "anecdote": "In de serie gebruikt het team wat in het Engels bekend staat als fringe science om onverklaarbare fenomenen te onderzoeken."
       },
       {
@@ -2046,7 +2046,7 @@
           "Roy Marten",
           "Michel Gohou"
         ],
-        "réponse": "Trevor Engelson",
+        "reponse": "Trevor Engelson",
         "anecdote": "Trevor Engelson werd geboren in 1976 in Great Neck, New York, heeft een Amerikaanse nationaliteit en behoort tot de blanke etnische gemeenschap."
       },
       {
@@ -2058,7 +2058,7 @@
           "Onthoud mij",
           "De Rover"
         ],
-        "réponse": "Onthoud mij",
+        "reponse": "Onthoud mij",
         "anecdote": "Ondanks uitstekende recepten, waren de critici erg sceptisch en klaagden ze dat de film te veel leek op de « Twilight » saga."
       },
       {
@@ -2070,8 +2070,8 @@
           "Hindu",
           "Orthodox"
         ],
-        "réponse": "Protestants",
-        "anecdote": "De privéceremonie werd gevierd in de koninklijke kapel van Saint James Palace, voorgezeten door de aartsbisschop van Canterbury, Justin Welby."
+        "reponse": "Protestants",
+        "anecdote": "De priveceremonie werd gevierd in de koninklijke kapel van Saint James Palace, voorgezeten door de aartsbisschop van Canterbury, Justin Welby."
       },
       {
         "id": 17,
@@ -2082,7 +2082,7 @@
           "Asociaal",
           "Uitsterven"
         ],
-        "réponse": "Asociaal",
+        "reponse": "Asociaal",
         "anecdote": "In deze film worden op dit moment verschillende acties uitgevoerd in de stad Londen tegen de gewelddadige omgeving van wapenhandel."
       },
       {
@@ -2094,7 +2094,7 @@
           "Magnolia",
           "Sint-janskruid"
         ],
-        "réponse": "Myosotis",
+        "reponse": "Myosotis",
         "anecdote": "Bloemen werden geplukt door Prins Harry zelf, de dag voor de bruiloft, in de tuin van hun woning in Kensington Palace."
       },
       {
@@ -2106,8 +2106,8 @@
           "San Francisco",
           "Miami"
         ],
-        "réponse": "Manhattan",
-        "anecdote": "« The Experts: Manhattan » hebben slechts een paar scènes buitenshuis gefilmd in New York, de rest wordt opgenomen in de studio."
+        "reponse": "Manhattan",
+        "anecdote": "« The Experts: Manhattan » hebben slechts een paar scenes buitenshuis gefilmd in New York, de rest wordt opgenomen in de studio."
       },
       {
         "id": 20,
@@ -2118,7 +2118,7 @@
           "Kasteel",
           "Helden"
         ],
-        "réponse": "Kasteel",
+        "reponse": "Kasteel",
         "anecdote": "Volgens het tijdschrift Variety zou ABC binnenkort een serie « Castle » kunnen lanceren, het verhaal rond Derrick Storm."
       }
     ],
@@ -2132,20 +2132,20 @@
           "2005",
           "2009"
         ],
-        "réponse": "2003",
-        "anecdote": "Meghan Markle studeerde aan privéscholen in Los Angeles en vervolgens aan de Northwestern University in Chicago, Illinois."
+        "reponse": "2003",
+        "anecdote": "Meghan Markle studeerde aan privescholen in Los Angeles en vervolgens aan de Northwestern University in Chicago, Illinois."
       },
       {
         "id": 22,
-        "question": "In welk land hoopt Meghan Markle een politieke carriëre te volgen ?",
+        "question": "In welk land hoopt Meghan Markle een politieke carriare te volgen ?",
         "propositions": [
           "Spanje",
-          "Argentinië",
+          "Argentinia",
           "Canada",
           "Griekenland"
         ],
-        "réponse": "Argentinië",
-        "anecdote": "Na zijn studie werkte Meghan Markle een tijdje op de Amerikaanse ambassade in Buenos Aires, Argentinië."
+        "reponse": "Argentinia",
+        "anecdote": "Na zijn studie werkte Meghan Markle een tijdje op de Amerikaanse ambassade in Buenos Aires, Argentinia."
       },
       {
         "id": 23,
@@ -2156,7 +2156,7 @@
           "Web ontwerper",
           "Calligraphe"
         ],
-        "réponse": "Calligraphe",
+        "reponse": "Calligraphe",
         "anecdote": "Meghan Markle heeft in deeltijd geoefend met kalligrafie op trouwkaarten."
       },
       {
@@ -2168,7 +2168,7 @@
           "Hamleys",
           "Reitmans"
         ],
-        "réponse": "Reitmans",
+        "reponse": "Reitmans",
         "anecdote": "Meghan Markle houdt van online winkelen bij Reitmans, Canada's toonaangevende winkelketen voor damesmode."
       },
       {
@@ -2180,7 +2180,7 @@
           "Fimcap",
           "Een jonge wereld"
         ],
-        "réponse": "Een jonge wereld",
+        "reponse": "Een jonge wereld",
         "anecdote": "De jonge leiders van deze top worden gekozen na een lang selectieproces, beoordeeld op hun leiderschapspotentieel."
       },
       {
@@ -2192,7 +2192,7 @@
           "Anthony Sedlak",
           "Normand Laprise"
         ],
-        "réponse": "Cory Vitiello",
+        "reponse": "Cory Vitiello",
         "anecdote": "Meghan Markle zou twee jaar bij Toronto-chef Cory Vitiello hebben doorgebracht, nadat hij hem had ontmoet in zijn oude restaurant."
       },
       {
@@ -2204,7 +2204,7 @@
           "Priscilla Presbury",
           "Sarah Cassaway"
         ],
-        "réponse": "Wallis Simpson",
+        "reponse": "Wallis Simpson",
         "anecdote": "Na zijn scheiding van Earl Winfield Spencer Jr. hertrouwde Wallis Simpson op 21 juli 1928 met Ernest Aldrich Simpson."
       },
       {
@@ -2216,7 +2216,7 @@
           "John zonder land",
           "Charles II"
         ],
-        "réponse": "Edward III",
+        "reponse": "Edward III",
         "anecdote": "Edward werd op 1 februari 1327 op 14-jarige leeftijd gekroond in Westminster (Londen) vanwege het ontslag van zijn vader Edward II."
       },
       {
@@ -2228,8 +2228,8 @@
           "Jessica Mulroney",
           "Katherine Heigl"
         ],
-        "réponse": "Jessica Mulroney",
-        "anecdote": "Rachel Meghan Markle, bekend als Meghan Markle, werd geboren op 4 augustus 1981 in Los Angeles, Californië, aan Amerikaanse ouders."
+        "reponse": "Jessica Mulroney",
+        "anecdote": "Rachel Meghan Markle, bekend als Meghan Markle, werd geboren op 4 augustus 1981 in Los Angeles, California, aan Amerikaanse ouders."
       },
       {
         "id": 30,
@@ -2240,8 +2240,8 @@
           "EUR 22.000",
           "EUR 43.000"
         ],
-        "réponse": "EUR 57.000",
-        "anecdote": "Breaking met de klassieke gekonfijte fruitpudding, deze koninklijke cake, gemaakt van biologische ingrediënten, werd gemaakt door Claire Ptak."
+        "reponse": "EUR 57.000",
+        "anecdote": "Breaking met de klassieke gekonfijte fruitpudding, deze koninklijke cake, gemaakt van biologische ingredianten, werd gemaakt door Claire Ptak."
       }
     ]
     }

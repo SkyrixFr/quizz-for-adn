@@ -1,91 +1,91 @@
 {                                     
   "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
-  "rédacteur": "Philippe Bresoux",       
-  "difficulté": "4 / 5",
+  "redacteur": "Philippe Bresoux",       
+  "difficulte": "4 / 5",
   "version": 1,
   "mise-à-jour": "2023-04-22",
-  "catégorie-nom-slogan": {
+  "categorie-nom-slogan": {
     "fr": {
-      "catégorie": "Animaux",
+      "categorie": "Animaux",
       "nom": "Animaux en chiffres",
       "slogan": "Si un animal vous parle, il ment"
     },
     "en": {
-      "catégorie": "Animals",
+      "categorie": "Animals",
       "nom": "Animals in numbers",
       "slogan": "If an animal speaks to you, it lies"
     },
     "es": {
-      "catégorie": "Animales",
+      "categorie": "Animales",
       "nom": "Animales en números",
       "slogan": "Si un animal te habla, miente"
     },
     "it": {
-      "catégorie": "Animali",
+      "categorie": "Animali",
       "nom": "Animali in numero",
       "slogan": "Se un animale ti parla, mente"
     },
     "de": {
-      "catégorie": "Tiere",
+      "categorie": "Tiere",
       "nom": "Tiere in Zahlen",
       "slogan": "Wenn ein Tier zu dir spricht, lügt es"
     },
     "nl": {
-      "catégorie": "Dieren",
+      "categorie": "Dieren",
       "nom": "Dieren in cijfers",
       "slogan": "Als een dier tegen je praat, liegt het"
     }
   },
   "quizz": {
     "fr": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
-        "question": "Combien de temps dure en moyenne la gestation d'une éléphante ?",
+        "question": "Combien de temps dure en moyenne la gestation d'une elephante ?",
         "propositions": [
           "17 mois",
           "9 mois",
           "13 mois",
           "21 mois"
         ],
-        "réponse": "21 mois",
-        "anecdote": "Une éléphante peut être en gestation jusqu'à l'âge de cinquante ans, où un seul éléphant est porté dans la plupart des cas."
+        "reponse": "21 mois",
+        "anecdote": "Une elephante peut etre en gestation jusqu'à l'age de cinquante ans, ou un seul elephant est porte dans la plupart des cas."
       },
       {
         "id": 2,
-        "question": "À combien de pulsations par minute bat le coeur d'un hérisson en hibernation ?",
+        "question": "À combien de pulsations par minute bat le coeur d'un herisson en hibernation ?",
         "propositions": [
           "18",
           "38",
           "8",
           "28"
         ],
-        "réponse": "18",
-        "anecdote": "Il ne faut pas confondre les hérissons avec d'autres mammifères porteurs de piquants, comme par exemple les porcs-épics."
+        "reponse": "18",
+        "anecdote": "Il ne faut pas confondre les herissons avec d'autres mammiferes porteurs de piquants, comme par exemple les porcs-epics."
       },
       {
         "id": 3,
-        "question": "Jusqu'à combien de kilomètres le cri du singe hurleur est-il audible ?",
+        "question": "Jusqu'à combien de kilometres le cri du singe hurleur est-il audible ?",
         "propositions": [
           "6 km",
           "12 km",
           "3 km",
           "9 km"
         ],
-        "réponse": "3 km",
-        "anecdote": "Ce singe hurle chaque matin, et quand il combat avec d'autres singes hurleurs, ils se battent également à coups de hurlements."
+        "reponse": "3 km",
+        "anecdote": "Ce singe hurle chaque matin, et quand il combat avec d'autres singes hurleurs, ils se battent egalement à coups de hurlements."
       },
       {
         "id": 4,
-        "question": "En quelle année le dernier dodo vivant a-t-il été vu à l'île Maurice ?",
+        "question": "En quelle annee le dernier dodo vivant a-t-il ete vu à l'île Maurice ?",
         "propositions": [
           "1832",
           "1723",
           "1908",
           "1681"
         ],
-        "réponse": "1681",
-        "anecdote": "En plus de son incapacité à voler, le dodo n'avait développé aucune peur à l'encontre des êtres humains, faisant de lui une proie facile."
+        "reponse": "1681",
+        "anecdote": "En plus de son incapacite à voler, le dodo n'avait developpe aucune peur à l'encontre des etres humains, faisant de lui une proie facile."
       },
       {
         "id": 5,
@@ -96,20 +96,20 @@
           "3 000",
           "2 000"
         ],
-        "réponse": "4 000",
-        "anecdote": "Le chapeau stetson ainsi que le bandana ont été popularisés par Buffalo Bill alors que tous les cow-boys n'en portaient pas forcément."
+        "reponse": "4 000",
+        "anecdote": "Le chapeau stetson ainsi que le bandana ont ete popularises par Buffalo Bill alors que tous les cow-boys n'en portaient pas forcement."
       },
       {
         "id": 6,
-        "question": "Jusqu'à quelle altitude vivent en général les bouquetins des Alpes ?",
+        "question": "Jusqu'à quelle altitude vivent en general les bouquetins des Alpes ?",
         "propositions": [
           "3 500 m",
           "2 300 m",
           "1 900 m",
           "4 600 m"
         ],
-        "réponse": "3 500 m",
-        "anecdote": "Le milieu de prédilection du bouquetin des Alpes comprend des murailles abruptes, des falaises à pics ou des parois escarpées."
+        "reponse": "3 500 m",
+        "anecdote": "Le milieu de predilection du bouquetin des Alpes comprend des murailles abruptes, des falaises à pics ou des parois escarpees."
       },
       {
         "id": 7,
@@ -120,32 +120,32 @@
           "11 min",
           "9 min"
         ],
-        "réponse": "5 min",
-        "anecdote": "Contrairement aux phoques, les otaries pourvuent de nageoires se servent à terre de leurs postérieurs pour marcher."
+        "reponse": "5 min",
+        "anecdote": "Contrairement aux phoques, les otaries pourvuent de nageoires se servent à terre de leurs posterieurs pour marcher."
       },
       {
         "id": 8,
-        "question": "Quelle est, en centimètres, la longueur de la langue d'un fourmilier adulte ?",
+        "question": "Quelle est, en centimetres, la longueur de la langue d'un fourmilier adulte ?",
         "propositions": [
           "50 cm",
           "80 cm",
           "60 cm",
           "70 cm"
         ],
-        "réponse": "60 cm",
-        "anecdote": "Le plus grand représentant du groupe est le fourmilier géant ou grand tamanoir, un animal mesurant plus d'un mètre de longueur."
+        "reponse": "60 cm",
+        "anecdote": "Le plus grand representant du groupe est le fourmilier geant ou grand tamanoir, un animal mesurant plus d'un metre de longueur."
       },
       {
         "id": 9,
-        "question": "Quel est le pourcentage de rongeurs parmi les mammifères ?",
+        "question": "Quel est le pourcentage de rongeurs parmi les mammiferes ?",
         "propositions": [
           "40 %",
           "20 %",
           "30 %",
           "10 %"
         ],
-        "réponse": "40 %",
-        "anecdote": "Ces animaux se caractérisent par leur unique paire d'incisives qui leur servent à ronger, à creuser des galeries ou à se défendre."
+        "reponse": "40 %",
+        "anecdote": "Ces animaux se caracterisent par leur unique paire d'incisives qui leur servent à ronger, à creuser des galeries ou à se defendre."
       },
       {
         "id": 10,
@@ -156,22 +156,22 @@
           "80 fois",
           "160 fois"
         ],
-        "réponse": "160 fois",
+        "reponse": "160 fois",
         "anecdote": "Le fourmilier mange surtout des fourmis, mais il aime aussi les termites et d'autres insectes comme la coccinelle."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
-        "question": "Jusqu'à combien de kilos de viande une hyène peut-elle manger au cours d'un repas ?",
+        "question": "Jusqu'à combien de kilos de viande une hyene peut-elle manger au cours d'un repas ?",
         "propositions": [
           "24 kg",
           "4 kg",
           "14 kg",
           "34 kg"
         ],
-        "réponse": "14 kg",
-        "anecdote": "Il est impossible de discerner par la simple observation un mâle hyène d'une femelle tant l'un et l'autre se ressemblent."
+        "reponse": "14 kg",
+        "anecdote": "Il est impossible de discerner par la simple observation un male hyene d'une femelle tant l'un et l'autre se ressemblent."
       },
       {
         "id": 12,
@@ -182,8 +182,8 @@
           "880 kg",
           "2,7 tonnes"
         ],
-        "réponse": "2,7 tonnes",
-        "anecdote": "Quand la gueule de la baleine bleue est complètement ouverte, elle est assez grande pour contenir 90 tonnes d'eau et de nourriture."
+        "reponse": "2,7 tonnes",
+        "anecdote": "Quand la gueule de la baleine bleue est completement ouverte, elle est assez grande pour contenir 90 tonnes d'eau et de nourriture."
       },
       {
         "id": 13,
@@ -194,20 +194,20 @@
           "120",
           "30"
         ],
-        "réponse": "30",
-        "anecdote": "D'un couple de termites naissent des larves qui donnent des ouvriers stériles ou des nymphes qui donneront des adultes sexués."
+        "reponse": "30",
+        "anecdote": "D'un couple de termites naissent des larves qui donnent des ouvriers steriles ou des nymphes qui donneront des adultes sexues."
       },
       {
         "id": 14,
-        "question": "Quelle vitesse un léopard au repos peut-il atteindre en seulement deux secondes ?",
+        "question": "Quelle vitesse un leopard au repos peut-il atteindre en seulement deux secondes ?",
         "propositions": [
           "100 km/h",
           "40 km/h",
           "60 km/h",
           "80 km/h"
         ],
-        "réponse": "60 km/h",
-        "anecdote": "Le léopard tient une place importante dans certaines cultures africaines où ce roi des animaux est l'attribut des chefs."
+        "reponse": "60 km/h",
+        "anecdote": "Le leopard tient une place importante dans certaines cultures africaines ou ce roi des animaux est l'attribut des chefs."
       },
       {
         "id": 15,
@@ -218,20 +218,20 @@
           "50 min",
           "30 min"
         ],
-        "réponse": "90 min",
-        "anecdote": "La chasse au cachalot permettait de récolter le spermaceti, substance blanche et cireuse issue de la tête de l'animale."
+        "reponse": "90 min",
+        "anecdote": "La chasse au cachalot permettait de recolter le spermaceti, substance blanche et cireuse issue de la tete de l'animale."
       },
       {
         "id": 16,
-        "question": "Quelle vitesse un faucon pèlerin peut-il atteindre lorsqu'il fond sur sa proie ?",
+        "question": "Quelle vitesse un faucon pelerin peut-il atteindre lorsqu'il fond sur sa proie ?",
         "propositions": [
           "200 km/h",
           "240 km/h",
           "120 km/h",
           "160 km/h"
         ],
-        "réponse": "240 km/h",
-        "anecdote": "Ses proies sont souvent des oiseaux, mais certains individus peuvent également s'attaquer à de petits animaux terrestres."
+        "reponse": "240 km/h",
+        "anecdote": "Ses proies sont souvent des oiseaux, mais certains individus peuvent egalement s'attaquer à de petits animaux terrestres."
       },
       {
         "id": 17,
@@ -242,20 +242,20 @@
           "40 ml",
           "60 ml"
         ],
-        "réponse": "20 ml",
-        "anecdote": "La chauve-souris vampire est originaire des zones tropicales du continent américain (Mexique, Chili, Brésil et Argentine)."
+        "reponse": "20 ml",
+        "anecdote": "La chauve-souris vampire est originaire des zones tropicales du continent americain (Mexique, Chili, Bresil et Argentine)."
       },
       {
         "id": 18,
-        "question": "Par quel facteur le poids d'un ours blanc est-il multiplié deux mois après sa naissance ?",
+        "question": "Par quel facteur le poids d'un ours blanc est-il multiplie deux mois apres sa naissance ?",
         "propositions": [
           "25",
           "55",
           "45",
           "35"
         ],
-        "réponse": "25",
-        "anecdote": "Parfaitement adapté à son habitat, l'ours blanc possède une épaisse couche de graisse et une fourrure qui l'isolent du froid."
+        "reponse": "25",
+        "anecdote": "Parfaitement adapte à son habitat, l'ours blanc possede une epaisse couche de graisse et une fourrure qui l'isolent du froid."
       },
       {
         "id": 19,
@@ -266,20 +266,20 @@
           "1 300 fois",
           "1 500 fois"
         ],
-        "réponse": "1 700 fois",
-        "anecdote": "La plupart des serpents possèdent une langue bifide, des yeux sans paupière, un crâne articulé et des mâchoires mobiles."
+        "reponse": "1 700 fois",
+        "anecdote": "La plupart des serpents possedent une langue bifide, des yeux sans paupiere, un crane articule et des machoires mobiles."
       },
       {
         "id": 20,
-        "question": "Combien d'oeufs pond en moyenne un crocodile du Nil en bonne santé ?",
+        "question": "Combien d'oeufs pond en moyenne un crocodile du Nil en bonne sante ?",
         "propositions": [
           "70",
           "40",
           "130",
           "100"
         ],
-        "réponse": "100",
-        "anecdote": "À l'éclosion des oeufs, le bébé crocodile mesure environ 30 cm et a le même corps que sa mère, qu'il soit mâle ou femelle."
+        "reponse": "100",
+        "anecdote": "À l'eclosion des oeufs, le bebe crocodile mesure environ 30 cm et a le meme corps que sa mere, qu'il soit male ou femelle."
       }
     ],
     "expert": [
@@ -292,80 +292,80 @@
           "8 m",
           "12 m"
         ],
-        "réponse": "12 m",
-        "anecdote": "Pour les besoins de la chasse ou en cas de menace, il est capable de grimper aux arbres et de faire preuve d'une grande agilité."
+        "reponse": "12 m",
+        "anecdote": "Pour les besoins de la chasse ou en cas de menace, il est capable de grimper aux arbres et de faire preuve d'une grande agilite."
       },
       {
         "id": 22,
-        "question": "Combien un moustique normalement constitué a-t-il de dents ?",
+        "question": "Combien un moustique normalement constitue a-t-il de dents ?",
         "propositions": [
           "29",
           "34",
           "11",
           "47"
         ],
-        "réponse": "47",
-        "anecdote": "Les adultes se nourrissent de nectar de fleurs et participent à la pollinisation des plantes, au même titre que les papillons."
+        "reponse": "47",
+        "anecdote": "Les adultes se nourrissent de nectar de fleurs et participent à la pollinisation des plantes, au meme titre que les papillons."
       },
       {
         "id": 23,
-        "question": "Quelle est la longueur en centimètres d'un intestin de koala ?",
+        "question": "Quelle est la longueur en centimetres d'un intestin de koala ?",
         "propositions": [
           "400 cm",
           "200 cm",
           "300 cm",
           "100 cm"
         ],
-        "réponse": "300 cm",
-        "anecdote": "Le koala est étroitement lié à l'eucalyptus ou gommier, dont il ne mange que les feuilles de certaines espèces."
+        "reponse": "300 cm",
+        "anecdote": "Le koala est etroitement lie à l'eucalyptus ou gommier, dont il ne mange que les feuilles de certaines especes."
       },
       {
         "id": 24,
-        "question": "Combien de jours dure l'hibernation d'un écureuil d'Alaska ?",
+        "question": "Combien de jours dure l'hibernation d'un ecureuil d'Alaska ?",
         "propositions": [
           "320 jours",
           "410 jours",
           "180 jours",
           "270 jours"
         ],
-        "réponse": "270 jours",
-        "anecdote": "La queue en panache de l'écureuil et son acharnement à faire des provisions pour l'hiver ont contribué à sa popularité."
+        "reponse": "270 jours",
+        "anecdote": "La queue en panache de l'ecureuil et son acharnement à faire des provisions pour l'hiver ont contribue à sa popularite."
       },
       {
         "id": 25,
-        "question": "Quelle est la vitesse maximale déjà atteinte par l'espadon-voilier ?",
+        "question": "Quelle est la vitesse maximale dejà atteinte par l'espadon-voilier ?",
         "propositions": [
           "109 km/h",
           "89 km/h",
           "99 km/h",
           "119 km/h"
         ],
-        "réponse": "109 km/h",
-        "anecdote": "Possédant des stries verticales sur les flancs, l'espadon-voilier est considéré comme étant le plus rapide des poissons."
+        "reponse": "109 km/h",
+        "anecdote": "Possedant des stries verticales sur les flancs, l'espadon-voilier est considere comme etant le plus rapide des poissons."
       },
       {
         "id": 26,
-        "question": "Combien d'animaux du zoo de Berlin survécurent à la Seconde Guerre mondiale ?",
+        "question": "Combien d'animaux du zoo de Berlin survecurent à la Seconde Guerre mondiale ?",
         "propositions": [
           "91",
           "1 712",
           "892",
           "344"
         ],
-        "réponse": "91",
-        "anecdote": "Les premiers dons d'animaux au zoo de Berlin, fondé en 1844, furent effectués par Frédéric-Guillaume IV, roi de Prusse."
+        "reponse": "91",
+        "anecdote": "Les premiers dons d'animaux au zoo de Berlin, fonde en 1844, furent effectues par Frederic-Guillaume IV, roi de Prusse."
       },
       {
         "id": 27,
-        "question": "Sur mille tortues marines, combien seulement atteignent l'âge de se reproduire ?",
+        "question": "Sur mille tortues marines, combien seulement atteignent l'age de se reproduire ?",
         "propositions": [
           "250",
           "15",
           "100",
           "640"
         ],
-        "réponse": "15",
-        "anecdote": "Les tortues marines, bien que vulnérables, sont présentes dans tous les océans du monde, à l'exception de l'océan Arctique."
+        "reponse": "15",
+        "anecdote": "Les tortues marines, bien que vulnerables, sont presentes dans tous les oceans du monde, à l'exception de l'ocean Arctique."
       },
       {
         "id": 28,
@@ -376,37 +376,37 @@
           "38 fois",
           "78 fois"
         ],
-        "réponse": "78 fois",
-        "anecdote": "Les colibris sont également surnommés oiseaux-mouches à cause de leur petite taille et de leurs battements d'ailes rapides."
+        "reponse": "78 fois",
+        "anecdote": "Les colibris sont egalement surnommes oiseaux-mouches à cause de leur petite taille et de leurs battements d'ailes rapides."
       },
       {
         "id": 29,
-        "question": "Au sens large du terme, combien existe-t-il d'espèces de kangourous ?",
+        "question": "Au sens large du terme, combien existe-t-il d'especes de kangourous ?",
         "propositions": [
           "37",
           "51",
           "63",
           "44"
         ],
-        "réponse": "63",
-        "anecdote": "Animal emblématique de l'Australie, le grand kangourou y est plus populaire dans les campagnes que dans les villes."
+        "reponse": "63",
+        "anecdote": "Animal emblematique de l'Australie, le grand kangourou y est plus populaire dans les campagnes que dans les villes."
       },
       {
         "id": 30,
-        "question": "Combien a-t-on découvert jusqu'ici d'espèces de coléoptères ?",
+        "question": "Combien a-t-on decouvert jusqu'ici d'especes de coleopteres ?",
         "propositions": [
           "9 600",
           "7 200",
           "8 700",
           "6 400"
         ],
-        "réponse": "9 600",
-        "anecdote": "Les scarabées, les coccinelles, les lucanes, les chrysomèles, les hannetons et les charançons sont des coléoptères."
+        "reponse": "9 600",
+        "anecdote": "Les scarabees, les coccinelles, les lucanes, les chrysomeles, les hannetons et les charancons sont des coleopteres."
       }
     ]
     },
     "en": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "How long does the average gestation of an elephant last ?",
@@ -416,7 +416,7 @@
           "17 months",
           "9 months"
         ],
-        "réponse": "21 months",
+        "reponse": "21 months",
         "anecdote": "An elephant can be pregnant up to the age of fifty, where only one elephant is carried in most cases."
       },
       {
@@ -428,7 +428,7 @@
           "28",
           "8"
         ],
-        "réponse": "18",
+        "reponse": "18",
         "anecdote": "Do not confuse the hedgehogs with other mammals carrying quills, such as porcupines."
       },
       {
@@ -440,7 +440,7 @@
           "3 km",
           "9 km"
         ],
-        "réponse": "3 km",
+        "reponse": "3 km",
         "anecdote": "This monkey screams every morning, and when it fights with other howler monkeys, they also scream with screams."
       },
       {
@@ -452,7 +452,7 @@
           "1908",
           "1723"
         ],
-        "réponse": "1681",
+        "reponse": "1681",
         "anecdote": "In addition to its inability to fly, the dodo had developed no fear of humans, making him an easy prey."
       },
       {
@@ -464,7 +464,7 @@
           "1,000",
           "3000"
         ],
-        "réponse": "4,000",
+        "reponse": "4,000",
         "anecdote": "The stetson hat and the bandana were popularized by Buffalo Bill while not all cowboys wore it."
       },
       {
@@ -476,7 +476,7 @@
           "1,900 m",
           "3,500 m"
         ],
-        "réponse": "3,500 m",
+        "reponse": "3,500 m",
         "anecdote": "The Alpine ibex prey includes steep walls, steep cliffs or steep walls."
       },
       {
@@ -488,7 +488,7 @@
           "9 min",
           "11 min"
         ],
-        "réponse": "5 min",
+        "reponse": "5 min",
         "anecdote": "Unlike seals, fur seals use their fins on the ground to walk."
       },
       {
@@ -500,7 +500,7 @@
           "70 cm",
           "80 cm"
         ],
-        "réponse": "60 cm",
+        "reponse": "60 cm",
         "anecdote": "The largest representative of the group is the giant anteater or large anteater, an animal measuring more than one meter in length."
       },
       {
@@ -512,7 +512,7 @@
           "30%",
           "10%"
         ],
-        "réponse": "40%",
+        "reponse": "40%",
         "anecdote": "These animals are characterized by their unique pair of incisors which serve them to gnaw, dig galleries or defend themselves."
       },
       {
@@ -524,11 +524,11 @@
           "160 times",
           "80 times"
         ],
-        "réponse": "160 times",
+        "reponse": "160 times",
         "anecdote": "The anteater eats mostly ants, but it also likes termites and other insects such as ladybugs."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "How many pounds of meat can a hyena eat during a meal ?",
@@ -538,7 +538,7 @@
           "14 kg",
           "24 kg"
         ],
-        "réponse": "14 kg",
+        "reponse": "14 kg",
         "anecdote": "It is impossible to discern, by simple observation, a hyena from a female, since both are alike."
       },
       {
@@ -550,7 +550,7 @@
           "2.7 tons",
           "880 kg"
         ],
-        "réponse": "2.7 tons",
+        "reponse": "2.7 tons",
         "anecdote": "When the mouth of the blue whale is completely open, it is big enough to hold 90 tons of water and food."
       },
       {
@@ -562,7 +562,7 @@
           "60",
           "30"
         ],
-        "réponse": "30",
+        "reponse": "30",
         "anecdote": "From a termite couple are born larvae that give sterile workers or pupae that will give sexed adults."
       },
       {
@@ -574,7 +574,7 @@
           "100 km / h",
           "80 km / h"
         ],
-        "réponse": "60 km / h",
+        "reponse": "60 km / h",
         "anecdote": "Leopard holds an important place in some African cultures where this king of animals is the attribute of the chiefs."
       },
       {
@@ -586,7 +586,7 @@
           "30 min",
           "90 min"
         ],
-        "réponse": "90 min",
+        "reponse": "90 min",
         "anecdote": "Spermaceti, a white and waxy substance from the head of the animal, was harvested by the sperm whale."
       },
       {
@@ -598,7 +598,7 @@
           "200 km / h",
           "240 km / h"
         ],
-        "réponse": "240 km / h",
+        "reponse": "240 km / h",
         "anecdote": "Its prey is often birds, but some individuals can also attack small land animals."
       },
       {
@@ -610,7 +610,7 @@
           "80 ml",
           "20 ml"
         ],
-        "réponse": "20 ml",
+        "reponse": "20 ml",
         "anecdote": "The vampire bat is native to the tropical areas of the American continent (Mexico, Chile, Brazil and Argentina)."
       },
       {
@@ -622,7 +622,7 @@
           "25",
           "45"
         ],
-        "réponse": "25",
+        "reponse": "25",
         "anecdote": "Perfectly adapted to its habitat, the polar bear has a thick layer of fat and a fur that isolates it from the cold."
       },
       {
@@ -634,7 +634,7 @@
           "1,300 times",
           "1,700 times"
         ],
-        "réponse": "1,700 times",
+        "reponse": "1,700 times",
         "anecdote": "Most snakes have a bifid tongue, eyes without eyelids, articulated skulls and mobile jaws."
       },
       {
@@ -646,7 +646,7 @@
           "70",
           "130"
         ],
-        "réponse": "100",
+        "reponse": "100",
         "anecdote": "At the eggs' closing, the baby crocodile is approximately 30 cm and has the same body as his mother, whether male or female."
       }
     ],
@@ -660,7 +660,7 @@
           "12 m",
           "6 m"
         ],
-        "réponse": "12 m",
+        "reponse": "12 m",
         "anecdote": "For the purposes of hunting or in case of threat, he is able to climb trees and be very agile."
       },
       {
@@ -672,7 +672,7 @@
           "34",
           "29"
         ],
-        "réponse": "47",
+        "reponse": "47",
         "anecdote": "Adults feed on flower nectar and participate in the pollination of plants, just like butterflies."
       },
       {
@@ -684,7 +684,7 @@
           "100 cm",
           "400 cm"
         ],
-        "réponse": "300 cm",
+        "reponse": "300 cm",
         "anecdote": "The koala is closely related to the eucalyptus or gum tree, from which it only eats the leaves of certain species."
       },
       {
@@ -696,7 +696,7 @@
           "270 days",
           "180 days"
         ],
-        "réponse": "270 days",
+        "reponse": "270 days",
         "anecdote": "The squirrel's plume tail and its relentless winter provisions have contributed to its popularity."
       },
       {
@@ -708,7 +708,7 @@
           "109 km / h",
           "99 km / h"
         ],
-        "réponse": "109 km / h",
+        "reponse": "109 km / h",
         "anecdote": "Possessing vertical streaks on the flanks, the sailfish is considered to be the fastest fish."
       },
       {
@@ -720,7 +720,7 @@
           "91",
           "1,712"
         ],
-        "réponse": "91",
+        "reponse": "91",
         "anecdote": "The first animal donations to the Berlin Zoo, founded in 1844, were made by Frederick William IV, King of Prussia."
       },
       {
@@ -732,7 +732,7 @@
           "640",
           "15"
         ],
-        "réponse": "15",
+        "reponse": "15",
         "anecdote": "Sea turtles, although vulnerable, are present in all the oceans of the world, with the exception of the Arctic Ocean."
       },
       {
@@ -744,7 +744,7 @@
           "38 times",
           "58 times"
         ],
-        "réponse": "78 times",
+        "reponse": "78 times",
         "anecdote": "Hummingbirds are also known as hummingbirds because of their small size and fast wing beats."
       },
       {
@@ -756,7 +756,7 @@
           "63",
           "51"
         ],
-        "réponse": "63",
+        "reponse": "63",
         "anecdote": "An emblematic animal of Australia, the big kangaroo is more popular in the countryside than in the cities."
       },
       {
@@ -768,13 +768,13 @@
           "7,200",
           "6 400"
         ],
-        "réponse": "9 600",
+        "reponse": "9 600",
         "anecdote": "Beetles, ladybugs, lucans, beetles, cockchafers and charanceps are allopoei."
       }
     ]
     },
     "de": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Wie lange dauert die durchschnittliche Schwangerschaft eines Elefanten ?",
@@ -784,7 +784,7 @@
           "9 Monate",
           "13 Monate"
         ],
-        "réponse": "21 Monate",
+        "reponse": "21 Monate",
         "anecdote": "Ein Elefant kann bis zum Alter von fünfzig Jahren schwanger sein, wobei in den meisten Fällen nur ein Elefant getragen wird."
       },
       {
@@ -796,7 +796,7 @@
           "18",
           "28"
         ],
-        "réponse": "18",
+        "reponse": "18",
         "anecdote": "Verwechseln Sie die Igel nicht mit anderen Säugetieren, die Stacheln wie Stachelschweine tragen."
       },
       {
@@ -808,7 +808,7 @@
           "12 km",
           "9 km"
         ],
-        "réponse": "3 km",
+        "reponse": "3 km",
         "anecdote": "Dieser Affe schreit jeden Morgen, und wenn er mit anderen Brüllaffen kämpft, schreien sie auch mit Schreien."
       },
       {
@@ -820,7 +820,7 @@
           "1908",
           "1681"
         ],
-        "réponse": "1681",
+        "reponse": "1681",
         "anecdote": "Neben seiner Flugunfähigkeit hatte der Dodo keine Angst vor Menschen entwickelt, was ihn zu einer leichten Beute machte."
       },
       {
@@ -832,7 +832,7 @@
           "3000",
           "1.000"
         ],
-        "réponse": "4.000",
+        "reponse": "4.000",
         "anecdote": "Der Stetson-Hut und das Bandana wurden von Buffalo Bill populär gemacht, während nicht alle Cowboys ihn trugen."
       },
       {
@@ -844,7 +844,7 @@
           "2.300 m",
           "4.600 m"
         ],
-        "réponse": "3.500 m",
+        "reponse": "3.500 m",
         "anecdote": "Die alpine Steinbockbeute umfasst steile Wände, steile Klippen oder steile Wände."
       },
       {
@@ -856,7 +856,7 @@
           "9 min",
           "5 min"
         ],
-        "réponse": "5 min",
+        "reponse": "5 min",
         "anecdote": "Im Gegensatz zu Robben benutzen Pelzrobben ihre Flossen am Boden zum Gehen."
       },
       {
@@ -868,7 +868,7 @@
           "60 cm",
           "70 cm"
         ],
-        "réponse": "60 cm",
+        "reponse": "60 cm",
         "anecdote": "Der größte Vertreter der Gruppe ist der riesige Ameisenbär oder ein großer Ameisenbär, ein Tier mit einer Länge von mehr als einem Meter."
       },
       {
@@ -880,7 +880,7 @@
           "30%",
           "40%"
         ],
-        "réponse": "40%",
+        "reponse": "40%",
         "anecdote": "Diese Tiere zeichnen sich durch ihr einzigartiges Schneidezahnpaar aus, mit dem sie nagen, Galerien graben oder sich verteidigen können."
       },
       {
@@ -892,11 +892,11 @@
           "160 mal",
           "120 mal"
         ],
-        "réponse": "160 mal",
+        "reponse": "160 mal",
         "anecdote": "Der Ameisenbär isst meistens Ameisen, aber auch Termiten und andere Insekten wie Marienkäfer."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Wie viele Pfund Fleisch kann eine Hyäne während einer Mahlzeit essen ?",
@@ -906,7 +906,7 @@
           "34 kg",
           "4 kg"
         ],
-        "réponse": "14 kg",
+        "reponse": "14 kg",
         "anecdote": "Es ist unmöglich, durch einfache Beobachtung eine Hyäne von einer Frau zu unterscheiden, da beide gleich sind."
       },
       {
@@ -918,7 +918,7 @@
           "2,7 Tonnen",
           "880 kg"
         ],
-        "réponse": "2,7 Tonnen",
+        "reponse": "2,7 Tonnen",
         "anecdote": "Wenn der Mund des Blauwals vollständig geöffnet ist, ist er groß genug, um 90 Tonnen Wasser und Nahrung aufzunehmen."
       },
       {
@@ -930,7 +930,7 @@
           "60",
           "90"
         ],
-        "réponse": "30",
+        "reponse": "30",
         "anecdote": "Aus einem Termitenpaar werden Larven geboren, die sterilen Arbeitern oder Puppen geben, die geschlechtsspezifische Erwachsene geben."
       },
       {
@@ -942,7 +942,7 @@
           "100 km / h",
           "40 km / h"
         ],
-        "réponse": "60 km / h",
+        "reponse": "60 km / h",
         "anecdote": "Leopard nimmt in einigen afrikanischen Kulturen einen wichtigen Platz ein, wo dieser Tierkönig das Attribut der Häuptlinge ist."
       },
       {
@@ -954,7 +954,7 @@
           "50 min",
           "30 min"
         ],
-        "réponse": "90 min",
+        "reponse": "90 min",
         "anecdote": "Spermaceti, eine weiße und wachsartige Substanz aus dem Kopf des Tieres, wurde vom Pottwal geerntet."
       },
       {
@@ -966,7 +966,7 @@
           "200 km / h",
           "240 km / h"
         ],
-        "réponse": "240 km / h",
+        "reponse": "240 km / h",
         "anecdote": "Seine Beute sind oft Vögel, aber manche Menschen können auch kleine Landtiere angreifen."
       },
       {
@@ -978,7 +978,7 @@
           "80 ml",
           "40 ml"
         ],
-        "réponse": "20 ml",
+        "reponse": "20 ml",
         "anecdote": "Die Vampirfledermaus stammt aus den tropischen Gebieten des amerikanischen Kontinents (Mexiko, Chile, Brasilien und Argentinien)."
       },
       {
@@ -990,7 +990,7 @@
           "25",
           "45"
         ],
-        "réponse": "25",
+        "reponse": "25",
         "anecdote": "Der Eisbär ist perfekt an seinen Lebensraum angepasst und hat eine dicke Fettschicht und ein Fell, das ihn vor der Kälte isoliert."
       },
       {
@@ -1002,7 +1002,7 @@
           "1.100 mal",
           "1700 mal"
         ],
-        "réponse": "1700 mal",
+        "reponse": "1700 mal",
         "anecdote": "Die meisten Schlangen haben eine bifide Zunge, Augen ohne Augenlider, gegliederte Schädel und bewegliche Kiefer."
       },
       {
@@ -1014,7 +1014,7 @@
           "130",
           "40"
         ],
-        "réponse": "100",
+        "reponse": "100",
         "anecdote": "Beim Schließen der Eier ist das Babykrokodil etwa 30 cm groß und hat den gleichen Körper wie seine Mutter, egal ob männlich oder weiblich."
       }
     ],
@@ -1028,7 +1028,7 @@
           "12 m",
           "6 m"
         ],
-        "réponse": "12 m",
+        "reponse": "12 m",
         "anecdote": "Für die Jagd oder im Falle einer Bedrohung kann er auf Bäume klettern und sehr wendig sein."
       },
       {
@@ -1040,7 +1040,7 @@
           "34",
           "11"
         ],
-        "réponse": "47",
+        "reponse": "47",
         "anecdote": "Erwachsene ernähren sich von Blumennektar und beteiligen sich wie Schmetterlinge an der Bestäubung von Pflanzen."
       },
       {
@@ -1052,7 +1052,7 @@
           "400 cm",
           "300 cm"
         ],
-        "réponse": "300 cm",
+        "reponse": "300 cm",
         "anecdote": "Der Koala ist eng mit dem Eukalyptus oder Gummibaum verwandt, von dem er nur die Blätter bestimmter Arten frisst."
       },
       {
@@ -1064,7 +1064,7 @@
           "320 Tage",
           "180 Tage"
         ],
-        "réponse": "270 Tage",
+        "reponse": "270 Tage",
         "anecdote": "Der Eichhörnchenschwanz und seine unnachgiebigen Wintervorräte haben zu seiner Popularität beigetragen."
       },
       {
@@ -1076,7 +1076,7 @@
           "99 km / h",
           "119 km / h"
         ],
-        "réponse": "109 km / h",
+        "reponse": "109 km / h",
         "anecdote": "Der Segelfisch besitzt senkrechte Streifen an den Flanken und gilt als der schnellste Fisch."
       },
       {
@@ -1088,7 +1088,7 @@
           "344",
           "91"
         ],
-        "réponse": "91",
+        "reponse": "91",
         "anecdote": "Die ersten Tierspenden für den 1844 gegründeten Berliner Zoo wurden von Friedrich Wilhelm IV., König von Preußen, gemacht."
       },
       {
@@ -1100,7 +1100,7 @@
           "640",
           "250"
         ],
-        "réponse": "15",
+        "reponse": "15",
         "anecdote": "Obwohl Meeresschildkröten anfällig sind, sind sie in allen Ozeanen der Welt mit Ausnahme des Arktischen Ozeans vertreten."
       },
       {
@@ -1112,7 +1112,7 @@
           "38 mal",
           "78 mal"
         ],
-        "réponse": "78 mal",
+        "reponse": "78 mal",
         "anecdote": "Kolibris sind wegen ihrer geringen Größe und ihrer schnellen Flügelschläge auch als Kolibris bekannt."
       },
       {
@@ -1124,7 +1124,7 @@
           "44",
           "51"
         ],
-        "réponse": "63",
+        "reponse": "63",
         "anecdote": "Das große Känguru ist ein symbolträchtiges Tier Australiens und auf dem Land beliebter als in den Städten."
       },
       {
@@ -1136,13 +1136,13 @@
           "8 700",
           "9 600"
         ],
-        "réponse": "9 600",
+        "reponse": "9 600",
         "anecdote": "Käfer, Marienkäfer, Lucans, Käfer, Cockchafers und Charanceps sind Allopoei."
       }
     ]
     },
     "es": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "¿Cuánto dura la gestación media de un elefante ?",
@@ -1152,7 +1152,7 @@
           "21 meses",
           "9 meses"
         ],
-        "réponse": "21 meses",
+        "reponse": "21 meses",
         "anecdote": "Un elefante puede estar embarazada hasta la edad de cincuenta años, donde solo se lleva un elefante en la mayoría de los casos."
       },
       {
@@ -1164,7 +1164,7 @@
           "18",
           "28"
         ],
-        "réponse": "18",
+        "reponse": "18",
         "anecdote": "No confunda los erizos con otros mamíferos que llevan plumas, como los puercoespines."
       },
       {
@@ -1176,19 +1176,19 @@
           "3 km",
           "12 km"
         ],
-        "réponse": "3 km",
-        "anecdote": "Este mono grita todas las mañanas, y cuando pelea con otros monos aulladores, también gritan con gritos."
+        "reponse": "3 km",
+        "anecdote": "Este mono grita todas las mañanas, y cuando pelea con otros monos aulladores, tambien gritan con gritos."
       },
       {
         "id": 4,
-        "question": "¿En qué año se vio el último dodo viviente en Mauricio ?",
+        "question": "¿En que año se vio el último dodo viviente en Mauricio ?",
         "propositions": [
           "1832",
           "1908",
           "1723",
           "1681"
         ],
-        "réponse": "1681",
+        "reponse": "1681",
         "anecdote": "Además de su incapacidad para volar, el dodo no había desarrollado ningún temor a los humanos, lo que lo convertía en una presa fácil."
       },
       {
@@ -1200,19 +1200,19 @@
           "1,000",
           "3000"
         ],
-        "réponse": "4,000",
+        "reponse": "4,000",
         "anecdote": "El sombrero stetson y el pañuelo fueron popularizados por Buffalo Bill, mientras que no todos los vaqueros lo usaban."
       },
       {
         "id": 6,
-        "question": "¿A qué altitud vive el ibex alpino en general ?",
+        "question": "¿A que altitud vive el ibex alpino en general ?",
         "propositions": [
           "4,600 m",
           "2,300 m",
           "1,900 m",
           "3,500 m"
         ],
-        "réponse": "3,500 m",
+        "reponse": "3,500 m",
         "anecdote": "La presa ibex alpina incluye paredes escarpadas, acantilados o paredes empinadas."
       },
       {
@@ -1224,7 +1224,7 @@
           "7 min",
           "9 min"
         ],
-        "réponse": "5 min",
+        "reponse": "5 min",
         "anecdote": "A diferencia de las focas, las focas usan sus aletas en el suelo para caminar."
       },
       {
@@ -1236,7 +1236,7 @@
           "80 cm",
           "50 cm"
         ],
-        "réponse": "60 cm",
+        "reponse": "60 cm",
         "anecdote": "El mayor representante del grupo es el oso hormiguero gigante o oso hormiguero grande, un animal que mide más de un metro de longitud."
       },
       {
@@ -1248,7 +1248,7 @@
           "10%",
           "20%"
         ],
-        "réponse": "40%",
+        "reponse": "40%",
         "anecdote": "Estos animales se caracterizan por su par único de incisivos que les sirven para roer, cavar galerías o defenderse."
       },
       {
@@ -1260,11 +1260,11 @@
           "80 veces",
           "160 veces"
         ],
-        "réponse": "160 veces",
-        "anecdote": "El oso hormiguero come principalmente hormigas, pero también le gustan las termitas y otros insectos como las mariquitas."
+        "reponse": "160 veces",
+        "anecdote": "El oso hormiguero come principalmente hormigas, pero tambien le gustan las termitas y otros insectos como las mariquitas."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "¿Cuántas libras de carne puede comer una hiena durante una comida ?",
@@ -1274,7 +1274,7 @@
           "24 kg",
           "4 kg"
         ],
-        "réponse": "14 kg",
+        "reponse": "14 kg",
         "anecdote": "Es imposible discernir, por simple observación, una hiena de una hembra, ya que ambas son iguales."
       },
       {
@@ -1286,7 +1286,7 @@
           "2,7 toneladas",
           "1.3 toneladas"
         ],
-        "réponse": "2,7 toneladas",
+        "reponse": "2,7 toneladas",
         "anecdote": "Cuando la boca de la ballena azul está completamente abierta, es lo suficientemente grande como para contener 90 toneladas de agua y alimentos."
       },
       {
@@ -1298,19 +1298,19 @@
           "120",
           "30"
         ],
-        "réponse": "30",
-        "anecdote": "De una pareja de termitas nacen larvas que dan trabajadores estériles o pupas que darán adultos sexuados."
+        "reponse": "30",
+        "anecdote": "De una pareja de termitas nacen larvas que dan trabajadores esteriles o pupas que darán adultos sexuados."
       },
       {
         "id": 14,
-        "question": "¿Qué tan rápido puede alcanzar un leopardo en reposo en solo dos segundos ?",
+        "question": "¿Que tan rápido puede alcanzar un leopardo en reposo en solo dos segundos ?",
         "propositions": [
           "80 km / h",
           "40 km / h",
           "60 km / h",
           "100 km / h"
         ],
-        "réponse": "60 km / h",
+        "reponse": "60 km / h",
         "anecdote": "El leopardo ocupa un lugar importante en algunas culturas africanas donde este rey de los animales es el atributo de los jefes."
       },
       {
@@ -1322,43 +1322,43 @@
           "70 min",
           "90 min"
         ],
-        "réponse": "90 min",
+        "reponse": "90 min",
         "anecdote": "El espermatozoide, una sustancia blanca y cerosa de la cabeza del animal, fue cosechado por el cachalote."
       },
       {
         "id": 16,
-        "question": "¿Qué tan rápido puede llegar un halcón peregrino cuando está en su presa ?",
+        "question": "¿Que tan rápido puede llegar un halcón peregrino cuando está en su presa ?",
         "propositions": [
           "120 km / h",
           "160 km / h",
           "200 km / h",
           "240 km / h"
         ],
-        "réponse": "240 km / h",
-        "anecdote": "Su presa es a menudo aves, pero algunos individuos también pueden atacar pequeños animales terrestres."
+        "reponse": "240 km / h",
+        "anecdote": "Su presa es a menudo aves, pero algunos individuos tambien pueden atacar pequeños animales terrestres."
       },
       {
         "id": 17,
-        "question": "¿Cuántos mililitros de sangre puede beber un murciélago vampiro en una noche ?",
+        "question": "¿Cuántos mililitros de sangre puede beber un murcielago vampiro en una noche ?",
         "propositions": [
           "40 ml",
           "60 ml",
           "20 ml",
           "80 ml"
         ],
-        "réponse": "20 ml",
-        "anecdote": "El murciélago vampiro es nativo de las áreas tropicales del continente americano (México, Chile, Brasil y Argentina)."
+        "reponse": "20 ml",
+        "anecdote": "El murcielago vampiro es nativo de las áreas tropicales del continente americano (Mexico, Chile, Brasil y Argentina)."
       },
       {
         "id": 18,
-        "question": "¿Por qué factor se multiplica el peso de un oso polar dos meses después del nacimiento ?",
+        "question": "¿Por que factor se multiplica el peso de un oso polar dos meses despues del nacimiento ?",
         "propositions": [
           "25",
           "45",
           "55",
           "35"
         ],
-        "réponse": "25",
+        "reponse": "25",
         "anecdote": "Perfectamente adaptado a su hábitat, el oso polar tiene una gruesa capa de grasa y un pelaje que lo aísla del frío."
       },
       {
@@ -1370,7 +1370,7 @@
           "1,700 veces",
           "1,300 veces"
         ],
-        "réponse": "1,700 veces",
+        "reponse": "1,700 veces",
         "anecdote": "La mayoría de las serpientes tienen una lengua bífida, ojos sin párpados, cráneos articulados y mandíbulas móviles."
       },
       {
@@ -1382,8 +1382,8 @@
           "70",
           "130"
         ],
-        "réponse": "100",
-        "anecdote": "Al cierre de los huevos, el cocodrilo del bebé mide aproximadamente 30 cm y tiene el mismo cuerpo que su madre, ya sea macho o hembra."
+        "reponse": "100",
+        "anecdote": "Al cierre de los huevos, el cocodrilo del bebe mide aproximadamente 30 cm y tiene el mismo cuerpo que su madre, ya sea macho o hembra."
       }
     ],
     "expert": [
@@ -1396,7 +1396,7 @@
           "8 m",
           "10 m"
         ],
-        "réponse": "12 m",
+        "reponse": "12 m",
         "anecdote": "A los efectos de la caza o en caso de amenaza, puede trepar árboles y ser muy ágil."
       },
       {
@@ -1408,8 +1408,8 @@
           "47",
           "11"
         ],
-        "réponse": "47",
-        "anecdote": "Los adultos se alimentan de néctar de flores y participan en la polinización de las plantas, al igual que las mariposas."
+        "reponse": "47",
+        "anecdote": "Los adultos se alimentan de nectar de flores y participan en la polinización de las plantas, al igual que las mariposas."
       },
       {
         "id": 23,
@@ -1420,7 +1420,7 @@
           "300 cm",
           "100 cm"
         ],
-        "réponse": "300 cm",
+        "reponse": "300 cm",
         "anecdote": "El koala está estrechamente relacionado con el eucalipto o el árbol de las encías, del cual solo come las hojas de ciertas especies."
       },
       {
@@ -1432,7 +1432,7 @@
           "270 días",
           "180 dias"
         ],
-        "réponse": "270 días",
+        "reponse": "270 días",
         "anecdote": "La cola de la pluma de la ardilla y sus implacables disposiciones de invierno han contribuido a su popularidad."
       },
       {
@@ -1444,7 +1444,7 @@
           "109 km / h",
           "119 km / h"
         ],
-        "réponse": "109 km / h",
+        "reponse": "109 km / h",
         "anecdote": "Poseiendo rayas verticales en los flancos, el pez vela se considera el pez más rápido."
       },
       {
@@ -1456,7 +1456,7 @@
           "91",
           "1,712"
         ],
-        "réponse": "91",
+        "reponse": "91",
         "anecdote": "Las primeras donaciones de animales al zoológico de Berlín, fundado en 1844, fueron hechas por Frederick William IV, rey de Prusia."
       },
       {
@@ -1468,8 +1468,8 @@
           "15",
           "250"
         ],
-        "réponse": "15",
-        "anecdote": "Las tortugas marinas, aunque vulnerables, están presentes en todos los océanos del mundo, con la excepción del Océano Ártico."
+        "reponse": "15",
+        "anecdote": "Las tortugas marinas, aunque vulnerables, están presentes en todos los oceanos del mundo, con la excepción del Oceano Ártico."
       },
       {
         "id": 28,
@@ -1480,19 +1480,19 @@
           "58 veces",
           "18 veces"
         ],
-        "réponse": "78 veces",
-        "anecdote": "Los colibríes también son conocidos como colibríes debido a su pequeño tamaño y sus rápidos alerones."
+        "reponse": "78 veces",
+        "anecdote": "Los colibríes tambien son conocidos como colibríes debido a su pequeño tamaño y sus rápidos alerones."
       },
       {
         "id": 29,
-        "question": "En el sentido amplio del término, ¿cuántas especies de canguros hay ?",
+        "question": "En el sentido amplio del termino, ¿cuántas especies de canguros hay ?",
         "propositions": [
           "37",
           "51",
           "63",
           "44"
         ],
-        "réponse": "63",
+        "reponse": "63",
         "anecdote": "Un animal emblemático de Australia, el gran canguro es más popular en el campo que en las ciudades."
       },
       {
@@ -1504,13 +1504,13 @@
           "6 400",
           "9 600"
         ],
-        "réponse": "9 600",
+        "reponse": "9 600",
         "anecdote": "Escarabajos, mariquitas, lucans, escarabajos, cockchafers y charanceps."
       }
     ]
     },
     "it": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Quanto dura la gestazione media di un elefante ?",
@@ -1520,7 +1520,7 @@
           "21 mesi",
           "13 mesi"
         ],
-        "réponse": "21 mesi",
+        "reponse": "21 mesi",
         "anecdote": "Un elefante può essere incinta fino ai cinquant'anni, dove nella maggior parte dei casi viene trasportato un solo elefante."
       },
       {
@@ -1532,31 +1532,31 @@
           "18",
           "38"
         ],
-        "réponse": "18",
+        "reponse": "18",
         "anecdote": "Non confondere i ricci con altri mammiferi che trasportano le penne, come i porcospini."
       },
       {
         "id": 3,
-        "question": "Quanti chilometri è udibile la scimmia urlante ?",
+        "question": "Quanti chilometri e udibile la scimmia urlante ?",
         "propositions": [
           "6 km",
           "3 km",
           "9 km",
           "12 km"
         ],
-        "réponse": "3 km",
+        "reponse": "3 km",
         "anecdote": "Questa scimmia urla ogni mattina, e quando combatte con altre scimmie urlatrici, urlano anche con urla."
       },
       {
         "id": 4,
-        "question": "In quale anno è stato l'ultimo dodo vivente visto a Mauritius ?",
+        "question": "In quale anno e stato l'ultimo dodo vivente visto a Mauritius ?",
         "propositions": [
           "1723",
           "1832",
           "1908",
           "1681"
         ],
-        "réponse": "1681",
+        "reponse": "1681",
         "anecdote": "Oltre alla sua incapacità di volare, il dodo non aveva sviluppato alcuna paura per gli umani, rendendolo una facile preda."
       },
       {
@@ -1568,7 +1568,7 @@
           "4.000",
           "2.000"
         ],
-        "réponse": "4.000",
+        "reponse": "4.000",
         "anecdote": "Il cappello stetson e la bandana furono resi popolari da Buffalo Bill mentre non tutti i cowboy lo indossavano."
       },
       {
@@ -1580,7 +1580,7 @@
           "3.500 m",
           "1900 m"
         ],
-        "réponse": "3.500 m",
+        "reponse": "3.500 m",
         "anecdote": "La preda dello stambecco alpino comprende pareti ripide, pareti rocciose ripide o pareti ripide."
       },
       {
@@ -1592,31 +1592,31 @@
           "9 minuti",
           "5 minuti"
         ],
-        "réponse": "5 minuti",
+        "reponse": "5 minuti",
         "anecdote": "A differenza delle foche, le foche usano le pinne a terra per camminare."
       },
       {
         "id": 8,
-        "question": "Qual è, in centimetri, la lunghezza della lingua di un formichiere adulto ?",
+        "question": "Qual e, in centimetri, la lunghezza della lingua di un formichiere adulto ?",
         "propositions": [
           "50 cm",
           "60 cm",
           "80 cm",
           "70 cm"
         ],
-        "réponse": "60 cm",
-        "anecdote": "Il più grande rappresentante del gruppo è il formichiere gigante o grande formichiere, un animale che misura più di un metro di lunghezza."
+        "reponse": "60 cm",
+        "anecdote": "Il piu grande rappresentante del gruppo e il formichiere gigante o grande formichiere, un animale che misura piu di un metro di lunghezza."
       },
       {
         "id": 9,
-        "question": "Qual è la percentuale di roditori tra i mammiferi ?",
+        "question": "Qual e la percentuale di roditori tra i mammiferi ?",
         "propositions": [
           "20%",
           "40%",
           "30%",
           "10%"
         ],
-        "réponse": "40%",
+        "reponse": "40%",
         "anecdote": "Questi animali sono caratterizzati dalla loro coppia unica di incisivi che li servono a rosicchiare, scavare gallerie o difendersi."
       },
       {
@@ -1628,11 +1628,11 @@
           "80 volte",
           "120 volte"
         ],
-        "réponse": "160 volte",
+        "reponse": "160 volte",
         "anecdote": "Il formichiere mangia principalmente le formiche, ma ama anche le termiti e altri insetti come le coccinelle."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Quanti chili di carne può mangiare una iena durante un pasto ?",
@@ -1642,20 +1642,20 @@
           "34 kg",
           "4 kg"
         ],
-        "réponse": "14 kg",
-        "anecdote": "È impossibile distinguere, per semplice osservazione, una iena da una femmina, poiché entrambi sono simili."
+        "reponse": "14 kg",
+        "anecdote": "È impossibile distinguere, per semplice osservazione, una iena da una femmina, poiche entrambi sono simili."
       },
       {
         "id": 12,
-        "question": "Qual è il peso medio della lingua di una balena blu adulta ?",
+        "question": "Qual e il peso medio della lingua di una balena blu adulta ?",
         "propositions": [
           "1,3 tonnellate",
           "880 kg",
           "2,2 tonnellate",
           "2,7 tonnellate"
         ],
-        "réponse": "2,7 tonnellate",
-        "anecdote": "Quando la bocca della balena blu è completamente aperta, è abbastanza grande da contenere 90 tonnellate di acqua e cibo."
+        "reponse": "2,7 tonnellate",
+        "anecdote": "Quando la bocca della balena blu e completamente aperta, e abbastanza grande da contenere 90 tonnellate di acqua e cibo."
       },
       {
         "id": 13,
@@ -1666,7 +1666,7 @@
           "30",
           "120"
         ],
-        "réponse": "30",
+        "reponse": "30",
         "anecdote": "Da una coppia di termiti nascono larve che danno sterili lavoratori o pupe che daranno adulti sessuati."
       },
       {
@@ -1678,8 +1678,8 @@
           "40 km / h",
           "60 km / h"
         ],
-        "réponse": "60 km / h",
-        "anecdote": "Il leopardo occupa un posto importante in alcune culture africane in cui questo re degli animali è l'attributo dei capi."
+        "reponse": "60 km / h",
+        "anecdote": "Il leopardo occupa un posto importante in alcune culture africane in cui questo re degli animali e l'attributo dei capi."
       },
       {
         "id": 15,
@@ -1690,19 +1690,19 @@
           "50 minuti",
           "90 minuti"
         ],
-        "réponse": "90 minuti",
-        "anecdote": "Spermaceti, una sostanza bianca e cerosa dalla testa dell'animale, è stata raccolta dal capodoglio."
+        "reponse": "90 minuti",
+        "anecdote": "Spermaceti, una sostanza bianca e cerosa dalla testa dell'animale, e stata raccolta dal capodoglio."
       },
       {
         "id": 16,
-        "question": "Quanto velocemente può raggiungere un falco pellegrino quando è in preda ?",
+        "question": "Quanto velocemente può raggiungere un falco pellegrino quando e in preda ?",
         "propositions": [
           "120 km / h",
           "240 km / h",
           "200 km / h",
           "160 km / h"
         ],
-        "réponse": "240 km / h",
+        "reponse": "240 km / h",
         "anecdote": "Le sue prede sono spesso uccelli, ma alcuni individui possono anche attaccare piccoli animali terrestri."
       },
       {
@@ -1714,8 +1714,8 @@
           "40 ml",
           "20 ml"
         ],
-        "réponse": "20 ml",
-        "anecdote": "Il pipistrello vampiro è originario delle zone tropicali del continente americano (Messico, Cile, Brasile e Argentina)."
+        "reponse": "20 ml",
+        "anecdote": "Il pipistrello vampiro e originario delle zone tropicali del continente americano (Messico, Cile, Brasile e Argentina)."
       },
       {
         "id": 18,
@@ -1726,19 +1726,19 @@
           "25",
           "45"
         ],
-        "réponse": "25",
+        "reponse": "25",
         "anecdote": "Perfettamente adattato al suo habitat, l'orso polare ha uno spesso strato di grasso e una pelliccia che lo isola dal freddo."
       },
       {
         "id": 19,
-        "question": "Quante volte ci sono più serpenti non velenosi che velenosi ?",
+        "question": "Quante volte ci sono piu serpenti non velenosi che velenosi ?",
         "propositions": [
           "1500 volte",
           "1.100 volte",
           "1.700 volte",
           "1.300 volte"
         ],
-        "réponse": "1.700 volte",
+        "reponse": "1.700 volte",
         "anecdote": "La maggior parte dei serpenti ha una lingua bifida, occhi senza palpebre, crani articolati e mascelle mobili."
       },
       {
@@ -1750,22 +1750,22 @@
           "70",
           "130"
         ],
-        "réponse": "100",
-        "anecdote": "Alla chiusura delle uova, il coccodrillo del bambino è di circa 30 cm e ha lo stesso corpo di sua madre, maschio o femmina."
+        "reponse": "100",
+        "anecdote": "Alla chiusura delle uova, il coccodrillo del bambino e di circa 30 cm e ha lo stesso corpo di sua madre, maschio o femmina."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Qual è la lunghezza massima del salto che può fare un puma ?",
+        "question": "Qual e la lunghezza massima del salto che può fare un puma ?",
         "propositions": [
           "10 m",
           "8 m",
           "6 m",
           "12 m"
         ],
-        "réponse": "12 m",
-        "anecdote": "Ai fini della caccia o in caso di minaccia, è in grado di arrampicarsi sugli alberi ed essere molto agile."
+        "reponse": "12 m",
+        "anecdote": "Ai fini della caccia o in caso di minaccia, e in grado di arrampicarsi sugli alberi ed essere molto agile."
       },
       {
         "id": 22,
@@ -1776,20 +1776,20 @@
           "47",
           "11"
         ],
-        "réponse": "47",
+        "reponse": "47",
         "anecdote": "Gli adulti si nutrono di nettare di fiori e partecipano all'impollinazione delle piante, proprio come le farfalle."
       },
       {
         "id": 23,
-        "question": "Qual è la lunghezza in centimetri di un intestino di koala ?",
+        "question": "Qual e la lunghezza in centimetri di un intestino di koala ?",
         "propositions": [
           "300 cm",
           "200 cm",
           "400 cm",
           "100 cm"
         ],
-        "réponse": "300 cm",
-        "anecdote": "Il koala è strettamente correlato all'eucalipto o albero della gomma, dal quale mangia solo le foglie di alcune specie."
+        "reponse": "300 cm",
+        "anecdote": "Il koala e strettamente correlato all'eucalipto o albero della gomma, dal quale mangia solo le foglie di alcune specie."
       },
       {
         "id": 24,
@@ -1800,20 +1800,20 @@
           "320 giorni",
           "270 giorni"
         ],
-        "réponse": "270 giorni",
+        "reponse": "270 giorni",
         "anecdote": "La coda del pennacchio dello scoiattolo e le sue implacabili disposizioni invernali hanno contribuito alla sua popolarità."
       },
       {
         "id": 25,
-        "question": "Qual è la velocità massima raggiunta dal pesce spada a vela ?",
+        "question": "Qual e la velocità massima raggiunta dal pesce spada a vela ?",
         "propositions": [
           "89 km / h",
           "99 km / h",
           "119 km / h",
           "109 km / h"
         ],
-        "réponse": "109 km / h",
-        "anecdote": "Possedendo strisce verticali sui fianchi, il pesce vela è considerato il pesce più veloce."
+        "reponse": "109 km / h",
+        "anecdote": "Possedendo strisce verticali sui fianchi, il pesce vela e considerato il pesce piu veloce."
       },
       {
         "id": 26,
@@ -1824,7 +1824,7 @@
           "892",
           "91"
         ],
-        "réponse": "91",
+        "reponse": "91",
         "anecdote": "Le prime donazioni di animali allo Zoo di Berlino, fondato nel 1844, furono realizzate da Federico Guglielmo IV, re di Prussia."
       },
       {
@@ -1836,7 +1836,7 @@
           "250",
           "100"
         ],
-        "réponse": "15",
+        "reponse": "15",
         "anecdote": "Le tartarughe marine, sebbene vulnerabili, sono presenti in tutti gli oceani del mondo, ad eccezione dell'Oceano Artico."
       },
       {
@@ -1848,20 +1848,20 @@
           "18 volte",
           "58 volte"
         ],
-        "réponse": "78 volte",
+        "reponse": "78 volte",
         "anecdote": "I colibrì sono anche conosciuti come colibrì a causa delle loro piccole dimensioni e veloci battiti d'ali."
       },
       {
         "id": 29,
-        "question": "Nel senso più ampio del termine, quante specie di canguri ci sono ?",
+        "question": "Nel senso piu ampio del termine, quante specie di canguri ci sono ?",
         "propositions": [
           "44",
           "51",
           "37",
           "63"
         ],
-        "réponse": "63",
-        "anecdote": "Un animale emblematico dell'Australia, il grande canguro è più popolare nelle campagne che nelle città."
+        "reponse": "63",
+        "anecdote": "Un animale emblematico dell'Australia, il grande canguro e piu popolare nelle campagne che nelle città."
       },
       {
         "id": 30,
@@ -1872,13 +1872,13 @@
           "6 400",
           "7.200"
         ],
-        "réponse": "9 600",
+        "reponse": "9 600",
         "anecdote": "Coleotteri, coccinelle, lucani, scarafaggi, cacari e charanges sono allopoei."
       }
     ]
     },
     "nl": {
-      "débutant": [
+      "debutant": [
       {
         "id": 1,
         "question": "Hoe lang duurt de gemiddelde draagtijd van een olifant ?",
@@ -1888,8 +1888,8 @@
           "21 maanden",
           "13 maanden"
         ],
-        "réponse": "21 maanden",
-        "anecdote": "Een olifant kan zwanger zijn tot de leeftijd van vijftig, waarbij in de meeste gevallen slechts één olifant wordt gedragen."
+        "reponse": "21 maanden",
+        "anecdote": "Een olifant kan zwanger zijn tot de leeftijd van vijftig, waarbij in de meeste gevallen slechts een olifant wordt gedragen."
       },
       {
         "id": 2,
@@ -1900,7 +1900,7 @@
           "38",
           "18"
         ],
-        "réponse": "18",
+        "reponse": "18",
         "anecdote": "Verwar egels niet met andere zoogdieren die spillen dragen, zoals stekelvarkens."
       },
       {
@@ -1912,7 +1912,7 @@
           "6 km",
           "9 km"
         ],
-        "réponse": "3 km",
+        "reponse": "3 km",
         "anecdote": "Deze aap schreeuwt elke ochtend, en wanneer het vecht met andere brulapen, schreeuwen ze ook met geschreeuw."
       },
       {
@@ -1924,7 +1924,7 @@
           "1832",
           "1723"
         ],
-        "réponse": "1681",
+        "reponse": "1681",
         "anecdote": "Naast zijn onvermogen om te vliegen, had de dodo geen angst voor mensen ontwikkeld, waardoor hij een gemakkelijke prooi was."
       },
       {
@@ -1936,7 +1936,7 @@
           "2.000",
           "4.000"
         ],
-        "réponse": "4.000",
+        "reponse": "4.000",
         "anecdote": "De stetson-hoed en de bandana werden gepopulariseerd door Buffalo Bill, terwijl niet alle cowboys het droegen."
       },
       {
@@ -1948,7 +1948,7 @@
           "3.500 m",
           "4.600 m"
         ],
-        "réponse": "3.500 m",
+        "reponse": "3.500 m",
         "anecdote": "De Alpine-steenbok prooi omvat steile wanden, steile kliffen of steile wanden."
       },
       {
@@ -1960,7 +1960,7 @@
           "7 min",
           "11 min"
         ],
-        "réponse": "5 min",
+        "reponse": "5 min",
         "anecdote": "In tegenstelling tot zeehonden gebruiken pelsrobben hun vinnen op de grond om te lopen."
       },
       {
@@ -1972,7 +1972,7 @@
           "70 cm",
           "50 cm"
         ],
-        "réponse": "60 cm",
+        "reponse": "60 cm",
         "anecdote": "De grootste vertegenwoordiger van de groep is de reusachtige miereneter of grote miereneter, een dier van meer dan een meter lang."
       },
       {
@@ -1984,7 +1984,7 @@
           "10%",
           "40%"
         ],
-        "réponse": "40%",
+        "reponse": "40%",
         "anecdote": "Deze dieren worden gekenmerkt door hun unieke paar snijtanden die hen dienen om te knagen, galerijen te graven of zichzelf te verdedigen."
       },
       {
@@ -1996,11 +1996,11 @@
           "120 keer",
           "40 keer"
         ],
-        "réponse": "160 keer",
+        "reponse": "160 keer",
         "anecdote": "De miereneter eet voornamelijk mieren, maar houdt ook van termieten en andere insecten zoals lieveheersbeestjes."
       }
     ],
-    "confirmé": [
+    "confirme": [
       {
         "id": 11,
         "question": "Hoeveel kilo vlees kan een hyena tijdens een maaltijd eten ?",
@@ -2010,7 +2010,7 @@
           "14 kg",
           "4 kg"
         ],
-        "réponse": "14 kg",
+        "reponse": "14 kg",
         "anecdote": "Het is onmogelijk om, door eenvoudige waarneming, een hyena van een vrouw te onderscheiden, omdat beide gelijk zijn."
       },
       {
@@ -2022,7 +2022,7 @@
           "880 kg",
           "2,2 ton"
         ],
-        "réponse": "2,7 ton",
+        "reponse": "2,7 ton",
         "anecdote": "Wanneer de mond van de blauwe vinvis helemaal open is, is deze groot genoeg om 90 ton water en voedsel te bevatten."
       },
       {
@@ -2034,7 +2034,7 @@
           "30",
           "60"
         ],
-        "réponse": "30",
+        "reponse": "30",
         "anecdote": "Van een termietenkoppel worden larven geboren die steriele werkers of poppen geven die gesekste volwassenen geven."
       },
       {
@@ -2046,7 +2046,7 @@
           "80 km / h",
           "60 km / h"
         ],
-        "réponse": "60 km / h",
+        "reponse": "60 km / h",
         "anecdote": "Luipaard heeft een belangrijke plaats in sommige Afrikaanse culturen waar deze koning van dieren het attribuut is van de leiders."
       },
       {
@@ -2058,7 +2058,7 @@
           "50 min",
           "70 min"
         ],
-        "réponse": "90 min",
+        "reponse": "90 min",
         "anecdote": "Spermaceti, een witte en wasachtige substantie van het hoofd van het dier, werd geoogst door de potvis."
       },
       {
@@ -2070,7 +2070,7 @@
           "160 km / h",
           "240 km / h"
         ],
-        "réponse": "240 km / h",
+        "reponse": "240 km / h",
         "anecdote": "Zijn prooi is vaak vogels, maar sommige individuen kunnen ook kleine landdieren aanvallen."
       },
       {
@@ -2082,8 +2082,8 @@
           "60 ml",
           "40 ml"
         ],
-        "réponse": "20 ml",
-        "anecdote": "De vampire-vleermuis is afkomstig uit de tropische gebieden van het Amerikaanse continent (Mexico, Chili, Brazilië en Argentinië)."
+        "reponse": "20 ml",
+        "anecdote": "De vampire-vleermuis is afkomstig uit de tropische gebieden van het Amerikaanse continent (Mexico, Chili, Brazilia en Argentinia)."
       },
       {
         "id": 18,
@@ -2094,7 +2094,7 @@
           "25",
           "35"
         ],
-        "réponse": "25",
+        "reponse": "25",
         "anecdote": "De ijsbeer is perfect aangepast aan zijn habitat en heeft een dikke laag vet en een vacht die het isoleert tegen de kou."
       },
       {
@@ -2106,7 +2106,7 @@
           "1700 keer",
           "1.300 keer"
         ],
-        "réponse": "1700 keer",
+        "reponse": "1700 keer",
         "anecdote": "De meeste slangen hebben een gespleten tong, ogen zonder oogleden, gelede schedels en mobiele kaken."
       },
       {
@@ -2118,7 +2118,7 @@
           "130",
           "100"
         ],
-        "réponse": "100",
+        "reponse": "100",
         "anecdote": "Bij het sluiten van de eieren is de krokodil ongeveer 30 cm lang en heeft hij hetzelfde lichaam als zijn moeder, mannelijk of vrouwelijk."
       }
     ],
@@ -2132,7 +2132,7 @@
           "6 m",
           "10 m"
         ],
-        "réponse": "12 m",
+        "reponse": "12 m",
         "anecdote": "Voor jachtdoeleinden of in geval van dreiging, kan hij in bomen klimmen en zeer behendig zijn."
       },
       {
@@ -2144,7 +2144,7 @@
           "34",
           "29"
         ],
-        "réponse": "47",
+        "reponse": "47",
         "anecdote": "Volwassenen voeden zich met bloemnectar en nemen deel aan de bestuiving van planten, net als vlinders."
       },
       {
@@ -2156,7 +2156,7 @@
           "400 cm",
           "300 cm"
         ],
-        "réponse": "300 cm",
+        "reponse": "300 cm",
         "anecdote": "De koala is nauw verwant aan de eucalyptus of gomboom, waarvan het alleen de bladeren van bepaalde soorten eet."
       },
       {
@@ -2168,7 +2168,7 @@
           "270 dagen",
           "410 dagen"
         ],
-        "réponse": "270 dagen",
+        "reponse": "270 dagen",
         "anecdote": "De pluimstaart van de eekhoorn en de niet-aflatende wintervoorzieningen hebben bijgedragen aan zijn populariteit."
       },
       {
@@ -2180,7 +2180,7 @@
           "119 km / h",
           "99 km / h"
         ],
-        "réponse": "109 km / h",
+        "reponse": "109 km / h",
         "anecdote": "Het bezit van verticale strepen op de flanken, de sailfish wordt beschouwd als de snelste vis."
       },
       {
@@ -2192,7 +2192,7 @@
           "344",
           "1,712"
         ],
-        "réponse": "91",
+        "reponse": "91",
         "anecdote": "De eerste dierenoffers aan de dierentuin van Berlijn, gesticht in 1844, zijn gemaakt door Frederik Willem IV, koning van Pruisen."
       },
       {
@@ -2204,7 +2204,7 @@
           "250",
           "100"
         ],
-        "réponse": "15",
+        "reponse": "15",
         "anecdote": "Zeeschildpadden, hoewel kwetsbaar, zijn aanwezig in alle oceanen van de wereld, met uitzondering van de Noordelijke IJszee."
       },
       {
@@ -2216,7 +2216,7 @@
           "78 keer",
           "58 keer"
         ],
-        "réponse": "78 keer",
+        "reponse": "78 keer",
         "anecdote": "Kolibries zijn ook bekend als kolibries vanwege hun kleine formaat en snelle vleugelslagen."
       },
       {
@@ -2228,8 +2228,8 @@
           "37",
           "63"
         ],
-        "réponse": "63",
-        "anecdote": "Een emblematisch dier van Australië, de grote kangoeroe is populairder op het platteland dan in de steden."
+        "reponse": "63",
+        "anecdote": "Een emblematisch dier van Australia, de grote kangoeroe is populairder op het platteland dan in de steden."
       },
       {
         "id": 30,
@@ -2240,7 +2240,7 @@
           "9 600",
           "6 400"
         ],
-        "réponse": "9 600",
+        "reponse": "9 600",
         "anecdote": "Kevers, lieveheersbeestjes, lucans, kevers, cockchafers en charanceps zijn allopoei."
       }
     ]
