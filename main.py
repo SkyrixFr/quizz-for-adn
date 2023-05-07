@@ -21,16 +21,20 @@ questions,reponses = appending_questions.get_questions()
 i=0
 question=[]
 reponse=[]
+print("[+] Loading questions and answers")
 while i<4:
     try:
         nb=rdint(0,3000)
-        print(nb)
+        # print(nb)
         question.append(questions[nb])
         reponse.append(reponses[nb])
         i+=1
     except IndexError:
         pass
-print(question,reponse)
+# print(question,reponse)
+print("[+] Questions and answers loaded:")
+print(f"Questions: {str(question)}")
+print(f"Answers: {str(reponse)}")
 
 cap = cv2.VideoCapture(0)
 cap.set(3, 1920)
