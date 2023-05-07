@@ -49,6 +49,6 @@ while True:
     img, bbox4 = cvzone.putTextRect(img, reponse[0][3], [700, 500], 2, 2, offset=50, border=5)
 
 
-    #imgs = cv2.resize(img, (1920,1080))
-    cv2.imshow("Game by Skyrix_ and justekaka", img) #change to imgs to change resolution
+    imgs = cv2.resize(img, (1920,1080))
+    cv2.imshow("Game by Skyrix_ and justekaka", imgs) #change to imgs to change resolution
     cv2.waitKey(1)
