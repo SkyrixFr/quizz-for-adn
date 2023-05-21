@@ -41,11 +41,11 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Des mains de qui Anne-Elisabeth Lemoine a-t-elle recu les cles de l emission « C a Vous » ?",
+        "question": "Des mains de qui Anne-Elisabeth Lemoine a-t-elle recu les cles de l emission \"C a Vous\" ?",
         "propositions": [
           "Alessandra Sublet",
           "Julie Andrieu",
-          "Daphne Bürki",
+          "Daphne Burki",
           "Anne-Sophie Lapix"
         ],
         "reponse": "Anne-Sophie Lapix",
@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "question": "Quel animateur francais s est montre « À l etat sauvage » en juin 2017 ?",
+        "question": "Quel animateur francais s est montre \"A l etat sauvage\" en juin 2017 ?",
         "propositions": [
           "T. Ardisson",
           "S. Bern",
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "Quel poulain de M. Pokora a remporte la saison 6 de l emission televisee « The Voice » ?",
+        "question": "Quel poulain de M. Pokora a remporte la saison 6 de l emission televisee \"The Voice\" ?",
         "propositions": [
           "Marius",
           "Lisandro Cuxi",
@@ -113,7 +113,7 @@
       },
       {
         "id": 7,
-        "question": "Qui presente depuis le 12 juin 2017 une toute nouvelle emission, « La Robe de ma vie » ?",
+        "question": "Qui presente depuis le 12 juin 2017 une toute nouvelle emission, \"La Robe de ma vie\" ?",
         "propositions": [
           "Anne-Sophie Lapix",
           "Cristina Cordula",
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Qui a succede a Laurie Cholewa aux commandes de l animation de « Nouvelle Star » ?",
+        "question": "Qui a succede a Laurie Cholewa aux commandes de l animation de \"Nouvelle Star\" ?",
         "propositions": [
           "Cyril Hanouna",
           "Shy m",
@@ -133,7 +133,7 @@
           "Virginie Efira"
         ],
         "reponse": "Shy m",
-        "anecdote": "En 2011, Shy m a participe et a remporte la deuxieme saison de l emission televisee « Danse avec les stars »."
+        "anecdote": "En 2011, Shy m a participe et a remporte la deuxieme saison de l emission televisee \"Danse avec les stars\"."
       },
       {
         "id": 9,
@@ -153,7 +153,7 @@
         "propositions": [
           "Guy Bedos",
           "Laurent Baffie",
-          "Élie Semoun",
+          "Elie Semoun",
           "Nicolas Canteloup"
         ],
         "reponse": "Guy Bedos",
@@ -183,7 +183,7 @@
           "Jessica Chastain"
         ],
         "reponse": "Jessica Chastain",
-        "anecdote": "Jessica Chastain est connue pour preparer intensivement ses rôles qui sont generalement de nature eprouvante emotionnellement."
+        "anecdote": "Jessica Chastain est connue pour preparer intensivement ses roles qui sont generalement de nature eprouvante emotionnellement."
       },
       {
         "id": 13,
@@ -207,11 +207,11 @@
           "Selena Gomez"
         ],
         "reponse": "Selena Gomez",
-        "anecdote": "C est grace a la serie « Les Sorciers de Waverly Place », sur Disney Channel, que Selena Gomez s est fait connaître du jeune public."
+        "anecdote": "C est grace a la serie \"Les Sorciers de Waverly Place\", sur Disney Channel, que Selena Gomez s est fait connaitre du jeune public."
       },
       {
         "id": 15,
-        "question": "Qui a pris la tete de « Telematin » apres le depart de William Leymergie sur C8 ?",
+        "question": "Qui a pris la tete de \"Telematin\" apres le depart de William Leymergie sur C8 ?",
         "propositions": [
           "Laurent Bignolas",
           "Catherine Matausch",
@@ -219,7 +219,7 @@
           "Audrey Pulvar"
         ],
         "reponse": "Laurent Bignolas",
-        "anecdote": "En 1999, Laurent Bignolas a realise une traversee de l Atlantique a la voile et a obtenu un 7 d or en 2000 pour « Faut pas rever »."
+        "anecdote": "En 1999, Laurent Bignolas a realise une traversee de l Atlantique a la voile et a obtenu un 7 d or en 2000 pour \"Faut pas rever\"."
       },
       {
         "id": 16,
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Combien Johnny Hallyday a-t-il touche pour chaque concert des « Vieilles canailles » ?",
+        "question": "Combien Johnny Hallyday a-t-il touche pour chaque concert des \"Vieilles canailles\" ?",
         "propositions": [
           "60 000 euros",
           "90 000 euros",
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Quel chanteur de « Power » a dignement fete ses quarante ans en juin 2017 ?",
+        "question": "Quel chanteur de \"Power\" a dignement fete ses quarante ans en juin 2017 ?",
         "propositions": [
           "Common",
           "Big Sean",
@@ -285,15 +285,15 @@
     "expert": [
       {
         "id": 21,
-        "question": "Qui a dit : « Rire sur le terrorisme n est pas politiquement correct mais indispensable » ?",
+        "question": "Qui a dit : \"Rire sur le terrorisme n est pas politiquement correct mais indispensable\" ?",
         "propositions": [
-          "Élie Semoun",
+          "Elie Semoun",
           "Alex Vizorek",
           "Francois Rollin",
           "Jean-Luc Lemoine"
         ],
-        "reponse": "Élie Semoun",
-        "anecdote": "Élie Semoun fait partie des celebrites francaises a avoir exprime leurs craintes a l annonce de la victoire de Donald Trump."
+        "reponse": "Elie Semoun",
+        "anecdote": "Elie Semoun fait partie des celebrites francaises a avoir exprime leurs craintes a l annonce de la victoire de Donald Trump."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "Manu Levy"
         ],
         "reponse": "Manu Levy",
-        "anecdote": "Emmanuel Levy s est fait connaître sous le pseudonyme de « Maître Levy » en animant des emissions aux côtes d Arthur."
+        "anecdote": "Emmanuel Levy s est fait connaitre sous le pseudonyme de \"Maitre Levy\" en animant des emissions aux cotes d Arthur."
       },
       {
         "id": 23,
@@ -336,16 +336,16 @@
         "question": "Quel acteur a ecope en 2017 d une peine en appel pour avoir renverse une pietonne ?",
         "propositions": [
           "Jean Dujardin",
-          "Benoît Magimel",
+          "Benoit Magimel",
           "Vincent Lindon",
           "Olivier Gourmet"
         ],
-        "reponse": "Benoît Magimel",
-        "anecdote": "En 2016, Benoît Magimel etait condamne a 3 500  d amende pour avoir renverse une pietonne et pour consommation de cocaïne."
+        "reponse": "Benoit Magimel",
+        "anecdote": "En 2016, Benoit Magimel etait condamne a 3 500  d amende pour avoir renverse une pietonne et pour consommation de cocaïne."
       },
       {
         "id": 26,
-        "question": "À qui la marque Ikea a-t-elle fait appel pour redessiner son sac fourre-tout ?",
+        "question": "A qui la marque Ikea a-t-elle fait appel pour redessiner son sac fourre-tout ?",
         "propositions": [
           "Virgil Abloh",
           "Michael Kors",
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Quelle star des « Anges » est apparue en 2017 sur les bus de la RATP ?",
+        "question": "Quelle star des \"Anges\" est apparue en 2017 sur les bus de la RATP ?",
         "propositions": [
           "Aurelie Preston",
           "Melanie Da Cruz",
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quelle jeune chanteuse sourde a bouleverse « America s Got Talent » ?",
+        "question": "Quelle jeune chanteuse sourde a bouleverse \"America s Got Talent\" ?",
         "propositions": [
           "Grace VanderWaal",
           "Mandy Harvey",
@@ -389,11 +389,11 @@
           "Emily West"
         ],
         "reponse": "Mandy Harvey",
-        "anecdote": "Grace a son talent et son courage, elle a bouleverse le jury et le public de la version americaine de « La France a un incroyable talent »."
+        "anecdote": "Grace a son talent et son courage, elle a bouleverse le jury et le public de la version americaine de \"La France a un incroyable talent\"."
       },
       {
         "id": 30,
-        "question": "Quel heros de « Premiers baisers » s est marie a Raquel Chouiti ?",
+        "question": "Quel heros de \"Premiers baisers\" s est marie a Raquel Chouiti ?",
         "propositions": [
           "Cyril Aubin",
           "Anthony Dupray",
@@ -401,7 +401,7 @@
           "Pierre Deny"
         ],
         "reponse": "Anthony Dupray",
-        "anecdote": "Anthony Dupray a debute en 1992 dans une publicite d Étienne Chatiliez. Il en tournera d autres en France ainsi qu a l etranger."
+        "anecdote": "Anthony Dupray a debute en 1992 dans une publicite d Etienne Chatiliez. Il en tournera d autres en France ainsi qu a l etranger."
       }
     ]
     }

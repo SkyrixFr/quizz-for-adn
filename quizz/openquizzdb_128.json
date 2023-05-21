@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "L ecole de peinture de Düsseldorf etait un mouvement romantique de quel pays ?",
+        "question": "L ecole de peinture de Dusseldorf etait un mouvement romantique de quel pays ?",
         "propositions": [
           "Russie",
           "Espagne",
@@ -49,7 +49,7 @@
           "Grande-Bretagne"
         ],
         "reponse": "Allemagne",
-        "anecdote": "Le paysage et la peinture de genre de Düsseldorf, en particulier, ont ete leaders et pionniers pendant de nombreuses annees."
+        "anecdote": "Le paysage et la peinture de genre de Dusseldorf, en particulier, ont ete leaders et pionniers pendant de nombreuses annees."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Espagne"
         ],
         "reponse": "France",
-        "anecdote": "Ce sculpteur francais est representatif de la transition entre le neoclassicisme et le romantisme, dont il est un des maîtres."
+        "anecdote": "Ce sculpteur francais est representatif de la transition entre le neoclassicisme et le romantisme, dont il est un des maitres."
       },
       {
         "id": 3,
@@ -69,19 +69,19 @@
         "propositions": [
           "Grande-Bretagne",
           "Norvege",
-          "États-Unis",
+          "Etats-Unis",
           "France"
         ],
-        "reponse": "États-Unis",
+        "reponse": "Etats-Unis",
         "anecdote": "William Morris Hunt est un peintre americain et le chef de file du courant pictural en vogue a Boston au milieu du XIXe siecle."
       },
       {
         "id": 4,
-        "question": "« La Bavaria » a ete la premiere statue colossale a avoir ete fondue en quelle matiere ?",
+        "question": "\"La Bavaria\" a ete la premiere statue colossale a avoir ete fondue en quelle matiere ?",
         "propositions": [
           "Bronze",
           "Argent",
-          "Étain",
+          "Etain",
           "Nickel"
         ],
         "reponse": "Bronze",
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Quel grand artiste a peint le celebre tableau romantique « La Barque de Dante » ?",
+        "question": "Quel grand artiste a peint le celebre tableau romantique \"La Barque de Dante\" ?",
         "propositions": [
           "Girodet",
           "Turner",
@@ -133,7 +133,7 @@
           "Goya"
         ],
         "reponse": "Delacroix",
-        "anecdote": "Extrait de la « Divine Comedie », la scene represente la visite aux Enfers de Dante Alighieri accompagne de Virgile."
+        "anecdote": "Extrait de la \"Divine Comedie\", la scene represente la visite aux Enfers de Dante Alighieri accompagne de Virgile."
       },
       {
         "id": 9,
@@ -149,10 +149,10 @@
       },
       {
         "id": 10,
-        "question": "Quel peintre est celebre pour sa troublante serie des « Peintures noires » ?",
+        "question": "Quel peintre est celebre pour sa troublante serie des \"Peintures noires\" ?",
         "propositions": [
           "Corot",
-          "Füssli",
+          "Fussli",
           "Goya",
           "Gros"
         ],
@@ -175,7 +175,7 @@
       },
       {
         "id": 12,
-        "question": "Quel artiste danois a peint « Un groupe d artistes danois a Rome » ?",
+        "question": "Quel artiste danois a peint \"Un groupe d artistes danois a Rome\" ?",
         "propositions": [
           "Hansen",
           "Malmström",
@@ -199,7 +199,7 @@
       },
       {
         "id": 14,
-        "question": "Quelle scene le tableau de Turner « Pluie, Vapeur et Vitesse » represente-t-il ?",
+        "question": "Quelle scene le tableau de Turner \"Pluie, Vapeur et Vitesse\" represente-t-il ?",
         "propositions": [
           "Une usine",
           "Une voie ferree",
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Sir Charles Barry est celebre pour son rôle dans la reconstruction de quel palais ?",
+        "question": "Sir Charles Barry est celebre pour son role dans la reconstruction de quel palais ?",
         "propositions": [
           "Saint-Pierre",
           "Tintern",
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Le celebre « Portrait du duc de Wellington » est representatif de l oeuvre de quel peintre ?",
+        "question": "Le celebre \"Portrait du duc de Wellington\" est representatif de l oeuvre de quel peintre ?",
         "propositions": [
           "Hayez",
           "Lawrence",
@@ -267,11 +267,11 @@
           "Goya"
         ],
         "reponse": "Goya",
-        "anecdote": "Son chef-d oeuvre est la serie de peintures a l huile sur mur sec qui decorent sa maison de campagne, les « Peintures noires »."
+        "anecdote": "Son chef-d oeuvre est la serie de peintures a l huile sur mur sec qui decorent sa maison de campagne, les \"Peintures noires\"."
       },
       {
         "id": 20,
-        "question": "Quel artiste a peint l emouvant tableau « El tres de mayo de 1808 en Madrid » ?",
+        "question": "Quel artiste a peint l emouvant tableau \"El tres de mayo de 1808 en Madrid\" ?",
         "propositions": [
           "Girodet",
           "Mulready",
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "À quelle River School l artiste Asher Brown Durand etait-il associe ?",
+        "question": "A quelle River School l artiste Asher Brown Durand etait-il associe ?",
         "propositions": [
           "Norwich",
           "Hudson",
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quel artiste allemand a peint le celebre tableau « Lever de lune sur la mer » ?",
+        "question": "Quel artiste allemand a peint le celebre tableau \"Lever de lune sur la mer\" ?",
         "propositions": [
           "Runge",
           "Raeburn",
@@ -345,7 +345,7 @@
       },
       {
         "id": 26,
-        "question": "Quel artiste compte parmi ses oeuvres « La Denteliere » travaillant la dentelle aux fuseaux ?",
+        "question": "Quel artiste compte parmi ses oeuvres \"La Denteliere\" travaillant la dentelle aux fuseaux ?",
         "propositions": [
           "Bierstadt",
           "Stieler",
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Quel artiste compte parmi ses oeuvres celebres le tableau intitule « Spolarium » ?",
+        "question": "Quel artiste compte parmi ses oeuvres celebres le tableau intitule \"Spolarium\" ?",
         "propositions": [
           "George Stubbs",
           "Juan Luna",
@@ -377,7 +377,7 @@
           "James Barry"
         ],
         "reponse": "Juan Luna",
-        "anecdote": "Le groupe de rock philippin Eraserheads a compose un single intitule « Spoliarium » dans leur album « Sticker Happy »."
+        "anecdote": "Le groupe de rock philippin Eraserheads a compose un single intitule \"Spoliarium\" dans leur album \"Sticker Happy\"."
       },
       {
         "id": 29,
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "Quel peintre romantique realisa la grande peinture « Le Dernier jour de Pompei » ?",
+        "question": "Quel peintre romantique realisa la grande peinture \"Le Dernier jour de Pompei\" ?",
         "propositions": [
           "Delacroix",
           "Brioullov",

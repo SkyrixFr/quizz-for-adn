@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "question": "Qui leve le voile dans son livre confession intitule « Puisque tout passe » ?",
+        "question": "Qui leve le voile dans son livre confession intitule \"Puisque tout passe\" ?",
         "propositions": [
           "Claire Chazal",
           "Florence Schaal",
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "Quelle jeune artiste fut la premiere fille a remporter « The Voice » France ?",
+        "question": "Quelle jeune artiste fut la premiere fille a remporter \"The Voice\" France ?",
         "propositions": [
           "Maalle",
           "Lucyl",
@@ -85,7 +85,7 @@
           "Kristen Stewart"
         ],
         "reponse": "Kristen Stewart",
-        "anecdote": "Un geste qui n est pas sans rappeler qu en 2016, l actrice revelee par « Twillight » avait pose pieds nus lors du photocall de Cafe Society."
+        "anecdote": "Un geste qui n est pas sans rappeler qu en 2016, l actrice revelee par \"Twillight\" avait pose pieds nus lors du photocall de Cafe Society."
       },
       {
         "id": 5,
@@ -113,7 +113,7 @@
       },
       {
         "id": 7,
-        "question": "Quel celebre chroniqueur a annonce quitter la chaîne C8 pour rejoindre TF1 ?",
+        "question": "Quel celebre chroniqueur a annonce quitter la chaine C8 pour rejoindre TF1 ?",
         "propositions": [
           "Florian Gazan",
           "Bernard Montiel",
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Quel artiste aime des francais a relance le jeu tele « Burger Quizz » sur TMC ?",
+        "question": "Quel artiste aime des francais a relance le jeu tele \"Burger Quizz\" sur TMC ?",
         "propositions": [
           "Alain Chabat",
           "Albert Dupontel",
@@ -171,7 +171,7 @@
           "Tom Bouthier"
         ],
         "reponse": "Fred Rister",
-        "anecdote": "Desormais, il se plonge dans sa premiere passion, la musique. Sa raison de (sur)vivre. Fred Rister a ecrit le titre « I want a miracle »."
+        "anecdote": "Desormais, il se plonge dans sa premiere passion, la musique. Sa raison de (sur)vivre. Fred Rister a ecrit le titre \"I want a miracle\"."
       },
       {
         "id": 12,
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quel acteur s est fait virer de la serie « L arme fatale » suite a son comportement odieux ?",
+        "question": "Quel acteur s est fait virer de la serie \"L arme fatale\" suite a son comportement odieux ?",
         "propositions": [
           "Peter Wingfield",
           "John Boyd",
@@ -207,7 +207,7 @@
           "Susannah York"
         ],
         "reponse": "Margot Kidder",
-        "anecdote": "Côte vie privee, Margot Kidder avait ete mariee au realisateur francais Philippe de Broca entre 1983 et 1984."
+        "anecdote": "Cote vie privee, Margot Kidder avait ete mariee au realisateur francais Philippe de Broca entre 1983 et 1984."
       },
       {
         "id": 15,
@@ -216,7 +216,7 @@
           "Stomy Bugsy",
           "La Fouine",
           "JoeyStarr",
-          "Maître Gims"
+          "Maitre Gims"
         ],
         "reponse": "Stomy Bugsy",
         "anecdote": "Le 14 mai 2017, dans une tribune publiee dans le quotidien Liberation, il faisait partie des 15 artistes a appeler le gouvernement."
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Qui a dit concernant la mort de son fils Ludovic : « C etait sa route » ?",
+        "question": "Qui a dit concernant la mort de son fils Ludovic : \"C etait sa route\" ?",
         "propositions": [
           "Catherine Deneuve",
           "Sylvie Vartan",
@@ -255,11 +255,11 @@
           "Sheila"
         ],
         "reponse": "Sheila",
-        "anecdote": "Pour la chanteuse, le côte positif de ce malheur est d avoir reussi a chanter un peu plus d un mois apres la disparition de son fils."
+        "anecdote": "Pour la chanteuse, le cote positif de ce malheur est d avoir reussi a chanter un peu plus d un mois apres la disparition de son fils."
       },
       {
         "id": 19,
-        "question": "Quelle chanteuse s est rase la tete pour l emission « The Island » ?",
+        "question": "Quelle chanteuse s est rase la tete pour l emission \"The Island\" ?",
         "propositions": [
           "Alizee",
           "Laam",
@@ -267,7 +267,7 @@
           "Shy m"
         ],
         "reponse": "Laam",
-        "anecdote": "Le mardi 15 mai 2018 a 21h, M6 a diffuse la version celebrites de son emission d aventure « The Island » menee par Mike Horn."
+        "anecdote": "Le mardi 15 mai 2018 a 21h, M6 a diffuse la version celebrites de son emission d aventure \"The Island\" menee par Mike Horn."
       },
       {
         "id": 20,
@@ -297,12 +297,12 @@
       },
       {
         "id": 22,
-        "question": "À 29 ans, qui a sorti son premier livre intitule « Secrets d Influenceur » ?",
+        "question": "A 29 ans, qui a sorti son premier livre intitule \"Secrets d Influenceur\" ?",
         "propositions": [
           "Tristan Nitot",
           "Loïc Le Meur",
           "Valentin Lucas",
-          "Étienne Chouard"
+          "Etienne Chouard"
         ],
         "reponse": "Valentin Lucas",
         "anecdote": "Tout a fait legitime sur le reseau Instagram, l ex-compagnon de Caroline Receveur est suivi par pres de 250 000 abonnes."
@@ -317,7 +317,7 @@
           "Stan Lee"
         ],
         "reponse": "Stan Lee",
-        "anecdote": "À 95 ans, le fondateur de l empire Marvel conteste les conditions de la vente de POW! Entertainment a une holding chinoise."
+        "anecdote": "A 95 ans, le fondateur de l empire Marvel conteste les conditions de la vente de POW! Entertainment a une holding chinoise."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "Television"
         ],
         "reponse": "Vibromasseur",
-        "anecdote": "Une scene tres drôle que Kim Kardashian a partage sur la story de son compte Instagram, pour le plus grand plaisir de ses followers."
+        "anecdote": "Une scene tres drole que Kim Kardashian a partage sur la story de son compte Instagram, pour le plus grand plaisir de ses followers."
       },
       {
         "id": 25,
@@ -365,7 +365,7 @@
           "Martin Berasategui"
         ],
         "reponse": "Juan Arbe­laez",
-        "anecdote": "« La plus grande qualite de Laury, c est sa simpli­cite, son côte petillant et sa lumiere qu elle apporte ou elle arrive »."
+        "anecdote": "\"La plus grande qualite de Laury, c est sa simpli­cite, son cote petillant et sa lumiere qu elle apporte ou elle arrive\"."
       },
       {
         "id": 28,
@@ -421,7 +421,7 @@
       },
       {
         "id": 2,
-        "question": "Who raises the veil in his book confession titled « Since everything goes » ?",
+        "question": "Who raises the veil in his book confession titled \"Since everything goes\" ?",
         "propositions": [
           "Florence Schaal",
           "Claire Chazal",
@@ -433,7 +433,7 @@
       },
       {
         "id": 3,
-        "question": "Which young artist was the first girl to win « The Voice » France ?",
+        "question": "Which young artist was the first girl to win \"The Voice\" France ?",
         "propositions": [
           "Amandine",
           "Lucyl",
@@ -453,7 +453,7 @@
           "Judith Chemla"
         ],
         "reponse": "Kristen Stewart",
-        "anecdote": "A gesture that is reminiscent of that in 2016, the actress dreamed by « Twillight » had posed barefoot at the Photocall Cafe Society."
+        "anecdote": "A gesture that is reminiscent of that in 2016, the actress dreamed by \"Twillight\" had posed barefoot at the Photocall Cafe Society."
       },
       {
         "id": 5,
@@ -493,7 +493,7 @@
       },
       {
         "id": 8,
-        "question": "Which artist loved by French has relaunched the game TV « Burger Quizz » on TMC ?",
+        "question": "Which artist loved by French has relaunched the game TV \"Burger Quizz\" on TMC ?",
         "propositions": [
           "Albert Dupontel",
           "Alain Chabat",
@@ -555,7 +555,7 @@
       },
       {
         "id": 13,
-        "question": "Which actor got fired from the series « The fatal weapon » following his obnoxious behavior ?",
+        "question": "Which actor got fired from the series \"The fatal weapon\" following his obnoxious behavior ?",
         "propositions": [
           "Kiefer Sutherland",
           "Clayne Crawford",
@@ -615,7 +615,7 @@
       },
       {
         "id": 18,
-        "question": "Who said about the death of his son Ludovic: « It was his way » ?",
+        "question": "Who said about the death of his son Ludovic: \"It was his way\" ?",
         "propositions": [
           "Nathalie Baye",
           "Catherine Deneuve",
@@ -627,7 +627,7 @@
       },
       {
         "id": 19,
-        "question": "Which singer has shaved her head for the broadcast of « The Island » ?",
+        "question": "Which singer has shaved her head for the broadcast of \"The Island\" ?",
         "propositions": [
           "Alizee",
           "Shy m",
@@ -635,7 +635,7 @@
           "Nadiya"
         ],
         "reponse": "Laam",
-        "anecdote": "On Tuesday, May 15, 2018 at 9 pm, M6 aired the celebrity version of Mike Horn s « The Island » adventure show."
+        "anecdote": "On Tuesday, May 15, 2018 at 9 pm, M6 aired the celebrity version of Mike Horn s \"The Island\" adventure show."
       },
       {
         "id": 20,
@@ -665,12 +665,12 @@
       },
       {
         "id": 22,
-        "question": "At 29, who released his first book, « Secrets d Influenceur » ?",
+        "question": "At 29, who released his first book, \"Secrets d Influenceur\" ?",
         "propositions": [
           "Valentin Lucas",
           "Tristan Nitot",
           "Loic Le Meur",
-          "Étienne Chouard"
+          "Etienne Chouard"
         ],
         "reponse": "Valentin Lucas",
         "anecdote": "Quite legitimate on the Instagram network, the former companion of Caroline Receveur is followed by nearly 250,000 subscribers."
@@ -733,7 +733,7 @@
           "Martin Berasategui"
         ],
         "reponse": "Juan Arbe­laez",
-        "anecdote": "« Laury s greatest quality is its simplicity, its piquant side, and the light it brings where it comes »."
+        "anecdote": "\"Laury s greatest quality is its simplicity, its piquant side, and the light it brings where it comes\"."
       },
       {
         "id": 28,
@@ -777,7 +777,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Welcher große belgische Künstler des Liedes hat uns im Mai 2018 brutal verlassen ?",
+        "question": "Welcher große belgische Kunstler des Liedes hat uns im Mai 2018 brutal verlassen ?",
         "propositions": [
           "Melanie Cohl",
           "Vikor Lazlo",
@@ -785,11 +785,11 @@
           "Jo Lemaire"
         ],
         "reponse": "Maurane",
-        "anecdote": "Maurane wurde in ihrem Haus in Schaerbeek bei Brüssel tot aufgefunden. Am Tag zuvor sang sie beim Iris Festival in der Hauptstadt."
+        "anecdote": "Maurane wurde in ihrem Haus in Schaerbeek bei Brussel tot aufgefunden. Am Tag zuvor sang sie beim Iris Festival in der Hauptstadt."
       },
       {
         "id": 2,
-        "question": "Wer wirft den Schleier in seinem Buch Geständnis mit dem Titel « Da alles geht » ?",
+        "question": "Wer wirft den Schleier in seinem Buch Geständnis mit dem Titel \"Da alles geht\" ?",
         "propositions": [
           "Anne-Sophie Lapix",
           "Laurence Ferrari",
@@ -797,11 +797,11 @@
           "Florence Schaal"
         ],
         "reponse": "Claire Chazal",
-        "anecdote": "Claire Chazal führt täglich eine lange Sitzung mit klassischem Tanz durch, die den Körper formt und seinen Geist beruhigt."
+        "anecdote": "Claire Chazal fuhrt täglich eine lange Sitzung mit klassischem Tanz durch, die den Körper formt und seinen Geist beruhigt."
       },
       {
         "id": 3,
-        "question": "Welcher junge Künstler hat als erstes Mädchen « The Voice » Frankreich gewonnen ?",
+        "question": "Welcher junge Kunstler hat als erstes Mädchen \"The Voice\" Frankreich gewonnen ?",
         "propositions": [
           "Lucyl",
           "Maelle",
@@ -809,7 +809,7 @@
           "Yasmine"
         ],
         "reponse": "Maelle",
-        "anecdote": "Diese siebte Ausgabe wird die Mennel-Affäre, die Beseitigung von Gulaan, die Enthüllung der vier Finalisten und die Hommage an Maurane gesehen haben."
+        "anecdote": "Diese siebte Ausgabe wird die Mennel-Affäre, die Beseitigung von Gulaan, die Enthullung der vier Finalisten und die Hommage an Maurane gesehen haben."
       },
       {
         "id": 4,
@@ -821,7 +821,7 @@
           "Eliza Bennett"
         ],
         "reponse": "Kristen Stewart",
-        "anecdote": "Eine Geste, die an das Jahr 2016 erinnert, als die von « Twillight » geträumte Schauspielerin in der Photocall Cafall Society barfuß posierte."
+        "anecdote": "Eine Geste, die an das Jahr 2016 erinnert, als die von \"Twillight\" geträumte Schauspielerin in der Photocall Cafall Society barfuß posierte."
       },
       {
         "id": 5,
@@ -849,7 +849,7 @@
       },
       {
         "id": 7,
-        "question": "Welcher berühmte Kolumnist hat angekündigt, den C8-Kanal zu verlassen, um sich TF1 anzuschließen ?",
+        "question": "Welcher beruhmte Kolumnist hat angekundigt, den C8-Kanal zu verlassen, um sich TF1 anzuschließen ?",
         "propositions": [
           "Florian Gazan",
           "Bernard Montiel",
@@ -861,7 +861,7 @@
       },
       {
         "id": 8,
-        "question": "Welcher von Franzosen geliebte Künstler hat das Spiel TV « Burger Quizz » auf TMC neu aufgelegt ?",
+        "question": "Welcher von Franzosen geliebte Kunstler hat das Spiel TV \"Burger Quizz\" auf TMC neu aufgelegt ?",
         "propositions": [
           "Albert Dupontel",
           "Franck Dubosc",
@@ -869,7 +869,7 @@
           "Didier Bourdon"
         ],
         "reponse": "Alain Chabat",
-        "anecdote": "Alain Chabat ist diesem Humor eines Schülers treu, der unter einem offensichtlichen Vorurteil einen akribischen Uhrmacher verlangt."
+        "anecdote": "Alain Chabat ist diesem Humor eines Schulers treu, der unter einem offensichtlichen Vorurteil einen akribischen Uhrmacher verlangt."
       },
       {
         "id": 9,
@@ -923,7 +923,7 @@
       },
       {
         "id": 13,
-        "question": "Welcher Schauspieler wurde aus der Serie « Die tödliche Waffe » nach seinem widerwärtigen Verhalten gefeuert ?",
+        "question": "Welcher Schauspieler wurde aus der Serie \"Die tödliche Waffe\" nach seinem widerwärtigen Verhalten gefeuert ?",
         "propositions": [
           "John Boyd",
           "Kiefer Sutherland",
@@ -955,11 +955,11 @@
           "Meister Gims"
         ],
         "reponse": "Stomy Bugsy",
-        "anecdote": "Am 14. Mai 2017 rief er in einer Tribüne, die in der Tageszeitung Liberation veröffentlicht wurde, als einer von 15 Künstlern die Regierung an."
+        "anecdote": "Am 14. Mai 2017 rief er in einer Tribune, die in der Tageszeitung Liberation veröffentlicht wurde, als einer von 15 Kunstlern die Regierung an."
       },
       {
         "id": 16,
-        "question": "Welche große französische Schauspielerin ist bei den Filmfestspielen von Cannes als Brünette aufgetreten ?",
+        "question": "Welche große französische Schauspielerin ist bei den Filmfestspielen von Cannes als Brunette aufgetreten ?",
         "propositions": [
           "Catherine Frot",
           "Catherine Deneuve",
@@ -967,7 +967,7 @@
           "Catherine Lara"
         ],
         "reponse": "Catherine Deneuve",
-        "anecdote": "Wenn diese Haarfarbe mich wirklich unerkennbar gemacht hat, sollten Sie wissen, dass Braun seine natürliche Farbe ist."
+        "anecdote": "Wenn diese Haarfarbe mich wirklich unerkennbar gemacht hat, sollten Sie wissen, dass Braun seine naturliche Farbe ist."
       },
       {
         "id": 17,
@@ -979,11 +979,11 @@
           "Candide Renard"
         ],
         "reponse": "Ilona Smet",
-        "anecdote": "In der Geschichte ihres Instagram-Accounts teilte die junge Frau ein Bild von der Torte, die ihr Freund für sie 23 Jahre lang zubereitet hatte."
+        "anecdote": "In der Geschichte ihres Instagram-Accounts teilte die junge Frau ein Bild von der Torte, die ihr Freund fur sie 23 Jahre lang zubereitet hatte."
       },
       {
         "id": 18,
-        "question": "Wer sagte über den Tod seines Sohnes Ludovic: « Es war sein Weg » ?",
+        "question": "Wer sagte uber den Tod seines Sohnes Ludovic: \"Es war sein Weg\" ?",
         "propositions": [
           "Catherine Deneuve",
           "Sheila",
@@ -991,11 +991,11 @@
           "Sylvie Vartan"
         ],
         "reponse": "Sheila",
-        "anecdote": "Für die Sängerin ist die positive Seite dieses Unglücks, etwas mehr als einen Monat nach dem Verschwinden ihres Sohnes singen zu können."
+        "anecdote": "Fur die Sängerin ist die positive Seite dieses Unglucks, etwas mehr als einen Monat nach dem Verschwinden ihres Sohnes singen zu können."
       },
       {
         "id": 19,
-        "question": "Welche Sängerin hat sich bei der Ausstrahlung von « The Island » den Kopf rasiert ?",
+        "question": "Welche Sängerin hat sich bei der Ausstrahlung von \"The Island\" den Kopf rasiert ?",
         "propositions": [
           "Nadiya",
           "Shy m",
@@ -1003,7 +1003,7 @@
           "Laam"
         ],
         "reponse": "Laam",
-        "anecdote": "Am Dienstag, den 15. Mai 2018 um 21 Uhr, strahlte M6 die Promi-Version von Mike Horns Abenteuershow « The Island » aus."
+        "anecdote": "Am Dienstag, den 15. Mai 2018 um 21 Uhr, strahlte M6 die Promi-Version von Mike Horns Abenteuershow \"The Island\" aus."
       },
       {
         "id": 20,
@@ -1029,15 +1029,15 @@
           "Ilona Smet"
         ],
         "reponse": "Lou Villafranca",
-        "anecdote": "Lou, 25 Jahre alt, schwieg seit dem Tod ihrer Mutter und sprach auf den Fluch der Sängerin, die in Brüssel war."
+        "anecdote": "Lou, 25 Jahre alt, schwieg seit dem Tod ihrer Mutter und sprach auf den Fluch der Sängerin, die in Brussel war."
       },
       {
         "id": 22,
-        "question": "Wer veröffentlichte mit 29 sein erstes Buch, « Secrets d Influenceur » ?",
+        "question": "Wer veröffentlichte mit 29 sein erstes Buch, \"Secrets d Influenceur\" ?",
         "propositions": [
           "Valentin Lucas",
           "Loic Le Meur",
-          "Étienne Chouard",
+          "Etienne Chouard",
           "Tristan Nitot"
         ],
         "reponse": "Valentin Lucas",
@@ -1053,7 +1053,7 @@
           "Brian Reed"
         ],
         "reponse": "Stan Lee",
-        "anecdote": "Im Alter von 95 Jahren stellt der Gründer des Marvel-Imperiums die Bedingungen für den Verkauf von POW! Unterhaltung in einer chinesischen Holding."
+        "anecdote": "Im Alter von 95 Jahren stellt der Grunder des Marvel-Imperiums die Bedingungen fur den Verkauf von POW! Unterhaltung in einer chinesischen Holding."
       },
       {
         "id": 24,
@@ -1065,7 +1065,7 @@
           "Koffer"
         ],
         "reponse": "Vibrator",
-        "anecdote": "Eine sehr lustige Szene, die Kim Kardashian zur Freude seiner Anhänger über die Geschichte seines Instagram-Accounts teilte."
+        "anecdote": "Eine sehr lustige Szene, die Kim Kardashian zur Freude seiner Anhänger uber die Geschichte seines Instagram-Accounts teilte."
       },
       {
         "id": 25,
@@ -1093,7 +1093,7 @@
       },
       {
         "id": 27,
-        "question": "Mit wem war Laury Thilleman, die frühere Miss France, im Mai 2018 ein Paar ?",
+        "question": "Mit wem war Laury Thilleman, die fruhere Miss France, im Mai 2018 ein Paar ?",
         "propositions": [
           "Juan Arbe­laez",
           "Santi Santamaria",
@@ -1101,11 +1101,11 @@
           "Robert de Nola"
         ],
         "reponse": "Juan Arbe­laez",
-        "anecdote": "« Laurys größte Qualität ist seine Einfachheit, seine pikante Seite und das Licht, das es dorthin bringt, wo es herkommt »."
+        "anecdote": "\"Laurys größte Qualität ist seine Einfachheit, seine pikante Seite und das Licht, das es dorthin bringt, wo es herkommt\"."
       },
       {
         "id": 28,
-        "question": "Wer ist mit Antoine Griezmann verheiratet, der im Endspiel der Europa League 2018 Torschütze war ?",
+        "question": "Wer ist mit Antoine Griezmann verheiratet, der im Endspiel der Europa League 2018 Torschutze war ?",
         "propositions": [
           "Lou Villafranca",
           "Lisa Guerrero",
@@ -1117,7 +1117,7 @@
       },
       {
         "id": 29,
-        "question": "Welcher französische Künstler wurde in Tokio mit Bondage bekannt gemacht ?",
+        "question": "Welcher französische Kunstler wurde in Tokio mit Bondage bekannt gemacht ?",
         "propositions": [
           "Nabilla Benattia",
           "Silvia Saint",
@@ -1125,11 +1125,11 @@
           "Virginie Caprice"
         ],
         "reponse": "Clara Morgane",
-        "anecdote": "Clara Morgane hat in der Tat von ihrem Aufenthalt in Tokio profitiert, um eine traditionelle japanische Kunst für weniger Extreme auszuprobieren."
+        "anecdote": "Clara Morgane hat in der Tat von ihrem Aufenthalt in Tokio profitiert, um eine traditionelle japanische Kunst fur weniger Extreme auszuprobieren."
       },
       {
         "id": 30,
-        "question": "Welche Adoptivtochter von Sylvie Vartan gab ihrer Mutter ein rührendes Statement ab ?",
+        "question": "Welche Adoptivtochter von Sylvie Vartan gab ihrer Mutter ein ruhrendes Statement ab ?",
         "propositions": [
           "Sophie Dee",
           "Darina Scotti",
@@ -1137,7 +1137,7 @@
           "Marina Hedman"
         ],
         "reponse": "Darina Scotti",
-        "anecdote": "Anstatt einen Instagram-Post zu schreiben, wie sie es kürzlich konnte, multiplizierte das Mädchen die Nachrichten in der Geschichte."
+        "anecdote": "Anstatt einen Instagram-Post zu schreiben, wie sie es kurzlich konnte, multiplizierte das Mädchen die Nachrichten in der Geschichte."
       }
     ]
     },
@@ -1157,7 +1157,7 @@
       },
       {
         "id": 2,
-        "question": "¿Quien levanta el velo en la confesión de su libro titulada « Como todo va » ?",
+        "question": "¿Quien levanta el velo en la confesión de su libro titulada \"Como todo va\" ?",
         "propositions": [
           "Anne-Sophie Lapix",
           "Florencia Schaal",
@@ -1169,7 +1169,7 @@
       },
       {
         "id": 3,
-        "question": "¿Que joven artista fue la primera chica en ganar « The Voice » France ?",
+        "question": "¿Que joven artista fue la primera chica en ganar \"The Voice\" France ?",
         "propositions": [
           "Amandine",
           "Yasmine",
@@ -1189,7 +1189,7 @@
           "Eliza Bennett"
         ],
         "reponse": "Kristen Stewart",
-        "anecdote": "Un gesto que recuerda a eso en 2016, la actriz soñada por « Twillight » había posado descalza en la Photocall Cafe Society."
+        "anecdote": "Un gesto que recuerda a eso en 2016, la actriz soñada por \"Twillight\" había posado descalza en la Photocall Cafe Society."
       },
       {
         "id": 5,
@@ -1229,7 +1229,7 @@
       },
       {
         "id": 8,
-        "question": "¿Que artista amado por French ha relanzado el juego TV « Burger Quizz » en TMC ?",
+        "question": "¿Que artista amado por French ha relanzado el juego TV \"Burger Quizz\" en TMC ?",
         "propositions": [
           "Franck Dubosc",
           "Didier Bourdon",
@@ -1291,7 +1291,7 @@
       },
       {
         "id": 13,
-        "question": "¿Que actor fue despedido de la serie « El arma fatal » despues de su comportamiento desagradable ?",
+        "question": "¿Que actor fue despedido de la serie \"El arma fatal\" despues de su comportamiento desagradable ?",
         "propositions": [
           "Clayne Crawford",
           "John Boyd",
@@ -1351,7 +1351,7 @@
       },
       {
         "id": 18,
-        "question": "¿Quien dijo acerca de la muerte de su hijo Ludovic: « Era su manera » ?",
+        "question": "¿Quien dijo acerca de la muerte de su hijo Ludovic: \"Era su manera\" ?",
         "propositions": [
           "Sylvie Vartan",
           "Nathalie Baye",
@@ -1363,7 +1363,7 @@
       },
       {
         "id": 19,
-        "question": "¿Que cantante se ha afeitado la cabeza para la transmisión de « The Island » ?",
+        "question": "¿Que cantante se ha afeitado la cabeza para la transmisión de \"The Island\" ?",
         "propositions": [
           "Laam",
           "Nadiya",
@@ -1371,7 +1371,7 @@
           "Alizee"
         ],
         "reponse": "Laam",
-        "anecdote": "El martes 15 de mayo de 2018 a las 9 p.m., M6 transmitió la versión de celebridades del programa de aventuras « The Island » de Mike Horn."
+        "anecdote": "El martes 15 de mayo de 2018 a las 9 p.m., M6 transmitió la versión de celebridades del programa de aventuras \"The Island\" de Mike Horn."
       },
       {
         "id": 20,
@@ -1401,7 +1401,7 @@
       },
       {
         "id": 22,
-        "question": "A los 29 años, ¿quien lanzó su primer libro titulado « Secrets d Influenceur » ?",
+        "question": "A los 29 años, ¿quien lanzó su primer libro titulado \"Secrets d Influenceur\" ?",
         "propositions": [
           "Tristan Nitot",
           "Loic Le Meur",
@@ -1469,7 +1469,7 @@
           "Juan Arbe­laez"
         ],
         "reponse": "Juan Arbe­laez",
-        "anecdote": "« La mayor calidad de Laury es su simplicidad, su lado picante y la luz que trae a donde viene »."
+        "anecdote": "\"La mayor calidad de Laury es su simplicidad, su lado picante y la luz que trae a donde viene\"."
       },
       {
         "id": 28,
@@ -1525,7 +1525,7 @@
       },
       {
         "id": 2,
-        "question": "Chi solleva il velo nella sua confessione di libro intitolata « Dato che tutto va » ?",
+        "question": "Chi solleva il velo nella sua confessione di libro intitolata \"Dato che tutto va\" ?",
         "propositions": [
           "Laurence Ferrari",
           "Claire Chazal",
@@ -1537,7 +1537,7 @@
       },
       {
         "id": 3,
-        "question": "Quale giovane artista e stata la prima ragazza a vincere la Francia « The Voice » ?",
+        "question": "Quale giovane artista e stata la prima ragazza a vincere la Francia \"The Voice\" ?",
         "propositions": [
           "Lucyl",
           "Yasmine",
@@ -1557,7 +1557,7 @@
           "Eliza Bennett"
         ],
         "reponse": "Kristen Stewart",
-        "anecdote": "Un gesto che ricorda quello del 2016, l attrice sognata da « Twillight » aveva posato a piedi nudi alla Photocall Cafe Society."
+        "anecdote": "Un gesto che ricorda quello del 2016, l attrice sognata da \"Twillight\" aveva posato a piedi nudi alla Photocall Cafe Society."
       },
       {
         "id": 5,
@@ -1597,7 +1597,7 @@
       },
       {
         "id": 8,
-        "question": "Quale artista amato dai francesi ha rilanciato il gioco TV « Burger Quizz » su TMC ?",
+        "question": "Quale artista amato dai francesi ha rilanciato il gioco TV \"Burger Quizz\" su TMC ?",
         "propositions": [
           "Albert Dupontel",
           "Didier Bourdon",
@@ -1659,7 +1659,7 @@
       },
       {
         "id": 13,
-        "question": "Quale attore e stato licenziato dalla serie « L arma fatale » a seguito del suo comportamento odioso ?",
+        "question": "Quale attore e stato licenziato dalla serie \"L arma fatale\" a seguito del suo comportamento odioso ?",
         "propositions": [
           "Kiefer Sutherland",
           "John Boyd",
@@ -1719,7 +1719,7 @@
       },
       {
         "id": 18,
-        "question": "Chi ha detto della morte di suo figlio Ludovic: « Era la sua strada » ?",
+        "question": "Chi ha detto della morte di suo figlio Ludovic: \"Era la sua strada\" ?",
         "propositions": [
           "Nathalie Baye",
           "Sylvie Vartan",
@@ -1731,7 +1731,7 @@
       },
       {
         "id": 19,
-        "question": "Quale cantante si e rasata la testa per la trasmissione di « The Island » ?",
+        "question": "Quale cantante si e rasata la testa per la trasmissione di \"The Island\" ?",
         "propositions": [
           "Laam",
           "Alizee",
@@ -1739,7 +1739,7 @@
           "Shy m"
         ],
         "reponse": "Laam",
-        "anecdote": "Martedì 15 maggio 2018 alle 21:00, M6 ha mandato in onda la versione celebrita dello spettacolo d avventura « The Island » di Mike Horn."
+        "anecdote": "Martedì 15 maggio 2018 alle 21:00, M6 ha mandato in onda la versione celebrita dello spettacolo d avventura \"The Island\" di Mike Horn."
       },
       {
         "id": 20,
@@ -1769,11 +1769,11 @@
       },
       {
         "id": 22,
-        "question": "A 29 anni, chi ha pubblicato il suo primo libro, « Secrets d Influenceur » ?",
+        "question": "A 29 anni, chi ha pubblicato il suo primo libro, \"Secrets d Influenceur\" ?",
         "propositions": [
           "Loic Le Meur",
           "Tristan Nitot",
-          "Étienne Chouard",
+          "Etienne Chouard",
           "Valentin Lucas"
         ],
         "reponse": "Valentin Lucas",
@@ -1837,7 +1837,7 @@
           "Robert de Nola"
         ],
         "reponse": "Juan Arbe­laez",
-        "anecdote": "« La piu grande qualita di Laury e la sua semplicita, il suo lato piccante e la luce che porta dove viene »."
+        "anecdote": "\"La piu grande qualita di Laury e la sua semplicita, il suo lato piccante e la luce che porta dove viene\"."
       },
       {
         "id": 28,
@@ -1893,7 +1893,7 @@
       },
       {
         "id": 2,
-        "question": "Wie doet de sluier op in zijn boekbekentenis getiteld « Omdat alles gaat » ?",
+        "question": "Wie doet de sluier op in zijn boekbekentenis getiteld \"Omdat alles gaat\" ?",
         "propositions": [
           "Florence Schaal",
           "Laurence Ferrari",
@@ -1905,7 +1905,7 @@
       },
       {
         "id": 3,
-        "question": "Welke jonge artiest was het eerste meisje dat « The Voice » Frankrijk won ?",
+        "question": "Welke jonge artiest was het eerste meisje dat \"The Voice\" Frankrijk won ?",
         "propositions": [
           "Amandine",
           "Lucyl",
@@ -1925,7 +1925,7 @@
           "Eliza Bennett"
         ],
         "reponse": "Kristen Stewart",
-        "anecdote": "Een gebaar dat doet denken aan dat in 2016, de actrice droomde van « Twillight » had op blote voeten geposeerd bij de Photocall Cafe Society."
+        "anecdote": "Een gebaar dat doet denken aan dat in 2016, de actrice droomde van \"Twillight\" had op blote voeten geposeerd bij de Photocall Cafe Society."
       },
       {
         "id": 5,
@@ -1965,7 +1965,7 @@
       },
       {
         "id": 8,
-        "question": "Welke Franse artiest heeft de game TV « Burger Quizz » opnieuw gelanceerd op TMC ?",
+        "question": "Welke Franse artiest heeft de game TV \"Burger Quizz\" opnieuw gelanceerd op TMC ?",
         "propositions": [
           "Didier Bourdon",
           "Alain Chabat",
@@ -2027,7 +2027,7 @@
       },
       {
         "id": 13,
-        "question": "Welke acteur werd ontslagen uit de serie « Het fatale wapen » na zijn irritante gedrag ?",
+        "question": "Welke acteur werd ontslagen uit de serie \"Het fatale wapen\" na zijn irritante gedrag ?",
         "propositions": [
           "Kiefer Sutherland",
           "Clayne Crawford",
@@ -2087,7 +2087,7 @@
       },
       {
         "id": 18,
-        "question": "Wie zei over de dood van zijn zoon Ludovic: « Het was zijn manier » ?",
+        "question": "Wie zei over de dood van zijn zoon Ludovic: \"Het was zijn manier\" ?",
         "propositions": [
           "Nathalie Baye",
           "Catherine Deneuve",
@@ -2099,7 +2099,7 @@
       },
       {
         "id": 19,
-        "question": "Welke zangeres heeft haar hoofd geschoren voor de uitzending van « The Island » ?",
+        "question": "Welke zangeres heeft haar hoofd geschoren voor de uitzending van \"The Island\" ?",
         "propositions": [
           "Alizee",
           "Shy m",
@@ -2107,7 +2107,7 @@
           "Nadiya"
         ],
         "reponse": "Laam",
-        "anecdote": "Op dinsdag 15 mei 2018 om 9 uur s avonds heeft M6 de celebrity-versie van Mike Horn s « The Island » adventure show uitgezonden."
+        "anecdote": "Op dinsdag 15 mei 2018 om 9 uur s avonds heeft M6 de celebrity-versie van Mike Horn s \"The Island\" adventure show uitgezonden."
       },
       {
         "id": 20,
@@ -2137,10 +2137,10 @@
       },
       {
         "id": 22,
-        "question": "Op 29-jarige leeftijd, wie bracht zijn eerste boek « Secrets d Influenceur » uit ?",
+        "question": "Op 29-jarige leeftijd, wie bracht zijn eerste boek \"Secrets d Influenceur\" uit ?",
         "propositions": [
           "Tristan Nitot",
-          "Étienne Chouard",
+          "Etienne Chouard",
           "Valentin Lucas",
           "Loic Le Meur"
         ],
@@ -2205,7 +2205,7 @@
           "Juan Arbe­laez"
         ],
         "reponse": "Juan Arbe­laez",
-        "anecdote": "« Laury s grootste kwaliteit is de eenvoud, de pikante kant en het licht dat het brengt waar het vandaan komt »."
+        "anecdote": "\"Laury s grootste kwaliteit is de eenvoud, de pikante kant en het licht dat het brengt waar het vandaan komt\"."
       },
       {
         "id": 28,

@@ -8,7 +8,7 @@
     "fr": {
       "categorie": "Arts",
       "nom": "Sculpture",
-      "slogan": "Voie royale pour connaître le monde"
+      "slogan": "Voie royale pour connaitre le monde"
     },
     "en": {
       "categorie": "Arts",
@@ -49,11 +49,11 @@
           "Donatello"
         ],
         "reponse": "Michel-Ange",
-        "anecdote": "Les tombeaux des Medicis sont deux monuments de la « Nouvelle Sacristie » elaboree a l interieur des Chapelles des Medicis."
+        "anecdote": "Les tombeaux des Medicis sont deux monuments de la \"Nouvelle Sacristie\" elaboree a l interieur des Chapelles des Medicis."
       },
       {
         "id": 2,
-        "question": "Ou peut-on voir la « Victoire de Samothrace », sculpture grecque de l epoque hellenistique ?",
+        "question": "Ou peut-on voir la \"Victoire de Samothrace\", sculpture grecque de l epoque hellenistique ?",
         "propositions": [
           "Metro Museum",
           "Centre Pompidou",
@@ -61,11 +61,11 @@
           "Musee du Louvre"
         ],
         "reponse": "Musee du Louvre",
-        "anecdote": "La « Victoire de Samothrace » est une sculpture grecque representant la deesse Nike, personnification de la victoire."
+        "anecdote": "La \"Victoire de Samothrace\" est une sculpture grecque representant la deesse Nike, personnification de la victoire."
       },
       {
         "id": 3,
-        "question": "Dans quelle ville de la côte belge trouve-t-on une celebre statue de Leopold Ier ?",
+        "question": "Dans quelle ville de la cote belge trouve-t-on une celebre statue de Leopold Ier ?",
         "propositions": [
           "Coxyde",
           "Nieuwport",
@@ -73,11 +73,11 @@
           "La Panne"
         ],
         "reponse": "La Panne",
-        "anecdote": "C est la que le premier roi des belges mit le pied sur « ses » terres en juillet 1831."
+        "anecdote": "C est la que le premier roi des belges mit le pied sur \"ses\" terres en juillet 1831."
       },
       {
         "id": 4,
-        "question": "Que represente la sculpture de Marcel Duchamp « Fontaine », signee R. Mutt ?",
+        "question": "Que represente la sculpture de Marcel Duchamp \"Fontaine\", signee R. Mutt ?",
         "propositions": [
           "Urinoir",
           "Fontaine",
@@ -85,11 +85,11 @@
           "Vase"
         ],
         "reponse": "Urinoir",
-        "anecdote": "Oeuvre controversee de l art du XXe siecle, « Fontaine » est un ready made, c est-a-dire un « objet tout fait »."
+        "anecdote": "Oeuvre controversee de l art du XXe siecle, \"Fontaine\" est un ready made, c est-a-dire un \"objet tout fait\"."
       },
       {
         "id": 5,
-        "question": "Quelle statue monumentale de Michel-Ange trône a Florence ?",
+        "question": "Quelle statue monumentale de Michel-Ange trone a Florence ?",
         "propositions": [
           "Apollon",
           "Goliath",
@@ -121,11 +121,11 @@
           "Musee Magnin"
         ],
         "reponse": "Musee du Louvre",
-        "anecdote": "Le buste de la statue a ete mis au jour le 8 avril 1820 a Milo, une île de la mer Égee."
+        "anecdote": "Le buste de la statue a ete mis au jour le 8 avril 1820 a Milo, une ile de la mer Egee."
       },
       {
         "id": 8,
-        "question": "Dans quel musee francais peut-on admirer la « Victoire de Samothrace » ?",
+        "question": "Dans quel musee francais peut-on admirer la \"Victoire de Samothrace\" ?",
         "propositions": [
           "Musee du Louvre",
           "Musee d Orsay",
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "À quel sculpteur doit-on un desormais celebre baiser, expose dans un musee parisien ?",
+        "question": "A quel sculpteur doit-on un desormais celebre baiser, expose dans un musee parisien ?",
         "propositions": [
           "Choppin",
           "Rodin",
@@ -145,7 +145,7 @@
           "Moreau"
         ],
         "reponse": "Rodin",
-        "anecdote": "« Le Baiser » de Rodin est une sculpture en marbre representant un couple enlace realisee a l echelle 1."
+        "anecdote": "\"Le Baiser\" de Rodin est une sculpture en marbre representant un couple enlace realisee a l echelle 1."
       },
       {
         "id": 10,
@@ -171,7 +171,7 @@
           "Animaliere"
         ],
         "reponse": "Animaliere",
-        "anecdote": "À partir des annees 1860, Auguste Cain commencera a recevoir des commandes officielles."
+        "anecdote": "A partir des annees 1860, Auguste Cain commencera a recevoir des commandes officielles."
       },
       {
         "id": 12,
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "De combien de personnages est composee la sculpture de Rodin « Les Bourgeois de Calais » ?",
+        "question": "De combien de personnages est composee la sculpture de Rodin \"Les Bourgeois de Calais\" ?",
         "propositions": [
           "Dix",
           "Six",
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "À quel sculpteur doit-on la statue equestre de Vercingetorix situee a Clermont-Ferrand ?",
+        "question": "A quel sculpteur doit-on la statue equestre de Vercingetorix situee a Clermont-Ferrand ?",
         "propositions": [
           "Antoine Bourdelle",
           "Auguste Bartholdi",
@@ -223,7 +223,7 @@
       },
       {
         "id": 16,
-        "question": "Quel artiste suisse du XXe siecle connaît-on surtout pour ses sculptures longilignes ?",
+        "question": "Quel artiste suisse du XXe siecle connait-on surtout pour ses sculptures longilignes ?",
         "propositions": [
           "Robert Hainard",
           "Heinz Schwartz",
@@ -231,11 +231,11 @@
           "Alberto Giacometti"
         ],
         "reponse": "Alberto Giacometti",
-        "anecdote": "À la fin de sa vie, Giacometti sera comble d honneurs en remportant de nombreux prix."
+        "anecdote": "A la fin de sa vie, Giacometti sera comble d honneurs en remportant de nombreux prix."
       },
       {
         "id": 17,
-        "question": "Quelle est la hauteur, sans le socle, du « David » de Michel-Ange ?",
+        "question": "Quelle est la hauteur, sans le socle, du \"David\" de Michel-Ange ?",
         "propositions": [
           "4.34 metres",
           "6.84 metres",
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "À quel sculpteur doit-on le Lion de Belfort, sculpture monumentale en ronde-bosse ?",
+        "question": "A quel sculpteur doit-on le Lion de Belfort, sculpture monumentale en ronde-bosse ?",
         "propositions": [
           "Antoine Bourdelle",
           "Honore Daumier",
@@ -279,7 +279,7 @@
           "Phidias"
         ],
         "reponse": "Myron",
-        "anecdote": "Pline l Ancien dira de Myron qu il est « plus fecond » que son rival Polyclete."
+        "anecdote": "Pline l Ancien dira de Myron qu il est \"plus fecond\" que son rival Polyclete."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Suisse"
         ],
         "reponse": "Suisse",
-        "anecdote": "À la fin de sa vie, Giacometti a denie a ses objets la moindre valeur, pourtant vendus aujourd hui a plusieurs millions d euros."
+        "anecdote": "A la fin de sa vie, Giacometti a denie a ses objets la moindre valeur, pourtant vendus aujourd hui a plusieurs millions d euros."
       },
       {
         "id": 22,
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Quelle technique de sculpture est observable de tous les côtes ?",
+        "question": "Quelle technique de sculpture est observable de tous les cotes ?",
         "propositions": [
           "La grande entaille",
           "Le relief pictural",
@@ -333,7 +333,7 @@
       },
       {
         "id": 25,
-        "question": "Quel artiste a decore une fontaine a côte du centre Beaubourg, a Paris ?",
+        "question": "Quel artiste a decore une fontaine a cote du centre Beaubourg, a Paris ?",
         "propositions": [
           "Jean Tinguely",
           "David Smith",
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Qui a realise « Le Passe-muraille », statue installee devant la maison ou habitait Marcel Ayme ?",
+        "question": "Qui a realise \"Le Passe-muraille\", statue installee devant la maison ou habitait Marcel Ayme ?",
         "propositions": [
           "Antoine Blondin",
           "Jacques Prevert",
@@ -377,7 +377,7 @@
           "Pierre Curillon"
         ],
         "reponse": "Henry Cros",
-        "anecdote": "Henry Cros a suivi l enseignement des sculpteurs Francois Jouffroy et Antoine Étex et du peintre Jules Valadon."
+        "anecdote": "Henry Cros a suivi l enseignement des sculpteurs Francois Jouffroy et Antoine Etex et du peintre Jules Valadon."
       },
       {
         "id": 29,
@@ -401,7 +401,7 @@
           "Antoine Coysevox"
         ],
         "reponse": "Antoine Coysevox",
-        "anecdote": "Antoine Coysevox fut le decorateur du celebre navire de guerre « le Soleil royal »."
+        "anecdote": "Antoine Coysevox fut le decorateur du celebre navire de guerre \"le Soleil royal\"."
       }
     ]
     }

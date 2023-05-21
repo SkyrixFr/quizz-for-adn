@@ -28,7 +28,7 @@
     "de": {
       "categorie": "Alltagsleben",
       "nom": "Coca-Cola-Unternehmen",
-      "slogan": "Spezialist für alkoholfreie Getränke"
+      "slogan": "Spezialist fur alkoholfreie Getränke"
     },
     "nl": {
       "categorie": "Alledaagse leven",
@@ -49,7 +49,7 @@
           "Nalu"
         ],
         "reponse": "Sprite",
-        "anecdote": "Le Sprite contient : eau gazeifiee, sucre et acidifiants (acide citrique, citrate de sodium et arômes naturels de citron-citron vert)."
+        "anecdote": "Le Sprite contient : eau gazeifiee, sucre et acidifiants (acide citrique, citrate de sodium et aromes naturels de citron-citron vert)."
       },
       {
         "id": 2,
@@ -109,7 +109,7 @@
           "Coca-Cola Zero"
         ],
         "reponse": "Coca-Cola Light",
-        "anecdote": "Introduite en France en 1988, la marque Diet Coke fut lancee aux États-Unis le Jour de l Independance, en 1982."
+        "anecdote": "Introduite en France en 1988, la marque Diet Coke fut lancee aux Etats-Unis le Jour de l Independance, en 1982."
       },
       {
         "id": 7,
@@ -219,7 +219,7 @@
           "Warner Bros."
         ],
         "reponse": "Columbia Pictures",
-        "anecdote": "Le logo de la compagnie represente une personnification des États-Unis, Columbia, portant une torche (comme la Statue de la Liberte)."
+        "anecdote": "Le logo de la compagnie represente une personnification des Etats-Unis, Columbia, portant une torche (comme la Statue de la Liberte)."
       },
       {
         "id": 16,
@@ -293,7 +293,7 @@
           "Serdar Bilgili"
         ],
         "reponse": "Muhtar Kent",
-        "anecdote": "En 1979, Muhtar Kent a commence sa carriere comme distributeur de produits de la compagnie Coca-Cola a travers les États-Unis."
+        "anecdote": "En 1979, Muhtar Kent a commence sa carriere comme distributeur de produits de la compagnie Coca-Cola a travers les Etats-Unis."
       },
       {
         "id": 22,
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Quel produit a pour slogan : « Le Cola embrasse l orange » ?",
+        "question": "Quel produit a pour slogan : \"Le Cola embrasse l orange\" ?",
         "propositions": [
           "Mezzo Mix",
           "BlaK",
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "La formule de quel Coca-Cola utilise du sucre de canne plutôt que du sucre standard ?",
+        "question": "La formule de quel Coca-Cola utilise du sucre de canne plutot que du sucre standard ?",
         "propositions": [
           "German Coke",
           "Canadian Coke",
@@ -725,7 +725,7 @@
       },
       {
         "id": 27,
-        "question": "What product has for slogan : « Cola kisses the orange » ?",
+        "question": "What product has for slogan : \"Cola kisses the orange\" ?",
         "propositions": [
           "BlaK",
           "Enviga",
@@ -785,7 +785,7 @@
           "Bonaqua"
         ],
         "reponse": "Sprite",
-        "anecdote": "Sprite enthält: gasförmiges Wasser, Zucker und Säuerungsmittel (Zitronensäure, Natriumcitrat und natürliche Zitronen-Limetten-Aromen)."
+        "anecdote": "Sprite enthält: gasförmiges Wasser, Zucker und Säuerungsmittel (Zitronensäure, Natriumcitrat und naturliche Zitronen-Limetten-Aromen)."
       },
       {
         "id": 2,
@@ -821,7 +821,7 @@
           "Jungfrau"
         ],
         "reponse": "Nestea",
-        "anecdote": "Nestea wurde 1977 gegründet und ist derzeit in drei Geschmacksrichtungen erhältlich : Nestea Peche Blanche, Nestea Tropical und Nestea Citron."
+        "anecdote": "Nestea wurde 1977 gegrundet und ist derzeit in drei Geschmacksrichtungen erhältlich : Nestea Peche Blanche, Nestea Tropical und Nestea Citron."
       },
       {
         "id": 5,
@@ -845,7 +845,7 @@
           "Coca-Cola Zero"
         ],
         "reponse": "Coca-Cola Light",
-        "anecdote": "Die 1988 in Frankreich eingeführte Marke Diet Coke wurde 1982 in den USA am Independence Day eingeführt."
+        "anecdote": "Die 1988 in Frankreich eingefuhrte Marke Diet Coke wurde 1982 in den USA am Independence Day eingefuhrt."
       },
       {
         "id": 7,
@@ -919,7 +919,7 @@
           "Koks Leben"
         ],
         "reponse": "Fanta",
-        "anecdote": "Der Zweite Weltkrieg hatte es schwierig gemacht, die für die Herstellung von Coca Cola benötigten Produkte zu importieren."
+        "anecdote": "Der Zweite Weltkrieg hatte es schwierig gemacht, die fur die Herstellung von Coca Cola benötigten Produkte zu importieren."
       },
       {
         "id": 13,
@@ -1041,7 +1041,7 @@
           "Milton Glaser"
         ],
         "reponse": "Raymond Loewy",
-        "anecdote": "Raymond Loewy, geboren 1893 in Paris, ist ein Industrie- und Grafikdesigner aus Frankreich, der nach seiner Einbürgerung französisch-amerikanisch wurde."
+        "anecdote": "Raymond Loewy, geboren 1893 in Paris, ist ein Industrie- und Grafikdesigner aus Frankreich, der nach seiner Einburgerung französisch-amerikanisch wurde."
       },
       {
         "id": 23,
@@ -1053,11 +1053,11 @@
           "10"
         ],
         "reponse": "70",
-        "anecdote": "Fanta Shokata ist ein Aroma aus La Socata, einem traditionellen rumänischen Getränk aus Hirschblüten."
+        "anecdote": "Fanta Shokata ist ein Aroma aus La Socata, einem traditionellen rumänischen Getränk aus Hirschbluten."
       },
       {
         "id": 24,
-        "question": "Wer hat John Stith Pemberton den Namen Coca-Cola für sein zukünftiges Getränk vorgeschlagen ?",
+        "question": "Wer hat John Stith Pemberton den Namen Coca-Cola fur sein zukunftiges Getränk vorgeschlagen ?",
         "propositions": [
           "James Quincey",
           "Barry Diller",
@@ -1065,7 +1065,7 @@
           "Frank Robinson"
         ],
         "reponse": "Frank Robinson",
-        "anecdote": "Pembertons Buchhalter bot ihm den Namen Coca-Cola und das Design des Logos Haddon Sundblom-Illustra für sein Weihnachtsfest an."
+        "anecdote": "Pembertons Buchhalter bot ihm den Namen Coca-Cola und das Design des Logos Haddon Sundblom-Illustra fur sein Weihnachtsfest an."
       },
       {
         "id": 25,
@@ -1089,11 +1089,11 @@
           "Schweiz"
         ],
         "reponse": "Indien",
-        "anecdote": "Einige von Coca-Cola hergestellte Wasserflaschen enthielten Pestizidrückstände, die dreißigmal höher waren als der Standard."
+        "anecdote": "Einige von Coca-Cola hergestellte Wasserflaschen enthielten Pestizidruckstände, die dreißigmal höher waren als der Standard."
       },
       {
         "id": 27,
-        "question": "Welches Produkt steht für den Slogan : « Cola küsst die Orange » ?",
+        "question": "Welches Produkt steht fur den Slogan : \"Cola kusst die Orange\" ?",
         "propositions": [
           "Mezzo Mix",
           "Enviga",
@@ -1117,7 +1117,7 @@
       },
       {
         "id": 29,
-        "question": "Welches Getränk enthält Catechine aus grünem Tee ?",
+        "question": "Welches Getränk enthält Catechine aus grunem Tee ?",
         "propositions": [
           "Cheerios",
           "Enviga",
@@ -1137,7 +1137,7 @@
           "Mexikanische Cola"
         ],
         "reponse": "Mexikanische Cola",
-        "anecdote": "Diese Änderung, die so nach ihrem Herstellungsort benannt ist, würde dem Getränk einen natürlichen Geschmack verleihen."
+        "anecdote": "Diese Änderung, die so nach ihrem Herstellungsort benannt ist, wurde dem Getränk einen naturlichen Geschmack verleihen."
       }
     ]
     },
@@ -1461,7 +1461,7 @@
       },
       {
         "id": 27,
-        "question": "¿Que producto tiene para el eslogan : « Cola besa a la naranja » ?",
+        "question": "¿Que producto tiene para el eslogan : \"Cola besa a la naranja\" ?",
         "propositions": [
           "BlaK",
           "Mezzo Mix",
@@ -1829,7 +1829,7 @@
       },
       {
         "id": 27,
-        "question": "Quale prodotto ha per lo slogan : « Cola bacia l arancia » ?",
+        "question": "Quale prodotto ha per lo slogan : \"Cola bacia l arancia\" ?",
         "propositions": [
           "Enviga",
           "Mezzo Mix",
@@ -2197,7 +2197,7 @@
       },
       {
         "id": 27,
-        "question": "Welk product heeft de slogan : « Cola kust de sinaasappel » ?",
+        "question": "Welk product heeft de slogan : \"Cola kust de sinaasappel\" ?",
         "propositions": [
           "Enviga",
           "Mezzo Mix",

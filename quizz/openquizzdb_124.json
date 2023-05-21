@@ -49,7 +49,7 @@
           "Tintin au Congo"
         ],
         "reponse": "Tintin au Tibet",
-        "anecdote": "Le film « La Neige en deuil », d Edward Dmytryk, comporte des sequences qui ont probablement dû marquer la memoire d Herge."
+        "anecdote": "Le film \"La Neige en deuil\", d Edward Dmytryk, comporte des sequences qui ont probablement dû marquer la memoire d Herge."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Tonnerre du diable"
         ],
         "reponse": "Mille sabords",
-        "anecdote": "Le capitaine Haddock est un impulsif qui se laisse souvent entraîner par son enthousiasme ou son decouragement."
+        "anecdote": "Le capitaine Haddock est un impulsif qui se laisse souvent entrainer par son enthousiasme ou son decouragement."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Tintin"
         ],
         "reponse": "Haddock",
-        "anecdote": "Tres rarement mise en valeur, la Castafiore est le seul personnage feminin de premier plan de la serie « Tintin »."
+        "anecdote": "Tres rarement mise en valeur, la Castafiore est le seul personnage feminin de premier plan de la serie \"Tintin\"."
       },
       {
         "id": 4,
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Quel personnage est en levitation sur la couverture des « Sept Boules de cristal » ?",
+        "question": "Quel personnage est en levitation sur la couverture des \"Sept Boules de cristal\" ?",
         "propositions": [
           "Haddock",
           "Tournesol",
@@ -101,7 +101,7 @@
       },
       {
         "id": 6,
-        "question": "Dans quelle ville Tintin se fait-il enlever dans « Tintin en Amerique » ?",
+        "question": "Dans quelle ville Tintin se fait-il enlever dans \"Tintin en Amerique\" ?",
         "propositions": [
           "New York",
           "Chicago",
@@ -109,7 +109,7 @@
           "Texas"
         ],
         "reponse": "Chicago",
-        "anecdote": "À l epoque de la Prohibition, Tintin se retrouve emmene a Chicago juste apres son voyage au Congo."
+        "anecdote": "A l epoque de la Prohibition, Tintin se retrouve emmene a Chicago juste apres son voyage au Congo."
       },
       {
         "id": 7,
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Quelle est la suite de l album « Les Sept Boules de cristal » ?",
+        "question": "Quelle est la suite de l album \"Les Sept Boules de cristal\" ?",
         "propositions": [
           "Tintin au Tibet",
           "Le Lotus bleu",
@@ -163,15 +163,15 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quel phenomene spectaculaire sauve Tintin et ses amis dans « Le temple du soleil » ?",
+        "question": "Quel phenomene spectaculaire sauve Tintin et ses amis dans \"Le temple du soleil\" ?",
         "propositions": [
           "Avalanche",
-          "Éclipse de soleil",
+          "Eclipse de soleil",
           "Seisme",
           "Ouragan"
         ],
-        "reponse": "Éclipse de soleil",
-        "anecdote": "L intrigue de l album est inspiree du roman sous forme de feuilleton de Gaston Leroux, « L Épouse du soleil »."
+        "reponse": "Eclipse de soleil",
+        "anecdote": "L intrigue de l album est inspiree du roman sous forme de feuilleton de Gaston Leroux, \"L Epouse du soleil\"."
       },
       {
         "id": 12,
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quel metier Roberto Rastapopoulos exerce-t-il dans « Les Cigares du pharaon » ?",
+        "question": "Quel metier Roberto Rastapopoulos exerce-t-il dans \"Les Cigares du pharaon\" ?",
         "propositions": [
           "Scientifique",
           "Banquier",
@@ -195,11 +195,11 @@
           "Producteur"
         ],
         "reponse": "Producteur",
-        "anecdote": "« Les Cigares du pharaon » est le premier album de Tintin directement imprime par les Éditions Casterman."
+        "anecdote": "\"Les Cigares du pharaon\" est le premier album de Tintin directement imprime par les Editions Casterman."
       },
       {
         "id": 14,
-        "question": "Dans Tintin, le chateau de Moulinsart apparaît pour la premiere fois dans « Le »...",
+        "question": "Dans Tintin, le chateau de Moulinsart apparait pour la premiere fois dans \"Le\"...",
         "propositions": [
           "Sceptre d Ottokar",
           "Temple du Soleil",
@@ -235,7 +235,7 @@
       },
       {
         "id": 17,
-        "question": "Que designe le mot « coke » dans la bande dessinee « Coke en stock » ?",
+        "question": "Que designe le mot \"coke\" dans la bande dessinee \"Coke en stock\" ?",
         "propositions": [
           "Des boissons",
           "Du charbon",
@@ -243,7 +243,7 @@
           "Des esclaves"
         ],
         "reponse": "Des esclaves",
-        "anecdote": "Le premier titre envisage par Herge pour cet album etait d abord « Les requins de la mer rouge »."
+        "anecdote": "Le premier titre envisage par Herge pour cet album etait d abord \"Les requins de la mer rouge\"."
       },
       {
         "id": 18,
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "À quoi est attache Tintin sur la couverture de « Tintin en Amerique » ?",
+        "question": "A quoi est attache Tintin sur la couverture de \"Tintin en Amerique\" ?",
         "propositions": [
           "Un totem indien",
           "Un taureau",
@@ -279,7 +279,7 @@
           "Un chariot"
         ],
         "reponse": "Un totem indien",
-        "anecdote": "La trame de l histoire se deroule aux États-Unis, pendant la Prohibition, ou Tintin lutte contre les gangsters de la ville."
+        "anecdote": "La trame de l histoire se deroule aux Etats-Unis, pendant la Prohibition, ou Tintin lutte contre les gangsters de la ville."
       }
     ],
     "expert": [
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Comment se nomme le moine qui a des visions dans « Tintin au Tibet » ?",
+        "question": "Comment se nomme le moine qui a des visions dans \"Tintin au Tibet\" ?",
         "propositions": [
           "Foudre Benie",
           "Grand Precieux",
@@ -317,7 +317,7 @@
           "Assureur"
         ],
         "reponse": "Assureur",
-        "anecdote": "Lampion semble a l aise dans tous les milieux, ne voyant pas qu il exaspere son « public » et se croyant bienvenu partout."
+        "anecdote": "Lampion semble a l aise dans tous les milieux, ne voyant pas qu il exaspere son \"public\" et se croyant bienvenu partout."
       },
       {
         "id": 24,
@@ -329,11 +329,11 @@
           "Mauricien"
         ],
         "reponse": "Archibald",
-        "anecdote": "Le prenom du capitaine Haddock est mentionne pour la premiere fois dans l album « Tintin et les Picaros »."
+        "anecdote": "Le prenom du capitaine Haddock est mentionne pour la premiere fois dans l album \"Tintin et les Picaros\"."
       },
       {
         "id": 25,
-        "question": "Dans « Les Bijoux de la Castafiore », quel journal annonce les noces de la diva ?",
+        "question": "Dans \"Les Bijoux de la Castafiore\", quel journal annonce les noces de la diva ?",
         "propositions": [
           "Paris-Flash",
           "Stars de France",
@@ -341,7 +341,7 @@
           "Ici Pour Vous"
         ],
         "reponse": "Paris-Flash",
-        "anecdote": "Trois ans apres le succes de « Tintin au Tibet », Herge semble ici etre a l apogee de son oeuvre sur le plan narratif."
+        "anecdote": "Trois ans apres le succes de \"Tintin au Tibet\", Herge semble ici etre a l apogee de son oeuvre sur le plan narratif."
       },
       {
         "id": 26,
@@ -359,7 +359,7 @@
         "id": 27,
         "question": "Avant de devenir le domestique du Capitaine Haddock, pour qui travaillait Nestor ?",
         "propositions": [
-          "Müller",
+          "Muller",
           "Les freres Loiseau",
           "Rastapopoulos",
           "La Castafiore"
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Quel acteur joua le rôle de Tintin au cinema dans les annees 1960 ?",
+        "question": "Quel acteur joua le role de Tintin au cinema dans les annees 1960 ?",
         "propositions": [
           "Jean-Pierre Talbot",
           "Andre Marie",

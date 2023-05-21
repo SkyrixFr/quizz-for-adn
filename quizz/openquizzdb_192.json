@@ -45,11 +45,11 @@
         "propositions": [
           "Nouvelle Star",
           "Pekin Express",
-          "À l etat sauvage",
+          "A l etat sauvage",
           "X Factor"
         ],
-        "reponse": "À l etat sauvage",
-        "anecdote": "Il s agit de l adaptation francaise de l emission americaine « Running Wild with Bear Grylls », diffusee sur NBC depuis 2014."
+        "reponse": "A l etat sauvage",
+        "anecdote": "Il s agit de l adaptation francaise de l emission americaine \"Running Wild with Bear Grylls\", diffusee sur NBC depuis 2014."
       },
       {
         "id": 2,
@@ -85,7 +85,7 @@
           "Arktos"
         ],
         "reponse": "Arktos",
-        "anecdote": "Lors d une expedition preliminaire pour atteindre le pôle Nord, Mike Horn fut contraint a l abandon pour cause de gelures aux mains."
+        "anecdote": "Lors d une expedition preliminaire pour atteindre le pole Nord, Mike Horn fut contraint a l abandon pour cause de gelures aux mains."
       },
       {
         "id": 5,
@@ -109,7 +109,7 @@
           "Dropped"
         ],
         "reponse": "The Island",
-        "anecdote": "Un groupe d individus doit tenter de survivre sans aide exterieure sur une île deserte pendant 28 jours avec une seule regle : survivre."
+        "anecdote": "Un groupe d individus doit tenter de survivre sans aide exterieure sur une ile deserte pendant 28 jours avec une seule regle : survivre."
       },
       {
         "id": 7,
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "Combien de numero d « À l etat sauvage » Mike Horn a-t-il tourne avant de decider d arreter ?",
+        "question": "Combien de numero d \"A l etat sauvage\" Mike Horn a-t-il tourne avant de decider d arreter ?",
         "propositions": [
           "Huit",
           "Six",
@@ -207,7 +207,7 @@
           "30 jours"
         ],
         "reponse": "15 jours",
-        "anecdote": "L expedition de 808 jours a donne lieu a un film, « Arktos : Le voyage interieur de Mike Horn », realise et produit par Raphaal Blanc."
+        "anecdote": "L expedition de 808 jours a donne lieu a un film, \"Arktos : Le voyage interieur de Mike Horn\", realise et produit par Raphaal Blanc."
       },
       {
         "id": 15,
@@ -231,7 +231,7 @@
           "Gobero"
         ],
         "reponse": "Namib",
-        "anecdote": "Le 8 mai 2016, il commence son expedition « Pole2Pole » au depart de Monaco. Une fois arrive a bon port, il explorera le Namib."
+        "anecdote": "Le 8 mai 2016, il commence son expedition \"Pole2Pole\" au depart de Monaco. Une fois arrive a bon port, il explorera le Namib."
       },
       {
         "id": 17,
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Quelle île du Grand Nord canadien Mike Horn a-t-il traverse avec sa famille ?",
+        "question": "Quelle ile du Grand Nord canadien Mike Horn a-t-il traverse avec sa famille ?",
         "propositions": [
           "Matty",
           "Hans",
@@ -255,7 +255,7 @@
           "Cameron"
         ],
         "reponse": "Bylot",
-        "anecdote": "Depuis 1925, le Canada a revendique la partie de l Arctique entre 60° O et 141° O de longitude, s etendant jusqu au au pôle Nord."
+        "anecdote": "Depuis 1925, le Canada a revendique la partie de l Arctique entre 60° O et 141° O de longitude, s etendant jusqu au au pole Nord."
       },
       {
         "id": 19,
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Qui a realise « Four Eight Thousands » sur l expedition himalayenne de Mike Horn ?",
+        "question": "Qui a realise \"Four Eight Thousands\" sur l expedition himalayenne de Mike Horn ?",
         "propositions": [
           "Drew Brees",
           "David Ribeiro",
@@ -279,7 +279,7 @@
           "Raphaal Blanc"
         ],
         "reponse": "David Ribeiro",
-        "anecdote": "Ce film, realise par David Ribeiro (connu entre autre pour le film « La cite rose »), a ete produit par On Air Productions."
+        "anecdote": "Ce film, realise par David Ribeiro (connu entre autre pour le film \"La cite rose\"), a ete produit par On Air Productions."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "2005"
         ],
         "reponse": "2001",
-        "anecdote": "Seul durant 18 mois, Mike Horn va connaître toutes sortes de peripeties avec « Latitude Zero », son tour du monde par l equateur."
+        "anecdote": "Seul durant 18 mois, Mike Horn va connaitre toutes sortes de peripeties avec \"Latitude Zero\", son tour du monde par l equateur."
       },
       {
         "id": 22,
@@ -329,7 +329,7 @@
           "General"
         ],
         "reponse": "Lieutenant",
-        "anecdote": "De retour a la vie civile, il obtient un diplôme dans le domaine de la Science du mouvement humain a l Universite de Stellenbosch."
+        "anecdote": "De retour a la vie civile, il obtient un diplome dans le domaine de la Science du mouvement humain a l Universite de Stellenbosch."
       },
       {
         "id": 25,
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Avec quel explorateur norvegien Mike Horn est-il parti au pôle Nord en 2006 ?",
+        "question": "Avec quel explorateur norvegien Mike Horn est-il parti au pole Nord en 2006 ?",
         "propositions": [
           "Olav Bjaaland",
           "Otto Sverdrup",
@@ -377,7 +377,7 @@
           "Borge Ousland"
         ],
         "reponse": "Borge Ousland",
-        "anecdote": "Le 23 mars 2006, Borge Ousland et Mike Horn deviennent les premieres personnes a atteindre le pôle Nord durant la nuit polaire."
+        "anecdote": "Le 23 mars 2006, Borge Ousland et Mike Horn deviennent les premieres personnes a atteindre le pole Nord durant la nuit polaire."
       },
       {
         "id": 29,
@@ -393,10 +393,10 @@
       },
       {
         "id": 30,
-        "question": "Dans quel livre Mike Horn a-t-il dit : « Chacun cree les conditions de sa propre liberte » ?",
+        "question": "Dans quel livre Mike Horn a-t-il dit : \"Chacun cree les conditions de sa propre liberte\" ?",
         "propositions": [
           "Grand Nord",
-          "Objectif Pôle Nord",
+          "Objectif Pole Nord",
           "Libre !",
           "Latitude Zero"
         ],
@@ -417,7 +417,7 @@
           "Express Express"
         ],
         "reponse": "In the wild state",
-        "anecdote": "This is the French adaptation of the American « Running Wild with Bear Grylls », aired on NBC since 2014."
+        "anecdote": "This is the French adaptation of the American \"Running Wild with Bear Grylls\", aired on NBC since 2014."
       },
       {
         "id": 2,
@@ -505,7 +505,7 @@
       },
       {
         "id": 9,
-        "question": "How many numbers of « the wild state » did Mike Horn turn out before deciding to stop ?",
+        "question": "How many numbers of \"the wild state\" did Mike Horn turn out before deciding to stop ?",
         "propositions": [
           "Six",
           "Four",
@@ -575,7 +575,7 @@
           "60 days"
         ],
         "reponse": "15 days",
-        "anecdote": "The 808-day expedition resulted in a film, « Arktos: The Inside Journey of Mike Horn », directed and produced by Raphael Blanc."
+        "anecdote": "The 808-day expedition resulted in a film, \"Arktos: The Inside Journey of Mike Horn\", directed and produced by Raphael Blanc."
       },
       {
         "id": 15,
@@ -599,7 +599,7 @@
           "Namib"
         ],
         "reponse": "Namib",
-        "anecdote": "On May 8, 2016, he starts his « Pole2Pole » expedition from Monaco. Once arrived safely, he will explore the Namib."
+        "anecdote": "On May 8, 2016, he starts his \"Pole2Pole\" expedition from Monaco. Once arrived safely, he will explore the Namib."
       },
       {
         "id": 17,
@@ -639,7 +639,7 @@
       },
       {
         "id": 20,
-        "question": "Who made « Four Eight Thousands » on Mike Horn s Himalayan expedition ?",
+        "question": "Who made \"Four Eight Thousands\" on Mike Horn s Himalayan expedition ?",
         "propositions": [
           "Jean Buhler",
           "David Ribeiro",
@@ -647,7 +647,7 @@
           "Drew Brees"
         ],
         "reponse": "David Ribeiro",
-        "anecdote": "This film, directed by David Ribeiro (known among others for the film « The Pink City »), was produced by On Air Productions."
+        "anecdote": "This film, directed by David Ribeiro (known among others for the film \"The Pink City\"), was produced by On Air Productions."
       }
     ],
     "expert": [
@@ -661,7 +661,7 @@
           "2007"
         ],
         "reponse": "2001",
-        "anecdote": "Alone for 18 months, Mike Horn will experience all sorts of wanderings with « Latitude Zeros », his world tour by the ecuador."
+        "anecdote": "Alone for 18 months, Mike Horn will experience all sorts of wanderings with \"Latitude Zeros\", his world tour by the ecuador."
       },
       {
         "id": 22,
@@ -761,7 +761,7 @@
       },
       {
         "id": 30,
-        "question": "In which book did Mike Horn say, « Everyone creates the conditions of his own freedom » ?",
+        "question": "In which book did Mike Horn say, \"Everyone creates the conditions of his own freedom\" ?",
         "propositions": [
           "Free!",
           "Far North",
@@ -785,7 +785,7 @@
           "Neuer Stern"
         ],
         "reponse": "Im wilden Zustand",
-        "anecdote": "Dies ist die französische Adaption des amerikanischen « Running Wild with Bear Grylls », das seit 2014 auf NBC ausgestrahlt wird."
+        "anecdote": "Dies ist die französische Adaption des amerikanischen \"Running Wild with Bear Grylls\", das seit 2014 auf NBC ausgestrahlt wird."
       },
       {
         "id": 2,
@@ -797,7 +797,7 @@
           "Cathy"
         ],
         "reponse": "Cathy",
-        "anecdote": "Die gebürtige Neuseeländerin, ausgebildete Krankenschwester, lernte 1990 ihren zukünftigen Liebhaber in einem Chateau-d Oex-Cafe kennen"
+        "anecdote": "Die geburtige Neuseeländerin, ausgebildete Krankenschwester, lernte 1990 ihren zukunftigen Liebhaber in einem Chateau-d Oex-Cafe kennen"
       },
       {
         "id": 3,
@@ -809,7 +809,7 @@
           "Latitude Zero"
         ],
         "reponse": "Latitude Zero",
-        "anecdote": "Nach einer Idee von Mick Regnier wird Mike Horn von Juni 1999 bis Oktober 2000 mehr als 40.000 km ohne motorisierten Transport zurücklegen."
+        "anecdote": "Nach einer Idee von Mick Regnier wird Mike Horn von Juni 1999 bis Oktober 2000 mehr als 40.000 km ohne motorisierten Transport zurucklegen."
       },
       {
         "id": 4,
@@ -833,7 +833,7 @@
           "Shy m"
         ],
         "reponse": "Herr Pokora",
-        "anecdote": "Vier Tage lang mussten sie jagen, fischen und provisorische Unterkünfte bauen, um das Fehlen von Menschenleben auszugleichen."
+        "anecdote": "Vier Tage lang mussten sie jagen, fischen und provisorische Unterkunfte bauen, um das Fehlen von Menschenleben auszugleichen."
       },
       {
         "id": 6,
@@ -845,11 +845,11 @@
           "gelöscht"
         ],
         "reponse": "Die Insel",
-        "anecdote": "Eine Gruppe von Individuen muss versuchen, 28 Tage lang ohne Hilfe auf einer einsamen Insel mit nur einer Regel zu überleben: um zu überleben."
+        "anecdote": "Eine Gruppe von Individuen muss versuchen, 28 Tage lang ohne Hilfe auf einer einsamen Insel mit nur einer Regel zu uberleben: um zu uberleben."
       },
       {
         "id": 7,
-        "question": "Wie viele Jahre hat die von Mike Horn geführte Pangaea-Expedition gedauert ?",
+        "question": "Wie viele Jahre hat die von Mike Horn gefuhrte Pangaea-Expedition gedauert ?",
         "propositions": [
           "5 Jahre",
           "4 Jahre",
@@ -861,7 +861,7 @@
       },
       {
         "id": 8,
-        "question": "Mit welchem Prominenten Mike Horn durchquerte er die Wüste Namibias ?",
+        "question": "Mit welchem Prominenten Mike Horn durchquerte er die Wuste Namibias ?",
         "propositions": [
           "Laure Manaudou",
           "Herr Pokora",
@@ -873,7 +873,7 @@
       },
       {
         "id": 9,
-        "question": "Wie viele Zahlen von « dem wilden Zustand » hat Mike Horn herausgefunden, bevor er aufhörte aufzuhören ?",
+        "question": "Wie viele Zahlen von \"dem wilden Zustand\" hat Mike Horn herausgefunden, bevor er aufhörte aufzuhören ?",
         "propositions": [
           "Acht",
           "Vier",
@@ -893,13 +893,13 @@
           "Schweiz"
         ],
         "reponse": "Schweiz",
-        "anecdote": "Mike Horn, mit bürgerlichem Namen Michael Frederick Horn, wurde am 16. Juli 1966 in Johannesburg, Südafrika, geboren."
+        "anecdote": "Mike Horn, mit burgerlichem Namen Michael Frederick Horn, wurde am 16. Juli 1966 in Johannesburg, Sudafrika, geboren."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Welche dieser Aktivitäten hat Mike Horn nicht ausgeübt ?",
+        "question": "Welche dieser Aktivitäten hat Mike Horn nicht ausgeubt ?",
         "propositions": [
           "Pianist",
           "Harvester",
@@ -907,7 +907,7 @@
           "Barman"
         ],
         "reponse": "Pianist",
-        "anecdote": "1990 auf dem Flug von Johannesburg nach Zürich in der Schweiz angekommen, waren die ersten Male schwierig und er überstand einige Jobs."
+        "anecdote": "1990 auf dem Flug von Johannesburg nach Zurich in der Schweiz angekommen, waren die ersten Male schwierig und er uberstand einige Jobs."
       },
       {
         "id": 12,
@@ -943,7 +943,7 @@
           "45 tage"
         ],
         "reponse": "15 tage",
-        "anecdote": "Die 808-tägige Expedition führte zu einem Film, « Arktos: Die innere Reise von Mike Horn », der von Raphael Blanc inszeniert und produziert wurde."
+        "anecdote": "Die 808-tägige Expedition fuhrte zu einem Film, \"Arktos: Die innere Reise von Mike Horn\", der von Raphael Blanc inszeniert und produziert wurde."
       },
       {
         "id": 15,
@@ -955,7 +955,7 @@
           "Pangaea"
         ],
         "reponse": "Pangaea",
-        "anecdote": "Der in Brasilien gebaute Mike Horn wird ohne motorisierte Transportmittel auf allen fünf Kontinenten mit der Pangaea um die Welt reisen."
+        "anecdote": "Der in Brasilien gebaute Mike Horn wird ohne motorisierte Transportmittel auf allen funf Kontinenten mit der Pangaea um die Welt reisen."
       },
       {
         "id": 16,
@@ -967,7 +967,7 @@
           "Nubien"
         ],
         "reponse": "Namib",
-        "anecdote": "Am 8. Mai 2016 startet er in Monaco seine « Pole2Pole » Expedition. Sobald er sicher angekommen ist, wird er die Namib erkunden."
+        "anecdote": "Am 8. Mai 2016 startet er in Monaco seine \"Pole2Pole\" Expedition. Sobald er sicher angekommen ist, wird er die Namib erkunden."
       },
       {
         "id": 17,
@@ -979,7 +979,7 @@
           "47 tage"
         ],
         "reponse": "57 Tage",
-        "anecdote": "Allein und ohne Motor hat Mike Horn fast 5100 Kilometer zurückgelegt, um die Antarktis vollständig zu überqueren."
+        "anecdote": "Allein und ohne Motor hat Mike Horn fast 5100 Kilometer zuruckgelegt, um die Antarktis vollständig zu uberqueren."
       },
       {
         "id": 18,
@@ -1007,7 +1007,7 @@
       },
       {
         "id": 20,
-        "question": "Wer hat « Achttausend » auf Mike Horns Himalaya-Expedition gemacht ?",
+        "question": "Wer hat \"Achttausend\" auf Mike Horns Himalaya-Expedition gemacht ?",
         "propositions": [
           "Raphaal Blanc",
           "Drew Brees",
@@ -1021,7 +1021,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Wann hat Mike Horn den Laureus Award für den besten alternativen Sportler des Jahres erhalten ?",
+        "question": "Wann hat Mike Horn den Laureus Award fur den besten alternativen Sportler des Jahres erhalten ?",
         "propositions": [
           "2007",
           "2003",
@@ -1029,7 +1029,7 @@
           "2001"
         ],
         "reponse": "2001",
-        "anecdote": "Alleine während 18 Monaten wird Mike Horn mit « Latitude Zero », seiner Welttournee am Äquator, alle möglichen Abenteuer erleben."
+        "anecdote": "Alleine während 18 Monaten wird Mike Horn mit \"Latitude Zero\", seiner Welttournee am Äquator, alle möglichen Abenteuer erleben."
       },
       {
         "id": 22,
@@ -1057,7 +1057,7 @@
       },
       {
         "id": 24,
-        "question": "Welchen Rang hatte Mike Horn bei den südafrikanischen Special Forces ?",
+        "question": "Welchen Rang hatte Mike Horn bei den sudafrikanischen Special Forces ?",
         "propositions": [
           "Kapitän",
           "Allgemein",
@@ -1065,11 +1065,11 @@
           "Leutnant"
         ],
         "reponse": "Leutnant",
-        "anecdote": "Zurück zum zivilen Leben schloss er sein Studium im Bereich Human Movement Science an der Universität von Stellenbosch ab."
+        "anecdote": "Zuruck zum zivilen Leben schloss er sein Studium im Bereich Human Movement Science an der Universität von Stellenbosch ab."
       },
       {
         "id": 25,
-        "question": "In welchem Land hat Mike Horn das No Limits Outdoor Activity Center gegründet ?",
+        "question": "In welchem Land hat Mike Horn das No Limits Outdoor Activity Center gegrundet ?",
         "propositions": [
           "Kanada",
           "Norwegen",
@@ -1077,11 +1077,11 @@
           "Schweiz"
         ],
         "reponse": "Schweiz",
-        "anecdote": "Zur gleichen Zeit (1995) wurde Mike Horn Experte für die Ausbildung von Schweizer Bergführern."
+        "anecdote": "Zur gleichen Zeit (1995) wurde Mike Horn Experte fur die Ausbildung von Schweizer Bergfuhrern."
       },
       {
         "id": 26,
-        "question": "Auf welchem Einrümpfer hat Mike Horn einen Weltrekord geschlagen ?",
+        "question": "Auf welchem Einrumpfer hat Mike Horn einen Weltrekord geschlagen ?",
         "propositions": [
           "Paul-Ricard",
           "Mari Cha III",
@@ -1089,7 +1089,7 @@
           "Kleeblatt"
         ],
         "reponse": "Mari Cha III",
-        "anecdote": "Mike Horn trat 1997 der 45-Meter-Einrümpfer-Crew bei, die den Weltrekord über die Atlantiküberquerung brach."
+        "anecdote": "Mike Horn trat 1997 der 45-Meter-Einrumpfer-Crew bei, die den Weltrekord uber die Atlantikuberquerung brach."
       },
       {
         "id": 27,
@@ -1101,7 +1101,7 @@
           "Hai-Projekt"
         ],
         "reponse": "Hai-Projekt",
-        "anecdote": "Dieses Programm zielt auch darauf ab, das Bewusstsein für die Probleme der Ozeane auf der ganzen Welt zu schärfen."
+        "anecdote": "Dieses Programm zielt auch darauf ab, das Bewusstsein fur die Probleme der Ozeane auf der ganzen Welt zu schärfen."
       },
       {
         "id": 28,
@@ -1125,11 +1125,11 @@
           "Apurimac"
         ],
         "reponse": "Colca",
-        "anecdote": "Am Fuße des Canyons (mehr als 1 000 Meter mit Cabanaconde degradiert) dient das Dorf Sangalle als Zufluchtsort für Wanderer."
+        "anecdote": "Am Fuße des Canyons (mehr als 1 000 Meter mit Cabanaconde degradiert) dient das Dorf Sangalle als Zufluchtsort fur Wanderer."
       },
       {
         "id": 30,
-        "question": "In welchem Buch hat Mike Horn gesagt: « Jeder schafft die Voraussetzungen für seine eigene Freiheit » ?",
+        "question": "In welchem Buch hat Mike Horn gesagt: \"Jeder schafft die Voraussetzungen fur seine eigene Freiheit\" ?",
         "propositions": [
           "Weiter Norden",
           "Nordpolziel",
@@ -1137,7 +1137,7 @@
           "Latitude Zero"
         ],
         "reponse": "Kostenlos!",
-        "anecdote": "Seit mehr als dreißig Jahren übermittelt er humanistische Botschaften, in denen er die Stärke seiner Werte und seines Verstandes zeigt."
+        "anecdote": "Seit mehr als dreißig Jahren ubermittelt er humanistische Botschaften, in denen er die Stärke seiner Werte und seines Verstandes zeigt."
       }
     ]
     },
@@ -1153,7 +1153,7 @@
           "En estado salvaje"
         ],
         "reponse": "En estado salvaje",
-        "anecdote": "Esta es la adaptación francesa de la estadounidense « Running Wild with Bear Grylls », emitida por NBC desde 2014."
+        "anecdote": "Esta es la adaptación francesa de la estadounidense \"Running Wild with Bear Grylls\", emitida por NBC desde 2014."
       },
       {
         "id": 2,
@@ -1241,7 +1241,7 @@
       },
       {
         "id": 9,
-        "question": "¿Cuántos números de « el estado salvaje » resultó Mike Horn antes de decidir detenerse ?",
+        "question": "¿Cuántos números de \"el estado salvaje\" resultó Mike Horn antes de decidir detenerse ?",
         "propositions": [
           "Cuatro",
           "Seis",
@@ -1311,7 +1311,7 @@
           "15 dias"
         ],
         "reponse": "15 dias",
-        "anecdote": "La expedición de 808 días dio lugar a una película, « Arktos: The Inside Journey of Mike Horn », dirigida y producida por Raphael Blanc."
+        "anecdote": "La expedición de 808 días dio lugar a una película, \"Arktos: The Inside Journey of Mike Horn\", dirigida y producida por Raphael Blanc."
       },
       {
         "id": 15,
@@ -1335,7 +1335,7 @@
           "Namib"
         ],
         "reponse": "Namib",
-        "anecdote": "El 8 de mayo de 2016, comienza su expedición « Pole2Pole » desde Mónaco. Una vez que llegó a salvo, explorará el Namib."
+        "anecdote": "El 8 de mayo de 2016, comienza su expedición \"Pole2Pole\" desde Mónaco. Una vez que llegó a salvo, explorará el Namib."
       },
       {
         "id": 17,
@@ -1375,7 +1375,7 @@
       },
       {
         "id": 20,
-        "question": "¿Quien hizo « Four Eight Thousands » en la expedición al Himalaya de Mike Horn ?",
+        "question": "¿Quien hizo \"Four Eight Thousands\" en la expedición al Himalaya de Mike Horn ?",
         "propositions": [
           "Drew Brees",
           "Jean Buhler",
@@ -1383,7 +1383,7 @@
           "Raphaal blanc"
         ],
         "reponse": "David ribeiro",
-        "anecdote": "Esta película, dirigida por David Ribeiro (conocida entre otras por la película « The Pink City »), fue producida por On Air Productions."
+        "anecdote": "Esta película, dirigida por David Ribeiro (conocida entre otras por la película \"The Pink City\"), fue producida por On Air Productions."
       }
     ],
     "expert": [
@@ -1397,7 +1397,7 @@
           "2003"
         ],
         "reponse": "2001",
-        "anecdote": "Solo durante 18 meses, Mike Horn experimentará todo tipo de paseos con « Latitude Zeros », su gira mundial por el ecuador."
+        "anecdote": "Solo durante 18 meses, Mike Horn experimentará todo tipo de paseos con \"Latitude Zeros\", su gira mundial por el ecuador."
       },
       {
         "id": 22,
@@ -1497,7 +1497,7 @@
       },
       {
         "id": 30,
-        "question": "¿En que libro dijo Mike Horn: « Todos crean las condiciones de su propia libertad » ?",
+        "question": "¿En que libro dijo Mike Horn: \"Todos crean las condiciones de su propia libertad\" ?",
         "propositions": [
           "Latitud Cero",
           "Extremo Norte",
@@ -1521,7 +1521,7 @@
           "Allo stato selvaggio"
         ],
         "reponse": "Allo stato selvaggio",
-        "anecdote": "Questo e l adattamento francese dell americano « Running Wild con Bear Grylls », trasmesso su NBC dal 2014."
+        "anecdote": "Questo e l adattamento francese dell americano \"Running Wild con Bear Grylls\", trasmesso su NBC dal 2014."
       },
       {
         "id": 2,
@@ -1609,7 +1609,7 @@
       },
       {
         "id": 9,
-        "question": "Quanti numeri di « lo stato selvaggio » ha fatto Mike Horn prima di decidere di fermarsi ?",
+        "question": "Quanti numeri di \"lo stato selvaggio\" ha fatto Mike Horn prima di decidere di fermarsi ?",
         "propositions": [
           "Dieci",
           "Quattro",
@@ -1679,7 +1679,7 @@
           "15 giorni"
         ],
         "reponse": "15 giorni",
-        "anecdote": "La spedizione di 808 giorni ha prodotto un film, « Arktos: The Inside Journey di Mike Horn », diretto e prodotto da Raphael Blanc."
+        "anecdote": "La spedizione di 808 giorni ha prodotto un film, \"Arktos: The Inside Journey di Mike Horn\", diretto e prodotto da Raphael Blanc."
       },
       {
         "id": 15,
@@ -1703,7 +1703,7 @@
           "Namib"
         ],
         "reponse": "Namib",
-        "anecdote": "L 8 maggio 2016, inizia la sua spedizione « Pole2Pole » da Monaco. Una volta arrivato sano, esplorera il Namib."
+        "anecdote": "L 8 maggio 2016, inizia la sua spedizione \"Pole2Pole\" da Monaco. Una volta arrivato sano, esplorera il Namib."
       },
       {
         "id": 17,
@@ -1743,7 +1743,7 @@
       },
       {
         "id": 20,
-        "question": "Chi ha fatto « Quattro Otto Migliaia » sulla spedizione himalayana di Mike Horn ?",
+        "question": "Chi ha fatto \"Quattro Otto Migliaia\" sulla spedizione himalayana di Mike Horn ?",
         "propositions": [
           "Drew Brees",
           "David Ribeiro",
@@ -1751,7 +1751,7 @@
           "Jean Buhler"
         ],
         "reponse": "David Ribeiro",
-        "anecdote": "Questo film, diretto da David Ribeiro (noto tra gli altri per il film « The Pink City »), e stato prodotto da On Air Productions."
+        "anecdote": "Questo film, diretto da David Ribeiro (noto tra gli altri per il film \"The Pink City\"), e stato prodotto da On Air Productions."
       }
     ],
     "expert": [
@@ -1765,7 +1765,7 @@
           "2003"
         ],
         "reponse": "2001",
-        "anecdote": "Da solo per 18 mesi, Mike Horn conoscera ogni tipo di avventura con « Latitude Zero », il suo tour mondiale all equatore."
+        "anecdote": "Da solo per 18 mesi, Mike Horn conoscera ogni tipo di avventura con \"Latitude Zero\", il suo tour mondiale all equatore."
       },
       {
         "id": 22,
@@ -1865,7 +1865,7 @@
       },
       {
         "id": 30,
-        "question": "In quale libro Mike Horn ha detto: « Ognuno crea le condizioni della propria liberta » ?",
+        "question": "In quale libro Mike Horn ha detto: \"Ognuno crea le condizioni della propria liberta\" ?",
         "propositions": [
           "Estremo Nord",
           "Obiettivo del Polo Nord",
@@ -1889,7 +1889,7 @@
           "Express Express"
         ],
         "reponse": "In de vrije staat",
-        "anecdote": "Dit is de Franse bewerking van de Amerikaanse « Running Wild met Bear Grylls », uitgezonden op NBC sinds 2014."
+        "anecdote": "Dit is de Franse bewerking van de Amerikaanse \"Running Wild met Bear Grylls\", uitgezonden op NBC sinds 2014."
       },
       {
         "id": 2,
@@ -1977,7 +1977,7 @@
       },
       {
         "id": 9,
-        "question": "Hoeveel nummers van « de wilde staat » heeft Mike Horn gevonden voordat hij besloot te stoppen ?",
+        "question": "Hoeveel nummers van \"de wilde staat\" heeft Mike Horn gevonden voordat hij besloot te stoppen ?",
         "propositions": [
           "Zes",
           "Acht",
@@ -2011,7 +2011,7 @@
           "Harvester"
         ],
         "reponse": "Pianist",
-        "anecdote": "Aangekomen in Zwitserland in 1990 door de vlucht Johannesburg-Zürich, de eerste keren waren moeilijk en hij overleefde klusjes."
+        "anecdote": "Aangekomen in Zwitserland in 1990 door de vlucht Johannesburg-Zurich, de eerste keren waren moeilijk en hij overleefde klusjes."
       },
       {
         "id": 12,
@@ -2047,7 +2047,7 @@
           "60 dagen"
         ],
         "reponse": "15 dagen",
-        "anecdote": "De 808-daagse expeditie resulteerde in een film, « Arktos: The Inside Journey of Mike Horn », geregisseerd en geproduceerd door Raphael Blanc."
+        "anecdote": "De 808-daagse expeditie resulteerde in een film, \"Arktos: The Inside Journey of Mike Horn\", geregisseerd en geproduceerd door Raphael Blanc."
       },
       {
         "id": 15,
@@ -2071,7 +2071,7 @@
           "Nubia"
         ],
         "reponse": "Namib",
-        "anecdote": "Op 8 mei 2016 begint hij zijn « Pole2Pole » expeditie vanuit Monaco. Eenmaal veilig aangekomen, gaat hij de Namib verkennen."
+        "anecdote": "Op 8 mei 2016 begint hij zijn \"Pole2Pole\" expeditie vanuit Monaco. Eenmaal veilig aangekomen, gaat hij de Namib verkennen."
       },
       {
         "id": 17,
@@ -2111,7 +2111,7 @@
       },
       {
         "id": 20,
-        "question": "Wie heeft « Four Eight Duizenden » gemaakt op Mike Horn s Himalaya-expeditie ?",
+        "question": "Wie heeft \"Four Eight Duizenden\" gemaakt op Mike Horn s Himalaya-expeditie ?",
         "propositions": [
           "David Ribeiro",
           "Raphaal Blanc",
@@ -2119,7 +2119,7 @@
           "Drew Brees"
         ],
         "reponse": "David Ribeiro",
-        "anecdote": "Deze film, geregisseerd door David Ribeiro (onder meer bekend van de film « The Pink City »), werd geproduceerd door On Air Productions."
+        "anecdote": "Deze film, geregisseerd door David Ribeiro (onder meer bekend van de film \"The Pink City\"), werd geproduceerd door On Air Productions."
       }
     ],
     "expert": [
@@ -2133,7 +2133,7 @@
           "2007"
         ],
         "reponse": "2001",
-        "anecdote": "Alleen al 18 maanden beleeft Mike Horn allerlei omzwervingen met « Latitude Zeros », zijn wereldtournee door de ecuador."
+        "anecdote": "Alleen al 18 maanden beleeft Mike Horn allerlei omzwervingen met \"Latitude Zeros\", zijn wereldtournee door de ecuador."
       },
       {
         "id": 22,
@@ -2233,7 +2233,7 @@
       },
       {
         "id": 30,
-        "question": "In welk boek zei Mike Horn: « Iedereen schept de voorwaarden voor zijn eigen vrijheid » ?",
+        "question": "In welk boek zei Mike Horn: \"Iedereen schept de voorwaarden voor zijn eigen vrijheid\" ?",
         "propositions": [
           "Latitude Zero",
           "Far North",

@@ -8,7 +8,7 @@
     "fr": {
       "categorie": "Musique",
       "nom": "New wave",
-      "slogan": "Synthetiseurs et boîtes a rythmes"
+      "slogan": "Synthetiseurs et boites a rythmes"
     },
     "en": {
       "categorie": "Music",
@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "question": "« Don t you want me » fut l un des plus grands tubes de quel groupe new wave ?",
+        "question": "\"Don t you want me\" fut l un des plus grands tubes de quel groupe new wave ?",
         "propositions": [
           "Kajagoogoo",
           "Spandau Ballet",
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "À quel groupe new wave peut-on associer les tubes « Electricity » et « Enola Gay » ?",
+        "question": "A quel groupe new wave peut-on associer les tubes \"Electricity\" et \"Enola Gay\" ?",
         "propositions": [
           "Joy Division",
           "OMD",
@@ -73,11 +73,11 @@
           "Yazoo"
         ],
         "reponse": "OMD",
-        "anecdote": "En 1983, un extrait de la chanson « Souvenir » a ete utilise dans une bande publicitaire pour BNP Paribas."
+        "anecdote": "En 1983, un extrait de la chanson \"Souvenir\" a ete utilise dans une bande publicitaire pour BNP Paribas."
       },
       {
         "id": 4,
-        "question": "Quel groupe a connu son premier grand tube en 1981 avec « Tainted Love » ?",
+        "question": "Quel groupe a connu son premier grand tube en 1981 avec \"Tainted Love\" ?",
         "propositions": [
           "Depeche Mode",
           "Yazoo",
@@ -85,7 +85,7 @@
           "Simple Minds"
         ],
         "reponse": "Soft Cell",
-        "anecdote": "Ce morceau a ete repris de nombreuses fois, notamment par Marilyn Manson en 2001 pour la BO du film « Sex Academy »."
+        "anecdote": "Ce morceau a ete repris de nombreuses fois, notamment par Marilyn Manson en 2001 pour la BO du film \"Sex Academy\"."
       },
       {
         "id": 5,
@@ -101,7 +101,7 @@
       },
       {
         "id": 6,
-        "question": "À quel groupe new wave doit-on le hit « Shout », enregistre en 1984 ?",
+        "question": "A quel groupe new wave doit-on le hit \"Shout\", enregistre en 1984 ?",
         "propositions": [
           "Dead Or Alive",
           "Pet Shop Boys",
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Quel groupe a connu son premier succes aupres du public avec le single « People Are People » ?",
+        "question": "Quel groupe a connu son premier succes aupres du public avec le single \"People Are People\" ?",
         "propositions": [
           "Bauhaus",
           "U2",
@@ -133,11 +133,11 @@
           "The Chameleons"
         ],
         "reponse": "Depeche Mode",
-        "anecdote": "« People Are People » est l oeuvre de Martin Gore, l air dansant de la chanson etant quant a elle a mettre au credit d Alan Wilder."
+        "anecdote": "\"People Are People\" est l oeuvre de Martin Gore, l air dansant de la chanson etant quant a elle a mettre au credit d Alan Wilder."
       },
       {
         "id": 9,
-        "question": "Quel groupe anglais a obtenu son premier numero un dans les classements avec « Relax » ?",
+        "question": "Quel groupe anglais a obtenu son premier numero un dans les classements avec \"Relax\" ?",
         "propositions": [
           "U2",
           "OMD",
@@ -145,11 +145,11 @@
           "FGTH"
         ],
         "reponse": "FGTH",
-        "anecdote": "La chanson « Relax » a ensuite ete incluse dans l album « Welcome to the Pleasuredome » sorti un an plus tard."
+        "anecdote": "La chanson \"Relax\" a ensuite ete incluse dans l album \"Welcome to the Pleasuredome\" sorti un an plus tard."
       },
       {
         "id": 10,
-        "question": "« Such a Shame » a ete l un des plus grands tubes de quel groupe musical ?",
+        "question": "\"Such a Shame\" a ete l un des plus grands tubes de quel groupe musical ?",
         "propositions": [
           "Eurythmics",
           "Talk Talk",
@@ -157,7 +157,7 @@
           "Talking Heads"
         ],
         "reponse": "Talk Talk",
-        "anecdote": "« Such a Shame », ecrite par Mark Hollis, fut grandement inspiree par le roman culte de l auteur americain Luke Rhinehart « L Homme-de »."
+        "anecdote": "\"Such a Shame\", ecrite par Mark Hollis, fut grandement inspiree par le roman culte de l auteur americain Luke Rhinehart \"L Homme-de\"."
       }
     ],
     "confirme": [
@@ -183,7 +183,7 @@
           "Soft Cell"
         ],
         "reponse": "New Order",
-        "anecdote": "Joy Division, considere comme l un des initiateurs de la cold wave, est l un des groupes precurseurs et « parrains du rock gothique »."
+        "anecdote": "Joy Division, considere comme l un des initiateurs de la cold wave, est l un des groupes precurseurs et \"parrains du rock gothique\"."
       },
       {
         "id": 13,
@@ -207,11 +207,11 @@
           "Duran Duran"
         ],
         "reponse": "Bronski Beat",
-        "anecdote": "Forme a Londres en 1983, le groupe Bronski Beat est surtout connu pour son morceau planetaire « Smalltown Boy »."
+        "anecdote": "Forme a Londres en 1983, le groupe Bronski Beat est surtout connu pour son morceau planetaire \"Smalltown Boy\"."
       },
       {
         "id": 15,
-        "question": "L album « Reggatta de Blanc » fait partie de la discographie de quel groupe ?",
+        "question": "L album \"Reggatta de Blanc\" fait partie de la discographie de quel groupe ?",
         "propositions": [
           "The Clash",
           "The Scabs",
@@ -219,11 +219,11 @@
           "The Police"
         ],
         "reponse": "The Police",
-        "anecdote": "Avec l album « Reggatta de Blanc », Sting a ete elu par le New Musical Express meilleur chanteur de l annee 1979."
+        "anecdote": "Avec l album \"Reggatta de Blanc\", Sting a ete elu par le New Musical Express meilleur chanteur de l annee 1979."
       },
       {
         "id": 16,
-        "question": "Quel groupe punk a doucement glisse vers la new wave avec le titre « Golden Brown » ?",
+        "question": "Quel groupe punk a doucement glisse vers la new wave avec le titre \"Golden Brown\" ?",
         "propositions": [
           "The Clash",
           "The Stranglers",
@@ -231,7 +231,7 @@
           "The Scabs"
         ],
         "reponse": "The Stranglers",
-        "anecdote": "Ode a l heroïne et aux femmes, les arrangements acoustiques et le rythme de valse de « Golden Brown » en font un titre intemporel."
+        "anecdote": "Ode a l heroïne et aux femmes, les arrangements acoustiques et le rythme de valse de \"Golden Brown\" en font un titre intemporel."
       },
       {
         "id": 17,
@@ -243,7 +243,7 @@
           "Allemande"
         ],
         "reponse": "Allemande",
-        "anecdote": "Le nom du groupe a ete choisi en reference au film « Alphaville, une etrange aventure de Lemmy Caution » de Jean-Luc Godard."
+        "anecdote": "Le nom du groupe a ete choisi en reference au film \"Alphaville, une etrange aventure de Lemmy Caution\" de Jean-Luc Godard."
       },
       {
         "id": 18,
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Sur quelle chaîne de television musicale la new wave s est-elle fortement concretisee ?",
+        "question": "Sur quelle chaine de television musicale la new wave s est-elle fortement concretisee ?",
         "propositions": [
           "Fun TV",
           "MTV",
@@ -267,7 +267,7 @@
           "Mezzo"
         ],
         "reponse": "MTV",
-        "anecdote": "À l origine, comme pour le post-punk, la new wave definissait les nouveaux groupes et artistes pop rock anglo-americains."
+        "anecdote": "A l origine, comme pour le post-punk, la new wave definissait les nouveaux groupes et artistes pop rock anglo-americains."
       },
       {
         "id": 20,
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quel groupe francais interprete le titre « Cherchez le garcon », encore souvent diffuse ?",
+        "question": "Quel groupe francais interprete le titre \"Cherchez le garcon\", encore souvent diffuse ?",
         "propositions": [
           "Bijou",
           "Goûts de Luxe",
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "À quelle chanteuse anglaise doit-on le tube « Our Darkness » ?",
+        "question": "A quelle chanteuse anglaise doit-on le tube \"Our Darkness\" ?",
         "propositions": [
           "Anne Clark",
           "Blondie",
@@ -333,7 +333,7 @@
       },
       {
         "id": 25,
-        "question": "À quel groupe doit-on le legendaire « Flash in the Night » ?",
+        "question": "A quel groupe doit-on le legendaire \"Flash in the Night\" ?",
         "propositions": [
           "Secret Service",
           "Saxon",
@@ -341,11 +341,11 @@
           "Yazoo"
         ],
         "reponse": "Secret Service",
-        "anecdote": "En 1986, le chanteur Ola Hakansson a fait un duo avec Agnetha Faltskog, la chanteuse d ABBA, intitule « The Way You Are »."
+        "anecdote": "En 1986, le chanteur Ola Hakansson a fait un duo avec Agnetha Faltskog, la chanteuse d ABBA, intitule \"The Way You Are\"."
       },
       {
         "id": 26,
-        "question": "Que vous rappelle « Un homme, dans une gare isolee, une valise a ses côtes » ?",
+        "question": "Que vous rappelle \"Un homme, dans une gare isolee, une valise a ses cotes\" ?",
         "propositions": [
           "New Order",
           "Visage",
@@ -353,7 +353,7 @@
           "Tears For Fears"
         ],
         "reponse": "Visage",
-        "anecdote": "Le morceau « Fade to Grey » est aujourd hui considere comme le premier single du courant musical Nouveaux Romantiques."
+        "anecdote": "Le morceau \"Fade to Grey\" est aujourd hui considere comme le premier single du courant musical Nouveaux Romantiques."
       },
       {
         "id": 27,
@@ -365,7 +365,7 @@
           "Linear"
         ],
         "reponse": "Control",
-        "anecdote": "Le scenario de « Control » est adapte du roman « Touching from a Distance », de sa femme Deborah, egalement coproductrice du film."
+        "anecdote": "Le scenario de \"Control\" est adapte du roman \"Touching from a Distance\", de sa femme Deborah, egalement coproductrice du film."
       },
       {
         "id": 28,

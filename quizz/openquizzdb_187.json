@@ -45,10 +45,10 @@
         "propositions": [
           "Gant",
           "Protege-dents",
-          "Éponge",
+          "Eponge",
           "Culotte"
         ],
-        "reponse": "Éponge",
+        "reponse": "Eponge",
         "anecdote": "Durant un match, l arbitre est le garant principal de la securite des boxeurs et peut sanctionner les gestes interdits et dangereux."
       },
       {
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "Qui est devenu celebre grace au « Poinconneur des Lilas » sorti en 1958 ?",
+        "question": "Qui est devenu celebre grace au \"Poinconneur des Lilas\" sorti en 1958 ?",
         "propositions": [
           "Johnny Hallyday",
           "Boris Vian",
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "À quelle substance naturelle ou synthetique la penicilline est-elle associee ?",
+        "question": "A quelle substance naturelle ou synthetique la penicilline est-elle associee ?",
         "propositions": [
           "Anesthesique",
           "Analgesique",
@@ -145,7 +145,7 @@
           "Soporifique"
         ],
         "reponse": "Antibiotique",
-        "anecdote": "À la base, la penicilline est une toxine inoffensive pour l homme synthetisee par certaines especes de moisissures."
+        "anecdote": "A la base, la penicilline est une toxine inoffensive pour l homme synthetisee par certaines especes de moisissures."
       },
       {
         "id": 10,
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "« Le train sifflera trois fois » est un western americain de quel realisateur ?",
+        "question": "\"Le train sifflera trois fois\" est un western americain de quel realisateur ?",
         "propositions": [
           "George Stevens",
           "John Ford",
@@ -171,7 +171,7 @@
           "Fred Zinnemann"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "L album de Lucky Luke intitule « Les Dalton a la noce » reprend la trame scenaristique generale et quelques passages-cles du film."
+        "anecdote": "L album de Lucky Luke intitule \"Les Dalton a la noce\" reprend la trame scenaristique generale et quelques passages-cles du film."
       },
       {
         "id": 12,
@@ -199,11 +199,11 @@
       },
       {
         "id": 14,
-        "question": "À quel autre objet peut-on associer le paleophone invente par Charles Cros ?",
+        "question": "A quel autre objet peut-on associer le paleophone invente par Charles Cros ?",
         "propositions": [
           "Telephone",
           "Disque a sillon",
-          "Émetteur",
+          "Emetteur",
           "Poste de radio"
         ],
         "reponse": "Disque a sillon",
@@ -231,7 +231,7 @@
           "Voltaire"
         ],
         "reponse": "Moliere",
-        "anecdote": "« Le Malade imaginaire » est une comedie-ballet en trois actes representee en 1673 et la derniere comedie ecrite par Moliere."
+        "anecdote": "\"Le Malade imaginaire\" est une comedie-ballet en trois actes representee en 1673 et la derniere comedie ecrite par Moliere."
       },
       {
         "id": 17,
@@ -274,7 +274,7 @@
         "question": "Quel prolifique compositeur francais est mort a Paris en 1918 ?",
         "propositions": [
           "Claude Debussy",
-          "Édouard Lalo",
+          "Edouard Lalo",
           "Georges Bizet",
           "Hector Berlioz"
         ],
@@ -365,11 +365,11 @@
           "Clinton-Arafat"
         ],
         "reponse": "Sadate-Begin",
-        "anecdote": "Le Camp David, d une superficie de 50 hectares dans le Maryland, est le lieu de villegiature officiel du president des États-Unis."
+        "anecdote": "Le Camp David, d une superficie de 50 hectares dans le Maryland, est le lieu de villegiature officiel du president des Etats-Unis."
       },
       {
         "id": 28,
-        "question": "Dans quel journal est paru le celebre « J accuse... ! » d Émile Zola ?",
+        "question": "Dans quel journal est paru le celebre \"J accuse... !\" d Emile Zola ?",
         "propositions": [
           "Humanite",
           "Pravda",
@@ -383,7 +383,7 @@
         "id": 29,
         "question": "Dans quel pays coule le Shannon, traversant des successions interminables de lacs ?",
         "propositions": [
-          "États-Unis",
+          "Etats-Unis",
           "Irlande",
           "Israal",
           "Canada"
@@ -433,7 +433,7 @@
       },
       {
         "id": 3,
-        "question": "Who became famous thanks to the « Poinconneur des Lilas » released in 1958 ?",
+        "question": "Who became famous thanks to the \"Poinconneur des Lilas\" released in 1958 ?",
         "propositions": [
           "Johnny Hallyday",
           "Serge Gainsbourg",
@@ -531,7 +531,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "« The train will whistle three times » is an American western from which director ?",
+        "question": "\"The train will whistle three times\" is an American western from which director ?",
         "propositions": [
           "Vincente Minnelli",
           "George Stevens",
@@ -539,7 +539,7 @@
           "Fred Zinnemann"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "Lucky Luke s album titled « Les Dalton a la noce » takes up the general storyline and some key passages from the film."
+        "anecdote": "Lucky Luke s album titled \"Les Dalton a la noce\" takes up the general storyline and some key passages from the film."
       },
       {
         "id": 12,
@@ -599,7 +599,7 @@
           "Voltaire"
         ],
         "reponse": "Moliere",
-        "anecdote": "« The Imaginary Ill » is a comedy-ballet in three acts represented in 1673 and the last comedy written by Moliere."
+        "anecdote": "\"The Imaginary Ill\" is a comedy-ballet in three acts represented in 1673 and the last comedy written by Moliere."
       },
       {
         "id": 17,
@@ -737,7 +737,7 @@
       },
       {
         "id": 28,
-        "question": "In which newspaper did the famous « J accuse... ! » of Zola ?",
+        "question": "In which newspaper did the famous \"J accuse... !\" of Zola ?",
         "propositions": [
           "Figaro",
           "Aurore",
@@ -785,7 +785,7 @@
           "Zahnschutz"
         ],
         "reponse": "Schwamm",
-        "anecdote": "Während eines Spiels ist der Schiedsrichter der Hauptgarant für die Sicherheit der Boxer und kann die verbotenen und gefährlichen Handlungen sanktionieren."
+        "anecdote": "Während eines Spiels ist der Schiedsrichter der Hauptgarant fur die Sicherheit der Boxer und kann die verbotenen und gefährlichen Handlungen sanktionieren."
       },
       {
         "id": 2,
@@ -801,7 +801,7 @@
       },
       {
         "id": 3,
-        "question": "Wer wurde durch den 1958 erschienenen « Poinconneur des Lilas » berühmt ?",
+        "question": "Wer wurde durch den 1958 erschienenen \"Poinconneur des Lilas\" beruhmt ?",
         "propositions": [
           "Johnny Hallyday",
           "Boris Vian",
@@ -845,7 +845,7 @@
           "17.000"
         ],
         "reponse": "13.000",
-        "anecdote": "General de Gaulle stieg am 26. August vom Triumphbogen nach Notre-Dame für einen Gottesdienst nach der Befreiung von Paris ab."
+        "anecdote": "General de Gaulle stieg am 26. August vom Triumphbogen nach Notre-Dame fur einen Gottesdienst nach der Befreiung von Paris ab."
       },
       {
         "id": 7,
@@ -873,7 +873,7 @@
       },
       {
         "id": 9,
-        "question": "Mit welcher natürlichen oder synthetischen Substanz wird Penicillin in Verbindung gebracht ?",
+        "question": "Mit welcher naturlichen oder synthetischen Substanz wird Penicillin in Verbindung gebracht ?",
         "propositions": [
           "Soporific",
           "Analgetikum",
@@ -881,7 +881,7 @@
           "Anästhetika"
         ],
         "reponse": "Antibiotikum",
-        "anecdote": "Penicillin ist im Grunde ein harmloses Toxin für den Menschen, das von bestimmten Schimmelpilzarten synthetisiert wird."
+        "anecdote": "Penicillin ist im Grunde ein harmloses Toxin fur den Menschen, das von bestimmten Schimmelpilzarten synthetisiert wird."
       },
       {
         "id": 10,
@@ -899,7 +899,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "« Der Zug wird dreimal pfeifen » ist ein amerikanischer Western von welchem Regisseur ?",
+        "question": "\"Der Zug wird dreimal pfeifen\" ist ein amerikanischer Western von welchem Regisseur ?",
         "propositions": [
           "John Ford",
           "George Stevens",
@@ -907,7 +907,7 @@
           "Fred Zinnemann"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "Lucky Lukes Album mit dem Titel « Les Dalton a la noce » greift die allgemeine Geschichte und einige wichtige Passagen des Films auf."
+        "anecdote": "Lucky Lukes Album mit dem Titel \"Les Dalton a la noce\" greift die allgemeine Geschichte und einige wichtige Passagen des Films auf."
       },
       {
         "id": 12,
@@ -919,7 +919,7 @@
           "1860"
         ],
         "reponse": "1900",
-        "anecdote": "Bis heute verfügt die U-Bahn von Paris über sechzehn U-Bahnlinien mit einer Gesamtlänge von fast 220 Kilometern."
+        "anecdote": "Bis heute verfugt die U-Bahn von Paris uber sechzehn U-Bahnlinien mit einer Gesamtlänge von fast 220 Kilometern."
       },
       {
         "id": 13,
@@ -955,7 +955,7 @@
           "17. Jahrhundert"
         ],
         "reponse": "19. Jahrhundert",
-        "anecdote": "Der Landeswald ist mit einer Fläche von fast einer Million Hektar der größte künstliche Wald in Westeuropa."
+        "anecdote": "Der Landeswald ist mit einer Fläche von fast einer Million Hektar der größte kunstliche Wald in Westeuropa."
       },
       {
         "id": 16,
@@ -967,7 +967,7 @@
           "Moliere"
         ],
         "reponse": "Moliere",
-        "anecdote": "« The Imaginary Ill » ist ein Comedy-Ballett in drei Akten, das 1673 vertreten wurde und die letzte von Moliere geschriebene Komödie."
+        "anecdote": "\"The Imaginary Ill\" ist ein Comedy-Ballett in drei Akten, das 1673 vertreten wurde und die letzte von Moliere geschriebene Komödie."
       },
       {
         "id": 17,
@@ -979,7 +979,7 @@
           "Wind"
         ],
         "reponse": "Licht",
-        "anecdote": "Der Wert des Messgeräts ist definiert als die Entfernung, die das Licht in einem Vakuum in 1/299, 792, 458 Sekunden zurücklegt."
+        "anecdote": "Der Wert des Messgeräts ist definiert als die Entfernung, die das Licht in einem Vakuum in 1/299, 792, 458 Sekunden zurucklegt."
       },
       {
         "id": 18,
@@ -1015,13 +1015,13 @@
           "Claude Debussy"
         ],
         "reponse": "Claude Debussy",
-        "anecdote": "Ein wichtiger Teil von Claude Debussys Arbeit ist für Klavier und verwendet eine besonders reichhaltige und evokative Klangpalette."
+        "anecdote": "Ein wichtiger Teil von Claude Debussys Arbeit ist fur Klavier und verwendet eine besonders reichhaltige und evokative Klangpalette."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Für welchen Beruf ist die im Norden Italiens gelegene Stadt Cremona berühmt ?",
+        "question": "Fur welchen Beruf ist die im Norden Italiens gelegene Stadt Cremona beruhmt ?",
         "propositions": [
           "Potter",
           "Maler",
@@ -1069,7 +1069,7 @@
       },
       {
         "id": 25,
-        "question": "Wie kann man die republikanische Bezeichnung Albaniens buchstäblich übersetzen ?",
+        "question": "Wie kann man die republikanische Bezeichnung Albaniens buchstäblich ubersetzen ?",
         "propositions": [
           "Land der Lebenden",
           "Pferdeland",
@@ -1093,7 +1093,7 @@
       },
       {
         "id": 27,
-        "question": "Was ist das wohl berühmteste Treffen von Camp David im Jahr 1978 ?",
+        "question": "Was ist das wohl beruhmteste Treffen von Camp David im Jahr 1978 ?",
         "propositions": [
           "Sadate-Begin",
           "Reagan-Thatcher",
@@ -1105,7 +1105,7 @@
       },
       {
         "id": 28,
-        "question": "In welcher Zeitung hat das berühmte « J accuse... ! » von Zola ?",
+        "question": "In welcher Zeitung hat das beruhmte \"J accuse... !\" von Zola ?",
         "propositions": [
           "Menschheit",
           "Aurore",
@@ -1137,7 +1137,7 @@
           "Anatole Frankreich"
         ],
         "reponse": "Auguste Comte",
-        "anecdote": "Auguste Comte war Privatsekretär und später Mitarbeiter des Grafen von Saint-Simon, Gründer der Saint-Simonian-Bewegung."
+        "anecdote": "Auguste Comte war Privatsekretär und später Mitarbeiter des Grafen von Saint-Simon, Grunder der Saint-Simonian-Bewegung."
       }
     ]
     },
@@ -1169,7 +1169,7 @@
       },
       {
         "id": 3,
-        "question": "¿Quien se hizo famoso gracias al « Poinconneur des Lilas » lanzado en 1958 ?",
+        "question": "¿Quien se hizo famoso gracias al \"Poinconneur des Lilas\" lanzado en 1958 ?",
         "propositions": [
           "Serge Gainsbourg",
           "Charles Trenet",
@@ -1267,7 +1267,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "« El tren silbará tres veces » ¿es un americano occidental del cual el director ?",
+        "question": "\"El tren silbará tres veces\" ¿es un americano occidental del cual el director ?",
         "propositions": [
           "George Stevens",
           "John Ford",
@@ -1275,7 +1275,7 @@
           "Vincente Minnelli"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "El álbum de Lucky Luke titulado « Les Dalton a la noce » retoma la historia general y algunos pasajes clave de la película."
+        "anecdote": "El álbum de Lucky Luke titulado \"Les Dalton a la noce\" retoma la historia general y algunos pasajes clave de la película."
       },
       {
         "id": 12,
@@ -1335,7 +1335,7 @@
           "Moliere"
         ],
         "reponse": "Moliere",
-        "anecdote": "« The Imaginary Ill » es una comedia-ballet en tres actos representados en 1673 y la última comedia escrita por Moliere."
+        "anecdote": "\"The Imaginary Ill\" es una comedia-ballet en tres actos representados en 1673 y la última comedia escrita por Moliere."
       },
       {
         "id": 17,
@@ -1473,7 +1473,7 @@
       },
       {
         "id": 28,
-        "question": "¿En que periódico hizo el famoso « J accuse... ! » de Zola ?",
+        "question": "¿En que periódico hizo el famoso \"J accuse... !\" de Zola ?",
         "propositions": [
           "Pravda",
           "Figaro",
@@ -1537,7 +1537,7 @@
       },
       {
         "id": 3,
-        "question": "Chi divenne famoso grazie al « Poinconneur des Lilas » pubblicato nel 1958 ?",
+        "question": "Chi divenne famoso grazie al \"Poinconneur des Lilas\" pubblicato nel 1958 ?",
         "propositions": [
           "Boris Vian",
           "Johnny Hallyday",
@@ -1635,7 +1635,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "« Il treno fischiera tre volte » e un western americano da quale regista ?",
+        "question": "\"Il treno fischiera tre volte\" e un western americano da quale regista ?",
         "propositions": [
           "George Stevens",
           "Vincente Minnelli",
@@ -1643,7 +1643,7 @@
           "Fred Zinnemann"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "L album di Lucky Luke intitolato « Les Dalton a la noce » riprende la trama generale e alcuni passaggi chiave del film."
+        "anecdote": "L album di Lucky Luke intitolato \"Les Dalton a la noce\" riprende la trama generale e alcuni passaggi chiave del film."
       },
       {
         "id": 12,
@@ -1703,7 +1703,7 @@
           "Rabelais"
         ],
         "reponse": "Moliere",
-        "anecdote": "« The Illaginary Ill » e un balletto di commedia in tre atti rappresentati nel 1673 e l ultima commedia scritta da Moliere."
+        "anecdote": "\"The Illaginary Ill\" e un balletto di commedia in tre atti rappresentati nel 1673 e l ultima commedia scritta da Moliere."
       },
       {
         "id": 17,
@@ -1841,7 +1841,7 @@
       },
       {
         "id": 28,
-        "question": "In quale giornale ha fatto il famoso « J accuse... ! » di Zola ?",
+        "question": "In quale giornale ha fatto il famoso \"J accuse... !\" di Zola ?",
         "propositions": [
           "Figaro",
           "Pravda",
@@ -1905,7 +1905,7 @@
       },
       {
         "id": 3,
-        "question": "Wie werd beroemd dankzij de « Poinconneur des Lilas » die in 1958 werd uitgebracht ?",
+        "question": "Wie werd beroemd dankzij de \"Poinconneur des Lilas\" die in 1958 werd uitgebracht ?",
         "propositions": [
           "Charles Trenet",
           "Johnny Hallyday",
@@ -2003,7 +2003,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "« De trein zal drie keer fluiten » is een Amerikaanse western waarvan de regisseur ?",
+        "question": "\"De trein zal drie keer fluiten\" is een Amerikaanse western waarvan de regisseur ?",
         "propositions": [
           "Vincente Minnelli",
           "John Ford",
@@ -2011,7 +2011,7 @@
           "George Stevens"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "Lucky Luke s album met de titel « Les Dalton a la noce » neemt de algemene verhaallijn en enkele belangrijke passages uit de film over."
+        "anecdote": "Lucky Luke s album met de titel \"Les Dalton a la noce\" neemt de algemene verhaallijn en enkele belangrijke passages uit de film over."
       },
       {
         "id": 12,
@@ -2071,7 +2071,7 @@
           "Moliere"
         ],
         "reponse": "Moliere",
-        "anecdote": "« The Imaginary Ill » is een komedie-ballet in drie delen die worden voorgesteld in 1673 en de laatste komedie geschreven door Moliere."
+        "anecdote": "\"The Imaginary Ill\" is een komedie-ballet in drie delen die worden voorgesteld in 1673 en de laatste komedie geschreven door Moliere."
       },
       {
         "id": 17,
@@ -2083,7 +2083,7 @@
           "Water"
         ],
         "reponse": "Licht",
-        "anecdote": "De waarde van de meter wordt gedefinieerd als de afgelegde afstand door het licht in een vacuüm in 1/299, 792, 458 seconden."
+        "anecdote": "De waarde van de meter wordt gedefinieerd als de afgelegde afstand door het licht in een vacuum in 1/299, 792, 458 seconden."
       },
       {
         "id": 18,
@@ -2209,7 +2209,7 @@
       },
       {
         "id": 28,
-        "question": "In welke krant deed de beroemde « J accuse... ! » van Zola ?",
+        "question": "In welke krant deed de beroemde \"J accuse... !\" van Zola ?",
         "propositions": [
           "Pravda",
           "Aurore",

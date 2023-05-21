@@ -49,7 +49,7 @@
           "Daniel Craig"
         ],
         "reponse": "Daniel Craig",
-        "anecdote": "Daniel Craig est le sixieme acteur a interpreter le rôle de James Bond au cinema et a debute dans « Casino Royale »."
+        "anecdote": "Daniel Craig est le sixieme acteur a interpreter le role de James Bond au cinema et a debute dans \"Casino Royale\"."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Ashton Kutcher"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher a un frere jumeau prenomme Michael et une soeur de trois ans son aînee prenommee Tausha."
+        "anecdote": "Ashton Kutcher a un frere jumeau prenomme Michael et une soeur de trois ans son ainee prenommee Tausha."
       },
       {
         "id": 3,
@@ -70,7 +70,7 @@
           "Jean-Luc Delarue",
           "Pascal Brunner",
           "Thierry Gilardi",
-          "Benoît Duquesne"
+          "Benoit Duquesne"
         ],
         "reponse": "Jean-Luc Delarue",
         "anecdote": "Peu de temps apres sa mort, son pere a declare dans la presse qu il n a pas pu assister a l inhumation de son fils."
@@ -101,7 +101,7 @@
       },
       {
         "id": 6,
-        "question": "Quel Christophe a repris en août 2015 la presentation de l emission « Secret Story » ?",
+        "question": "Quel Christophe a repris en août 2015 la presentation de l emission \"Secret Story\" ?",
         "propositions": [
           "Bourdon",
           "Dechavanne",
@@ -109,7 +109,7 @@
           "Wislet"
         ],
         "reponse": "Beaugrand",
-        "anecdote": "Sa vocation serait nee a six ans, lors du tournage de « La Malle a malice », une emission pour les enfants diffusee sur FR3 Lorraine."
+        "anecdote": "Sa vocation serait nee a six ans, lors du tournage de \"La Malle a malice\", une emission pour les enfants diffusee sur FR3 Lorraine."
       },
       {
         "id": 7,
@@ -157,7 +157,7 @@
           "Jamie Foxx"
         ],
         "reponse": "Morgan Freeman",
-        "anecdote": "Habitue aux seconds rôles durant vingt ans, il a recu l Oscar du meilleur acteur dans un second rôle pour « Million Dollar Baby »."
+        "anecdote": "Habitue aux seconds roles durant vingt ans, il a recu l Oscar du meilleur acteur dans un second role pour \"Million Dollar Baby\"."
       }
     ],
     "confirme": [
@@ -171,7 +171,7 @@
           "LeAnn Rimes"
         ],
         "reponse": "Taylor Swift",
-        "anecdote": "En plus de sa carriere musicale, Taylor Swift a fait ses premiers pas d actrice en 2009 dans un episode des « Experts »."
+        "anecdote": "En plus de sa carriere musicale, Taylor Swift a fait ses premiers pas d actrice en 2009 dans un episode des \"Experts\"."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Chris Brown"
         ],
         "reponse": "Justin Bieber",
-        "anecdote": "Avec des millions de fans, appeles les « Beliebers », Justin Bieber est la deuxieme personne la plus suivie sur Twitter."
+        "anecdote": "Avec des millions de fans, appeles les \"Beliebers\", Justin Bieber est la deuxieme personne la plus suivie sur Twitter."
       },
       {
         "id": 13,
@@ -207,7 +207,7 @@
           "Bobby Brown"
         ],
         "reponse": "Chris Brown",
-        "anecdote": "Chris Brown a battu le record detenu par Lady Gaga en rassemblant 18 000 fans lors de son concert pour le « Today Show »."
+        "anecdote": "Chris Brown a battu le record detenu par Lady Gaga en rassemblant 18 000 fans lors de son concert pour le \"Today Show\"."
       },
       {
         "id": 15,
@@ -235,7 +235,7 @@
       },
       {
         "id": 17,
-        "question": "Chez quelle ancienne star de « Beverly Hills » a-t-on diagnostique un cancer du sein ?",
+        "question": "Chez quelle ancienne star de \"Beverly Hills\" a-t-on diagnostique un cancer du sein ?",
         "propositions": [
           "Gabrielle Carteris",
           "Shannen Doherty",
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Quel acteur du film « Into the Wild » a ete envoye derriere les barreaux le 17 août 2015 ?",
+        "question": "Quel acteur du film \"Into the Wild\" a ete envoye derriere les barreaux le 17 août 2015 ?",
         "propositions": [
           "Emile Hirsch",
           "Vince Vaughn",
@@ -255,7 +255,7 @@
           "Brian Dierker"
         ],
         "reponse": "Emile Hirsch",
-        "anecdote": "Le film « Into the Wild » se termine sur un autoportrait de Christopher McCandless pris peu de temps avant sa mort."
+        "anecdote": "Le film \"Into the Wild\" se termine sur un autoportrait de Christopher McCandless pris peu de temps avant sa mort."
       },
       {
         "id": 19,
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quel comedien de la serie « Plus belle la vie » a sillonne la France en chanson en 2016 ?",
+        "question": "Quel comedien de la serie \"Plus belle la vie\" a sillonne la France en chanson en 2016 ?",
         "propositions": [
           "Laurent Kerusore",
           "Serge Dupire",
@@ -317,7 +317,7 @@
           "Rosamund Pike"
         ],
         "reponse": "Kirsten Dunst",
-        "anecdote": "Kirsten Dunst a ete decouverte par le grand public dans « Entretien avec un vampire » (1994) puis en 1995 dans « Jumanji »."
+        "anecdote": "Kirsten Dunst a ete decouverte par le grand public dans \"Entretien avec un vampire\" (1994) puis en 1995 dans \"Jumanji\"."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "Hilary Duff"
         ],
         "reponse": "Vanessa Hudgens",
-        "anecdote": "En septembre 2005, Vanessa Hudgens commence a frequenter secretement son partenaire dans « High School Musical », Zac Efron."
+        "anecdote": "En septembre 2005, Vanessa Hudgens commence a frequenter secretement son partenaire dans \"High School Musical\", Zac Efron."
       },
       {
         "id": 25,
@@ -353,7 +353,7 @@
           "Mathieu Amalric"
         ],
         "reponse": "Mathieu Kassovitz",
-        "anecdote": "Mathieu Kassovitz a ete marie a l actrice Julie Mauduech avec laquelle il a joue dans le film qu il a dirige, « Metisse »."
+        "anecdote": "Mathieu Kassovitz a ete marie a l actrice Julie Mauduech avec laquelle il a joue dans le film qu il a dirige, \"Metisse\"."
       },
       {
         "id": 27,
@@ -365,7 +365,7 @@
           "Raya"
         ],
         "reponse": "Raya",
-        "anecdote": "Raya est une nouvelle application de rencontre privee destinee aux personnes issues des « communautes creatives »."
+        "anecdote": "Raya est une nouvelle application de rencontre privee destinee aux personnes issues des \"communautes creatives\"."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Katia Aveiro"
         ],
         "reponse": "Katia Aveiro",
-        "anecdote": "Un film documentaire intitule « Ronaldo », consacre a la vie du joueur portugais, est sorti en salles le 9 novembre 2015."
+        "anecdote": "Un film documentaire intitule \"Ronaldo\", consacre a la vie du joueur portugais, est sorti en salles le 9 novembre 2015."
       },
       {
         "id": 29,

@@ -61,11 +61,11 @@
           "Joueuse de tennis"
         ],
         "reponse": "Actrice",
-        "anecdote": "C est dans la celebre serie televisee americaine « Suits » que Meghan Markle a interprete Rachel Zane, une assistante juridique."
+        "anecdote": "C est dans la celebre serie televisee americaine \"Suits\" que Meghan Markle a interprete Rachel Zane, une assistante juridique."
       },
       {
         "id": 3,
-        "question": "À l issue de quelle saison Meghan Markle a-t-elle quitte la serie « Suits » ?",
+        "question": "A l issue de quelle saison Meghan Markle a-t-elle quitte la serie \"Suits\" ?",
         "propositions": [
           "Huitieme",
           "Septieme",
@@ -73,7 +73,7 @@
           "Cinquieme"
         ],
         "reponse": "Septieme",
-        "anecdote": "En 2017, a la suite de ses fiancailles avec le Prince Harry, elle quitte la serie « Suits » et prend la decision d interrompre sa carriere d actrice."
+        "anecdote": "En 2017, a la suite de ses fiancailles avec le Prince Harry, elle quitte la serie \"Suits\" et prend la decision d interrompre sa carriere d actrice."
       },
       {
         "id": 4,
@@ -85,11 +85,11 @@
           "Mystery Machine"
         ],
         "reponse": "K 2000",
-        "anecdote": "« Le Retour de K 2000 » (Knight Rider) est une serie televisee americaine creee par David Andron et produite par Doug Liman."
+        "anecdote": "\"Le Retour de K 2000\" (Knight Rider) est une serie televisee americaine creee par David Andron et produite par Doug Liman."
       },
       {
         "id": 5,
-        "question": "De combien d annees Meghan Markle est-elle l aînee de son mari, le prince Harry ?",
+        "question": "De combien d annees Meghan Markle est-elle l ainee de son mari, le prince Harry ?",
         "propositions": [
           "Sept ans",
           "Neuf ans",
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "À qui Meghan Markle a-t-elle ecrit une celebre lettre de reclamation a l age de onze ans ?",
+        "question": "A qui Meghan Markle a-t-elle ecrit une celebre lettre de reclamation a l age de onze ans ?",
         "propositions": [
           "Laura Bush",
           "Michelle Obama",
@@ -167,11 +167,11 @@
         "propositions": [
           "Dr House",
           "Urgence",
-          "Hôpital central",
+          "Hopital central",
           "Chicago Med"
         ],
-        "reponse": "Hôpital central",
-        "anecdote": "Il est a ce jour le premier plus long et ancien feuilleton americain en production devant « Les Feux de l amour » et « Amour, Gloire et Beaute »."
+        "reponse": "Hopital central",
+        "anecdote": "Il est a ce jour le premier plus long et ancien feuilleton americain en production devant \"Les Feux de l amour\" et \"Amour, Gloire et Beaute\"."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Cambodge"
         ],
         "reponse": "Afghanistan",
-        "anecdote": "Ceci dans le cadre de la tournee organisee par l United Service Organizations, presidee par le chef d État-Major des armees US."
+        "anecdote": "Ceci dans le cadre de la tournee organisee par l United Service Organizations, presidee par le chef d Etat-Major des armees US."
       },
       {
         "id": 13,
@@ -219,7 +219,7 @@
           "Cosmopolis"
         ],
         "reponse": "Remember Me",
-        "anecdote": "Malgre d excellentes recettes, les critiques ont ete tres severes, deplorant que le film soit trop semblable a la saga « Twilight »."
+        "anecdote": "Malgre d excellentes recettes, les critiques ont ete tres severes, deplorant que le film soit trop semblable a la saga \"Twilight\"."
       },
       {
         "id": 16,
@@ -235,7 +235,7 @@
       },
       {
         "id": 17,
-        "question": "Dans quel film dramatique britannico-hongrois Meghan Markle a-t-elle joue son dernier rôle ?",
+        "question": "Dans quel film dramatique britannico-hongrois Meghan Markle a-t-elle joue son dernier role ?",
         "propositions": [
           "Extinction",
           "Anti-Social",
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Dans quelle serie des « Experts » Meghan Markle a-t-elle incarne Veronica Perez ?",
+        "question": "Dans quelle serie des \"Experts\" Meghan Markle a-t-elle incarne Veronica Perez ?",
         "propositions": [
           "Manhattan",
           "San Francisco",
@@ -267,7 +267,7 @@
           "Texas"
         ],
         "reponse": "Manhattan",
-        "anecdote": "« Les Experts : Manhattan » ne comportent que quelques scenes exterieures filmees a New York, le reste etant tourne en studio."
+        "anecdote": "\"Les Experts : Manhattan\" ne comportent que quelques scenes exterieures filmees a New York, le reste etant tourne en studio."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Castle"
         ],
         "reponse": "Castle",
-        "anecdote": "Selon le magazine Variety, ABC pourrait bientôt lancer une serie derivee de « Castle », l histoire se centrant sur Derrick Storm."
+        "anecdote": "Selon le magazine Variety, ABC pourrait bientot lancer une serie derivee de \"Castle\", l histoire se centrant sur Derrick Storm."
       }
     ],
     "expert": [
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Pour quelle chaîne de grands magasins Meghan Markle est-elle devenue l egerie ?",
+        "question": "Pour quelle chaine de grands magasins Meghan Markle est-elle devenue l egerie ?",
         "propositions": [
           "Reitmans",
           "Hamleys",
@@ -329,7 +329,7 @@
           "Canada Goose"
         ],
         "reponse": "Reitmans",
-        "anecdote": "Meghan Markle adore magasiner en ligne chez Reitmans, importante chaîne de commerce au detail de mode feminine au Canada."
+        "anecdote": "Meghan Markle adore magasiner en ligne chez Reitmans, importante chaine de commerce au detail de mode feminine au Canada."
       },
       {
         "id": 25,
@@ -374,10 +374,10 @@
           "Charles II",
           "Henri III",
           "Jean sans Terre",
-          "Édouard III"
+          "Edouard III"
         ],
-        "reponse": "Édouard III",
-        "anecdote": "Édouard fut couronne a Westminster (Londres) le 1er fevrier 1327, a l age de 14 ans, en raison de la destitution de son pere Édouard II."
+        "reponse": "Edouard III",
+        "anecdote": "Edouard fut couronne a Westminster (Londres) le 1er fevrier 1327, a l age de 14 ans, en raison de la destitution de son pere Edouard II."
       },
       {
         "id": 29,
@@ -429,11 +429,11 @@
           "Actress"
         ],
         "reponse": "Actress",
-        "anecdote": "It was in the famous American TV series « Suits » that Meghan Markle performed Rachel Zane, a legal assistant."
+        "anecdote": "It was in the famous American TV series \"Suits\" that Meghan Markle performed Rachel Zane, a legal assistant."
       },
       {
         "id": 3,
-        "question": "After what season did Meghan Markle leave the « Suits » series ?",
+        "question": "After what season did Meghan Markle leave the \"Suits\" series ?",
         "propositions": [
           "Seventh",
           "Eight",
@@ -441,7 +441,7 @@
           "Fifth"
         ],
         "reponse": "Seventh",
-        "anecdote": "In 2017, following her engagements with Prince Harry, she left the series « Suits » and made the decision to interrupt her career as an actress."
+        "anecdote": "In 2017, following her engagements with Prince Harry, she left the series \"Suits\" and made the decision to interrupt her career as an actress."
       },
       {
         "id": 4,
@@ -453,7 +453,7 @@
           "Christine"
         ],
         "reponse": "K 2000",
-        "anecdote": "« The Return of K 2000 » (Knight Rider) is an American drama series created by David Andron and produced by Doug Liman."
+        "anecdote": "\"The Return of K 2000\" (Knight Rider) is an American drama series created by David Andron and produced by Doug Liman."
       },
       {
         "id": 5,
@@ -539,7 +539,7 @@
           "Central Hospital"
         ],
         "reponse": "Central Hospital",
-        "anecdote": "It is today the first longest and oldest American soap opera in production in front of « The Fires of Love » and « Love, Glory and Beauty »."
+        "anecdote": "It is today the first longest and oldest American soap opera in production in front of \"The Fires of Love\" and \"Love, Glory and Beauty\"."
       },
       {
         "id": 12,
@@ -587,7 +587,7 @@
           "Bel Ami"
         ],
         "reponse": "Remember Me",
-        "anecdote": "Despite excellent recipes, the critics were very skeptical, complaining that the movie was too similar to the « Twilight » saga."
+        "anecdote": "Despite excellent recipes, the critics were very skeptical, complaining that the movie was too similar to the \"Twilight\" saga."
       },
       {
         "id": 16,
@@ -627,7 +627,7 @@
       },
       {
         "id": 19,
-        "question": "In which series of « Experts » did Meghan Markle play Veronica Perez ?",
+        "question": "In which series of \"Experts\" did Meghan Markle play Veronica Perez ?",
         "propositions": [
           "Miami",
           "Manhattan",
@@ -635,7 +635,7 @@
           "Texas"
         ],
         "reponse": "Manhattan",
-        "anecdote": "« The Experts: Manhattan » only have a few outdoor scenes filmed in New York, the rest being shot in the studio."
+        "anecdote": "\"The Experts: Manhattan\" only have a few outdoor scenes filmed in New York, the rest being shot in the studio."
       },
       {
         "id": 20,
@@ -647,7 +647,7 @@
           "Gossip Girl"
         ],
         "reponse": "Castle",
-        "anecdote": "According to Variety magazine, ABC could soon launch a series of « Castle », the story centering on Derrick Storm."
+        "anecdote": "According to Variety magazine, ABC could soon launch a series of \"Castle\", the story centering on Derrick Storm."
       }
     ],
     "expert": [
@@ -797,23 +797,23 @@
           "Fernsehmoderator"
         ],
         "reponse": "Schauspielerin",
-        "anecdote": "In der berühmten amerikanischen Fernsehserie « Suits » spielte Meghan Markle die Rechtsassistentin Rachel Zane."
+        "anecdote": "In der beruhmten amerikanischen Fernsehserie \"Suits\" spielte Meghan Markle die Rechtsassistentin Rachel Zane."
       },
       {
         "id": 3,
-        "question": "Nach welcher Saison hat Meghan Markle die Serie « Suits » verlassen ?",
+        "question": "Nach welcher Saison hat Meghan Markle die Serie \"Suits\" verlassen ?",
         "propositions": [
           "Acht",
-          "Fünfter",
+          "Funfter",
           "Siebte",
           "Sechste"
         ],
         "reponse": "Siebte",
-        "anecdote": "Nach ihrer Verlobung mit Prince Harry verließ sie 2017 die Serie « Suits » und beschloss, ihre Karriere als Schauspielerin zu unterbrechen."
+        "anecdote": "Nach ihrer Verlobung mit Prince Harry verließ sie 2017 die Serie \"Suits\" und beschloss, ihre Karriere als Schauspielerin zu unterbrechen."
       },
       {
         "id": 4,
-        "question": "Mit welchem berühmten Auto ist Meghan Markle ins Fernsehen gegangen ?",
+        "question": "Mit welchem beruhmten Auto ist Meghan Markle ins Fernsehen gegangen ?",
         "propositions": [
           "Christine",
           "K 2000",
@@ -821,7 +821,7 @@
           "General Lee"
         ],
         "reponse": "K 2000",
-        "anecdote": "« Die Rückkehr von K 2000 » (Knight Rider) ist eine amerikanische Dramaserie, die von David Andron kreiert und von Doug Liman produziert wurde."
+        "anecdote": "\"Die Ruckkehr von K 2000\" (Knight Rider) ist eine amerikanische Dramaserie, die von David Andron kreiert und von Doug Liman produziert wurde."
       },
       {
         "id": 5,
@@ -829,7 +829,7 @@
         "propositions": [
           "Drei Jahre",
           "Neun Jahre",
-          "Fünf Jahre",
+          "Funf Jahre",
           "Sieben Jahre"
         ],
         "reponse": "Drei Jahre",
@@ -837,7 +837,7 @@
       },
       {
         "id": 6,
-        "question": "Wie viele Ehrenkinder haben Meghan Markle bei ihrer fürstlichen Hochzeit begleitet ?",
+        "question": "Wie viele Ehrenkinder haben Meghan Markle bei ihrer furstlichen Hochzeit begleitet ?",
         "propositions": [
           "Zehn",
           "Sechs",
@@ -845,11 +845,11 @@
           "Vier"
         ],
         "reponse": "Zehn",
-        "anecdote": "Meghan Markle hat fünf ausgewählt : ihre beiden Patenkinder Rylan und Remi Ritt und die drei Kinder ihrer besten Freundin Jessica Mulroney."
+        "anecdote": "Meghan Markle hat funf ausgewählt : ihre beiden Patenkinder Rylan und Remi Ritt und die drei Kinder ihrer besten Freundin Jessica Mulroney."
       },
       {
         "id": 7,
-        "question": "Welches Geschäft übt Meghan Markles Mutter heute noch aus ?",
+        "question": "Welches Geschäft ubt Meghan Markles Mutter heute noch aus ?",
         "propositions": [
           "Yogalehrer",
           "Stylist",
@@ -861,7 +861,7 @@
       },
       {
         "id": 8,
-        "question": "Wie viele Gäste waren beim fürstlichen Hochzeitsservice von Meghan Markle anwesend ?",
+        "question": "Wie viele Gäste waren beim furstlichen Hochzeitsservice von Meghan Markle anwesend ?",
         "propositions": [
           "400",
           "600",
@@ -869,11 +869,11 @@
           "500"
         ],
         "reponse": "600",
-        "anecdote": "Die Kleiderordnung schreibt einen Anzug oder Schwanz für Männer, ein Cocktailkleid und einen Hut für Frauen vor."
+        "anecdote": "Die Kleiderordnung schreibt einen Anzug oder Schwanz fur Männer, ein Cocktailkleid und einen Hut fur Frauen vor."
       },
       {
         "id": 9,
-        "question": "Wem hat Meghan Markle im Alter von elf Jahren einen berühmten Beschwerdebrief geschrieben ?",
+        "question": "Wem hat Meghan Markle im Alter von elf Jahren einen beruhmten Beschwerdebrief geschrieben ?",
         "propositions": [
           "Nancy Reagan",
           "Hillary Clinton",
@@ -881,7 +881,7 @@
           "Laura Bush"
         ],
         "reponse": "Hillary Clinton",
-        "anecdote": "Die Präsidentin von Procter And Gamble wird den Text einer nationalen Fernsehwerbung ändern, die sie für zu sexistisch hält."
+        "anecdote": "Die Präsidentin von Procter And Gamble wird den Text einer nationalen Fernsehwerbung ändern, die sie fur zu sexistisch hält."
       },
       {
         "id": 10,
@@ -893,7 +893,7 @@
           "Lacroix"
         ],
         "reponse": "Givenchy",
-        "anecdote": "Sie trug ein niedriges Brötchen, das von einer Diamant-Tiara überragt war, die die Königin aus dem Jahr 1932 an einer Brosche von 1893 gestiftet hatte."
+        "anecdote": "Sie trug ein niedriges Brötchen, das von einer Diamant-Tiara uberragt war, die die Königin aus dem Jahr 1932 an einer Brosche von 1893 gestiftet hatte."
       }
     ],
     "confirme": [
@@ -907,11 +907,11 @@
           "Notfall"
         ],
         "reponse": "Zentralkrankenhaus",
-        "anecdote": "Es ist heute die erste längste und älteste amerikanische Seifenoper in Produktion vor « The Fires of Love » und « Love, Glory and Beauty »."
+        "anecdote": "Es ist heute die erste längste und älteste amerikanische Seifenoper in Produktion vor \"The Fires of Love\" und \"Love, Glory and Beauty\"."
       },
       {
         "id": 12,
-        "question": "In welches Land ist Meghan Markle 2014 gegangen, um US-Truppen zu unterstützen ?",
+        "question": "In welches Land ist Meghan Markle 2014 gegangen, um US-Truppen zu unterstutzen ?",
         "propositions": [
           "Afghanistan",
           "Kambodscha",
@@ -955,7 +955,7 @@
           "Erinnere dich an mich"
         ],
         "reponse": "Erinnere dich an mich",
-        "anecdote": "Trotz hervorragender Rezepte waren die Kritiker sehr skeptisch und beschwerten sich, dass der Film der « Twilight » Saga zu ähnlich sei."
+        "anecdote": "Trotz hervorragender Rezepte waren die Kritiker sehr skeptisch und beschwerten sich, dass der Film der \"Twilight\" Saga zu ähnlich sei."
       },
       {
         "id": 16,
@@ -979,7 +979,7 @@
           "Der Sohn von Saul"
         ],
         "reponse": "unsozial",
-        "anecdote": "In diesem Film werden in der heutigen Stadt London verschiedene Aktionen gegen das gewalttätige Umfeld des Waffenhandels durchgeführt."
+        "anecdote": "In diesem Film werden in der heutigen Stadt London verschiedene Aktionen gegen das gewalttätige Umfeld des Waffenhandels durchgefuhrt."
       },
       {
         "id": 18,
@@ -991,11 +991,11 @@
           "Mimosa"
         ],
         "reponse": "Myosotis",
-        "anecdote": "Am Tag vor der Hochzeit pflückte Prinz Harry selbst im Garten seiner Residenz im Kensington Palace Blumen."
+        "anecdote": "Am Tag vor der Hochzeit pfluckte Prinz Harry selbst im Garten seiner Residenz im Kensington Palace Blumen."
       },
       {
         "id": 19,
-        "question": "In welcher Reihe von « Experten » spielte Meghan Markle Veronica Perez ?",
+        "question": "In welcher Reihe von \"Experten\" spielte Meghan Markle Veronica Perez ?",
         "propositions": [
           "Manhattan",
           "Miami",
@@ -1003,7 +1003,7 @@
           "San Francisco"
         ],
         "reponse": "Manhattan",
-        "anecdote": "« The Experts: Manhattan » hat nur wenige Outdoor-Szenen in New York gedreht, der Rest wird im Studio gedreht."
+        "anecdote": "\"The Experts: Manhattan\" hat nur wenige Outdoor-Szenen in New York gedreht, der Rest wird im Studio gedreht."
       },
       {
         "id": 20,
@@ -1015,7 +1015,7 @@
           "Hässliche Betty"
         ],
         "reponse": "Schloss",
-        "anecdote": "Laut Variety Magazine könnte ABC in Kürze eine Serie von « Castle » herausbringen, die sich auf Derrick Storm konzentriert."
+        "anecdote": "Laut Variety Magazine könnte ABC in Kurze eine Serie von \"Castle\" herausbringen, die sich auf Derrick Storm konzentriert."
       }
     ],
     "expert": [
@@ -1053,11 +1053,11 @@
           "Webdesigner"
         ],
         "reponse": "Kalligraph",
-        "anecdote": "Meghan Markle übte in Teilzeit eine personalisierte Kalligraphie auf Hochzeitseinladungskarten aus."
+        "anecdote": "Meghan Markle ubte in Teilzeit eine personalisierte Kalligraphie auf Hochzeitseinladungskarten aus."
       },
       {
         "id": 24,
-        "question": "Für welche Kaufhauskette ist Meghan Markle zum Werbefranchise geworden ?",
+        "question": "Fur welche Kaufhauskette ist Meghan Markle zum Werbefranchise geworden ?",
         "propositions": [
           "Liberty And Co",
           "Hamleys",
@@ -1065,11 +1065,11 @@
           "Kanadagans"
         ],
         "reponse": "Reitmans",
-        "anecdote": "Meghan Markle kauft gerne online bei Reitmans, Kanadas führender Einzelhandelskette für Damenmode."
+        "anecdote": "Meghan Markle kauft gerne online bei Reitmans, Kanadas fuhrender Einzelhandelskette fur Damenmode."
       },
       {
         "id": 25,
-        "question": "Auf welchem jährlichen Gipfel sprach Meghan Markle über moderne Sklaverei ?",
+        "question": "Auf welchem jährlichen Gipfel sprach Meghan Markle uber moderne Sklaverei ?",
         "propositions": [
           "Fimcap",
           "Gordonia",
@@ -1077,11 +1077,11 @@
           "Nozem"
         ],
         "reponse": "Eine junge Welt",
-        "anecdote": "Die jungen Führungskräfte dieses Gipfels werden nach einem langen Auswahlprozess ausgewählt, der nach ihrem Führungspotential beurteilt wird."
+        "anecdote": "Die jungen Fuhrungskräfte dieses Gipfels werden nach einem langen Auswahlprozess ausgewählt, der nach ihrem Fuhrungspotential beurteilt wird."
       },
       {
         "id": 26,
-        "question": "Welche kanadische Küchenchefin, Meghan Markle, hat sich 2016 getrennt ?",
+        "question": "Welche kanadische Kuchenchefin, Meghan Markle, hat sich 2016 getrennt ?",
         "propositions": [
           "Cory Vitiello",
           "Renaud Cyr",
@@ -1117,7 +1117,7 @@
       },
       {
         "id": 29,
-        "question": "Welche bessere Freundin von Meghan Markle begleitete sie zu ihrer fürstlichen Hochzeit ?",
+        "question": "Welche bessere Freundin von Meghan Markle begleitete sie zu ihrer furstlichen Hochzeit ?",
         "propositions": [
           "Katherine Heigl",
           "Sarah Rafferty",
@@ -1129,7 +1129,7 @@
       },
       {
         "id": 30,
-        "question": "Wie viel kostete das teure Stück, das die Traditionen bei seiner fürstlichen Hochzeit mit Harry durcheinander brachte ?",
+        "question": "Wie viel kostete das teure Stuck, das die Traditionen bei seiner furstlichen Hochzeit mit Harry durcheinander brachte ?",
         "propositions": [
           "57.000 EUR",
           "43.000 EUR",
@@ -1165,11 +1165,11 @@
           "Tenista"
         ],
         "reponse": "Actriz",
-        "anecdote": "Fue en la famosa serie de televisión estadounidense « Suits » que Meghan Markle interpretó a Rachel Zane, una asistente legal."
+        "anecdote": "Fue en la famosa serie de televisión estadounidense \"Suits\" que Meghan Markle interpretó a Rachel Zane, una asistente legal."
       },
       {
         "id": 3,
-        "question": "¿Despues de que temporada dejó Meghan Markle la serie « Suits » ?",
+        "question": "¿Despues de que temporada dejó Meghan Markle la serie \"Suits\" ?",
         "propositions": [
           "Ocho",
           "Quinto",
@@ -1177,7 +1177,7 @@
           "Sexto"
         ],
         "reponse": "Septimo",
-        "anecdote": "En 2017, despues de sus compromisos con el Príncipe Harry, dejó la serie « Suits » y tomó la decisión de interrumpir su carrera como actriz."
+        "anecdote": "En 2017, despues de sus compromisos con el Príncipe Harry, dejó la serie \"Suits\" y tomó la decisión de interrumpir su carrera como actriz."
       },
       {
         "id": 4,
@@ -1189,7 +1189,7 @@
           "Christine"
         ],
         "reponse": "K 2000",
-        "anecdote": "« The Return of K 2000 » (Knight Rider) es una serie dramática estadounidense creada por David Andron y producida por Doug Liman."
+        "anecdote": "\"The Return of K 2000\" (Knight Rider) es una serie dramática estadounidense creada por David Andron y producida por Doug Liman."
       },
       {
         "id": 5,
@@ -1275,7 +1275,7 @@
           "Dr. House"
         ],
         "reponse": "Hospital Central",
-        "anecdote": "Es hoy la primera telenovela estadounidense más larga y antigua en producción frente a « The Fires of Love » y « Love, Glory and Beauty »."
+        "anecdote": "Es hoy la primera telenovela estadounidense más larga y antigua en producción frente a \"The Fires of Love\" y \"Love, Glory and Beauty\"."
       },
       {
         "id": 12,
@@ -1323,7 +1323,7 @@
           "Cosmópolis"
         ],
         "reponse": "Recordarme",
-        "anecdote": "A pesar de las excelentes recetas, los críticos se mostraron muy escepticos y se quejaron de que la película era demasiado similar a la saga « Twilight »."
+        "anecdote": "A pesar de las excelentes recetas, los críticos se mostraron muy escepticos y se quejaron de que la película era demasiado similar a la saga \"Twilight\"."
       },
       {
         "id": 16,
@@ -1363,7 +1363,7 @@
       },
       {
         "id": 19,
-        "question": "¿En que serie de « Expertos » interpretó Meghan Markle a Veronica Perez ?",
+        "question": "¿En que serie de \"Expertos\" interpretó Meghan Markle a Veronica Perez ?",
         "propositions": [
           "San Francisco",
           "Texas",
@@ -1371,7 +1371,7 @@
           "Manhattan"
         ],
         "reponse": "Manhattan",
-        "anecdote": "« Los expertos: Manhattan » solo tienen algunas escenas al aire libre filmadas en Nueva York, el resto se filma en el estudio."
+        "anecdote": "\"Los expertos: Manhattan\" solo tienen algunas escenas al aire libre filmadas en Nueva York, el resto se filma en el estudio."
       },
       {
         "id": 20,
@@ -1383,7 +1383,7 @@
           "Gossip Girl"
         ],
         "reponse": "Castillo",
-        "anecdote": "Según la revista Variety, ABC pronto podría lanzar una serie de « Castle », la historia centrada en Derrick Storm."
+        "anecdote": "Según la revista Variety, ABC pronto podría lanzar una serie de \"Castle\", la historia centrada en Derrick Storm."
       }
     ],
     "expert": [
@@ -1533,11 +1533,11 @@
           "Avvocato"
         ],
         "reponse": "Attrice",
-        "anecdote": "Fu nella famosa serie TV americana « Suits » che Meghan Markle interpretò Rachel Zane, un assistente legale."
+        "anecdote": "Fu nella famosa serie TV americana \"Suits\" che Meghan Markle interpretò Rachel Zane, un assistente legale."
       },
       {
         "id": 3,
-        "question": "Dopo quale stagione Meghan Markle ha lasciato la serie « Suits » ?",
+        "question": "Dopo quale stagione Meghan Markle ha lasciato la serie \"Suits\" ?",
         "propositions": [
           "Quinto",
           "Settimo",
@@ -1545,7 +1545,7 @@
           "Otto"
         ],
         "reponse": "Settimo",
-        "anecdote": "Nel 2017, in seguito ai suoi impegni con il principe Harry, ha lasciato la serie « Suits » e ha preso la decisione di interrompere la sua carriera di attrice."
+        "anecdote": "Nel 2017, in seguito ai suoi impegni con il principe Harry, ha lasciato la serie \"Suits\" e ha preso la decisione di interrompere la sua carriera di attrice."
       },
       {
         "id": 4,
@@ -1557,7 +1557,7 @@
           "K 2000"
         ],
         "reponse": "K 2000",
-        "anecdote": "« The Return of K 2000 » (Knight Rider) e una serie drammatica americana creata da David Andron e prodotta da Doug Liman."
+        "anecdote": "\"The Return of K 2000\" (Knight Rider) e una serie drammatica americana creata da David Andron e prodotta da Doug Liman."
       },
       {
         "id": 5,
@@ -1643,7 +1643,7 @@
           "Chicago Med"
         ],
         "reponse": "Ospedale centrale",
-        "anecdote": "Oggi e la prima soap opera americana piu lunga e piu antica in produzione di fronte a « The Fires of Love » e « Love, Glory and Beauty »."
+        "anecdote": "Oggi e la prima soap opera americana piu lunga e piu antica in produzione di fronte a \"The Fires of Love\" e \"Love, Glory and Beauty\"."
       },
       {
         "id": 12,
@@ -1691,7 +1691,7 @@
           "Bel Ami"
         ],
         "reponse": "Ricordami",
-        "anecdote": "Nonostante le eccellenti ricette, i critici erano molto scettici, lamentandosi del fatto che il film fosse troppo simile alla saga di « Twilight »."
+        "anecdote": "Nonostante le eccellenti ricette, i critici erano molto scettici, lamentandosi del fatto che il film fosse troppo simile alla saga di \"Twilight\"."
       },
       {
         "id": 16,
@@ -1731,7 +1731,7 @@
       },
       {
         "id": 19,
-        "question": "In quale serie di « esperti » Meghan Markle ha interpretato Veronica Perez ?",
+        "question": "In quale serie di \"esperti\" Meghan Markle ha interpretato Veronica Perez ?",
         "propositions": [
           "Manhattan",
           "Texas",
@@ -1739,7 +1739,7 @@
           "Miami"
         ],
         "reponse": "Manhattan",
-        "anecdote": "« Gli esperti: Manhattan » hanno solo alcune scene all aperto girate a New York, il resto e girato in studio."
+        "anecdote": "\"Gli esperti: Manhattan\" hanno solo alcune scene all aperto girate a New York, il resto e girato in studio."
       },
       {
         "id": 20,
@@ -1751,7 +1751,7 @@
           "Ugly Betty"
         ],
         "reponse": "Castello",
-        "anecdote": "Secondo la rivista Variety, ABC potrebbe presto lanciare una serie di « Castle », la trama incentrata su Derrick Storm."
+        "anecdote": "Secondo la rivista Variety, ABC potrebbe presto lanciare una serie di \"Castle\", la trama incentrata su Derrick Storm."
       }
     ],
     "expert": [
@@ -1901,11 +1901,11 @@
           "Advocaat"
         ],
         "reponse": "Actrice",
-        "anecdote": "Het was in de beroemde Amerikaanse tv-serie « Suits » dat Meghan Markle Rachel Zane, een juridisch assistent, uitvoerde."
+        "anecdote": "Het was in de beroemde Amerikaanse tv-serie \"Suits\" dat Meghan Markle Rachel Zane, een juridisch assistent, uitvoerde."
       },
       {
         "id": 3,
-        "question": "Na welk seizoen verliet Meghan Markle de serie « Suits » ?",
+        "question": "Na welk seizoen verliet Meghan Markle de serie \"Suits\" ?",
         "propositions": [
           "Zevende",
           "Acht",
@@ -1913,7 +1913,7 @@
           "Vijfde"
         ],
         "reponse": "Zevende",
-        "anecdote": "In 2017, na haar verlovingen met Prins Harry, verliet ze de serie « Suits » en nam ze de beslissing om haar carriere als actrice te onderbreken."
+        "anecdote": "In 2017, na haar verlovingen met Prins Harry, verliet ze de serie \"Suits\" en nam ze de beslissing om haar carriere als actrice te onderbreken."
       },
       {
         "id": 4,
@@ -1925,7 +1925,7 @@
           "Christine"
         ],
         "reponse": "K 2000",
-        "anecdote": "« The Return of K 2000 » (Knight Rider) is een Amerikaanse dramaserie gemaakt door David Andron en geproduceerd door Doug Liman."
+        "anecdote": "\"The Return of K 2000\" (Knight Rider) is een Amerikaanse dramaserie gemaakt door David Andron en geproduceerd door Doug Liman."
       },
       {
         "id": 5,
@@ -2011,7 +2011,7 @@
           "Centraal ziekenhuis"
         ],
         "reponse": "Centraal ziekenhuis",
-        "anecdote": "Het is vandaag de eerste langste en oudste Amerikaanse soapserie in productie voor « The Fires of Love » en « Love, Glory and Beauty »."
+        "anecdote": "Het is vandaag de eerste langste en oudste Amerikaanse soapserie in productie voor \"The Fires of Love\" en \"Love, Glory and Beauty\"."
       },
       {
         "id": 12,
@@ -2059,7 +2059,7 @@
           "De Rover"
         ],
         "reponse": "Onthoud mij",
-        "anecdote": "Ondanks uitstekende recepten, waren de critici erg sceptisch en klaagden ze dat de film te veel leek op de « Twilight » saga."
+        "anecdote": "Ondanks uitstekende recepten, waren de critici erg sceptisch en klaagden ze dat de film te veel leek op de \"Twilight\" saga."
       },
       {
         "id": 16,
@@ -2099,7 +2099,7 @@
       },
       {
         "id": 19,
-        "question": "In welke serie van « Experts » speelde Meghan Markle Veronica Perez ?",
+        "question": "In welke serie van \"Experts\" speelde Meghan Markle Veronica Perez ?",
         "propositions": [
           "Manhattan",
           "Texas",
@@ -2107,7 +2107,7 @@
           "Miami"
         ],
         "reponse": "Manhattan",
-        "anecdote": "« The Experts: Manhattan » hebben slechts een paar scenes buitenshuis gefilmd in New York, de rest wordt opgenomen in de studio."
+        "anecdote": "\"The Experts: Manhattan\" hebben slechts een paar scenes buitenshuis gefilmd in New York, de rest wordt opgenomen in de studio."
       },
       {
         "id": 20,
@@ -2119,7 +2119,7 @@
           "Helden"
         ],
         "reponse": "Kasteel",
-        "anecdote": "Volgens het tijdschrift Variety zou ABC binnenkort een serie « Castle » kunnen lanceren, het verhaal rond Derrick Storm."
+        "anecdote": "Volgens het tijdschrift Variety zou ABC binnenkort een serie \"Castle\" kunnen lanceren, het verhaal rond Derrick Storm."
       }
     ],
     "expert": [

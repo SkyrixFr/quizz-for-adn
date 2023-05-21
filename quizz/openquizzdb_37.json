@@ -18,7 +18,7 @@
     "es": {
       "categorie": "Ciencias de la Computación",
       "nom": "Linux",
-      "slogan": "No, no es un pingüino"
+      "slogan": "No, no es un pinguino"
     },
     "it": {
       "categorie": "Informatica",
@@ -61,7 +61,7 @@
           "Il est beau"
         ],
         "reponse": "Il est libre",
-        "anecdote": "« Linux » est le nom couramment donne a tout systeme d exploitation libre fonctionnant avec le noyau Linux."
+        "anecdote": "\"Linux\" est le nom couramment donne a tout systeme d exploitation libre fonctionnant avec le noyau Linux."
       },
       {
         "id": 3,
@@ -183,7 +183,7 @@
           "Gentoo"
         ],
         "reponse": "Ubuntu",
-        "anecdote": "Le nom de la distribution provient d un ancien mot bantou qui signifie « Je suis ce que je suis grace a ce que nous sommes tous »."
+        "anecdote": "Le nom de la distribution provient d un ancien mot bantou qui signifie \"Je suis ce que je suis grace a ce que nous sommes tous\"."
       },
       {
         "id": 13,
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Quel environnement graphique de type « fenetre » est utilise sous Linux ?",
+        "question": "Quel environnement graphique de type \"fenetre\" est utilise sous Linux ?",
         "propositions": [
           "Z Window",
           "X Window",
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quel lecteur multimedia ressemblant a « Winamp » est souvent utilise sous Linux ?",
+        "question": "Quel lecteur multimedia ressemblant a \"Winamp\" est souvent utilise sous Linux ?",
         "propositions": [
           "XMMS",
           "Mplayer",
@@ -305,7 +305,7 @@
           "Tomahawk"
         ],
         "reponse": "XMMS",
-        "anecdote": "XMMS fut code sous le nom de « X11Amp » par Peter et Mikal Alm en novembre 1997, pour combler un manque sous GNU/Linux."
+        "anecdote": "XMMS fut code sous le nom de \"X11Amp\" par Peter et Mikal Alm en novembre 1997, pour combler un manque sous GNU/Linux."
       },
       {
         "id": 23,
@@ -345,7 +345,7 @@
       },
       {
         "id": 26,
-        "question": "À ce jour, quel pays utilise le plus regulierement GNU/Linux comme systeme pour ses bureaux ?",
+        "question": "A ce jour, quel pays utilise le plus regulierement GNU/Linux comme systeme pour ses bureaux ?",
         "propositions": [
           "Kenya",
           "Venezuela",
@@ -365,7 +365,7 @@
           "Larry Ewing"
         ],
         "reponse": "Larry Ewing",
-        "anecdote": "Programmeur americain, Larry Ewing a realise la mascotte Tux avec l aide du logiciel libre « The GIMP »."
+        "anecdote": "Programmeur americain, Larry Ewing a realise la mascotte Tux avec l aide du logiciel libre \"The GIMP\"."
       },
       {
         "id": 28,
@@ -389,7 +389,7 @@
           "Game Gear"
         ],
         "reponse": "Pandora",
-        "anecdote": "La Pandora etait capable a sa sortie de lancer « Quake », « Quake II » et « Quake III » Arena sans ralentissement."
+        "anecdote": "La Pandora etait capable a sa sortie de lancer \"Quake\", \"Quake II\" et \"Quake III\" Arena sans ralentissement."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Freax"
         ],
         "reponse": "Freax",
-        "anecdote": "Le projet Freax trouve son nom definitif grace a Ari Lemmke qui heberge le travail de Linus Torvalds dans un repertoire nomme « Linux »."
+        "anecdote": "Le projet Freax trouve son nom definitif grace a Ari Lemmke qui heberge le travail de Linus Torvalds dans un repertoire nomme \"Linux\"."
       }
     ]
     }

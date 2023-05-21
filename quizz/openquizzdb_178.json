@@ -46,10 +46,10 @@
           "Lefa",
           "Barack Adama",
           "Black M",
-          "Maître Gims"
+          "Maitre Gims"
         ],
-        "reponse": "Maître Gims",
-        "anecdote": "Pres de Michael Jackson et Madonna, Maître Gims etait ravi de voir son double : un evenement merite selon son amie Vitaa."
+        "reponse": "Maitre Gims",
+        "anecdote": "Pres de Michael Jackson et Madonna, Maitre Gims etait ravi de voir son double : un evenement merite selon son amie Vitaa."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Elisabeth Moss"
         ],
         "reponse": "Amber Heard",
-        "anecdote": "Amber Heard aurait rencontre la doublure de Dwayne Johnson sur les plateaux du film « Aquaman »."
+        "anecdote": "Amber Heard aurait rencontre la doublure de Dwayne Johnson sur les plateaux du film \"Aquaman\"."
       },
       {
         "id": 3,
@@ -85,7 +85,7 @@
           "Stefan Edberg"
         ],
         "reponse": "Novak Djokovic",
-        "anecdote": "« L argent n est pas un probleme pour moi. J ai gagne assez d argent pour pouvoir nourrir toute la Serbie. »"
+        "anecdote": "\"L argent n est pas un probleme pour moi. J ai gagne assez d argent pour pouvoir nourrir toute la Serbie.\""
       },
       {
         "id": 5,
@@ -109,7 +109,7 @@
           "Danielle Darrieux"
         ],
         "reponse": "Danielle Darrieux",
-        "anecdote": "Depuis « Le Bal », l iconique actrice a eu une carriere aussi longue que prolifique : pas moins de 80 ans dans le cinema."
+        "anecdote": "Depuis \"Le Bal\", l iconique actrice a eu une carriere aussi longue que prolifique : pas moins de 80 ans dans le cinema."
       },
       {
         "id": 7,
@@ -121,11 +121,11 @@
           "Clara Furse"
         ],
         "reponse": "Monica Lewinsky",
-        "anecdote": "L « affaire Lewinsky » ou le « Monicagate » a connu une mediatisation exceptionnelle, tant aux États-Unis qu a l etranger."
+        "anecdote": "L \"affaire Lewinsky\" ou le \"Monicagate\" a connu une mediatisation exceptionnelle, tant aux Etats-Unis qu a l etranger."
       },
       {
         "id": 8,
-        "question": "Quelle ancienne ministre de l Éducation nationale a fete ses 40 ans en 2017 ?",
+        "question": "Quelle ancienne ministre de l Education nationale a fete ses 40 ans en 2017 ?",
         "propositions": [
           "Najat Belkacem",
           "Marylise Lebranchu",
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "Quelle actrice s est tres affine pour « Les nouvelles aventures de Cendrillon » ?",
+        "question": "Quelle actrice s est tres affine pour \"Les nouvelles aventures de Cendrillon\" ?",
         "propositions": [
           "Fanny Valette",
           "Rachida Brakni",
@@ -145,7 +145,7 @@
           "Audrey Tautou"
         ],
         "reponse": "Marilou Berry",
-        "anecdote": "« Je voulais une Cendrillon chetive, et en tout cas tres plate, puisqu il y a toute une blague autour de sa poitrine dans le film. »"
+        "anecdote": "\"Je voulais une Cendrillon chetive, et en tout cas tres plate, puisqu il y a toute une blague autour de sa poitrine dans le film.\""
       },
       {
         "id": 10,
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Qui est devenu en quelques jours l acquitte le plus celebre des États-Unis ?",
+        "question": "Qui est devenu en quelques jours l acquitte le plus celebre des Etats-Unis ?",
         "propositions": [
           "O.J.Simpson",
           "Martin Goldstein",
@@ -171,7 +171,7 @@
           "Frank Morris"
         ],
         "reponse": "O.J.Simpson",
-        "anecdote": "Libere apres 9 ans, « The Juice » avait ete condamne a trente-trois ans de prison pour un vol a main armee, commis en 2007."
+        "anecdote": "Libere apres 9 ans, \"The Juice\" avait ete condamne a trente-trois ans de prison pour un vol a main armee, commis en 2007."
       },
       {
         "id": 12,
@@ -199,7 +199,7 @@
       },
       {
         "id": 14,
-        "question": "Quelle ex-animatrice des « Maternelles » presente la saison 6 du Meilleur Patissier ?",
+        "question": "Quelle ex-animatrice des \"Maternelles\" presente la saison 6 du Meilleur Patissier ?",
         "propositions": [
           "Julia Vignali",
           "Louise Bourgoin",
@@ -207,7 +207,7 @@
           "Alexandra Kazan"
         ],
         "reponse": "Julia Vignali",
-        "anecdote": "« Je n ai pas eu envie de scanner ce que faisait Faustine Bollaert car j avais deja une idee de son energie et de son ton. »"
+        "anecdote": "\"Je n ai pas eu envie de scanner ce que faisait Faustine Bollaert car j avais deja une idee de son energie et de son ton.\""
       },
       {
         "id": 15,
@@ -223,7 +223,7 @@
       },
       {
         "id": 16,
-        "question": "Qui est devenue une celebrite mondiale en obtenant le rôle de Rey dans « Star Wars » ?",
+        "question": "Qui est devenue une celebrite mondiale en obtenant le role de Rey dans \"Star Wars\" ?",
         "propositions": [
           "Daisy Ridley",
           "Felicity Kendal",
@@ -243,7 +243,7 @@
           "Roland Mesnier"
         ],
         "reponse": "Cedric Grolet",
-        "anecdote": "Il avait deja ete sacre en 2015 par le maga­zine Le Chef et « chef patis­sier de l annee 2016 » par l as­so­cia­tion des Relais Desserts."
+        "anecdote": "Il avait deja ete sacre en 2015 par le maga­zine Le Chef et \"chef patis­sier de l annee 2016\" par l as­so­cia­tion des Relais Desserts."
       },
       {
         "id": 18,
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Quelle jeune actrice cubaine est l heroïne de « Blade Runner 2049 » ?",
+        "question": "Quelle jeune actrice cubaine est l heroïne de \"Blade Runner 2049\" ?",
         "propositions": [
           "Maria Bravo",
           "Vanessa Otero",
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Qui a repris les rennes de l emission « Thalassa » sur France3 ?",
+        "question": "Qui a repris les rennes de l emission \"Thalassa\" sur France3 ?",
         "propositions": [
           "Fanny Agostini",
           "Karine Ferri",
@@ -279,7 +279,7 @@
           "Myriam Seurat"
         ],
         "reponse": "Fanny Agostini",
-        "anecdote": "Aux elections municipales de 2014, Fanny Agostini fut candidate a La Bourboule sur la liste du maire sortant, Éric Brut."
+        "anecdote": "Aux elections municipales de 2014, Fanny Agostini fut candidate a La Bourboule sur la liste du maire sortant, Eric Brut."
       }
     ],
     "expert": [
@@ -293,11 +293,11 @@
           "Louis Vuitton"
         ],
         "reponse": "Herve Leger",
-        "anecdote": "La creation parisienne perd une icône, devenue celebre grace aux robes bandage de sa marque de vetements."
+        "anecdote": "La creation parisienne perd une icone, devenue celebre grace aux robes bandage de sa marque de vetements."
       },
       {
         "id": 22,
-        "question": "Quel gagnant du « Jardin prefere des Francais » a ete mis en examen en 2017 ?",
+        "question": "Quel gagnant du \"Jardin prefere des Francais\" a ete mis en examen en 2017 ?",
         "propositions": [
           "Jacques Lubet",
           "Jean Beaucarnot",
@@ -305,7 +305,7 @@
           "Daniel Malgouyres"
         ],
         "reponse": "Daniel Malgouyres",
-        "anecdote": "Le laureat du programme de France 2 a ete laisse en liberte sous contrôle judiciaire, conformement aux requisitions du parquet."
+        "anecdote": "Le laureat du programme de France 2 a ete laisse en liberte sous controle judiciaire, conformement aux requisitions du parquet."
       },
       {
         "id": 23,
@@ -365,11 +365,11 @@
           "Marina Venache"
         ],
         "reponse": "Magalie Vae",
-        "anecdote": "Apres la musique, Magalie Vae s est lancee dans la comedie en campant un rôle dans la serie musicale « Dreams : 1 Reve 2 Vies »."
+        "anecdote": "Apres la musique, Magalie Vae s est lancee dans la comedie en campant un role dans la serie musicale \"Dreams : 1 Reve 2 Vies\"."
       },
       {
         "id": 28,
-        "question": "Quelle vedette de tele-realite a devoile sa premiere fragrance baptisee « Glamoureuse » ?",
+        "question": "Quelle vedette de tele-realite a devoile sa premiere fragrance baptisee \"Glamoureuse\" ?",
         "propositions": [
           "Aurelie Dotremont",
           "Ines Lee",
@@ -389,7 +389,7 @@
           "Alida Kurras"
         ],
         "reponse": "Natalie Zettel",
-        "anecdote": "Kylie Jenner est du côte de sa mere la demi-soeur des illustres Kim Kardashian West, Kourtney Kardashian et Khloe Kardashian."
+        "anecdote": "Kylie Jenner est du cote de sa mere la demi-soeur des illustres Kim Kardashian West, Kourtney Kardashian et Khloe Kardashian."
       },
       {
         "id": 30,

@@ -97,13 +97,13 @@
           "Amel Bent"
         ],
         "reponse": "Shy m",
-        "anecdote": "Il s agit d une inscription : les mots « Je t aime », savamment places et visiblement destines a sa moitie, Benoît Paire."
+        "anecdote": "Il s agit d une inscription : les mots \"Je t aime\", savamment places et visiblement destines a sa moitie, Benoit Paire."
       },
       {
         "id": 6,
         "question": "Qui a remplace William Leymergie a la tete de la presentation de l emission Telematin ?",
         "propositions": [
-          "Samuel Étienne",
+          "Samuel Etienne",
           "Laurent Bignolas",
           "Louis Laforge",
           "Stephane Lippert"
@@ -133,11 +133,11 @@
           "Louis Chedid"
         ],
         "reponse": "Francis Cabrel",
-        "anecdote": "Cette decision sera un evenement pour Spotify, Apple Music et Deezer et une veritable revolution pour l auteur de « Petite Marie »."
+        "anecdote": "Cette decision sera un evenement pour Spotify, Apple Music et Deezer et une veritable revolution pour l auteur de \"Petite Marie\"."
       },
       {
         "id": 9,
-        "question": "Quelle star de la serie televisee « Game of Thrones », nee brune, est passe au blond ?",
+        "question": "Quelle star de la serie televisee \"Game of Thrones\", nee brune, est passe au blond ?",
         "propositions": [
           "Emilia Clarke",
           "Lena Headey",
@@ -171,7 +171,7 @@
           "Stephane Collaro"
         ],
         "reponse": "Stephane Collaro",
-        "anecdote": "L ancien animateur Stephane Collaro possedait en effet une somptueuse villa ainsi que quelques hôtels sur l île Saint-Martin."
+        "anecdote": "L ancien animateur Stephane Collaro possedait en effet une somptueuse villa ainsi que quelques hotels sur l ile Saint-Martin."
       },
       {
         "id": 12,
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quel vainqueur de The Voice a sorti un album baptise « Ma bonne etoile » ?",
+        "question": "Quel vainqueur de The Voice a sorti un album baptise \"Ma bonne etoile\" ?",
         "propositions": [
           "Yoann Freget",
           "Lisandro Cuxi",
@@ -195,7 +195,7 @@
           "Slimane"
         ],
         "reponse": "Lisandro Cuxi",
-        "anecdote": "À 18 ans, Lisandro Cuxi a remporte la sixieme saison de The Voice et poursuit desormais sa carriere depuis sa victoire sur TF1."
+        "anecdote": "A 18 ans, Lisandro Cuxi a remporte la sixieme saison de The Voice et poursuit desormais sa carriere depuis sa victoire sur TF1."
       },
       {
         "id": 14,
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Quelle actrice de la serie « Grey s Anatomy » a ete operee d une tumeur au cerveau ?",
+        "question": "Quelle actrice de la serie \"Grey s Anatomy\" a ete operee d une tumeur au cerveau ?",
         "propositions": [
           "Chandra Wilson",
           "Ellen Pompeo",
@@ -267,7 +267,7 @@
           "Alexander Rybak"
         ],
         "reponse": "Salvador Sobral",
-        "anecdote": "En mai 2017, le Portugais de 27 ans avait rafle le trophee de l Eurovision avec le morceau melancolique « Amar Pelos Dois »."
+        "anecdote": "En mai 2017, le Portugais de 27 ans avait rafle le trophee de l Eurovision avec le morceau melancolique \"Amar Pelos Dois\"."
       },
       {
         "id": 20,
@@ -293,11 +293,11 @@
           "Hayden Panettiere"
         ],
         "reponse": "Francia Raisa",
-        "anecdote": "Francia Raisa a accepte de sacrifier l un de ses organes : « un cadeau ultime offert par une soeur » a-t-elle declare."
+        "anecdote": "Francia Raisa a accepte de sacrifier l un de ses organes : \"un cadeau ultime offert par une soeur\" a-t-elle declare."
       },
       {
         "id": 22,
-        "question": "En 2017, qui a ete elimine apres 138 victoires de « Tout le monde veut prendre sa place » ?",
+        "question": "En 2017, qui a ete elimine apres 138 victoires de \"Tout le monde veut prendre sa place\" ?",
         "propositions": [
           "Julien Sorbon",
           "Dominique Breard",
@@ -329,7 +329,7 @@
           "Claude Challe"
         ],
         "reponse": "Laurent Garnier",
-        "anecdote": "À 51, Laurent Garnier est l un des DJ s et musiciens qui a grandement participe a la popularisation de la techno en France."
+        "anecdote": "A 51, Laurent Garnier est l un des DJ s et musiciens qui a grandement participe a la popularisation de la techno en France."
       },
       {
         "id": 25,
@@ -377,7 +377,7 @@
           "Lemar"
         ],
         "reponse": "K. Maro",
-        "anecdote": "Pour son come-back, l artiste se reinvente, change de nom et propose un projet melant images et musique avec « Mary »."
+        "anecdote": "Pour son come-back, l artiste se reinvente, change de nom et propose un projet melant images et musique avec \"Mary\"."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Les souris"
         ],
         "reponse": "Les souris",
-        "anecdote": "« Je deteste les souris. Je me suis fait mordre dans la nuque par une souris quand j etais petit, depuis j en ai tres peur ! »"
+        "anecdote": "\"Je deteste les souris. Je me suis fait mordre dans la nuque par une souris quand j etais petit, depuis j en ai tres peur !\""
       },
       {
         "id": 30,
@@ -465,7 +465,7 @@
           "Amel Bent"
         ],
         "reponse": "Shy m",
-        "anecdote": "It is an inscription : the words « I love you », cleverly placed and visibly intended for his half, Benoît Paire."
+        "anecdote": "It is an inscription : the words \"I love you\", cleverly placed and visibly intended for his half, Benoit Paire."
       },
       {
         "id": 6,
@@ -474,7 +474,7 @@
           "Stephane Lippert",
           "Laurent Bignolas",
           "Louis Laforge",
-          "Samuel Étienne"
+          "Samuel Etienne"
         ],
         "reponse": "Laurent Bignolas",
         "anecdote": "Now in command of the France 2 morning show, the journalist had to be accepted by the team already in place."
@@ -501,11 +501,11 @@
           "Louis Chedid"
         ],
         "reponse": "Francis Cabrel",
-        "anecdote": "This decision will be an event for Spotify, Apple Music and Deezer and a real revolution for the author of « Petite Marie »."
+        "anecdote": "This decision will be an event for Spotify, Apple Music and Deezer and a real revolution for the author of \"Petite Marie\"."
       },
       {
         "id": 9,
-        "question": "Which star of the TV series « Game of Thrones », born brunette, went blonde ?",
+        "question": "Which star of the TV series \"Game of Thrones\", born brunette, went blonde ?",
         "propositions": [
           "Emilia Clarke",
           "Sophie Turner",
@@ -555,7 +555,7 @@
       },
       {
         "id": 13,
-        "question": "Which winner of The Voice released an album called « Ma bonne etoile » ?",
+        "question": "Which winner of The Voice released an album called \"Ma bonne etoile\" ?",
         "propositions": [
           "Yoann Freget",
           "Lilian Renaud",
@@ -615,7 +615,7 @@
       },
       {
         "id": 18,
-        "question": "Which actress in the « Grey s Anatomy » series has had a brain tumor ?",
+        "question": "Which actress in the \"Grey s Anatomy\" series has had a brain tumor ?",
         "propositions": [
           "Jessica Capshaw",
           "Ellen Pompeo",
@@ -635,7 +635,7 @@
           "Dima Bilan"
         ],
         "reponse": "Salvador Sobral",
-        "anecdote": "In May 2017, the 27-year-old Portuguese won the Eurovision trophy with the melancholy piece « Amar Pelos Dois »."
+        "anecdote": "In May 2017, the 27-year-old Portuguese won the Eurovision trophy with the melancholy piece \"Amar Pelos Dois\"."
       },
       {
         "id": 20,
@@ -661,11 +661,11 @@
           "Hayden Panettiere"
         ],
         "reponse": "Francia Raisa",
-        "anecdote": "Francia Raisa has agreed to sacrifice one of her organs : « an ultimate gift from a sister » she said."
+        "anecdote": "Francia Raisa has agreed to sacrifice one of her organs : \"an ultimate gift from a sister\" she said."
       },
       {
         "id": 22,
-        "question": "In 2017, who was eliminated after 138 victories of « Everyone wants to take their place » ?",
+        "question": "In 2017, who was eliminated after 138 victories of \"Everyone wants to take their place\" ?",
         "propositions": [
           "Dominique Breard",
           "Enzo Diliberto",
@@ -745,7 +745,7 @@
           "K. Maro"
         ],
         "reponse": "K. Maro",
-        "anecdote": "For his comeback, the artist reinvents himself, changes his name and offers a project mixing images and music with « Mary »."
+        "anecdote": "For his comeback, the artist reinvents himself, changes his name and offers a project mixing images and music with \"Mary\"."
       },
       {
         "id": 29,
@@ -757,7 +757,7 @@
           "Turtles"
         ],
         "reponse": "Mice",
-        "anecdote": "« I hate mice. I was bitten in the neck by a mouse when I was little, since I am very afraid of it ! »"
+        "anecdote": "\"I hate mice. I was bitten in the neck by a mouse when I was little, since I am very afraid of it !\""
       },
       {
         "id": 30,
@@ -777,7 +777,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Welcher Schutz des Rapper Lil Wayne ist unter anderem für seine Haarfollies bekannt ?",
+        "question": "Welcher Schutz des Rapper Lil Wayne ist unter anderem fur seine Haarfollies bekannt ?",
         "propositions": [
           "Amber Rose",
           "Lil  Kim",
@@ -785,7 +785,7 @@
           "Nicki Minaj"
         ],
         "reponse": "Nicki Minaj",
-        "anecdote": "Auf den roten Teppichen verewigten die Fotografen Nicki Minaj mit unwahrscheinlichen Frisuren, darunter sein berühmtes Sauerkraut."
+        "anecdote": "Auf den roten Teppichen verewigten die Fotografen Nicki Minaj mit unwahrscheinlichen Frisuren, darunter sein beruhmtes Sauerkraut."
       },
       {
         "id": 2,
@@ -801,7 +801,7 @@
       },
       {
         "id": 3,
-        "question": "Wer gab zu, viermal am Tag wegen der Müdigkeit ihrer Zwillinge geweint zu haben ?",
+        "question": "Wer gab zu, viermal am Tag wegen der Mudigkeit ihrer Zwillinge geweint zu haben ?",
         "propositions": [
           "Tim Robbins",
           "Javier Bardem",
@@ -809,7 +809,7 @@
           "George Clooney"
         ],
         "reponse": "George Clooney",
-        "anecdote": "George Clooney wartete 56 Jahre, um ein erfüllter Vater zu werden, und widmete seiner Frau sowie Alexander und Ella eine unendliche Liebe."
+        "anecdote": "George Clooney wartete 56 Jahre, um ein erfullter Vater zu werden, und widmete seiner Frau sowie Alexander und Ella eine unendliche Liebe."
       },
       {
         "id": 4,
@@ -825,7 +825,7 @@
       },
       {
         "id": 5,
-        "question": "Welcher Sänger hat ein Tattoo in der Unterlippe enthüllt ?",
+        "question": "Welcher Sänger hat ein Tattoo in der Unterlippe enthullt ?",
         "propositions": [
           "Amel Bent",
           "Shy m",
@@ -833,19 +833,19 @@
           "Alizee"
         ],
         "reponse": "Shy m",
-        "anecdote": "Es ist eine Inschrift : die Worte « Ich liebe dich », geschickt platziert und sichtbar für seine Hälfte, Benoît Paire, bestimmt."
+        "anecdote": "Es ist eine Inschrift : die Worte \"Ich liebe dich\", geschickt platziert und sichtbar fur seine Hälfte, Benoit Paire, bestimmt."
       },
       {
         "id": 6,
         "question": "Wer hat William Leymergie an der Spitze der TV-Show-Präsentation ersetzt ?",
         "propositions": [
           "Laurent Bignolas",
-          "Samuel Étienne",
+          "Samuel Etienne",
           "Louis Laforge",
           "Stephane Lippert"
         ],
         "reponse": "Laurent Bignolas",
-        "anecdote": "Der Journalist, der jetzt das Kommando über die 2-Morgen-Show in Frankreich innehatte, musste von dem bereits vorhandenen Team akzeptiert werden."
+        "anecdote": "Der Journalist, der jetzt das Kommando uber die 2-Morgen-Show in Frankreich innehatte, musste von dem bereits vorhandenen Team akzeptiert werden."
       },
       {
         "id": 7,
@@ -857,11 +857,11 @@
           "Vanessa Demouy"
         ],
         "reponse": "Vanessa Demouy",
-        "anecdote": "Philippe Lellouche und Vanessa Demouy, die für ein Jahr getrennt waren, wollten ihre Scheidung formalisieren, um ihre Kinder zu erhalten."
+        "anecdote": "Philippe Lellouche und Vanessa Demouy, die fur ein Jahr getrennt waren, wollten ihre Scheidung formalisieren, um ihre Kinder zu erhalten."
       },
       {
         "id": 8,
-        "question": "Welcher französische Künstler hat sich für seine vierzigjährige Karriere endlich dem Streaming verschrieben ?",
+        "question": "Welcher französische Kunstler hat sich fur seine vierzigjährige Karriere endlich dem Streaming verschrieben ?",
         "propositions": [
           "Jean-Louis Murat",
           "Francis Cabrel",
@@ -869,11 +869,11 @@
           "Charles Aznavour"
         ],
         "reponse": "Francis Cabrel",
-        "anecdote": "Diese Entscheidung wird eine Veranstaltung für Spotify, Apple Music und Deezer und eine echte Revolution für den Autor von « Petite Marie » sein."
+        "anecdote": "Diese Entscheidung wird eine Veranstaltung fur Spotify, Apple Music und Deezer und eine echte Revolution fur den Autor von \"Petite Marie\" sein."
       },
       {
         "id": 9,
-        "question": "Welcher Star der TV-Serie « Game of Thrones », geborene Brünette, wurde blond ?",
+        "question": "Welcher Star der TV-Serie \"Game of Thrones\", geborene Brunette, wurde blond ?",
         "propositions": [
           "Lena Headey",
           "Sophie Turner",
@@ -893,7 +893,7 @@
           "Tanzen"
         ],
         "reponse": "Heulen",
-        "anecdote": "Offensichtlich sehr überzeugend, hat Brahim Zaibat es auf diese Weise geschafft, die Personen loszuwerden, die versuchten, in sein Haus einzubrechen."
+        "anecdote": "Offensichtlich sehr uberzeugend, hat Brahim Zaibat es auf diese Weise geschafft, die Personen loszuwerden, die versuchten, in sein Haus einzubrechen."
       }
     ],
     "confirme": [
@@ -907,7 +907,7 @@
           "Stephane Collaro"
         ],
         "reponse": "Stephane Collaro",
-        "anecdote": "Der frühere Gastgeber Stephane Collaro besaß eine prächtige Villa sowie einige Hotels auf der Insel Saint-Martin."
+        "anecdote": "Der fruhere Gastgeber Stephane Collaro besaß eine prächtige Villa sowie einige Hotels auf der Insel Saint-Martin."
       },
       {
         "id": 12,
@@ -923,7 +923,7 @@
       },
       {
         "id": 13,
-        "question": "Welcher Gewinner von The Voice hat ein Album namens « Ma bonne etoile » veröffentlicht ?",
+        "question": "Welcher Gewinner von The Voice hat ein Album namens \"Ma bonne etoile\" veröffentlicht ?",
         "propositions": [
           "Lisandro Cuxi",
           "Slimane",
@@ -967,7 +967,7 @@
           "Barbara Fusar"
         ],
         "reponse": "Nahalie Pechalat",
-        "anecdote": "Nathalie Pechalat und Jean Dujardin sind beide verpflichtet, sich für die Olympischen Spiele 2024 in Paris zu bewerben."
+        "anecdote": "Nathalie Pechalat und Jean Dujardin sind beide verpflichtet, sich fur die Olympischen Spiele 2024 in Paris zu bewerben."
       },
       {
         "id": 17,
@@ -975,15 +975,15 @@
         "propositions": [
           "Fenty Beauty",
           "Von mir zu dir",
-          "Für Menschen",
+          "Fur Menschen",
           "Welliger Glanz"
         ],
         "reponse": "Fenty Beauty",
-        "anecdote": "Für die Einführung ihrer Marke bot Rihanna ein exklusives Video-Tutorial an, in dem sie die zum Verkauf angebotenen Produkte selbst testete."
+        "anecdote": "Fur die Einfuhrung ihrer Marke bot Rihanna ein exklusives Video-Tutorial an, in dem sie die zum Verkauf angebotenen Produkte selbst testete."
       },
       {
         "id": 18,
-        "question": "Welche Schauspielerin in der Serie « Grey s Anatomy » hatte einen Gehirntumor ?",
+        "question": "Welche Schauspielerin in der Serie \"Grey s Anatomy\" hatte einen Gehirntumor ?",
         "propositions": [
           "Chandra Wilson",
           "Jessica Capshaw",
@@ -1003,7 +1003,7 @@
           "Dave Benton"
         ],
         "reponse": "Salvador Sobral",
-        "anecdote": "Im Mai 2017 gewann der 27-jährige Portugiese die Eurovision-Trophäe mit dem melancholischen Titel « Amar Pelos Dois »."
+        "anecdote": "Im Mai 2017 gewann der 27-jährige Portugiese die Eurovision-Trophäe mit dem melancholischen Titel \"Amar Pelos Dois\"."
       },
       {
         "id": 20,
@@ -1021,7 +1021,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Welche Schauspielerin hat großzügig eine Niere gespendet, um gegen Selena Gomez  Lupus zu kämpfen ?",
+        "question": "Welche Schauspielerin hat großzugig eine Niere gespendet, um gegen Selena Gomez  Lupus zu kämpfen ?",
         "propositions": [
           "Marcy Rylan",
           "Hayden Panettiere",
@@ -1029,11 +1029,11 @@
           "Solange Knowles"
         ],
         "reponse": "Francia Raisa",
-        "anecdote": "Francia Raisa hat zugestimmt, eines ihrer Organe zu opfern : « ein ultimatives Geschenk einer Schwester », sagte sie."
+        "anecdote": "Francia Raisa hat zugestimmt, eines ihrer Organe zu opfern : \"ein ultimatives Geschenk einer Schwester\", sagte sie."
       },
       {
         "id": 22,
-        "question": "Wer wurde 2017 nach 138 Siegen von « eliminiert Jeder möchte seinen Platz einnehmen » ?",
+        "question": "Wer wurde 2017 nach 138 Siegen von \"eliminiert Jeder möchte seinen Platz einnehmen\" ?",
         "propositions": [
           "Dominique Breard",
           "Enzo Diliberto",
@@ -1053,7 +1053,7 @@
           "Katie Holmes"
         ],
         "reponse": "Katie Holmes",
-        "anecdote": "Eine Klausel in seiner Scheidung von Tom Cruise verbot ihm, für die nächsten fünf Jahre offen für eine neue Beziehung zu leben."
+        "anecdote": "Eine Klausel in seiner Scheidung von Tom Cruise verbot ihm, fur die nächsten funf Jahre offen fur eine neue Beziehung zu leben."
       },
       {
         "id": 24,
@@ -1101,7 +1101,7 @@
           "Remington Williams"
         ],
         "reponse": "Remington Williams",
-        "anecdote": "In kürzester Zeit unterzeichnete der Ex-Mitarbeiter einen Vertrag mit der Agentur DNA Models, die unter anderem Linda Evangelista beschäftigte."
+        "anecdote": "In kurzester Zeit unterzeichnete der Ex-Mitarbeiter einen Vertrag mit der Agentur DNA Models, die unter anderem Linda Evangelista beschäftigte."
       },
       {
         "id": 28,
@@ -1113,7 +1113,7 @@
           "Victor Ike"
         ],
         "reponse": "K. Maro",
-        "anecdote": "Für sein Comeback erfindet sich der Künstler neu, ändert seinen Namen und bietet ein Projekt an, das Bilder und Musik mit « Mary » mischt."
+        "anecdote": "Fur sein Comeback erfindet sich der Kunstler neu, ändert seinen Namen und bietet ein Projekt an, das Bilder und Musik mit \"Mary\" mischt."
       },
       {
         "id": 29,
@@ -1125,11 +1125,11 @@
           "Schildkröten"
         ],
         "reponse": "Mäuse",
-        "anecdote": "« Ich hasse Mäuse. Als ich klein war, wurde ich von einer Maus in den Hals gebissen, da ich große Angst davor habe ! »"
+        "anecdote": "\"Ich hasse Mäuse. Als ich klein war, wurde ich von einer Maus in den Hals gebissen, da ich große Angst davor habe !\""
       },
       {
         "id": 30,
-        "question": "Welcher berühmte Hockeyspieler hat angekündigt, an Leukämie zu leiden ?",
+        "question": "Welcher beruhmte Hockeyspieler hat angekundigt, an Leukämie zu leiden ?",
         "propositions": [
           "Brian Boyle",
           "Jimmy Hayes",
@@ -1201,14 +1201,14 @@
           "Lorie"
         ],
         "reponse": "Shy m",
-        "anecdote": "Es una inscripción : las palabras « Te amo », hábilmente ubicadas y visiblemente destinadas a su mitad, Benoît Paire."
+        "anecdote": "Es una inscripción : las palabras \"Te amo\", hábilmente ubicadas y visiblemente destinadas a su mitad, Benoit Paire."
       },
       {
         "id": 6,
         "question": "¿Quien reemplazó a William Leymergie al frente de la presentación del programa de televisión ?",
         "propositions": [
           "Stephane Lippert",
-          "Samuel Étienne",
+          "Samuel Etienne",
           "Laurent Bignolas",
           "Louis Laforge"
         ],
@@ -1237,11 +1237,11 @@
           "Jean-Louis Murat"
         ],
         "reponse": "Francis Cabrel",
-        "anecdote": "Esta decisión será un evento para Spotify, Apple Music y Deezer y una verdadera revolución para el autor de « Petite Marie »."
+        "anecdote": "Esta decisión será un evento para Spotify, Apple Music y Deezer y una verdadera revolución para el autor de \"Petite Marie\"."
       },
       {
         "id": 9,
-        "question": "¿Que estrella de la serie de televisión « Game of Thrones », morena nacida, se volvió rubia ?",
+        "question": "¿Que estrella de la serie de televisión \"Game of Thrones\", morena nacida, se volvió rubia ?",
         "propositions": [
           "Emilia Clarke",
           "Sophie Turner",
@@ -1291,7 +1291,7 @@
       },
       {
         "id": 13,
-        "question": "¿Que ganador de The Voice lanzó un álbum llamado « Ma bonne etoile » ?",
+        "question": "¿Que ganador de The Voice lanzó un álbum llamado \"Ma bonne etoile\" ?",
         "propositions": [
           "Lisandro Cuxi",
           "Yoann Freget",
@@ -1351,7 +1351,7 @@
       },
       {
         "id": 18,
-        "question": "¿Que actriz de la serie « Grey s Anatomy » ha tenido un tumor cerebral ?",
+        "question": "¿Que actriz de la serie \"Grey s Anatomy\" ha tenido un tumor cerebral ?",
         "propositions": [
           "Chandra Wilson",
           "Kate Walsh",
@@ -1371,7 +1371,7 @@
           "Dima Bilan"
         ],
         "reponse": "Salvador Sobral",
-        "anecdote": "En mayo de 2017, el portugues de 27 años ganó el trofeo de Eurovisión con la melancólica pieza « Amar Pelos Dois »."
+        "anecdote": "En mayo de 2017, el portugues de 27 años ganó el trofeo de Eurovisión con la melancólica pieza \"Amar Pelos Dois\"."
       },
       {
         "id": 20,
@@ -1397,11 +1397,11 @@
           "Hayden Panettiere"
         ],
         "reponse": "Francia Raisa",
-        "anecdote": "Francia Raisa acordó sacrificar uno de sus órganos : « un último regalo de una hermana », dijo."
+        "anecdote": "Francia Raisa acordó sacrificar uno de sus órganos : \"un último regalo de una hermana\", dijo."
       },
       {
         "id": 22,
-        "question": "En 2017, ¿quien fue eliminado despues de 138 victorias de « Todos quieren tomar su lugar » ?",
+        "question": "En 2017, ¿quien fue eliminado despues de 138 victorias de \"Todos quieren tomar su lugar\" ?",
         "propositions": [
           "Dominique Breard",
           "Enzo Diliberto",
@@ -1481,7 +1481,7 @@
           "Craig David"
         ],
         "reponse": "K. Maro",
-        "anecdote": "Para su regreso, el artista se reinventa, cambia su nombre y ofrece un proyecto que mezcla imágenes y música con « Mary »."
+        "anecdote": "Para su regreso, el artista se reinventa, cambia su nombre y ofrece un proyecto que mezcla imágenes y música con \"Mary\"."
       },
       {
         "id": 29,
@@ -1493,7 +1493,7 @@
           "Arañas"
         ],
         "reponse": "Ratones",
-        "anecdote": "« Odio los ratones Me picaron en el cuello con un ratón cuando era pequeño, ¡ya que le tengo mucho miedo ! »"
+        "anecdote": "\"Odio los ratones Me picaron en el cuello con un ratón cuando era pequeño, ¡ya que le tengo mucho miedo !\""
       },
       {
         "id": 30,
@@ -1569,7 +1569,7 @@
           "Alizee"
         ],
         "reponse": "Shy m",
-        "anecdote": "È un iscrizione : le parole « Ti amo », sapientemente posizionate e visibilmente intese per la sua meta, Benoît Paire."
+        "anecdote": "È un iscrizione : le parole \"Ti amo\", sapientemente posizionate e visibilmente intese per la sua meta, Benoit Paire."
       },
       {
         "id": 6,
@@ -1577,7 +1577,7 @@
         "propositions": [
           "Louis Laforge",
           "Stephane Lippert",
-          "Samuel Étienne",
+          "Samuel Etienne",
           "Laurent Bignolas"
         ],
         "reponse": "Laurent Bignolas",
@@ -1605,11 +1605,11 @@
           "Jean-Louis Murat"
         ],
         "reponse": "Francis Cabrel",
-        "anecdote": "Questa decisione sara un evento per Spotify, Apple Music e Deezer e una vera rivoluzione per l autore di « Petite Marie »."
+        "anecdote": "Questa decisione sara un evento per Spotify, Apple Music e Deezer e una vera rivoluzione per l autore di \"Petite Marie\"."
       },
       {
         "id": 9,
-        "question": "Quale star della serie TV « Game of Thrones », nata bruna, e diventata bionda ?",
+        "question": "Quale star della serie TV \"Game of Thrones\", nata bruna, e diventata bionda ?",
         "propositions": [
           "Sophie Turner",
           "Maisie Williams",
@@ -1659,7 +1659,7 @@
       },
       {
         "id": 13,
-        "question": "Quale vincitore di The Voice ha pubblicato un album chiamato « Ma bonne etoile » ?",
+        "question": "Quale vincitore di The Voice ha pubblicato un album chiamato \"Ma bonne etoile\" ?",
         "propositions": [
           "Yoann Freget",
           "Lisandro Cuxi",
@@ -1719,7 +1719,7 @@
       },
       {
         "id": 18,
-        "question": "Quale attrice della serie « Grey s Anatomy » ha avuto un tumore al cervello ?",
+        "question": "Quale attrice della serie \"Grey s Anatomy\" ha avuto un tumore al cervello ?",
         "propositions": [
           "Chandra Wilson",
           "Ellen Pompeo",
@@ -1739,7 +1739,7 @@
           "Dave Benton"
         ],
         "reponse": "Salvador Sobral",
-        "anecdote": "Nel maggio 2017, il 27enne portoghese ha vinto il trofeo Eurovision con la traccia malinconica « Amar Pelos Dois »."
+        "anecdote": "Nel maggio 2017, il 27enne portoghese ha vinto il trofeo Eurovision con la traccia malinconica \"Amar Pelos Dois\"."
       },
       {
         "id": 20,
@@ -1765,11 +1765,11 @@
           "Hayden Panettiere"
         ],
         "reponse": "Francia Raisa",
-        "anecdote": "Francia Raisa ha acconsentito a sacrificare uno dei suoi organi : « un ultimo dono di una sorella » ha detto."
+        "anecdote": "Francia Raisa ha acconsentito a sacrificare uno dei suoi organi : \"un ultimo dono di una sorella\" ha detto."
       },
       {
         "id": 22,
-        "question": "Nel 2017, chi e stato eliminato dopo 138 vittorie di « Tutti vogliono prendere il loro posto » ?",
+        "question": "Nel 2017, chi e stato eliminato dopo 138 vittorie di \"Tutti vogliono prendere il loro posto\" ?",
         "propositions": [
           "Julien Sorbon",
           "Mathieu Dosset",
@@ -1849,7 +1849,7 @@
           "Lemar"
         ],
         "reponse": "K. Maro",
-        "anecdote": "Per il suo ritorno, l artista si reinventa, cambia nome e offre un progetto che mescola immagini e musica con « Maria »."
+        "anecdote": "Per il suo ritorno, l artista si reinventa, cambia nome e offre un progetto che mescola immagini e musica con \"Maria\"."
       },
       {
         "id": 29,
@@ -1861,7 +1861,7 @@
           "Gatti"
         ],
         "reponse": "Topi",
-        "anecdote": "« Odio i topi. Sono stato morso al collo da un topo quando ero piccolo, poiche ne ho molta paura ! »"
+        "anecdote": "\"Odio i topi. Sono stato morso al collo da un topo quando ero piccolo, poiche ne ho molta paura !\""
       },
       {
         "id": 30,
@@ -1937,14 +1937,14 @@
           "Amel Bent"
         ],
         "reponse": "Shy m",
-        "anecdote": "Het is een inscriptie : de woorden « Ik hou van je », slim geplaatst en zichtbaar bedoeld voor zijn helft, Benoît Paire."
+        "anecdote": "Het is een inscriptie : de woorden \"Ik hou van je\", slim geplaatst en zichtbaar bedoeld voor zijn helft, Benoit Paire."
       },
       {
         "id": 6,
         "question": "Wie verving William Leymergie aan het hoofd van de tv-showpresentatie ?",
         "propositions": [
           "Laurent Bignolas",
-          "Samuel Étienne",
+          "Samuel Etienne",
           "Stephane Lippert",
           "Louis Laforge"
         ],
@@ -1973,11 +1973,11 @@
           "Jean-Louis Murat"
         ],
         "reponse": "Francis Cabrel",
-        "anecdote": "Deze beslissing wordt een evenement voor Spotify, Apple Music en Deezer en een echte revolutie voor de auteur van « Petite Marie »."
+        "anecdote": "Deze beslissing wordt een evenement voor Spotify, Apple Music en Deezer en een echte revolutie voor de auteur van \"Petite Marie\"."
       },
       {
         "id": 9,
-        "question": "Welke ster van de tv-serie « Game of Thrones », bruin geboren, is blond geworden ?",
+        "question": "Welke ster van de tv-serie \"Game of Thrones\", bruin geboren, is blond geworden ?",
         "propositions": [
           "Lena Headey",
           "Emilia Clarke",
@@ -2027,7 +2027,7 @@
       },
       {
         "id": 13,
-        "question": "Welke winnaar van The Voice heeft een album uitgebracht met de naam « Ma bonne etoile » ?",
+        "question": "Welke winnaar van The Voice heeft een album uitgebracht met de naam \"Ma bonne etoile\" ?",
         "propositions": [
           "Lilian Renaud",
           "Yoann Freget",
@@ -2087,7 +2087,7 @@
       },
       {
         "id": 18,
-        "question": "Welke actrice in de serie « Grey s Anatomy » heeft een hersentumor gehad ?",
+        "question": "Welke actrice in de serie \"Grey s Anatomy\" heeft een hersentumor gehad ?",
         "propositions": [
           "Chandra Wilson",
           "Kate Walsh",
@@ -2107,7 +2107,7 @@
           "Alexander Rybak"
         ],
         "reponse": "Salvador Sobral",
-        "anecdote": "In mei 2017 won de 27-jarige Portugees de Eurovisie-trofee met het melancholische nummer « Amar Pelos Dois »."
+        "anecdote": "In mei 2017 won de 27-jarige Portugees de Eurovisie-trofee met het melancholische nummer \"Amar Pelos Dois\"."
       },
       {
         "id": 20,
@@ -2133,11 +2133,11 @@
           "Francia Raisa"
         ],
         "reponse": "Francia Raisa",
-        "anecdote": "Francia Raisa heeft ermee ingestemd een van haar orgels op te offeren : « een ultiem geschenk van een zus » zei ze."
+        "anecdote": "Francia Raisa heeft ermee ingestemd een van haar orgels op te offeren : \"een ultiem geschenk van een zus\" zei ze."
       },
       {
         "id": 22,
-        "question": "In 2017, wie werd uitgeschakeld na 138 overwinningen van « Iedereen wil zijn plaats innemen » ?",
+        "question": "In 2017, wie werd uitgeschakeld na 138 overwinningen van \"Iedereen wil zijn plaats innemen\" ?",
         "propositions": [
           "Mathieu Dosset",
           "Enzo Diliberto",
@@ -2217,7 +2217,7 @@
           "K. Maro"
         ],
         "reponse": "K. Maro",
-        "anecdote": "Voor zijn comeback vindt de kunstenaar zichzelf opnieuw uit, verandert zijn naam en biedt een project aan waarin beelden en muziek worden gecombineerd met « Mary »."
+        "anecdote": "Voor zijn comeback vindt de kunstenaar zichzelf opnieuw uit, verandert zijn naam en biedt een project aan waarin beelden en muziek worden gecombineerd met \"Mary\"."
       },
       {
         "id": 29,
@@ -2229,7 +2229,7 @@
           "Spinnen"
         ],
         "reponse": "Muizen",
-        "anecdote": "« Ik haat muizen. Ik werd in mijn nek gebeten door een muis toen ik klein was, omdat ik er erg bang voor ben ! »"
+        "anecdote": "\"Ik haat muizen. Ik werd in mijn nek gebeten door een muis toen ik klein was, omdat ik er erg bang voor ben !\""
       },
       {
         "id": 30,

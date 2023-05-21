@@ -28,7 +28,7 @@
     "de": {
       "categorie": "Prominente",
       "nom": "Sozialkultur",
-      "slogan": "Sie haben ihre Ära für immer geprägt"
+      "slogan": "Sie haben ihre Ära fur immer geprägt"
     },
     "nl": {
       "categorie": "Beroemdheden",
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "Quel ecrivain belge a fait son entree dans la collection « La Pleiade » le 6 mars 2003 ?",
+        "question": "Quel ecrivain belge a fait son entree dans la collection \"La Pleiade\" le 6 mars 2003 ?",
         "propositions": [
           "Roger Foulon",
           "Michel Delville",
@@ -73,7 +73,7 @@
           "Edmond Lacoste"
         ],
         "reponse": "Georges Simenon",
-        "anecdote": "Une belle consecration pour l auteur qui côtoie Balzac, Proust et Kafka dans cette prestigieuse collection."
+        "anecdote": "Une belle consecration pour l auteur qui cotoie Balzac, Proust et Kafka dans cette prestigieuse collection."
       },
       {
         "id": 4,
@@ -97,11 +97,11 @@
           "Claude Nougaro"
         ],
         "reponse": "Sacha Distel",
-        "anecdote": "La carriere du chanteur ne le 29 janvier 1933 avait ete lancee en 1958 avec la chanson « Scoubidou »."
+        "anecdote": "La carriere du chanteur ne le 29 janvier 1933 avait ete lancee en 1958 avec la chanson \"Scoubidou\"."
       },
       {
         "id": 6,
-        "question": "Qui est l auteur du best-seller « Da Vinci Code » publie a des millions d exemplaires ?",
+        "question": "Qui est l auteur du best-seller \"Da Vinci Code\" publie a des millions d exemplaires ?",
         "propositions": [
           "Dan Brown",
           "Robert Bloch",
@@ -121,11 +121,11 @@
           "Johnny Stark"
         ],
         "reponse": "Eddie Barclay",
-        "anecdote": "Celebre pour ses huit mariages, Eddie Barclay avait rapporte des États-Unis le microsillon."
+        "anecdote": "Celebre pour ses huit mariages, Eddie Barclay avait rapporte des Etats-Unis le microsillon."
       },
       {
         "id": 8,
-        "question": "Qui s etait fait connaître avec sa chanson « Gaby oh Gaby », en 1980 ?",
+        "question": "Qui s etait fait connaitre avec sa chanson \"Gaby oh Gaby\", en 1980 ?",
         "propositions": [
           "Alain Bashung",
           "Alain Souchon",
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quel artiste originaire de Toulouse avait chante sa « ville rose » comme personne ?",
+        "question": "Quel artiste originaire de Toulouse avait chante sa \"ville rose\" comme personne ?",
         "propositions": [
           "Alain Bashung",
           "Claude Nougaro",
@@ -171,7 +171,7 @@
           "Francis Cabrel"
         ],
         "reponse": "Claude Nougaro",
-        "anecdote": "« Troubadour baroque » comme il aimait a se definir, il a ete emporte par une longue maladie le 4 mars 2004."
+        "anecdote": "\"Troubadour baroque\" comme il aimait a se definir, il a ete emporte par une longue maladie le 4 mars 2004."
       },
       {
         "id": 12,
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "De son vrai nom Francoise Quirez, qui avait connu le succes avec « Bonjour tristesse » ?",
+        "question": "De son vrai nom Francoise Quirez, qui avait connu le succes avec \"Bonjour tristesse\" ?",
         "propositions": [
           "Michele Morgan",
           "Ingrid Bergman",
@@ -219,7 +219,7 @@
           "Francoise Sagan"
         ],
         "reponse": "Francoise Sagan",
-        "anecdote": "Le « charmant petit monstre », tel que la surnommait Francois Mauriac, nous a laisse des livres d un talent indiscutable."
+        "anecdote": "Le \"charmant petit monstre\", tel que la surnommait Francois Mauriac, nous a laisse des livres d un talent indiscutable."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Gaston"
         ],
         "reponse": "Lucky Luke",
-        "anecdote": "Apres 97 albums, le dessinateur belge ne en 1923 s imposait comme un maître de la ligne claire."
+        "anecdote": "Apres 97 albums, le dessinateur belge ne en 1923 s imposait comme un maitre de la ligne claire."
       },
       {
         "id": 17,
@@ -243,11 +243,11 @@
           "Letizia Ortiz"
         ],
         "reponse": "Letizia Ortiz",
-        "anecdote": "Les tenants de la tradition trouverent sacrilege qu un futur roi epouse une roturiere, divorcee de surcroît."
+        "anecdote": "Les tenants de la tradition trouverent sacrilege qu un futur roi epouse une roturiere, divorcee de surcroit."
       },
       {
         "id": 18,
-        "question": "À qui appartenaient les plus beaux yeux bleus d Hollywood, definitivement fermes en 2008 ?",
+        "question": "A qui appartenaient les plus beaux yeux bleus d Hollywood, definitivement fermes en 2008 ?",
         "propositions": [
           "Robert Duvall",
           "Henry Fonda",
@@ -262,7 +262,7 @@
         "question": "Quelle femme fut elue a l Academie francaise au fauteuil de Pierre Messmer ?",
         "propositions": [
           "Simone Veil",
-          "Élisabeth Hubert",
+          "Elisabeth Hubert",
           "Marisol Touraine",
           "Roselyne Bachelot"
         ],
@@ -279,7 +279,7 @@
           "Michel Carnal"
         ],
         "reponse": "Frederic Dard",
-        "anecdote": "Les prolifiques aventures de San Antonio ont revele Frederic Dard comme un maître du langage populaire."
+        "anecdote": "Les prolifiques aventures de San Antonio ont revele Frederic Dard comme un maitre du langage populaire."
       }
     ],
     "expert": [
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "À quel ecrivain et critique litteraire fut attribue le tres prestigieux 100e prix Goncourt ?",
+        "question": "A quel ecrivain et critique litteraire fut attribue le tres prestigieux 100e prix Goncourt ?",
         "propositions": [
           "Patrick Grainville",
           "Rene Maran",
@@ -305,7 +305,7 @@
           "Jacques-Pierre Amette"
         ],
         "reponse": "Jacques-Pierre Amette",
-        "anecdote": "Ce prix anniversaire a ete attribue quinze jours plus tôt que prevu, passant ainsi devant le prix Femina."
+        "anecdote": "Ce prix anniversaire a ete attribue quinze jours plus tot que prevu, passant ainsi devant le prix Femina."
       },
       {
         "id": 23,
@@ -365,7 +365,7 @@
           "Jeff Koons"
         ],
         "reponse": "Jeff Koons",
-        "anecdote": "L installation du « roi du kitsch » chez le Roi-Soleil ne fut pas du goût de tous qui « porte atteinte aux interets de la France »."
+        "anecdote": "L installation du \"roi du kitsch\" chez le Roi-Soleil ne fut pas du goût de tous qui \"porte atteinte aux interets de la France\"."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Assia Djebar"
         ],
         "reponse": "Assia Djebar",
-        "anecdote": "À la fois essayiste, romanciere et cineaste, Assia Djebar est le premier ecrivain du Maghreb a devenir « immortel »."
+        "anecdote": "A la fois essayiste, romanciere et cineaste, Assia Djebar est le premier ecrivain du Maghreb a devenir \"immortel\"."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Björk"
         ],
         "reponse": "Björk",
-        "anecdote": "Björk fut consacree par le 53e festival de Cannes pour son interpretation dans le film danois « Dancer in the Dark »."
+        "anecdote": "Björk fut consacree par le 53e festival de Cannes pour son interpretation dans le film danois \"Dancer in the Dark\"."
       },
       {
         "id": 30,
@@ -397,11 +397,11 @@
         "propositions": [
           "Alain Bashung",
           "Claude Nougaro",
-          "C. Jerôme",
+          "C. Jerome",
           "Claude Brassens"
         ],
-        "reponse": "C. Jerôme",
-        "anecdote": "Ses chansons comme « Kiss me » ou « C est moi » en avaient fait le meilleur representant de la chanson de variete populaire."
+        "reponse": "C. Jerome",
+        "anecdote": "Ses chansons comme \"Kiss me\" ou \"C est moi\" en avaient fait le meilleur representant de la chanson de variete populaire."
       }
     ]
     }

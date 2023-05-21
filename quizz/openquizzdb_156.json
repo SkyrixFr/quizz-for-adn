@@ -61,7 +61,7 @@
           "Inca"
         ],
         "reponse": "Inca",
-        "anecdote": "Machu Picchu, la ville sacree oubliee durant des siecles, est consideree comme une oeuvre maîtresse de l architecture inca."
+        "anecdote": "Machu Picchu, la ville sacree oubliee durant des siecles, est consideree comme une oeuvre maitresse de l architecture inca."
       },
       {
         "id": 3,
@@ -145,7 +145,7 @@
           "Chemin du Temple"
         ],
         "reponse": "Chemin de l Inca",
-        "anecdote": "Le chemin de l Inca est soumis a un contrôle touristique strict et ne peut etre parcouru qu avec une agence de voyage."
+        "anecdote": "Le chemin de l Inca est soumis a un controle touristique strict et ne peut etre parcouru qu avec une agence de voyage."
       },
       {
         "id": 10,
@@ -183,7 +183,7 @@
           "Hiram Bingham"
         ],
         "reponse": "Hiram Bingham",
-        "anecdote": "Bien que considere comme archeologue, il prefera toujours le terme explorateur, insistant pour etre decrit ainsi dans les « Who s Who »."
+        "anecdote": "Bien que considere comme archeologue, il prefera toujours le terme explorateur, insistant pour etre decrit ainsi dans les \"Who s Who\"."
       },
       {
         "id": 13,
@@ -219,7 +219,7 @@
           "Atahualpa"
         ],
         "reponse": "Pachacutec",
-        "anecdote": "À la mort de Pachacutec, et selon les coutumes royales incas, Machu Picchu passa a sa « panaca » (cour, clan, clientele elargie)."
+        "anecdote": "A la mort de Pachacutec, et selon les coutumes royales incas, Machu Picchu passa a sa \"panaca\" (cour, clan, clientele elargie)."
       },
       {
         "id": 16,
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "À qui est principalement dediee la zone sacree du Machu Picchu ? ",
+        "question": "A qui est principalement dediee la zone sacree du Machu Picchu ? ",
         "propositions": [
           "Ocllo",
           "Inti",
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "À quelle altitude le Machu Picchu est-il a cheval sur la crete entre deux sommets ?",
+        "question": "A quelle altitude le Machu Picchu est-il a cheval sur la crete entre deux sommets ?",
         "propositions": [
           "2 738 metres",
           "1 738 metres",
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Quelle riviere coule sur les deux côtes de la cite du Machu Picchu ?",
+        "question": "Quelle riviere coule sur les deux cotes de la cite du Machu Picchu ?",
         "propositions": [
           "Urubamba",
           "Pastaza",
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "Quel pont contrôle l acces au Machu Picchu depuis l ouest ?",
+        "question": "Quel pont controle l acces au Machu Picchu depuis l ouest ?",
         "propositions": [
           "Pont de l Inca",
           "Pont du Temple",
@@ -401,7 +401,7 @@
           "Pont du Soleil"
         ],
         "reponse": "Pont de l Inca",
-        "anecdote": "L acces au site du Machu Picchu est rigoureusement contrôle pour limiter les mefaits et les detournements du tourisme massif."
+        "anecdote": "L acces au site du Machu Picchu est rigoureusement controle pour limiter les mefaits et les detournements du tourisme massif."
       }
     ]
     }

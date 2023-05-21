@@ -121,7 +121,7 @@
           "500 av. J.-C."
         ],
         "reponse": "200 av. J.-C.",
-        "anecdote": "À son apogee dans la premiere moitie du Ier millenaire, Teotihuacan etait la plus grande ville de l Amerique precolombienne."
+        "anecdote": "A son apogee dans la premiere moitie du Ier millenaire, Teotihuacan etait la plus grande ville de l Amerique precolombienne."
       },
       {
         "id": 8,
@@ -152,7 +152,7 @@
         "question": "Quel evenement a principalement provoque l effondrement de Teotihuacan ?",
         "propositions": [
           "Invasion",
-          "Éclipse",
+          "Eclipse",
           "Seisme",
           "Incendie"
         ],
@@ -175,7 +175,7 @@
       },
       {
         "id": 12,
-        "question": "Les gisements de quelle roche volcanique vitreuse etaient contrôles par Teotihuacan ?",
+        "question": "Les gisements de quelle roche volcanique vitreuse etaient controles par Teotihuacan ?",
         "propositions": [
           "Ponce",
           "Dacite",
@@ -183,7 +183,7 @@
           "Domite"
         ],
         "reponse": "Obsidienne",
-        "anecdote": "Son nom viendrait de Obsius, un personnage de la Rome antique qui aurait signale la presence de cette roche en Éthiopie."
+        "anecdote": "Son nom viendrait de Obsius, un personnage de la Rome antique qui aurait signale la presence de cette roche en Ethiopie."
       },
       {
         "id": 13,
@@ -317,7 +317,7 @@
           "Grotte"
         ],
         "reponse": "Grotte",
-        "anecdote": "Les grottes jouent un rôle important dans la plupart des religions mesoamericaines : symbole de fertilite et acces a l inframonde."
+        "anecdote": "Les grottes jouent un role important dans la plupart des religions mesoamericaines : symbole de fertilite et acces a l inframonde."
       },
       {
         "id": 24,

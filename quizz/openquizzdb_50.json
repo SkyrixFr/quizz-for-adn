@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "À quelle classe d animaux vertebres regroupant pres de 5.400 especes appartient le chat ?",
+        "question": "A quelle classe d animaux vertebres regroupant pres de 5.400 especes appartient le chat ?",
         "propositions": [
           "Mammiferes",
           "Oiseaux",
@@ -145,7 +145,7 @@
           "Roucoulement"
         ],
         "reponse": "Ronronnement",
-        "anecdote": "Produit a l expiration comme a l inspiration, ce son de basse frequence apparaît des l age de deux jours."
+        "anecdote": "Produit a l expiration comme a l inspiration, ce son de basse frequence apparait des l age de deux jours."
       },
       {
         "id": 10,
@@ -195,7 +195,7 @@
           "70 Km/h"
         ],
         "reponse": "50 Km/h",
-        "anecdote": "À la course, la vitesse moyenne du chat est de 40 km/h et il met environ neuf secondes pour parcourir 100 metres."
+        "anecdote": "A la course, la vitesse moyenne du chat est de 40 km/h et il met environ neuf secondes pour parcourir 100 metres."
       },
       {
         "id": 14,
@@ -279,7 +279,7 @@
           "20"
         ],
         "reponse": "18",
-        "anecdote": "Le chat peut ajuster la longueur de ses griffes et les aiguiser en les frottant contre une surface rugueuse : il « fait ses griffes »."
+        "anecdote": "Le chat peut ajuster la longueur de ses griffes et les aiguiser en les frottant contre une surface rugueuse : il \"fait ses griffes\"."
       }
     ],
     "expert": [
@@ -299,12 +299,12 @@
         "id": 22,
         "question": "Bastet, deesse de la joie du foyer aux traits felins, est une deesse de quelle nationalite ?",
         "propositions": [
-          "Égyptienne",
+          "Egyptienne",
           "Romaine",
           "Grecque",
           "Viking"
         ],
-        "reponse": "Égyptienne",
+        "reponse": "Egyptienne",
         "anecdote": "Bastet est l une des deesses les plus discretes du pantheon egyptien et n est jamais representee."
       },
       {
@@ -317,7 +317,7 @@
           "De queue"
         ],
         "reponse": "De queue",
-        "anecdote": "La mutation du gene s est developpee sur l île de Man a cause de l isolement des chats et de la trop forte consanguinite."
+        "anecdote": "La mutation du gene s est developpee sur l ile de Man a cause de l isolement des chats et de la trop forte consanguinite."
       },
       {
         "id": 24,
@@ -341,11 +341,11 @@
           "Greffier"
         ],
         "reponse": "Greffier",
-        "anecdote": "Deux explications s opposent : le jeu de mot sur « griffe » ainsi que la fourrure de certains chats evoquant la robe des greffiers."
+        "anecdote": "Deux explications s opposent : le jeu de mot sur \"griffe\" ainsi que la fourrure de certains chats evoquant la robe des greffiers."
       },
       {
         "id": 26,
-        "question": "À quel gene de l absence de pigment dans le poil est lie la surdite des chats blancs ?",
+        "question": "A quel gene de l absence de pigment dans le poil est lie la surdite des chats blancs ?",
         "propositions": [
           "Gene W",
           "Gene Z",
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "À combien de degres se monte le champ de vision total du chat ?",
+        "question": "A combien de degres se monte le champ de vision total du chat ?",
         "propositions": [
           "287 degres",
           "206 degres",
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quel ecclesiastique et homme d État possedait 14 chats a sa mort ?",
+        "question": "Quel ecclesiastique et homme d Etat possedait 14 chats a sa mort ?",
         "propositions": [
           "Colbert",
           "Napoleon",
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "Comment s appelle le chat du « Chat qui parlait malgre lui » de Claude Roy ?",
+        "question": "Comment s appelle le chat du \"Chat qui parlait malgre lui\" de Claude Roy ?",
         "propositions": [
           "Titus",
           "Chaminou",

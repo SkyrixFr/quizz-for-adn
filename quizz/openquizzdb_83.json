@@ -73,7 +73,7 @@
           "Julie Taton"
         ],
         "reponse": "Maïtena Biraben",
-        "anecdote": "Amatrice de rugby, Maïtena Biraben publie des chroniques dans l hebdomadaire sportif « Rugby Hebdo »."
+        "anecdote": "Amatrice de rugby, Maïtena Biraben publie des chroniques dans l hebdomadaire sportif \"Rugby Hebdo\"."
       },
       {
         "id": 4,
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Quel humoriste a declare « ne jamais avoir cesse de penser a Sophie Daumier » ?",
+        "question": "Quel humoriste a declare \"ne jamais avoir cesse de penser a Sophie Daumier\" ?",
         "propositions": [
           "Patrick Timsit",
           "Guy Bedos",
@@ -101,7 +101,7 @@
       },
       {
         "id": 6,
-        "question": "Quel chanteur belge se marie avec lui-meme a Los Angeles dans un clip pour les États-Unis ?",
+        "question": "Quel chanteur belge se marie avec lui-meme a Los Angeles dans un clip pour les Etats-Unis ?",
         "propositions": [
           "Marc Morgan",
           "Jeff Bodart",
@@ -109,11 +109,11 @@
           "Stromae"
         ],
         "reponse": "Stromae",
-        "anecdote": "Paul Van Haver, dit Stromae, s est fait connaître en 2009 avec la chanson « Alors on danse »."
+        "anecdote": "Paul Van Haver, dit Stromae, s est fait connaitre en 2009 avec la chanson \"Alors on danse\"."
       },
       {
         "id": 7,
-        "question": "Quel acteur a pose avec des nudistes pour la promo de « Camping 3 » ?",
+        "question": "Quel acteur a pose avec des nudistes pour la promo de \"Camping 3\" ?",
         "propositions": [
           "Claude Brasseur",
           "Richard Anconina",
@@ -125,10 +125,10 @@
       },
       {
         "id": 8,
-        "question": "Quel celebre cuisiner a ouvert en 2015 « Le Quatrieme mur », restaurant bordelais ?",
+        "question": "Quel celebre cuisiner a ouvert en 2015 \"Le Quatrieme mur\", restaurant bordelais ?",
         "propositions": [
           "Vincent Arnould",
-          "Gaston Lenôtre",
+          "Gaston Lenotre",
           "Paul Bocuse",
           "Philippe Etchebest"
         ],
@@ -149,7 +149,7 @@
       },
       {
         "id": 10,
-        "question": "Quelle star de « Homeland » possede desormais son etoile a Hollywood depuis 2015 ?",
+        "question": "Quelle star de \"Homeland\" possede desormais son etoile a Hollywood depuis 2015 ?",
         "propositions": [
           "Nazanin Boniadi",
           "Claire Danes",
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quelle mannequin a enleve le haut sans complexe pour les deux ans du magazine « Lui » ?",
+        "question": "Quelle mannequin a enleve le haut sans complexe pour les deux ans du magazine \"Lui\" ?",
         "propositions": [
           "Katie Price",
           "Naomi Campbell",
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quelle bimbo a declare : « J ai deja secouru quelques hommes dans la douche » ?",
+        "question": "Quelle bimbo a declare : \"J ai deja secouru quelques hommes dans la douche\" ?",
         "propositions": [
           "Claire Sinclair ",
           "Katie Vernola",
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Qui a ete elue « femme de l annee 2015 » par la magazine americain « Billboard » ?",
+        "question": "Qui a ete elue \"femme de l annee 2015\" par la magazine americain \"Billboard\" ?",
         "propositions": [
           "Gwen Stefani",
           "Amanda Seyfried",
@@ -231,23 +231,23 @@
           "Benabar"
         ],
         "reponse": "Benabar",
-        "anecdote": "La musique de Benabar, plutôt simple, contient une forte presence de cuivres facon fanfare."
+        "anecdote": "La musique de Benabar, plutot simple, contient une forte presence de cuivres facon fanfare."
       },
       {
         "id": 17,
         "question": "Quelle top bresilien a pris la pose totalement nue pour les 95 ans de Vogue Paris ?",
         "propositions": [
           "Miranda Kerr",
-          "Gisele Bündchen",
+          "Gisele Bundchen",
           "Candice Swanepoel",
           "Tyra Banks"
         ],
-        "reponse": "Gisele Bündchen",
-        "anecdote": "Depuis ses debuts, Gisele Bündchen a ete le visage de nombreuses campagnes de publicite."
+        "reponse": "Gisele Bundchen",
+        "anecdote": "Depuis ses debuts, Gisele Bundchen a ete le visage de nombreuses campagnes de publicite."
       },
       {
         "id": 18,
-        "question": "Qui est apparue totalement nue dans la « Carte blanche » sur Canal+ en septembre 2015 ?",
+        "question": "Qui est apparue totalement nue dans la \"Carte blanche\" sur Canal+ en septembre 2015 ?",
         "propositions": [
           "Chantal Lauby",
           "Axelle Laffont",
@@ -267,11 +267,11 @@
           "Juliette Binoche"
         ],
         "reponse": "Carole Bouquet",
-        "anecdote": "Carole Bouquet a remporte le Cesar de la meilleure actrice pour son rôle dans « Trop belle pour toi »."
+        "anecdote": "Carole Bouquet a remporte le Cesar de la meilleure actrice pour son role dans \"Trop belle pour toi\"."
       },
       {
         "id": 20,
-        "question": "Qui a declare : « Claire Chazal aurait pu continuer avec un dentier et une perruque » ?",
+        "question": "Qui a declare : \"Claire Chazal aurait pu continuer avec un dentier et une perruque\" ?",
         "propositions": [
           "Gerard Holtz",
           "David Pujadas",
@@ -293,7 +293,7 @@
           "Cathriona White"
         ],
         "reponse": "Cathriona White",
-        "anecdote": "Cathriona White aurait twitte : « e quitte Twitter. J espere avoir ete une lumiere pour mes proches. »."
+        "anecdote": "Cathriona White aurait twitte : \"e quitte Twitter. J espere avoir ete une lumiere pour mes proches.\"."
       },
       {
         "id": 22,
@@ -305,11 +305,11 @@
           "Jack Laugher"
         ],
         "reponse": "Tom Daley",
-        "anecdote": "Sa declaration a ete favorablement accueillie, constituant meme un « modele pour la communaute LGBT »."
+        "anecdote": "Sa declaration a ete favorablement accueillie, constituant meme un \"modele pour la communaute LGBT\"."
       },
       {
         "id": 23,
-        "question": "Quelle bombe intemporelle a sorti en 2015 une autobiographie baptisee « Becoming » ?",
+        "question": "Quelle bombe intemporelle a sorti en 2015 une autobiographie baptisee \"Becoming\" ?",
         "propositions": [
           "Naomi Campbell",
           "Cindy Crawford",
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Qui a rompu avec Justin Long laissant le coeur de l acteur « en mille morceaux » ?",
+        "question": "Qui a rompu avec Justin Long laissant le coeur de l acteur \"en mille morceaux\" ?",
         "propositions": [
           "Laurie Holden",
           "Elisabeth Moss",
@@ -341,7 +341,7 @@
           "Bobby V"
         ],
         "reponse": "Chris Brown",
-        "anecdote": "La chaîne YouTube de Chris Brown est l une des plus regardees dans le monde."
+        "anecdote": "La chaine YouTube de Chris Brown est l une des plus regardees dans le monde."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Jack Nicholson"
         ],
         "reponse": "Tom Hanks",
-        "anecdote": "Tom Hanks a connu la consecration avec « Philadelphia » et « Forrest Gump », qui lui valurent chacun un Oscar."
+        "anecdote": "Tom Hanks a connu la consecration avec \"Philadelphia\" et \"Forrest Gump\", qui lui valurent chacun un Oscar."
       },
       {
         "id": 27,
@@ -389,11 +389,11 @@
           "Mary Juanna"
         ],
         "reponse": "Merryjane",
-        "anecdote": "Fumeur de marijuana compulsif, il s est egalement surnomme « Snoop Lion » en 2012."
+        "anecdote": "Fumeur de marijuana compulsif, il s est egalement surnomme \"Snoop Lion\" en 2012."
       },
       {
         "id": 30,
-        "question": "La fille de quel grand chanteur s est devoile a 24 ans en lingerie pour le magazine « GQ » ?",
+        "question": "La fille de quel grand chanteur s est devoile a 24 ans en lingerie pour le magazine \"GQ\" ?",
         "propositions": [
           "Kurt Cobain",
           "Bono",
@@ -401,7 +401,7 @@
           "Lenny Kravitz"
         ],
         "reponse": "Bono",
-        "anecdote": "Nee en 1991, cette actrice irlandaise a tenu son premier rôle majeur dans « This Must Be the Place »."
+        "anecdote": "Nee en 1991, cette actrice irlandaise a tenu son premier role majeur dans \"This Must Be the Place\"."
       }
     ]
     }

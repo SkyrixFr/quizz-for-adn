@@ -61,7 +61,7 @@
           "Maxime Berry"
         ],
         "reponse": "Philippe Berry",
-        "anecdote": "Comme sa mere, Marilou Berry s orientera rapidement vers la comedie avec « Il etait une fois dans l oued » puis « Nos jours heureux »."
+        "anecdote": "Comme sa mere, Marilou Berry s orientera rapidement vers la comedie avec \"Il etait une fois dans l oued\" puis \"Nos jours heureux\"."
       },
       {
         "id": 3,
@@ -70,10 +70,10 @@
           "Bernard Cazeneuve",
           "Manuel Valls",
           "Jean-Marc Ayrault",
-          "Édouard Philippe"
+          "Edouard Philippe"
         ],
-        "reponse": "Édouard Philippe",
-        "anecdote": "L ancien maire du Havre ressemble beaucoup a Trevor Philips de « GTA V », accessoirement un psychopathe toxicomane de jeu video."
+        "reponse": "Edouard Philippe",
+        "anecdote": "L ancien maire du Havre ressemble beaucoup a Trevor Philips de \"GTA V\", accessoirement un psychopathe toxicomane de jeu video."
       },
       {
         "id": 4,
@@ -109,7 +109,7 @@
           "Julianne Moore"
         ],
         "reponse": "Diane Kruger",
-        "anecdote": "Son ancien compagnon, l acteur Joshua Jackson, s est declare etre « aux anges » dans un message poste sur Instagram."
+        "anecdote": "Son ancien compagnon, l acteur Joshua Jackson, s est declare etre \"aux anges\" dans un message poste sur Instagram."
       },
       {
         "id": 7,
@@ -121,11 +121,11 @@
           "Laurent Ruquier"
         ],
         "reponse": "Laurent Ruquier",
-        "anecdote": "Ouvertement homosexuel, Laurent Ruquier a fait son coming out en 1997, au cours du sketch « Enfin gentil »."
+        "anecdote": "Ouvertement homosexuel, Laurent Ruquier a fait son coming out en 1997, au cours du sketch \"Enfin gentil\"."
       },
       {
         "id": 8,
-        "question": "Qui traite du combat de son fils contre la maladie dans « Mon petit coeur de beurre » ?",
+        "question": "Qui traite du combat de son fils contre la maladie dans \"Mon petit coeur de beurre\" ?",
         "propositions": [
           "Sofia Mestari",
           "Chimene Badi",
@@ -133,11 +133,11 @@
           "Laura Cartesiani"
         ],
         "reponse": "Natasha St-Pier",
-        "anecdote": "Atteint d une malformation cardiaque, il engagea Natasha a rejoindre l association « Petit Coeur de Beurre » comme marraine."
+        "anecdote": "Atteint d une malformation cardiaque, il engagea Natasha a rejoindre l association \"Petit Coeur de Beurre\" comme marraine."
       },
       {
         "id": 9,
-        "question": "Quel chroniqueur de « TPMP », present depuis son lancement, a fini l aventure en mai 2017 ?",
+        "question": "Quel chroniqueur de \"TPMP\", present depuis son lancement, a fini l aventure en mai 2017 ?",
         "propositions": [
           "Thierry Moreau",
           "Jean-Luc Lemoine",
@@ -157,7 +157,7 @@
           "Les 10 ans"
         ],
         "reponse": "Les 20 ans",
-        "anecdote": "Des journalistes se sont penches sur le rapport d enquete et y ont fait des decouvertes revelees dans le livre « Qui a tue Lady Di ? »."
+        "anecdote": "Des journalistes se sont penches sur le rapport d enquete et y ont fait des decouvertes revelees dans le livre \"Qui a tue Lady Di ?\"."
       }
     ],
     "confirme": [
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quelle cherie de Kristen Stewart a pose entierement nue pour la couverture de « Vogue » ?",
+        "question": "Quelle cherie de Kristen Stewart a pose entierement nue pour la couverture de \"Vogue\" ?",
         "propositions": [
           "Heidi Klum",
           "Miranda Kerr",
@@ -199,7 +199,7 @@
       },
       {
         "id": 14,
-        "question": "En mai 2017, qui etait le grand champion du jeu « Tout le monde a son mot a dire » sur France 2 ?",
+        "question": "En mai 2017, qui etait le grand champion du jeu \"Tout le monde a son mot a dire\" sur France 2 ?",
         "propositions": [
           "Pascal",
           "Antoine",
@@ -207,11 +207,11 @@
           "Christian"
         ],
         "reponse": "Gregory",
-        "anecdote": "Ce professeur des ecoles du genre tres modeste savoura chacune de ses victoires aux côtes d Olivier Minne et de Sidonie Bonnec."
+        "anecdote": "Ce professeur des ecoles du genre tres modeste savoura chacune de ses victoires aux cotes d Olivier Minne et de Sidonie Bonnec."
       },
       {
         "id": 15,
-        "question": "Qui a remplace Nabilla en 2017 sur la liste des candidats participant a l emission « Fort Boyard » ?",
+        "question": "Qui a remplace Nabilla en 2017 sur la liste des candidats participant a l emission \"Fort Boyard\" ?",
         "propositions": [
           "Caroline Receveur",
           "Nadege Dabrowski",
@@ -219,7 +219,7 @@
           "Enora Malagre"
         ],
         "reponse": "Ayem Nour",
-        "anecdote": "La directrice executive de France 2 a en effet decide que la bimbo de tele-realite etait « persona non grata » sur France 2."
+        "anecdote": "La directrice executive de France 2 a en effet decide que la bimbo de tele-realite etait \"persona non grata\" sur France 2."
       },
       {
         "id": 16,
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Quelle star de « Shameless » s est mariee avec le scenariste et realisateur Sam Esmail ?",
+        "question": "Quelle star de \"Shameless\" s est mariee avec le scenariste et realisateur Sam Esmail ?",
         "propositions": [
           "Shanola Hampton",
           "Emmy Rossum",
@@ -255,7 +255,7 @@
           "Joan Cusack"
         ],
         "reponse": "Emmy Rossum",
-        "anecdote": "Emmy Rossum apporte son soutien a l ONG « Sea Shepherd », notamment en portant un de leurs tee-shirts dans sa serie."
+        "anecdote": "Emmy Rossum apporte son soutien a l ONG \"Sea Shepherd\", notamment en portant un de leurs tee-shirts dans sa serie."
       },
       {
         "id": 19,
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "De qui Valerie Lemercier s est-elle inspire pour son rôle de Marie-Francine au cinema ?",
+        "question": "De qui Valerie Lemercier s est-elle inspire pour son role de Marie-Francine au cinema ?",
         "propositions": [
           "Sylvie Tellier",
           "Segolene Royal",
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "À l occasion de la fete des Meres, avec qui Billie Lourd a-t-elle poste une photo sur Instagram ?",
+        "question": "A l occasion de la fete des Meres, avec qui Billie Lourd a-t-elle poste une photo sur Instagram ?",
         "propositions": [
           "Penelope Cruz",
           "Diane Kruger",
@@ -305,11 +305,11 @@
           "Emmy Rossum"
         ],
         "reponse": "Carrie Fisher",
-        "anecdote": "Billie Lourd est la fille de Carrie Fisher, mondialement celebre pour son rôle de la Princesse Leia dans la saga « Star Wars »."
+        "anecdote": "Billie Lourd est la fille de Carrie Fisher, mondialement celebre pour son role de la Princesse Leia dans la saga \"Star Wars\"."
       },
       {
         "id": 23,
-        "question": "Aux côtes de qui Kad Merad a-t-il assiste au match de gala entre Marseille et Bordeaux ?",
+        "question": "Aux cotes de qui Kad Merad a-t-il assiste au match de gala entre Marseille et Bordeaux ?",
         "propositions": [
           "Natasha St-Pier",
           "Julia Vignali",
@@ -324,7 +324,7 @@
         "question": "Quel sport le chanteur et mannequin Baptiste Giabiconi a-t-il ajoute a son arc ?",
         "propositions": [
           "Football",
-          "Équitation",
+          "Equitation",
           "Curling",
           "Squash"
         ],
@@ -345,7 +345,7 @@
       },
       {
         "id": 26,
-        "question": "Quel transsexuel, ne femme avant de devenir homme, est « le premier homme enceinte » ?",
+        "question": "Quel transsexuel, ne femme avant de devenir homme, est \"le premier homme enceinte\" ?",
         "propositions": [
           "Thomas Beatie",
           "Chaz Bono",
@@ -353,7 +353,7 @@
           "Rupert Raj"
         ],
         "reponse": "Thomas Beatie",
-        "anecdote": "Pour financer la fecondation in vitro, le candidat de « Secret Story 10 » a dû lever plusieurs milliers d euros."
+        "anecdote": "Pour financer la fecondation in vitro, le candidat de \"Secret Story 10\" a dû lever plusieurs milliers d euros."
       },
       {
         "id": 27,
@@ -365,7 +365,7 @@
           "Dina Manzo"
         ],
         "reponse": "Dina Manzo",
-        "anecdote": "Elle est surtout connue pour son apparition Dans « The Real Housewives of New Jersey » et sa propre serie « Dina s Party »."
+        "anecdote": "Elle est surtout connue pour son apparition Dans \"The Real Housewives of New Jersey\" et sa propre serie \"Dina s Party\"."
       },
       {
         "id": 28,
@@ -374,7 +374,7 @@
           "Isaure",
           "Chloe",
           "Camilla",
-          "Églantine"
+          "Eglantine"
         ],
         "reponse": "Isaure",
         "anecdote": "Nelson Monfort est marie avec Dominique avec laquelle il a eu deux enfants, Isaure (nee en 1984) et Victoria (nee en 1988)."
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "Sur quelle chaîne Estelle Denis va-t-elle animer une quotidienne apres son depart de C8 ?",
+        "question": "Sur quelle chaine Estelle Denis va-t-elle animer une quotidienne apres son depart de C8 ?",
         "propositions": [
           "NRJ12",
           "Canal+",
@@ -401,7 +401,7 @@
           "TF1"
         ],
         "reponse": "L Equipe",
-        "anecdote": "« C est formidable de pouvoir animer un rendez-vous quotidien melant analyse, debat et bonne humeur » a confie Estelle Denis."
+        "anecdote": "\"C est formidable de pouvoir animer un rendez-vous quotidien melant analyse, debat et bonne humeur\" a confie Estelle Denis."
       }
     ]
     }

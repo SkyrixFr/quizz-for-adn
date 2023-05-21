@@ -49,7 +49,7 @@
           "Peter Dinklage"
         ],
         "reponse": "Peter Dinklage",
-        "anecdote": "Tres engage, il devient en 2012 le porte-parole de « Walk for Farm Animals », un evenement de defense des animaux de ferme."
+        "anecdote": "Tres engage, il devient en 2012 le porte-parole de \"Walk for Farm Animals\", un evenement de defense des animaux de ferme."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Slimane"
         ],
         "reponse": "Kendji Girac",
-        "anecdote": "Kendji Girac s est fait connaître sur Internet en août 2013 avec une reprise de « Bella » de Maître Gims, dans un style gipsy."
+        "anecdote": "Kendji Girac s est fait connaitre sur Internet en août 2013 avec une reprise de \"Bella\" de Maitre Gims, dans un style gipsy."
       },
       {
         "id": 3,
@@ -85,7 +85,7 @@
           "Pixie Lott"
         ],
         "reponse": "Katy Perry",
-        "anecdote": "Katy Perry est la seule artiste a etre restee plus de 52 semaines consecutives dans le top 10 du « Billboard Hot 100 »."
+        "anecdote": "Katy Perry est la seule artiste a etre restee plus de 52 semaines consecutives dans le top 10 du \"Billboard Hot 100\"."
       },
       {
         "id": 5,
@@ -97,11 +97,11 @@
           "Myriam Abel"
         ],
         "reponse": "Nabilla",
-        "anecdote": "Nabilla Benattia a tourne une intervention pour un numero televisuel de « Zone Interdite » aux côtes d Ophelie Meunier."
+        "anecdote": "Nabilla Benattia a tourne une intervention pour un numero televisuel de \"Zone Interdite\" aux cotes d Ophelie Meunier."
       },
       {
         "id": 6,
-        "question": "Quelle pionniere de la tele-realite a fait son retour dans « Les Anges 9 » ?",
+        "question": "Quelle pionniere de la tele-realite a fait son retour dans \"Les Anges 9\" ?",
         "propositions": [
           "Caroline Receveur",
           "Nabilla",
@@ -133,7 +133,7 @@
           "Beyonce"
         ],
         "reponse": "Adele",
-        "anecdote": "Recompensee lors des Grammys, la chanteuse britannique avait deja parle de son « mari » lors de son discours de remerciements."
+        "anecdote": "Recompensee lors des Grammys, la chanteuse britannique avait deja parle de son \"mari\" lors de son discours de remerciements."
       },
       {
         "id": 9,
@@ -149,7 +149,7 @@
       },
       {
         "id": 10,
-        "question": "Quelle star de la saga « Harry Potter » refuse de prendre des selfies ?",
+        "question": "Quelle star de la saga \"Harry Potter\" refuse de prendre des selfies ?",
         "propositions": [
           "Carolyn Pickles",
           "Sally Mortemore",
@@ -157,13 +157,13 @@
           "Emma Watson"
         ],
         "reponse": "Emma Watson",
-        "anecdote": "« Ainsi, ils peuvent voir ce que je porte et avec qui je suis. Je ne peux pas donner ce moyen de me suivre. »"
+        "anecdote": "\"Ainsi, ils peuvent voir ce que je porte et avec qui je suis. Je ne peux pas donner ce moyen de me suivre.\""
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "À quelle danseuse de DALS la marque Triumph s est-elle associee ?",
+        "question": "A quelle danseuse de DALS la marque Triumph s est-elle associee ?",
         "propositions": [
           "Candice Pascal",
           "Fauve Hautot",
@@ -183,11 +183,11 @@
           "Kathleen Robertson"
         ],
         "reponse": "Tori Spelling",
-        "anecdote": "Tori Spelling est connue pour etre la fille d Aaron Spelling et pour avoir joue dans la serie « Beverly Hills 90210 » entre 1990 a 2000."
+        "anecdote": "Tori Spelling est connue pour etre la fille d Aaron Spelling et pour avoir joue dans la serie \"Beverly Hills 90210\" entre 1990 a 2000."
       },
       {
         "id": 13,
-        "question": "Quel animateur tele a pudiquement revele en 2017 etre « heteromo» ?",
+        "question": "Quel animateur tele a pudiquement revele en 2017 etre \"heteromo» ?",
         "propositions": [
           "Jean-Pierre Castaldi",
           "Jean-Luc Reichmann",
@@ -207,7 +207,7 @@
           "Karim Boutadjine"
         ],
         "reponse": "Youcef Touati",
-        "anecdote": "Quelques heures apres avoir quitte l hôpital, la chanteuse a eu une pensee emue pour les autres victimes de la collision."
+        "anecdote": "Quelques heures apres avoir quitte l hopital, la chanteuse a eu une pensee emue pour les autres victimes de la collision."
       },
       {
         "id": 15,
@@ -235,7 +235,7 @@
       },
       {
         "id": 17,
-        "question": "Qui a ete couronnee meilleure actrice dans un second rôle aux Oscars 2017 ?",
+        "question": "Qui a ete couronnee meilleure actrice dans un second role aux Oscars 2017 ?",
         "propositions": [
           "Viola Davis",
           "Patricia Arquette",
@@ -255,11 +255,11 @@
           "Bryan Adams"
         ],
         "reponse": "Boy George",
-        "anecdote": "Ne George Alan O Dowd, Boy George est classe a de nombreuses reprises au classement des 100 meilleurs DJ etabli par le « DJ Mag »."
+        "anecdote": "Ne George Alan O Dowd, Boy George est classe a de nombreuses reprises au classement des 100 meilleurs DJ etabli par le \"DJ Mag\"."
       },
       {
         "id": 19,
-        "question": "Quelle actrice incarnant Wendy a ete evincee de « Plus belle la vie » ?",
+        "question": "Quelle actrice incarnant Wendy a ete evincee de \"Plus belle la vie\" ?",
         "propositions": [
           "Celine Vitcoq",
           "Sylvie Flepp",
@@ -267,11 +267,11 @@
           "Rebecca Hampton"
         ],
         "reponse": "Celine Vitcoq",
-        "anecdote": "Wendy, le personnage que Celine Vitcoq incarne depuis quatre ans, va de plus connaître une fin dramatique."
+        "anecdote": "Wendy, le personnage que Celine Vitcoq incarne depuis quatre ans, va de plus connaitre une fin dramatique."
       },
       {
         "id": 20,
-        "question": "Qui a remplace Frederic Beigbeder a la direction du magazine « Lui » ?",
+        "question": "Qui a remplace Frederic Beigbeder a la direction du magazine \"Lui\" ?",
         "propositions": [
           "Frederic Taddei",
           "Philippe Besson",
@@ -279,13 +279,13 @@
           "Laurent Cabrol"
         ],
         "reponse": "Frederic Taddei",
-        "anecdote": "Depuis fin septembre 2010, Frederic Taddeï tient chaque mois « ses carnets de voyageur moderne » dans Le Figaro magazine."
+        "anecdote": "Depuis fin septembre 2010, Frederic Taddeï tient chaque mois \"ses carnets de voyageur moderne\" dans Le Figaro magazine."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quelle « heroïne transgenre » vit avec Frederic Taddeï depuis presque 25 ans ?",
+        "question": "Quelle \"heroïne transgenre\" vit avec Frederic Taddeï depuis presque 25 ans ?",
         "propositions": [
           "Claire Nadeau",
           "Claire Nebout",
@@ -293,11 +293,11 @@
           "Marie-Anne Chazel"
         ],
         "reponse": "Claire Nebout",
-        "anecdote": "Dans la premiere partie de sa carriere, le physique de femme fatale de Claire Nebout lui permit de jouer de nombreux rôles."
+        "anecdote": "Dans la premiere partie de sa carriere, le physique de femme fatale de Claire Nebout lui permit de jouer de nombreux roles."
       },
       {
         "id": 22,
-        "question": "À 81 ans, quel chanteur a attaque sa propre fille en justice en 2017 ?",
+        "question": "A 81 ans, quel chanteur a attaque sa propre fille en justice en 2017 ?",
         "propositions": [
           "Tony Bennett",
           "Chet Baker",
@@ -305,7 +305,7 @@
           "Nat King Cole"
         ],
         "reponse": "Jerry Lee Lewis",
-        "anecdote": "L interprete de « Great Balls of Fire » poursuit sa propre fille en justice, car il l accuse de l avoir drogue pour voler sa fortune."
+        "anecdote": "L interprete de \"Great Balls of Fire\" poursuit sa propre fille en justice, car il l accuse de l avoir drogue pour voler sa fortune."
       },
       {
         "id": 23,
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Quelle compagne de Christophe Aleveque a remporte « Nice People » en 2003 ?",
+        "question": "Quelle compagne de Christophe Aleveque a remporte \"Nice People\" en 2003 ?",
         "propositions": [
           "Elena Lenina",
           "Raquel Morcillo",
@@ -377,7 +377,7 @@
           "Zaven Aslanian"
         ],
         "reponse": "Zaven Aslanian",
-        "anecdote": "« Je l ai rencontree au Nouvel An et apres on a passe 2/3 jours ensemble. J ai beaucoup d amis grace au milieu de la nuit. »."
+        "anecdote": "\"Je l ai rencontree au Nouvel An et apres on a passe 2/3 jours ensemble. J ai beaucoup d amis grace au milieu de la nuit.\"."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Jessica Errero"
         ],
         "reponse": "Jessica Errero",
-        "anecdote": "« Les Marseillais » est une tele-realite francaise diffusee en avant-soiree sur W9 depuis le 19 novembre 2012."
+        "anecdote": "\"Les Marseillais\" est une tele-realite francaise diffusee en avant-soiree sur W9 depuis le 19 novembre 2012."
       },
       {
         "id": 30,

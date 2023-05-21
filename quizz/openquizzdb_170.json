@@ -49,7 +49,7 @@
           "Jean Reno"
         ],
         "reponse": "Tom Cruise",
-        "anecdote": "Tom Cruise etait present a Paris pour realiser les scenes de « Mission Impossible 6 » qui se deroulent dans la ville Lumiere."
+        "anecdote": "Tom Cruise etait present a Paris pour realiser les scenes de \"Mission Impossible 6\" qui se deroulent dans la ville Lumiere."
       },
       {
         "id": 2,
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Qui a ete (enfin) creditee sur le tube « Imagine » de John Lennon ?",
+        "question": "Qui a ete (enfin) creditee sur le tube \"Imagine\" de John Lennon ?",
         "propositions": [
           "Cilla Black",
           "Maureen Cox",
@@ -97,7 +97,7 @@
           "Jane Asher"
         ],
         "reponse": "Yoko Ono",
-        "anecdote": "46 ans apres la sortie d « Imagine », Yoko Ono en devient co-auteure : une reconnaissance jugee tardive pour l artiste japonaise."
+        "anecdote": "46 ans apres la sortie d \"Imagine\", Yoko Ono en devient co-auteure : une reconnaissance jugee tardive pour l artiste japonaise."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Charles Aznavour"
         ],
         "reponse": "Charles Aznavour",
-        "anecdote": "L interprete de « La Boheme » rejoint une vingtaine de Francais ou d artistes originaires de France honores sur la promenade."
+        "anecdote": "L interprete de \"La Boheme\" rejoint une vingtaine de Francais ou d artistes originaires de France honores sur la promenade."
       },
       {
         "id": 7,
@@ -145,7 +145,7 @@
           "75"
         ],
         "reponse": "85",
-        "anecdote": "Le moins que l on puisse dire, c est que la dame au chapeau nee a Longwy en 1932 paraît bien plus jeune que son age."
+        "anecdote": "Le moins que l on puisse dire, c est que la dame au chapeau nee a Longwy en 1932 parait bien plus jeune que son age."
       },
       {
         "id": 10,
@@ -183,11 +183,11 @@
           "Daphne Chollet"
         ],
         "reponse": "Cristina Cordula",
-        "anecdote": "Apres s etre mariee deux fois, sur l île de Capri et a Singapour, Cristina Cordula a de nouveau epouse son compagnon a Rio."
+        "anecdote": "Apres s etre mariee deux fois, sur l ile de Capri et a Singapour, Cristina Cordula a de nouveau epouse son compagnon a Rio."
       },
       {
         "id": 13,
-        "question": "Quelle star de « Game of Thrones » a ete engagee en partie grace a ses followers ?",
+        "question": "Quelle star de \"Game of Thrones\" a ete engagee en partie grace a ses followers ?",
         "propositions": [
           "Sophie Turner",
           "Lena Headey",
@@ -195,11 +195,11 @@
           "Emilia Clarke"
         ],
         "reponse": "Sophie Turner",
-        "anecdote": "La star de la serie devoile ainsi l envers du decor et met en lumiere le côte obscur de l industrie cinematographique."
+        "anecdote": "La star de la serie devoile ainsi l envers du decor et met en lumiere le cote obscur de l industrie cinematographique."
       },
       {
         "id": 14,
-        "question": "Quelle star de tele-realite a tout simplement declare : « Mes fesses sont magnifiques » ?",
+        "question": "Quelle star de tele-realite a tout simplement declare : \"Mes fesses sont magnifiques\" ?",
         "propositions": [
           "Melanie Amar",
           "Sarah Fraisou",
@@ -219,7 +219,7 @@
           "Sara Hess"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "La creatrice de « Grey s Anatomy », Shonda Rhimes, a quitte ABC apres plus de quinze ans de collaboration commerciale fructueuse."
+        "anecdote": "La creatrice de \"Grey s Anatomy\", Shonda Rhimes, a quitte ABC apres plus de quinze ans de collaboration commerciale fructueuse."
       },
       {
         "id": 16,
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "À 69 ans, quel acteur francais est devenu papa pour la quatrieme fois ?",
+        "question": "A 69 ans, quel acteur francais est devenu papa pour la quatrieme fois ?",
         "propositions": [
           "Jean-Pierre Bacri",
           "Gerard Darmon",
@@ -305,7 +305,7 @@
           "Greg Lake"
         ],
         "reponse": "Ron Wood",
-        "anecdote": "Le guitariste des Rolling Stones a explique qu une tumeur avait ete decouverte chez lui lors d un simple contrôle de routine."
+        "anecdote": "Le guitariste des Rolling Stones a explique qu une tumeur avait ete decouverte chez lui lors d un simple controle de routine."
       },
       {
         "id": 23,
@@ -317,11 +317,11 @@
           "Harry"
         ],
         "reponse": "Stephen",
-        "anecdote": "Ne fille, souhaitant devenir un homme, Stephen est devenu l un des porte-voix de la communaute transgenre aux États-Unis."
+        "anecdote": "Ne fille, souhaitant devenir un homme, Stephen est devenu l un des porte-voix de la communaute transgenre aux Etats-Unis."
       },
       {
         "id": 24,
-        "question": "Quel mannequin atteinte de vitiligo prône l amour de soi sur Instagram ?",
+        "question": "Quel mannequin atteinte de vitiligo prone l amour de soi sur Instagram ?",
         "propositions": [
           "Rebecca Heckard",
           "Ashley Graham",
@@ -329,11 +329,11 @@
           "Olivia Palermo"
         ],
         "reponse": "Rebecca Heckard",
-        "anecdote": "À 21 ans, Rebecca Heckard a fait de son compte Instagram un merveilleux outil pour diffuser ses appels a la tolerance."
+        "anecdote": "A 21 ans, Rebecca Heckard a fait de son compte Instagram un merveilleux outil pour diffuser ses appels a la tolerance."
       },
       {
         "id": 25,
-        "question": "Qui se cache derriere Passe-Muraille, le messager du Pere Fouras dans « Fort Boyard » ?",
+        "question": "Qui se cache derriere Passe-Muraille, le messager du Pere Fouras dans \"Fort Boyard\" ?",
         "propositions": [
           "Alain Prevost",
           "Anthony Laborde",
@@ -341,7 +341,7 @@
           "Yves Marchesseau"
         ],
         "reponse": "Anthony Laborde",
-        "anecdote": "En 2004, l homme de 34 ans a integre l equipe de « Fort Boyard » grace a l un de ses amis, un certain Passe-Partout."
+        "anecdote": "En 2004, l homme de 34 ans a integre l equipe de \"Fort Boyard\" grace a l un de ses amis, un certain Passe-Partout."
       },
       {
         "id": 26,
@@ -417,7 +417,7 @@
           "Tom Cruise"
         ],
         "reponse": "Tom Cruise",
-        "anecdote": "Tom Cruise was present in Paris to direct the scenes of « Mission Impossible 6 » which take place in the city of Lights."
+        "anecdote": "Tom Cruise was present in Paris to direct the scenes of \"Mission Impossible 6\" which take place in the city of Lights."
       },
       {
         "id": 2,
@@ -457,7 +457,7 @@
       },
       {
         "id": 5,
-        "question": "Who was (finally) credited on John Lennon s « Imagine » tube ?",
+        "question": "Who was (finally) credited on John Lennon s \"Imagine\" tube ?",
         "propositions": [
           "Yoko Ono",
           "Maureen Cox",
@@ -465,7 +465,7 @@
           "Cilla Black"
         ],
         "reponse": "Yoko Ono",
-        "anecdote": "46 years after the release of « Imagine », Yoko Ono becomes co-author: a recognition deemed late for the Japanese artist."
+        "anecdote": "46 years after the release of \"Imagine\", Yoko Ono becomes co-author: a recognition deemed late for the Japanese artist."
       },
       {
         "id": 6,
@@ -477,7 +477,7 @@
           "Louis Chedid"
         ],
         "reponse": "Charles Aznavour",
-        "anecdote": "The interpreter of « La Boheme » joins twenty French people or artists from France honored on the promenade."
+        "anecdote": "The interpreter of \"La Boheme\" joins twenty French people or artists from France honored on the promenade."
       },
       {
         "id": 7,
@@ -555,7 +555,7 @@
       },
       {
         "id": 13,
-        "question": "Which star of « Game of Thrones » was engaged in part thanks to his followers ?",
+        "question": "Which star of \"Game of Thrones\" was engaged in part thanks to his followers ?",
         "propositions": [
           "Maisie Williams",
           "Emilia Clarke",
@@ -567,7 +567,7 @@
       },
       {
         "id": 14,
-        "question": "Which reality star has simply declared : « My buttocks are beautiful » ?",
+        "question": "Which reality star has simply declared : \"My buttocks are beautiful\" ?",
         "propositions": [
           "Melanie Amar",
           "Barbara Moon",
@@ -587,7 +587,7 @@
           "Nancy Dowd"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "« Grey s Anatomy » creator Shonda Rhimes left ABC after more than fifteen years of successful business collaboration."
+        "anecdote": "\"Grey s Anatomy\" creator Shonda Rhimes left ABC after more than fifteen years of successful business collaboration."
       },
       {
         "id": 16,
@@ -701,7 +701,7 @@
       },
       {
         "id": 25,
-        "question": "Who is hiding behind Passe-Muraille, the messenger of Father Fouras in « Fort Boyard » ?",
+        "question": "Who is hiding behind Passe-Muraille, the messenger of Father Fouras in \"Fort Boyard\" ?",
         "propositions": [
           "Alain Prevost",
           "Andre Bouchet",
@@ -709,7 +709,7 @@
           "Anthony Laborde"
         ],
         "reponse": "Anthony Laborde",
-        "anecdote": "In 2004, the 34-year-old joined the « Fort Boyard » team thanks to one of his friends, a certain Passe-Partout."
+        "anecdote": "In 2004, the 34-year-old joined the \"Fort Boyard\" team thanks to one of his friends, a certain Passe-Partout."
       },
       {
         "id": 26,
@@ -785,7 +785,7 @@
           "Bruce Willis"
         ],
         "reponse": "Tom Cruise",
-        "anecdote": "Tom Cruise war in Paris anwesend, um die Szenen von « Mission Impossible 6 » zu inszenieren, die in der Stadt der Lichter stattfinden."
+        "anecdote": "Tom Cruise war in Paris anwesend, um die Szenen von \"Mission Impossible 6\" zu inszenieren, die in der Stadt der Lichter stattfinden."
       },
       {
         "id": 2,
@@ -809,7 +809,7 @@
           "Hilary Swank"
         ],
         "reponse": "Charlize Theron",
-        "anecdote": "1999 machte Charlize Theron die Titelseite der berühmten Zeitschrift Vanity Fair sowie die des Playboys und zeigte mehrere nackte Bilder."
+        "anecdote": "1999 machte Charlize Theron die Titelseite der beruhmten Zeitschrift Vanity Fair sowie die des Playboys und zeigte mehrere nackte Bilder."
       },
       {
         "id": 4,
@@ -825,7 +825,7 @@
       },
       {
         "id": 5,
-        "question": "Wem wurde (endlich) John Lennons « Imagine » -Röhre gutgeschrieben ?",
+        "question": "Wem wurde (endlich) John Lennons \"Imagine\" -Röhre gutgeschrieben ?",
         "propositions": [
           "Maureen Cox",
           "Yoko Ono",
@@ -833,7 +833,7 @@
           "Jane Asher"
         ],
         "reponse": "Yoko Ono",
-        "anecdote": "46 Jahre nach der Veröffentlichung von « Imagine » wird Yoko Ono Co-Autor: eine Anerkennung, die für den japanischen Künstler als verspätet gilt."
+        "anecdote": "46 Jahre nach der Veröffentlichung von \"Imagine\" wird Yoko Ono Co-Autor: eine Anerkennung, die fur den japanischen Kunstler als verspätet gilt."
       },
       {
         "id": 6,
@@ -845,7 +845,7 @@
           "Louis Chedid"
         ],
         "reponse": "Charles Aznavour",
-        "anecdote": "Der Dolmetscher von « La Boheme » gesellt sich zu zwanzig Franzosen oder Künstlern aus Frankreich, die auf der Promenade geehrt werden."
+        "anecdote": "Der Dolmetscher von \"La Boheme\" gesellt sich zu zwanzig Franzosen oder Kunstlern aus Frankreich, die auf der Promenade geehrt werden."
       },
       {
         "id": 7,
@@ -869,7 +869,7 @@
           "Nicole Besnard"
         ],
         "reponse": "Mireille Darc",
-        "anecdote": "Nach dem Tod seines ehemaligen Partners würdigte Alain Delon Valerie Trierweiler für Paris Match."
+        "anecdote": "Nach dem Tod seines ehemaligen Partners wurdigte Alain Delon Valerie Trierweiler fur Paris Match."
       },
       {
         "id": 9,
@@ -881,7 +881,7 @@
           "55"
         ],
         "reponse": "85",
-        "anecdote": "Das Mindeste, was wir sagen können, ist, dass die Frau mit dem Hut, die 1932 in Longwy geboren wurde, viel jünger zu sein scheint als sie."
+        "anecdote": "Das Mindeste, was wir sagen können, ist, dass die Frau mit dem Hut, die 1932 in Longwy geboren wurde, viel junger zu sein scheint als sie."
       },
       {
         "id": 10,
@@ -893,13 +893,13 @@
           "Mark Zuckerberg"
         ],
         "reponse": "Mark Zuckerberg",
-        "anecdote": "Mark Zuckerberg hat angekündigt, dass er zwei Monate Vaterschaftsurlaub nehmen wird, um die ersten Schritte seines Kindes zu nutzen."
+        "anecdote": "Mark Zuckerberg hat angekundigt, dass er zwei Monate Vaterschaftsurlaub nehmen wird, um die ersten Schritte seines Kindes zu nutzen."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Welche junge Berühmtheit bringt das Web mit einer H-Tasse auf Instagram in Panik ?",
+        "question": "Welche junge Beruhmtheit bringt das Web mit einer H-Tasse auf Instagram in Panik ?",
         "propositions": [
           "Diana Jones",
           "Sarah Fraisou",
@@ -911,7 +911,7 @@
       },
       {
         "id": 12,
-        "question": "Welche Berühmtheit hat Fred Cassin 2017 zum dritten Mal geheiratet ?",
+        "question": "Welche Beruhmtheit hat Fred Cassin 2017 zum dritten Mal geheiratet ?",
         "propositions": [
           "Sonia Dubois",
           "Daphne Chollet",
@@ -923,7 +923,7 @@
       },
       {
         "id": 13,
-        "question": "Welcher Star von « Game of Thrones » war zum Teil dank seiner Anhänger verlobt ?",
+        "question": "Welcher Star von \"Game of Thrones\" war zum Teil dank seiner Anhänger verlobt ?",
         "propositions": [
           "Sophie Turner",
           "Maisie Williams",
@@ -931,11 +931,11 @@
           "Emilia Clarke"
         ],
         "reponse": "Sophie Turner",
-        "anecdote": "Der Star der Serie enthüllt somit die Rückseite des Dekors und hebt die dunkle Seite der Filmindustrie hervor."
+        "anecdote": "Der Star der Serie enthullt somit die Ruckseite des Dekors und hebt die dunkle Seite der Filmindustrie hervor."
       },
       {
         "id": 14,
-        "question": "Welcher Reality-Star hat einfach erklär t: « Mein Gesäß ist wunderschön » ?",
+        "question": "Welcher Reality-Star hat einfach erklär t: \"Mein Gesäß ist wunderschön\" ?",
         "propositions": [
           "Kim Glow",
           "Sarah Fraisou",
@@ -947,7 +947,7 @@
       },
       {
         "id": 15,
-        "question": "Welcher berühmte Showrunner hat ABC verlassen, um 2017 zu Netflix zu kommen ?",
+        "question": "Welcher beruhmte Showrunner hat ABC verlassen, um 2017 zu Netflix zu kommen ?",
         "propositions": [
           "Nancy Dowd",
           "Sara Hess",
@@ -955,7 +955,7 @@
           "Shonda Rhimes"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "« Greys Anatomy » -Erstellerin Shonda Rhimes verließ ABC nach mehr als fünfzehn Jahren erfolgreicher geschäftlicher Zusammenarbeit."
+        "anecdote": "\"Greys Anatomy\" -Erstellerin Shonda Rhimes verließ ABC nach mehr als funfzehn Jahren erfolgreicher geschäftlicher Zusammenarbeit."
       },
       {
         "id": 16,
@@ -979,11 +979,11 @@
           "Pierre Auge"
         ],
         "reponse": "Juan Arbelaez",
-        "anecdote": "Juan Arbelaez ist der Eigentümer der Restaurants Plantxa und Levain in Boulogne-Billancourt."
+        "anecdote": "Juan Arbelaez ist der Eigentumer der Restaurants Plantxa und Levain in Boulogne-Billancourt."
       },
       {
         "id": 18,
-        "question": "Welcher Sänger posierte im August 2017 für das Paper Magazine oben ohne ?",
+        "question": "Welcher Sänger posierte im August 2017 fur das Paper Magazine oben ohne ?",
         "propositions": [
           "Britney Spears",
           "Madonna",
@@ -991,7 +991,7 @@
           "Beyonce"
         ],
         "reponse": "Mariah Carey",
-        "anecdote": "Mariah Carey hat einen außergewöhnlichen Stimmumfang von fünf Oktaven und vier Noten (Eb2-Bb7)."
+        "anecdote": "Mariah Carey hat einen außergewöhnlichen Stimmumfang von funf Oktaven und vier Noten (Eb2-Bb7)."
       },
       {
         "id": 19,
@@ -1033,7 +1033,7 @@
       },
       {
         "id": 22,
-        "question": "Welcher berühmte Gitarrist hat 2017 bekannt gegeben, dass er aus Lungenkrebs hervorgegangen ist ?",
+        "question": "Welcher beruhmte Gitarrist hat 2017 bekannt gegeben, dass er aus Lungenkrebs hervorgegangen ist ?",
         "propositions": [
           "Jamie Cook",
           "Eric Stewart",
@@ -1069,7 +1069,7 @@
       },
       {
         "id": 25,
-        "question": "Wer versteckt sich hinter Passe-Muraille, dem Boten von Pater Fouras in « Fort Boyard » ?",
+        "question": "Wer versteckt sich hinter Passe-Muraille, dem Boten von Pater Fouras in \"Fort Boyard\" ?",
         "propositions": [
           "Yves Marchesseau",
           "Andre Bouchet",
@@ -1077,7 +1077,7 @@
           "Anthony Laborde"
         ],
         "reponse": "Anthony Laborde",
-        "anecdote": "Im Jahr 2004 trat der 34-Jährige dank eines seiner Freunde, einem gewissen Passe-Partout, dem « Fort Boyard » -Team bei."
+        "anecdote": "Im Jahr 2004 trat der 34-Jährige dank eines seiner Freunde, einem gewissen Passe-Partout, dem \"Fort Boyard\" -Team bei."
       },
       {
         "id": 26,
@@ -1093,7 +1093,7 @@
       },
       {
         "id": 27,
-        "question": "Dank welcher berühmten Schauspielerin wurde Meghan Markle auch Schauspielerin ?",
+        "question": "Dank welcher beruhmten Schauspielerin wurde Meghan Markle auch Schauspielerin ?",
         "propositions": [
           "Charlize Theron",
           "Emma Stone",
@@ -1117,7 +1117,7 @@
       },
       {
         "id": 29,
-        "question": "Welcher berühmte Bodybuilder starb im August 2017 im Alter von 26 Jahren erstickt ?",
+        "question": "Welcher beruhmte Bodybuilder starb im August 2017 im Alter von 26 Jahren erstickt ?",
         "propositions": [
           "Jay Cutler",
           "Ronnie Coleman",
@@ -1137,7 +1137,7 @@
           "Guy Beart"
         ],
         "reponse": "Enrico Macias",
-        "anecdote": "Nach einem langen Rechtsstreit gegen die Bank Landsbanki Luxembourg hat die Justiz Enrico Macias endgültig verstoßen."
+        "anecdote": "Nach einem langen Rechtsstreit gegen die Bank Landsbanki Luxembourg hat die Justiz Enrico Macias endgultig verstoßen."
       }
     ]
     },
@@ -1153,7 +1153,7 @@
           "Bruce Willis"
         ],
         "reponse": "Tom Cruise",
-        "anecdote": "Tom Cruise estuvo presente en París para dirigir las escenas de « Mission Impossible 6 » que tienen lugar en la Ciudad de las Luces."
+        "anecdote": "Tom Cruise estuvo presente en París para dirigir las escenas de \"Mission Impossible 6\" que tienen lugar en la Ciudad de las Luces."
       },
       {
         "id": 2,
@@ -1193,7 +1193,7 @@
       },
       {
         "id": 5,
-        "question": "¿Quien fue (finalmente) acreditado en el tubo « Imagine » de John Lennon ?",
+        "question": "¿Quien fue (finalmente) acreditado en el tubo \"Imagine\" de John Lennon ?",
         "propositions": [
           "Yoko Ono",
           "Maureen Cox",
@@ -1201,7 +1201,7 @@
           "Jane Asher"
         ],
         "reponse": "Yoko Ono",
-        "anecdote": "46 años despues del lanzamiento de « Imagine », Yoko Ono se convierte en coautora: un reconocimiento considerado tardío para el artista japones."
+        "anecdote": "46 años despues del lanzamiento de \"Imagine\", Yoko Ono se convierte en coautora: un reconocimiento considerado tardío para el artista japones."
       },
       {
         "id": 6,
@@ -1213,7 +1213,7 @@
           "Charles Aznavour"
         ],
         "reponse": "Charles Aznavour",
-        "anecdote": "El interprete de « La Boheme » se une a unos veinte franceses o artistas de Francia honrados en el paseo marítimo."
+        "anecdote": "El interprete de \"La Boheme\" se une a unos veinte franceses o artistas de Francia honrados en el paseo marítimo."
       },
       {
         "id": 7,
@@ -1291,7 +1291,7 @@
       },
       {
         "id": 13,
-        "question": "¿Que estrella de « Game of Thrones » se comprometió en parte gracias a sus seguidores ?",
+        "question": "¿Que estrella de \"Game of Thrones\" se comprometió en parte gracias a sus seguidores ?",
         "propositions": [
           "Maisie Williams",
           "Lena Headey",
@@ -1303,7 +1303,7 @@
       },
       {
         "id": 14,
-        "question": "¿Que estrella de la realidad simplemente ha declarado : « Mis nalgas son hermosas » ?",
+        "question": "¿Que estrella de la realidad simplemente ha declarado : \"Mis nalgas son hermosas\" ?",
         "propositions": [
           "Barbara Moon",
           "Sarah Fraisou",
@@ -1323,7 +1323,7 @@
           "Nancy Dowd"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "La creadora de « Grey s Anatomy », Shonda Rhimes, dejó ABC despues de más de quince años de exitosa colaboración comercial."
+        "anecdote": "La creadora de \"Grey s Anatomy\", Shonda Rhimes, dejó ABC despues de más de quince años de exitosa colaboración comercial."
       },
       {
         "id": 16,
@@ -1437,7 +1437,7 @@
       },
       {
         "id": 25,
-        "question": "¿Quien se esconde detrás de Passe-Muraille, el mensajero del padre Fouras en « Fort Boyard » ?",
+        "question": "¿Quien se esconde detrás de Passe-Muraille, el mensajero del padre Fouras en \"Fort Boyard\" ?",
         "propositions": [
           "Alain Prevost",
           "Yves Marchesseau",
@@ -1445,7 +1445,7 @@
           "Andre Bouchet"
         ],
         "reponse": "Anthony Laborde",
-        "anecdote": "En 2004, el hombre de 34 años se unió al equipo « Fort Boyard » gracias a uno de sus amigos, un cierto Passe-Partout."
+        "anecdote": "En 2004, el hombre de 34 años se unió al equipo \"Fort Boyard\" gracias a uno de sus amigos, un cierto Passe-Partout."
       },
       {
         "id": 26,
@@ -1521,7 +1521,7 @@
           "Tom Cruise"
         ],
         "reponse": "Tom Cruise",
-        "anecdote": "Tom Cruise era presente a Parigi per dirigere le scene di « Mission Impossible 6 » che si svolgono nella citta delle luci."
+        "anecdote": "Tom Cruise era presente a Parigi per dirigere le scene di \"Mission Impossible 6\" che si svolgono nella citta delle luci."
       },
       {
         "id": 2,
@@ -1561,7 +1561,7 @@
       },
       {
         "id": 5,
-        "question": "Chi e stato (finalmente) accreditato sul tubo « Imagine » di John Lennon ?",
+        "question": "Chi e stato (finalmente) accreditato sul tubo \"Imagine\" di John Lennon ?",
         "propositions": [
           "Yoko Ono",
           "Maureen Cox",
@@ -1569,7 +1569,7 @@
           "Cilla Black"
         ],
         "reponse": "Yoko Ono",
-        "anecdote": "46 anni dopo l uscita di « Imagine », Yoko Ono diventa coautore: un riconoscimento ritenuto in ritardo per l artista giapponese."
+        "anecdote": "46 anni dopo l uscita di \"Imagine\", Yoko Ono diventa coautore: un riconoscimento ritenuto in ritardo per l artista giapponese."
       },
       {
         "id": 6,
@@ -1581,7 +1581,7 @@
           "Serge Lama"
         ],
         "reponse": "Charles Aznavour",
-        "anecdote": "L interprete di « La Boheme » si unisce a venti francesi o artisti francesi onorati sul lungomare."
+        "anecdote": "L interprete di \"La Boheme\" si unisce a venti francesi o artisti francesi onorati sul lungomare."
       },
       {
         "id": 7,
@@ -1659,7 +1659,7 @@
       },
       {
         "id": 13,
-        "question": "Quale star di « Game of Thrones » e stata coinvolta in parte grazie ai suoi seguaci ?",
+        "question": "Quale star di \"Game of Thrones\" e stata coinvolta in parte grazie ai suoi seguaci ?",
         "propositions": [
           "Lena Headey",
           "Emilia Clarke",
@@ -1671,7 +1671,7 @@
       },
       {
         "id": 14,
-        "question": "Quale star della realta ha semplicemente dichiarato : « I miei glutei sono belli » ?",
+        "question": "Quale star della realta ha semplicemente dichiarato : \"I miei glutei sono belli\" ?",
         "propositions": [
           "Barbara Moon",
           "Kim Glow",
@@ -1691,7 +1691,7 @@
           "Sara Hess"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "La creatrice di « Grey s Anatomy » Shonda Rhimes ha lasciato la ABC dopo oltre quindici anni di collaborazione commerciale di successo."
+        "anecdote": "La creatrice di \"Grey s Anatomy\" Shonda Rhimes ha lasciato la ABC dopo oltre quindici anni di collaborazione commerciale di successo."
       },
       {
         "id": 16,
@@ -1805,7 +1805,7 @@
       },
       {
         "id": 25,
-        "question": "Chi si nasconde dietro Passe-Muraille, il messaggero di padre Fouras in « Fort Boyard » ?",
+        "question": "Chi si nasconde dietro Passe-Muraille, il messaggero di padre Fouras in \"Fort Boyard\" ?",
         "propositions": [
           "Andre Bouchet",
           "Alain Prevost",
@@ -1813,7 +1813,7 @@
           "Yves Marchesseau"
         ],
         "reponse": "Anthony Laborde",
-        "anecdote": "Nel 2004, il 34enne si e unito al team « Fort Boyard » grazie a uno dei suoi amici, un certo Passe-Partout."
+        "anecdote": "Nel 2004, il 34enne si e unito al team \"Fort Boyard\" grazie a uno dei suoi amici, un certo Passe-Partout."
       },
       {
         "id": 26,
@@ -1889,7 +1889,7 @@
           "Jason Statham"
         ],
         "reponse": "Tom Cruise",
-        "anecdote": "Tom Cruise was aanwezig in Parijs om de scenes te regisseren van « Mission Impossible 6 » die plaatsvinden in de stad Lights."
+        "anecdote": "Tom Cruise was aanwezig in Parijs om de scenes te regisseren van \"Mission Impossible 6\" die plaatsvinden in de stad Lights."
       },
       {
         "id": 2,
@@ -1929,7 +1929,7 @@
       },
       {
         "id": 5,
-        "question": "Wie werd (eindelijk) bijgeschreven op de « Imagine » tube van John Lennon voor ?",
+        "question": "Wie werd (eindelijk) bijgeschreven op de \"Imagine\" tube van John Lennon voor ?",
         "propositions": [
           "Jane Asher",
           "Cilla Black",
@@ -1937,7 +1937,7 @@
           "Maureen Cox"
         ],
         "reponse": "Yoko Ono",
-        "anecdote": "46 jaar na de release van « Imagine » wordt Yoko Ono co-auteur: een erkenning die de Japanse kunstenaar te laat vindt."
+        "anecdote": "46 jaar na de release van \"Imagine\" wordt Yoko Ono co-auteur: een erkenning die de Japanse kunstenaar te laat vindt."
       },
       {
         "id": 6,
@@ -1949,7 +1949,7 @@
           "Charles Aznavour"
         ],
         "reponse": "Charles Aznavour",
-        "anecdote": "De tolk van « La Boheme » voegt zich bij twintig Franse mensen of kunstenaars uit Frankrijk die op de promenade worden geaerd."
+        "anecdote": "De tolk van \"La Boheme\" voegt zich bij twintig Franse mensen of kunstenaars uit Frankrijk die op de promenade worden geaerd."
       },
       {
         "id": 7,
@@ -2027,7 +2027,7 @@
       },
       {
         "id": 13,
-        "question": "Welke ster van « Game of Thrones » was mede dankzij zijn volgelingen verloofd ?",
+        "question": "Welke ster van \"Game of Thrones\" was mede dankzij zijn volgelingen verloofd ?",
         "propositions": [
           "Maisie Williams",
           "Emilia Clarke",
@@ -2039,7 +2039,7 @@
       },
       {
         "id": 14,
-        "question": "Welke realityster heeft eenvoudig gezegd : « Mijn billen zijn mooi » ?",
+        "question": "Welke realityster heeft eenvoudig gezegd : \"Mijn billen zijn mooi\" ?",
         "propositions": [
           "Barbara Moon",
           "Kim Glow",
@@ -2059,7 +2059,7 @@
           "Nancy Dowd"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "« Grey s Anatomy » maker Shonda Rhimes verliet ABC na meer dan vijftien jaar succesvolle samenwerking tussen bedrijven."
+        "anecdote": "\"Grey s Anatomy\" maker Shonda Rhimes verliet ABC na meer dan vijftien jaar succesvolle samenwerking tussen bedrijven."
       },
       {
         "id": 16,
@@ -2173,7 +2173,7 @@
       },
       {
         "id": 25,
-        "question": "Wie verschuilt zich achter Passe-Muraille, de boodschapper van pater Fouras in « Fort Boyard » ?",
+        "question": "Wie verschuilt zich achter Passe-Muraille, de boodschapper van pater Fouras in \"Fort Boyard\" ?",
         "propositions": [
           "Anthony Laborde",
           "Andre Bouchet",
@@ -2181,7 +2181,7 @@
           "Yves Marchesseau"
         ],
         "reponse": "Anthony Laborde",
-        "anecdote": "In 2004 trad de 34-jarige toe tot het team « Fort Boyard » dankzij een van zijn vrienden, een zekere Passe-Partout."
+        "anecdote": "In 2004 trad de 34-jarige toe tot het team \"Fort Boyard\" dankzij een van zijn vrienden, een zekere Passe-Partout."
       },
       {
         "id": 26,

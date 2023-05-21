@@ -8,7 +8,7 @@
     "fr": {
       "categorie": "Animaux",
       "nom": "Chevaux",
-      "slogan": "De la famille des Équides"
+      "slogan": "De la famille des Equides"
     },
     "en": {
       "categorie": "Animals",
@@ -61,7 +61,7 @@
           "Cheval de Thor"
         ],
         "reponse": "Cheval de Troie",
-        "anecdote": "L expression « cheval de Troie » designe aujourd hui les dons qui s averent etre des pieges pour ceux qui les recoivent."
+        "anecdote": "L expression \"cheval de Troie\" designe aujourd hui les dons qui s averent etre des pieges pour ceux qui les recoivent."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Jolly Jumper"
         ],
         "reponse": "Jolly Jumper",
-        "anecdote": "Par certains côtes, notamment son intelligence, son caractere et sa couleur de robe, Jolly Jumper ressemble a Milou, le chien de Tintin."
+        "anecdote": "Par certains cotes, notamment son intelligence, son caractere et sa couleur de robe, Jolly Jumper ressemble a Milou, le chien de Tintin."
       },
       {
         "id": 4,
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "À quelle frequence faut-il idealement curer les sabots du cheval ?",
+        "question": "A quelle frequence faut-il idealement curer les sabots du cheval ?",
         "propositions": [
           "1 fois par mois",
           "1 fois par an",
@@ -219,7 +219,7 @@
           "15 kg"
         ],
         "reponse": "45 kg",
-        "anecdote": "À l etat domestique, le poulain reste avec sa mere jusqu au sevrage, generalement a l age de six mois, apres quoi l eleveur les separe."
+        "anecdote": "A l etat domestique, le poulain reste avec sa mere jusqu au sevrage, generalement a l age de six mois, apres quoi l eleveur les separe."
       },
       {
         "id": 16,
@@ -231,11 +231,11 @@
           "Pour se gratter"
         ],
         "reponse": "Pour se gratter",
-        "anecdote": "À l etat sauvage ou domestique, le cheval peut-etre affecte par des parasites et des maladies telles que le tetanos ou la rage."
+        "anecdote": "A l etat sauvage ou domestique, le cheval peut-etre affecte par des parasites et des maladies telles que le tetanos ou la rage."
       },
       {
         "id": 17,
-        "question": "Qu observe-t-on generalement pour connaître l age approximatif d un cheval ?",
+        "question": "Qu observe-t-on generalement pour connaitre l age approximatif d un cheval ?",
         "propositions": [
           "Dents",
           "Criniere",
@@ -267,7 +267,7 @@
           "Être rare"
         ],
         "reponse": "Être rare",
-        "anecdote": "À l origine, au XVIIe siecle, l expression contenait dans le pas d un cheval, le pas voulant signifier le mot trace."
+        "anecdote": "A l origine, au XVIIe siecle, l expression contenait dans le pas d un cheval, le pas voulant signifier le mot trace."
       },
       {
         "id": 20,
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "À quelle frequence moyenne le coeur d un cheval bat-il au repos ?",
+        "question": "A quelle frequence moyenne le coeur d un cheval bat-il au repos ?",
         "propositions": [
           "60 ppm",
           "100 ppm",
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "À partir de quelle distance les chevaux peuvent-ils reconnaître les odeurs ?",
+        "question": "A partir de quelle distance les chevaux peuvent-ils reconnaitre les odeurs ?",
         "propositions": [
           "600 m",
           "150 m",
@@ -501,7 +501,7 @@
           "Peugeot"
         ],
         "reponse": "Ferrari",
-        "anecdote": "As early as 1947, the initial « Scudetto » logo was reserved for models prepared by Scuderia Ferrari, the racing team."
+        "anecdote": "As early as 1947, the initial \"Scudetto\" logo was reserved for models prepared by Scuderia Ferrari, the racing team."
       },
       {
         "id": 9,
@@ -777,7 +777,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Welche Position nehmen Pferde für einen leichten Schlaf ein ?",
+        "question": "Welche Position nehmen Pferde fur einen leichten Schlaf ein ?",
         "propositions": [
           "Auf der linken Flanke",
           "Auf dem Bauch",
@@ -785,7 +785,7 @@
           "Stehend"
         ],
         "reponse": "Stehend",
-        "anecdote": "Wie die meisten großen Pflanzenfresser schläft das Pferd aufgrund seiner Anfälligkeit für Raubtiere wenig (3 bis 5 Stunden pro Tag)."
+        "anecdote": "Wie die meisten großen Pflanzenfresser schläft das Pferd aufgrund seiner Anfälligkeit fur Raubtiere wenig (3 bis 5 Stunden pro Tag)."
       },
       {
         "id": 2,
@@ -797,11 +797,11 @@
           "Polybius-Pferd"
         ],
         "reponse": "Trojanisches Pferd",
-        "anecdote": "Der Begriff trojanisches Pferd bezieht sich heute auf Geschenke, die sich als Fallen für diejenigen erweisen, die sie erhalten."
+        "anecdote": "Der Begriff trojanisches Pferd bezieht sich heute auf Geschenke, die sich als Fallen fur diejenigen erweisen, die sie erhalten."
       },
       {
         "id": 3,
-        "question": "Wie heißt das Pferd von Lucky Luke, einem berühmten Cowboy-Comic ?",
+        "question": "Wie heißt das Pferd von Lucky Luke, einem beruhmten Cowboy-Comic ?",
         "propositions": [
           "Freudenfeuer",
           "Pasease",
@@ -816,7 +816,7 @@
         "question": "Welches Futter schätzt das Pferd wirklich ?",
         "propositions": [
           "Futter",
-          "Müsli",
+          "Musli",
           "Heu",
           "Hafer"
         ],
@@ -837,7 +837,7 @@
       },
       {
         "id": 6,
-        "question": "Welches nützliche Zubehör hält den Sattel des Pferdes ?",
+        "question": "Welches nutzliche Zubehör hält den Sattel des Pferdes ?",
         "propositions": [
           "Sub-ventriere",
           "Ventrie",
@@ -845,23 +845,23 @@
           "Reines"
         ],
         "reponse": "Strap",
-        "anecdote": "Fahrer, die sich weiterentwickeln möchten, müssen zugestimmt haben, in einen speziellen Sattel nach Maß zu investieren."
+        "anecdote": "Fahrer, die sich weiterentwickeln möchten, mussen zugestimmt haben, in einen speziellen Sattel nach Maß zu investieren."
       },
       {
         "id": 7,
-        "question": "Wo sind deine Füße beim Fahren positioniert ?",
+        "question": "Wo sind deine Fuße beim Fahren positioniert ?",
         "propositions": [
-          "Steigbügel",
+          "Steigbugel",
           "Riemen",
           "Baudriers",
           "Reines"
         ],
-        "reponse": "Steigbügel",
-        "anecdote": "Die Errichtung wäre eine chinesische Erfindung, während sie für andere von den Nomadenvölkern Zentralasiens oder Sibiriens kommen würde."
+        "reponse": "Steigbugel",
+        "anecdote": "Die Errichtung wäre eine chinesische Erfindung, während sie fur andere von den Nomadenvölkern Zentralasiens oder Sibiriens kommen wurde."
       },
       {
         "id": 8,
-        "question": "Welche Automarke steht für ein Pferdekabinett ?",
+        "question": "Welche Automarke steht fur ein Pferdekabinett ?",
         "propositions": [
           "Peugeot",
           "Lamborghini",
@@ -885,7 +885,7 @@
       },
       {
         "id": 10,
-        "question": "Wie heißt das geflügelte Pferd der griechischen Mythologie ?",
+        "question": "Wie heißt das geflugelte Pferd der griechischen Mythologie ?",
         "propositions": [
           "Argus",
           "Fungus",
@@ -907,7 +907,7 @@
           "3"
         ],
         "reponse": "4",
-        "anecdote": "Das Schachbrett ist so platziert, dass für jeden Gegner der Kasten in der linken Ecke des Schachbretts schwarz ist."
+        "anecdote": "Das Schachbrett ist so platziert, dass fur jeden Gegner der Kasten in der linken Ecke des Schachbretts schwarz ist."
       },
       {
         "id": 12,
@@ -926,9 +926,9 @@
         "question": "In welchem Zustand ist ein Pferd, das sich die Ohren an den Hals faltet ?",
         "propositions": [
           "Verängstigt",
-          "Glücklich",
+          "Glucklich",
           "Fache",
-          "Müde"
+          "Mude"
         ],
         "reponse": "Fache",
         "anecdote": "Das Studium der Gesten, der Ohrbewegungen und der Kopfhaltung des Pferdes hilft dabei, seine Stimmung zu bestimmen."
@@ -955,7 +955,7 @@
           "15 kg"
         ],
         "reponse": "45 kg",
-        "anecdote": "Im Inland verbleibt das Fohlen bei seiner Mutter, bis es entwöhnt wird, normalerweise im Alter von sechs Monaten, wenn der Züchter es verlässt."
+        "anecdote": "Im Inland verbleibt das Fohlen bei seiner Mutter, bis es entwöhnt wird, normalerweise im Alter von sechs Monaten, wenn der Zuchter es verlässt."
       },
       {
         "id": 16,
@@ -964,7 +964,7 @@
           "Zum entspannen",
           "Um sich zu stimulieren",
           "Zu kratzen",
-          "Um sich über"
+          "Um sich uber"
         ],
         "reponse": "Zu kratzen",
         "anecdote": "Im wilden oder häuslichen Zustand kann das Pferd von Schädlingen und Krankheiten wie Tetanus oder Tollwut betroffen sein."
@@ -991,7 +991,7 @@
           "9 Monate"
         ],
         "reponse": "11 Monate",
-        "anecdote": "Die Stute bringt im Frühjahr ein Fohlen zur Welt, das weniger als eine Stunde nach der Geburt gehen kann."
+        "anecdote": "Die Stute bringt im Fruhjahr ein Fohlen zur Welt, das weniger als eine Stunde nach der Geburt gehen kann."
       },
       {
         "id": 19,
@@ -1003,7 +1003,7 @@
           "Sei vorsichtig"
         ],
         "reponse": "Selten sein",
-        "anecdote": "Ursprünglich im 17. Jahrhundert enthielt der Ausdruck  im Schritt eines Pferdes  den Schritt, der das Wort  Spur  bedeuten soll."
+        "anecdote": "Ursprunglich im 17. Jahrhundert enthielt der Ausdruck  im Schritt eines Pferdes  den Schritt, der das Wort  Spur  bedeuten soll."
       },
       {
         "id": 20,
@@ -1041,7 +1041,7 @@
           "300"
         ],
         "reponse": "300",
-        "anecdote": "Nach Angaben der FAO wurden 2008 weltweit 58 Millionen Pferde auf fünf Kontinenten gemeldet."
+        "anecdote": "Nach Angaben der FAO wurden 2008 weltweit 58 Millionen Pferde auf funf Kontinenten gemeldet."
       },
       {
         "id": 23,
@@ -1077,7 +1077,7 @@
           "20 bis 30 mal"
         ],
         "reponse": "50 bis 60 mal",
-        "anecdote": "Fohlen säugen ihre Mütter nach der Geburt, um Kolostrum zu absorbieren, das die Immunabwehr stärkt."
+        "anecdote": "Fohlen säugen ihre Mutter nach der Geburt, um Kolostrum zu absorbieren, das die Immunabwehr stärkt."
       },
       {
         "id": 26,
@@ -1101,11 +1101,11 @@
           "Shetland"
         ],
         "reponse": "Haflinger",
-        "anecdote": "Der in Tirol beheimatete Haflinger hatte von seiner Züchtung für unwegsames Gelände eine große Robustheit geerbt."
+        "anecdote": "Der in Tirol beheimatete Haflinger hatte von seiner Zuchtung fur unwegsames Gelände eine große Robustheit geerbt."
       },
       {
         "id": 28,
-        "question": "Wie lange dauert die Verdauung für ein Pferd ?",
+        "question": "Wie lange dauert die Verdauung fur ein Pferd ?",
         "propositions": [
           "35 bis 50 h",
           "15 bis 20 h",
@@ -1117,7 +1117,7 @@
       },
       {
         "id": 29,
-        "question": "Aus welcher Entfernung können Pferde Gerüche erkennen ?",
+        "question": "Aus welcher Entfernung können Pferde Geruche erkennen ?",
         "propositions": [
           "450 m",
           "300 m",
@@ -1125,19 +1125,19 @@
           "150 m"
         ],
         "reponse": "600 m",
-        "anecdote": "Das Pferd führt ein Flehmen aus, ein besonderes Duftverhalten, das ua die Erkennung von Peromones ermöglicht."
+        "anecdote": "Das Pferd fuhrt ein Flehmen aus, ein besonderes Duftverhalten, das ua die Erkennung von Peromones ermöglicht."
       },
       {
         "id": 30,
         "question": "Was braucht es, um ein scheinbar nervöses Pferd zu massieren ?",
         "propositions": [
           "Die Ohren",
-          "Die Rückseite",
+          "Die Ruckseite",
           "Der Schwanz",
           "Bauch"
         ],
         "reponse": "Die Ohren",
-        "anecdote": "Die Berührungskontakte sind wenige zwischen Pferden, außer der Mutter mit ihrem Fohlen."
+        "anecdote": "Die Beruhrungskontakte sind wenige zwischen Pferden, außer der Mutter mit ihrem Fohlen."
       }
     ]
     },
@@ -1237,7 +1237,7 @@
           "Alfa Romeo"
         ],
         "reponse": "Ferrari",
-        "anecdote": "Ya en 1947, el logotipo inicial de « Scudetto » estaba reservado para los modelos preparados por la escudería Ferrari, el equipo de carreras."
+        "anecdote": "Ya en 1947, el logotipo inicial de \"Scudetto\" estaba reservado para los modelos preparados por la escudería Ferrari, el equipo de carreras."
       },
       {
         "id": 9,

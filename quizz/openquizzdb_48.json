@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "question": "Quel habitat des fourmis est generalement concu par construction de dômes ?",
+        "question": "Quel habitat des fourmis est generalement concu par construction de domes ?",
         "propositions": [
           "Nid",
           "Cage",
@@ -73,11 +73,11 @@
           "1001 pattes"
         ],
         "reponse": "1001 pattes",
-        "anecdote": "Woody, le cow-boy heros du film d animation « Toy Story », est apparu dans le betisier du generique de fin."
+        "anecdote": "Woody, le cow-boy heros du film d animation \"Toy Story\", est apparu dans le betisier du generique de fin."
       },
       {
         "id": 4,
-        "question": "Quels insectes sont parfois appeles « fourmis blanches » au sein de colonies hierarchisees ?",
+        "question": "Quels insectes sont parfois appeles \"fourmis blanches\" au sein de colonies hierarchisees ?",
         "propositions": [
           "Les cancrelats",
           "Les termites",
@@ -133,7 +133,7 @@
           "La mouche"
         ],
         "reponse": "La cigale",
-        "anecdote": "« La Cigale et la Fourmi » est la premiere fable du livre I de Jean de La Fontaine situee dans le premier recueil des « Fables de La Fontaine »."
+        "anecdote": "\"La Cigale et la Fourmi\" est la premiere fable du livre I de Jean de La Fontaine situee dans le premier recueil des \"Fables de La Fontaine\"."
       },
       {
         "id": 9,
@@ -157,7 +157,7 @@
           "Chicken Run"
         ],
         "reponse": "Fourmiz",
-        "anecdote": "Seulement un mois apres la sortie du film fut propose le film d animation « 1001 pattes » du « concurrent historique » Pixar."
+        "anecdote": "Seulement un mois apres la sortie du film fut propose le film d animation \"1001 pattes\" du \"concurrent historique\" Pixar."
       }
     ],
     "confirme": [
@@ -177,9 +177,9 @@
         "id": 12,
         "question": "Quel terme est utilise pour designer une colonie de fourmis formees de plusieurs reines ?",
         "propositions": [
-          "Écotype",
+          "Ecotype",
           "Metapopulation",
-          "Épifaune",
+          "Epifaune",
           "Supercolonie"
         ],
         "reponse": "Supercolonie",
@@ -231,7 +231,7 @@
           "Ouvrieres"
         ],
         "reponse": "Soldats",
-        "anecdote": "Les plus grandes ouvrieres sont parfois appelees « soldats », bien que leur rôle defensif ne soit pas necessairement preponderant."
+        "anecdote": "Les plus grandes ouvrieres sont parfois appelees \"soldats\", bien que leur role defensif ne soit pas necessairement preponderant."
       },
       {
         "id": 17,
@@ -255,7 +255,7 @@
           "Les neurotoxiques"
         ],
         "reponse": "Les pheromones",
-        "anecdote": "Les pheromones agissent comme des messagers et jouent notamment un rôle dans l attraction sexuelle."
+        "anecdote": "Les pheromones agissent comme des messagers et jouent notamment un role dans l attraction sexuelle."
       },
       {
         "id": 19,
@@ -329,7 +329,7 @@
           "Bulldog"
         ],
         "reponse": "Bulldog",
-        "anecdote": "Meme si les attaques sur l etre humain sont plutôt rares, les piqûres peuvent etre mortelles en raison d un possible choc anaphylactique."
+        "anecdote": "Meme si les attaques sur l etre humain sont plutot rares, les piqûres peuvent etre mortelles en raison d un possible choc anaphylactique."
       },
       {
         "id": 25,
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "À combien de milliards d individus estime-t-on le nombre de fourmis sur Terre ?",
+        "question": "A combien de milliards d individus estime-t-on le nombre de fourmis sur Terre ?",
         "propositions": [
           "7 millions",
           "4 millions",

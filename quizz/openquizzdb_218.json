@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quelle ex-binôme star de Cauet s est reconvertie en journaliste politique ?",
+        "question": "Quelle ex-binome star de Cauet s est reconvertie en journaliste politique ?",
         "propositions": [
           "Sophie Davant",
           "Enora Malagre",
@@ -49,11 +49,11 @@
           "Christine Bravo"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus questionne les politiques sur LCI dans « L Interview inattendue », sa rubrique dans « Le Live politique » du dimanche."
+        "anecdote": "Cecile de Menibus questionne les politiques sur LCI dans \"L Interview inattendue\", sa rubrique dans \"Le Live politique\" du dimanche."
       },
       {
         "id": 2,
-        "question": "Quelle star de la tele-realite a ete remerciee par NRJ12 peu apres Benoît Dubois ?",
+        "question": "Quelle star de la tele-realite a ete remerciee par NRJ12 peu apres Benoit Dubois ?",
         "propositions": [
           "Claudia Romani",
           "Marie Sebag",
@@ -61,7 +61,7 @@
           "Ayem Nour"
         ],
         "reponse": "Ayem Nour",
-        "anecdote": "La chaîne de tele aurait mis fin au contrat d Ayem Nour apres la deprogrammation du Mad Mag a cause de ses faibles audiences."
+        "anecdote": "La chaine de tele aurait mis fin au contrat d Ayem Nour apres la deprogrammation du Mad Mag a cause de ses faibles audiences."
       },
       {
         "id": 3,
@@ -101,7 +101,7 @@
       },
       {
         "id": 6,
-        "question": "Qui a dit avant son deces : « Ils n en ont rien a foutre de moi » ?",
+        "question": "Qui a dit avant son deces : \"Ils n en ont rien a foutre de moi\" ?",
         "propositions": [
           "Jacques Higelin",
           "Johnny Hallyday",
@@ -109,7 +109,7 @@
           "France Gall"
         ],
         "reponse": "Johnny Hallyday",
-        "anecdote": "Alors qu il se battait contre la maladie, le celebre rockeur aurait pointe du doigt les absences de ses deux aînes, David et Laura."
+        "anecdote": "Alors qu il se battait contre la maladie, le celebre rockeur aurait pointe du doigt les absences de ses deux aines, David et Laura."
       },
       {
         "id": 7,
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Quelle gagnante de « La France a un incroyable talent » connaissait Eric Antoine ?",
+        "question": "Quelle gagnante de \"La France a un incroyable talent\" connaissait Eric Antoine ?",
         "propositions": [
           "Julie Villers",
           "Laurence Bibot",
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "Quel chanteur s est installe aux États-Unis aupres de Christina Milian ?",
+        "question": "Quel chanteur s est installe aux Etats-Unis aupres de Christina Milian ?",
         "propositions": [
           "Emmanuel Moire",
           "Olivier Dion",
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quelle star de « Beverly Hills » a dû affronter un troisieme divorce en 2018 ?",
+        "question": "Quelle star de \"Beverly Hills\" a dû affronter un troisieme divorce en 2018 ?",
         "propositions": [
           "Tori Spelling",
           "Shannen Doherty",
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quelle actrice americaine a fait don de plusieurs millions de dollars a un hôpital ?",
+        "question": "Quelle actrice americaine a fait don de plusieurs millions de dollars a un hopital ?",
         "propositions": [
           "Amber Heard",
           "Julianne Moore",
@@ -195,7 +195,7 @@
           "Eva Longoria"
         ],
         "reponse": "Amber Heard",
-        "anecdote": "L actrice a fait don de l argent qu elle a recu de son divorce avec Johnny Depp a l Hôpital pour enfants de Los Angeles et a l ACLU."
+        "anecdote": "L actrice a fait don de l argent qu elle a recu de son divorce avec Johnny Depp a l Hopital pour enfants de Los Angeles et a l ACLU."
       },
       {
         "id": 14,
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "À qui de nombreuses personnalites ont-elles rendu hommage le 12 avril 2018 ?",
+        "question": "A qui de nombreuses personnalites ont-elles rendu hommage le 12 avril 2018 ?",
         "propositions": [
           "Jacques Higelin",
           "Jean Rochefort",
@@ -231,7 +231,7 @@
           "Line Renaud"
         ],
         "reponse": "Elizabeth II",
-        "anecdote": "Certes le protocole l oblige a respecter de nombreux codes, mais la reine d Angleterre a un petit côte taquin, a l anglaise il est vrai."
+        "anecdote": "Certes le protocole l oblige a respecter de nombreux codes, mais la reine d Angleterre a un petit cote taquin, a l anglaise il est vrai."
       },
       {
         "id": 17,
@@ -255,7 +255,7 @@
           "Marcia Cross"
         ],
         "reponse": "Eva Longoria",
-        "anecdote": "Une distinction que la star de « Desperate Housewives » considere a 43 ans comme une nouvelle victoire pour la communaute latino."
+        "anecdote": "Une distinction que la star de \"Desperate Housewives\" considere a 43 ans comme une nouvelle victoire pour la communaute latino."
       },
       {
         "id": 19,
@@ -267,7 +267,7 @@
           "True"
         ],
         "reponse": "True",
-        "anecdote": "Cette annonce vient legerement adoucir le climat plutôt electrique gravitant autour d elle depuis le scandale de son compagnon."
+        "anecdote": "Cette annonce vient legerement adoucir le climat plutot electrique gravitant autour d elle depuis le scandale de son compagnon."
       },
       {
         "id": 20,
@@ -293,7 +293,7 @@
           "Violet Chachki"
         ],
         "reponse": "Conchita Wurst",
-        "anecdote": "Thomas Neuwirth a dit : « Le jour est venu de me liberer pour le reste de ma vie d une epee de Damocles : je suis positive au VIH »."
+        "anecdote": "Thomas Neuwirth a dit : \"Le jour est venu de me liberer pour le reste de ma vie d une epee de Damocles : je suis positive au VIH\"."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "Sebastien Cauet"
         ],
         "reponse": "Thierry Ardisson",
-        "anecdote": "Deja trente belles annees que l homme en noir occupe l antenne et douze ans qu il est aux commandes de « Salut les terriens ! »."
+        "anecdote": "Deja trente belles annees que l homme en noir occupe l antenne et douze ans qu il est aux commandes de \"Salut les terriens !\"."
       },
       {
         "id": 23,
@@ -345,7 +345,7 @@
       },
       {
         "id": 26,
-        "question": "Quel acteur francais a dit en avril 2018 : « Ma tete a touche le sol » ?",
+        "question": "Quel acteur francais a dit en avril 2018 : \"Ma tete a touche le sol\" ?",
         "propositions": [
           "Francois Berleand",
           "Andre Dussollier",
@@ -377,7 +377,7 @@
           "Liptakova"
         ],
         "reponse": "Sklenarikova",
-        "anecdote": "Le richissime compagnon d Adriana (46 ans) aurait d ores et deja reserve une chambre a l hôpital Princesse-Grace a Monaco."
+        "anecdote": "Le richissime compagnon d Adriana (46 ans) aurait d ores et deja reserve une chambre a l hopital Princesse-Grace a Monaco."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Eddy Mitchell"
         ],
         "reponse": "Michel Sardou",
-        "anecdote": "C est a la Seine Musicale de Boulogne-Billancourt que le chanteur a choisi de clôturer avec emotion les dates de sa tournee d adieu."
+        "anecdote": "C est a la Seine Musicale de Boulogne-Billancourt que le chanteur a choisi de cloturer avec emotion les dates de sa tournee d adieu."
       },
       {
         "id": 30,
@@ -417,7 +417,7 @@
           "Sophie Davant"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus questions policies on LCI in « The Unexpected Interview », its column in « Sunday s Political Live »."
+        "anecdote": "Cecile de Menibus questions policies on LCI in \"The Unexpected Interview\", its column in \"Sunday s Political Live\"."
       },
       {
         "id": 2,
@@ -469,7 +469,7 @@
       },
       {
         "id": 6,
-        "question": "Who said before his death: « They did not care about me » ?",
+        "question": "Who said before his death: \"They did not care about me\" ?",
         "propositions": [
           "Johnny Hallyday",
           "Serge Gainsbourg",
@@ -493,7 +493,7 @@
       },
       {
         "id": 8,
-        "question": "Which « France winner has incredible talent » knew Eric Antoine ?",
+        "question": "Which \"France winner has incredible talent\" knew Eric Antoine ?",
         "propositions": [
           "Laura Laune",
           "Laurence Bibot",
@@ -531,7 +531,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Which star of « Beverly Hills » had to face a third divorce in 2018 ?",
+        "question": "Which star of \"Beverly Hills\" had to face a third divorce in 2018 ?",
         "propositions": [
           "Tori Spelling",
           "Jennie Garth",
@@ -623,7 +623,7 @@
           "Teri Hatcher"
         ],
         "reponse": "Eva Longoria",
-        "anecdote": "A distinction that the star of « Desperate Housewives » considers 43 years as a new victory for the Latino community."
+        "anecdote": "A distinction that the star of \"Desperate Housewives\" considers 43 years as a new victory for the Latino community."
       },
       {
         "id": 19,
@@ -661,7 +661,7 @@
           "Deborah Shadows"
         ],
         "reponse": "Conchita Wurst",
-        "anecdote": "Thomas Neuwirth said : « The day has come to free me for the rest of my life from a sword of Damocles : I am HIV positive »."
+        "anecdote": "Thomas Neuwirth said : \"The day has come to free me for the rest of my life from a sword of Damocles : I am HIV positive\"."
       },
       {
         "id": 22,
@@ -673,7 +673,7 @@
           "S ?bastien Cauet"
         ],
         "reponse": "Thierry Ardisson",
-        "anecdote": "Already thirty beautiful years that the man in black occupies the antenna and twelve years that he is at the helm of « Hello earthlings! »."
+        "anecdote": "Already thirty beautiful years that the man in black occupies the antenna and twelve years that he is at the helm of \"Hello earthlings!\"."
       },
       {
         "id": 23,
@@ -713,7 +713,7 @@
       },
       {
         "id": 26,
-        "question": "Which French actor said in April 2018: « My head touched the ground » ?",
+        "question": "Which French actor said in April 2018: \"My head touched the ground\" ?",
         "propositions": [
           "Andre Dussollier",
           "Clovis Cornillac",
@@ -785,7 +785,7 @@
           "Christine Bravo"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus hinterfragt Richtlinien zu LCI in « The Unexpected Interview », seiner Kolumne in « Sunday s Political Live »."
+        "anecdote": "Cecile de Menibus hinterfragt Richtlinien zu LCI in \"The Unexpected Interview\", seiner Kolumne in \"Sunday s Political Live\"."
       },
       {
         "id": 2,
@@ -821,7 +821,7 @@
           "Jean-Paul Belmondo"
         ],
         "reponse": "Jean-Paul Belmondo",
-        "anecdote": "Jean-Paul Belmondo und sein Kuss mit Anna Karina wurden für die 71. Filmfestspiele von Cannes ausgewählt, um sein 85-jähriges Bestehen zu feiern."
+        "anecdote": "Jean-Paul Belmondo und sein Kuss mit Anna Karina wurden fur die 71. Filmfestspiele von Cannes ausgewählt, um sein 85-jähriges Bestehen zu feiern."
       },
       {
         "id": 5,
@@ -837,7 +837,7 @@
       },
       {
         "id": 6,
-        "question": "Wer sagte vor seinem Tod: « Sie kümmerten sich nicht um mich » ?",
+        "question": "Wer sagte vor seinem Tod: \"Sie kummerten sich nicht um mich\" ?",
         "propositions": [
           "Frankreich Gall",
           "Jacques Higelin",
@@ -845,7 +845,7 @@
           "Serge Gainsbourg"
         ],
         "reponse": "Johnny Hallyday",
-        "anecdote": "Während des Kampfes gegen die Krankheit hätte der berühmte Rocker auf die Abwesenheit seiner zwei Jahre, David und Laura, hingewiesen."
+        "anecdote": "Während des Kampfes gegen die Krankheit hätte der beruhmte Rocker auf die Abwesenheit seiner zwei Jahre, David und Laura, hingewiesen."
       },
       {
         "id": 7,
@@ -853,15 +853,15 @@
         "propositions": [
           "Zweites Kind",
           "Drittes Kind",
-          "Fünftes Kind",
+          "Funftes Kind",
           "Viertes Kind"
         ],
         "reponse": "Drittes Kind",
-        "anecdote": "Was die Geburt von George und Charlotte betrifft, sollte Kate in der Mutterschaft des Lindo-Flügels gebären."
+        "anecdote": "Was die Geburt von George und Charlotte betrifft, sollte Kate in der Mutterschaft des Lindo-Flugels gebären."
       },
       {
         "id": 8,
-        "question": "Welcher « Frankreich-Sieger hat unglaubliches Talent », das Eric Antoine kannte ?",
+        "question": "Welcher \"Frankreich-Sieger hat unglaubliches Talent\", das Eric Antoine kannte ?",
         "propositions": [
           "Julie Villers",
           "Virginie Hocq",
@@ -869,7 +869,7 @@
           "Laurence Bibot"
         ],
         "reponse": "Laura Laune",
-        "anecdote": "Laura Laune hatte bereits wegen eines Witzes über die Shoah (die Teil ihrer Show ist), die auf Frankreich 2 ausgestrahlt wurde, eine Polemik gemacht."
+        "anecdote": "Laura Laune hatte bereits wegen eines Witzes uber die Shoah (die Teil ihrer Show ist), die auf Frankreich 2 ausgestrahlt wurde, eine Polemik gemacht."
       },
       {
         "id": 9,
@@ -899,7 +899,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Welcher Star von « Beverly Hills » musste 2018 eine dritte Scheidung hinnehmen ?",
+        "question": "Welcher Star von \"Beverly Hills\" musste 2018 eine dritte Scheidung hinnehmen ?",
         "propositions": [
           "Shannen Doherty",
           "Gabrielle Carteris",
@@ -943,7 +943,7 @@
           "Britney Spears"
         ],
         "reponse": "Britney Spears",
-        "anecdote": "Die 27-jährige Sängerin und ihr Ehemann Jamie Watson begrüßten ihr zweites Kind, ein kleines Mädchen namens Ivey Joan Watson."
+        "anecdote": "Die 27-jährige Sängerin und ihr Ehemann Jamie Watson begrußten ihr zweites Kind, ein kleines Mädchen namens Ivey Joan Watson."
       },
       {
         "id": 15,
@@ -991,11 +991,11 @@
           "Eva Longoria"
         ],
         "reponse": "Eva Longoria",
-        "anecdote": "Eine Auszeichnung, die der Star der « Desperate Housewives » für 43 Jahre als neuen Sieg für die Latino-Community ansieht."
+        "anecdote": "Eine Auszeichnung, die der Star der \"Desperate Housewives\" fur 43 Jahre als neuen Sieg fur die Latino-Community ansieht."
       },
       {
         "id": 19,
-        "question": "Welchen Namen wählte Khloe Kardashian für Tristan Thompsons Tochter ?",
+        "question": "Welchen Namen wählte Khloe Kardashian fur Tristan Thompsons Tochter ?",
         "propositions": [
           "Jay",
           "Madon",
@@ -1003,11 +1003,11 @@
           "Kylian"
         ],
         "reponse": "Wahr",
-        "anecdote": "Diese Ankündigung mildert das eher elektrische Klima seit dem Skandal seines Begleiters ein wenig."
+        "anecdote": "Diese Ankundigung mildert das eher elektrische Klima seit dem Skandal seines Begleiters ein wenig."
       },
       {
         "id": 20,
-        "question": "Für wie viel haben George Michaels Erben gekämpft ?",
+        "question": "Fur wie viel haben George Michaels Erben gekämpft ?",
         "propositions": [
           "90 Millionen",
           "50 Millionen",
@@ -1029,7 +1029,7 @@
           "Deborah Shadows"
         ],
         "reponse": "Conchita Wurst",
-        "anecdote": "Thomas Neuwirth sagte : « Der Tag ist gekommen, um mich für den Rest meines Lebens von einem Damoklesschwert zu befreien: Ich bin HIV-positiv »."
+        "anecdote": "Thomas Neuwirth sagte : \"Der Tag ist gekommen, um mich fur den Rest meines Lebens von einem Damoklesschwert zu befreien: Ich bin HIV-positiv\"."
       },
       {
         "id": 22,
@@ -1041,7 +1041,7 @@
           "Michel Drucker"
         ],
         "reponse": "Thierry Ardisson",
-        "anecdote": "Schon dreißig schöne Jahre, dass der Mann in Schwarz die Antenne besetzt und zwölf Jahre, dass er das Ruder von « Hello earthlings! » übernimmt."
+        "anecdote": "Schon dreißig schöne Jahre, dass der Mann in Schwarz die Antenne besetzt und zwölf Jahre, dass er das Ruder von \"Hello earthlings!\" ubernimmt."
       },
       {
         "id": 23,
@@ -1077,11 +1077,11 @@
           "Rachel Martino"
         ],
         "reponse": "Lalaa Misaki",
-        "anecdote": "Lalaa Misaki, die auf Instagram etwas mehr als 60.000 Abonnenten hat, lanciert eine perfekte Kollektion für den Frühling / Sommer."
+        "anecdote": "Lalaa Misaki, die auf Instagram etwas mehr als 60.000 Abonnenten hat, lanciert eine perfekte Kollektion fur den Fruhling / Sommer."
       },
       {
         "id": 26,
-        "question": "Welcher französische Schauspieler sagte im April 2018: « Mein Kopf berührte den Boden » ?",
+        "question": "Welcher französische Schauspieler sagte im April 2018: \"Mein Kopf beruhrte den Boden\" ?",
         "propositions": [
           "Francois Berleand",
           "Clovis Cornillac",
@@ -1101,7 +1101,7 @@
           "Herr Pooky"
         ],
         "reponse": "Herr Bagel",
-        "anecdote": "Auf Instagram sind Katzen und Hunde Könige, aber dieses entzückende Tier wird Sie dazu bringen, ein Tier wie ihn zu adoptieren."
+        "anecdote": "Auf Instagram sind Katzen und Hunde Könige, aber dieses entzuckende Tier wird Sie dazu bringen, ein Tier wie ihn zu adoptieren."
       },
       {
         "id": 28,
@@ -1117,7 +1117,7 @@
       },
       {
         "id": 29,
-        "question": "Wer brach nach 53 Jahren Karriere für sein letztes Konzert in Tränen aus ?",
+        "question": "Wer brach nach 53 Jahren Karriere fur sein letztes Konzert in Tränen aus ?",
         "propositions": [
           "Michel Sardou",
           "Salvatore Adamo",
@@ -1137,7 +1137,7 @@
           "Kendrick Lamar"
         ],
         "reponse": "Kendrick Lamar",
-        "anecdote": "Dies ist eine neue Anerkennung für Rapper Kendrick Lamar, der mit 30 Jahren bereits zwölf Grammy Awards gewonnen hat."
+        "anecdote": "Dies ist eine neue Anerkennung fur Rapper Kendrick Lamar, der mit 30 Jahren bereits zwölf Grammy Awards gewonnen hat."
       }
     ]
     },
@@ -1153,7 +1153,7 @@
           "Christine Bravo"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus cuestiona las políticas sobre LCI en « La entrevista inesperada », su columna en « La vida política del domingo »."
+        "anecdote": "Cecile de Menibus cuestiona las políticas sobre LCI en \"La entrevista inesperada\", su columna en \"La vida política del domingo\"."
       },
       {
         "id": 2,
@@ -1205,7 +1205,7 @@
       },
       {
         "id": 6,
-        "question": "¿Quien dijo antes de su muerte: « No se preocuparon por mí » ?",
+        "question": "¿Quien dijo antes de su muerte: \"No se preocuparon por mí\" ?",
         "propositions": [
           "Serge Gainsbourg",
           "Johnny Hallyday",
@@ -1229,7 +1229,7 @@
       },
       {
         "id": 8,
-        "question": "¿Que « ganador de Francia tiene un talento increíble » conocía a Eric Antoine ?",
+        "question": "¿Que \"ganador de Francia tiene un talento increíble\" conocía a Eric Antoine ?",
         "propositions": [
           "Virginie Hocq",
           "Laura Laune",
@@ -1267,7 +1267,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "¿Que estrella de « Beverly Hills » tuvo que enfrentar un tercer divorcio en 2018 ?",
+        "question": "¿Que estrella de \"Beverly Hills\" tuvo que enfrentar un tercer divorcio en 2018 ?",
         "propositions": [
           "Shannen Doherty",
           "Jennie Garth",
@@ -1359,7 +1359,7 @@
           "Nicollette Sheridan"
         ],
         "reponse": "Eva Longoria",
-        "anecdote": "Una distinción que la estrella de « Desperate Housewives » considera 43 años como una nueva victoria para la comunidad latina."
+        "anecdote": "Una distinción que la estrella de \"Desperate Housewives\" considera 43 años como una nueva victoria para la comunidad latina."
       },
       {
         "id": 19,
@@ -1397,7 +1397,7 @@
           "Deborah Shadows"
         ],
         "reponse": "Conchita Wurst",
-        "anecdote": "Thomas Neuwirth dijo : « Ha llegado el día de liberarme por el resto de mi vida de una espada de Damocles : soy VIH positivo »."
+        "anecdote": "Thomas Neuwirth dijo : \"Ha llegado el día de liberarme por el resto de mi vida de una espada de Damocles : soy VIH positivo\"."
       },
       {
         "id": 22,
@@ -1409,7 +1409,7 @@
           "Sebastián Cauet"
         ],
         "reponse": "Thierry Ardisson",
-        "anecdote": "Ya treinta años hermosos que el hombre de negro ocupa la antena y doce años que está al timón de « ¡Hola terrícolas! »."
+        "anecdote": "Ya treinta años hermosos que el hombre de negro ocupa la antena y doce años que está al timón de \"¡Hola terrícolas!\"."
       },
       {
         "id": 23,
@@ -1449,7 +1449,7 @@
       },
       {
         "id": 26,
-        "question": "¿Que actor frances dijo en abril de 2018: « Mi cabeza tocó el suelo » ?",
+        "question": "¿Que actor frances dijo en abril de 2018: \"Mi cabeza tocó el suelo\" ?",
         "propositions": [
           "Clovis Cornillac",
           "Gerard Lanvin",
@@ -1521,7 +1521,7 @@
           "Sophie Davant"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus mette in discussione le politiche su LCI in « The Unexpected Interview », la sua colonna in « Sunday s Political Live »."
+        "anecdote": "Cecile de Menibus mette in discussione le politiche su LCI in \"The Unexpected Interview\", la sua colonna in \"Sunday s Political Live\"."
       },
       {
         "id": 2,
@@ -1573,7 +1573,7 @@
       },
       {
         "id": 6,
-        "question": "Chi ha detto prima della sua morte: « A loro non importava di me » ?",
+        "question": "Chi ha detto prima della sua morte: \"A loro non importava di me\" ?",
         "propositions": [
           "Jacques Higelin",
           "Johnny Hallyday",
@@ -1597,7 +1597,7 @@
       },
       {
         "id": 8,
-        "question": "Quale « vincitore della Francia ha un talento incredibile » conosceva Eric Antoine ?",
+        "question": "Quale \"vincitore della Francia ha un talento incredibile\" conosceva Eric Antoine ?",
         "propositions": [
           "Julie Villers",
           "Virginie Hocq",
@@ -1635,7 +1635,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quale star di « Beverly Hills » ha dovuto affrontare un terzo divorzio nel 2018 ?",
+        "question": "Quale star di \"Beverly Hills\" ha dovuto affrontare un terzo divorzio nel 2018 ?",
         "propositions": [
           "Jennie Garth",
           "Shannen Doherty",
@@ -1727,7 +1727,7 @@
           "Nicollette Sheridan"
         ],
         "reponse": "Eva Longoria",
-        "anecdote": "Una distinzione che la star di « Desperate Housewives » considera 43 anni come una nuova vittoria per la comunita latina."
+        "anecdote": "Una distinzione che la star di \"Desperate Housewives\" considera 43 anni come una nuova vittoria per la comunita latina."
       },
       {
         "id": 19,
@@ -1765,7 +1765,7 @@
           "Violet Chachki"
         ],
         "reponse": "Conchita Wurst",
-        "anecdote": "Thomas Neuwirth ha dichiarato : « È giunto il giorno di liberarmi per il resto della mia vita da una spada di Damocle : sono sieropositivo »."
+        "anecdote": "Thomas Neuwirth ha dichiarato : \"È giunto il giorno di liberarmi per il resto della mia vita da una spada di Damocle : sono sieropositivo\"."
       },
       {
         "id": 22,
@@ -1777,7 +1777,7 @@
           "S ?bastien Cauet"
         ],
         "reponse": "Thierry Ardisson",
-        "anecdote": "Gia trenta bellissimi anni in cui l uomo in nero occupa l antenna e dodici anni in cui e al timone di « Ciao terrestri! »."
+        "anecdote": "Gia trenta bellissimi anni in cui l uomo in nero occupa l antenna e dodici anni in cui e al timone di \"Ciao terrestri!\"."
       },
       {
         "id": 23,
@@ -1817,7 +1817,7 @@
       },
       {
         "id": 26,
-        "question": "Quale attore francese ha detto ad aprile 2018: « La mia testa ha toccato il terreno » ?",
+        "question": "Quale attore francese ha detto ad aprile 2018: \"La mia testa ha toccato il terreno\" ?",
         "propositions": [
           "Andre Dussollier",
           "Gerard Lanvin",
@@ -1889,7 +1889,7 @@
           "Sophie Davant"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus bevraagt het beleid met betrekking tot LCI in « Het onverwachte interview », de kolom in « Sunday s Political Live »."
+        "anecdote": "Cecile de Menibus bevraagt het beleid met betrekking tot LCI in \"Het onverwachte interview\", de kolom in \"Sunday s Political Live\"."
       },
       {
         "id": 2,
@@ -1941,7 +1941,7 @@
       },
       {
         "id": 6,
-        "question": "Wie zei vóór zijn dood: « Ze gaven niet om mij » ?",
+        "question": "Wie zei vóór zijn dood: \"Ze gaven niet om mij\" ?",
         "propositions": [
           "Frankrijk Gall",
           "Johnny Hallyday",
@@ -1965,7 +1965,7 @@
       },
       {
         "id": 8,
-        "question": "Welke « Franse winnaar heeft ongelooflijk talent » kende Eric Antoine ?",
+        "question": "Welke \"Franse winnaar heeft ongelooflijk talent\" kende Eric Antoine ?",
         "propositions": [
           "Julie Villers",
           "Laurence Bibot",
@@ -2003,7 +2003,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Welke ster van « Beverly Hills » moest in 2018 een derde scheiding ondergaan ?",
+        "question": "Welke ster van \"Beverly Hills\" moest in 2018 een derde scheiding ondergaan ?",
         "propositions": [
           "Shannen Doherty",
           "Tori Spelling",
@@ -2095,7 +2095,7 @@
           "Eva Longoria"
         ],
         "reponse": "Eva Longoria",
-        "anecdote": "Een onderscheid dat de ster van « Desperate Housewives » 43 jaar beschouwt als een nieuwe overwinning voor de Latino-gemeenschap."
+        "anecdote": "Een onderscheid dat de ster van \"Desperate Housewives\" 43 jaar beschouwt als een nieuwe overwinning voor de Latino-gemeenschap."
       },
       {
         "id": 19,
@@ -2133,7 +2133,7 @@
           "Conchita Wurst"
         ],
         "reponse": "Conchita Wurst",
-        "anecdote": "Thomas Neuwirth zei : « De dag is gekomen om me de rest van mijn leven te bevrijden van een zwaard van Damocles : ik ben hiv-positief »."
+        "anecdote": "Thomas Neuwirth zei : \"De dag is gekomen om me de rest van mijn leven te bevrijden van een zwaard van Damocles : ik ben hiv-positief\"."
       },
       {
         "id": 22,
@@ -2145,7 +2145,7 @@
           "Laurent Ruquier"
         ],
         "reponse": "Thierry Ardisson",
-        "anecdote": "Al dertig mooie jaren dat de man in het zwart de antenne bezet en twaalf jaar dat hij aan het roer staat van « Hallo aardbewoners! »."
+        "anecdote": "Al dertig mooie jaren dat de man in het zwart de antenne bezet en twaalf jaar dat hij aan het roer staat van \"Hallo aardbewoners!\"."
       },
       {
         "id": 23,
@@ -2185,7 +2185,7 @@
       },
       {
         "id": 26,
-        "question": "Welke Franse acteur zei in april 2018: « Mijn hoofd raakte de grond » ?",
+        "question": "Welke Franse acteur zei in april 2018: \"Mijn hoofd raakte de grond\" ?",
         "propositions": [
           "Francois Berleand",
           "Andre Dussollier",

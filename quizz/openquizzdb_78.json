@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quel homme « capital » aux États-Unis fut le premier representant de l Oncle Sam ?",
+        "question": "Quel homme \"capital\" aux Etats-Unis fut le premier representant de l Oncle Sam ?",
         "propositions": [
           "Theodore Roosevelt",
           "Abraham Lincoln",
@@ -49,7 +49,7 @@
           "George Washington"
         ],
         "reponse": "George Washington",
-        "anecdote": "George Washington est le premier president des États-Unis d Amerique apres la guerre d Independance."
+        "anecdote": "George Washington est le premier president des Etats-Unis d Amerique apres la guerre d Independance."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Dvorak"
         ],
         "reponse": "Mozart",
-        "anecdote": "Son surnom « Woolfie » (petit loup) lui fut donne par sa femme Constance."
+        "anecdote": "Son surnom \"Woolfie\" (petit loup) lui fut donne par sa femme Constance."
       },
       {
         "id": 3,
@@ -85,23 +85,23 @@
           "Jacques Brel"
         ],
         "reponse": "Jacques Brel",
-        "anecdote": "Parmi ses oeuvres celebres, on peut citer « Madeleine », « Les Flamands » ou encore « Aux Marquises »."
+        "anecdote": "Parmi ses oeuvres celebres, on peut citer \"Madeleine\", \"Les Flamands\" ou encore \"Aux Marquises\"."
       },
       {
         "id": 5,
         "question": "Quelle ancienne femme politique britannique ne semblait pourtant pas prete de rouiller ?",
         "propositions": [
-          "Édith Cresson",
+          "Edith Cresson",
           "Golda Meir",
           "Margaret Thatcher",
           "Ellen Church"
         ],
         "reponse": "Margaret Thatcher",
-        "anecdote": "Surnommee « la Dame de Fer », Margaret Thatcher etait connue pour ses positions tres tranchees."
+        "anecdote": "Surnommee \"la Dame de Fer\", Margaret Thatcher etait connue pour ses positions tres tranchees."
       },
       {
         "id": 6,
-        "question": "Quel chanteur francais, surnomme « le fou chantant », evoqua souvent la joie de vivre ?",
+        "question": "Quel chanteur francais, surnomme \"le fou chantant\", evoqua souvent la joie de vivre ?",
         "propositions": [
           "Serge Lama",
           "Francois Valery",
@@ -121,7 +121,7 @@
           "Mikhaïl Gorbatchev"
         ],
         "reponse": "Mikhaïl Gorbatchev",
-        "anecdote": "Gorbatchev se fit l apôtre de la transparence dans le domaine de la politique interieure."
+        "anecdote": "Gorbatchev se fit l apotre de la transparence dans le domaine de la politique interieure."
       },
       {
         "id": 8,
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "Quelle actrice francaise a debute sa carriere dans « Les Parapluies de Cherbourg » ?",
+        "question": "Quelle actrice francaise a debute sa carriere dans \"Les Parapluies de Cherbourg\" ?",
         "propositions": [
           "Isabelle Adjani",
           "Simone Signoret",
@@ -145,11 +145,11 @@
           "Catherine Deneuve"
         ],
         "reponse": "Catherine Deneuve",
-        "anecdote": "Catherine Deneuve a recu un Cesar pour son interpretation dans « Le Dernier metro »."
+        "anecdote": "Catherine Deneuve a recu un Cesar pour son interpretation dans \"Le Dernier metro\"."
       },
       {
         "id": 10,
-        "question": "Quel homme de television et de radio reste celebre pour ses « Grosses tetes » ?",
+        "question": "Quel homme de television et de radio reste celebre pour ses \"Grosses tetes\" ?",
         "propositions": [
           "Jacques Pradel",
           "Laurent Boyer",
@@ -157,7 +157,7 @@
           "Serge July"
         ],
         "reponse": "Philippe Bouvard",
-        "anecdote": "Philippe Bouvard a egalement ete attache de presse pour les disques Barclay et a anime « Le Petit theatre de Bouvard »."
+        "anecdote": "Philippe Bouvard a egalement ete attache de presse pour les disques Barclay et a anime \"Le Petit theatre de Bouvard\"."
       }
     ],
     "confirme": [
@@ -207,7 +207,7 @@
           "Bertrand Blier"
         ],
         "reponse": "Alain Resnais",
-        "anecdote": "Parmi ses films, on peut noter « Providence », « Mon Oncle d Amerique » et « Hiroshima mon amour »."
+        "anecdote": "Parmi ses films, on peut noter \"Providence\", \"Mon Oncle d Amerique\" et \"Hiroshima mon amour\"."
       },
       {
         "id": 15,
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Quel animateur francais fut remercie pour s etre moque du president de sa chaîne ?",
+        "question": "Quel animateur francais fut remercie pour s etre moque du president de sa chaine ?",
         "propositions": [
           "Benjamin Castaldi",
           "Michel Polac",
@@ -255,7 +255,7 @@
           "Jean-Marie Cavada"
         ],
         "reponse": "Michel Polac",
-        "anecdote": "Au debut de « Droit de Reponse » figurait une revue de presse humoristique qui s intitulait « Rebuts de Presse »."
+        "anecdote": "Au debut de \"Droit de Reponse\" figurait une revue de presse humoristique qui s intitulait \"Rebuts de Presse\"."
       },
       {
         "id": 19,
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Quel homme politique sovietique fut surnomme « le petit pere des peuples » ?",
+        "question": "Quel homme politique sovietique fut surnomme \"le petit pere des peuples\" ?",
         "propositions": [
           "Staline",
           "Trotski",
@@ -279,7 +279,7 @@
           "Brejnev"
         ],
         "reponse": "Staline",
-        "anecdote": "Il prit le pseudonyme de Staline en reference au mot « Stal » qui signifie acier en russe."
+        "anecdote": "Il prit le pseudonyme de Staline en reference au mot \"Stal\" qui signifie acier en russe."
       }
     ],
     "expert": [
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quel fils d aubergiste de campagne se fit connaître en Europe par ses operas ?",
+        "question": "Quel fils d aubergiste de campagne se fit connaitre en Europe par ses operas ?",
         "propositions": [
           "Franz Schubert",
           "Franz Liszt",
@@ -341,7 +341,7 @@
           "Gerard Philipe"
         ],
         "reponse": "Gerard Philipe",
-        "anecdote": "Gerard Philippe s illustra entre autres dans « Le Diable au corps » et « La Beaute du diable »."
+        "anecdote": "Gerard Philippe s illustra entre autres dans \"Le Diable au corps\" et \"La Beaute du diable\"."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Narcisse Chaillou"
         ],
         "reponse": "Jacques-Louis David",
-        "anecdote": "Sous Napoleon, Jacques-Louis David fut nomme « Premier Peintre du Regime »."
+        "anecdote": "Sous Napoleon, Jacques-Louis David fut nomme \"Premier Peintre du Regime\"."
       },
       {
         "id": 27,
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quel chirurgien francais est surnomme « le pere de la chirurgie moderne » ?",
+        "question": "Quel chirurgien francais est surnomme \"le pere de la chirurgie moderne\" ?",
         "propositions": [
           "Louis Menciere",
           "Paul Rivet",
@@ -401,7 +401,7 @@
           "Michel Serrault"
         ],
         "reponse": "Michel Galabru",
-        "anecdote": "C est dans le film « Kamikaze » que Michel Galabru joue le rôle d un ingenieur tueur."
+        "anecdote": "C est dans le film \"Kamikaze\" que Michel Galabru joue le role d un ingenieur tueur."
       }
     ]
     }

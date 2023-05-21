@@ -58,9 +58,9 @@
           "Au Moyen Âge",
           "Sous Mitterrand",
           "Des l Antiquite",
-          "À la Revolution"
+          "A la Revolution"
         ],
-        "reponse": "À la Revolution",
+        "reponse": "A la Revolution",
         "anecdote": "Le musee du Louvre a pris naissance sous Louis XV mais n aboutira veritablement qu avec la Revolution."
       },
       {
@@ -97,7 +97,7 @@
           "En ferme"
         ],
         "reponse": "En forteresse",
-        "anecdote": "C est en voulant renforcer la defense de Paris que Philippe Auguste entreprît de faire construire une enceinte."
+        "anecdote": "C est en voulant renforcer la defense de Paris que Philippe Auguste entreprit de faire construire une enceinte."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Solid Snake"
         ],
         "reponse": "Lara Croft",
-        "anecdote": "« Tomb Raider : l Ange des tenebres » est le sixieme episode de la serie « Tomb Raider »."
+        "anecdote": "\"Tomb Raider : l Ange des tenebres\" est le sixieme episode de la serie \"Tomb Raider\"."
       },
       {
         "id": 7,
@@ -145,7 +145,7 @@
           "Des momies"
         ],
         "reponse": "Des sculptures",
-        "anecdote": "À ses debuts, le musee n exposait que des sculptures antiques, a l exception de deux statues de Michel-Ange."
+        "anecdote": "A ses debuts, le musee n exposait que des sculptures antiques, a l exception de deux statues de Michel-Ange."
       },
       {
         "id": 10,
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quel artiste a peint « L Embarquement d Ulysse » en 1646 ?",
+        "question": "Quel artiste a peint \"L Embarquement d Ulysse\" en 1646 ?",
         "propositions": [
           "Le Parisien",
           "Le Limousin",
@@ -183,7 +183,7 @@
           "Des hieroglyphes"
         ],
         "reponse": "Des hieroglyphes",
-        "anecdote": "Faite de calcaire, la stele trouvee a Akhmîm mesure 1,48 metre par 0,89 metre."
+        "anecdote": "Faite de calcaire, la stele trouvee a Akhmim mesure 1,48 metre par 0,89 metre."
       },
       {
         "id": 13,
@@ -219,7 +219,7 @@
           "Poussin"
         ],
         "reponse": "Ingres",
-        "anecdote": "« Oedipe explique l enigme du sphinx » a ete legue en 1878 au musee du Louvre par la comtesse Duchatel."
+        "anecdote": "\"Oedipe explique l enigme du sphinx\" a ete legue en 1878 au musee du Louvre par la comtesse Duchatel."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Le Salon"
         ],
         "reponse": "Le Salon",
-        "anecdote": "La manifestation, orthographiee initialement « Sallon », fut organisee par l Academie a partir de 1737."
+        "anecdote": "La manifestation, orthographiee initialement \"Sallon\", fut organisee par l Academie a partir de 1737."
       },
       {
         "id": 17,
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Quelle est l origine de la presence au Louvre des « Noces de Cana » de Veronese ?",
+        "question": "Quelle est l origine de la presence au Louvre des \"Noces de Cana\" de Veronese ?",
         "propositions": [
           "Un oubli",
           "Un cadeau",
@@ -293,7 +293,7 @@
           "Un pillage"
         ],
         "reponse": "Un pillage",
-        "anecdote": "Les « Noces de Cana » est actuellement expose au musee du Louvre, faisant face a la Joconde de Leonard de Vinci."
+        "anecdote": "Les \"Noces de Cana\" est actuellement expose au musee du Louvre, faisant face a la Joconde de Leonard de Vinci."
       },
       {
         "id": 22,
@@ -309,14 +309,14 @@
       },
       {
         "id": 23,
-        "question": "Dans quel departement du Louvre peut-on voir « Les Oiseaux » de Braque ?",
+        "question": "Dans quel departement du Louvre peut-on voir \"Les Oiseaux\" de Braque ?",
         "propositions": [
-          "Étrusque",
+          "Etrusque",
           "Objets d art",
           "Contemporain",
           "Peinture"
         ],
-        "reponse": "Étrusque",
+        "reponse": "Etrusque",
         "anecdote": "C est dans la salle Henri II du pavillon Sully du Louvre que se trouvent les antiquites etrusques."
       },
       {
@@ -335,7 +335,7 @@
         "id": 25,
         "question": "De quel pays viennent les grands taureaux barbus presentes au Louvre ?",
         "propositions": [
-          "Égypte",
+          "Egypte",
           "Chili",
           "Allemagne",
           "Irak"
@@ -377,11 +377,11 @@
           "Bill"
         ],
         "reponse": "Boulle",
-        "anecdote": "Ébeniste du roi, Andre-Charles Boulle fut le premier de son temps a appliquer du bronze dore a l ebenisterie."
+        "anecdote": "Ebeniste du roi, Andre-Charles Boulle fut le premier de son temps a appliquer du bronze dore a l ebenisterie."
       },
       {
         "id": 29,
-        "question": "Qui a peint un portrait de Mary Cassatt intitule « La Visite au Louvre » ?",
+        "question": "Qui a peint un portrait de Mary Cassatt intitule \"La Visite au Louvre\" ?",
         "propositions": [
           "Picasso",
           "Monet",
@@ -389,19 +389,19 @@
           "Pissaro"
         ],
         "reponse": "Degas",
-        "anecdote": "Apres son baccalaureat en 1853, Edgar Degas passa ses journees au Louvre ou il fut admis comme « copiste »."
+        "anecdote": "Apres son baccalaureat en 1853, Edgar Degas passa ses journees au Louvre ou il fut admis comme \"copiste\"."
       },
       {
         "id": 30,
-        "question": "De quelle origine est « L ivoire Barberini », chef d oeuvre du Musee du Louvre ?",
+        "question": "De quelle origine est \"L ivoire Barberini\", chef d oeuvre du Musee du Louvre ?",
         "propositions": [
           "Byzantine",
           "Bouddhiste",
           "Islamique",
-          "Étrusque"
+          "Etrusque"
         ],
         "reponse": "Byzantine",
-        "anecdote": "« L ivoire Barberini » est un feuillet d ivoire compose de quatre plaques sculptees dans le style classicisant dit theodosien tardif."
+        "anecdote": "\"L ivoire Barberini\" est un feuillet d ivoire compose de quatre plaques sculptees dans le style classicisant dit theodosien tardif."
       }
     ]
     }

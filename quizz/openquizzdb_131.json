@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "question": "Quelle tour possedant un studio de television a servi de decor a l emission « The Apprentice » ?",
+        "question": "Quelle tour possedant un studio de television a servi de decor a l emission \"The Apprentice\" ?",
         "propositions": [
           "Paramount Plaza",
           "Axa Center",
@@ -77,7 +77,7 @@
       },
       {
         "id": 4,
-        "question": "À quel equivalent du Tour de France Trump a-t-il donne son nom entre 1989 et 1990 ?",
+        "question": "A quel equivalent du Tour de France Trump a-t-il donne son nom entre 1989 et 1990 ?",
         "propositions": [
           "Tour de Trump",
           "Trump Horizon",
@@ -101,7 +101,7 @@
       },
       {
         "id": 6,
-        "question": "Quelle etait la phrase fetiche prononcee par Donald Trump dans « The Apprentice » ?",
+        "question": "Quelle etait la phrase fetiche prononcee par Donald Trump dans \"The Apprentice\" ?",
         "propositions": [
           "Trop facile !",
           "Vous etes vire !",
@@ -113,7 +113,7 @@
       },
       {
         "id": 7,
-        "question": "Quel est le prenom de la premiere dame des États-Unis suite a l election de Donald Trump ?",
+        "question": "Quel est le prenom de la premiere dame des Etats-Unis suite a l election de Donald Trump ?",
         "propositions": [
           "Marla",
           "Ivanka",
@@ -145,7 +145,7 @@
           "WWE Raw"
         ],
         "reponse": "The Apprentice",
-        "anecdote": "La 2 327eme etoile lui est decernee en 2007 sur le Hollywood Walk of Fame, au titre de son emission de telerealite « The Apprentice »."
+        "anecdote": "La 2 327eme etoile lui est decernee en 2007 sur le Hollywood Walk of Fame, au titre de son emission de telerealite \"The Apprentice\"."
       },
       {
         "id": 10,
@@ -192,14 +192,14 @@
           "Biologie",
           "Langues vivantes",
           "Marketing",
-          "Économie"
+          "Economie"
         ],
-        "reponse": "Économie",
+        "reponse": "Economie",
         "anecdote": "Pendant ses etudes, il travaille pour l entreprise familiale, Elizabeth Trump et Son, qui porte le nom de sa grand-mere paternelle."
       },
       {
         "id": 14,
-        "question": "À qui Donald Trump a-t-il confie la gestion du Plaza Hotel acquis pour 400 millions de dollars ?",
+        "question": "A qui Donald Trump a-t-il confie la gestion du Plaza Hotel acquis pour 400 millions de dollars ?",
         "propositions": [
           "Ivana Trump",
           "Jared Kushner",
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Pour quel sport Donald Trump a-t-il fait l acquisition d un terrain a Balmedie en Écosse ?",
+        "question": "Pour quel sport Donald Trump a-t-il fait l acquisition d un terrain a Balmedie en Ecosse ?",
         "propositions": [
           "Rugby",
           "Squash",
@@ -219,11 +219,11 @@
           "Golf"
         ],
         "reponse": "Golf",
-        "anecdote": "Malgre l opposition de residents, il cree un terrain de golf sur une zone pourtant declaree « site d interet scientifique particulier »."
+        "anecdote": "Malgre l opposition de residents, il cree un terrain de golf sur une zone pourtant declaree \"site d interet scientifique particulier\"."
       },
       {
         "id": 16,
-        "question": "Dans quel quartier de Manhattan l agence « Trump Model Management » est-elle situee ?",
+        "question": "Dans quel quartier de Manhattan l agence \"Trump Model Management\" est-elle situee ?",
         "propositions": [
           "SoHo",
           "Tribeca",
@@ -231,7 +231,7 @@
           "NoLIta"
         ],
         "reponse": "SoHo",
-        "anecdote": "« Trump Model Management » a fait venir pres de 250 mannequins etrangeres pour les faire travailler dans l industrie de la mode."
+        "anecdote": "\"Trump Model Management\" a fait venir pres de 250 mannequins etrangeres pour les faire travailler dans l industrie de la mode."
       },
       {
         "id": 17,
@@ -243,7 +243,7 @@
           "Biff Tannen"
         ],
         "reponse": "Biff Tannen",
-        "anecdote": "Biff Tannen est devenu milliardaire dans un futur alternatif dans le film a succes « Retour vers le futur 2 »."
+        "anecdote": "Biff Tannen est devenu milliardaire dans un futur alternatif dans le film a succes \"Retour vers le futur 2\"."
       },
       {
         "id": 18,
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Quel president avait deja utilise le slogan : « Rendons sa grandeur a l Amerique ! » ?",
+        "question": "Quel president avait deja utilise le slogan : \"Rendons sa grandeur a l Amerique !\" ?",
         "propositions": [
           "Barack Obama",
           "Jimmy Carter",
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "À sa prise de fonction comme president americain, Donald Trump etait... ",
+        "question": "A sa prise de fonction comme president americain, Donald Trump etait... ",
         "propositions": [
           "Le plus age",
           "Pauvre",
@@ -279,13 +279,13 @@
           "Democrate"
         ],
         "reponse": "Le plus age",
-        "anecdote": "À sa prise de fonction, Donald Trump est le president americain le plus age (70 ans) et le plus riche jamais elu."
+        "anecdote": "A sa prise de fonction, Donald Trump est le president americain le plus age (70 ans) et le plus riche jamais elu."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "La remise a neuf de quel hôtel constitua la premiere affaire importante de Donald Trump ?",
+        "question": "La remise a neuf de quel hotel constitua la premiere affaire importante de Donald Trump ?",
         "propositions": [
           "Plaza Hotel",
           "Marina",
@@ -305,7 +305,7 @@
           "Huit"
         ],
         "reponse": "Douze",
-        "anecdote": "Donald Trump est apparu dans douze longs-metrages de cinema et quatorze series televisees, generalement dans son propre rôle."
+        "anecdote": "Donald Trump est apparu dans douze longs-metrages de cinema et quatorze series televisees, generalement dans son propre role."
       },
       {
         "id": 23,
@@ -317,7 +317,7 @@
           "Don Quichotte"
         ],
         "reponse": "American Psycho",
-        "anecdote": "Donald Trump est aussi souvent compare a Charles Foster Kane, le personnage principal de « Citizen Kane », chef-d oeuvre d Orson Welles."
+        "anecdote": "Donald Trump est aussi souvent compare a Charles Foster Kane, le personnage principal de \"Citizen Kane\", chef-d oeuvre d Orson Welles."
       },
       {
         "id": 24,
@@ -353,7 +353,7 @@
           "Dan Simmons"
         ],
         "reponse": "Tony Schwarz",
-        "anecdote": "Énorme succes de librairie, l ouvrage restera pendant treize semaines en tete de la New York Times Best Seller list."
+        "anecdote": "Enorme succes de librairie, l ouvrage restera pendant treize semaines en tete de la New York Times Best Seller list."
       },
       {
         "id": 27,
@@ -365,7 +365,7 @@
           "2007"
         ],
         "reponse": "2007",
-        "anecdote": "Via l emission televisee « The Apprentice », Donald Trump fut remercie pour sa contribution au divertissement televisuel."
+        "anecdote": "Via l emission televisee \"The Apprentice\", Donald Trump fut remercie pour sa contribution au divertissement televisuel."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "1 148"
         ],
         "reponse": "1 237",
-        "anecdote": "Apres sa large victoire dans l État de New York, il est devenu le seul candidat capable de recueillir les 1 237 delegues necessaires."
+        "anecdote": "Apres sa large victoire dans l Etat de New York, il est devenu le seul candidat capable de recueillir les 1 237 delegues necessaires."
       },
       {
         "id": 29,
@@ -389,11 +389,11 @@
           "6"
         ],
         "reponse": "6",
-        "anecdote": "Le decompte fut realise par Politico qui estime qu  « aucun candidat n avait jamais recu aussi peu de soutiens dans la presse »."
+        "anecdote": "Le decompte fut realise par Politico qui estime qu  \"aucun candidat n avait jamais recu aussi peu de soutiens dans la presse\"."
       },
       {
         "id": 30,
-        "question": "Quel groupe a sorti en 1990 une chanson intitulee « Donald Trump », ecrite par Prince ?",
+        "question": "Quel groupe a sorti en 1990 une chanson intitulee \"Donald Trump\", ecrite par Prince ?",
         "propositions": [
           "Heatwave",
           "The Time",

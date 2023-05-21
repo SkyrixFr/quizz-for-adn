@@ -85,7 +85,7 @@
           "Le coucou"
         ],
         "reponse": "Le coucou",
-        "anecdote": "Le terme « coucou » est une onomatopee issue du chant du coucou gris dont les francophones font souvent reference."
+        "anecdote": "Le terme \"coucou\" est une onomatopee issue du chant du coucou gris dont les francophones font souvent reference."
       },
       {
         "id": 5,
@@ -104,12 +104,12 @@
         "question": "Quels oiseaux sont parfois surnommes les mainates du pauvre ?",
         "propositions": [
           "Chardonnerets",
-          "Étourneaux",
+          "Etourneaux",
           "Rossignols",
           "Vanneaux"
         ],
-        "reponse": "Étourneaux",
-        "anecdote": "L etourneau marche ou trottine plutôt que de sautiller et son vol est energique et direct, grace a ses ailes et a sa queue courtes."
+        "reponse": "Etourneaux",
+        "anecdote": "L etourneau marche ou trottine plutot que de sautiller et son vol est energique et direct, grace a ses ailes et a sa queue courtes."
       },
       {
         "id": 7,
@@ -195,7 +195,7 @@
           "Le moineau"
         ],
         "reponse": "Le colibri",
-        "anecdote": "Le terme « colibri », qui deriverait d une langue caribe, s est impose dans bon nombre de langues, y compris le francais."
+        "anecdote": "Le terme \"colibri\", qui deriverait d une langue caribe, s est impose dans bon nombre de langues, y compris le francais."
       },
       {
         "id": 14,
@@ -219,7 +219,7 @@
           "Franklin"
         ],
         "reponse": "Woodstock",
-        "anecdote": "« Peanuts », au Quebec « Charlie Brown », tourne autour de deux personnages centraux, Charlie Brown et Snoopy."
+        "anecdote": "\"Peanuts\", au Quebec \"Charlie Brown\", tourne autour de deux personnages centraux, Charlie Brown et Snoopy."
       },
       {
         "id": 16,
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Quel oiseau au bec colore, parfois utilise comme mascotte, peut etre « moine » ?",
+        "question": "Quel oiseau au bec colore, parfois utilise comme mascotte, peut etre \"moine\" ?",
         "propositions": [
           "Le macareux",
           "Le guillemot",
@@ -255,7 +255,7 @@
           "Le sterne"
         ],
         "reponse": "Le macareux",
-        "anecdote": "Le Macareux moine, egalement dit « perroquet de mer », est une espece d oiseau marin pelagique nord-atlantique de haute mer."
+        "anecdote": "Le Macareux moine, egalement dit \"perroquet de mer\", est une espece d oiseau marin pelagique nord-atlantique de haute mer."
       },
       {
         "id": 19,
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Sur quelle partie du corps des oiseaux trouve-t-on un os « pygostyle » ?",
+        "question": "Sur quelle partie du corps des oiseaux trouve-t-on un os \"pygostyle\" ?",
         "propositions": [
           "Le croupion",
           "Les ailes",
@@ -389,7 +389,7 @@
           "Empirique"
         ],
         "reponse": "Pelagique",
-        "anecdote": "Un chalut pelagique (« la haute mer » en grec) est un chalut utilise dans la colonne d eau et non traîne sur le fond."
+        "anecdote": "Un chalut pelagique (\"la haute mer\" en grec) est un chalut utilise dans la colonne d eau et non traine sur le fond."
       },
       {
         "id": 30,

@@ -56,7 +56,7 @@
         "question": "Quel fromage industriel est generalement enrobe de paraffine teinte en rouge ?",
         "propositions": [
           "Saint-paulin",
-          "Époisses",
+          "Epoisses",
           "Babybel",
           "Chavroux"
         ],
@@ -121,7 +121,7 @@
           "Le gruyere"
         ],
         "reponse": "Le gruyere",
-        "anecdote": "Le gruyere fait partie de la meme famille que le comte, qui s appelait a l origine « gruyere de comte »."
+        "anecdote": "Le gruyere fait partie de la meme famille que le comte, qui s appelait a l origine \"gruyere de comte\"."
       },
       {
         "id": 8,
@@ -175,15 +175,15 @@
       },
       {
         "id": 12,
-        "question": "Lequel de ces fromages francais est commercialise dans une boîte en bois ?",
+        "question": "Lequel de ces fromages francais est commercialise dans une boite en bois ?",
         "propositions": [
           "Roquefort",
-          "Époisses",
+          "Epoisses",
           "Cabecou",
           "Petit-suisse"
         ],
-        "reponse": "Époisses",
-        "anecdote": "L epoisses est egalement vendu a la coupe par les fromagers et les maraîchers."
+        "reponse": "Epoisses",
+        "anecdote": "L epoisses est egalement vendu a la coupe par les fromagers et les maraichers."
       },
       {
         "id": 13,
@@ -226,12 +226,12 @@
         "question": "Quel fromage a la pate onctueuse doit sa renommee a son goût de noisette ?",
         "propositions": [
           "Roquefort",
-          "Époisses",
+          "Epoisses",
           "Livernon",
           "Saint-nectaire"
         ],
         "reponse": "Saint-nectaire",
-        "anecdote": "Fromage paysan, fabrique bien souvent par les femmes, le saint-nectaire fut appele jusqu au XVIIe siecle « fromage de seigle »."
+        "anecdote": "Fromage paysan, fabrique bien souvent par les femmes, le saint-nectaire fut appele jusqu au XVIIe siecle \"fromage de seigle\"."
       },
       {
         "id": 17,
@@ -317,7 +317,7 @@
           "Le civray"
         ],
         "reponse": "Le coulommiers",
-        "anecdote": "En gastronomie, le coulommiers est utilise pour la preparation de la « creme de Coulommiers »."
+        "anecdote": "En gastronomie, le coulommiers est utilise pour la preparation de la \"creme de Coulommiers\"."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "Le montbriac"
         ],
         "reponse": "Le livarot",
-        "anecdote": "Ces bandes, qui servaient a la bonne tenue du fromage lors de l affinage, sont a l origine du surnom de « colonel » du fromage."
+        "anecdote": "Ces bandes, qui servaient a la bonne tenue du fromage lors de l affinage, sont a l origine du surnom de \"colonel\" du fromage."
       },
       {
         "id": 25,
@@ -353,7 +353,7 @@
           "Le livarot"
         ],
         "reponse": "Le laguiole",
-        "anecdote": "Le laguiole a failli disparaître au milieu du XXe siecle, du fait des prix de revient eleves de ses methodes de fabrication."
+        "anecdote": "Le laguiole a failli disparaitre au milieu du XXe siecle, du fait des prix de revient eleves de ses methodes de fabrication."
       },
       {
         "id": 27,
@@ -365,7 +365,7 @@
           "200"
         ],
         "reponse": "400",
-        "anecdote": "Le cantal est protege par une appellation d origine contrôlee en France et par une AOP au niveau europeen."
+        "anecdote": "Le cantal est protege par une appellation d origine controlee en France et par une AOP au niveau europeen."
       },
       {
         "id": 28,
@@ -785,11 +785,11 @@
           "Tomme du Jura"
         ],
         "reponse": "Belle des Champs",
-        "anecdote": "Dieser Weichkäse mit einer blühenden Schale von zylindrischer Form wiegt etwa zwei Kilogramm."
+        "anecdote": "Dieser Weichkäse mit einer bluhenden Schale von zylindrischer Form wiegt etwa zwei Kilogramm."
       },
       {
         "id": 2,
-        "question": "Welcher Industriekäse ist in der Regel mit rot gefärbtem Paraffin überzogen ?",
+        "question": "Welcher Industriekäse ist in der Regel mit rot gefärbtem Paraffin uberzogen ?",
         "propositions": [
           "Chavroux",
           "Epoisses",
@@ -813,7 +813,7 @@
       },
       {
         "id": 4,
-        "question": "Welcher Käse ist in der französischen Stadt Meaux berühmt ?",
+        "question": "Welcher Käse ist in der französischen Stadt Meaux beruhmt ?",
         "propositions": [
           "Roquefort",
           "Der Kantal",
@@ -857,11 +857,11 @@
           "Die Schafe"
         ],
         "reponse": "Gruyere",
-        "anecdote": "Gruyere gehört zur selben Familie wie das Comte, das ursprünglich Gruyere de Comte hieß."
+        "anecdote": "Gruyere gehört zur selben Familie wie das Comte, das ursprunglich Gruyere de Comte hieß."
       },
       {
         "id": 8,
-        "question": "Welcher Käse hatte nach einem Dany Boon-Film seine Blütezeit ?",
+        "question": "Welcher Käse hatte nach einem Dany Boon-Film seine Blutezeit ?",
         "propositions": [
           "Roquefort",
           "Die maroilles",
@@ -869,7 +869,7 @@
           "Der Brie"
         ],
         "reponse": "Die maroilles",
-        "anecdote": "Der Film enthüllt somit die übliche Praxis, die die Bewohner haben würden, Maroilles in ihren Kaffee zu tauchen."
+        "anecdote": "Der Film enthullt somit die ubliche Praxis, die die Bewohner haben wurden, Maroilles in ihren Kaffee zu tauchen."
       },
       {
         "id": 9,
@@ -881,7 +881,7 @@
           "Der Saint-Marcellin"
         ],
         "reponse": "Kleine Schweiz",
-        "anecdote": "Petit-Suisse wird auch verwendet, um Fleisch (Geflügel) zu füllen oder zu bedecken (Kaninchen)."
+        "anecdote": "Petit-Suisse wird auch verwendet, um Fleisch (Geflugel) zu fullen oder zu bedecken (Kaninchen)."
       },
       {
         "id": 10,
@@ -904,10 +904,10 @@
           "Beaufort",
           "Der Brie",
           "Morbier",
-          "Das Münster"
+          "Das Munster"
         ],
         "reponse": "Beaufort",
-        "anecdote": "Beaufort, das von einer geschützten Ursprungsbezeichnung profitiert, hat die Form eines Schleifsteins mit leicht konkaver Ferse."
+        "anecdote": "Beaufort, das von einer geschutzten Ursprungsbezeichnung profitiert, hat die Form eines Schleifsteins mit leicht konkaver Ferse."
       },
       {
         "id": 12,
@@ -925,7 +925,7 @@
         "id": 13,
         "question": "Welcher französische Käse wird wegen seiner Form auch Boule de Lille genannt ?",
         "propositions": [
-          "Der Bürgersteig des Nordens",
+          "Der Burgersteig des Nordens",
           "Der Mufflon",
           "Die Rigotte",
           "Die alte Mimolette"
@@ -943,19 +943,19 @@
           "Emmental"
         ],
         "reponse": "Reblochon",
-        "anecdote": "Nach der Überlieferung melken die Bauern des Massivs zum ersten Mal für den Besitzer."
+        "anecdote": "Nach der Überlieferung melken die Bauern des Massivs zum ersten Mal fur den Besitzer."
       },
       {
         "id": 15,
         "question": "Welcher Blauschimmelkäse wird aus roher Schafsmilch hergestellt ?",
         "propositions": [
           "Roquefort",
-          "Das Münster",
+          "Das Munster",
           "Beaufort",
           "Der Brie"
         ],
         "reponse": "Roquefort",
-        "anecdote": "Roquefort ist international bekannt und steht für die hervorragende französische Landwirtschaft und ihre Gastronomie."
+        "anecdote": "Roquefort ist international bekannt und steht fur die hervorragende französische Landwirtschaft und ihre Gastronomie."
       },
       {
         "id": 16,
@@ -979,11 +979,11 @@
           "Der Schweinswal"
         ],
         "reponse": "Der Delphin",
-        "anecdote": "Heutzutage verwenden Landwirte aus Kostengründen meist quadratische, rechteckige oder rautenförmige Formen."
+        "anecdote": "Heutzutage verwenden Landwirte aus Kostengrunden meist quadratische, rechteckige oder rautenförmige Formen."
       },
       {
         "id": 18,
-        "question": "Welcher Käse hat aufgrund seiner Feigenfüllung ein süßes und fruchtiges Herz ?",
+        "question": "Welcher Käse hat aufgrund seiner Feigenfullung ein sußes und fruchtiges Herz ?",
         "propositions": [
           "Tomme de Savoie",
           "Saint-Nectaire",
@@ -991,7 +991,7 @@
           "Kleine Ziege"
         ],
         "reponse": "Figou",
-        "anecdote": "Dieser schmelzende Käse mit einem sehr frischen und würzigen Geschmack hat jedoch kein Etikett."
+        "anecdote": "Dieser schmelzende Käse mit einem sehr frischen und wurzigen Geschmack hat jedoch kein Etikett."
       },
       {
         "id": 19,
@@ -1009,13 +1009,13 @@
         "id": 20,
         "question": "Was ist zweifellos der älteste Käse aus Savoie ?",
         "propositions": [
-          "Die alte Mühle",
+          "Die alte Muhle",
           "Tomme de Savoie",
           "Die Vacherin",
           "Die Rigotte"
         ],
         "reponse": "Tomme de Savoie",
-        "anecdote": "Tomme de Savoie wurde ursprünglich von Bauernfamilien für ihren Lebensunterhalt hergestellt."
+        "anecdote": "Tomme de Savoie wurde ursprunglich von Bauernfamilien fur ihren Lebensunterhalt hergestellt."
       }
     ],
     "expert": [
@@ -1029,7 +1029,7 @@
           "Livernon"
         ],
         "reponse": "Beaufort",
-        "anecdote": "Früher war Beaufort eine wichtige Produktion, aber sie zahlte einen hohen Preis für die Landflucht und ihre Produktionskosten."
+        "anecdote": "Fruher war Beaufort eine wichtige Produktion, aber sie zahlte einen hohen Preis fur die Landflucht und ihre Produktionskosten."
       },
       {
         "id": 22,
@@ -1057,7 +1057,7 @@
       },
       {
         "id": 24,
-        "question": "Welcher Käse hat drei bis fünf getrocknete und geschnittene Streifen ?",
+        "question": "Welcher Käse hat drei bis funf getrocknete und geschnittene Streifen ?",
         "propositions": [
           "Der Fedou",
           "Der Livarot",
@@ -1069,7 +1069,7 @@
       },
       {
         "id": 25,
-        "question": "Welcher französische Käse hat eine dünne Ascheschicht mit einem süßen und fruchtigen Geschmack ?",
+        "question": "Welcher französische Käse hat eine dunne Ascheschicht mit einem sußen und fruchtigen Geschmack ?",
         "propositions": [
           "Der Cowboy",
           "Le trou du Cru",
@@ -1101,26 +1101,26 @@
           "100"
         ],
         "reponse": "400",
-        "anecdote": "Cantal ist durch eine kontrollierte Ursprungsbezeichnung in Frankreich und durch eine gU auf europäischer Ebene geschützt."
+        "anecdote": "Cantal ist durch eine kontrollierte Ursprungsbezeichnung in Frankreich und durch eine gU auf europäischer Ebene geschutzt."
       },
       {
         "id": 28,
         "question": "Welcher Kuhmilchkäse heißt in Lothringen Gerome ?",
         "propositions": [
-          "Das Münster",
+          "Das Munster",
           "Le trou du Cru",
           "Savaron",
           "Morbier"
         ],
-        "reponse": "Das Münster",
-        "anecdote": "Das Rezept für Münster wurde im 9. Jahrhundert von einem irischen Mönch den Vogesen überlassen."
+        "reponse": "Das Munster",
+        "anecdote": "Das Rezept fur Munster wurde im 9. Jahrhundert von einem irischen Mönch den Vogesen uberlassen."
       },
       {
         "id": 29,
         "question": "Welcher Käse hat eine orange Linie unter seinem elfenbeinfarbenen Teig ?",
         "propositions": [
           "Die Barousse",
-          "Das Münster",
+          "Das Munster",
           "Der Pfarrer von Nantes",
           "Der Mufflon"
         ],
@@ -1129,7 +1129,7 @@
       },
       {
         "id": 30,
-        "question": "Welcher Käse hat eine Paste, die einen geräucherten Speckgeschmack und einen würzigen Abgang zeigt ?",
+        "question": "Welcher Käse hat eine Paste, die einen geräucherten Speckgeschmack und einen wurzigen Abgang zeigt ?",
         "propositions": [
           "Das Stipendium",
           "Das Charolais",
@@ -1137,7 +1137,7 @@
           "Der Pfarrer von Nantes"
         ],
         "reponse": "Der Pfarrer von Nantes",
-        "anecdote": "Sein Rezept wäre im 19. Jahrhundert von einem vorbeikommenden Priester an Saint-Julien-de-Concelles im Weinberg Nantes übermittelt worden."
+        "anecdote": "Sein Rezept wäre im 19. Jahrhundert von einem vorbeikommenden Priester an Saint-Julien-de-Concelles im Weinberg Nantes ubermittelt worden."
       }
     ]
     },

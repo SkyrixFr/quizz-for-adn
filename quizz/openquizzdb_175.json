@@ -28,7 +28,7 @@
     "de": {
       "categorie": "Tiere",
       "nom": "Tiere in Zahlen",
-      "slogan": "Wenn ein Tier zu dir spricht, lügt es"
+      "slogan": "Wenn ein Tier zu dir spricht, lugt es"
     },
     "nl": {
       "categorie": "Dieren",
@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "question": "À combien de pulsations par minute bat le coeur d un herisson en hibernation ?",
+        "question": "A combien de pulsations par minute bat le coeur d un herisson en hibernation ?",
         "propositions": [
           "18",
           "38",
@@ -77,7 +77,7 @@
       },
       {
         "id": 4,
-        "question": "En quelle annee le dernier dodo vivant a-t-il ete vu a l île Maurice ?",
+        "question": "En quelle annee le dernier dodo vivant a-t-il ete vu a l ile Maurice ?",
         "propositions": [
           "1832",
           "1723",
@@ -279,7 +279,7 @@
           "100"
         ],
         "reponse": "100",
-        "anecdote": "À l eclosion des oeufs, le bebe crocodile mesure environ 30 cm et a le meme corps que sa mere, qu il soit male ou femelle."
+        "anecdote": "A l eclosion des oeufs, le bebe crocodile mesure environ 30 cm et a le meme corps que sa mere, qu il soit male ou femelle."
       }
     ],
     "expert": [
@@ -785,7 +785,7 @@
           "13 Monate"
         ],
         "reponse": "21 Monate",
-        "anecdote": "Ein Elefant kann bis zum Alter von fünfzig Jahren schwanger sein, wobei in den meisten Fällen nur ein Elefant getragen wird."
+        "anecdote": "Ein Elefant kann bis zum Alter von funfzig Jahren schwanger sein, wobei in den meisten Fällen nur ein Elefant getragen wird."
       },
       {
         "id": 2,
@@ -809,7 +809,7 @@
           "9 km"
         ],
         "reponse": "3 km",
-        "anecdote": "Dieser Affe schreit jeden Morgen, und wenn er mit anderen Brüllaffen kämpft, schreien sie auch mit Schreien."
+        "anecdote": "Dieser Affe schreit jeden Morgen, und wenn er mit anderen Brullaffen kämpft, schreien sie auch mit Schreien."
       },
       {
         "id": 4,
@@ -1029,11 +1029,11 @@
           "6 m"
         ],
         "reponse": "12 m",
-        "anecdote": "Für die Jagd oder im Falle einer Bedrohung kann er auf Bäume klettern und sehr wendig sein."
+        "anecdote": "Fur die Jagd oder im Falle einer Bedrohung kann er auf Bäume klettern und sehr wendig sein."
       },
       {
         "id": 22,
-        "question": "Wie viel hat eine normal geformte Mücke Zähne ?",
+        "question": "Wie viel hat eine normal geformte Mucke Zähne ?",
         "propositions": [
           "47",
           "29",
@@ -1057,7 +1057,7 @@
       },
       {
         "id": 24,
-        "question": "Wie viele Tage überwinkt ein alaskisches Eichhörnchen ?",
+        "question": "Wie viele Tage uberwinkt ein alaskisches Eichhörnchen ?",
         "propositions": [
           "410 Tage",
           "270 Tage",
@@ -1081,7 +1081,7 @@
       },
       {
         "id": 26,
-        "question": "Wie viele Tiere aus dem Berliner Zoo haben im Zweiten Weltkrieg überlebt ?",
+        "question": "Wie viele Tiere aus dem Berliner Zoo haben im Zweiten Weltkrieg uberlebt ?",
         "propositions": [
           "892",
           "1,712",
@@ -1089,7 +1089,7 @@
           "91"
         ],
         "reponse": "91",
-        "anecdote": "Die ersten Tierspenden für den 1844 gegründeten Berliner Zoo wurden von Friedrich Wilhelm IV., König von Preußen, gemacht."
+        "anecdote": "Die ersten Tierspenden fur den 1844 gegrundeten Berliner Zoo wurden von Friedrich Wilhelm IV., König von Preußen, gemacht."
       },
       {
         "id": 27,
@@ -1105,7 +1105,7 @@
       },
       {
         "id": 28,
-        "question": "Wie oft pro Sekunde kann ein Kolibri seine Flügel schlagen ?",
+        "question": "Wie oft pro Sekunde kann ein Kolibri seine Flugel schlagen ?",
         "propositions": [
           "58 mal",
           "18 mal",
@@ -1113,7 +1113,7 @@
           "78 mal"
         ],
         "reponse": "78 mal",
-        "anecdote": "Kolibris sind wegen ihrer geringen Größe und ihrer schnellen Flügelschläge auch als Kolibris bekannt."
+        "anecdote": "Kolibris sind wegen ihrer geringen Größe und ihrer schnellen Flugelschläge auch als Kolibris bekannt."
       },
       {
         "id": 29,

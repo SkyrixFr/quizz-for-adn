@@ -8,7 +8,7 @@
     "fr": {
       "categorie": "Celebrites",
       "nom": "Prenoms celebres",
-      "slogan": "On connaît leurs noms"
+      "slogan": "On connait leurs noms"
     },
     "en": {
       "categorie": "Celebrities",
@@ -27,7 +27,7 @@
     },
     "de": {
       "categorie": "Prominente",
-      "nom": "Berühmte Vornamen",
+      "nom": "Beruhmte Vornamen",
       "slogan": "Wir kennen ihre Namen"
     },
     "nl": {
@@ -46,7 +46,7 @@
           "Gerard",
           "Gerald",
           "Jeremy",
-          "Jerôme"
+          "Jerome"
         ],
         "reponse": "Gerald",
         "anecdote": "Gerald Gardrinier, ne a La Reunion, a choisi pour nom de scene celui de sa grand-mere maternelle, Roxane de Palmas."
@@ -61,7 +61,7 @@
           "Popeye"
         ],
         "reponse": "Donald",
-        "anecdote": "Donald Sutherland a tenu son premier rôle au cinema en 1964 dans un film d horreur italien, « Il castello dei morti vivi »."
+        "anecdote": "Donald Sutherland a tenu son premier role au cinema en 1964 dans un film d horreur italien, \"Il castello dei morti vivi\"."
       },
       {
         "id": 3,
@@ -97,7 +97,7 @@
           "Abraham"
         ],
         "reponse": "Homer",
-        "anecdote": "Homer est apparu pour la premiere fois a la television avec sa famille dans le court metrage « Good Night », le 19 avril 1987."
+        "anecdote": "Homer est apparu pour la premiere fois a la television avec sa famille dans le court metrage \"Good Night\", le 19 avril 1987."
       },
       {
         "id": 6,
@@ -109,11 +109,11 @@
           "Benjamin"
         ],
         "reponse": "Forrest",
-        "anecdote": "Pourtant simple d esprit, l histoire de Forrest Gump se confond avec celle des États-Unis des annees 1950 aux annees 1980."
+        "anecdote": "Pourtant simple d esprit, l histoire de Forrest Gump se confond avec celle des Etats-Unis des annees 1950 aux annees 1980."
       },
       {
         "id": 7,
-        "question": "Quel personnage feminin est present dans « Notre-Dame de Paris » ?",
+        "question": "Quel personnage feminin est present dans \"Notre-Dame de Paris\" ?",
         "propositions": [
           "Cassandra",
           "Samantha",
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Comment se prenomme le heros des films de la saga « Mission Impossible » ?",
+        "question": "Comment se prenomme le heros des films de la saga \"Mission Impossible\" ?",
         "propositions": [
           "Ethan",
           "Jim",
@@ -133,7 +133,7 @@
           "Luther"
         ],
         "reponse": "Ethan",
-        "anecdote": "Ethan Matthew Hunt est le personnage principal de la serie de films « Mission Impossible ». Il est interprete par l acteur Tom Cruise."
+        "anecdote": "Ethan Matthew Hunt est le personnage principal de la serie de films \"Mission Impossible\". Il est interprete par l acteur Tom Cruise."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Simon"
         ],
         "reponse": "Leon",
-        "anecdote": "Sixieme long metrage realise par Besson, « Leon » retrace la vie d un tueur a gages du meme nom, vivant en solitaire a New York."
+        "anecdote": "Sixieme long metrage realise par Besson, \"Leon\" retrace la vie d un tueur a gages du meme nom, vivant en solitaire a New York."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Louise"
         ],
         "reponse": "Louise",
-        "anecdote": "« Thelma et Louise » est un film americain realise par Ridley Scott en 1991 qui a recu l Oscar du meilleur scenario."
+        "anecdote": "\"Thelma et Louise\" est un film americain realise par Ridley Scott en 1991 qui a recu l Oscar du meilleur scenario."
       }
     ],
     "confirme": [
@@ -171,11 +171,11 @@
           "Amerigo"
         ],
         "reponse": "Antonio",
-        "anecdote": "Les quatre concertos connus sous le titre « Les Quatre Saisons » comptent parmi les plus populaires du repertoire classique."
+        "anecdote": "Les quatre concertos connus sous le titre \"Les Quatre Saisons\" comptent parmi les plus populaires du repertoire classique."
       },
       {
         "id": 12,
-        "question": "Quel etait le prenom de Mussolini, homme d État italien mort en 1945 ?",
+        "question": "Quel etait le prenom de Mussolini, homme d Etat italien mort en 1945 ?",
         "propositions": [
           "Antonio",
           "Benito",
@@ -195,7 +195,7 @@
           "Kevin"
         ],
         "reponse": "Edward",
-        "anecdote": "Le projet sera fortement accelere a la suite du succes commercial remporte par « Batman » (1989), le precedent film de Tim Burton."
+        "anecdote": "Le projet sera fortement accelere a la suite du succes commercial remporte par \"Batman\" (1989), le precedent film de Tim Burton."
       },
       {
         "id": 14,
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Qui incarne la mechante dans la serie televisee « La petite maison dans la prairie » ?",
+        "question": "Qui incarne la mechante dans la serie televisee \"La petite maison dans la prairie\" ?",
         "propositions": [
           "Stella",
           "Nellie",
@@ -219,7 +219,7 @@
           "Marie"
         ],
         "reponse": "Nellie",
-        "anecdote": "Elle est interpretee dans la serie par l actrice americaine Alison Arngrim, qui reprendra ce rôle dans un spectacle humoristique."
+        "anecdote": "Elle est interpretee dans la serie par l actrice americaine Alison Arngrim, qui reprendra ce role dans un spectacle humoristique."
       },
       {
         "id": 16,
@@ -235,7 +235,7 @@
       },
       {
         "id": 17,
-        "question": "Comment se prenomme la belle brune de la saga de science-fiction « Matrix » ?",
+        "question": "Comment se prenomme la belle brune de la saga de science-fiction \"Matrix\" ?",
         "propositions": [
           "Trinity",
           "Riddick",
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Qui represente la veritable enigme des « Contes de Mille et Une Nuits » ?",
+        "question": "Qui represente la veritable enigme des \"Contes de Mille et Une Nuits\" ?",
         "propositions": [
           "Vernyhora",
           "Titania",
@@ -279,7 +279,7 @@
           "Sheherazade"
         ],
         "reponse": "Sheherazade",
-        "anecdote": "Le noyau de ces histoires et contes est forme par un ancien livre persan nomme « Hezar-afsana » (Les Mille contes)."
+        "anecdote": "Le noyau de ces histoires et contes est forme par un ancien livre persan nomme \"Hezar-afsana\" (Les Mille contes)."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Anna"
         ],
         "reponse": "Ilona",
-        "anecdote": "Le 17 mai 1995, elle donne naissance a sa premiere fille, Ilona, puis le 13 septembre 1997 naît sa deuxieme fille, Emma."
+        "anecdote": "Le 17 mai 1995, elle donne naissance a sa premiere fille, Ilona, puis le 13 septembre 1997 nait sa deuxieme fille, Emma."
       },
       {
         "id": 22,
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "Quel est le prenom du capitaine francais de « Star trek:NextGen » ?",
+        "question": "Quel est le prenom du capitaine francais de \"Star trek:NextGen\" ?",
         "propositions": [
           "Jean-Luc",
           "Jean-Charles",
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Quel prenom est associe a « Madame Bovary » de Gustave Flaubert ?",
+        "question": "Quel prenom est associe a \"Madame Bovary\" de Gustave Flaubert ?",
         "propositions": [
           "Diana",
           "Emma",
@@ -333,7 +333,7 @@
       },
       {
         "id": 25,
-        "question": "À quel prenom feminin vous fait penser « Autant en emporte le vent » ?",
+        "question": "A quel prenom feminin vous fait penser \"Autant en emporte le vent\" ?",
         "propositions": [
           "Elisabeth",
           "Bridget",
@@ -341,7 +341,7 @@
           "Babeth"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Autant en emporte le vent » est un roman ecrit par Margaret Mitchell narrant la desillusion de Scarlett O Hara."
+        "anecdote": "\"Autant en emporte le vent\" est un roman ecrit par Margaret Mitchell narrant la desillusion de Scarlett O Hara."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Margarett"
         ],
         "reponse": "Margarett",
-        "anecdote": "« Les Quatre Filles du docteur March » est un roman de la femme de lettres americaine Louisa May Alcott, publie en 1868."
+        "anecdote": "\"Les Quatre Filles du docteur March\" est un roman de la femme de lettres americaine Louisa May Alcott, publie en 1868."
       },
       {
         "id": 27,
@@ -361,15 +361,15 @@
         "propositions": [
           "Barbara",
           "Cassandra",
-          "Élisa",
+          "Elisa",
           "Johanna"
         ],
-        "reponse": "Élisa",
-        "anecdote": "« Élisa » est une chanson de Serge Gainsbourg de 1969 (co-ecrite avec Michel Colombier) dont il existe deux versions distinctes."
+        "reponse": "Elisa",
+        "anecdote": "\"Elisa\" est une chanson de Serge Gainsbourg de 1969 (co-ecrite avec Michel Colombier) dont il existe deux versions distinctes."
       },
       {
         "id": 28,
-        "question": "Qui est incarne par Orlando Bloom dans « Le Seigneur des Anneaux » ?",
+        "question": "Qui est incarne par Orlando Bloom dans \"Le Seigneur des Anneaux\" ?",
         "propositions": [
           "Legolas",
           "Gimli",
@@ -377,7 +377,7 @@
           "Aragorn"
         ],
         "reponse": "Legolas",
-        "anecdote": "Fils de Thranduil, le roi des Elfes, Legolas Vertefeuille se fit connaître lors du Conseil d Elrond en 3018 du Troisieme Âge."
+        "anecdote": "Fils de Thranduil, le roi des Elfes, Legolas Vertefeuille se fit connaitre lors du Conseil d Elrond en 3018 du Troisieme Âge."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Artus"
         ],
         "reponse": "Marius",
-        "anecdote": "La « Trilogie marseillaise » est l appellation generique donnee aux trois pieces de theatre de Marcel Pagnol, « Marius », « Fanny » et « Cesar »."
+        "anecdote": "La \"Trilogie marseillaise\" est l appellation generique donnee aux trois pieces de theatre de Marcel Pagnol, \"Marius\", \"Fanny\" et \"Cesar\"."
       },
       {
         "id": 30,
@@ -429,7 +429,7 @@
           "Pluto"
         ],
         "reponse": "Donald",
-        "anecdote": "Donald Sutherland held his first film role in 1964 in an Italian horror film, « Il castello dei morti vivi »."
+        "anecdote": "Donald Sutherland held his first film role in 1964 in an Italian horror film, \"Il castello dei morti vivi\"."
       },
       {
         "id": 3,
@@ -465,7 +465,7 @@
           "Homer"
         ],
         "reponse": "Homer",
-        "anecdote": "Homer appeared for the first time on television with his family in the short film « Good Night », on April 19, 1987."
+        "anecdote": "Homer appeared for the first time on television with his family in the short film \"Good Night\", on April 19, 1987."
       },
       {
         "id": 6,
@@ -481,7 +481,7 @@
       },
       {
         "id": 7,
-        "question": "Which female character is present in « Notre-Dame de Paris » ?",
+        "question": "Which female character is present in \"Notre-Dame de Paris\" ?",
         "propositions": [
           "Cassandra",
           "Esmeralda",
@@ -493,7 +493,7 @@
       },
       {
         "id": 8,
-        "question": "How is the hero of the movies of the saga « Mission Impossible » ?",
+        "question": "How is the hero of the movies of the saga \"Mission Impossible\" ?",
         "propositions": [
           "Owen",
           "Luther",
@@ -501,7 +501,7 @@
           "Jim"
         ],
         "reponse": "Ethan",
-        "anecdote": "Ethan Matthew Hunt is the main character in the series of films « Mission Impossible »."
+        "anecdote": "Ethan Matthew Hunt is the main character in the series of films \"Mission Impossible\"."
       },
       {
         "id": 9,
@@ -513,7 +513,7 @@
           "Leon"
         ],
         "reponse": "Leon",
-        "anecdote": "Sixth feature film directed by Besson, « Leon » traces the life of a hired killer of the same name, living alone in New York."
+        "anecdote": "Sixth feature film directed by Besson, \"Leon\" traces the life of a hired killer of the same name, living alone in New York."
       },
       {
         "id": 10,
@@ -525,7 +525,7 @@
           "Bethy"
         ],
         "reponse": "Louise",
-        "anecdote": "« Thelma and Louise » is an American film made by Ridley Scott in 1991 that received the Oscar for Best Screenplay."
+        "anecdote": "\"Thelma and Louise\" is an American film made by Ridley Scott in 1991 that received the Oscar for Best Screenplay."
       }
     ],
     "confirme": [
@@ -539,7 +539,7 @@
           "Amerigo"
         ],
         "reponse": "Antonio",
-        "anecdote": "The four concertos known as « The Four Seasons » are among the most popular in the classical repertory."
+        "anecdote": "The four concertos known as \"The Four Seasons\" are among the most popular in the classical repertory."
       },
       {
         "id": 12,
@@ -563,7 +563,7 @@
           "Robert"
         ],
         "reponse": "Edward",
-        "anecdote": "The project will be greatly accelerated following the commercial success won by « Batman » (1989), Tim Burton s previous film."
+        "anecdote": "The project will be greatly accelerated following the commercial success won by \"Batman\" (1989), Tim Burton s previous film."
       },
       {
         "id": 14,
@@ -579,7 +579,7 @@
       },
       {
         "id": 15,
-        "question": "Who embodies the magic in the TV series « The little house in the meadow » ?",
+        "question": "Who embodies the magic in the TV series \"The little house in the meadow\" ?",
         "propositions": [
           "Nellie",
           "Stella",
@@ -603,7 +603,7 @@
       },
       {
         "id": 17,
-        "question": "How is the beautiful brunette in the saga of science fiction « Matrix » ?",
+        "question": "How is the beautiful brunette in the saga of science fiction \"Matrix\" ?",
         "propositions": [
           "Billie",
           "Clara",
@@ -639,7 +639,7 @@
       },
       {
         "id": 20,
-        "question": "Who represents the true enigma of « Tales of Thousand and One Nights » ?",
+        "question": "Who represents the true enigma of \"Tales of Thousand and One Nights\" ?",
         "propositions": [
           "Titania",
           "Vernyhora",
@@ -647,7 +647,7 @@
           "Sheherazade"
         ],
         "reponse": "Sheherazade",
-        "anecdote": "The core of these stories is formed by an ancient Persian book named « Hezar-afsana » (The Thousand Tales)."
+        "anecdote": "The core of these stories is formed by an ancient Persian book named \"Hezar-afsana\" (The Thousand Tales)."
       }
     ],
     "expert": [
@@ -677,7 +677,7 @@
       },
       {
         "id": 23,
-        "question": "What is the name of the French captain of « Star trek: NextGen » ?",
+        "question": "What is the name of the French captain of \"Star trek: NextGen\" ?",
         "propositions": [
           "Jean-Charles",
           "Jean-Marc",
@@ -689,7 +689,7 @@
       },
       {
         "id": 24,
-        "question": "Which name is associated with « Madame Bovary » by Gustave Flaubert ?",
+        "question": "Which name is associated with \"Madame Bovary\" by Gustave Flaubert ?",
         "propositions": [
           "Sarah",
           "Emma",
@@ -701,7 +701,7 @@
       },
       {
         "id": 25,
-        "question": "What feminine name makes you think « Gone with the wind ? »",
+        "question": "What feminine name makes you think \"Gone with the wind ?\"",
         "propositions": [
           "Scarlett",
           "Babeth",
@@ -709,7 +709,7 @@
           "Elisabeth"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Gone With The Wind » is a novel written by Margaret Mitchell narrating the delusion of Scarlett O Hara."
+        "anecdote": "\"Gone With The Wind\" is a novel written by Margaret Mitchell narrating the delusion of Scarlett O Hara."
       },
       {
         "id": 26,
@@ -721,7 +721,7 @@
           "Laura"
         ],
         "reponse": "Margarett",
-        "anecdote": "« The Four Girls of Dr. March » is a novel by the American writer Louisa May Alcott, published in 1868."
+        "anecdote": "\"The Four Girls of Dr. March\" is a novel by the American writer Louisa May Alcott, published in 1868."
       },
       {
         "id": 27,
@@ -733,11 +733,11 @@
           "Barbara"
         ],
         "reponse": "Elisa",
-        "anecdote": "« Élisa » is a Serge Gainsbourg song of 1969 (co-written with Michel Colombier) of which there are two distinct versions."
+        "anecdote": "\"Elisa\" is a Serge Gainsbourg song of 1969 (co-written with Michel Colombier) of which there are two distinct versions."
       },
       {
         "id": 28,
-        "question": "Who is Orlando Bloom in « The Lord of the Rings » ?",
+        "question": "Who is Orlando Bloom in \"The Lord of the Rings\" ?",
         "propositions": [
           "Gimli",
           "Boromir",
@@ -757,7 +757,7 @@
           "Marius"
         ],
         "reponse": "Marius",
-        "anecdote": "The « Marseille Trilogy » is the generic name given to Marcel Pagnol s three plays, « Marius », « Fanny » and « Cesar »."
+        "anecdote": "The \"Marseille Trilogy\" is the generic name given to Marcel Pagnol s three plays, \"Marius\", \"Fanny\" and \"Cesar\"."
       },
       {
         "id": 30,
@@ -785,7 +785,7 @@
           "Jerome"
         ],
         "reponse": "Gerald",
-        "anecdote": "Gerald de Palmas wählte als Künstlernamen den Namen seiner Großmutter mütterlicherseits, Roxane de Palmas."
+        "anecdote": "Gerald de Palmas wählte als Kunstlernamen den Namen seiner Großmutter mutterlicherseits, Roxane de Palmas."
       },
       {
         "id": 2,
@@ -797,7 +797,7 @@
           "Pluto"
         ],
         "reponse": "Donald",
-        "anecdote": "Donald Sutherland hatte 1964 seine erste Filmrolle in einem italienischen Horrorfilm, « Il castello dei morti vivi »."
+        "anecdote": "Donald Sutherland hatte 1964 seine erste Filmrolle in einem italienischen Horrorfilm, \"Il castello dei morti vivi\"."
       },
       {
         "id": 3,
@@ -813,7 +813,7 @@
       },
       {
         "id": 4,
-        "question": "Wie heißt der berühmte portugiesische Fußballspieler Ronaldo ?",
+        "question": "Wie heißt der beruhmte portugiesische Fußballspieler Ronaldo ?",
         "propositions": [
           "Joao",
           "Cristiano",
@@ -833,7 +833,7 @@
           "Homer"
         ],
         "reponse": "Homer",
-        "anecdote": "Am 19. April 1987 war Homer zum ersten Mal mit seiner Familie im Fernsehen in dem Kurzfilm « Good Night » zu sehen."
+        "anecdote": "Am 19. April 1987 war Homer zum ersten Mal mit seiner Familie im Fernsehen in dem Kurzfilm \"Good Night\" zu sehen."
       },
       {
         "id": 6,
@@ -849,7 +849,7 @@
       },
       {
         "id": 7,
-        "question": "Welche weibliche Figur ist in « Notre-Dame de Paris » vertreten ?",
+        "question": "Welche weibliche Figur ist in \"Notre-Dame de Paris\" vertreten ?",
         "propositions": [
           "Samantha",
           "Esmeralda",
@@ -861,7 +861,7 @@
       },
       {
         "id": 8,
-        "question": "Wie ist der Held der Filme der Saga « Mission Impossible » ?",
+        "question": "Wie ist der Held der Filme der Saga \"Mission Impossible\" ?",
         "propositions": [
           "Luther",
           "Jim",
@@ -869,7 +869,7 @@
           "Ethan"
         ],
         "reponse": "Ethan",
-        "anecdote": "Ethan Matthew Hunt ist die Hauptfigur in der Filmreihe « Mission Impossible »."
+        "anecdote": "Ethan Matthew Hunt ist die Hauptfigur in der Filmreihe \"Mission Impossible\"."
       },
       {
         "id": 9,
@@ -881,7 +881,7 @@
           "Gaston"
         ],
         "reponse": "Leon",
-        "anecdote": "Der sechste Spielfilm von Besson, « Leon », zeichnet das Leben eines gleichnamigen Auftragsmörders nach, der allein in New York lebt."
+        "anecdote": "Der sechste Spielfilm von Besson, \"Leon\", zeichnet das Leben eines gleichnamigen Auftragsmörders nach, der allein in New York lebt."
       },
       {
         "id": 10,
@@ -893,7 +893,7 @@
           "Louise"
         ],
         "reponse": "Louise",
-        "anecdote": "« Thelma und Louise » ist ein amerikanischer Film, der 1991 von Ridley Scott gedreht wurde und den Oscar für das beste Drehbuch erhielt."
+        "anecdote": "\"Thelma und Louise\" ist ein amerikanischer Film, der 1991 von Ridley Scott gedreht wurde und den Oscar fur das beste Drehbuch erhielt."
       }
     ],
     "confirme": [
@@ -907,7 +907,7 @@
           "Antonio"
         ],
         "reponse": "Antonio",
-        "anecdote": "Die vier als « The Four Seasons » bekannten Konzerte gehören zu den beliebtesten im klassischen Repertoire."
+        "anecdote": "Die vier als \"The Four Seasons\" bekannten Konzerte gehören zu den beliebtesten im klassischen Repertoire."
       },
       {
         "id": 12,
@@ -919,7 +919,7 @@
           "Sergio"
         ],
         "reponse": "Benito",
-        "anecdote": "Musolini wird allgemein als Duce bezeichnet, ein italienisches Wort, das vom lateinischen Dux abgeleitet ist und Chef oder Führer bedeutet."
+        "anecdote": "Musolini wird allgemein als Duce bezeichnet, ein italienisches Wort, das vom lateinischen Dux abgeleitet ist und Chef oder Fuhrer bedeutet."
       },
       {
         "id": 13,
@@ -931,7 +931,7 @@
           "Dylan"
         ],
         "reponse": "Edward",
-        "anecdote": "Das Projekt wird nach dem kommerziellen Erfolg von « Batman » (1989), dem vorherigen Film von Tim Burton, erheblich beschleunigt."
+        "anecdote": "Das Projekt wird nach dem kommerziellen Erfolg von \"Batman\" (1989), dem vorherigen Film von Tim Burton, erheblich beschleunigt."
       },
       {
         "id": 14,
@@ -947,7 +947,7 @@
       },
       {
         "id": 15,
-        "question": "Wer verkörpert die Magie in der Fernsehserie « Das kleine Haus auf der Wiese » ?",
+        "question": "Wer verkörpert die Magie in der Fernsehserie \"Das kleine Haus auf der Wiese\" ?",
         "propositions": [
           "Laura",
           "Marie",
@@ -955,14 +955,14 @@
           "Nellie"
         ],
         "reponse": "Nellie",
-        "anecdote": "Sie wird in der Serie von der amerikanischen Schauspielerin Alison Arngrim porträtiert, die diese Rolle in einer humorvollen Show übernehmen wird."
+        "anecdote": "Sie wird in der Serie von der amerikanischen Schauspielerin Alison Arngrim porträtiert, die diese Rolle in einer humorvollen Show ubernehmen wird."
       },
       {
         "id": 16,
         "question": "Wer war das kleine Bergmädchen unserer Kindheit ?",
         "propositions": [
           "Heidi",
-          "Süßigkeiten",
+          "Sußigkeiten",
           "Cosby",
           "Maguy"
         ],
@@ -971,7 +971,7 @@
       },
       {
         "id": 17,
-        "question": "Wie ist die schöne Brünette in der Science-Fiction-Saga « Matrix » ?",
+        "question": "Wie ist die schöne Brunette in der Science-Fiction-Saga \"Matrix\" ?",
         "propositions": [
           "Trinity",
           "Billie",
@@ -1007,7 +1007,7 @@
       },
       {
         "id": 20,
-        "question": "Wer repräsentiert das wahre Rätsel von « Tausendundeiner Nacht » ?",
+        "question": "Wer repräsentiert das wahre Rätsel von \"Tausendundeiner Nacht\" ?",
         "propositions": [
           "Vernyhora",
           "Abscheulich",
@@ -1015,7 +1015,7 @@
           "Titania"
         ],
         "reponse": "Sheherazade",
-        "anecdote": "Den Kern dieser Geschichten bildet ein altes persisches Buch mit dem Namen « Hezar-afsana » (The Thousand Tales)."
+        "anecdote": "Den Kern dieser Geschichten bildet ein altes persisches Buch mit dem Namen \"Hezar-afsana\" (The Thousand Tales)."
       }
     ],
     "expert": [
@@ -1045,7 +1045,7 @@
       },
       {
         "id": 23,
-        "question": "Wie heißt der französische Kapitän von « Star Trek: NextGen » ?",
+        "question": "Wie heißt der französische Kapitän von \"Star Trek: NextGen\" ?",
         "propositions": [
           "Jean-Pierre",
           "Jean-Luc",
@@ -1057,7 +1057,7 @@
       },
       {
         "id": 24,
-        "question": "Welcher Name wird mit « Madame Bovary » von Gustave Flaubert in Verbindung gebracht ?",
+        "question": "Welcher Name wird mit \"Madame Bovary\" von Gustave Flaubert in Verbindung gebracht ?",
         "propositions": [
           "Laura",
           "Emma",
@@ -1069,7 +1069,7 @@
       },
       {
         "id": 25,
-        "question": "Welcher weibliche Name lässt Sie denken, « Vom Winde verweht ? »",
+        "question": "Welcher weibliche Name lässt Sie denken, \"Vom Winde verweht ?\"",
         "propositions": [
           "Babeth",
           "Elisabeth",
@@ -1077,7 +1077,7 @@
           "Bridget"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Vom Winde verweht » ist ein Roman von Margaret Mitchell, der den Wahn von Scarlett O Hara erzählt."
+        "anecdote": "\"Vom Winde verweht\" ist ein Roman von Margaret Mitchell, der den Wahn von Scarlett O Hara erzählt."
       },
       {
         "id": 26,
@@ -1089,7 +1089,7 @@
           "Nelly"
         ],
         "reponse": "Margarett",
-        "anecdote": "« Die vier Mädchen von Dr. March » ist ein Roman der amerikanischen Schriftstellerin Louisa May Alcott, der 1868 veröffentlicht wurde."
+        "anecdote": "\"Die vier Mädchen von Dr. March\" ist ein Roman der amerikanischen Schriftstellerin Louisa May Alcott, der 1868 veröffentlicht wurde."
       },
       {
         "id": 27,
@@ -1101,11 +1101,11 @@
           "Cassandra"
         ],
         "reponse": "Elisa",
-        "anecdote": "« Élisa » ist ein Lied von Serge Gainsbourg aus dem Jahr 1969 (gemeinsam mit Michel Colombier geschrieben), von dem es zwei verschiedene Versionen gibt."
+        "anecdote": "\"Elisa\" ist ein Lied von Serge Gainsbourg aus dem Jahr 1969 (gemeinsam mit Michel Colombier geschrieben), von dem es zwei verschiedene Versionen gibt."
       },
       {
         "id": 28,
-        "question": "Wer ist Orlando Bloom in « Der Herr der Ringe » ?",
+        "question": "Wer ist Orlando Bloom in \"Der Herr der Ringe\" ?",
         "propositions": [
           "Legolas",
           "Gimli",
@@ -1117,7 +1117,7 @@
       },
       {
         "id": 29,
-        "question": "Welcher männliche Anführer wird neben Cesar oft mit Marcel Pagnol in Verbindung gebracht ?",
+        "question": "Welcher männliche Anfuhrer wird neben Cesar oft mit Marcel Pagnol in Verbindung gebracht ?",
         "propositions": [
           "Marius",
           "Titus",
@@ -1125,7 +1125,7 @@
           "Artus"
         ],
         "reponse": "Marius",
-        "anecdote": "Die « Marseille-Trilogie » ist der Oberbegriff für die drei Stücke von Marcel Pagnol, « Marius », « Fanny » und « Cesar »."
+        "anecdote": "Die \"Marseille-Trilogie\" ist der Oberbegriff fur die drei Stucke von Marcel Pagnol, \"Marius\", \"Fanny\" und \"Cesar\"."
       },
       {
         "id": 30,
@@ -1165,7 +1165,7 @@
           "Popeye"
         ],
         "reponse": "Donald",
-        "anecdote": "Donald Sutherland realizó su primer papel en el cine en 1964 en una película de terror italiana, « Il castello dei morti vivi »."
+        "anecdote": "Donald Sutherland realizó su primer papel en el cine en 1964 en una película de terror italiana, \"Il castello dei morti vivi\"."
       },
       {
         "id": 3,
@@ -1201,7 +1201,7 @@
           "Homero"
         ],
         "reponse": "Homero",
-        "anecdote": "Homer apareció por primera vez en televisión con su familia en el cortometraje « Good Night », el 19 de abril de 1987."
+        "anecdote": "Homer apareció por primera vez en televisión con su familia en el cortometraje \"Good Night\", el 19 de abril de 1987."
       },
       {
         "id": 6,
@@ -1217,7 +1217,7 @@
       },
       {
         "id": 7,
-        "question": "¿Que personaje femenino está presente en « Notre-Dame de Paris » ?",
+        "question": "¿Que personaje femenino está presente en \"Notre-Dame de Paris\" ?",
         "propositions": [
           "Esmeralda",
           "Antoniona",
@@ -1229,7 +1229,7 @@
       },
       {
         "id": 8,
-        "question": "¿Cómo es el heroe de las películas de la saga « Misión imposible » ?",
+        "question": "¿Cómo es el heroe de las películas de la saga \"Misión imposible\" ?",
         "propositions": [
           "Lutero",
           "Ethan",
@@ -1237,7 +1237,7 @@
           "Jim"
         ],
         "reponse": "Ethan",
-        "anecdote": "Ethan Matthew Hunt es el personaje principal de la serie de películas « Misión imposible »."
+        "anecdote": "Ethan Matthew Hunt es el personaje principal de la serie de películas \"Misión imposible\"."
       },
       {
         "id": 9,
@@ -1249,7 +1249,7 @@
           "Odilon"
         ],
         "reponse": "Leon",
-        "anecdote": "Sexto largometraje dirigido por Besson, « Leon » narra la vida de un asesino a sueldo del mismo nombre que vive solo en Nueva York."
+        "anecdote": "Sexto largometraje dirigido por Besson, \"Leon\" narra la vida de un asesino a sueldo del mismo nombre que vive solo en Nueva York."
       },
       {
         "id": 10,
@@ -1261,7 +1261,7 @@
           "Susan"
         ],
         "reponse": "Louise",
-        "anecdote": "« Thelma and Louise » es una película estadounidense realizada por Ridley Scott en 1991 que recibió el Oscar al mejor guión."
+        "anecdote": "\"Thelma and Louise\" es una película estadounidense realizada por Ridley Scott en 1991 que recibió el Oscar al mejor guión."
       }
     ],
     "confirme": [
@@ -1275,7 +1275,7 @@
           "Amerigo"
         ],
         "reponse": "Antonio",
-        "anecdote": "Los cuatro conciertos conocidos como « The Four Seasons » se encuentran entre los más populares en el repertorio clásico."
+        "anecdote": "Los cuatro conciertos conocidos como \"The Four Seasons\" se encuentran entre los más populares en el repertorio clásico."
       },
       {
         "id": 12,
@@ -1299,7 +1299,7 @@
           "Dylan"
         ],
         "reponse": "Edward",
-        "anecdote": "El proyecto se acelerará enormemente luego del exito comercial obtenido por « Batman » (1989), la película anterior de Tim Burton."
+        "anecdote": "El proyecto se acelerará enormemente luego del exito comercial obtenido por \"Batman\" (1989), la película anterior de Tim Burton."
       },
       {
         "id": 14,
@@ -1315,7 +1315,7 @@
       },
       {
         "id": 15,
-        "question": "¿Quien encarna la magia en la serie de televisión « La casita en el prado » ?",
+        "question": "¿Quien encarna la magia en la serie de televisión \"La casita en el prado\" ?",
         "propositions": [
           "Marie",
           "Stella",
@@ -1339,7 +1339,7 @@
       },
       {
         "id": 17,
-        "question": "¿Cómo es la bella morena en la saga de ciencia ficción « Matrix » ?",
+        "question": "¿Cómo es la bella morena en la saga de ciencia ficción \"Matrix\" ?",
         "propositions": [
           "Clara",
           "Trinity",
@@ -1375,7 +1375,7 @@
       },
       {
         "id": 20,
-        "question": "¿Quien representa el verdadero enigma de « Tales of Thousand and One Nights » ?",
+        "question": "¿Quien representa el verdadero enigma de \"Tales of Thousand and One Nights\" ?",
         "propositions": [
           "Titania",
           "Scheherezade",
@@ -1383,7 +1383,7 @@
           "Vernyhora"
         ],
         "reponse": "Scheherezade",
-        "anecdote": "El núcleo de estas historias está formado por un antiguo libro persa llamado « Hezar-afsana » (The Thousand Tales)."
+        "anecdote": "El núcleo de estas historias está formado por un antiguo libro persa llamado \"Hezar-afsana\" (The Thousand Tales)."
       }
     ],
     "expert": [
@@ -1413,7 +1413,7 @@
       },
       {
         "id": 23,
-        "question": "¿Cuál es el nombre del capitán frances de « Star trek: NextGen » ?",
+        "question": "¿Cuál es el nombre del capitán frances de \"Star trek: NextGen\" ?",
         "propositions": [
           "Jean-Luc",
           "Jean-Marc",
@@ -1425,7 +1425,7 @@
       },
       {
         "id": 24,
-        "question": "¿Que nombre está asociado con « Madame Bovary » por Gustave Flaubert ?",
+        "question": "¿Que nombre está asociado con \"Madame Bovary\" por Gustave Flaubert ?",
         "propositions": [
           "Laura",
           "Sarah",
@@ -1437,7 +1437,7 @@
       },
       {
         "id": 25,
-        "question": "¿Que nombre femenino te hace pensar « Ido con el viento ? »",
+        "question": "¿Que nombre femenino te hace pensar \"Ido con el viento ?\"",
         "propositions": [
           "Elisabeth",
           "Bridget",
@@ -1445,7 +1445,7 @@
           "Babeth"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Gone With The Wind » es una novela escrita por Margaret Mitchell que narra la ilusión de Scarlett O Hara."
+        "anecdote": "\"Gone With The Wind\" es una novela escrita por Margaret Mitchell que narra la ilusión de Scarlett O Hara."
       },
       {
         "id": 26,
@@ -1457,7 +1457,7 @@
           "Nelly"
         ],
         "reponse": "Margarett",
-        "anecdote": "« Las cuatro chicas del Dr. March » es una novela de la escritora estadounidense Louisa May Alcott, publicada en 1868."
+        "anecdote": "\"Las cuatro chicas del Dr. March\" es una novela de la escritora estadounidense Louisa May Alcott, publicada en 1868."
       },
       {
         "id": 27,
@@ -1469,11 +1469,11 @@
           "Barbara"
         ],
         "reponse": "Elisa",
-        "anecdote": "« Élisa » es una canción de Serge Gainsbourg de 1969 (coescrita con Michel Colombier) de la que hay dos versiones distintas."
+        "anecdote": "\"Elisa\" es una canción de Serge Gainsbourg de 1969 (coescrita con Michel Colombier) de la que hay dos versiones distintas."
       },
       {
         "id": 28,
-        "question": "¿Quien es Orlando Bloom en « El señor de los anillos » ?",
+        "question": "¿Quien es Orlando Bloom en \"El señor de los anillos\" ?",
         "propositions": [
           "Legolas",
           "Boromir",
@@ -1493,7 +1493,7 @@
           "Marius"
         ],
         "reponse": "Marius",
-        "anecdote": "La « Marsella Trilogía » es el nombre generico dado a las tres jugadas de Marcel Pagnol, « Marius », « Fanny » y « Cesar »."
+        "anecdote": "La \"Marsella Trilogía\" es el nombre generico dado a las tres jugadas de Marcel Pagnol, \"Marius\", \"Fanny\" y \"Cesar\"."
       },
       {
         "id": 30,
@@ -1533,7 +1533,7 @@
           "Popeye"
         ],
         "reponse": "Paperino",
-        "anecdote": "Donald Sutherland ha interpretato il suo primo ruolo cinematografico nel 1964 in un film horror italiano, « Il castello dei morti vivi »."
+        "anecdote": "Donald Sutherland ha interpretato il suo primo ruolo cinematografico nel 1964 in un film horror italiano, \"Il castello dei morti vivi\"."
       },
       {
         "id": 3,
@@ -1569,7 +1569,7 @@
           "Bart"
         ],
         "reponse": "Omero",
-        "anecdote": "Homer e apparso per la prima volta in televisione con la sua famiglia nel cortometraggio « Good Night », il 19 aprile 1987."
+        "anecdote": "Homer e apparso per la prima volta in televisione con la sua famiglia nel cortometraggio \"Good Night\", il 19 aprile 1987."
       },
       {
         "id": 6,
@@ -1585,7 +1585,7 @@
       },
       {
         "id": 7,
-        "question": "Quale personaggio femminile e presente in « Notre-Dame de Paris » ?",
+        "question": "Quale personaggio femminile e presente in \"Notre-Dame de Paris\" ?",
         "propositions": [
           "Samantha",
           "Antoniona",
@@ -1597,7 +1597,7 @@
       },
       {
         "id": 8,
-        "question": "Come sta l eroe dei film della saga « Mission Impossible » ?",
+        "question": "Come sta l eroe dei film della saga \"Mission Impossible\" ?",
         "propositions": [
           "Owen",
           "Ethan",
@@ -1605,7 +1605,7 @@
           "Jim"
         ],
         "reponse": "Ethan",
-        "anecdote": "Ethan Matthew Hunt e il personaggio principale della serie di film « Mission Impossible »."
+        "anecdote": "Ethan Matthew Hunt e il personaggio principale della serie di film \"Mission Impossible\"."
       },
       {
         "id": 9,
@@ -1617,7 +1617,7 @@
           "Odilon"
         ],
         "reponse": "Leon",
-        "anecdote": "Il sesto film diretto da Besson, « Leon » ripercorre la vita di un omicida assunto con lo stesso nome, che vive da solo a New York."
+        "anecdote": "Il sesto film diretto da Besson, \"Leon\" ripercorre la vita di un omicida assunto con lo stesso nome, che vive da solo a New York."
       },
       {
         "id": 10,
@@ -1629,7 +1629,7 @@
           "Geena"
         ],
         "reponse": "Louise",
-        "anecdote": "« Thelma e Louise » e un film americano realizzato da Ridley Scott nel 1991 che ha ricevuto l Oscar per la migliore sceneggiatura."
+        "anecdote": "\"Thelma e Louise\" e un film americano realizzato da Ridley Scott nel 1991 che ha ricevuto l Oscar per la migliore sceneggiatura."
       }
     ],
     "confirme": [
@@ -1643,7 +1643,7 @@
           "Amerigo"
         ],
         "reponse": "Antonio",
-        "anecdote": "I quattro concerti conosciuti come « The Four Seasons » sono tra i piu popolari nel repertorio classico."
+        "anecdote": "I quattro concerti conosciuti come \"The Four Seasons\" sono tra i piu popolari nel repertorio classico."
       },
       {
         "id": 12,
@@ -1667,7 +1667,7 @@
           "Edward"
         ],
         "reponse": "Edward",
-        "anecdote": "Il progetto sara notevolmente accelerato in seguito al successo commerciale ottenuto da « Batman » (1989), film precedente di Tim Burton."
+        "anecdote": "Il progetto sara notevolmente accelerato in seguito al successo commerciale ottenuto da \"Batman\" (1989), film precedente di Tim Burton."
       },
       {
         "id": 14,
@@ -1683,7 +1683,7 @@
       },
       {
         "id": 15,
-        "question": "Chi incarna la magia nella serie TV « La casetta nel prato » ?",
+        "question": "Chi incarna la magia nella serie TV \"La casetta nel prato\" ?",
         "propositions": [
           "Nellie",
           "Marie",
@@ -1707,7 +1707,7 @@
       },
       {
         "id": 17,
-        "question": "Come sta la bella mora della saga di fantascienza « Matrix » ?",
+        "question": "Come sta la bella mora della saga di fantascienza \"Matrix\" ?",
         "propositions": [
           "Trinity",
           "Riddick",
@@ -1743,7 +1743,7 @@
       },
       {
         "id": 20,
-        "question": "Chi rappresenta il vero enigma di « Tales of Thousand and One Nights » ?",
+        "question": "Chi rappresenta il vero enigma di \"Tales of Thousand and One Nights\" ?",
         "propositions": [
           "Titania",
           "Vernyhora",
@@ -1751,7 +1751,7 @@
           "Detestabilmente"
         ],
         "reponse": "Sheherazade",
-        "anecdote": "Il nucleo di queste storie e formato da un antico libro persiano chiamato « Hezar-afsana » (The Thousand Tales)."
+        "anecdote": "Il nucleo di queste storie e formato da un antico libro persiano chiamato \"Hezar-afsana\" (The Thousand Tales)."
       }
     ],
     "expert": [
@@ -1781,7 +1781,7 @@
       },
       {
         "id": 23,
-        "question": "Qual e il nome del capitano francese di « Star trek: NextGen » ?",
+        "question": "Qual e il nome del capitano francese di \"Star trek: NextGen\" ?",
         "propositions": [
           "Jean-Pierre",
           "Jean-Marc",
@@ -1793,7 +1793,7 @@
       },
       {
         "id": 24,
-        "question": "Quale nome e associato con « Madame Bovary » di Gustave Flaubert ?",
+        "question": "Quale nome e associato con \"Madame Bovary\" di Gustave Flaubert ?",
         "propositions": [
           "Emma",
           "Sarah",
@@ -1805,7 +1805,7 @@
       },
       {
         "id": 25,
-        "question": "Quale nome femminile ti fa pensare « Andato con il vento ? »",
+        "question": "Quale nome femminile ti fa pensare \"Andato con il vento ?\"",
         "propositions": [
           "Babeth",
           "Elisabeth",
@@ -1813,7 +1813,7 @@
           "Bridget"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Gone With The Wind » e un romanzo scritto da Margaret Mitchell che narra dell illusione di Scarlett O Hara."
+        "anecdote": "\"Gone With The Wind\" e un romanzo scritto da Margaret Mitchell che narra dell illusione di Scarlett O Hara."
       },
       {
         "id": 26,
@@ -1825,7 +1825,7 @@
           "Margarett"
         ],
         "reponse": "Margarett",
-        "anecdote": "« The Four Girls of Dr. March » e un romanzo della scrittrice americana Louisa May Alcott, pubblicato nel 1868."
+        "anecdote": "\"The Four Girls of Dr. March\" e un romanzo della scrittrice americana Louisa May Alcott, pubblicato nel 1868."
       },
       {
         "id": 27,
@@ -1837,11 +1837,11 @@
           "Johanna"
         ],
         "reponse": "Elisa",
-        "anecdote": "« Élisa » e una canzone di Serge Gainsbourg del 1969 (co-scritta con Michel Colombier) di cui esistono due versioni distinte."
+        "anecdote": "\"Elisa\" e una canzone di Serge Gainsbourg del 1969 (co-scritta con Michel Colombier) di cui esistono due versioni distinte."
       },
       {
         "id": 28,
-        "question": "Chi e Orlando Bloom in « Il Signore degli Anelli » ?",
+        "question": "Chi e Orlando Bloom in \"Il Signore degli Anelli\" ?",
         "propositions": [
           "Legolas",
           "Aragorn",
@@ -1861,7 +1861,7 @@
           "Tito"
         ],
         "reponse": "Marius",
-        "anecdote": "La « Marsiglia Trilogia » e il nome generico dato alle tre opere di Marcel Pagnol, « Marius »,« Fann » e « Cesar »."
+        "anecdote": "La \"Marsiglia Trilogia\" e il nome generico dato alle tre opere di Marcel Pagnol, \"Marius\",\"Fann\" e \"Cesar\"."
       },
       {
         "id": 30,
@@ -1901,7 +1901,7 @@
           "Donald"
         ],
         "reponse": "Donald",
-        "anecdote": "Donald Sutherland speelde zijn eerste filmrol in 1964 in een Italiaanse horrorfilm, « Il castello dei morti vivi »."
+        "anecdote": "Donald Sutherland speelde zijn eerste filmrol in 1964 in een Italiaanse horrorfilm, \"Il castello dei morti vivi\"."
       },
       {
         "id": 3,
@@ -1937,7 +1937,7 @@
           "Abraham"
         ],
         "reponse": "Homer",
-        "anecdote": "Homer verscheen voor het eerst op televisie met zijn gezin in de korte film « Good Night », op 19 april 1987."
+        "anecdote": "Homer verscheen voor het eerst op televisie met zijn gezin in de korte film \"Good Night\", op 19 april 1987."
       },
       {
         "id": 6,
@@ -1953,7 +1953,7 @@
       },
       {
         "id": 7,
-        "question": "Welk vrouwelijk personage is aanwezig in « Notre-Dame de Paris » ?",
+        "question": "Welk vrouwelijk personage is aanwezig in \"Notre-Dame de Paris\" ?",
         "propositions": [
           "Esmeralda",
           "Antoniona",
@@ -1965,7 +1965,7 @@
       },
       {
         "id": 8,
-        "question": "Hoe is de held van de films van de saga « Mission Impossible » ?",
+        "question": "Hoe is de held van de films van de saga \"Mission Impossible\" ?",
         "propositions": [
           "Luther",
           "Owen",
@@ -1973,7 +1973,7 @@
           "Jim"
         ],
         "reponse": "Ethan",
-        "anecdote": "Ethan Matthew Hunt is de hoofdpersoon in de reeks films « Mission Impossible »."
+        "anecdote": "Ethan Matthew Hunt is de hoofdpersoon in de reeks films \"Mission Impossible\"."
       },
       {
         "id": 9,
@@ -1985,7 +1985,7 @@
           "Gaston"
         ],
         "reponse": "Leon",
-        "anecdote": "Zesde speelfilm geregisseerd door Besson, « Leon » traceert het leven van een gehuurde moordenaar met dezelfde naam, die alleen in New York woont."
+        "anecdote": "Zesde speelfilm geregisseerd door Besson, \"Leon\" traceert het leven van een gehuurde moordenaar met dezelfde naam, die alleen in New York woont."
       },
       {
         "id": 10,
@@ -1997,7 +1997,7 @@
           "Louise"
         ],
         "reponse": "Louise",
-        "anecdote": "« Thelma en Louise » is een Amerikaanse film gemaakt door Ridley Scott in 1991 die de Oscar voor beste scenario ontving."
+        "anecdote": "\"Thelma en Louise\" is een Amerikaanse film gemaakt door Ridley Scott in 1991 die de Oscar voor beste scenario ontving."
       }
     ],
     "confirme": [
@@ -2011,7 +2011,7 @@
           "Lissandro"
         ],
         "reponse": "Antonio",
-        "anecdote": "De vier concerten die bekend staan « De vier seizoenen » behoren tot de meest populaire in het klassieke repertoire."
+        "anecdote": "De vier concerten die bekend staan \"De vier seizoenen\" behoren tot de meest populaire in het klassieke repertoire."
       },
       {
         "id": 12,
@@ -2035,7 +2035,7 @@
           "Dylan"
         ],
         "reponse": "Edward",
-        "anecdote": "Het project zal sterk worden versneld na het commerciale succes van « Batman » (1989), de vorige film van Tim Burton."
+        "anecdote": "Het project zal sterk worden versneld na het commerciale succes van \"Batman\" (1989), de vorige film van Tim Burton."
       },
       {
         "id": 14,
@@ -2051,7 +2051,7 @@
       },
       {
         "id": 15,
-        "question": "Wie belichaamt de magie in de tv-serie « Het kleine huis in de wei » ?",
+        "question": "Wie belichaamt de magie in de tv-serie \"Het kleine huis in de wei\" ?",
         "propositions": [
           "Marie",
           "Stella",
@@ -2075,7 +2075,7 @@
       },
       {
         "id": 17,
-        "question": "Hoe is de mooie brunette in het verhaal van science fiction « Matrix » ?",
+        "question": "Hoe is de mooie brunette in het verhaal van science fiction \"Matrix\" ?",
         "propositions": [
           "Clara",
           "Trinity",
@@ -2111,7 +2111,7 @@
       },
       {
         "id": 20,
-        "question": "Wie vertegenwoordigt het ware enigma van « Tales of Thousand and One Nights » ?",
+        "question": "Wie vertegenwoordigt het ware enigma van \"Tales of Thousand and One Nights\" ?",
         "propositions": [
           "Sjeherazade",
           "Titania",
@@ -2119,7 +2119,7 @@
           "Vernyhora"
         ],
         "reponse": "Sjeherazade",
-        "anecdote": "De kern van deze verhalen wordt gevormd door een oud Perzisch boek met de naam « Hezar-afsana » (The Thousand Tales)."
+        "anecdote": "De kern van deze verhalen wordt gevormd door een oud Perzisch boek met de naam \"Hezar-afsana\" (The Thousand Tales)."
       }
     ],
     "expert": [
@@ -2149,7 +2149,7 @@
       },
       {
         "id": 23,
-        "question": "Wat is de naam van de Franse kapitein van « Star trek: NextGen » ?",
+        "question": "Wat is de naam van de Franse kapitein van \"Star trek: NextGen\" ?",
         "propositions": [
           "Jean-Luc",
           "Jean-Pierre",
@@ -2161,7 +2161,7 @@
       },
       {
         "id": 24,
-        "question": "Welke naam wordt geassocieerd met « Madame Bovary » door Gustave Flaubert ?",
+        "question": "Welke naam wordt geassocieerd met \"Madame Bovary\" door Gustave Flaubert ?",
         "propositions": [
           "Laura",
           "Sarah",
@@ -2173,7 +2173,7 @@
       },
       {
         "id": 25,
-        "question": "Welke vrouwelijke naam doet je denken « Gegaan met de wind ? »",
+        "question": "Welke vrouwelijke naam doet je denken \"Gegaan met de wind ?\"",
         "propositions": [
           "Bridget",
           "Elisabeth",
@@ -2181,7 +2181,7 @@
           "Babeth"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Gone With The Wind » is een roman geschreven door Margaret Mitchell en vertelt de waan van Scarlett O Hara."
+        "anecdote": "\"Gone With The Wind\" is een roman geschreven door Margaret Mitchell en vertelt de waan van Scarlett O Hara."
       },
       {
         "id": 26,
@@ -2193,7 +2193,7 @@
           "Margarett"
         ],
         "reponse": "Margarett",
-        "anecdote": "« The Four Girls of Dr. March » is een roman van de Amerikaanse schrijver Louisa May Alcott, gepubliceerd in 1868."
+        "anecdote": "\"The Four Girls of Dr. March\" is een roman van de Amerikaanse schrijver Louisa May Alcott, gepubliceerd in 1868."
       },
       {
         "id": 27,
@@ -2205,11 +2205,11 @@
           "Elisa"
         ],
         "reponse": "Elisa",
-        "anecdote": "« Élisa » is een lied van Serge Gainsbourg uit 1969 (mede geschreven met Michel Colombier) waarvan er twee verschillende versies zijn."
+        "anecdote": "\"Elisa\" is een lied van Serge Gainsbourg uit 1969 (mede geschreven met Michel Colombier) waarvan er twee verschillende versies zijn."
       },
       {
         "id": 28,
-        "question": "Wie is Orlando Bloom in « The Lord of the Rings » ?",
+        "question": "Wie is Orlando Bloom in \"The Lord of the Rings\" ?",
         "propositions": [
           "Legolas",
           "Aragorn",
@@ -2229,7 +2229,7 @@
           "Marius"
         ],
         "reponse": "Marius",
-        "anecdote": "De « Marseille-trilogie » is de generieke naam die wordt gegeven aan de drie toneelstukken van Marcel Pagnol, « Marius », « Fanny » en « Cesar »."
+        "anecdote": "De \"Marseille-trilogie\" is de generieke naam die wordt gegeven aan de drie toneelstukken van Marcel Pagnol, \"Marius\", \"Fanny\" en \"Cesar\"."
       },
       {
         "id": 30,

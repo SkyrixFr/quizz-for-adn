@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quel compositeur francais a recu un second Oscar pour « La Forme de l eau » ?",
+        "question": "Quel compositeur francais a recu un second Oscar pour \"La Forme de l eau\" ?",
         "propositions": [
           "Alexandre Desplat",
           "Francis Lai",
@@ -49,7 +49,7 @@
           "Michel Legrand"
         ],
         "reponse": "Alexandre Desplat",
-        "anecdote": "Trois ans apres « The Grand Budapest Hotel », le compositeur francais Alexandre Desplat a a nouveau triomphe aux Oscars."
+        "anecdote": "Trois ans apres \"The Grand Budapest Hotel\", le compositeur francais Alexandre Desplat a a nouveau triomphe aux Oscars."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Jean-Jacques Bourdin"
         ],
         "reponse": "Jean-Jacques Bourdin",
-        "anecdote": "À 68 ans, avec sa voix reconnaissable entre toutes, il incarne un style de journalisme pugnace souvent taxe de populisme."
+        "anecdote": "A 68 ans, avec sa voix reconnaissable entre toutes, il incarne un style de journalisme pugnace souvent taxe de populisme."
       },
       {
         "id": 3,
@@ -101,19 +101,19 @@
       },
       {
         "id": 6,
-        "question": "Quelle ancienne chroniqueuse de l emission « TPMP » a declare souffrir d endometriose ?",
+        "question": "Quelle ancienne chroniqueuse de l emission \"TPMP\" a declare souffrir d endometriose ?",
         "propositions": [
           "Valerie Benaïm",
           "Kelly Vedovelli",
           "Agathe Auproux",
-          "Énora Malagre"
+          "Enora Malagre"
         ],
-        "reponse": "Énora Malagre",
-        "anecdote": "Énora Malagre a confie avoir participe a un documentaire sur la chaîne Teva pour lever le tabou sur cette maladie."
+        "reponse": "Enora Malagre",
+        "anecdote": "Enora Malagre a confie avoir participe a un documentaire sur la chaine Teva pour lever le tabou sur cette maladie."
       },
       {
         "id": 7,
-        "question": "Qui est apparue tres amincie sur la couverture du magazine « Elle » de mars 2018 ?",
+        "question": "Qui est apparue tres amincie sur la couverture du magazine \"Elle\" de mars 2018 ?",
         "propositions": [
           "Julie Bouville",
           "Loana Petrucciani",
@@ -133,7 +133,7 @@
           "Sarah Rafferty"
         ],
         "reponse": "Meghan Markle",
-        "anecdote": "Meghan Markle s est fait baptiser le 6 mars selon les rites de l Église Anglicane, au prealable a son mariage avec Harry le 19 mai."
+        "anecdote": "Meghan Markle s est fait baptiser le 6 mars selon les rites de l Eglise Anglicane, au prealable a son mariage avec Harry le 19 mai."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Paul Steinhardt"
         ],
         "reponse": "Stephen Hawking",
-        "anecdote": "Au fil d une carriere tres dense, Stephen Hawking a su devenir aussi une icône pop a travers des apparitions dans des series teles."
+        "anecdote": "Au fil d une carriere tres dense, Stephen Hawking a su devenir aussi une icone pop a travers des apparitions dans des series teles."
       },
       {
         "id": 10,
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quel acteur de la serie « Grey s Anatomy » s est remarie avec Arielle Goldrath ?",
+        "question": "Quel acteur de la serie \"Grey s Anatomy\" s est remarie avec Arielle Goldrath ?",
         "propositions": [
           "Kevin McKidd",
           "Jason George",
@@ -171,7 +171,7 @@
           "Justin Chambers"
         ],
         "reponse": "Kevin McKidd",
-        "anecdote": "Ne en Écosse, naturalise americain en 2015, Kevin McKidd s est marie en kilt comme il l a devoile en photo le 2 mars 2018."
+        "anecdote": "Ne en Ecosse, naturalise americain en 2015, Kevin McKidd s est marie en kilt comme il l a devoile en photo le 2 mars 2018."
       },
       {
         "id": 12,
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Aux côtes de qui les Anges 10 ont-ils pose aux Hollywood Beauty Awards ?",
+        "question": "Aux cotes de qui les Anges 10 ont-ils pose aux Hollywood Beauty Awards ?",
         "propositions": [
           "Paula Abdul",
           "Nicole Scherzinger",
@@ -195,7 +195,7 @@
           "Britney Spears"
         ],
         "reponse": "Britney Spears",
-        "anecdote": "Une ceremonie lors de laquelle Britney Spears a ete recompensee d un prix d honneur pour son parfum baptise « Fantasy in Bloom »."
+        "anecdote": "Une ceremonie lors de laquelle Britney Spears a ete recompensee d un prix d honneur pour son parfum baptise \"Fantasy in Bloom\"."
       },
       {
         "id": 14,
@@ -207,11 +207,11 @@
           "Pierce Brosnan"
         ],
         "reponse": "Mel Gibson",
-        "anecdote": "Du haut de ses 51 ans, Sophie Morceau ne semble pas avoir pris une ride depuis ses premiers pas sur nos ecrans dans le film « La Boum »."
+        "anecdote": "Du haut de ses 51 ans, Sophie Morceau ne semble pas avoir pris une ride depuis ses premiers pas sur nos ecrans dans le film \"La Boum\"."
       },
       {
         "id": 15,
-        "question": "Quelle icône de la mode emploie 75 % de femmes dans ses societes ?",
+        "question": "Quelle icone de la mode emploie 75 % de femmes dans ses societes ?",
         "propositions": [
           "Geri Halliwell",
           "Melanie Brown",
@@ -223,7 +223,7 @@
       },
       {
         "id": 16,
-        "question": "Qui Vanessa Paradis a-t-elle devore du regard a l avant-premiere du film « Chien » ?",
+        "question": "Qui Vanessa Paradis a-t-elle devore du regard a l avant-premiere du film \"Chien\" ?",
         "propositions": [
           "Alain Berberian",
           "Ludovic Bernard",
@@ -231,14 +231,14 @@
           "Antonin Bideau"
         ],
         "reponse": "Samuel Benchetrit",
-        "anecdote": "La belle, tres amoureuse, n a pas quitte des yeux son homme avec qui elle partage sa vie depuis 2016 et devrait bientôt se marier."
+        "anecdote": "La belle, tres amoureuse, n a pas quitte des yeux son homme avec qui elle partage sa vie depuis 2016 et devrait bientot se marier."
       },
       {
         "id": 17,
-        "question": "Quelle navigatrice a annonce en mars 2018 etre bientôt maman pour la quatrieme fois ?",
+        "question": "Quelle navigatrice a annonce en mars 2018 etre bientot maman pour la quatrieme fois ?",
         "propositions": [
           "Aude Compan",
-          "Élodie Bertrand",
+          "Elodie Bertrand",
           "Mathilde Geron",
           "Maud Fontenoy"
         ],
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "En pleine promo de son autobiographie intitulee « Authentique », qui a revele avoir avorte ?",
+        "question": "En pleine promo de son autobiographie intitulee \"Authentique\", qui a revele avoir avorte ?",
         "propositions": [
           "Capucine Anav",
           "Claudia Romani",
@@ -279,7 +279,7 @@
           "Ayem Nour"
         ],
         "reponse": "Capucine Anav",
-        "anecdote": "Capucine Anav a profite de son passage dans l emission « Morandini Live », diffusee sur CNews et Non Stop People, pour l annoncer."
+        "anecdote": "Capucine Anav a profite de son passage dans l emission \"Morandini Live\", diffusee sur CNews et Non Stop People, pour l annoncer."
       }
     ],
     "expert": [
@@ -293,11 +293,11 @@
           "Liza Minnelli"
         ],
         "reponse": "Rita Moreno",
-        "anecdote": "L actrice culte de « West Side Story » s est rendue aux Oscars 2018 en portant la meme robe qu en 1962, et elle etait superbe."
+        "anecdote": "L actrice culte de \"West Side Story\" s est rendue aux Oscars 2018 en portant la meme robe qu en 1962, et elle etait superbe."
       },
       {
         "id": 22,
-        "question": "Qui a enveloppe quelques piques a Kim Kardashian dans « Top Off » ?",
+        "question": "Qui a enveloppe quelques piques a Kim Kardashian dans \"Top Off\" ?",
         "propositions": [
           "Janet Jackson",
           "Beyonce",
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "Quel comedien emblematique de la serie « Palace » s est suicide a seulement 64 ans ?",
+        "question": "Quel comedien emblematique de la serie \"Palace\" s est suicide a seulement 64 ans ?",
         "propositions": [
           "Bernard Pisani",
           "Marcel Philippot",
@@ -333,7 +333,7 @@
       },
       {
         "id": 25,
-        "question": "Quelle jeune actrice a attaque les producteurs du film « Ghostland » ?",
+        "question": "Quelle jeune actrice a attaque les producteurs du film \"Ghostland\" ?",
         "propositions": [
           "Alicia Johnston",
           "Emilia Jones",
@@ -341,7 +341,7 @@
           "Crystal Reed"
         ],
         "reponse": "Taylor Hickson",
-        "anecdote": "Taylor Hickson a ete grievement blessee sur le tournage du film d horreur « Ghostland », qui s apprete a sortir  en salles."
+        "anecdote": "Taylor Hickson a ete grievement blessee sur le tournage du film d horreur \"Ghostland\", qui s apprete a sortir  en salles."
       },
       {
         "id": 26,
@@ -389,7 +389,7 @@
           "Melanie Doutey"
         ],
         "reponse": "Chloe Jouannet",
-        "anecdote": "Côte cinema, Chloe Jouannet, au temperament frappe, partageait en 2014 l ecran avec Jean Reno dans le film « Avis de Mistral »."
+        "anecdote": "Cote cinema, Chloe Jouannet, au temperament frappe, partageait en 2014 l ecran avec Jean Reno dans le film \"Avis de Mistral\"."
       },
       {
         "id": 30,
@@ -398,7 +398,7 @@
           "Mireille Faugere",
           "Simone Herault",
           "Daniele Irazu",
-          "Élisabeth Borne"
+          "Elisabeth Borne"
         ],
         "reponse": "Simone Herault",
         "anecdote": "Simone Herault est la dame qui nous demande de nous eloigner de la bordure des quais de la SNCF qui a fete en 2018 ses 80 ans."
@@ -409,7 +409,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Which French composer received a second Oscar for « The Shape of Water » ?",
+        "question": "Which French composer received a second Oscar for \"The Shape of Water\" ?",
         "propositions": [
           "Francis Lai",
           "Alexandre Desplat",
@@ -417,7 +417,7 @@
           "Michel Legrand"
         ],
         "reponse": "Alexandre Desplat",
-        "anecdote": "Three years after « The Grand Budapest Hotel », the French composer Alexandre Desplat has again won the Oscars."
+        "anecdote": "Three years after \"The Grand Budapest Hotel\", the French composer Alexandre Desplat has again won the Oscars."
       },
       {
         "id": 2,
@@ -469,7 +469,7 @@
       },
       {
         "id": 6,
-        "question": "Which former columnist of the episode « TPMP » declared to suffer from endometriosis ?",
+        "question": "Which former columnist of the episode \"TPMP\" declared to suffer from endometriosis ?",
         "propositions": [
           "Agathe Auproux",
           "Enora Malagre",
@@ -477,11 +477,11 @@
           "Valerie Benaim"
         ],
         "reponse": "Enora Malagre",
-        "anecdote": "Énora Malagre confided on Europe 1 to have participated in a documentary on the Teva chain to remove the taboo on this disease."
+        "anecdote": "Enora Malagre confided on Europe 1 to have participated in a documentary on the Teva chain to remove the taboo on this disease."
       },
       {
         "id": 7,
-        "question": "Who appeared very thin on the cover of the « Elle » magazine of March 2018 ?",
+        "question": "Who appeared very thin on the cover of the \"Elle\" magazine of March 2018 ?",
         "propositions": [
           "Kenza Braiga",
           "Loana Petrucciani",
@@ -531,7 +531,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Which actor of the series « Gray s Anatomy » has remarried with Arielle Goldrath ?",
+        "question": "Which actor of the series \"Gray s Anatomy\" has remarried with Arielle Goldrath ?",
         "propositions": [
           "Justin Chambers",
           "Jason George",
@@ -563,7 +563,7 @@
           "Cheryl Cole"
         ],
         "reponse": "Britney Spears",
-        "anecdote": "A ceremony in which Britney Spears was rewarded with an honor prize for her baptized « Fantasy in Bloom » perfume."
+        "anecdote": "A ceremony in which Britney Spears was rewarded with an honor prize for her baptized \"Fantasy in Bloom\" perfume."
       },
       {
         "id": 14,
@@ -591,7 +591,7 @@
       },
       {
         "id": 16,
-        "question": "Who did Vanessa Paradis have a look at the preview of the movie « Dog » ?",
+        "question": "Who did Vanessa Paradis have a look at the preview of the movie \"Dog\" ?",
         "propositions": [
           "Alain Berberian",
           "Samuel Benchetrit",
@@ -639,7 +639,7 @@
       },
       {
         "id": 20,
-        "question": "In full promo of his autobiography titled « Authentique », who has revealed to have aborted ?",
+        "question": "In full promo of his autobiography titled \"Authentique\", who has revealed to have aborted ?",
         "propositions": [
           "Marie Sebag",
           "Ayem Nour",
@@ -647,7 +647,7 @@
           "Capucine Anav"
         ],
         "reponse": "Capucine Anav",
-        "anecdote": "Capucine Anav has taken advantage of her appearance in the « Morandini Live » broadcast on CNews and Non Stop People to announce it."
+        "anecdote": "Capucine Anav has taken advantage of her appearance in the \"Morandini Live\" broadcast on CNews and Non Stop People to announce it."
       }
     ],
     "expert": [
@@ -661,11 +661,11 @@
           "Barbra Streisand"
         ],
         "reponse": "Rita Moreno",
-        "anecdote": "The cult actress of « West Side Story » went to the Oscars 2018 wearing the same dress as in 1962, and she was superb."
+        "anecdote": "The cult actress of \"West Side Story\" went to the Oscars 2018 wearing the same dress as in 1962, and she was superb."
       },
       {
         "id": 22,
-        "question": "Who wrapped a few spades at Kim Kardashian in « Top Off » ?",
+        "question": "Who wrapped a few spades at Kim Kardashian in \"Top Off\" ?",
         "propositions": [
           "Nicky Minaj",
           "Beyonce",
@@ -677,7 +677,7 @@
       },
       {
         "id": 23,
-        "question": "Which emblematic comedian of the series « Palace » committed suicide just 64 years old ?",
+        "question": "Which emblematic comedian of the series \"Palace\" committed suicide just 64 years old ?",
         "propositions": [
           "Marcel Philippot",
           "Georges Peyrou",
@@ -701,7 +701,7 @@
       },
       {
         "id": 25,
-        "question": "Which young actress attacked the producers of the movie « Ghostland » ?",
+        "question": "Which young actress attacked the producers of the movie \"Ghostland\" ?",
         "propositions": [
           "Emilia Jones",
           "Crystal Reed",
@@ -709,7 +709,7 @@
           "Alicia Johnston"
         ],
         "reponse": "Taylor Hickson",
-        "anecdote": "Taylor Hickson was badly injured on the set of the horror film « Ghostland », which is about to be released in cinemas."
+        "anecdote": "Taylor Hickson was badly injured on the set of the horror film \"Ghostland\", which is about to be released in cinemas."
       },
       {
         "id": 26,
@@ -757,7 +757,7 @@
           "Chloe Jouannet"
         ],
         "reponse": "Chloe Jouannet",
-        "anecdote": "On the cinema side, Chloe Jouannet, with a striking temperament, shared the screen with Jean Reno in 2014 in the film « Avis de Mistral »."
+        "anecdote": "On the cinema side, Chloe Jouannet, with a striking temperament, shared the screen with Jean Reno in 2014 in the film \"Avis de Mistral\"."
       },
       {
         "id": 30,
@@ -777,7 +777,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Welcher französische Komponist erhielt einen zweiten Oscar für « The Shape of Water » ?",
+        "question": "Welcher französische Komponist erhielt einen zweiten Oscar fur \"The Shape of Water\" ?",
         "propositions": [
           "Olivier Florio",
           "Francis Lai",
@@ -785,7 +785,7 @@
           "Michel Legrand"
         ],
         "reponse": "Alexandre Desplat",
-        "anecdote": "Drei Jahre nach « The Grand Budapest Hotel » hat der französische Komponist Alexandre Desplat erneut die Oscars gewonnen."
+        "anecdote": "Drei Jahre nach \"The Grand Budapest Hotel\" hat der französische Komponist Alexandre Desplat erneut die Oscars gewonnen."
       },
       {
         "id": 2,
@@ -809,11 +809,11 @@
           "Enzo Enzo"
         ],
         "reponse": "Shy m",
-        "anecdote": "Shy m sprach über das Scheitern ihrer letzten Tour, für die sie keine andere Wahl hatte, als einige ihrer Konzerte abzusagen."
+        "anecdote": "Shy m sprach uber das Scheitern ihrer letzten Tour, fur die sie keine andere Wahl hatte, als einige ihrer Konzerte abzusagen."
       },
       {
         "id": 4,
-        "question": "Wer war JoeyStarrs Attendant Manager für fast 25 Jahre ?",
+        "question": "Wer war JoeyStarrs Attendant Manager fur fast 25 Jahre ?",
         "propositions": [
           "Doktor Flake",
           "Sebastien Farran",
@@ -837,7 +837,7 @@
       },
       {
         "id": 6,
-        "question": "Welcher ehemalige Kolumnist der Episode « TPMP » leidet an Endometriose ?",
+        "question": "Welcher ehemalige Kolumnist der Episode \"TPMP\" leidet an Endometriose ?",
         "propositions": [
           "Enora Malagre",
           "Kelly Vedovelli",
@@ -845,11 +845,11 @@
           "Agathe Auproux"
         ],
         "reponse": "Enora Malagre",
-        "anecdote": "Énora Malagre vertraute Europe 1 an, an einem Dokumentarfilm über die Teva-Kette teilgenommen zu haben, um das Tabu dieser Krankheit zu beseitigen."
+        "anecdote": "Enora Malagre vertraute Europe 1 an, an einem Dokumentarfilm uber die Teva-Kette teilgenommen zu haben, um das Tabu dieser Krankheit zu beseitigen."
       },
       {
         "id": 7,
-        "question": "Wer erschien auf dem Cover der Zeitschrift « Elle » vom März 2018 sehr dünn ?",
+        "question": "Wer erschien auf dem Cover der Zeitschrift \"Elle\" vom März 2018 sehr dunn ?",
         "propositions": [
           "Kenza Braiga",
           "Julie Bouville",
@@ -899,7 +899,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Welcher Schauspieler der Serie « Gray s Anatomy » hat wieder mit Arielle Goldrath geheiratet ?",
+        "question": "Welcher Schauspieler der Serie \"Gray s Anatomy\" hat wieder mit Arielle Goldrath geheiratet ?",
         "propositions": [
           "Jason George",
           "Jesse Williams",
@@ -911,7 +911,7 @@
       },
       {
         "id": 12,
-        "question": "Was war der Wert der 2018 Oscars Geschenktüte ?",
+        "question": "Was war der Wert der 2018 Oscars Geschenktute ?",
         "propositions": [
           "300.000 USD",
           "100.000 USD",
@@ -923,7 +923,7 @@
       },
       {
         "id": 13,
-        "question": "Für wen posierten die Angels 10 bei den Hollywood Beauty Awards ?",
+        "question": "Fur wen posierten die Angels 10 bei den Hollywood Beauty Awards ?",
         "propositions": [
           "Cheryl Cole",
           "Paula Abdul",
@@ -931,7 +931,7 @@
           "Britney Spears"
         ],
         "reponse": "Britney Spears",
-        "anecdote": "Eine Zeremonie, in der Britney Spears mit einem Ehrenpreis für ihr getauftes Parfüm « Fantasy in Bloom » belohnt wurde."
+        "anecdote": "Eine Zeremonie, in der Britney Spears mit einem Ehrenpreis fur ihr getauftes Parfum \"Fantasy in Bloom\" belohnt wurde."
       },
       {
         "id": 14,
@@ -959,7 +959,7 @@
       },
       {
         "id": 16,
-        "question": "Wen hat Vanessa Paradis in der Vorschau des Films « Dog » gesehen ?",
+        "question": "Wen hat Vanessa Paradis in der Vorschau des Films \"Dog\" gesehen ?",
         "propositions": [
           "Alain Berberian",
           "Antonin Bideau",
@@ -971,7 +971,7 @@
       },
       {
         "id": 17,
-        "question": "Welcher Segler hat im März 2018 angekündigt, bald zum vierten Mal Mutter zu werden ?",
+        "question": "Welcher Segler hat im März 2018 angekundigt, bald zum vierten Mal Mutter zu werden ?",
         "propositions": [
           "Aude Compan",
           "Mathilde Geron",
@@ -979,11 +979,11 @@
           "Maud Fontenoy"
         ],
         "reponse": "Maud Fontenoy",
-        "anecdote": "Der französische Seefahrer ist auch stellvertretende Vorsitzende für nachhaltige Entwicklung, Energie und das Meer der PACA-Region."
+        "anecdote": "Der französische Seefahrer ist auch stellvertretende Vorsitzende fur nachhaltige Entwicklung, Energie und das Meer der PACA-Region."
       },
       {
         "id": 18,
-        "question": "Welcher Sänger kehrt nach einem Erholungsaufenthalt gleich ins Studio zurück ?",
+        "question": "Welcher Sänger kehrt nach einem Erholungsaufenthalt gleich ins Studio zuruck ?",
         "propositions": [
           "Renaud",
           "Daran",
@@ -1007,7 +1007,7 @@
       },
       {
         "id": 20,
-        "question": "In voller Promo seiner Autobiografie mit dem Titel « Authentique », wer hat ergeben, abgebrochen zu haben ?",
+        "question": "In voller Promo seiner Autobiografie mit dem Titel \"Authentique\", wer hat ergeben, abgebrochen zu haben ?",
         "propositions": [
           "Marie Sebag",
           "Ayem Nour",
@@ -1015,7 +1015,7 @@
           "Capucine Anav"
         ],
         "reponse": "Capucine Anav",
-        "anecdote": "Capucine Anav hat ihren Auftritt in der Sendung « Morandini Live » bei CNews und Non Stop People genutzt, um dies anzukündigen."
+        "anecdote": "Capucine Anav hat ihren Auftritt in der Sendung \"Morandini Live\" bei CNews und Non Stop People genutzt, um dies anzukundigen."
       }
     ],
     "expert": [
@@ -1029,11 +1029,11 @@
           "Liza Minnelli"
         ],
         "reponse": "Rita Moreno",
-        "anecdote": "Die Kultschauspielerin von « West Side Story » ging 2018 mit dem gleichen Kleid wie 1962 zu den Oscars, und sie war großartig."
+        "anecdote": "Die Kultschauspielerin von \"West Side Story\" ging 2018 mit dem gleichen Kleid wie 1962 zu den Oscars, und sie war großartig."
       },
       {
         "id": 22,
-        "question": "Wer hat bei Kim Kardashian ein paar Pik in « Top Off » eingewickelt ?",
+        "question": "Wer hat bei Kim Kardashian ein paar Pik in \"Top Off\" eingewickelt ?",
         "propositions": [
           "Nicky Minaj",
           "Beyonce",
@@ -1045,7 +1045,7 @@
       },
       {
         "id": 23,
-        "question": "Welcher emblematische Komiker der Serie « Palace » hat sich im Alter von nur 64 Jahren umgebracht ?",
+        "question": "Welcher emblematische Komiker der Serie \"Palace\" hat sich im Alter von nur 64 Jahren umgebracht ?",
         "propositions": [
           "Bernard Pisani",
           "Georges Peyrou",
@@ -1053,7 +1053,7 @@
           "Marcel Philippot"
         ],
         "reponse": "Marcel Philippot",
-        "anecdote": "Dieses Verschwinden war sehr unerwartet, zumal Marcel Philippot in den letzten Wochen an einem neuen Stück Theater gearbeitet hat."
+        "anecdote": "Dieses Verschwinden war sehr unerwartet, zumal Marcel Philippot in den letzten Wochen an einem neuen Stuck Theater gearbeitet hat."
       },
       {
         "id": 24,
@@ -1069,7 +1069,7 @@
       },
       {
         "id": 25,
-        "question": "Welche junge Schauspielerin hat die Produzenten des Films « Ghostland » angegriffen ?",
+        "question": "Welche junge Schauspielerin hat die Produzenten des Films \"Ghostland\" angegriffen ?",
         "propositions": [
           "Kristall Reed",
           "Alicia Johnston",
@@ -1077,7 +1077,7 @@
           "Emilia Jones"
         ],
         "reponse": "Taylor Hickson",
-        "anecdote": "Taylor Hickson wurde am Set des Horrorfilms « Ghostland » schwer verletzt, der in den Kinos erscheinen wird."
+        "anecdote": "Taylor Hickson wurde am Set des Horrorfilms \"Ghostland\" schwer verletzt, der in den Kinos erscheinen wird."
       },
       {
         "id": 26,
@@ -1089,7 +1089,7 @@
           "Margot Robbie"
         ],
         "reponse": "Margot Robbie",
-        "anecdote": "Margot Robbie war eine der prominentesten Frauen bei den Oscar-Verleihungen, die für den Preis als beste Schauspielerin nominiert wurden."
+        "anecdote": "Margot Robbie war eine der prominentesten Frauen bei den Oscar-Verleihungen, die fur den Preis als beste Schauspielerin nominiert wurden."
       },
       {
         "id": 27,
@@ -1125,7 +1125,7 @@
           "Chloe Jouannet"
         ],
         "reponse": "Chloe Jouannet",
-        "anecdote": "Auf der Kinoseite teilte Chloe Jouannet 2014 mit beeindruckendem Temperament die Leinwand mit Jean Reno in dem Film « Avis de Mistral »."
+        "anecdote": "Auf der Kinoseite teilte Chloe Jouannet 2014 mit beeindruckendem Temperament die Leinwand mit Jean Reno in dem Film \"Avis de Mistral\"."
       },
       {
         "id": 30,
@@ -1145,7 +1145,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "¿Que compositor frances recibió un segundo Oscar por « The Shape of Water » ?",
+        "question": "¿Que compositor frances recibió un segundo Oscar por \"The Shape of Water\" ?",
         "propositions": [
           "Francis Lai",
           "Olivier Florio",
@@ -1153,7 +1153,7 @@
           "Alexandre Desplat"
         ],
         "reponse": "Alexandre Desplat",
-        "anecdote": "Tres años despues de « The Grand Budapest Hotel », el compositor frances Alexandre Desplat ha vuelto a ganar los Oscar."
+        "anecdote": "Tres años despues de \"The Grand Budapest Hotel\", el compositor frances Alexandre Desplat ha vuelto a ganar los Oscar."
       },
       {
         "id": 2,
@@ -1205,7 +1205,7 @@
       },
       {
         "id": 6,
-        "question": "¿Que ex columnista del episodio « TPMP » declaró sufrir de endometriosis ?",
+        "question": "¿Que ex columnista del episodio \"TPMP\" declaró sufrir de endometriosis ?",
         "propositions": [
           "Agathe Auproux",
           "Enora Malagre",
@@ -1213,11 +1213,11 @@
           "Valerie Benaim"
         ],
         "reponse": "Enora Malagre",
-        "anecdote": "Énora Malagre confió en Europa 1 para haber participado en un documental sobre la cadena Teva para eliminar el tabú sobre esta enfermedad."
+        "anecdote": "Enora Malagre confió en Europa 1 para haber participado en un documental sobre la cadena Teva para eliminar el tabú sobre esta enfermedad."
       },
       {
         "id": 7,
-        "question": "¿Quien apareció muy delgado en la portada de la revista « Elle » de marzo de 2018 ?",
+        "question": "¿Quien apareció muy delgado en la portada de la revista \"Elle\" de marzo de 2018 ?",
         "propositions": [
           "Afida Turner",
           "Julie Bouville",
@@ -1267,7 +1267,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "¿Que actor de la serie « Gray s Anatomy » se ha vuelto a casar con Arielle Goldrath ?",
+        "question": "¿Que actor de la serie \"Gray s Anatomy\" se ha vuelto a casar con Arielle Goldrath ?",
         "propositions": [
           "Kevin McKidd",
           "Jesse Williams",
@@ -1299,7 +1299,7 @@
           "Cheryl Cole"
         ],
         "reponse": "Britney Spears",
-        "anecdote": "Una ceremonia en la que Britney Spears fue premiada con un premio de honor por su perfume bautizado « Fantasy in Bloom »."
+        "anecdote": "Una ceremonia en la que Britney Spears fue premiada con un premio de honor por su perfume bautizado \"Fantasy in Bloom\"."
       },
       {
         "id": 14,
@@ -1327,7 +1327,7 @@
       },
       {
         "id": 16,
-        "question": "¿A quien miró Vanessa Paradis en la vista previa de la película « Perro » ?",
+        "question": "¿A quien miró Vanessa Paradis en la vista previa de la película \"Perro\" ?",
         "propositions": [
           "Antonin Bideau",
           "Alain Berberian",
@@ -1375,7 +1375,7 @@
       },
       {
         "id": 20,
-        "question": "En la promoción completa de su autobiografía titulada « Authentique », ¿quien reveló haber abortado ?",
+        "question": "En la promoción completa de su autobiografía titulada \"Authentique\", ¿quien reveló haber abortado ?",
         "propositions": [
           "Capucine Anav",
           "Claudia Romani",
@@ -1383,7 +1383,7 @@
           "Marie Sebag"
         ],
         "reponse": "Capucine Anav",
-        "anecdote": "Capucine Anav ha aprovechado su aparición en la transmisión « Morandini Live » en CNews y Non Stop People para anunciarlo."
+        "anecdote": "Capucine Anav ha aprovechado su aparición en la transmisión \"Morandini Live\" en CNews y Non Stop People para anunciarlo."
       }
     ],
     "expert": [
@@ -1397,11 +1397,11 @@
           "Helen Hayes"
         ],
         "reponse": "Rita Moreno",
-        "anecdote": "La actriz de culto de « West Side Story » fue a los Oscar 2018 con el mismo vestido que en 1962, y fue excelente."
+        "anecdote": "La actriz de culto de \"West Side Story\" fue a los Oscar 2018 con el mismo vestido que en 1962, y fue excelente."
       },
       {
         "id": 22,
-        "question": "¿Quien envolvió algunas espadas en Kim Kardashian en « Top Off » ?",
+        "question": "¿Quien envolvió algunas espadas en Kim Kardashian en \"Top Off\" ?",
         "propositions": [
           "Britney Spears",
           "Janet Jackson",
@@ -1413,7 +1413,7 @@
       },
       {
         "id": 23,
-        "question": "¿Que comediante emblemático de la serie « Palace » se suicidó con tan solo 64 años ?",
+        "question": "¿Que comediante emblemático de la serie \"Palace\" se suicidó con tan solo 64 años ?",
         "propositions": [
           "Marcel Philippot",
           "Bernard Pisani",
@@ -1437,7 +1437,7 @@
       },
       {
         "id": 25,
-        "question": "¿Que joven actriz atacó a los productores de la película « Ghostland » ?",
+        "question": "¿Que joven actriz atacó a los productores de la película \"Ghostland\" ?",
         "propositions": [
           "Taylor Hickson",
           "Emilia Jones",
@@ -1445,7 +1445,7 @@
           "Alicia Johnston"
         ],
         "reponse": "Taylor Hickson",
-        "anecdote": "Taylor Hickson resultó gravemente herido en el set de la película de terror « Ghostland », que está a punto de estrenarse en los cines."
+        "anecdote": "Taylor Hickson resultó gravemente herido en el set de la película de terror \"Ghostland\", que está a punto de estrenarse en los cines."
       },
       {
         "id": 26,
@@ -1493,7 +1493,7 @@
           "Priscilla Betti"
         ],
         "reponse": "Chloe Jouannet",
-        "anecdote": "Del lado del cine, Chloe Jouannet, con un temperamento sorprendente, compartió la pantalla con Jean Reno en 2014 en la película « Avis de Mistral »."
+        "anecdote": "Del lado del cine, Chloe Jouannet, con un temperamento sorprendente, compartió la pantalla con Jean Reno en 2014 en la película \"Avis de Mistral\"."
       },
       {
         "id": 30,
@@ -1513,7 +1513,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quale compositore francese ha ricevuto un secondo Oscar per « The Shape of Water » ?",
+        "question": "Quale compositore francese ha ricevuto un secondo Oscar per \"The Shape of Water\" ?",
         "propositions": [
           "Olivier Florio",
           "Michel Legrand",
@@ -1521,7 +1521,7 @@
           "Francis Lai"
         ],
         "reponse": "Alexandre Desplat",
-        "anecdote": "Tre anni dopo « The Grand Budapest Hotel », il compositore francese Alexandre Desplat ha vinto nuovamente gli Oscar."
+        "anecdote": "Tre anni dopo \"The Grand Budapest Hotel\", il compositore francese Alexandre Desplat ha vinto nuovamente gli Oscar."
       },
       {
         "id": 2,
@@ -1573,7 +1573,7 @@
       },
       {
         "id": 6,
-        "question": "Quale ex editorialista dell episodio « TPMP » ha dichiarato di soffrire di endometriosi ?",
+        "question": "Quale ex editorialista dell episodio \"TPMP\" ha dichiarato di soffrire di endometriosi ?",
         "propositions": [
           "Enora Malagre",
           "Agathe Auproux",
@@ -1581,11 +1581,11 @@
           "Kelly Vedovelli"
         ],
         "reponse": "Enora Malagre",
-        "anecdote": "Énora Malagre ha confidato a Europa 1 di aver partecipato a un documentario sulla catena Teva per rimuovere il tabu su questa malattia."
+        "anecdote": "Enora Malagre ha confidato a Europa 1 di aver partecipato a un documentario sulla catena Teva per rimuovere il tabu su questa malattia."
       },
       {
         "id": 7,
-        "question": "Chi e apparso molto magro sulla copertina della rivista « Elle » di marzo 2018 ?",
+        "question": "Chi e apparso molto magro sulla copertina della rivista \"Elle\" di marzo 2018 ?",
         "propositions": [
           "Afida Turner",
           "Kenza Braiga",
@@ -1635,7 +1635,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quale attore della serie « Gray s Anatomy » si e risposato con Arielle Goldrath ?",
+        "question": "Quale attore della serie \"Gray s Anatomy\" si e risposato con Arielle Goldrath ?",
         "propositions": [
           "Justin Chambers",
           "Jason George",
@@ -1667,7 +1667,7 @@
           "Paula Abdul"
         ],
         "reponse": "Britney Spears",
-        "anecdote": "Una cerimonia in cui Britney Spears e stata premiata con un premio d onore per il suo profumo battezzato « Fantasy in fiore »."
+        "anecdote": "Una cerimonia in cui Britney Spears e stata premiata con un premio d onore per il suo profumo battezzato \"Fantasy in fiore\"."
       },
       {
         "id": 14,
@@ -1695,7 +1695,7 @@
       },
       {
         "id": 16,
-        "question": "Chi ha visto Vanessa Paradis nell anteprima del film « Cane » ?",
+        "question": "Chi ha visto Vanessa Paradis nell anteprima del film \"Cane\" ?",
         "propositions": [
           "Antonin Bideau",
           "Ludovic Bernard",
@@ -1743,7 +1743,7 @@
       },
       {
         "id": 20,
-        "question": "Nel promo completo della sua autobiografia intitolata « Authentique », chi si e rivelato abortito ?",
+        "question": "Nel promo completo della sua autobiografia intitolata \"Authentique\", chi si e rivelato abortito ?",
         "propositions": [
           "Capucine Anav",
           "Marie Sebag",
@@ -1751,7 +1751,7 @@
           "Claudia Romani"
         ],
         "reponse": "Capucine Anav",
-        "anecdote": "Capucine Anav ha approfittato della sua apparizione nella trasmissione « Morandini Live » su CNews e Non Stop People per annunciarlo."
+        "anecdote": "Capucine Anav ha approfittato della sua apparizione nella trasmissione \"Morandini Live\" su CNews e Non Stop People per annunciarlo."
       }
     ],
     "expert": [
@@ -1765,11 +1765,11 @@
           "Liza Minnelli"
         ],
         "reponse": "Rita Moreno",
-        "anecdote": "L attrice cult di « West Side Story » e andata agli Oscar 2018 indossando lo stesso abito del 1962 ed e stata superba."
+        "anecdote": "L attrice cult di \"West Side Story\" e andata agli Oscar 2018 indossando lo stesso abito del 1962 ed e stata superba."
       },
       {
         "id": 22,
-        "question": "Chi ha concluso alcune picche a Kim Kardashian in « Top Off » ?",
+        "question": "Chi ha concluso alcune picche a Kim Kardashian in \"Top Off\" ?",
         "propositions": [
           "Beyonce",
           "Britney Spears",
@@ -1781,7 +1781,7 @@
       },
       {
         "id": 23,
-        "question": "Quale comico emblematico della serie « Palace » si e suicidato a soli 64 anni ?",
+        "question": "Quale comico emblematico della serie \"Palace\" si e suicidato a soli 64 anni ?",
         "propositions": [
           "Georges Peyrou",
           "Olivier Pages",
@@ -1805,7 +1805,7 @@
       },
       {
         "id": 25,
-        "question": "Quale giovane attrice ha attaccato i produttori del film « Ghostland » ?",
+        "question": "Quale giovane attrice ha attaccato i produttori del film \"Ghostland\" ?",
         "propositions": [
           "Emilia Jones",
           "Taylor Hickson",
@@ -1813,7 +1813,7 @@
           "Alicia Johnston"
         ],
         "reponse": "Taylor Hickson",
-        "anecdote": "Taylor Hickson e stato gravemente ferito sul set del film horror « Ghostland », che sta per essere distribuito nei cinema."
+        "anecdote": "Taylor Hickson e stato gravemente ferito sul set del film horror \"Ghostland\", che sta per essere distribuito nei cinema."
       },
       {
         "id": 26,
@@ -1861,7 +1861,7 @@
           "Sylvie Jobert"
         ],
         "reponse": "Chloe Jouannet",
-        "anecdote": "Per quanto riguarda il cinema, Chloe Jouannet, con un temperamento sorprendente, ha condiviso lo schermo con Jean Reno nel 2014 nel film « Avis de Mistral »."
+        "anecdote": "Per quanto riguarda il cinema, Chloe Jouannet, con un temperamento sorprendente, ha condiviso lo schermo con Jean Reno nel 2014 nel film \"Avis de Mistral\"."
       },
       {
         "id": 30,
@@ -1881,7 +1881,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Welke Franse componist ontving een tweede Oscar voor « The Shape of Water » ?",
+        "question": "Welke Franse componist ontving een tweede Oscar voor \"The Shape of Water\" ?",
         "propositions": [
           "Francis Lai",
           "Olivier Florio",
@@ -1889,7 +1889,7 @@
           "Alexandre Desplat"
         ],
         "reponse": "Alexandre Desplat",
-        "anecdote": "Drie jaar na « The Grand Budapest Hotel » heeft de Franse componist Alexandre Desplat opnieuw de Oscars gewonnen."
+        "anecdote": "Drie jaar na \"The Grand Budapest Hotel\" heeft de Franse componist Alexandre Desplat opnieuw de Oscars gewonnen."
       },
       {
         "id": 2,
@@ -1941,7 +1941,7 @@
       },
       {
         "id": 6,
-        "question": "Welke voormalige columnist van de aflevering « TPMP » verklaarde aan endometriose te lijden ?",
+        "question": "Welke voormalige columnist van de aflevering \"TPMP\" verklaarde aan endometriose te lijden ?",
         "propositions": [
           "Enora Malagre",
           "Agathe Auproux",
@@ -1949,11 +1949,11 @@
           "Kelly Vedovelli"
         ],
         "reponse": "Enora Malagre",
-        "anecdote": "Énora Malagre vertrouwde Europa 1 toe om deel te hebben genomen aan een documentaire over de Teva-keten om het taboe op deze ziekte te verwijderen."
+        "anecdote": "Enora Malagre vertrouwde Europa 1 toe om deel te hebben genomen aan een documentaire over de Teva-keten om het taboe op deze ziekte te verwijderen."
       },
       {
         "id": 7,
-        "question": "Wie leek erg dun op de cover van het « Elle » magazine van maart 2018 ?",
+        "question": "Wie leek erg dun op de cover van het \"Elle\" magazine van maart 2018 ?",
         "propositions": [
           "Afida Turner",
           "Julie Bouville",
@@ -2003,7 +2003,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Welke acteur uit de serie « Gray s Anatomy » is hertrouwd met Arielle Goldrath ?",
+        "question": "Welke acteur uit de serie \"Gray s Anatomy\" is hertrouwd met Arielle Goldrath ?",
         "propositions": [
           "Jesse Williams",
           "Justin Chambers",
@@ -2035,7 +2035,7 @@
           "Nicole Scherzinger"
         ],
         "reponse": "Britney Spears",
-        "anecdote": "Een ceremonie waarbij Britney Spears werd beloond met een ereprijs voor haar gedoopte « Fantasy in Bloom » parfum."
+        "anecdote": "Een ceremonie waarbij Britney Spears werd beloond met een ereprijs voor haar gedoopte \"Fantasy in Bloom\" parfum."
       },
       {
         "id": 14,
@@ -2063,7 +2063,7 @@
       },
       {
         "id": 16,
-        "question": "Wie heeft Vanessa Paradis de preview van de film « Dog » bekeken ?",
+        "question": "Wie heeft Vanessa Paradis de preview van de film \"Dog\" bekeken ?",
         "propositions": [
           "Alain Berberian",
           "Samuel Benchetrit",
@@ -2111,7 +2111,7 @@
       },
       {
         "id": 20,
-        "question": "In volledige promo van zijn autobiografie getiteld « Authentique », wie heeft onthuld te hebben afgebroken ?",
+        "question": "In volledige promo van zijn autobiografie getiteld \"Authentique\", wie heeft onthuld te hebben afgebroken ?",
         "propositions": [
           "Marie Sebag",
           "Capucine Anav",
@@ -2119,7 +2119,7 @@
           "Claudia Romani"
         ],
         "reponse": "Capucine Anav",
-        "anecdote": "Capucine Anav heeft gebruik gemaakt van haar verschijning in de « Morandini Live » uitzending op CNews en Non Stop People om het aan te kondigen."
+        "anecdote": "Capucine Anav heeft gebruik gemaakt van haar verschijning in de \"Morandini Live\" uitzending op CNews en Non Stop People om het aan te kondigen."
       }
     ],
     "expert": [
@@ -2133,11 +2133,11 @@
           "Barbra Streisand"
         ],
         "reponse": "Rita Moreno",
-        "anecdote": "De cult-actrice van « West Side Story » ging naar de Oscars 2018 in dezelfde jurk als in 1962, en ze was fantastisch."
+        "anecdote": "De cult-actrice van \"West Side Story\" ging naar de Oscars 2018 in dezelfde jurk als in 1962, en ze was fantastisch."
       },
       {
         "id": 22,
-        "question": "Wie heeft een paar schoppen ingepakt bij Kim Kardashian in « Top Off » ?",
+        "question": "Wie heeft een paar schoppen ingepakt bij Kim Kardashian in \"Top Off\" ?",
         "propositions": [
           "Britney Spears",
           "Beyonce",
@@ -2149,7 +2149,7 @@
       },
       {
         "id": 23,
-        "question": "Welke emblematische komiek van de serie « Palace » pleegde zelfmoord slechts 64 jaar oud ?",
+        "question": "Welke emblematische komiek van de serie \"Palace\" pleegde zelfmoord slechts 64 jaar oud ?",
         "propositions": [
           "Georges Peyrou",
           "Olivier Pages",
@@ -2173,7 +2173,7 @@
       },
       {
         "id": 25,
-        "question": "Welke jonge actrice viel de producenten van de film « Ghostland » aan ?",
+        "question": "Welke jonge actrice viel de producenten van de film \"Ghostland\" aan ?",
         "propositions": [
           "Taylor Hickson",
           "Alicia Johnston",
@@ -2181,7 +2181,7 @@
           "Crystal Reed"
         ],
         "reponse": "Taylor Hickson",
-        "anecdote": "Taylor Hickson raakte zwaargewond bij de set van de horrorfilm « Ghostland », die binnenkort in de bioscoop wordt uitgebracht."
+        "anecdote": "Taylor Hickson raakte zwaargewond bij de set van de horrorfilm \"Ghostland\", die binnenkort in de bioscoop wordt uitgebracht."
       },
       {
         "id": 26,
@@ -2229,7 +2229,7 @@
           "Priscilla Betti"
         ],
         "reponse": "Chloe Jouannet",
-        "anecdote": "Aan de bioscoopkant deelde Chloe Jouannet, met een opvallend temperament, het scherm met Jean Reno in 2014 in de film « Avis de Mistral »."
+        "anecdote": "Aan de bioscoopkant deelde Chloe Jouannet, met een opvallend temperament, het scherm met Jean Reno in 2014 in de film \"Avis de Mistral\"."
       },
       {
         "id": 30,

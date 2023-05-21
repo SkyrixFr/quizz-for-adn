@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "Quel humoriste est systematiquement contrôle par le fisc depuis pres de 30 ans ?",
+        "question": "Quel humoriste est systematiquement controle par le fisc depuis pres de 30 ans ?",
         "propositions": [
           "Olivier de Benoist",
           "Ahmed Sylla",
@@ -85,11 +85,11 @@
           "Stephane Lecat"
         ],
         "reponse": "Camille Lacourt",
-        "anecdote": "À 32 ans, le jeune homme a deja plein de projets : restaurant-bar/cocktail a Paris et ambassadeur pour la marque Clarins."
+        "anecdote": "A 32 ans, le jeune homme a deja plein de projets : restaurant-bar/cocktail a Paris et ambassadeur pour la marque Clarins."
       },
       {
         "id": 5,
-        "question": "Quelle heroïne de « Jules et Jim » nous a quittes a l age de 89 ans ?",
+        "question": "Quelle heroïne de \"Jules et Jim\" nous a quittes a l age de 89 ans ?",
         "propositions": [
           "Suzanne Flon",
           "Jeanne Moreau",
@@ -97,7 +97,7 @@
           "Annie Girardot"
         ],
         "reponse": "Jeanne Moreau",
-        "anecdote": "Jeanne Moreau laisse derriere elle de nombreux films cultes dont « Jules et Jim » ou « Le Journal d une femme de chambre »."
+        "anecdote": "Jeanne Moreau laisse derriere elle de nombreux films cultes dont \"Jules et Jim\" ou \"Le Journal d une femme de chambre\"."
       },
       {
         "id": 6,
@@ -149,7 +149,7 @@
       },
       {
         "id": 10,
-        "question": "Quel acteur du film « Dunkerque » a la particularite de posseder quatre tetons ?",
+        "question": "Quel acteur du film \"Dunkerque\" a la particularite de posseder quatre tetons ?",
         "propositions": [
           "Harry Styles",
           "Zayn Malik",
@@ -157,7 +157,7 @@
           "Niall Horan"
         ],
         "reponse": "Harry Styles",
-        "anecdote": "À la suite d une suggestion de la chanteuse Nicole Scherzinger, Harry Styles formera le groupe One Direction."
+        "anecdote": "A la suite d une suggestion de la chanteuse Nicole Scherzinger, Harry Styles formera le groupe One Direction."
       }
     ],
     "confirme": [
@@ -207,7 +207,7 @@
           "Zita Hanrot"
         ],
         "reponse": "Leïla Bekhti",
-        "anecdote": "La comedienne d « Un Prophete », de « Tout ce qui brille » et de « La Source des femmes » est mariee avec Tahar Rahim."
+        "anecdote": "La comedienne d \"Un Prophete\", de \"Tout ce qui brille\" et de \"La Source des femmes\" est mariee avec Tahar Rahim."
       },
       {
         "id": 15,
@@ -235,7 +235,7 @@
       },
       {
         "id": 17,
-        "question": "À qui Jean-Pascal Lacoste a-t-il fait une declaration d amour en juillet 2017 ?",
+        "question": "A qui Jean-Pascal Lacoste a-t-il fait une declaration d amour en juillet 2017 ?",
         "propositions": [
           "Delphine Tellier",
           "Sigrid Agren",
@@ -243,11 +243,11 @@
           "Audrey Marnay"
         ],
         "reponse": "Delphine Tellier",
-        "anecdote": "En janvier 2001, Jean-Pascal Lacoste a ete selectionne par TF1 pour participer a la premiere edition de « Star Academy »."
+        "anecdote": "En janvier 2001, Jean-Pascal Lacoste a ete selectionne par TF1 pour participer a la premiere edition de \"Star Academy\"."
       },
       {
         "id": 18,
-        "question": "Quelle chroniqueuse de « Telefoot » a dit oui a son cheri Jean-Luc Guizonne ?",
+        "question": "Quelle chroniqueuse de \"Telefoot\" a dit oui a son cheri Jean-Luc Guizonne ?",
         "propositions": [
           "Nathalie Simon",
           "Cecile de Menibus",
@@ -279,7 +279,7 @@
           "Chrissy Teigen"
         ],
         "reponse": "Chrissy Teigen",
-        "anecdote": "Côte vie privee, Chrissy Teigen a rencontre le chan­teur John Legend en 2007 sur le tour­nage du clip « Stereo »."
+        "anecdote": "Cote vie privee, Chrissy Teigen a rencontre le chan­teur John Legend en 2007 sur le tour­nage du clip \"Stereo\"."
       }
     ],
     "expert": [
@@ -305,7 +305,7 @@
           "Sheryfa Luna"
         ],
         "reponse": "Ophelie Winter",
-        "anecdote": "Au sommet de sa popularite, Ophelie Winter a partage la vie du chanteur MC Solaar, avec qui elle collabore sur « Un jour »."
+        "anecdote": "Au sommet de sa popularite, Ophelie Winter a partage la vie du chanteur MC Solaar, avec qui elle collabore sur \"Un jour\"."
       },
       {
         "id": 23,
@@ -329,7 +329,7 @@
           "Andrew Grove"
         ],
         "reponse": "Jeff Bezos",
-        "anecdote": "Entrepreneur et investisseur americain, Jeff Bezos detrône ainsi le celebre createur de Microsoft Windows, Bill Gates."
+        "anecdote": "Entrepreneur et investisseur americain, Jeff Bezos detrone ainsi le celebre createur de Microsoft Windows, Bill Gates."
       },
       {
         "id": 25,
@@ -377,7 +377,7 @@
           "Marine Mahiques"
         ],
         "reponse": "Kleofina Pnishi",
-        "anecdote": "La jeune femme de 23 ans a eu la chance de faire quelques apparitions dans des series tele, dont « Plus Belle La Vie »."
+        "anecdote": "La jeune femme de 23 ans a eu la chance de faire quelques apparitions dans des series tele, dont \"Plus Belle La Vie\"."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Caroline Fevre"
         ],
         "reponse": "Barbara Weldens",
-        "anecdote": "À la fin de son concert, dans le cadre du Festival Leo Ferre, Barbara Weldens a ete electrocutee et n a pu etre reanimee."
+        "anecdote": "A la fin de son concert, dans le cadre du Festival Leo Ferre, Barbara Weldens a ete electrocutee et n a pu etre reanimee."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Blaise Matuidi"
         ],
         "reponse": "Blaise Matuidi",
-        "anecdote": "Quelques jours apres son mariage, la star du PSG a perdu son alliance, derobee dans la boîte a gants de sa voiture de luxe."
+        "anecdote": "Quelques jours apres son mariage, la star du PSG a perdu son alliance, derobee dans la boite a gants de sa voiture de luxe."
       }
     ]
     }

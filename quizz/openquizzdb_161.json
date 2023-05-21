@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Dans « Les Bijoux de la Castafiore », quel journal annonce les noces de la diva ?",
+        "question": "Dans \"Les Bijoux de la Castafiore\", quel journal annonce les noces de la diva ?",
         "propositions": [
           "Paris-Flash",
           "Ici Pour Vous",
@@ -49,7 +49,7 @@
           "Jours de Paris"
         ],
         "reponse": "Paris-Flash",
-        "anecdote": "Trois ans apres le succes de « Tintin au Tibet », Herge semble ici etre a l apogee de son oeuvre sur le plan narratif."
+        "anecdote": "Trois ans apres le succes de \"Tintin au Tibet\", Herge semble ici etre a l apogee de son oeuvre sur le plan narratif."
       },
       {
         "id": 2,
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Combien de doigts possede le gant tricote par Therese dans « Le pere Noal est une ordure » ?",
+        "question": "Combien de doigts possede le gant tricote par Therese dans \"Le pere Noal est une ordure\" ?",
         "propositions": [
           "Cinq",
           "Six",
@@ -133,7 +133,7 @@
           "Trois"
         ],
         "reponse": "Trois",
-        "anecdote": "« Le pere Noal est une ordure » est a l origine (1979) une piece de theatre interpretee par la troupe du Splendid."
+        "anecdote": "\"Le pere Noal est une ordure\" est a l origine (1979) une piece de theatre interpretee par la troupe du Splendid."
       },
       {
         "id": 9,
@@ -219,7 +219,7 @@
           "Je crois en moi"
         ],
         "reponse": "Aucun souci",
-        "anecdote": "L expression a surtout ete grandement popularisee en 1994 par le film d animation des studios Disney « Le Roi lion »."
+        "anecdote": "L expression a surtout ete grandement popularisee en 1994 par le film d animation des studios Disney \"Le Roi lion\"."
       },
       {
         "id": 16,
@@ -279,7 +279,7 @@
           "1974"
         ],
         "reponse": "1981",
-        "anecdote": "Son principal slogan etait le suivant : « Avant moi, la France etait coupee en deux. Maintenant, elle sera pliee en quatre »."
+        "anecdote": "Son principal slogan etait le suivant : \"Avant moi, la France etait coupee en deux. Maintenant, elle sera pliee en quatre\"."
       }
     ],
     "expert": [
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quel est le nom du fils de Vegeta dans le manga « Dragon Ball » ?",
+        "question": "Quel est le nom du fils de Vegeta dans le manga \"Dragon Ball\" ?",
         "propositions": [
           "Yamcha",
           "Trunks",
@@ -401,7 +401,7 @@
           "Lievre"
         ],
         "reponse": "Renard",
-        "anecdote": "Cette designation est devenue majoritaire par l influence de Renart le goupil, heros du « Roman de Renart »."
+        "anecdote": "Cette designation est devenue majoritaire par l influence de Renart le goupil, heros du \"Roman de Renart\"."
       }
     ]
     }

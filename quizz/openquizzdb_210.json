@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "question": "À quel artiste Justin Timberlake a-t-il rendu hommage lors du Super Bowl 2018 ?",
+        "question": "A quel artiste Justin Timberlake a-t-il rendu hommage lors du Super Bowl 2018 ?",
         "propositions": [
           "Prince",
           "Elvis Presley",
@@ -61,7 +61,7 @@
           "John Lennon"
         ],
         "reponse": "Prince",
-        "anecdote": "L image du chanteur Prince fut projetee sur une toile a mesure que retentissaient les notes du titre « I Would Die 4 U »."
+        "anecdote": "L image du chanteur Prince fut projetee sur une toile a mesure que retentissaient les notes du titre \"I Would Die 4 U\"."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Leurs 5 ans"
         ],
         "reponse": "Leurs 10 ans",
-        "anecdote": "Des annees apres leur mariage, la chanteuse et l ancien chef de l État sont toujours aussi fous amoureux."
+        "anecdote": "Des annees apres leur mariage, la chanteuse et l ancien chef de l Etat sont toujours aussi fous amoureux."
       },
       {
         "id": 4,
@@ -97,7 +97,7 @@
           "Christian Slater"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher a connu le debut du succes grace a son rôle de Michael Kelso dans la serie tele « That  70s show »."
+        "anecdote": "Ashton Kutcher a connu le debut du succes grace a son role de Michael Kelso dans la serie tele \"That  70s show\"."
       },
       {
         "id": 6,
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Quel acteur de la serie « Glee » est mort d asphyxie apres s etre pendu a un arbre ?",
+        "question": "Quel acteur de la serie \"Glee\" est mort d asphyxie apres s etre pendu a un arbre ?",
         "propositions": [
           "Darren Criss",
           "Chris Colfer",
@@ -237,13 +237,13 @@
         "id": 17,
         "question": "Quel philosophe a revele sur son site internet avoir ete victime d un AVC ?",
         "propositions": [
-          "Benoît Chantre",
+          "Benoit Chantre",
           "Michel Onfray",
           "Alain Foix",
           "Mark Alizart"
         ],
         "reponse": "Michel Onfray",
-        "anecdote": "Depuis sa chambre d hôpital, le celebre philosophe a toutefois donne des nouvelles rassurantes sur son etat de sante."
+        "anecdote": "Depuis sa chambre d hopital, le celebre philosophe a toutefois donne des nouvelles rassurantes sur son etat de sante."
       },
       {
         "id": 18,
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Quelle somme Chuck Norris a-t-il reclame pour tromperie sur « Walker Texas Ranger » ?",
+        "question": "Quelle somme Chuck Norris a-t-il reclame pour tromperie sur \"Walker Texas Ranger\" ?",
         "propositions": [
           "10 millions",
           "30 millions",
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Quelle fille de Patrick Chene a rejoint le casting de la serie televisee « Demain nous appartient » ?",
+        "question": "Quelle fille de Patrick Chene a rejoint le casting de la serie televisee \"Demain nous appartient\" ?",
         "propositions": [
           "Sophie Chene",
           "Juliette Chene",
@@ -365,7 +365,7 @@
           "Dorothee Chene"
         ],
         "reponse": "Juliette Chene",
-        "anecdote": "Comedienne historique de « Plus belle la vie », Juliette Chene a campe le rôle de Juliette Fremont entre 2004 et 2008."
+        "anecdote": "Comedienne historique de \"Plus belle la vie\", Juliette Chene a campe le role de Juliette Fremont entre 2004 et 2008."
       },
       {
         "id": 28,
@@ -429,7 +429,7 @@
           "Prince"
         ],
         "reponse": "Prince",
-        "anecdote": "The singer Prince s image was projected on a canvas as the notes of the title « I Would Die 4 U » sounded."
+        "anecdote": "The singer Prince s image was projected on a canvas as the notes of the title \"I Would Die 4 U\" sounded."
       },
       {
         "id": 3,
@@ -465,7 +465,7 @@
           "Bruce Willis"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher began his success with his role as Michael Kelso in the serie « That  70s show »."
+        "anecdote": "Ashton Kutcher began his success with his role as Michael Kelso in the serie \"That  70s show\"."
       },
       {
         "id": 6,
@@ -579,7 +579,7 @@
       },
       {
         "id": 15,
-        "question": "Which actor in the series « Glee » died of asphyxiation after being hanged on a tree ?",
+        "question": "Which actor in the series \"Glee\" died of asphyxiation after being hanged on a tree ?",
         "propositions": [
           "Darren Criss",
           "Mark Salling",
@@ -627,7 +627,7 @@
       },
       {
         "id": 19,
-        "question": "How much money did Chuck Norris claim for deception to the « Walker Texas Ranger » broadcaster ?",
+        "question": "How much money did Chuck Norris claim for deception to the \"Walker Texas Ranger\" broadcaster ?",
         "propositions": [
           "40 million",
           "30 million",
@@ -725,7 +725,7 @@
       },
       {
         "id": 27,
-        "question": "Which daughter of Patrick Chene joined the cast of the television series « Tomorrow belongs to us » ?",
+        "question": "Which daughter of Patrick Chene joined the cast of the television series \"Tomorrow belongs to us\" ?",
         "propositions": [
           "Dorothee Chene",
           "Sophie Chene",
@@ -733,7 +733,7 @@
           "Camille Chene"
         ],
         "reponse": "Juliette Chene",
-        "anecdote": "As a historical comedian of « Most beautiful life », Juliette Chene played Juliette Fremont s role between 2004 and 2008."
+        "anecdote": "As a historical comedian of \"Most beautiful life\", Juliette Chene played Juliette Fremont s role between 2004 and 2008."
       },
       {
         "id": 28,
@@ -785,11 +785,11 @@
           "Brigitte Fontaine"
         ],
         "reponse": "Linie Renaud",
-        "anecdote": "Mit großer Ergriffenheit kehrte Line Renaud am Sonntag, dem 4. Februar 2018, nach dem Verschwinden seines Patensohns Johnny Hallyday zurück."
+        "anecdote": "Mit großer Ergriffenheit kehrte Line Renaud am Sonntag, dem 4. Februar 2018, nach dem Verschwinden seines Patensohns Johnny Hallyday zuruck."
       },
       {
         "id": 2,
-        "question": "Welchen Künstler würdigte Justin Timberlake beim Super Bowl 2018 ?",
+        "question": "Welchen Kunstler wurdigte Justin Timberlake beim Super Bowl 2018 ?",
         "propositions": [
           "Michaal Jackson",
           "Prinz",
@@ -797,7 +797,7 @@
           "Elvis Presley"
         ],
         "reponse": "Prinz",
-        "anecdote": "Das Bild des Sängers Prince wurde auf eine Leinwand projiziert, als die Noten des Titels « I Would Die 4 U » erklangen."
+        "anecdote": "Das Bild des Sängers Prince wurde auf eine Leinwand projiziert, als die Noten des Titels \"I Would Die 4 U\" erklangen."
       },
       {
         "id": 3,
@@ -809,11 +809,11 @@
           "Ihre 10 Jahre"
         ],
         "reponse": "Ihre 10 Jahre",
-        "anecdote": "Viele Jahre nach ihrer Hochzeit in einem Salon am Elysee sind die Sängerin und das frühere Staatsoberhaupt noch genauso verliebt."
+        "anecdote": "Viele Jahre nach ihrer Hochzeit in einem Salon am Elysee sind die Sängerin und das fruhere Staatsoberhaupt noch genauso verliebt."
       },
       {
         "id": 4,
-        "question": "Welcher berühmte Koch wurde vom Michelin-Führer 2018 belohnt ?",
+        "question": "Welcher beruhmte Koch wurde vom Michelin-Fuhrer 2018 belohnt ?",
         "propositions": [
           "Cyril Lignac",
           "Thierry Marx",
@@ -821,7 +821,7 @@
           "Christliche Konstante"
         ],
         "reponse": "Philippe Etchebest",
-        "anecdote": "Philippe Etchebest wurde für sein neues gastronomisches Konzept in Bordeaux mit der Ausgabe 2018 des berühmten Reiseführers belohnt."
+        "anecdote": "Philippe Etchebest wurde fur sein neues gastronomisches Konzept in Bordeaux mit der Ausgabe 2018 des beruhmten Reisefuhrers belohnt."
       },
       {
         "id": 5,
@@ -833,23 +833,23 @@
           "Martin Sheen"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher begann seinen Erfolg mit seiner Rolle als Michael Kelso in der Serie « That 70s show »."
+        "anecdote": "Ashton Kutcher begann seinen Erfolg mit seiner Rolle als Michael Kelso in der Serie \"That 70s show\"."
       },
       {
         "id": 6,
-        "question": "Welcher amerikanische Rapper hat überraschenderweise angekündigt, ein Gospel-Album vorzubereiten ?",
+        "question": "Welcher amerikanische Rapper hat uberraschenderweise angekundigt, ein Gospel-Album vorzubereiten ?",
         "propositions": [
           "Warren G",
           "Snoop Dogg",
-          "Eiswürfel",
+          "Eiswurfel",
           "Dr. Dre"
         ],
         "reponse": "Snoop Dogg",
-        "anecdote": "Der Rapper hat bereits einige Titel enthüllt, ein Griff im Vergleich zu den 32, die das für den 16."
+        "anecdote": "Der Rapper hat bereits einige Titel enthullt, ein Griff im Vergleich zu den 32, die das fur den 16."
       },
       {
         "id": 7,
-        "question": "Welcher amerikanische Schauspieler wird im Fall des Selbstmords seines Gefährten definitiv getüncht ?",
+        "question": "Welcher amerikanische Schauspieler wird im Fall des Selbstmords seines Gefährten definitiv getuncht ?",
         "propositions": [
           "Christian Bale",
           "Danny DeVito",
@@ -881,7 +881,7 @@
           "Gerald Dahan"
         ],
         "reponse": "Yves Lecoq",
-        "anecdote": "Die Kameras von BFM TV, die die Aussagen der Immobilisierten sammelten, waren in der Tat überrascht, Yves Lecoq zu finden."
+        "anecdote": "Die Kameras von BFM TV, die die Aussagen der Immobilisierten sammelten, waren in der Tat uberrascht, Yves Lecoq zu finden."
       },
       {
         "id": 10,
@@ -907,7 +907,7 @@
           "Mazarine Pingeot"
         ],
         "reponse": "Julie Bocquet",
-        "anecdote": "Julie, die Tochter von Claude Francois, sagte, dass dieses lange verborgene Geheimnis selbst für ihre Kinder schwer zu tragen sei."
+        "anecdote": "Julie, die Tochter von Claude Francois, sagte, dass dieses lange verborgene Geheimnis selbst fur ihre Kinder schwer zu tragen sei."
       },
       {
         "id": 12,
@@ -923,7 +923,7 @@
       },
       {
         "id": 13,
-        "question": "Welchen Geburtstag hatte die hübsche Nabilla am 5. Februar 2018 ?",
+        "question": "Welchen Geburtstag hatte die hubsche Nabilla am 5. Februar 2018 ?",
         "propositions": [
           "Seine 30 Jahre",
           "Seine 26 Jahre",
@@ -931,7 +931,7 @@
           "Seine 24 Jahre"
         ],
         "reponse": "Seine 26 Jahre",
-        "anecdote": "Die hübsche Brünette, die kein Bimbo mehr ist, feierte mit ihrem Bruder Tarek und seinem Freund Thomas Vergara ihren Geburtstag."
+        "anecdote": "Die hubsche Brunette, die kein Bimbo mehr ist, feierte mit ihrem Bruder Tarek und seinem Freund Thomas Vergara ihren Geburtstag."
       },
       {
         "id": 14,
@@ -943,11 +943,11 @@
           "Laurent Ruquier"
         ],
         "reponse": "Laurent Ruquier",
-        "anecdote": "Die Freunde von damals lebten immer beide sentimental Schach und übertönten ihren Kummer durch Basteln."
+        "anecdote": "Die Freunde von damals lebten immer beide sentimental Schach und ubertönten ihren Kummer durch Basteln."
       },
       {
         "id": 15,
-        "question": "Welcher Schauspieler in der Serie « Glee » starb an Erstickung, nachdem er an einen Baum gehängt worden war ?",
+        "question": "Welcher Schauspieler in der Serie \"Glee\" starb an Erstickung, nachdem er an einen Baum gehängt worden war ?",
         "propositions": [
           "Cory Monteith",
           "Chris Colfer",
@@ -959,7 +959,7 @@
       },
       {
         "id": 16,
-        "question": "Mit wem bildete Karine der Kaufmann ein atypisches und überraschendes Paar ?",
+        "question": "Mit wem bildete Karine der Kaufmann ein atypisches und uberraschendes Paar ?",
         "propositions": [
           "Stephane Plaza",
           "JoeyStarr",
@@ -967,7 +967,7 @@
           "Laurent Boyer"
         ],
         "reponse": "JoeyStarr",
-        "anecdote": "Der hübsche Star der Kneipe und Ex-Lilian Thuram erklärte, dass er sich um sie kümmerte, egal mit wem sie zusammen war."
+        "anecdote": "Der hubsche Star der Kneipe und Ex-Lilian Thuram erklärte, dass er sich um sie kummerte, egal mit wem sie zusammen war."
       },
       {
         "id": 17,
@@ -979,7 +979,7 @@
           "Mark Alizart"
         ],
         "reponse": "Michel Onfray",
-        "anecdote": "Von seinem Krankenzimmer aus hat der berühmte Philosoph jedoch beruhigende Nachrichten über seinen Gesundheitszustand gegeben."
+        "anecdote": "Von seinem Krankenzimmer aus hat der beruhmte Philosoph jedoch beruhigende Nachrichten uber seinen Gesundheitszustand gegeben."
       },
       {
         "id": 18,
@@ -991,11 +991,11 @@
           "Bruna Marquezine"
         ],
         "reponse": "Bruna Marquezine",
-        "anecdote": "Während eines von Vogue in Sao Paulo, Brasilien, organisierten Abends sorgte Bruna mit einem sehr minimalistischen Outfit für Aufsehen."
+        "anecdote": "Während eines von Vogue in Sao Paulo, Brasilien, organisierten Abends sorgte Bruna mit einem sehr minimalistischen Outfit fur Aufsehen."
       },
       {
         "id": 19,
-        "question": "Wie viel Geld hat Chuck Norris für die Täuschung des « Walker Texas Ranger » Senders beansprucht ?",
+        "question": "Wie viel Geld hat Chuck Norris fur die Täuschung des \"Walker Texas Ranger\" Senders beansprucht ?",
         "propositions": [
           "30 Millionen",
           "40 Millionen",
@@ -1007,7 +1007,7 @@
       },
       {
         "id": 20,
-        "question": "Wer hat seinen Arm für eine verlorene Wette gegen seinen Freund Leonardo Dicaprio bekommen ?",
+        "question": "Wer hat seinen Arm fur eine verlorene Wette gegen seinen Freund Leonardo Dicaprio bekommen ?",
         "propositions": [
           "John Nolan",
           "Glenn Ford",
@@ -1021,7 +1021,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Welche Schauspielerin hat sich im Februar 2018 erneut bereit erklärt, für PETA nackt zu posieren ?",
+        "question": "Welche Schauspielerin hat sich im Februar 2018 erneut bereit erklärt, fur PETA nackt zu posieren ?",
         "propositions": [
           "Teri Hatcher",
           "Halle Berry",
@@ -1041,11 +1041,11 @@
           "John Fort ?"
         ],
         "reponse": "Travis Scott",
-        "anecdote": "Wenn die 20-jährige selbst die Geburt ihres Darlehens ankündigte, nahm sie sich etwas Zeit, um ihren Namen preiszugeben."
+        "anecdote": "Wenn die 20-jährige selbst die Geburt ihres Darlehens ankundigte, nahm sie sich etwas Zeit, um ihren Namen preiszugeben."
       },
       {
         "id": 23,
-        "question": "Welcher amerikanische Sänger, der 2018 76 Jahre alt war, hat eine Abschiedstournee angekündigt ?",
+        "question": "Welcher amerikanische Sänger, der 2018 76 Jahre alt war, hat eine Abschiedstournee angekundigt ?",
         "propositions": [
           "Bob Dylan",
           "Keith Jarrett",
@@ -1053,7 +1053,7 @@
           "Paul Simon"
         ],
         "reponse": "Paul Simon",
-        "anecdote": "In einer Erklärung sagte der Sänger und ehemalige Mitglied des Duos Simon und Garfunkel, dass er seine Tourneen beenden würde."
+        "anecdote": "In einer Erklärung sagte der Sänger und ehemalige Mitglied des Duos Simon und Garfunkel, dass er seine Tourneen beenden wurde."
       },
       {
         "id": 24,
@@ -1069,7 +1069,7 @@
       },
       {
         "id": 25,
-        "question": "Welcher hübsche Mexikaner, der bisher unbekannt war, ist Kourtney Kardashians Doppelgänger ?",
+        "question": "Welcher hubsche Mexikaner, der bisher unbekannt war, ist Kourtney Kardashians Doppelgänger ?",
         "propositions": [
           "Lorena Rojas",
           "Daisy Gonzalez",
@@ -1089,11 +1089,11 @@
           "20. Februar"
         ],
         "reponse": "5. Februar",
-        "anecdote": "Ja, Sie träumen nicht : Die berühmteste Strecke hat ihre eigene Party, die am 5. Februar weltweit gefeiert wird."
+        "anecdote": "Ja, Sie träumen nicht : Die beruhmteste Strecke hat ihre eigene Party, die am 5. Februar weltweit gefeiert wird."
       },
       {
         "id": 27,
-        "question": "Welche Tochter von Patrick Chene hat sich der Besetzung der Fernsehserie « Tomorrow gehört uns » angeschlossen ?",
+        "question": "Welche Tochter von Patrick Chene hat sich der Besetzung der Fernsehserie \"Tomorrow gehört uns\" angeschlossen ?",
         "propositions": [
           "Sophie Chene",
           "Dorothee Chene",
@@ -1101,7 +1101,7 @@
           "Juliette Chene"
         ],
         "reponse": "Juliette Chene",
-        "anecdote": "Als historische Komikerin des « schönsten Lebens » spielte Juliette Chene zwischen 2004 und 2008 die Rolle von Juliette Fremont"
+        "anecdote": "Als historische Komikerin des \"schönsten Lebens\" spielte Juliette Chene zwischen 2004 und 2008 die Rolle von Juliette Fremont"
       },
       {
         "id": 28,
@@ -1117,7 +1117,7 @@
       },
       {
         "id": 29,
-        "question": "Wer sorgte nach seinem improvisierten Twerk an Neymars Geburtstag für Aufsehen ?",
+        "question": "Wer sorgte nach seinem improvisierten Twerk an Neymars Geburtstag fur Aufsehen ?",
         "propositions": [
           "Izabel Goulart",
           "Julie Henderson",
@@ -1125,7 +1125,7 @@
           "Damaris Lewis"
         ],
         "reponse": "Izabel Goulart",
-        "anecdote": "Insgesamt füllten fast 250 Gäste den luxuriösen Pavillon Cambon im zweiten Arrondissement von Paris."
+        "anecdote": "Insgesamt fullten fast 250 Gäste den luxuriösen Pavillon Cambon im zweiten Arrondissement von Paris."
       },
       {
         "id": 30,
@@ -1137,7 +1137,7 @@
           "Kendall"
         ],
         "reponse": "Stormi",
-        "anecdote": "Nach neun Monaten mehr als geschützter Schwangerschaft hat die 20-Jährige auf Instagram (endlich) den Namen ihres Babys preisgegeben."
+        "anecdote": "Nach neun Monaten mehr als geschutzter Schwangerschaft hat die 20-Jährige auf Instagram (endlich) den Namen ihres Babys preisgegeben."
       }
     ]
     },
@@ -1165,7 +1165,7 @@
           "Príncipe"
         ],
         "reponse": "Príncipe",
-        "anecdote": "La imagen del cantante Prince se proyectó en un lienzo cuando sonaron las notas del título « I would Die 4 U »."
+        "anecdote": "La imagen del cantante Prince se proyectó en un lienzo cuando sonaron las notas del título \"I would Die 4 U\"."
       },
       {
         "id": 3,
@@ -1201,7 +1201,7 @@
           "Ashton Kutcher"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher comenzó su exito con su papel de Michael Kelso en la serie « That  70s show »."
+        "anecdote": "Ashton Kutcher comenzó su exito con su papel de Michael Kelso en la serie \"That  70s show\"."
       },
       {
         "id": 6,
@@ -1315,7 +1315,7 @@
       },
       {
         "id": 15,
-        "question": "¿Que actor de la serie « Glee » murió de asfixia despues de ser colgado en un árbol ?",
+        "question": "¿Que actor de la serie \"Glee\" murió de asfixia despues de ser colgado en un árbol ?",
         "propositions": [
           "Darren Criss",
           "Cory Monteith",
@@ -1363,7 +1363,7 @@
       },
       {
         "id": 19,
-        "question": "¿Cuánto dinero reclamó Chuck Norris por engaño a la emisora « Walker Texas Ranger » ?",
+        "question": "¿Cuánto dinero reclamó Chuck Norris por engaño a la emisora \"Walker Texas Ranger\" ?",
         "propositions": [
           "10 millones",
           "40 millones",
@@ -1461,7 +1461,7 @@
       },
       {
         "id": 27,
-        "question": "¿Que hija de Patrick Chene se unió al elenco de la serie de televisión « Tomorrow nos pertenece » ?",
+        "question": "¿Que hija de Patrick Chene se unió al elenco de la serie de televisión \"Tomorrow nos pertenece\" ?",
         "propositions": [
           "Sophie Chene",
           "Camille Chene",
@@ -1469,7 +1469,7 @@
           "Dorothee Chene"
         ],
         "reponse": "Juliette Chene",
-        "anecdote": "Como comediante histórica de « La vida más bella », Juliette Chene desempeñó el papel de Juliette Fremont entre 2004 y 2008."
+        "anecdote": "Como comediante histórica de \"La vida más bella\", Juliette Chene desempeñó el papel de Juliette Fremont entre 2004 y 2008."
       },
       {
         "id": 28,
@@ -1533,7 +1533,7 @@
           "Elvis Presley"
         ],
         "reponse": "Prince",
-        "anecdote": "L immagine del cantante Prince e stata proiettata su una tela mentre suonavano le note del titolo « I Would Die 4 U »."
+        "anecdote": "L immagine del cantante Prince e stata proiettata su una tela mentre suonavano le note del titolo \"I Would Die 4 U\"."
       },
       {
         "id": 3,
@@ -1569,7 +1569,7 @@
           "Christian Slater"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher ha iniziato il suo successo con il ruolo di Michael Kelso nella serie « That show anni  70 »."
+        "anecdote": "Ashton Kutcher ha iniziato il suo successo con il ruolo di Michael Kelso nella serie \"That show anni  70\"."
       },
       {
         "id": 6,
@@ -1683,7 +1683,7 @@
       },
       {
         "id": 15,
-        "question": "Quale attore della serie « Glee » e morto di asfissia dopo essere stato impiccato su un albero ?",
+        "question": "Quale attore della serie \"Glee\" e morto di asfissia dopo essere stato impiccato su un albero ?",
         "propositions": [
           "Mark Salling",
           "Chris Colfer",
@@ -1731,7 +1731,7 @@
       },
       {
         "id": 19,
-        "question": "Quanti soldi ha chiesto Chuck Norris per inganno all emittente « Walker Texas Ranger » ?",
+        "question": "Quanti soldi ha chiesto Chuck Norris per inganno all emittente \"Walker Texas Ranger\" ?",
         "propositions": [
           "20 milioni",
           "30 milioni",
@@ -1829,7 +1829,7 @@
       },
       {
         "id": 27,
-        "question": "Quale figlia di Patrick Chene si e unita al cast della serie televisiva « Tomorrow appartiene a noi » ?",
+        "question": "Quale figlia di Patrick Chene si e unita al cast della serie televisiva \"Tomorrow appartiene a noi\" ?",
         "propositions": [
           "Camille Chene",
           "Juliette Chene",
@@ -1837,7 +1837,7 @@
           "Dorothee Chene"
         ],
         "reponse": "Juliette Chene",
-        "anecdote": "Comica storica di « La vita piu bella », Juliette Chene ha interpretato il ruolo di Juliette Fremont tra il 2004 e il 2008."
+        "anecdote": "Comica storica di \"La vita piu bella\", Juliette Chene ha interpretato il ruolo di Juliette Fremont tra il 2004 e il 2008."
       },
       {
         "id": 28,
@@ -1901,7 +1901,7 @@
           "Prins"
         ],
         "reponse": "Prins",
-        "anecdote": "Het beeld van zanger Prince werd op een doek geprojecteerd terwijl de tonen van de titel « I Would Die 4 U » klonken."
+        "anecdote": "Het beeld van zanger Prince werd op een doek geprojecteerd terwijl de tonen van de titel \"I Would Die 4 U\" klonken."
       },
       {
         "id": 3,
@@ -1937,7 +1937,7 @@
           "Bruce Willis"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher begon zijn succes met zijn rol als Michael Kelso in de serie « That  70s show »."
+        "anecdote": "Ashton Kutcher begon zijn succes met zijn rol als Michael Kelso in de serie \"That  70s show\"."
       },
       {
         "id": 6,
@@ -2051,7 +2051,7 @@
       },
       {
         "id": 15,
-        "question": "Welke acteur in de serie « Glee » stierf aan verstikking nadat hij aan een boom was opgehangen ?",
+        "question": "Welke acteur in de serie \"Glee\" stierf aan verstikking nadat hij aan een boom was opgehangen ?",
         "propositions": [
           "Darren Criss",
           "Mark Salling",
@@ -2099,7 +2099,7 @@
       },
       {
         "id": 19,
-        "question": "Hoeveel geld claimde Chuck Norris voor bedrog bij de « Walker Texas Ranger » omroep ?",
+        "question": "Hoeveel geld claimde Chuck Norris voor bedrog bij de \"Walker Texas Ranger\" omroep ?",
         "propositions": [
           "30 miljoen",
           "40 miljoen",
@@ -2197,7 +2197,7 @@
       },
       {
         "id": 27,
-        "question": "Welke dochter van Patrick Chene heeft zich aangesloten bij de cast van de televisieserie « Tomorrow hoort bij ons » ?",
+        "question": "Welke dochter van Patrick Chene heeft zich aangesloten bij de cast van de televisieserie \"Tomorrow hoort bij ons\" ?",
         "propositions": [
           "Sophie Chene",
           "Camille Chene",
@@ -2205,7 +2205,7 @@
           "Juliette Chene"
         ],
         "reponse": "Juliette Chene",
-        "anecdote": "Als historische komiek van « Mooiste leven » speelde Juliette Chene de rol van Juliette Fremont tussen 2004 en 2008."
+        "anecdote": "Als historische komiek van \"Mooiste leven\" speelde Juliette Chene de rol van Juliette Fremont tussen 2004 en 2008."
       },
       {
         "id": 28,

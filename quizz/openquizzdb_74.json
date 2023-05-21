@@ -49,7 +49,7 @@
           "Pascal Bataille"
         ],
         "reponse": "Cyril Hanouna",
-        "anecdote": "Cyril Hanouna est surtout connu pour etre l animateur de « Touche pas a mon poste ! » sur C8."
+        "anecdote": "Cyril Hanouna est surtout connu pour etre l animateur de \"Touche pas a mon poste !\" sur C8."
       },
       {
         "id": 2,
@@ -61,11 +61,11 @@
           "Rita Ora"
         ],
         "reponse": "Katy Perry",
-        "anecdote": "Katy Perry a connu un succes international en 2008 grace au titre « I Kissed a Girl »."
+        "anecdote": "Katy Perry a connu un succes international en 2008 grace au titre \"I Kissed a Girl\"."
       },
       {
         "id": 3,
-        "question": "Quelle chanteuse est torride pour « Right Here, Right Now » avec Giorgio Moroder ?",
+        "question": "Quelle chanteuse est torride pour \"Right Here, Right Now\" avec Giorgio Moroder ?",
         "propositions": [
           "Tina Arena",
           "Natalie Imbruglia",
@@ -73,11 +73,11 @@
           "Julia Stone"
         ],
         "reponse": "Kylie Minogue",
-        "anecdote": "Kylie Minogue a longtemps ete surnommee la « princesse de la Pop Music »."
+        "anecdote": "Kylie Minogue a longtemps ete surnommee la \"princesse de la Pop Music\"."
       },
       {
         "id": 4,
-        "question": "Quelle jeune chanteuse et actrice a ete sacree « revelation feminine de l annee » 2015 ?",
+        "question": "Quelle jeune chanteuse et actrice a ete sacree \"revelation feminine de l annee\" 2015 ?",
         "propositions": [
           "Maeva Meline",
           "Alexandra Lucci",
@@ -85,7 +85,7 @@
           "Aurore Delplace"
         ],
         "reponse": "Louane Emera",
-        "anecdote": "Louane a obtenu une grande notoriete en 2014 grace a son premier rôle dans le film « La Famille Belier »."
+        "anecdote": "Louane a obtenu une grande notoriete en 2014 grace a son premier role dans le film \"La Famille Belier\"."
       },
       {
         "id": 5,
@@ -97,11 +97,11 @@
           "Kelly Trump"
         ],
         "reponse": "Paris Hilton",
-        "anecdote": "Paris Hilton est l une des arrieres-petites-filles de Conrad Hilton, fondateur de la chaîne des hôtels Hilton."
+        "anecdote": "Paris Hilton est l une des arrieres-petites-filles de Conrad Hilton, fondateur de la chaine des hotels Hilton."
       },
       {
         "id": 6,
-        "question": "Quelle actrice appelle-t-on aussi depuis 2015 « la premiere dame de l ombre » ?",
+        "question": "Quelle actrice appelle-t-on aussi depuis 2015 \"la premiere dame de l ombre\" ?",
         "propositions": [
           "Melanie Laurent",
           "Julie Gayet",
@@ -121,7 +121,7 @@
           "Josh Duhamel"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher s est fait connaître avec son rôle de Michael Kelso dans la serie televisee That  70s Show."
+        "anecdote": "Ashton Kutcher s est fait connaitre avec son role de Michael Kelso dans la serie televisee That  70s Show."
       },
       {
         "id": 8,
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Qui voit-on aux côtes de Kendall Jenner sur la couverture du « Love Magazine » de fevrier 2015 ?",
+        "question": "Qui voit-on aux cotes de Kendall Jenner sur la couverture du \"Love Magazine\" de fevrier 2015 ?",
         "propositions": [
           "Sienna Miller",
           "Suki Waterhouse",
@@ -195,11 +195,11 @@
           "Alexa Chung"
         ],
         "reponse": "Cara Delevingne",
-        "anecdote": "Tres active sur les reseaux sociaux notamment sur Instagram, Cara Delevingne st consideree comme une « it girl »."
+        "anecdote": "Tres active sur les reseaux sociaux notamment sur Instagram, Cara Delevingne st consideree comme une \"it girl\"."
       },
       {
         "id": 14,
-        "question": "Quel gagnant de « Nouvelle Star » a sorti un premier EP en fevrier 2015 ?",
+        "question": "Quel gagnant de \"Nouvelle Star\" a sorti un premier EP en fevrier 2015 ?",
         "propositions": [
           "Julien Dore",
           "Jonatan Cerrada",
@@ -207,11 +207,11 @@
           "Christophe Willem"
         ],
         "reponse": "Mathieu Saïkaly",
-        "anecdote": "L emission « Nouvelle Star » est basee sur le format a succes « Pop Idol » et produite par FremantleMedia et 19TV Ltd."
+        "anecdote": "L emission \"Nouvelle Star\" est basee sur le format a succes \"Pop Idol\" et produite par FremantleMedia et 19TV Ltd."
       },
       {
         "id": 15,
-        "question": "Quel journaliste a fait un malaise en plein direct de « C a Vous », jusqu a interrompre l emission ?",
+        "question": "Quel journaliste a fait un malaise en plein direct de \"C a Vous\", jusqu a interrompre l emission ?",
         "propositions": [
           "Alain Marschall",
           "Alexandre Debanne",
@@ -219,7 +219,7 @@
           "Patrick Cohen"
         ],
         "reponse": "Patrick Cohen",
-        "anecdote": "Ce journaliste francais de radio et de television est le presentateur du « 7/9 » de France Inter depuis 2010."
+        "anecdote": "Ce journaliste francais de radio et de television est le presentateur du \"7/9\" de France Inter depuis 2010."
       },
       {
         "id": 16,
@@ -239,11 +239,11 @@
         "propositions": [
           "Adriana Lima",
           "Alice Dellal",
-          "Gisele Bündchen",
+          "Gisele Bundchen",
           "Fernanda Lima"
         ],
-        "reponse": "Gisele Bündchen",
-        "anecdote": "Gisele Bündchen a escortee la malle officielle transportant le trophee de la Coupe du monde de football de 2014."
+        "reponse": "Gisele Bundchen",
+        "anecdote": "Gisele Bundchen a escortee la malle officielle transportant le trophee de la Coupe du monde de football de 2014."
       },
       {
         "id": 18,
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Quelle actrice a pose nue avec un boa constrictor pour le « Vanity Fair » de fevrier 2015 ?",
+        "question": "Quelle actrice a pose nue avec un boa constrictor pour le \"Vanity Fair\" de fevrier 2015 ?",
         "propositions": [
           "Julianne Moore",
           "Cate Blanchett",
@@ -267,7 +267,7 @@
           "Natalie Portman"
         ],
         "reponse": "Jennifer Lawrence",
-        "anecdote": "En 2015, selon la magazine « Forbes », elle est l actrice la mieux payee au monde avec pres de 52 millions de dollars."
+        "anecdote": "En 2015, selon la magazine \"Forbes\", elle est l actrice la mieux payee au monde avec pres de 52 millions de dollars."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Katy Perry"
         ],
         "reponse": "Katy Perry",
-        "anecdote": "Katy Perry est la seule artiste a etre restee plus de 52 semaines consecutives dans le top 10 du « Billboard Hot 100 »."
+        "anecdote": "Katy Perry est la seule artiste a etre restee plus de 52 semaines consecutives dans le top 10 du \"Billboard Hot 100\"."
       }
     ],
     "expert": [
@@ -305,7 +305,7 @@
           "Rosario Dawson"
         ],
         "reponse": "Jessica Alba",
-        "anecdote": "Grace a son physique avantageux, Jessica Alba est apparue ans la rubrique « Hot 100 » du magazine « Maximal »."
+        "anecdote": "Grace a son physique avantageux, Jessica Alba est apparue ans la rubrique \"Hot 100\" du magazine \"Maximal\"."
       },
       {
         "id": 23,
@@ -317,7 +317,7 @@
           "Rob Fusari"
         ],
         "reponse": "Suge Knight",
-        "anecdote": "Suge Knight est, avec Dr. Dre, co-fondateur du label de reference du debut des annees 1990 « Death Row Records »."
+        "anecdote": "Suge Knight est, avec Dr. Dre, co-fondateur du label de reference du debut des annees 1990 \"Death Row Records\"."
       },
       {
         "id": 24,
@@ -333,7 +333,7 @@
       },
       {
         "id": 25,
-        "question": "Quel acteur est devenu, travesti le temps d un rôle, le sosie de Jennifer Garner ?",
+        "question": "Quel acteur est devenu, travesti le temps d un role, le sosie de Jennifer Garner ?",
         "propositions": [
           "Jeff Bridges",
           "Eddie Redmayne",
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "Quelle mannequin a dit : « Une femme peut etre sexuelle, puissante et feministe » ?",
+        "question": "Quelle mannequin a dit : \"Une femme peut etre sexuelle, puissante et feministe\" ?",
         "propositions": [
           "Kendall Jenner",
           "Danielle Evans",
@@ -401,7 +401,7 @@
           "Emily Ratajkowski"
         ],
         "reponse": "Emily Ratajkowski",
-        "anecdote": "Grace a son apparition dans « Blurred Lines », la marque de lingerie Victoria s Secret l a engage en tant que mannequin."
+        "anecdote": "Grace a son apparition dans \"Blurred Lines\", la marque de lingerie Victoria s Secret l a engage en tant que mannequin."
       }
     ]
     }

@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Qui Ian Somerhalder a-t-il a nouveau rencontre lors d un dîner avec sa femme en fevrier 2017 ?",
+        "question": "Qui Ian Somerhalder a-t-il a nouveau rencontre lors d un diner avec sa femme en fevrier 2017 ?",
         "propositions": [
           "Nina Dobrev",
           "Katerina Graham",
@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "question": "Quelle chanteuse s est opposee a la marque « Kylie » deposee par Kylie Jenner ?",
+        "question": "Quelle chanteuse s est opposee a la marque \"Kylie\" deposee par Kylie Jenner ?",
         "propositions": [
           "Tina Arena",
           "Norah Jones",
@@ -69,11 +69,11 @@
         "propositions": [
           "Sophie Davant",
           "Valerie Maurice",
-          "Évelyne Dheliat",
+          "Evelyne Dheliat",
           "Catherine Laborde"
         ],
         "reponse": "Catherine Laborde",
-        "anecdote": "L annonce de son depart est revelee « avec surprise » a la fin du journal televise de 20h de TF1, le 1er janvier 2017."
+        "anecdote": "L annonce de son depart est revelee \"avec surprise\" a la fin du journal televise de 20h de TF1, le 1er janvier 2017."
       },
       {
         "id": 4,
@@ -121,7 +121,7 @@
           "Christophe Mae"
         ],
         "reponse": "M. Pokora",
-        "anecdote": "Comme Michaal Youn en Namibie, le chanteur a depasse ses limites aux côtes de l aventurier Mike Horn dans « À l etat sauvage »."
+        "anecdote": "Comme Michaal Youn en Namibie, le chanteur a depasse ses limites aux cotes de l aventurier Mike Horn dans \"A l etat sauvage\"."
       },
       {
         "id": 8,
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "Quel candidat des « 12 Coups de midi » a remporte 809.392 euros de gain ?",
+        "question": "Quel candidat des \"12 Coups de midi\" a remporte 809.392 euros de gain ?",
         "propositions": [
           "Patrick",
           "Christian",
@@ -145,7 +145,7 @@
           "Michel"
         ],
         "reponse": "Christian",
-        "anecdote": "Le magazine « Society » a realise un portrait du « Professeur » montrant quel adversaire redoutable et redoute Christian etait."
+        "anecdote": "Le magazine \"Society\" a realise un portrait du \"Professeur\" montrant quel adversaire redoutable et redoute Christian etait."
       },
       {
         "id": 10,
@@ -171,7 +171,7 @@
           "Julien Castaldi"
         ],
         "reponse": "Julien Castaldi",
-        "anecdote": "À 20 ans, le fils aîne de Benjamin Castaldi a fait ses premiers pas de chroniqueur dans le « Mad Mag » aux côtes d Ayem."
+        "anecdote": "A 20 ans, le fils aine de Benjamin Castaldi a fait ses premiers pas de chroniqueur dans le \"Mad Mag\" aux cotes d Ayem."
       },
       {
         "id": 12,
@@ -183,11 +183,11 @@
           "Naomie Harris"
         ],
         "reponse": "Lea Seydoux",
-        "anecdote": "Pour « La Vie d Adele », Lea Seydoux est recompensee par le jury du Festival de Cannes 2013 qui lui attribue la Palme d or."
+        "anecdote": "Pour \"La Vie d Adele\", Lea Seydoux est recompensee par le jury du Festival de Cannes 2013 qui lui attribue la Palme d or."
       },
       {
         "id": 13,
-        "question": "Quel chroniqueur de l emission TPMP a fait un court sejour parmi « Les Anges 9 » ?",
+        "question": "Quel chroniqueur de l emission TPMP a fait un court sejour parmi \"Les Anges 9\" ?",
         "propositions": [
           "Jean-Michel Maire",
           "Benjamin Castaldi",
@@ -201,17 +201,17 @@
         "id": 14,
         "question": "Quelle actrice s est presentee seins nus devant les paparazzi aux Magritte du cinema de 2017 ?",
         "propositions": [
-          "Émilie Dequenne",
+          "Emilie Dequenne",
           "Marie Gillain",
           "Salome Richard",
           "Virginie Efira"
         ],
         "reponse": "Salome Richard",
-        "anecdote": "« J ai eu le courage de le faire parce que j etais pres de chez moi, entre amis, parmi les miens », a confie Salome Richard."
+        "anecdote": "\"J ai eu le courage de le faire parce que j etais pres de chez moi, entre amis, parmi les miens\", a confie Salome Richard."
       },
       {
         "id": 15,
-        "question": "À quel age Valdemira Rodrigues de Oliveira a-t-elle epouse son compagnon ?",
+        "question": "A quel age Valdemira Rodrigues de Oliveira a-t-elle epouse son compagnon ?",
         "propositions": [
           "106 ans",
           "86 ans",
@@ -267,7 +267,7 @@
           "Jason Statham"
         ],
         "reponse": "Jason Statham",
-        "anecdote": "En juin 2010, Michael Bay engagera Rosie pour le troisieme volet de la serie « Transformers », produit par Steven Spielberg."
+        "anecdote": "En juin 2010, Michael Bay engagera Rosie pour le troisieme volet de la serie \"Transformers\", produit par Steven Spielberg."
       },
       {
         "id": 20,
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quelle mannequin a pose totalement nue pour les besoins du prestigieux « W Magazine » ?",
+        "question": "Quelle mannequin a pose totalement nue pour les besoins du prestigieux \"W Magazine\" ?",
         "propositions": [
           "Miranda Kerr",
           "Kate Moss",
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Quel « Ken humain » voit sa sante gravement en danger apres sa cinquantieme operation ?",
+        "question": "Quel \"Ken humain\" voit sa sante gravement en danger apres sa cinquantieme operation ?",
         "propositions": [
           "Emilio Esteves",
           "Carlo Vidor",
@@ -341,11 +341,11 @@
           "Jodie Foster"
         ],
         "reponse": "Lena Dunham",
-        "anecdote": "Apres une serie de courts-metrages, elle realise « Tiny Furniture » qui gagne le prix du Jury du festival americain independant."
+        "anecdote": "Apres une serie de courts-metrages, elle realise \"Tiny Furniture\" qui gagne le prix du Jury du festival americain independant."
       },
       {
         "id": 26,
-        "question": "Quelle finaliste de « Top Chef 2012 » a obtenu sa premiere etoile en 2017 ?",
+        "question": "Quelle finaliste de \"Top Chef 2012\" a obtenu sa premiere etoile en 2017 ?",
         "propositions": [
           "Kelly Rangama",
           "Marion Lefebvre",
@@ -353,14 +353,14 @@
           "Naoalle D Hainaut"
         ],
         "reponse": "Fanny Rey",
-        "anecdote": "Fanny Rey a notamment ete seconde en cuisine au restaurant doublement etoile « L Oustau de Baumaniere »."
+        "anecdote": "Fanny Rey a notamment ete seconde en cuisine au restaurant doublement etoile \"L Oustau de Baumaniere\"."
       },
       {
         "id": 27,
         "question": "Qui est devenu en 2017 le nouveau cheri mais egalement l agent de la chanteuse Lady Gaga ?",
         "propositions": [
           "Rob Fusari",
-          "Lüc Carl",
+          "Luc Carl",
           "Christian Carino",
           "Taylor Kinney"
         ],
@@ -377,7 +377,7 @@
           "Maf"
         ],
         "reponse": "Teuf",
-        "anecdote": "Sur NRJ 12, Valerie Damidot anime le jeu « Le Labo de Damidot » et integre « L Academie des neuf », presentee par Benjamin Castaldi."
+        "anecdote": "Sur NRJ 12, Valerie Damidot anime le jeu \"Le Labo de Damidot\" et integre \"L Academie des neuf\", presentee par Benjamin Castaldi."
       },
       {
         "id": 29,
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "À quelle chanteuse a-t-on vole pour plus de 200 000 dollars de bijoux ?",
+        "question": "A quelle chanteuse a-t-on vole pour plus de 200 000 dollars de bijoux ?",
         "propositions": [
           "Rihana",
           "Nicki Minaj",

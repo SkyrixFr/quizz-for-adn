@@ -46,14 +46,14 @@
           "Ufologie",
           "Chimie",
           "Informatique",
-          "Électricite"
+          "Electricite"
         ],
-        "reponse": "Électricite",
+        "reponse": "Electricite",
         "anecdote": "Nikola Tesla a en effet principalement oeuvre dans le domaine de l electricite, mais etait egalement ingenieur mecanique."
       },
       {
         "id": 2,
-        "question": "Avec qui Nikola Tesla a-t-il travaille apres avoir emigre aux États-Unis en 1884 ?",
+        "question": "Avec qui Nikola Tesla a-t-il travaille apres avoir emigre aux Etats-Unis en 1884 ?",
         "propositions": [
           "Thomas Edison",
           "Nela Park",
@@ -149,7 +149,7 @@
       },
       {
         "id": 10,
-        "question": "À qui de nombreuses inventions de Nikola Tesla ont-elles ete attribuees a tort ?",
+        "question": "A qui de nombreuses inventions de Nikola Tesla ont-elles ete attribuees a tort ?",
         "propositions": [
           "Thomas Edison",
           "George Westinghouse",
@@ -237,17 +237,17 @@
         "id": 17,
         "question": "Par quel concept Tesla voulait-il connecter machines et rouages de la nature ?",
         "propositions": [
-          "Énergie elastique",
+          "Energie elastique",
           "Fugacite",
-          "Énergie libre",
-          "Énergie totale"
+          "Energie libre",
+          "Energie totale"
         ],
-        "reponse": "Énergie libre",
-        "anecdote": "« Dans quelques generations nos machines seront animees grace a une energie disponible en tous points de l univers » (1892)."
+        "reponse": "Energie libre",
+        "anecdote": "\"Dans quelques generations nos machines seront animees grace a une energie disponible en tous points de l univers\" (1892)."
       },
       {
         "id": 18,
-        "question": "En quelle annee Tesla s est-il eteint dans sa chambre d hôtel, seul et sans un sou ?",
+        "question": "En quelle annee Tesla s est-il eteint dans sa chambre d hotel, seul et sans un sou ?",
         "propositions": [
           "1943",
           "1933",
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Dans quelle serie tele les inventions de Tesla jouent-elles un rôle important ?",
+        "question": "Dans quelle serie tele les inventions de Tesla jouent-elles un role important ?",
         "propositions": [
           "Z Nation",
           "Andromeda",
@@ -279,13 +279,13 @@
           "Warehouse 13"
         ],
         "reponse": "Warehouse 13",
-        "anecdote": "L arme des agents de l entrepôt 13, un pistolet incapacitant electrique, est nommee d apres Tesla, qui serait son inventeur."
+        "anecdote": "L arme des agents de l entrepot 13, un pistolet incapacitant electrique, est nommee d apres Tesla, qui serait son inventeur."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "À quelle École polytechnique Nikola Tesla est-il entre en 1875 ?",
+        "question": "A quelle Ecole polytechnique Nikola Tesla est-il entre en 1875 ?",
         "propositions": [
           "Wachau",
           "Salzbourg",
@@ -299,7 +299,7 @@
         "id": 22,
         "question": "Par quel physicien autrichien Nikola Tesla fut-il influence en 1880 ?",
         "propositions": [
-          "Jürgen Ehlers",
+          "Jurgen Ehlers",
           "Hendrik Lorentz",
           "Ernst Mach",
           "David Hilbert"
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "À qui Tesla aurait-il vendu les plans de son arme a energie dirigee ?",
+        "question": "A qui Tesla aurait-il vendu les plans de son arme a energie dirigee ?",
         "propositions": [
           "Aux allemands",
           "Aux russes",
@@ -401,7 +401,7 @@
           "Annie Ernaux"
         ],
         "reponse": "Martine Le Coz",
-        "anecdote": "Sa biographie, « L Homme electrique », revenant sur la voie scientifique de l homme et un roman graphique, « La Tour de Wardenclyffe »."
+        "anecdote": "Sa biographie, \"L Homme electrique\", revenant sur la voie scientifique de l homme et un roman graphique, \"La Tour de Wardenclyffe\"."
       }
     ]
     }

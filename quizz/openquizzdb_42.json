@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quel acteur australien a ete sacre « homme le plus sexy de 2014 » par le magazine « People » ?",
+        "question": "Quel acteur australien a ete sacre \"homme le plus sexy de 2014\" par le magazine \"People\" ?",
         "propositions": [
           "Brad Pitt",
           "Chris Hemsworth",
@@ -61,11 +61,11 @@
           "Ses 25 ans"
         ],
         "reponse": "Ses 20 ans",
-        "anecdote": "Gad Elmaleh est devenu la « risee du web » selon « Le Nouvel Observateur » suite a ses spots publicitaires pour la banque LCL."
+        "anecdote": "Gad Elmaleh est devenu la \"risee du web\" selon \"Le Nouvel Observateur\" suite a ses spots publicitaires pour la banque LCL."
       },
       {
         "id": 3,
-        "question": "Qui a remporte la saison 4 de « Danse avec les stars » avec son danseur Gregoire Lyonnet ?",
+        "question": "Qui a remporte la saison 4 de \"Danse avec les stars\" avec son danseur Gregoire Lyonnet ?",
         "propositions": [
           "Alizee",
           "Tal",
@@ -73,7 +73,7 @@
           "Lorie"
         ],
         "reponse": "Alizee",
-        "anecdote": "Apres cette victoire, Alizee sort en juin 2014 un sixieme album intitule « Blonde », realise en collaboration avec Pascal Obispo."
+        "anecdote": "Apres cette victoire, Alizee sort en juin 2014 un sixieme album intitule \"Blonde\", realise en collaboration avec Pascal Obispo."
       },
       {
         "id": 4,
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Quelle star a remplace Louis Bertignac dans « The Voice » a partir de la saison 3 ?",
+        "question": "Quelle star a remplace Louis Bertignac dans \"The Voice\" a partir de la saison 3 ?",
         "propositions": [
           "Jenifer",
           "Mika",
@@ -97,7 +97,7 @@
           "Garou"
         ],
         "reponse": "Mika",
-        "anecdote": "Produite par Shine France, « The Voice » est adaptee de l emission musicale neerlandaise « The Voice of Holland »."
+        "anecdote": "Produite par Shine France, \"The Voice\" est adaptee de l emission musicale neerlandaise \"The Voice of Holland\"."
       },
       {
         "id": 6,
@@ -121,11 +121,11 @@
           "Vitaa"
         ],
         "reponse": "Zaz",
-        "anecdote": "Zaz a ete connue grace a la deuxieme chanson de son premier album, « Zaz », qui a ete publie le 10 mai 2010."
+        "anecdote": "Zaz a ete connue grace a la deuxieme chanson de son premier album, \"Zaz\", qui a ete publie le 10 mai 2010."
       },
       {
         "id": 8,
-        "question": "Quelle vedette de la serie « Glee » a surpris tout le monde en epousant son meilleur ami ?",
+        "question": "Quelle vedette de la serie \"Glee\" a surpris tout le monde en epousant son meilleur ami ?",
         "propositions": [
           "Lea Michele",
           "Jessalyn Gilsig",
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Aux côtes duquel de ses enfants Angelina Jolie a-t-elle pu jouer dans le film « Malefique » ?",
+        "question": "Aux cotes duquel de ses enfants Angelina Jolie a-t-elle pu jouer dans le film \"Malefique\" ?",
         "propositions": [
           "Knox",
           "Vivienne",
@@ -171,7 +171,7 @@
           "Maddox"
         ],
         "reponse": "Vivienne",
-        "anecdote": "Selon le magazine « Forbes », Angelina Jolie fut l actrice la mieux payee d Hollywood entre juin 2012 et juin 2013."
+        "anecdote": "Selon le magazine \"Forbes\", Angelina Jolie fut l actrice la mieux payee d Hollywood entre juin 2012 et juin 2013."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Vogue"
         ],
         "reponse": "Paper",
-        "anecdote": "Kim Kardashian a realise « Kim Kardashian Superstar », une sextape en amateur en 2003 avec le chanteur R n B Ray J."
+        "anecdote": "Kim Kardashian a realise \"Kim Kardashian Superstar\", une sextape en amateur en 2003 avec le chanteur R n B Ray J."
       },
       {
         "id": 13,
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Quelle rappeuse australienne, detrônant Eminem,fut revelation rap de l annee 2014 ?",
+        "question": "Quelle rappeuse australienne, detronant Eminem,fut revelation rap de l annee 2014 ?",
         "propositions": [
           "Amber Liu",
           "Minzy",
@@ -219,7 +219,7 @@
           "Iggy Azalea"
         ],
         "reponse": "Iggy Azalea",
-        "anecdote": "Iggy Azalea a ete influencee par le hip-hop des l age de 11 ans, alors qu elle ecoutait Tupac Shakur et sa chanson « Baby Don t Cry »."
+        "anecdote": "Iggy Azalea a ete influencee par le hip-hop des l age de 11 ans, alors qu elle ecoutait Tupac Shakur et sa chanson \"Baby Don t Cry\"."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Lee Ann Womack"
         ],
         "reponse": "Taylor Swift",
-        "anecdote": "Harry Styles a sorti quatre albums avec les One Direction, qui connaîtront tous un succes commercial important."
+        "anecdote": "Harry Styles a sorti quatre albums avec les One Direction, qui connaitront tous un succes commercial important."
       },
       {
         "id": 17,
@@ -279,7 +279,7 @@
           "Natalia Vodianova"
         ],
         "reponse": "Natalia Vodianova",
-        "anecdote": "Natalia Vodianova est egalement connue pour avoir joue dans le film « Belle du Seigneur » et pour etre la compagne d Antoine Arnault."
+        "anecdote": "Natalia Vodianova est egalement connue pour avoir joue dans le film \"Belle du Seigneur\" et pour etre la compagne d Antoine Arnault."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "2 milliards"
         ],
         "reponse": "8 milliards",
-        "anecdote": "Johnny Depp est devenu celebre dans les annees 1980 grace a son rôle dans la serie televisee « 21 Jump Street »."
+        "anecdote": "Johnny Depp est devenu celebre dans les annees 1980 grace a son role dans la serie televisee \"21 Jump Street\"."
       },
       {
         "id": 22,
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Avec qui s est mariee Leighton Meester, l interprete de Blair dans la serie « Gossip Girl » ?",
+        "question": "Avec qui s est mariee Leighton Meester, l interprete de Blair dans la serie \"Gossip Girl\" ?",
         "propositions": [
           "Adam Brody",
           "Matthew Laborteaux",
@@ -338,7 +338,7 @@
           "Suisse",
           "Italie",
           "France",
-          "États-Unis"
+          "Etats-Unis"
         ],
         "reponse": "Italie",
         "anecdote": "Le couple a adopte des faux jumeaux (un garcon et une fille), Gideon Scott et Harper Grace."
@@ -365,7 +365,7 @@
           "Eva Longoria"
         ],
         "reponse": "Axelle Francine",
-        "anecdote": "Tony Parker a egalement ete marie avec l actrice americaine Eva Longoria, une des vedettes de la serie « Desperate Housewives »."
+        "anecdote": "Tony Parker a egalement ete marie avec l actrice americaine Eva Longoria, une des vedettes de la serie \"Desperate Housewives\"."
       },
       {
         "id": 28,
