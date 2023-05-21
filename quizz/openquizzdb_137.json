@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : fev. 2017",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: febbraio 2017",
       "slogan": "Hanno fatto notizia"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Qui Ian Somerhalder a-t-il à nouveau rencontre lors d'un dîner avec sa femme en fevrier 2017 ?",
+        "question": "Qui Ian Somerhalder a-t-il a nouveau rencontre lors d un dîner avec sa femme en fevrier 2017 ?",
         "propositions": [
           "Nina Dobrev",
           "Katerina Graham",
@@ -49,11 +49,11 @@
           "Candice King"
         ],
         "reponse": "Nina Dobrev",
-        "anecdote": "Les deux acteurs et anciens amants, en froid depuis un certain temps dejà, semblent desormais reconcilies."
+        "anecdote": "Les deux acteurs et anciens amants, en froid depuis un certain temps deja, semblent desormais reconcilies."
       },
       {
         "id": 2,
-        "question": "Quelle chanteuse s'est opposee à la marque « Kylie » deposee par Kylie Jenner ?",
+        "question": "Quelle chanteuse s est opposee a la marque « Kylie » deposee par Kylie Jenner ?",
         "propositions": [
           "Tina Arena",
           "Norah Jones",
@@ -61,7 +61,7 @@
           "Kylie Minogue"
         ],
         "reponse": "Kylie Minogue",
-        "anecdote": "Devenue sex-symbol, Kylie Minogue est aujourd'hui une des celebrites les plus reconnaissables de sa generation."
+        "anecdote": "Devenue sex-symbol, Kylie Minogue est aujourd hui une des celebrites les plus reconnaissables de sa generation."
       },
       {
         "id": 3,
@@ -73,11 +73,11 @@
           "Catherine Laborde"
         ],
         "reponse": "Catherine Laborde",
-        "anecdote": "L'annonce de son depart est revelee « avec surprise » à la fin du journal televise de 20h de TF1, le 1er janvier 2017."
+        "anecdote": "L annonce de son depart est revelee « avec surprise » a la fin du journal televise de 20h de TF1, le 1er janvier 2017."
       },
       {
         "id": 4,
-        "question": "Quel explorateur sud-africain a traverse l'Antarctique en 57 jours sans assistance ?",
+        "question": "Quel explorateur sud-africain a traverse l Antarctique en 57 jours sans assistance ?",
         "propositions": [
           "Bertrand Piccard",
           "Mike Horn",
@@ -85,11 +85,11 @@
           "Robert Gray"
         ],
         "reponse": "Mike Horn",
-        "anecdote": "Le premier contact de Mike Horn avec l'aventure a lieu en 1991 ou il decida d'explorer les Andes peruviennes en raft et parapente."
+        "anecdote": "Le premier contact de Mike Horn avec l aventure a lieu en 1991 ou il decida d explorer les Andes peruviennes en raft et parapente."
       },
       {
         "id": 5,
-        "question": "Quelle ex-compagne de Jean-Paul Belmondo a ete condamnee à neuf mois de prison ?",
+        "question": "Quelle ex-compagne de Jean-Paul Belmondo a ete condamnee a neuf mois de prison ?",
         "propositions": [
           "Salome Richard",
           "Lisa Boyle",
@@ -97,11 +97,11 @@
           "Ruby Rose"
         ],
         "reponse": "Barbara Gandolfi",
-        "anecdote": "Barbara Gandolfi a ete condamnee à neuf mois de prison avec sursis et 5 500 euros d'amende pour avoir escroque Jean-Paul Belmondo."
+        "anecdote": "Barbara Gandolfi a ete condamnee a neuf mois de prison avec sursis et 5 500 euros d amende pour avoir escroque Jean-Paul Belmondo."
       },
       {
         "id": 6,
-        "question": "Quelle star mondiale a signe son grand retour à la mi-temps du Super Bowl 2017 ?",
+        "question": "Quelle star mondiale a signe son grand retour a la mi-temps du Super Bowl 2017 ?",
         "propositions": [
           "Beyonce",
           "Rihana",
@@ -113,7 +113,7 @@
       },
       {
         "id": 7,
-        "question": "Quel chanteur a suivi pour M6 l'aventurier Mike Horn dans la jungle du Sri Lanka ?",
+        "question": "Quel chanteur a suivi pour M6 l aventurier Mike Horn dans la jungle du Sri Lanka ?",
         "propositions": [
           "Julien Dore",
           "M. Pokora",
@@ -121,11 +121,11 @@
           "Christophe Mae"
         ],
         "reponse": "M. Pokora",
-        "anecdote": "Comme Michaal Youn en Namibie, le chanteur a depasse ses limites aux côtes de l'aventurier Mike Horn dans « À l'etat sauvage »."
+        "anecdote": "Comme Michaal Youn en Namibie, le chanteur a depasse ses limites aux côtes de l aventurier Mike Horn dans « À l etat sauvage »."
       },
       {
         "id": 8,
-        "question": "Quel candidat à la presidentielle 2017 a utilise un hologramme, à la surprise de tous ?",
+        "question": "Quel candidat a la presidentielle 2017 a utilise un hologramme, a la surprise de tous ?",
         "propositions": [
           "Francois Bayrou",
           "Philippe Poutou",
@@ -133,7 +133,7 @@
           "Nicolas Sarkozy"
         ],
         "reponse": "Jean-Luc Melenchon",
-        "anecdote": "Le candidat de la France insoumise à la presidentielle a tenu deux meetings simultanes le dimanche 5 fevrier 2017."
+        "anecdote": "Le candidat de la France insoumise a la presidentielle a tenu deux meetings simultanes le dimanche 5 fevrier 2017."
       },
       {
         "id": 9,
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Qui a fait ses debuts à la presentation du Mad Mag sur NRJ12 en fevrier 2017 ?",
+        "question": "Qui a fait ses debuts a la presentation du Mad Mag sur NRJ12 en fevrier 2017 ?",
         "propositions": [
           "Caroline Receveur",
           "Jeny Priez",
@@ -171,7 +171,7 @@
           "Julien Castaldi"
         ],
         "reponse": "Julien Castaldi",
-        "anecdote": "À 20 ans, le fils aîne de Benjamin Castaldi a fait ses premiers pas de chroniqueur dans le « Mad Mag » aux côtes d'Ayem."
+        "anecdote": "À 20 ans, le fils aîne de Benjamin Castaldi a fait ses premiers pas de chroniqueur dans le « Mad Mag » aux côtes d Ayem."
       },
       {
         "id": 12,
@@ -183,11 +183,11 @@
           "Naomie Harris"
         ],
         "reponse": "Lea Seydoux",
-        "anecdote": "Pour « La Vie d'Adele », Lea Seydoux est recompensee par le jury du Festival de Cannes 2013 qui lui attribue la Palme d'or."
+        "anecdote": "Pour « La Vie d Adele », Lea Seydoux est recompensee par le jury du Festival de Cannes 2013 qui lui attribue la Palme d or."
       },
       {
         "id": 13,
-        "question": "Quel chroniqueur de l'emission TPMP a fait un court sejour parmi « Les Anges 9 » ?",
+        "question": "Quel chroniqueur de l emission TPMP a fait un court sejour parmi « Les Anges 9 » ?",
         "propositions": [
           "Jean-Michel Maire",
           "Benjamin Castaldi",
@@ -199,7 +199,7 @@
       },
       {
         "id": 14,
-        "question": "Quelle actrice s'est presentee seins nus devant les paparazzi aux Magritte du cinema de 2017 ?",
+        "question": "Quelle actrice s est presentee seins nus devant les paparazzi aux Magritte du cinema de 2017 ?",
         "propositions": [
           "Émilie Dequenne",
           "Marie Gillain",
@@ -207,7 +207,7 @@
           "Virginie Efira"
         ],
         "reponse": "Salome Richard",
-        "anecdote": "« J'ai eu le courage de le faire parce que j'etais pres de chez moi, entre amis, parmi les miens », a confie Salome Richard."
+        "anecdote": "« J ai eu le courage de le faire parce que j etais pres de chez moi, entre amis, parmi les miens », a confie Salome Richard."
       },
       {
         "id": 15,
@@ -219,7 +219,7 @@
           "96 ans"
         ],
         "reponse": "106 ans",
-        "anecdote": "La jeune mariee, agee de 106 ans, a fait craquer un petit jeune de 66 printemps : 40 ans de difference d'age tout de meme!"
+        "anecdote": "La jeune mariee, agee de 106 ans, a fait craquer un petit jeune de 66 printemps : 40 ans de difference d age tout de meme!"
       },
       {
         "id": 16,
@@ -231,11 +231,11 @@
           "Karlie Kloss"
         ],
         "reponse": "Gigi Hadid",
-        "anecdote": "D'origine neerlando-palestinienne, Gigi Hadid a debute dans le mannequinat avec une campagne pour Guess enfants."
+        "anecdote": "D origine neerlando-palestinienne, Gigi Hadid a debute dans le mannequinat avec une campagne pour Guess enfants."
       },
       {
         "id": 17,
-        "question": "Quel top-model australien s'est fiance avec un des fondateurs de Snapchat ?",
+        "question": "Quel top-model australien s est fiance avec un des fondateurs de Snapchat ?",
         "propositions": [
           "Gemma Ward",
           "Ruby Rose",
@@ -243,7 +243,7 @@
           "Elle Macpherson"
         ],
         "reponse": "Miranda Kerr",
-        "anecdote": "En juillet 2010, Miranda Kerr se maria à l'acteur britannique Orlando Bloom avec qui elle partageait sa vie depuis 2007."
+        "anecdote": "En juillet 2010, Miranda Kerr se maria a l acteur britannique Orlando Bloom avec qui elle partageait sa vie depuis 2007."
       },
       {
         "id": 18,
@@ -255,7 +255,7 @@
           "Une culotte"
         ],
         "reponse": "Un bracelet",
-        "anecdote": "Iris Mittenaere est la premiere Francaise à etre elue Miss Univers depuis l'election de Christiane Martel en 1953."
+        "anecdote": "Iris Mittenaere est la premiere Francaise a etre elue Miss Univers depuis l election de Christiane Martel en 1953."
       },
       {
         "id": 19,
@@ -276,7 +276,7 @@
           "Big Sean",
           "Eminem",
           "P. Diddy",
-          "Cam'ron"
+          "Cam ron"
         ],
         "reponse": "P. Diddy",
         "anecdote": "Sur Instagram, P. Diddy a laisse eclater sa joie apres le succes de sa derniere operation du genou en fevrier 2017."
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Quelle comedienne francaise a ete placee en garde à vue en 2017 pour delit de fuite ?",
+        "question": "Quelle comedienne francaise a ete placee en garde a vue en 2017 pour delit de fuite ?",
         "propositions": [
           "Marion Cotillard",
           "Valerie Lemercier",
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "Quel ancien Bleu de l'equipe de France de football a declare etre atteint de paludisme ?",
+        "question": "Quel ancien Bleu de l equipe de France de football a declare etre atteint de paludisme ?",
         "propositions": [
           "Bixente Lizarazu",
           "Emmanuel Petit",
@@ -329,7 +329,7 @@
           "Alessandro Batilda"
         ],
         "reponse": "Rodrigo Alves",
-        "anecdote": "Accro au bistouri depuis dix ans, Rodrigo Alves avait pourtant promis de s'arreter apres sa 47e operation de chirurgie esthetique."
+        "anecdote": "Accro au bistouri depuis dix ans, Rodrigo Alves avait pourtant promis de s arreter apres sa 47e operation de chirurgie esthetique."
       },
       {
         "id": 25,
@@ -350,14 +350,14 @@
           "Kelly Rangama",
           "Marion Lefebvre",
           "Fanny Rey",
-          "Naoalle D'Hainaut"
+          "Naoalle D Hainaut"
         ],
         "reponse": "Fanny Rey",
-        "anecdote": "Fanny Rey a notamment ete seconde en cuisine au restaurant doublement etoile « L'Oustau de Baumaniere »."
+        "anecdote": "Fanny Rey a notamment ete seconde en cuisine au restaurant doublement etoile « L Oustau de Baumaniere »."
       },
       {
         "id": 27,
-        "question": "Qui est devenu en 2017 le nouveau cheri mais egalement l'agent de la chanteuse Lady Gaga ?",
+        "question": "Qui est devenu en 2017 le nouveau cheri mais egalement l agent de la chanteuse Lady Gaga ?",
         "propositions": [
           "Rob Fusari",
           "Lüc Carl",
@@ -365,7 +365,7 @@
           "Taylor Kinney"
         ],
         "reponse": "Christian Carino",
-        "anecdote": "Lady Gaga est reconnue pour ses excentricites flamboyantes qu'elle transmet à l'industrie de la musique à travers sa mode."
+        "anecdote": "Lady Gaga est reconnue pour ses excentricites flamboyantes qu elle transmet a l industrie de la musique a travers sa mode."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Maf"
         ],
         "reponse": "Teuf",
-        "anecdote": "Sur NRJ 12, Valerie Damidot anime le jeu « Le Labo de Damidot » et integre « L'Academie des neuf », presentee par Benjamin Castaldi."
+        "anecdote": "Sur NRJ 12, Valerie Damidot anime le jeu « Le Labo de Damidot » et integre « L Academie des neuf », presentee par Benjamin Castaldi."
       },
       {
         "id": 29,
@@ -401,7 +401,7 @@
           "Lady Gaga"
         ],
         "reponse": "Nicki Minaj",
-        "anecdote": "Alors qu'elle n'etait pas chez elle, Nicki Minaj s'est fait cambrioler : à son retour, la star a retrouve sa maison devastee."
+        "anecdote": "Alors qu elle n etait pas chez elle, Nicki Minaj s est fait cambrioler : a son retour, la star a retrouve sa maison devastee."
       }
     ]
     }

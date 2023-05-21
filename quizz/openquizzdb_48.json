@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Animaux",
@@ -23,7 +23,7 @@
     "it": {
       "categorie": "Animali",
       "nom": "Formiche",
-      "slogan": "Insetti dalle affascinanti particolarità"
+      "slogan": "Insetti dalle affascinanti particolarita"
     },
     "de": {
       "categorie": "Tiere",
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "De quelle espece animale font partie les fourmis, de l'ordre des hymenopteres ?",
+        "question": "De quelle espece animale font partie les fourmis, de l ordre des hymenopteres ?",
         "propositions": [
           "Insectes",
           "Poissons",
@@ -49,7 +49,7 @@
           "Mammiferes"
         ],
         "reponse": "Insectes",
-        "anecdote": "Certaines especes de fourmis forment des supercolonies à plusieurs centaines de millions d'individus et à plus de 50 colonies."
+        "anecdote": "Certaines especes de fourmis forment des supercolonies a plusieurs centaines de millions d individus et a plus de 50 colonies."
       },
       {
         "id": 2,
@@ -61,11 +61,11 @@
           "Niche"
         ],
         "reponse": "Fourmiliere",
-        "anecdote": "La fourmiliere a pour but de proteger la ou les reines et de garantir à la colonie une securite et un abri face aux intemperies."
+        "anecdote": "La fourmiliere a pour but de proteger la ou les reines et de garantir a la colonie une securite et un abri face aux intemperies."
       },
       {
         "id": 3,
-        "question": "Dans quel film d'animation, sorti des studios Pixar, Tilt est-il un ouvrier fourmi ?",
+        "question": "Dans quel film d animation, sorti des studios Pixar, Tilt est-il un ouvrier fourmi ?",
         "propositions": [
           "Ratatouille",
           "Toy Story",
@@ -73,7 +73,7 @@
           "1001 pattes"
         ],
         "reponse": "1001 pattes",
-        "anecdote": "Woody, le cow-boy heros du film d'animation « Toy Story », est apparu dans le betisier du generique de fin."
+        "anecdote": "Woody, le cow-boy heros du film d animation « Toy Story », est apparu dans le betisier du generique de fin."
       },
       {
         "id": 4,
@@ -89,21 +89,21 @@
       },
       {
         "id": 5,
-        "question": "Avec l'Antarctique, quelle region du monde n'est pas colonisee par les fourmis ?",
+        "question": "Avec l Antarctique, quelle region du monde n est pas colonisee par les fourmis ?",
         "propositions": [
-          "L'Afrique du Sud",
+          "L Afrique du Sud",
           "La Russie",
           "Le Groenland",
           "Le Japon"
         ],
         "reponse": "Le Groenland",
-        "anecdote": "En 2013, plus de 12 000 especes ont ete repertoriees, mais il en reste probablement des milliers encore à decouvrir."
+        "anecdote": "En 2013, plus de 12 000 especes ont ete repertoriees, mais il en reste probablement des milliers encore a decouvrir."
       },
       {
         "id": 6,
-        "question": "Au sein d'une colonie de fourmis, qui pond les oeufs dans la fourmiliere ?",
+        "question": "Au sein d une colonie de fourmis, qui pond les oeufs dans la fourmiliere ?",
         "propositions": [
-          "L'ouvriere",
+          "L ouvriere",
           "La tisserande",
           "La reine",
           "La guerriere"
@@ -121,7 +121,7 @@
           "Leur abdomen"
         ],
         "reponse": "Leurs antennes",
-        "anecdote": "Les fourmis peuvent aussi detecter à quel groupe de travail (par exemple la recherche de nourriture) l'une ou l'autre appartient."
+        "anecdote": "Les fourmis peuvent aussi detecter a quel groupe de travail (par exemple la recherche de nourriture) l une ou l autre appartient."
       },
       {
         "id": 8,
@@ -145,7 +145,7 @@
           "Le miel"
         ],
         "reponse": "Le vinaigre",
-        "anecdote": "Certaines odeurs fortes ont une action repulsive sur les fourmis, comme c'est notamment le cas du jus de citron et du vinaigre."
+        "anecdote": "Certaines odeurs fortes ont une action repulsive sur les fourmis, comme c est notamment le cas du jus de citron et du vinaigre."
       },
       {
         "id": 10,
@@ -157,13 +157,13 @@
           "Chicken Run"
         ],
         "reponse": "Fourmiz",
-        "anecdote": "Seulement un mois apres la sortie du film fut propose le film d'animation « 1001 pattes » du « concurrent historique » Pixar."
+        "anecdote": "Seulement un mois apres la sortie du film fut propose le film d animation « 1001 pattes » du « concurrent historique » Pixar."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Quel ecrivain francais ne à Toulouse a publie une celebre trilogie sur les fourmis ?",
+        "question": "Quel ecrivain francais ne a Toulouse a publie une celebre trilogie sur les fourmis ?",
         "propositions": [
           "Bernard Werber",
           "Robert Merle",
@@ -183,7 +183,7 @@
           "Supercolonie"
         ],
         "reponse": "Supercolonie",
-        "anecdote": "Les ouvrieres s'y deplacent librement de nids en nids, comme si la population entiere etait une unique colonie."
+        "anecdote": "Les ouvrieres s y deplacent librement de nids en nids, comme si la population entiere etait une unique colonie."
       },
       {
         "id": 13,
@@ -195,11 +195,11 @@
           "Ouvrieres"
         ],
         "reponse": "Ouvrieres",
-        "anecdote": "Les differences morphologiques majeures entre les castes d'ouvrieres sont induites par le regime alimentaire au stade larvaire."
+        "anecdote": "Les differences morphologiques majeures entre les castes d ouvrieres sont induites par le regime alimentaire au stade larvaire."
       },
       {
         "id": 14,
-        "question": "Quel sexe aura obligatoirement une fourmi si son oeuf a la chance d'etre feconde ?",
+        "question": "Quel sexe aura obligatoirement une fourmi si son oeuf a la chance d etre feconde ?",
         "propositions": [
           "Male ou femelle",
           "Femelle",
@@ -207,7 +207,7 @@
           "On ne sait pas"
         ],
         "reponse": "Femelle",
-        "anecdote": "Si l'oeuf est feconde, l'individu est alors diploïde et l'oeuf donnera une femelle : s'il ne l'est pas, l'individu est haploïde et forme un male."
+        "anecdote": "Si l oeuf est feconde, l individu est alors diploïde et l oeuf donnera une femelle : s il ne l est pas, l individu est haploïde et forme un male."
       },
       {
         "id": 15,
@@ -219,11 +219,11 @@
           "Charpentieres"
         ],
         "reponse": "Charpentieres",
-        "anecdote": "Les ouvrieres varient en taille et certaines d'entre elles comptent parmi les plus grandes especes d'Europe."
+        "anecdote": "Les ouvrieres varient en taille et certaines d entre elles comptent parmi les plus grandes especes d Europe."
       },
       {
         "id": 16,
-        "question": "Comment sont parfois appelees les ouvrieres geantes au sein d'une colonie de fourmis ?",
+        "question": "Comment sont parfois appelees les ouvrieres geantes au sein d une colonie de fourmis ?",
         "propositions": [
           "Soldats",
           "Pondeuses",
@@ -235,7 +235,7 @@
       },
       {
         "id": 17,
-        "question": "Quelles fourmis à l'abdomen gonfle deviennent des mets delicieux en Australie ?",
+        "question": "Quelles fourmis a l abdomen gonfle deviennent des mets delicieux en Australie ?",
         "propositions": [
           "Moissonneuses",
           "Pot-de-miel",
@@ -255,11 +255,11 @@
           "Les neurotoxiques"
         ],
         "reponse": "Les pheromones",
-        "anecdote": "Les pheromones agissent comme des messagers et jouent notamment un rôle dans l'attraction sexuelle."
+        "anecdote": "Les pheromones agissent comme des messagers et jouent notamment un rôle dans l attraction sexuelle."
       },
       {
         "id": 19,
-        "question": "Quelles fourmis sont chargees d'eliminer les cadavres du nid ?",
+        "question": "Quelles fourmis sont chargees d eliminer les cadavres du nid ?",
         "propositions": [
           "Les guerrieres",
           "Les ouvrieres",
@@ -279,13 +279,13 @@
           "Le ragondin"
         ],
         "reponse": "Le tamanoir",
-        "anecdote": "Le tamanoir est surtout terrestre, contrairement à d'autres fourmiliers ou paresseux, qui sont arboricoles ou semi-arboricole."
+        "anecdote": "Le tamanoir est surtout terrestre, contrairement a d autres fourmiliers ou paresseux, qui sont arboricoles ou semi-arboricole."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Environ combien d'especes de fourmis ont ete repertoriees en 2013 ?",
+        "question": "Environ combien d especes de fourmis ont ete repertoriees en 2013 ?",
         "propositions": [
           "8 400",
           "10 500",
@@ -293,7 +293,7 @@
           "6 700"
         ],
         "reponse": "12 600",
-        "anecdote": "Bien que les fourmis representent moins d'un pour cent des especes d'insectes, leur masse totale excede le poids de l'humanite."
+        "anecdote": "Bien que les fourmis representent moins d un pour cent des especes d insectes, leur masse totale excede le poids de l humanite."
       },
       {
         "id": 22,
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "Environ combien d'especes de fourmis sont connues en Europe ?",
+        "question": "Environ combien d especes de fourmis sont connues en Europe ?",
         "propositions": [
           "40 000",
           "400",
@@ -317,11 +317,11 @@
           "4 000"
         ],
         "reponse": "400",
-        "anecdote": "En foret tropicale en Malaisie, on peut compter jusqu'à 40 especes differentes sur un seul metre carre."
+        "anecdote": "En foret tropicale en Malaisie, on peut compter jusqu a 40 especes differentes sur un seul metre carre."
       },
       {
         "id": 24,
-        "question": "La piqûre repetee de quelle fourmi peut etre mortelle pour l'homme ?",
+        "question": "La piqûre repetee de quelle fourmi peut etre mortelle pour l homme ?",
         "propositions": [
           "Taïpan",
           "Tigre",
@@ -329,11 +329,11 @@
           "Bulldog"
         ],
         "reponse": "Bulldog",
-        "anecdote": "Meme si les attaques sur l'etre humain sont plutôt rares, les piqûres peuvent etre mortelles en raison d'un possible choc anaphylactique."
+        "anecdote": "Meme si les attaques sur l etre humain sont plutôt rares, les piqûres peuvent etre mortelles en raison d un possible choc anaphylactique."
       },
       {
         "id": 25,
-        "question": "Jusqu'à quelle profondeur a-t-on retrouve des fourmis en Asie du Sud-Est ?",
+        "question": "Jusqu a quelle profondeur a-t-on retrouve des fourmis en Asie du Sud-Est ?",
         "propositions": [
           "10 km",
           "22 km",
@@ -341,7 +341,7 @@
           "14 km"
         ],
         "reponse": "22 km",
-        "anecdote": "Les fourmis se sont adaptees à presque tous les milieux terrestres et souterrains mais pas aux milieux aquatiques et aux zones polaires."
+        "anecdote": "Les fourmis se sont adaptees a presque tous les milieux terrestres et souterrains mais pas aux milieux aquatiques et aux zones polaires."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "28 ans"
         ],
         "reponse": "28 ans",
-        "anecdote": "Les males ont une vie tres breve et, ne sachant pas s'alimenter seuls, ils meurent des qu'ils se sont reproduits."
+        "anecdote": "Les males ont une vie tres breve et, ne sachant pas s alimenter seuls, ils meurent des qu ils se sont reproduits."
       },
       {
         "id": 27,
@@ -377,11 +377,11 @@
           "Deformations"
         ],
         "reponse": "Stridulations",
-        "anecdote": "La stridulation permet d'emettre une large gamme de signaux sonores (selection sexuelle, territorialite, etc...)."
+        "anecdote": "La stridulation permet d emettre une large gamme de signaux sonores (selection sexuelle, territorialite, etc...)."
       },
       {
         "id": 29,
-        "question": "À combien de milliards d'individus estime-t-on le nombre de fourmis sur Terre ?",
+        "question": "À combien de milliards d individus estime-t-on le nombre de fourmis sur Terre ?",
         "propositions": [
           "7 millions",
           "4 millions",
@@ -389,11 +389,11 @@
           "1 million"
         ],
         "reponse": "10 millions",
-        "anecdote": "Les fourmis representeraient 1 à 2 % du nombre d'especes d'insectes, mais constitueraient pres de 20 % de leur biomasse."
+        "anecdote": "Les fourmis representeraient 1 a 2 % du nombre d especes d insectes, mais constitueraient pres de 20 % de leur biomasse."
       },
       {
         "id": 30,
-        "question": "Quel mammifere insectivore recouvert d'ecailles est un predateur pour les fourmis ?",
+        "question": "Quel mammifere insectivore recouvert d ecailles est un predateur pour les fourmis ?",
         "propositions": [
           "Ragondin",
           "Pangolin",
@@ -401,7 +401,7 @@
           "Saphir"
         ],
         "reponse": "Pangolin",
-        "anecdote": "Les pangolins peuplent les forets et les savanes des regions tropicales et equatoriales d'Afrique et d'Asie du Sud-Est."
+        "anecdote": "Les pangolins peuplent les forets et les savanes des regions tropicales et equatoriales d Afrique et d Asie du Sud-Est."
       }
     ]
     }

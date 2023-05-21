@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : sept. 2015",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: settembre 2015",
       "slogan": "Hanno fatto notizia"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quel acteur americain a vendu en 2015 sa villa d'Hollywood plus de 10 millions d'euros ?",
+        "question": "Quel acteur americain a vendu en 2015 sa villa d Hollywood plus de 10 millions d euros ?",
         "propositions": [
           "Hugh Jackman",
           "Pierce Brosnan",
@@ -49,7 +49,7 @@
           "Tom Cruise"
         ],
         "reponse": "Tom Cruise",
-        "anecdote": "Selon le magazine Forbes, Tom Cruise etait en 2012 l'acteur le mieux paye d'Hollywood."
+        "anecdote": "Selon le magazine Forbes, Tom Cruise etait en 2012 l acteur le mieux paye d Hollywood."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Cathy Andrieu"
         ],
         "reponse": "Adeline Blondieau",
-        "anecdote": "Adeline Blondieau s'est mariee avec Johnny à Ramatuelle en 1990 puis à Las Vegas en 1994."
+        "anecdote": "Adeline Blondieau s est mariee avec Johnny a Ramatuelle en 1990 puis a Las Vegas en 1994."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Julie Taton"
         ],
         "reponse": "Maïtena Biraben",
-        "anecdote": "Amatrice de rugby, Maïtena Biraben publie des chroniques dans l'hebdomadaire sportif « Rugby Hebdo »."
+        "anecdote": "Amatrice de rugby, Maïtena Biraben publie des chroniques dans l hebdomadaire sportif « Rugby Hebdo »."
       },
       {
         "id": 4,
@@ -85,11 +85,11 @@
           "Christine Boutin"
         ],
         "reponse": "Nadine Morano",
-        "anecdote": "Nicolas Sarkozy demandera le retrait de l'investiture aux elections regionales de Nadine Morano."
+        "anecdote": "Nicolas Sarkozy demandera le retrait de l investiture aux elections regionales de Nadine Morano."
       },
       {
         "id": 5,
-        "question": "Quel humoriste a declare « ne jamais avoir cesse de penser à Sophie Daumier » ?",
+        "question": "Quel humoriste a declare « ne jamais avoir cesse de penser a Sophie Daumier » ?",
         "propositions": [
           "Patrick Timsit",
           "Guy Bedos",
@@ -97,11 +97,11 @@
           "Regis Laspales"
         ],
         "reponse": "Guy Bedos",
-        "anecdote": "Sophie Daumier, comedienne francaise, est decedee en 2003 à Paris de la maladie de Huntington."
+        "anecdote": "Sophie Daumier, comedienne francaise, est decedee en 2003 a Paris de la maladie de Huntington."
       },
       {
         "id": 6,
-        "question": "Quel chanteur belge se marie avec lui-meme à Los Angeles dans un clip pour les États-Unis ?",
+        "question": "Quel chanteur belge se marie avec lui-meme a Los Angeles dans un clip pour les États-Unis ?",
         "propositions": [
           "Marc Morgan",
           "Jeff Bodart",
@@ -109,7 +109,7 @@
           "Stromae"
         ],
         "reponse": "Stromae",
-        "anecdote": "Paul Van Haver, dit Stromae, s'est fait connaître en 2009 avec la chanson « Alors on danse »."
+        "anecdote": "Paul Van Haver, dit Stromae, s est fait connaître en 2009 avec la chanson « Alors on danse »."
       },
       {
         "id": 7,
@@ -133,11 +133,11 @@
           "Philippe Etchebest"
         ],
         "reponse": "Philippe Etchebest",
-        "anecdote": "Philippe Etchebest n'a aucun lien familial avec le cuisinier et animateur Christian Etchebest."
+        "anecdote": "Philippe Etchebest n a aucun lien familial avec le cuisinier et animateur Christian Etchebest."
       },
       {
         "id": 9,
-        "question": "Qui etait en 2015 l'americain le plus riche avec une fortune de 76 milliards de dollars ?",
+        "question": "Qui etait en 2015 l americain le plus riche avec une fortune de 76 milliards de dollars ?",
         "propositions": [
           "Mark Zuckerberg",
           "David Filo",
@@ -145,11 +145,11 @@
           "Steve Jobs"
         ],
         "reponse": "Bill Gates",
-        "anecdote": "C'est en 1975 Que Bill Gates fonda avec Paul Allen la societe de logiciels Micro-Soft."
+        "anecdote": "C est en 1975 Que Bill Gates fonda avec Paul Allen la societe de logiciels Micro-Soft."
       },
       {
         "id": 10,
-        "question": "Quelle star de « Homeland » possede desormais son etoile à Hollywood depuis 2015 ?",
+        "question": "Quelle star de « Homeland » possede desormais son etoile a Hollywood depuis 2015 ?",
         "propositions": [
           "Nazanin Boniadi",
           "Claire Danes",
@@ -157,7 +157,7 @@
           "Morgan Saylor"
         ],
         "reponse": "Claire Danes",
-        "anecdote": "Claire Danes est mariee à l'acteur Hugh Dancy et maman d'un petit Cyrus Michael Christopher Dancy."
+        "anecdote": "Claire Danes est mariee a l acteur Hugh Dancy et maman d un petit Cyrus Michael Christopher Dancy."
       }
     ],
     "confirme": [
@@ -171,11 +171,11 @@
           "Alexa Chung"
         ],
         "reponse": "Naomi Campbell",
-        "anecdote": "Seins nus, le top de 45 ans a pris la pose devant l'objectif de Luigi et Iango."
+        "anecdote": "Seins nus, le top de 45 ans a pris la pose devant l objectif de Luigi et Iango."
       },
       {
         "id": 12,
-        "question": "Qui s'est degote une luxueuse garconniere, en plein divorce avec Gwen Stefani ?",
+        "question": "Qui s est degote une luxueuse garconniere, en plein divorce avec Gwen Stefani ?",
         "propositions": [
           "Darren Boyd",
           "David Herbert",
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quelle bimbo a declare : « J'ai dejà secouru quelques hommes dans la douche » ?",
+        "question": "Quelle bimbo a declare : « J ai deja secouru quelques hommes dans la douche » ?",
         "propositions": [
           "Claire Sinclair ",
           "Katie Vernola",
@@ -195,7 +195,7 @@
           "Pamela Anderson"
         ],
         "reponse": "Pamela Anderson",
-        "anecdote": "Elle fut aussi connue sous le nom de Pamela Anderson Lee à la suite de son mariage avec Tommy Lee."
+        "anecdote": "Elle fut aussi connue sous le nom de Pamela Anderson Lee a la suite de son mariage avec Tommy Lee."
       },
       {
         "id": 14,
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Qui a ete elue « femme de l'annee 2015 » par la magazine americain « Billboard » ?",
+        "question": "Qui a ete elue « femme de l annee 2015 » par la magazine americain « Billboard » ?",
         "propositions": [
           "Gwen Stefani",
           "Amanda Seyfried",
@@ -255,7 +255,7 @@
           "Audrey Lamy"
         ],
         "reponse": "Axelle Laffont",
-        "anecdote": "Axelle est la petite-fille de l'editeur Robert Laffont et la fille de Patrice Laffont, animateur de television."
+        "anecdote": "Axelle est la petite-fille de l editeur Robert Laffont et la fille de Patrice Laffont, animateur de television."
       },
       {
         "id": 19,
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Quelle ex petite-amie de Jim Carrey, solaire et petillante, s'est suicidee en septembre 2015 ?",
+        "question": "Quelle ex petite-amie de Jim Carrey, solaire et petillante, s est suicidee en septembre 2015 ?",
         "propositions": [
           "Samantha Martial",
           "Charlotte Pirroni",
@@ -293,11 +293,11 @@
           "Cathriona White"
         ],
         "reponse": "Cathriona White",
-        "anecdote": "Cathriona White aurait twitte : « e quitte Twitter. J'espere avoir ete une lumiere pour mes proches. »."
+        "anecdote": "Cathriona White aurait twitte : « e quitte Twitter. J espere avoir ete une lumiere pour mes proches. »."
       },
       {
         "id": 22,
-        "question": "Quel plongeur britannique s'est marie deux ans apres son coming out ?",
+        "question": "Quel plongeur britannique s est marie deux ans apres son coming out ?",
         "propositions": [
           "Brian Phelps",
           "Chris Mears",
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Qui a rompu avec Justin Long laissant le coeur de l'acteur « en mille morceaux » ?",
+        "question": "Qui a rompu avec Justin Long laissant le coeur de l acteur « en mille morceaux » ?",
         "propositions": [
           "Laurie Holden",
           "Elisabeth Moss",
@@ -329,7 +329,7 @@
           "Eva Longoria"
         ],
         "reponse": "Amanda Seyfried",
-        "anecdote": "Amanda Seyfried declare souffrir de troubles anxieux et d'attaques de panique."
+        "anecdote": "Amanda Seyfried declare souffrir de troubles anxieux et d attaques de panique."
       },
       {
         "id": 25,
@@ -341,11 +341,11 @@
           "Bobby V"
         ],
         "reponse": "Chris Brown",
-        "anecdote": "La chaîne YouTube de Chris Brown est l'une des plus regardees dans le monde."
+        "anecdote": "La chaîne YouTube de Chris Brown est l une des plus regardees dans le monde."
       },
       {
         "id": 26,
-        "question": "Quel acteur americain s'est fait ordonner pretre en septembre 2015 ?",
+        "question": "Quel acteur americain s est fait ordonner pretre en septembre 2015 ?",
         "propositions": [
           "Nicolas Cage",
           "Tom Hanks",
@@ -365,7 +365,7 @@
           "Kyra Milan"
         ],
         "reponse": "Ana Cheri",
-        "anecdote": "Tres en vogue, Ana Cheri a monte un veritable empire grace à YouTube et aux reseaux sociaux."
+        "anecdote": "Tres en vogue, Ana Cheri a monte un veritable empire grace a YouTube et aux reseaux sociaux."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Sarah Stage"
         ],
         "reponse": "Kanya Sesser",
-        "anecdote": "Kanya Sesser a ete retrouvee abandonnee sur les marches d'un temple bouddhiste en Thaïlande."
+        "anecdote": "Kanya Sesser a ete retrouvee abandonnee sur les marches d un temple bouddhiste en Thaïlande."
       },
       {
         "id": 29,
@@ -389,11 +389,11 @@
           "Mary Juanna"
         ],
         "reponse": "Merryjane",
-        "anecdote": "Fumeur de marijuana compulsif, il s'est egalement surnomme « Snoop Lion » en 2012."
+        "anecdote": "Fumeur de marijuana compulsif, il s est egalement surnomme « Snoop Lion » en 2012."
       },
       {
         "id": 30,
-        "question": "La fille de quel grand chanteur s'est devoile à 24 ans en lingerie pour le magazine « GQ » ?",
+        "question": "La fille de quel grand chanteur s est devoile a 24 ans en lingerie pour le magazine « GQ » ?",
         "propositions": [
           "Kurt Cobain",
           "Bono",

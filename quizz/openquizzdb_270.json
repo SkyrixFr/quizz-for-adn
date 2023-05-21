@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2022-01-20",
+  "mise-a-jour": "2022-01-20",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
@@ -21,7 +21,7 @@
       "slogan": "Bigard hace todo lo posible"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Jean-Marie Bigard",
       "slogan": "Bigard fa di tutto"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "De qui Jean-Marie Bigard voulait-il se faire reperer une fois monte à Paris ?",
+        "question": "De qui Jean-Marie Bigard voulait-il se faire reperer une fois monte a Paris ?",
         "propositions": [
           "Jacques Martin",
           "Laurent Ruquier",
@@ -49,11 +49,11 @@
           "Philippe Bouvard"
         ],
         "reponse": "Philippe Bouvard",
-        "anecdote": "Grace à sa connaissance du repertoire de Robert Lamoureux, il souhaitait passer dans l'emission televisee « Le Petit Theatre »."
+        "anecdote": "Grace a sa connaissance du repertoire de Robert Lamoureux, il souhaitait passer dans l emission televisee « Le Petit Theatre »."
       },
       {
         "id": 2,
-        "question": "Grace à quelle emission sur FR3 Jean-Marie Bigard a-t-il ete revele au grand public ?",
+        "question": "Grace a quelle emission sur FR3 Jean-Marie Bigard a-t-il ete revele au grand public ?",
         "propositions": [
           "Co-Co Boy",
           "La Classe",
@@ -61,7 +61,7 @@
           "Yacapa"
         ],
         "reponse": "La Classe",
-        "anecdote": "Il y ecrira plus de cent sketches avec Laurent Baffie, et bien d'autres comme Franck Godard ou Pierre Veys."
+        "anecdote": "Il y ecrira plus de cent sketches avec Laurent Baffie, et bien d autres comme Franck Godard ou Pierre Veys."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Bastorama"
         ],
         "reponse": "Toniglandyl",
-        "anecdote": "C'est durant « La Classe » qu'il a ecrit quelques sketchs pour les Nuls, alors en pleine gloire sur Canal+ dans « Nulle part ailleurs »."
+        "anecdote": "C est durant « La Classe » qu il a ecrit quelques sketchs pour les Nuls, alors en pleine gloire sur Canal+ dans « Nulle part ailleurs »."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Jean-Pierre Raffarin"
         ],
         "reponse": "Nicolas Sarkozy",
-        "anecdote": "Ce soutien est survenu aux elections presidentielles, avant d'accompagner celui-ci à Rome pour rencontrer le pape Benoît XVI."
+        "anecdote": "Ce soutien est survenu aux elections presidentielles, avant d accompagner celui-ci a Rome pour rencontrer le pape Benoît XVI."
       },
       {
         "id": 5,
@@ -105,11 +105,11 @@
         "propositions": [
           "Chacun sa vie",
           "Roman de gare",
-          "Ces amours-là",
+          "Ces amours-la",
           "Un plus une"
         ],
         "reponse": "Chacun sa vie",
-        "anecdote": "Pour ce film, le Swann d'or de la meilleure actrice a ete decerne à Beatrice Dalle au Festival du film de Cabourg 2017."
+        "anecdote": "Pour ce film, le Swann d or de la meilleure actrice a ete decerne a Beatrice Dalle au Festival du film de Cabourg 2017."
       },
       {
         "id": 7,
@@ -121,11 +121,11 @@
           "World Trade Center"
         ],
         "reponse": "World Trade Center",
-        "anecdote": "Les partisans de ces theories soutiennent que le rapport officiel n'est pas assez complet et comporterait mensonges et omissions."
+        "anecdote": "Les partisans de ces theories soutiennent que le rapport officiel n est pas assez complet et comporterait mensonges et omissions."
       },
       {
         "id": 8,
-        "question": "Pres de quelle ville de l'Aube Jean-Marie Bigard a-t-il vu le jour ?",
+        "question": "Pres de quelle ville de l Aube Jean-Marie Bigard a-t-il vu le jour ?",
         "propositions": [
           "Sainte-Savine",
           "Romilly-sur-Seine",
@@ -133,7 +133,7 @@
           "Troyes"
         ],
         "reponse": "Troyes",
-        "anecdote": "Jean-Marie Bigard est un humoriste, acteur et realisateur francais, ne le 17 mai 1954 à Fontaine-Luyeres, pres de Troyes."
+        "anecdote": "Jean-Marie Bigard est un humoriste, acteur et realisateur francais, ne le 17 mai 1954 a Fontaine-Luyeres, pres de Troyes."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Rufus"
         ],
         "reponse": "Tex",
-        "anecdote": "Bouvard plongera toutefois Bigard dans l'anonymat, relegue à son rôle de moteur cache aux spectateurs par une couverture."
+        "anecdote": "Bouvard plongera toutefois Bigard dans l anonymat, relegue a son rôle de moteur cache aux spectateurs par une couverture."
       },
       {
         "id": 10,
@@ -157,13 +157,13 @@
           "N° 9"
         ],
         "reponse": "N° 9",
-        "anecdote": "Son spectacle odorant, initialement intitule « Tout est relatif », s'appellera « N° 9 de Bigard » comme le N° 5 de Chanel."
+        "anecdote": "Son spectacle odorant, initialement intitule « Tout est relatif », s appellera « N° 9 de Bigard » comme le N° 5 de Chanel."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Suite à la pratique de quel sport reviendra-t-il chez lui avec une medaille ?",
+        "question": "Suite a la pratique de quel sport reviendra-t-il chez lui avec une medaille ?",
         "propositions": [
           "Tennis",
           "Handball",
@@ -171,11 +171,11 @@
           "Football"
         ],
         "reponse": "Handball",
-        "anecdote": "Selectionne dans l'equipe juniors de la region Nord-Est de la France, il gagnera le tournoi et reviendra avec une medaille."
+        "anecdote": "Selectionne dans l equipe juniors de la region Nord-Est de la France, il gagnera le tournoi et reviendra avec une medaille."
       },
       {
         "id": 12,
-        "question": "Quel futur humoriste conduira-t-il au lycee durant ses annees d'enseignement ?",
+        "question": "Quel futur humoriste conduira-t-il au lycee durant ses annees d enseignement ?",
         "propositions": [
           "Albert Dupontel",
           "Pierre Palmade",
@@ -199,7 +199,7 @@
       },
       {
         "id": 14,
-        "question": "Quelle etait sa profession lorsque sa mere est morte d'un cancer du pancreas ?",
+        "question": "Quelle etait sa profession lorsque sa mere est morte d un cancer du pancreas ?",
         "propositions": [
           "Barman",
           "Prof de gym",
@@ -207,7 +207,7 @@
           "Pompiste"
         ],
         "reponse": "Barman",
-        "anecdote": "Cette catastrophe ne l'empeche pas de continuer à faire rire les clients, le plongeant neanmoins dans un etat depressif."
+        "anecdote": "Cette catastrophe ne l empeche pas de continuer a faire rire les clients, le plongeant neanmoins dans un etat depressif."
       },
       {
         "id": 15,
@@ -219,7 +219,7 @@
           "10 000"
         ],
         "reponse": "13 000",
-        "anecdote": "L'affiche, representant un slip tres moulant, fait polemique, mais le spectacle se demarque par un sketch sur la langue francaise."
+        "anecdote": "L affiche, representant un slip tres moulant, fait polemique, mais le spectacle se demarque par un sketch sur la langue francaise."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Katrina Patchett"
         ],
         "reponse": "Fauve Hautot",
-        "anecdote": "Bigard arrivera en quart de finale de l'emission et terminera cinquieme de la competition, elimine face à Adriana Karembeu."
+        "anecdote": "Bigard arrivera en quart de finale de l emission et terminera cinquieme de la competition, elimine face a Adriana Karembeu."
       },
       {
         "id": 17,
@@ -255,7 +255,7 @@
           "Moulin"
         ],
         "reponse": "Magellan",
-        "anecdote": "L'episode « Le Bassin des grands », realise par Étienne Dhaene, a fait 19 % de part de marche avec 4 millions de telespectateurs."
+        "anecdote": "L episode « Le Bassin des grands », realise par Étienne Dhaene, a fait 19 % de part de marche avec 4 millions de telespectateurs."
       },
       {
         "id": 19,
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Dans quel film d'Alexandre Jardin, Bigard a-t-il interprete le rôle de Stephane ?",
+        "question": "Dans quel film d Alexandre Jardin, Bigard a-t-il interprete le rôle de Stephane ?",
         "propositions": [
           "Le Prof",
           "Oui",
@@ -279,7 +279,7 @@
           "Fanfan"
         ],
         "reponse": "Oui",
-        "anecdote": "Fondateur en 2015 du mouvement citoyen Bleu Blanc Zebre, Alexandre Jardin a tente d'etre candidat à la presidence en 2016."
+        "anecdote": "Fondateur en 2015 du mouvement citoyen Bleu Blanc Zebre, Alexandre Jardin a tente d etre candidat a la presidence en 2016."
       }
     ],
     "expert": [
@@ -293,11 +293,11 @@
           "Aîne"
         ],
         "reponse": "Cadet",
-        "anecdote": "Il est le quatrieme enfant d'une famille modeste ne d'un pere charcutier et d'une mere ouvriere dans l'industrie automobile."
+        "anecdote": "Il est le quatrieme enfant d une famille modeste ne d un pere charcutier et d une mere ouvriere dans l industrie automobile."
       },
       {
         "id": 22,
-        "question": "Vers quel BEP Jean-Marie Bigard s'est-il oriente à l'age de seize ans ?",
+        "question": "Vers quel BEP Jean-Marie Bigard s est-il oriente a l age de seize ans ?",
         "propositions": [
           "Maroquinerie",
           "Peinture",
@@ -305,7 +305,7 @@
           "Boulangerie"
         ],
         "reponse": "Mecanique generale",
-        "anecdote": "Allergique aux contraintes et à l'enfermement inherents à l'ecole, il sait parfois se montrer sensible aux encouragements."
+        "anecdote": "Allergique aux contraintes et a l enfermement inherents a l ecole, il sait parfois se montrer sensible aux encouragements."
       },
       {
         "id": 23,
@@ -317,11 +317,11 @@
           "Aston Martin"
         ],
         "reponse": "Tractions Citroan",
-        "anecdote": "Ils rachetaient les vehicules abandonnes, les retapaient et les revendaient à Paris pour environ trente fois le prix d'achat."
+        "anecdote": "Ils rachetaient les vehicules abandonnes, les retapaient et les revendaient a Paris pour environ trente fois le prix d achat."
       },
       {
         "id": 24,
-        "question": "Par qui son pere sera-t-il assassine suite à un drame de jalousie ?",
+        "question": "Par qui son pere sera-t-il assassine suite a un drame de jalousie ?",
         "propositions": [
           "Un dentiste",
           "Un facteur",
@@ -329,7 +329,7 @@
           "Un plombier"
         ],
         "reponse": "Un bûcheron",
-        "anecdote": "C'est la promesse faite à sa mere malade de se mettre à travailler vraiment qui donnera naissance à sa vie professionnelle."
+        "anecdote": "C est la promesse faite a sa mere malade de se mettre a travailler vraiment qui donnera naissance a sa vie professionnelle."
       },
       {
         "id": 25,
@@ -341,11 +341,11 @@
           "Babybel"
         ],
         "reponse": "Boursault",
-        "anecdote": "Durant ses premieres annees à Paris, Bigard s'est presente, comme on le lui a conseille, à environ deux cents castings."
+        "anecdote": "Durant ses premieres annees a Paris, Bigard s est presente, comme on le lui a conseille, a environ deux cents castings."
       },
       {
         "id": 26,
-        "question": "Qui a mis en scene en 1988 le spectacle à succes « Vous avez dit Bigard » ?",
+        "question": "Qui a mis en scene en 1988 le spectacle a succes « Vous avez dit Bigard » ?",
         "propositions": [
           "Myriam Isker",
           "Christine Bertholier",
@@ -353,7 +353,7 @@
           "Franck Godard"
         ],
         "reponse": "Franck Godard",
-        "anecdote": "Ce spectacle lui permet de s'installer dans un style « stand-up », dont la caracteristique est de s'adresser directement au public."
+        "anecdote": "Ce spectacle lui permet de s installer dans un style « stand-up », dont la caracteristique est de s adresser directement au public."
       },
       {
         "id": 27,
@@ -365,11 +365,11 @@
           "Dora"
         ],
         "reponse": "Claudia",
-        "anecdote": "Jean-Marie Bigard a rencontre Claudia, une danseuse d'origine bresilienne du Paradis Latin, avec qui il se marie en 1991."
+        "anecdote": "Jean-Marie Bigard a rencontre Claudia, une danseuse d origine bresilienne du Paradis Latin, avec qui il se marie en 1991."
       },
       {
         "id": 28,
-        "question": "Dans quelle serie a-t-on pu voir Bigard dans l'episode intitule « Mise aux poings » ?",
+        "question": "Dans quelle serie a-t-on pu voir Bigard dans l episode intitule « Mise aux poings » ?",
         "propositions": [
           "Maguy",
           "Coplan",
@@ -377,7 +377,7 @@
           "David Lansky"
         ],
         "reponse": "Maguy",
-        "anecdote": "Rosy Varte est la seule comedienne de la serie à etre presente dans la totalite des 333 episodes de la serie « Maguy »."
+        "anecdote": "Rosy Varte est la seule comedienne de la serie a etre presente dans la totalite des 333 episodes de la serie « Maguy »."
       },
       {
         "id": 29,
@@ -401,7 +401,7 @@
           "Massey Ferguson"
         ],
         "reponse": "Massey Ferguson",
-        "anecdote": "Massey Ferguson est une societe du groupe americain Agco Corporation, dont le siege est situe à Duluth, en Georgie."
+        "anecdote": "Massey Ferguson est une societe du groupe americain Agco Corporation, dont le siege est situe a Duluth, en Georgie."
       }
     ]
     },
@@ -417,7 +417,7 @@
           "Laurent Ruquier"
         ],
         "reponse": "Philippe Bouvard",
-        "anecdote": "Thanks to his knowledge of Robert Lamoureux's repertoire, he wished to appear on the television show « Le Petit Theatre »."
+        "anecdote": "Thanks to his knowledge of Robert Lamoureux s repertoire, he wished to appear on the television show « Le Petit Theatre »."
       },
       {
         "id": 2,
@@ -473,7 +473,7 @@
         "propositions": [
           "Roman de gare",
           "Chacun sa vie",
-          "Ces amours-là",
+          "Ces amours-la",
           "Un plus une"
         ],
         "reponse": "Chacun sa vie",
@@ -591,7 +591,7 @@
       },
       {
         "id": 16,
-        "question": "Who was Jean-Marie Bigard's partner in « Dance with the stars » on TF1 ?",
+        "question": "Who was Jean-Marie Bigard s partner in « Dance with the stars » on TF1 ?",
         "propositions": [
           "Candice Pascal",
           "Denitsa Ikonomova",
@@ -599,7 +599,7 @@
           "Katrina Patchett"
         ],
         "reponse": "Fauve Hautot",
-        "anecdote": "Bigard will arrive in the show's quarterfinals and finish fifth in the competition, eliminated against Adriana Karembeu."
+        "anecdote": "Bigard will arrive in the show s quarterfinals and finish fifth in the competition, eliminated against Adriana Karembeu."
       },
       {
         "id": 17,
@@ -842,7 +842,7 @@
           "Roman de gare",
           "Chacun sa vie",
           "Un plus une",
-          "Ces amours-là"
+          "Ces amours-la"
         ],
         "reponse": "Chacun sa vie",
         "anecdote": "Für diesen Film wurde Beatrice Dalle beim Cabourg Film Festival 2017 mit dem Goldenen Swann als beste Schauspielerin ausgezeichnet."
@@ -1208,7 +1208,7 @@
         "question": "¿En que película de Claude Lelouch interpretó Jean-Marie Bigard a un medico optimista ?",
         "propositions": [
           "Un plus une",
-          "Ces amours-là",
+          "Ces amours-la",
           "Roman de gare",
           "Chacun sa vie"
         ],
@@ -1533,7 +1533,7 @@
           "Yacapa"
         ],
         "reponse": "La Classe",
-        "anecdote": "Scriverà piu di cento schizzi con Laurent Baffie e molti altri come Franck Godard o Pierre Veys."
+        "anecdote": "Scrivera piu di cento schizzi con Laurent Baffie e molti altri come Franck Godard o Pierre Veys."
       },
       {
         "id": 3,
@@ -1549,7 +1549,7 @@
       },
       {
         "id": 4,
-        "question": "Quale candidato UMP ha sostenuto attivamente nell'aprile 2007 ?",
+        "question": "Quale candidato UMP ha sostenuto attivamente nell aprile 2007 ?",
         "propositions": [
           "Francois Fillon",
           "Alain Juppe",
@@ -1569,7 +1569,7 @@
           "Anne Marivin"
         ],
         "reponse": "Lola Marois",
-        "anecdote": "Con il suo nuovo partner, sposato ufficialmente nel 2011, avrà due gemelli nel novembre 2012 chiamati Jules e Bella."
+        "anecdote": "Con il suo nuovo partner, sposato ufficialmente nel 2011, avra due gemelli nel novembre 2012 chiamati Jules e Bella."
       },
       {
         "id": 6,
@@ -1577,11 +1577,11 @@
         "propositions": [
           "Chacun sa vie",
           "Un plus une",
-          "Ces amours-là",
+          "Ces amours-la",
           "Roman de gare"
         ],
         "reponse": "Chacun sa vie",
-        "anecdote": "Per questo film, il Cigno d'oro per la migliore attrice e stato assegnato a Beatrice Dalle al Cabourg Film Festival 2017."
+        "anecdote": "Per questo film, il Cigno d oro per la migliore attrice e stato assegnato a Beatrice Dalle al Cabourg Film Festival 2017."
       },
       {
         "id": 7,
@@ -1597,7 +1597,7 @@
       },
       {
         "id": 8,
-        "question": "Vicino a quale città dell'Aube e nato Jean-Marie Bigard ?",
+        "question": "Vicino a quale citta dell Aube e nato Jean-Marie Bigard ?",
         "propositions": [
           "Bar-sur-Aube",
           "Sainte-Savine",
@@ -1617,7 +1617,7 @@
           "Tex"
         ],
         "reponse": "Tex",
-        "anecdote": "Bouvard, tuttavia, immerse Bigard nell'anonimato, relegato al suo ruolo di motore nascosto agli spettatori da una coperta."
+        "anecdote": "Bouvard, tuttavia, immerse Bigard nell anonimato, relegato al suo ruolo di motore nascosto agli spettatori da una coperta."
       },
       {
         "id": 10,
@@ -1629,13 +1629,13 @@
           "No. 1"
         ],
         "reponse": "No. 9",
-        "anecdote": "Il suo fragrante spettacolo, inizialmente intitolato « Tutto e relativo », si chiamerà « N° 9 de Bigard » come N° 5 di Chanel."
+        "anecdote": "Il suo fragrante spettacolo, inizialmente intitolato « Tutto e relativo », si chiamera « N° 9 de Bigard » come N° 5 di Chanel."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Dopo la pratica di quale sport tornerà a casa con una medaglia ?",
+        "question": "Dopo la pratica di quale sport tornera a casa con una medaglia ?",
         "propositions": [
           "Pallamano",
           "Calcio",
@@ -1643,11 +1643,11 @@
           "Judo"
         ],
         "reponse": "Pallamano",
-        "anecdote": "Selezionato nella squadra juniores della regione del nord-est della Francia, vincerà il torneo e tornerà con una medaglia."
+        "anecdote": "Selezionato nella squadra juniores della regione del nord-est della Francia, vincera il torneo e tornera con una medaglia."
       },
       {
         "id": 12,
-        "question": "Quale futuro umorista porterà al liceo durante i suoi anni di insegnamento ?",
+        "question": "Quale futuro umorista portera al liceo durante i suoi anni di insegnamento ?",
         "propositions": [
           "Albert Dupontel",
           "Tarek Boudali",
@@ -1683,7 +1683,7 @@
       },
       {
         "id": 15,
-        "question": "Di fronte a quanti spettatori ha giocato l'ultimo di « Bigard met le paquet » ?",
+        "question": "Di fronte a quanti spettatori ha giocato l ultimo di « Bigard met le paquet » ?",
         "propositions": [
           "20.000",
           "13.000",
@@ -1703,7 +1703,7 @@
           "Katrina Patchett"
         ],
         "reponse": "Fauve Hautot",
-        "anecdote": "Bigard arriverà nei quarti di finale e finirà quinto nella competizione, eliminata contro Adriana Karembeu."
+        "anecdote": "Bigard arrivera nei quarti di finale e finira quinto nella competizione, eliminata contro Adriana Karembeu."
       },
       {
         "id": 17,
@@ -1727,7 +1727,7 @@
           "Mill"
         ],
         "reponse": "Magellan",
-        "anecdote": "L'episodio « Le Bassin des grands », diretto da Étienne Dhaene, ha raggiunto una quota di mercato del 19 % con 4 milioni di telespettatori."
+        "anecdote": "L episodio « Le Bassin des grands », diretto da Étienne Dhaene, ha raggiunto una quota di mercato del 19 % con 4 milioni di telespettatori."
       },
       {
         "id": 19,
@@ -1739,7 +1739,7 @@
           "Le Minotaure"
         ],
         "reponse": "Clerambard",
-        "anecdote": "« Clerambard » e un'opera teatrale rappresentata per la prima volta nel 1950 sul palco della Comedie des Champs-Élysees."
+        "anecdote": "« Clerambard » e un opera teatrale rappresentata per la prima volta nel 1950 sul palco della Comedie des Champs-Élysees."
       },
       {
         "id": 20,
@@ -1765,11 +1765,11 @@
           "Secondo"
         ],
         "reponse": "Cadet",
-        "anecdote": "È il quarto figlio di una famiglia modesta, nato da padre macellaio e madre lavoratrice nell'industria automobilistica."
+        "anecdote": "È il quarto figlio di una famiglia modesta, nato da padre macellaio e madre lavoratrice nell industria automobilistica."
       },
       {
         "id": 22,
-        "question": "A quale BEP andò Jean-Marie Bigard all'età di sedici anni ?",
+        "question": "A quale BEP andò Jean-Marie Bigard all eta di sedici anni ?",
         "propositions": [
           "Meccanica generale",
           "Pittura",
@@ -1781,7 +1781,7 @@
       },
       {
         "id": 23,
-        "question": "Di quali macchine ha organizzato un'attività con tre amici ?",
+        "question": "Di quali macchine ha organizzato un attivita con tre amici ?",
         "propositions": [
           "Ferrari 250",
           "Buick Special",
@@ -1793,7 +1793,7 @@
       },
       {
         "id": 24,
-        "question": "Da chi sarà assassinato suo padre a seguito di un dramma di gelosia ?",
+        "question": "Da chi sara assassinato suo padre a seguito di un dramma di gelosia ?",
         "propositions": [
           "Un idraulico",
           "Un dentista",
@@ -1801,11 +1801,11 @@
           "Un boscaiolo"
         ],
         "reponse": "Un boscaiolo",
-        "anecdote": "È la promessa fatta alla madre malata di mettersi davvero al lavoro che darà vita alla sua vita professionale."
+        "anecdote": "È la promessa fatta alla madre malata di mettersi davvero al lavoro che dara vita alla sua vita professionale."
       },
       {
         "id": 25,
-        "question": "Nella pubblicità di quale formaggio Jean-Marie Bigard era travestito da indiano ?",
+        "question": "Nella pubblicita di quale formaggio Jean-Marie Bigard era travestito da indiano ?",
         "propositions": [
           "Boursault",
           "Stoppie",
@@ -1841,7 +1841,7 @@
       },
       {
         "id": 28,
-        "question": "In quale serie abbiamo visto Bigard nell'episodio intitolato « Mise aux poings » ?",
+        "question": "In quale serie abbiamo visto Bigard nell episodio intitolato « Mise aux poings » ?",
         "propositions": [
           "Maguy",
           "Coplan",
@@ -1849,7 +1849,7 @@
           "Navarro"
         ],
         "reponse": "Maguy",
-        "anecdote": "Rosy Varte e l'unica attrice della serie ad apparire in tutti i 333 episodi della serie « Maguy »."
+        "anecdote": "Rosy Varte e l unica attrice della serie ad apparire in tutti i 333 episodi della serie « Maguy »."
       },
       {
         "id": 29,
@@ -1873,7 +1873,7 @@
           "Motor Iberica"
         ],
         "reponse": "Massey Ferguson",
-        "anecdote": "Massey Ferguson e una società del gruppo statunitense, Agco Corporation, con sede a Duluth, Georgia."
+        "anecdote": "Massey Ferguson e una societa del gruppo statunitense, Agco Corporation, con sede a Duluth, Georgia."
       }
     ]
     },
@@ -1943,7 +1943,7 @@
         "id": 6,
         "question": "In welke film van Claude Lelouch speelde Jean-Marie Bigard een optimistische dokter ?",
         "propositions": [
-          "Ces amours-là",
+          "Ces amours-la",
           "Chacun sa vie",
           "Roman de gare",
           "Un plus une"
@@ -2149,7 +2149,7 @@
       },
       {
         "id": 23,
-        "question": "Van welke auto's organiseerde hij een bedrijf met drie vrienden ?",
+        "question": "Van welke auto s organiseerde hij een bedrijf met drie vrienden ?",
         "propositions": [
           "Citroan Tracties",
           "Aston Martin",

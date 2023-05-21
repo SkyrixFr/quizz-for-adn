@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Animaux",
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Combien de temps dure en moyenne la gestation d'une elephante ?",
+        "question": "Combien de temps dure en moyenne la gestation d une elephante ?",
         "propositions": [
           "17 mois",
           "9 mois",
@@ -49,11 +49,11 @@
           "21 mois"
         ],
         "reponse": "21 mois",
-        "anecdote": "Une elephante peut etre en gestation jusqu'à l'age de cinquante ans, ou un seul elephant est porte dans la plupart des cas."
+        "anecdote": "Une elephante peut etre en gestation jusqu a l age de cinquante ans, ou un seul elephant est porte dans la plupart des cas."
       },
       {
         "id": 2,
-        "question": "À combien de pulsations par minute bat le coeur d'un herisson en hibernation ?",
+        "question": "À combien de pulsations par minute bat le coeur d un herisson en hibernation ?",
         "propositions": [
           "18",
           "38",
@@ -61,11 +61,11 @@
           "28"
         ],
         "reponse": "18",
-        "anecdote": "Il ne faut pas confondre les herissons avec d'autres mammiferes porteurs de piquants, comme par exemple les porcs-epics."
+        "anecdote": "Il ne faut pas confondre les herissons avec d autres mammiferes porteurs de piquants, comme par exemple les porcs-epics."
       },
       {
         "id": 3,
-        "question": "Jusqu'à combien de kilometres le cri du singe hurleur est-il audible ?",
+        "question": "Jusqu a combien de kilometres le cri du singe hurleur est-il audible ?",
         "propositions": [
           "6 km",
           "12 km",
@@ -73,11 +73,11 @@
           "9 km"
         ],
         "reponse": "3 km",
-        "anecdote": "Ce singe hurle chaque matin, et quand il combat avec d'autres singes hurleurs, ils se battent egalement à coups de hurlements."
+        "anecdote": "Ce singe hurle chaque matin, et quand il combat avec d autres singes hurleurs, ils se battent egalement a coups de hurlements."
       },
       {
         "id": 4,
-        "question": "En quelle annee le dernier dodo vivant a-t-il ete vu à l'île Maurice ?",
+        "question": "En quelle annee le dernier dodo vivant a-t-il ete vu a l île Maurice ?",
         "propositions": [
           "1832",
           "1723",
@@ -85,7 +85,7 @@
           "1681"
         ],
         "reponse": "1681",
-        "anecdote": "En plus de son incapacite à voler, le dodo n'avait developpe aucune peur à l'encontre des etres humains, faisant de lui une proie facile."
+        "anecdote": "En plus de son incapacite a voler, le dodo n avait developpe aucune peur a l encontre des etres humains, faisant de lui une proie facile."
       },
       {
         "id": 5,
@@ -97,11 +97,11 @@
           "2 000"
         ],
         "reponse": "4 000",
-        "anecdote": "Le chapeau stetson ainsi que le bandana ont ete popularises par Buffalo Bill alors que tous les cow-boys n'en portaient pas forcement."
+        "anecdote": "Le chapeau stetson ainsi que le bandana ont ete popularises par Buffalo Bill alors que tous les cow-boys n en portaient pas forcement."
       },
       {
         "id": 6,
-        "question": "Jusqu'à quelle altitude vivent en general les bouquetins des Alpes ?",
+        "question": "Jusqu a quelle altitude vivent en general les bouquetins des Alpes ?",
         "propositions": [
           "3 500 m",
           "2 300 m",
@@ -109,11 +109,11 @@
           "4 600 m"
         ],
         "reponse": "3 500 m",
-        "anecdote": "Le milieu de predilection du bouquetin des Alpes comprend des murailles abruptes, des falaises à pics ou des parois escarpees."
+        "anecdote": "Le milieu de predilection du bouquetin des Alpes comprend des murailles abruptes, des falaises a pics ou des parois escarpees."
       },
       {
         "id": 7,
-        "question": "Combien de minutes une otarie peut-elle nager sous l'eau sans respirer ?",
+        "question": "Combien de minutes une otarie peut-elle nager sous l eau sans respirer ?",
         "propositions": [
           "5 min",
           "7 min",
@@ -121,11 +121,11 @@
           "9 min"
         ],
         "reponse": "5 min",
-        "anecdote": "Contrairement aux phoques, les otaries pourvuent de nageoires se servent à terre de leurs posterieurs pour marcher."
+        "anecdote": "Contrairement aux phoques, les otaries pourvuent de nageoires se servent a terre de leurs posterieurs pour marcher."
       },
       {
         "id": 8,
-        "question": "Quelle est, en centimetres, la longueur de la langue d'un fourmilier adulte ?",
+        "question": "Quelle est, en centimetres, la longueur de la langue d un fourmilier adulte ?",
         "propositions": [
           "50 cm",
           "80 cm",
@@ -133,7 +133,7 @@
           "70 cm"
         ],
         "reponse": "60 cm",
-        "anecdote": "Le plus grand representant du groupe est le fourmilier geant ou grand tamanoir, un animal mesurant plus d'un metre de longueur."
+        "anecdote": "Le plus grand representant du groupe est le fourmilier geant ou grand tamanoir, un animal mesurant plus d un metre de longueur."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "10 %"
         ],
         "reponse": "40 %",
-        "anecdote": "Ces animaux se caracterisent par leur unique paire d'incisives qui leur servent à ronger, à creuser des galeries ou à se defendre."
+        "anecdote": "Ces animaux se caracterisent par leur unique paire d incisives qui leur servent a ronger, a creuser des galeries ou a se defendre."
       },
       {
         "id": 10,
@@ -157,13 +157,13 @@
           "160 fois"
         ],
         "reponse": "160 fois",
-        "anecdote": "Le fourmilier mange surtout des fourmis, mais il aime aussi les termites et d'autres insectes comme la coccinelle."
+        "anecdote": "Le fourmilier mange surtout des fourmis, mais il aime aussi les termites et d autres insectes comme la coccinelle."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Jusqu'à combien de kilos de viande une hyene peut-elle manger au cours d'un repas ?",
+        "question": "Jusqu a combien de kilos de viande une hyene peut-elle manger au cours d un repas ?",
         "propositions": [
           "24 kg",
           "4 kg",
@@ -171,11 +171,11 @@
           "34 kg"
         ],
         "reponse": "14 kg",
-        "anecdote": "Il est impossible de discerner par la simple observation un male hyene d'une femelle tant l'un et l'autre se ressemblent."
+        "anecdote": "Il est impossible de discerner par la simple observation un male hyene d une femelle tant l un et l autre se ressemblent."
       },
       {
         "id": 12,
-        "question": "Quel est le poids moyen de la langue d'une baleine bleue adulte ?",
+        "question": "Quel est le poids moyen de la langue d une baleine bleue adulte ?",
         "propositions": [
           "2,2 tonnes",
           "1,3 tonne",
@@ -183,11 +183,11 @@
           "2,7 tonnes"
         ],
         "reponse": "2,7 tonnes",
-        "anecdote": "Quand la gueule de la baleine bleue est completement ouverte, elle est assez grande pour contenir 90 tonnes d'eau et de nourriture."
+        "anecdote": "Quand la gueule de la baleine bleue est completement ouverte, elle est assez grande pour contenir 90 tonnes d eau et de nourriture."
       },
       {
         "id": 13,
-        "question": "Combien une reine termite pond-elle d'oeufs en moyenne par jour ?",
+        "question": "Combien une reine termite pond-elle d oeufs en moyenne par jour ?",
         "propositions": [
           "90",
           "60",
@@ -195,7 +195,7 @@
           "30"
         ],
         "reponse": "30",
-        "anecdote": "D'un couple de termites naissent des larves qui donnent des ouvriers steriles ou des nymphes qui donneront des adultes sexues."
+        "anecdote": "D un couple de termites naissent des larves qui donnent des ouvriers steriles ou des nymphes qui donneront des adultes sexues."
       },
       {
         "id": 14,
@@ -207,11 +207,11 @@
           "80 km/h"
         ],
         "reponse": "60 km/h",
-        "anecdote": "Le leopard tient une place importante dans certaines cultures africaines ou ce roi des animaux est l'attribut des chefs."
+        "anecdote": "Le leopard tient une place importante dans certaines cultures africaines ou ce roi des animaux est l attribut des chefs."
       },
       {
         "id": 15,
-        "question": "Combien de minutes un cachalot peut-il rester sous l'eau sans respirer ?",
+        "question": "Combien de minutes un cachalot peut-il rester sous l eau sans respirer ?",
         "propositions": [
           "70 min",
           "90 min",
@@ -219,11 +219,11 @@
           "30 min"
         ],
         "reponse": "90 min",
-        "anecdote": "La chasse au cachalot permettait de recolter le spermaceti, substance blanche et cireuse issue de la tete de l'animale."
+        "anecdote": "La chasse au cachalot permettait de recolter le spermaceti, substance blanche et cireuse issue de la tete de l animale."
       },
       {
         "id": 16,
-        "question": "Quelle vitesse un faucon pelerin peut-il atteindre lorsqu'il fond sur sa proie ?",
+        "question": "Quelle vitesse un faucon pelerin peut-il atteindre lorsqu il fond sur sa proie ?",
         "propositions": [
           "200 km/h",
           "240 km/h",
@@ -231,7 +231,7 @@
           "160 km/h"
         ],
         "reponse": "240 km/h",
-        "anecdote": "Ses proies sont souvent des oiseaux, mais certains individus peuvent egalement s'attaquer à de petits animaux terrestres."
+        "anecdote": "Ses proies sont souvent des oiseaux, mais certains individus peuvent egalement s attaquer a de petits animaux terrestres."
       },
       {
         "id": 17,
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Par quel facteur le poids d'un ours blanc est-il multiplie deux mois apres sa naissance ?",
+        "question": "Par quel facteur le poids d un ours blanc est-il multiplie deux mois apres sa naissance ?",
         "propositions": [
           "25",
           "55",
@@ -255,7 +255,7 @@
           "35"
         ],
         "reponse": "25",
-        "anecdote": "Parfaitement adapte à son habitat, l'ours blanc possede une epaisse couche de graisse et une fourrure qui l'isolent du froid."
+        "anecdote": "Parfaitement adapte a son habitat, l ours blanc possede une epaisse couche de graisse et une fourrure qui l isolent du froid."
       },
       {
         "id": 19,
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Combien d'oeufs pond en moyenne un crocodile du Nil en bonne sante ?",
+        "question": "Combien d oeufs pond en moyenne un crocodile du Nil en bonne sante ?",
         "propositions": [
           "70",
           "40",
@@ -279,7 +279,7 @@
           "100"
         ],
         "reponse": "100",
-        "anecdote": "À l'eclosion des oeufs, le bebe crocodile mesure environ 30 cm et a le meme corps que sa mere, qu'il soit male ou femelle."
+        "anecdote": "À l eclosion des oeufs, le bebe crocodile mesure environ 30 cm et a le meme corps que sa mere, qu il soit male ou femelle."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "12 m"
         ],
         "reponse": "12 m",
-        "anecdote": "Pour les besoins de la chasse ou en cas de menace, il est capable de grimper aux arbres et de faire preuve d'une grande agilite."
+        "anecdote": "Pour les besoins de la chasse ou en cas de menace, il est capable de grimper aux arbres et de faire preuve d une grande agilite."
       },
       {
         "id": 22,
@@ -305,11 +305,11 @@
           "47"
         ],
         "reponse": "47",
-        "anecdote": "Les adultes se nourrissent de nectar de fleurs et participent à la pollinisation des plantes, au meme titre que les papillons."
+        "anecdote": "Les adultes se nourrissent de nectar de fleurs et participent a la pollinisation des plantes, au meme titre que les papillons."
       },
       {
         "id": 23,
-        "question": "Quelle est la longueur en centimetres d'un intestin de koala ?",
+        "question": "Quelle est la longueur en centimetres d un intestin de koala ?",
         "propositions": [
           "400 cm",
           "200 cm",
@@ -317,11 +317,11 @@
           "100 cm"
         ],
         "reponse": "300 cm",
-        "anecdote": "Le koala est etroitement lie à l'eucalyptus ou gommier, dont il ne mange que les feuilles de certaines especes."
+        "anecdote": "Le koala est etroitement lie a l eucalyptus ou gommier, dont il ne mange que les feuilles de certaines especes."
       },
       {
         "id": 24,
-        "question": "Combien de jours dure l'hibernation d'un ecureuil d'Alaska ?",
+        "question": "Combien de jours dure l hibernation d un ecureuil d Alaska ?",
         "propositions": [
           "320 jours",
           "410 jours",
@@ -329,11 +329,11 @@
           "270 jours"
         ],
         "reponse": "270 jours",
-        "anecdote": "La queue en panache de l'ecureuil et son acharnement à faire des provisions pour l'hiver ont contribue à sa popularite."
+        "anecdote": "La queue en panache de l ecureuil et son acharnement a faire des provisions pour l hiver ont contribue a sa popularite."
       },
       {
         "id": 25,
-        "question": "Quelle est la vitesse maximale dejà atteinte par l'espadon-voilier ?",
+        "question": "Quelle est la vitesse maximale deja atteinte par l espadon-voilier ?",
         "propositions": [
           "109 km/h",
           "89 km/h",
@@ -341,11 +341,11 @@
           "119 km/h"
         ],
         "reponse": "109 km/h",
-        "anecdote": "Possedant des stries verticales sur les flancs, l'espadon-voilier est considere comme etant le plus rapide des poissons."
+        "anecdote": "Possedant des stries verticales sur les flancs, l espadon-voilier est considere comme etant le plus rapide des poissons."
       },
       {
         "id": 26,
-        "question": "Combien d'animaux du zoo de Berlin survecurent à la Seconde Guerre mondiale ?",
+        "question": "Combien d animaux du zoo de Berlin survecurent a la Seconde Guerre mondiale ?",
         "propositions": [
           "91",
           "1 712",
@@ -353,11 +353,11 @@
           "344"
         ],
         "reponse": "91",
-        "anecdote": "Les premiers dons d'animaux au zoo de Berlin, fonde en 1844, furent effectues par Frederic-Guillaume IV, roi de Prusse."
+        "anecdote": "Les premiers dons d animaux au zoo de Berlin, fonde en 1844, furent effectues par Frederic-Guillaume IV, roi de Prusse."
       },
       {
         "id": 27,
-        "question": "Sur mille tortues marines, combien seulement atteignent l'age de se reproduire ?",
+        "question": "Sur mille tortues marines, combien seulement atteignent l age de se reproduire ?",
         "propositions": [
           "250",
           "15",
@@ -365,7 +365,7 @@
           "640"
         ],
         "reponse": "15",
-        "anecdote": "Les tortues marines, bien que vulnerables, sont presentes dans tous les oceans du monde, à l'exception de l'ocean Arctique."
+        "anecdote": "Les tortues marines, bien que vulnerables, sont presentes dans tous les oceans du monde, a l exception de l ocean Arctique."
       },
       {
         "id": 28,
@@ -377,11 +377,11 @@
           "78 fois"
         ],
         "reponse": "78 fois",
-        "anecdote": "Les colibris sont egalement surnommes oiseaux-mouches à cause de leur petite taille et de leurs battements d'ailes rapides."
+        "anecdote": "Les colibris sont egalement surnommes oiseaux-mouches a cause de leur petite taille et de leurs battements d ailes rapides."
       },
       {
         "id": 29,
-        "question": "Au sens large du terme, combien existe-t-il d'especes de kangourous ?",
+        "question": "Au sens large du terme, combien existe-t-il d especes de kangourous ?",
         "propositions": [
           "37",
           "51",
@@ -389,11 +389,11 @@
           "44"
         ],
         "reponse": "63",
-        "anecdote": "Animal emblematique de l'Australie, le grand kangourou y est plus populaire dans les campagnes que dans les villes."
+        "anecdote": "Animal emblematique de l Australie, le grand kangourou y est plus populaire dans les campagnes que dans les villes."
       },
       {
         "id": 30,
-        "question": "Combien a-t-on decouvert jusqu'ici d'especes de coleopteres ?",
+        "question": "Combien a-t-on decouvert jusqu ici d especes de coleopteres ?",
         "propositions": [
           "9 600",
           "7 200",
@@ -647,7 +647,7 @@
           "130"
         ],
         "reponse": "100",
-        "anecdote": "At the eggs' closing, the baby crocodile is approximately 30 cm and has the same body as his mother, whether male or female."
+        "anecdote": "At the eggs  closing, the baby crocodile is approximately 30 cm and has the same body as his mother, whether male or female."
       }
     ],
     "expert": [
@@ -697,7 +697,7 @@
           "180 days"
         ],
         "reponse": "270 days",
-        "anecdote": "The squirrel's plume tail and its relentless winter provisions have contributed to its popularity."
+        "anecdote": "The squirrel s plume tail and its relentless winter provisions have contributed to its popularity."
       },
       {
         "id": 25,
@@ -1521,7 +1521,7 @@
           "13 mesi"
         ],
         "reponse": "21 mesi",
-        "anecdote": "Un elefante può essere incinta fino ai cinquant'anni, dove nella maggior parte dei casi viene trasportato un solo elefante."
+        "anecdote": "Un elefante può essere incinta fino ai cinquant anni, dove nella maggior parte dei casi viene trasportato un solo elefante."
       },
       {
         "id": 2,
@@ -1549,7 +1549,7 @@
       },
       {
         "id": 4,
-        "question": "In quale anno e stato l'ultimo dodo vivente visto a Mauritius ?",
+        "question": "In quale anno e stato l ultimo dodo vivente visto a Mauritius ?",
         "propositions": [
           "1723",
           "1832",
@@ -1557,7 +1557,7 @@
           "1681"
         ],
         "reponse": "1681",
-        "anecdote": "Oltre alla sua incapacità di volare, il dodo non aveva sviluppato alcuna paura per gli umani, rendendolo una facile preda."
+        "anecdote": "Oltre alla sua incapacita di volare, il dodo non aveva sviluppato alcuna paura per gli umani, rendendolo una facile preda."
       },
       {
         "id": 5,
@@ -1585,7 +1585,7 @@
       },
       {
         "id": 7,
-        "question": "Quanti minuti può un leone marino nuotare sott'acqua senza respirare ?",
+        "question": "Quanti minuti può un leone marino nuotare sott acqua senza respirare ?",
         "propositions": [
           "11 minuti",
           "7 minuti",
@@ -1679,11 +1679,11 @@
           "60 km / h"
         ],
         "reponse": "60 km / h",
-        "anecdote": "Il leopardo occupa un posto importante in alcune culture africane in cui questo re degli animali e l'attributo dei capi."
+        "anecdote": "Il leopardo occupa un posto importante in alcune culture africane in cui questo re degli animali e l attributo dei capi."
       },
       {
         "id": 15,
-        "question": "Quanti minuti può un capodoglio rimanere sott'acqua senza respirare ?",
+        "question": "Quanti minuti può un capodoglio rimanere sott acqua senza respirare ?",
         "propositions": [
           "70 minuti",
           "30 minuti",
@@ -1691,7 +1691,7 @@
           "90 minuti"
         ],
         "reponse": "90 minuti",
-        "anecdote": "Spermaceti, una sostanza bianca e cerosa dalla testa dell'animale, e stata raccolta dal capodoglio."
+        "anecdote": "Spermaceti, una sostanza bianca e cerosa dalla testa dell animale, e stata raccolta dal capodoglio."
       },
       {
         "id": 16,
@@ -1727,7 +1727,7 @@
           "45"
         ],
         "reponse": "25",
-        "anecdote": "Perfettamente adattato al suo habitat, l'orso polare ha uno spesso strato di grasso e una pelliccia che lo isola dal freddo."
+        "anecdote": "Perfettamente adattato al suo habitat, l orso polare ha uno spesso strato di grasso e una pelliccia che lo isola dal freddo."
       },
       {
         "id": 19,
@@ -1777,7 +1777,7 @@
           "11"
         ],
         "reponse": "47",
-        "anecdote": "Gli adulti si nutrono di nettare di fiori e partecipano all'impollinazione delle piante, proprio come le farfalle."
+        "anecdote": "Gli adulti si nutrono di nettare di fiori e partecipano all impollinazione delle piante, proprio come le farfalle."
       },
       {
         "id": 23,
@@ -1789,11 +1789,11 @@
           "100 cm"
         ],
         "reponse": "300 cm",
-        "anecdote": "Il koala e strettamente correlato all'eucalipto o albero della gomma, dal quale mangia solo le foglie di alcune specie."
+        "anecdote": "Il koala e strettamente correlato all eucalipto o albero della gomma, dal quale mangia solo le foglie di alcune specie."
       },
       {
         "id": 24,
-        "question": "Quanti giorni ha uno scoiattolo dell'Alaska in letargo ?",
+        "question": "Quanti giorni ha uno scoiattolo dell Alaska in letargo ?",
         "propositions": [
           "410 giorni",
           "180 giorni",
@@ -1801,11 +1801,11 @@
           "270 giorni"
         ],
         "reponse": "270 giorni",
-        "anecdote": "La coda del pennacchio dello scoiattolo e le sue implacabili disposizioni invernali hanno contribuito alla sua popolarità."
+        "anecdote": "La coda del pennacchio dello scoiattolo e le sue implacabili disposizioni invernali hanno contribuito alla sua popolarita."
       },
       {
         "id": 25,
-        "question": "Qual e la velocità massima raggiunta dal pesce spada a vela ?",
+        "question": "Qual e la velocita massima raggiunta dal pesce spada a vela ?",
         "propositions": [
           "89 km / h",
           "99 km / h",
@@ -1829,7 +1829,7 @@
       },
       {
         "id": 27,
-        "question": "Su un migliaio di tartarughe marine, quanti riescono a raggiungere l'età per riprodursi ?",
+        "question": "Su un migliaio di tartarughe marine, quanti riescono a raggiungere l eta per riprodursi ?",
         "propositions": [
           "15",
           "640",
@@ -1837,7 +1837,7 @@
           "100"
         ],
         "reponse": "15",
-        "anecdote": "Le tartarughe marine, sebbene vulnerabili, sono presenti in tutti gli oceani del mondo, ad eccezione dell'Oceano Artico."
+        "anecdote": "Le tartarughe marine, sebbene vulnerabili, sono presenti in tutti gli oceani del mondo, ad eccezione dell Oceano Artico."
       },
       {
         "id": 28,
@@ -1849,7 +1849,7 @@
           "58 volte"
         ],
         "reponse": "78 volte",
-        "anecdote": "I colibrì sono anche conosciuti come colibrì a causa delle loro piccole dimensioni e veloci battiti d'ali."
+        "anecdote": "I colibrì sono anche conosciuti come colibrì a causa delle loro piccole dimensioni e veloci battiti d ali."
       },
       {
         "id": 29,
@@ -1861,7 +1861,7 @@
           "63"
         ],
         "reponse": "63",
-        "anecdote": "Un animale emblematico dell'Australia, il grande canguro e piu popolare nelle campagne che nelle città."
+        "anecdote": "Un animale emblematico dell Australia, il grande canguro e piu popolare nelle campagne che nelle citta."
       },
       {
         "id": 30,

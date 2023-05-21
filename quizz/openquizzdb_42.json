@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "Potins de stars 2014",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,8 +21,8 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
-      "nom": "Gossip sulle celebrità 2014",
+      "categorie": "Celebrita",
+      "nom": "Gossip sulle celebrita 2014",
       "slogan": "Hanno fatto notizia"
     },
     "de": {
@@ -49,11 +49,11 @@
           "Tom Cruise"
         ],
         "reponse": "Chris Hemsworth",
-        "anecdote": "Chris Hemsworth est mondialement reconnu grace à l'interpretation du super-heros Thor dans les films Marvel."
+        "anecdote": "Chris Hemsworth est mondialement reconnu grace a l interpretation du super-heros Thor dans les films Marvel."
       },
       {
         "id": 2,
-        "question": "Quel anniversaire de carriere l'humoriste Gad Elmaleh a-t-il fete à Paris fin 2014 ?",
+        "question": "Quel anniversaire de carriere l humoriste Gad Elmaleh a-t-il fete a Paris fin 2014 ?",
         "propositions": [
           "Ses 20 ans",
           "Ses 30 ans",
@@ -61,7 +61,7 @@
           "Ses 25 ans"
         ],
         "reponse": "Ses 20 ans",
-        "anecdote": "Gad Elmaleh est devenu la « risee du web » selon « Le Nouvel Observateur » suite à ses spots publicitaires pour la banque LCL."
+        "anecdote": "Gad Elmaleh est devenu la « risee du web » selon « Le Nouvel Observateur » suite a ses spots publicitaires pour la banque LCL."
       },
       {
         "id": 3,
@@ -69,7 +69,7 @@
         "propositions": [
           "Alizee",
           "Tal",
-          "Shy'm",
+          "Shy m",
           "Lorie"
         ],
         "reponse": "Alizee",
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Quelle star a remplace Louis Bertignac dans « The Voice » à partir de la saison 3 ?",
+        "question": "Quelle star a remplace Louis Bertignac dans « The Voice » a partir de la saison 3 ?",
         "propositions": [
           "Jenifer",
           "Mika",
@@ -97,11 +97,11 @@
           "Garou"
         ],
         "reponse": "Mika",
-        "anecdote": "Produite par Shine France, « The Voice » est adaptee de l'emission musicale neerlandaise « The Voice of Holland »."
+        "anecdote": "Produite par Shine France, « The Voice » est adaptee de l emission musicale neerlandaise « The Voice of Holland »."
       },
       {
         "id": 6,
-        "question": "Qui a ete elu artiste masculin francophone de l'annee aux NRJ Music Awards 2014 ?",
+        "question": "Qui a ete elu artiste masculin francophone de l annee aux NRJ Music Awards 2014 ?",
         "propositions": [
           "Christophe Mae",
           "M. Pokora",
@@ -113,7 +113,7 @@
       },
       {
         "id": 7,
-        "question": "Quelle artiste francaise est consideree à tort comme une chanteuse de rue ?",
+        "question": "Quelle artiste francaise est consideree a tort comme une chanteuse de rue ?",
         "propositions": [
           "Anggun",
           "Indila",
@@ -121,7 +121,7 @@
           "Vitaa"
         ],
         "reponse": "Zaz",
-        "anecdote": "Zaz a ete connue grace à la deuxieme chanson de son premier album, « Zaz », qui a ete publie le 10 mai 2010."
+        "anecdote": "Zaz a ete connue grace a la deuxieme chanson de son premier album, « Zaz », qui a ete publie le 10 mai 2010."
       },
       {
         "id": 8,
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "Que s'est-il passe en 2014 pour les acteurs Melanie Griffith et Antonio Banderas ?",
+        "question": "Que s est-il passe en 2014 pour les acteurs Melanie Griffith et Antonio Banderas ?",
         "propositions": [
           "Ils se sont maries",
           "Ils se sont separes",
@@ -171,7 +171,7 @@
           "Maddox"
         ],
         "reponse": "Vivienne",
-        "anecdote": "Selon le magazine « Forbes », Angelina Jolie fut l'actrice la mieux payee d'Hollywood entre juin 2012 et juin 2013."
+        "anecdote": "Selon le magazine « Forbes », Angelina Jolie fut l actrice la mieux payee d Hollywood entre juin 2012 et juin 2013."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Vogue"
         ],
         "reponse": "Paper",
-        "anecdote": "Kim Kardashian a realise « Kim Kardashian Superstar », une sextape en amateur en 2003 avec le chanteur R'n'B Ray J."
+        "anecdote": "Kim Kardashian a realise « Kim Kardashian Superstar », une sextape en amateur en 2003 avec le chanteur R n B Ray J."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Justin Timberlake"
         ],
         "reponse": "Prince",
-        "anecdote": "Prince fut pourtant l'un des premiers à experimenter la diffusion de la musique par Internet, avant de s'en distancer."
+        "anecdote": "Prince fut pourtant l un des premiers a experimenter la diffusion de la musique par Internet, avant de s en distancer."
       },
       {
         "id": 14,
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Quelle rappeuse australienne, detrônant Eminem,fut revelation rap de l'annee 2014 ?",
+        "question": "Quelle rappeuse australienne, detrônant Eminem,fut revelation rap de l annee 2014 ?",
         "propositions": [
           "Amber Liu",
           "Minzy",
@@ -219,7 +219,7 @@
           "Iggy Azalea"
         ],
         "reponse": "Iggy Azalea",
-        "anecdote": "Iggy Azalea a ete influencee par le hip-hop des l'age de 11 ans, alors qu'elle ecoutait Tupac Shakur et sa chanson « Baby Don't Cry »."
+        "anecdote": "Iggy Azalea a ete influencee par le hip-hop des l age de 11 ans, alors qu elle ecoutait Tupac Shakur et sa chanson « Baby Don t Cry »."
       },
       {
         "id": 16,
@@ -243,11 +243,11 @@
           "Emma Watson"
         ],
         "reponse": "Ellen Page",
-        "anecdote": "Ce discours a ete prononce le jour de la Saint-Valentin, lors d'une conference LGBT."
+        "anecdote": "Ce discours a ete prononce le jour de la Saint-Valentin, lors d une conference LGBT."
       },
       {
         "id": 18,
-        "question": "Avec quel acteur le jeune canadien Justin Bieber s'est-il battu à Ibiza en juillet 2014 ?",
+        "question": "Avec quel acteur le jeune canadien Justin Bieber s est-il battu a Ibiza en juillet 2014 ?",
         "propositions": [
           "Brad Pitt",
           "Leonardo DiCaprio",
@@ -279,13 +279,13 @@
           "Natalia Vodianova"
         ],
         "reponse": "Natalia Vodianova",
-        "anecdote": "Natalia Vodianova est egalement connue pour avoir joue dans le film « Belle du Seigneur » et pour etre la compagne d'Antoine Arnault."
+        "anecdote": "Natalia Vodianova est egalement connue pour avoir joue dans le film « Belle du Seigneur » et pour etre la compagne d Antoine Arnault."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Marie à Vanessa Paradis, combien de dollars Johnny Depp pesait-il au box-office en 2014 ?",
+        "question": "Marie a Vanessa Paradis, combien de dollars Johnny Depp pesait-il au box-office en 2014 ?",
         "propositions": [
           "6 milliards",
           "4 milliards",
@@ -293,7 +293,7 @@
           "2 milliards"
         ],
         "reponse": "8 milliards",
-        "anecdote": "Johnny Depp est devenu celebre dans les annees 1980 grace à son rôle dans la serie televisee « 21 Jump Street »."
+        "anecdote": "Johnny Depp est devenu celebre dans les annees 1980 grace a son rôle dans la serie televisee « 21 Jump Street »."
       },
       {
         "id": 22,
@@ -317,11 +317,11 @@
           "Nicki Minaj"
         ],
         "reponse": "Selena Gomez",
-        "anecdote": "En parallele à sa carriere, Selena Gomez est egalement une ambassadrice de bonne volonte pour l'Unicef depuis 2009."
+        "anecdote": "En parallele a sa carriere, Selena Gomez est egalement une ambassadrice de bonne volonte pour l Unicef depuis 2009."
       },
       {
         "id": 24,
-        "question": "Avec qui s'est mariee Leighton Meester, l'interprete de Blair dans la serie « Gossip Girl » ?",
+        "question": "Avec qui s est mariee Leighton Meester, l interprete de Blair dans la serie « Gossip Girl » ?",
         "propositions": [
           "Adam Brody",
           "Matthew Laborteaux",
@@ -329,7 +329,7 @@
           "Joe Armstrong"
         ],
         "reponse": "Ed Westwick",
-        "anecdote": "Leighton Meester est apparue à plusieurs reprises dans le classement des cent plus belles femmes du monde."
+        "anecdote": "Leighton Meester est apparue a plusieurs reprises dans le classement des cent plus belles femmes du monde."
       },
       {
         "id": 25,
@@ -345,7 +345,7 @@
       },
       {
         "id": 26,
-        "question": "Qui a remplace Nabilla, alors en prison, comme marraine de l'edition Top Model Belgium 2014 ?",
+        "question": "Qui a remplace Nabilla, alors en prison, comme marraine de l edition Top Model Belgium 2014 ?",
         "propositions": [
           "Ayem",
           "Leila",
@@ -365,7 +365,7 @@
           "Eva Longoria"
         ],
         "reponse": "Axelle Francine",
-        "anecdote": "Tony Parker a egalement ete marie avec l'actrice americaine Eva Longoria, une des vedettes de la serie « Desperate Housewives »."
+        "anecdote": "Tony Parker a egalement ete marie avec l actrice americaine Eva Longoria, une des vedettes de la serie « Desperate Housewives »."
       },
       {
         "id": 28,
@@ -377,11 +377,11 @@
           "Anouk Aimee"
         ],
         "reponse": "Macha Meril",
-        "anecdote": "Macha Meril est nee princesse Maria-Magdalena Wladimirovna Gagarina le 3 septembre 1940, à Rabat au Maroc."
+        "anecdote": "Macha Meril est nee princesse Maria-Magdalena Wladimirovna Gagarina le 3 septembre 1940, a Rabat au Maroc."
       },
       {
         "id": 29,
-        "question": "Quel boys band a annonce qu'il allait se separer des que sa tournee 2014 serait terminee ?",
+        "question": "Quel boys band a annonce qu il allait se separer des que sa tournee 2014 serait terminee ?",
         "propositions": [
           "The Wanted",
           "Fifth Harmony",
@@ -389,7 +389,7 @@
           "Coldplay"
         ],
         "reponse": "The Wanted",
-        "anecdote": "Le 22 janvier 2014, les membres du groupe annoncent leur separation pour se consacrer à des projets personnels."
+        "anecdote": "Le 22 janvier 2014, les membres du groupe annoncent leur separation pour se consacrer a des projets personnels."
       },
       {
         "id": 30,

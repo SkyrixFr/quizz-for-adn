@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "5 / 5",
   "version": 1,
-  "mise-à-jour": "2022-05-01",
+  "mise-a-jour": "2022-05-01",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Sciences",
@@ -49,7 +49,7 @@
           "Électricite"
         ],
         "reponse": "Électricite",
-        "anecdote": "Nikola Tesla a en effet principalement oeuvre dans le domaine de l'electricite, mais etait egalement ingenieur mecanique."
+        "anecdote": "Nikola Tesla a en effet principalement oeuvre dans le domaine de l electricite, mais etait egalement ingenieur mecanique."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "James Cash Jr."
         ],
         "reponse": "Thomas Edison",
-        "anecdote": "Tesla proposa le courant alternatif, qui resoudrait de nombreux problemes, tandis qu'Edison resta un defenseur du courant continu."
+        "anecdote": "Tesla proposa le courant alternatif, qui resoudrait de nombreux problemes, tandis qu Edison resta un defenseur du courant continu."
       },
       {
         "id": 3,
@@ -73,11 +73,11 @@
           "200"
         ],
         "reponse": "300",
-        "anecdote": "Beaucoup de ces brevets traitant de methodes pour aborder la conversion de l'energie sont attribues à tort à Thomas Edison."
+        "anecdote": "Beaucoup de ces brevets traitant de methodes pour aborder la conversion de l energie sont attribues a tort a Thomas Edison."
       },
       {
         "id": 4,
-        "question": "Quel nom a ete donne à l'unite internationale d'induction magnetique ?",
+        "question": "Quel nom a ete donne a l unite internationale d induction magnetique ?",
         "propositions": [
           "Hertz",
           "Ohm",
@@ -85,11 +85,11 @@
           "Tesla"
         ],
         "reponse": "Tesla",
-        "anecdote": "La presence du champ magnetique se traduit par l'existence d'une force agissant sur les charges electriques en mouvement."
+        "anecdote": "La presence du champ magnetique se traduit par l existence d une force agissant sur les charges electriques en mouvement."
       },
       {
         "id": 5,
-        "question": "Quelle nationalite Nikola Tesla a-t-il declaree avant d'etre naturalise americain ?",
+        "question": "Quelle nationalite Nikola Tesla a-t-il declaree avant d etre naturalise americain ?",
         "propositions": [
           "Suisse",
           "Russe",
@@ -97,7 +97,7 @@
           "Polonaise"
         ],
         "reponse": "Autrichienne",
-        "anecdote": "Tesla est ne le 10 juillet 1856, à Smiljan, dans les confins militaires de l'Empire d'Autriche, avant-dernier d'une famille de cinq enfants."
+        "anecdote": "Tesla est ne le 10 juillet 1856, a Smiljan, dans les confins militaires de l Empire d Autriche, avant-dernier d une famille de cinq enfants."
       },
       {
         "id": 6,
@@ -109,11 +109,11 @@
           "Huit"
         ],
         "reponse": "Huit",
-        "anecdote": "Tesla parlait le tcheque, l'anglais, le francais, l'allemand, le hongrois, l'italien et le latin en plus de sa langue natale, le serbo-croate."
+        "anecdote": "Tesla parlait le tcheque, l anglais, le francais, l allemand, le hongrois, l italien et le latin en plus de sa langue natale, le serbo-croate."
       },
       {
         "id": 7,
-        "question": "Grace à quel type de courant Nikola Tesla a-t-il revolutionne l'electricite ?",
+        "question": "Grace a quel type de courant Nikola Tesla a-t-il revolutionne l electricite ?",
         "propositions": [
           "Continu",
           "Structure",
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Quelle machine electrique de Tesla permet d'atteindre de tres hautes tensions ?",
+        "question": "Quelle machine electrique de Tesla permet d atteindre de tres hautes tensions ?",
         "propositions": [
           "Commutatrice",
           "Bobine Tesla",
@@ -145,11 +145,11 @@
           "Radar"
         ],
         "reponse": "Radar",
-        "anecdote": "En 1934, suite à une etude du magnetron, des essais par ondes courtes furent menes par la CSF selon les principes de Tesla."
+        "anecdote": "En 1934, suite a une etude du magnetron, des essais par ondes courtes furent menes par la CSF selon les principes de Tesla."
       },
       {
         "id": 10,
-        "question": "À qui de nombreuses inventions de Nikola Tesla ont-elles ete attribuees à tort ?",
+        "question": "À qui de nombreuses inventions de Nikola Tesla ont-elles ete attribuees a tort ?",
         "propositions": [
           "Thomas Edison",
           "George Westinghouse",
@@ -157,7 +157,7 @@
           "Paul Dimo"
         ],
         "reponse": "Thomas Edison",
-        "anecdote": "Tesla est entre autres l'auteur du moteur electrique asynchrone, de l'alternateur polyphase et du montage triphase en etoile."
+        "anecdote": "Tesla est entre autres l auteur du moteur electrique asynchrone, de l alternateur polyphase et du montage triphase en etoile."
       }
     ],
     "confirme": [
@@ -171,7 +171,7 @@
           "1856"
         ],
         "reponse": "1856",
-        "anecdote": "Ne d'une famille serbe orthodoxe de Croatie, fier de ses origines, Tesla a toujours revendique ses ascendances serbes et croates."
+        "anecdote": "Ne d une famille serbe orthodoxe de Croatie, fier de ses origines, Tesla a toujours revendique ses ascendances serbes et croates."
       },
       {
         "id": 12,
@@ -195,11 +195,11 @@
           "Baroudeur"
         ],
         "reponse": "Decouvreur",
-        "anecdote": "Nikola Tesla est reconnu comme l'un des ingenieurs les plus creatifs de la fin du XIXe et du debut du XXe siecle."
+        "anecdote": "Nikola Tesla est reconnu comme l un des ingenieurs les plus creatifs de la fin du XIXe et du debut du XXe siecle."
       },
       {
         "id": 14,
-        "question": "Quelle guerre s'est engagee entre Westinghouse-Tesla et Edison ?",
+        "question": "Quelle guerre s est engagee entre Westinghouse-Tesla et Edison ?",
         "propositions": [
           "Des ondes",
           "Des courants",
@@ -207,11 +207,11 @@
           "Du ohm"
         ],
         "reponse": "Des courants",
-        "anecdote": "Cette controverse technique et industrielle, parfois appelee bataille des courants, se deroula à la fin des annees 1880."
+        "anecdote": "Cette controverse technique et industrielle, parfois appelee bataille des courants, se deroula a la fin des annees 1880."
       },
       {
         "id": 15,
-        "question": "Quel objet fut invente suite à une campagne de lobbying menee par Edison ?",
+        "question": "Quel objet fut invente suite a une campagne de lobbying menee par Edison ?",
         "propositions": [
           "Polygraphe",
           "Ampoule",
@@ -219,7 +219,7 @@
           "Chaise electrique"
         ],
         "reponse": "Chaise electrique",
-        "anecdote": "Thomas Edison embaucha à cet effet Harold P. Brown qui acheta un generateur alternatif pour electrocuter William Kemmler."
+        "anecdote": "Thomas Edison embaucha a cet effet Harold P. Brown qui acheta un generateur alternatif pour electrocuter William Kemmler."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Le Prestige"
         ],
         "reponse": "Le Prestige",
-        "anecdote": "Les scenes presentant la machine de Nikola Tesla furent filmees à l'observatoire du Mont Wilson et d'autres scenes à Colorado Springs."
+        "anecdote": "Les scenes presentant la machine de Nikola Tesla furent filmees a l observatoire du Mont Wilson et d autres scenes a Colorado Springs."
       },
       {
         "id": 17,
@@ -243,11 +243,11 @@
           "Énergie totale"
         ],
         "reponse": "Énergie libre",
-        "anecdote": "« Dans quelques generations nos machines seront animees grace à une energie disponible en tous points de l'univers » (1892)."
+        "anecdote": "« Dans quelques generations nos machines seront animees grace a une energie disponible en tous points de l univers » (1892)."
       },
       {
         "id": 18,
-        "question": "En quelle annee Tesla s'est-il eteint dans sa chambre d'hôtel, seul et sans un sou ?",
+        "question": "En quelle annee Tesla s est-il eteint dans sa chambre d hôtel, seul et sans un sou ?",
         "propositions": [
           "1943",
           "1933",
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Qui a pu recuperer l'urne funeraire et les documents de Tesla apres sa mort ?",
+        "question": "Qui a pu recuperer l urne funeraire et les documents de Tesla apres sa mort ?",
         "propositions": [
           "Son epouse",
           "Son frere",
@@ -267,7 +267,7 @@
           "Son neveu"
         ],
         "reponse": "Son neveu",
-        "anecdote": "Grace à Sava Kosanovic, son neveu, l'urne et les documents sont aujourd'hui conserves au Musee Nikola Tesla à Belgrade en Serbie."
+        "anecdote": "Grace a Sava Kosanovic, son neveu, l urne et les documents sont aujourd hui conserves au Musee Nikola Tesla a Belgrade en Serbie."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Warehouse 13"
         ],
         "reponse": "Warehouse 13",
-        "anecdote": "L'arme des agents de l'entrepôt 13, un pistolet incapacitant electrique, est nommee d'apres Tesla, qui serait son inventeur."
+        "anecdote": "L arme des agents de l entrepôt 13, un pistolet incapacitant electrique, est nommee d apres Tesla, qui serait son inventeur."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Graz"
         ],
         "reponse": "Graz",
-        "anecdote": "Il y etudie les mathematiques, la physique et la mecanique, grace à une bourse attribuee par l'administration des Confins militaires."
+        "anecdote": "Il y etudie les mathematiques, la physique et la mecanique, grace a une bourse attribuee par l administration des Confins militaires."
       },
       {
         "id": 22,
@@ -305,11 +305,11 @@
           "David Hilbert"
         ],
         "reponse": "Ernst Mach",
-        "anecdote": "Suite au deces de son pere, Nikola Tesla quitte l'universite Charles de Prague, n'y ayant effectue qu'un seul semestre d'etude."
+        "anecdote": "Suite au deces de son pere, Nikola Tesla quitte l universite Charles de Prague, n y ayant effectue qu un seul semestre d etude."
       },
       {
         "id": 23,
-        "question": "À qui Tesla aurait-il vendu les plans de son arme à energie dirigee ?",
+        "question": "À qui Tesla aurait-il vendu les plans de son arme a energie dirigee ?",
         "propositions": [
           "Aux allemands",
           "Aux russes",
@@ -317,7 +317,7 @@
           "Aux serbes"
         ],
         "reponse": "Aux russes",
-        "anecdote": "L'arme n'a pas ete plus developpee, et on peut donc en deduire que, si la rumeur est vraie, l'arme ne fut jamais operationnelle."
+        "anecdote": "L arme n a pas ete plus developpee, et on peut donc en deduire que, si la rumeur est vraie, l arme ne fut jamais operationnelle."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "Pretre"
         ],
         "reponse": "Pretre",
-        "anecdote": "Sa mere etait douee pour la fabrication d'outils artisanaux et, bien qu'analphabete, pour memoriser des poemes serbes."
+        "anecdote": "Sa mere etait douee pour la fabrication d outils artisanaux et, bien qu analphabete, pour memoriser des poemes serbes."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Magasinier"
         ],
         "reponse": "Terrassier",
-        "anecdote": "Ayant mis toutes ses economies dans sa societe, Tesla est ruine, d'autant plus que ses associes gardent la jouissance de ses brevets."
+        "anecdote": "Ayant mis toutes ses economies dans sa societe, Tesla est ruine, d autant plus que ses associes gardent la jouissance de ses brevets."
       },
       {
         "id": 26,
@@ -353,11 +353,11 @@
           "432 000 $"
         ],
         "reponse": "216 000 $",
-        "anecdote": "En 1893, la compagnie de Westinghouse à reussi à obtenir le contrat d'installation de toute l'infrastructure electrique des USA."
+        "anecdote": "En 1893, la compagnie de Westinghouse a reussi a obtenir le contrat d installation de toute l infrastructure electrique des USA."
       },
       {
         "id": 27,
-        "question": "Quel nom Tesla a-t-il donne, en 1898, à son bateau radiocommande ?",
+        "question": "Quel nom Tesla a-t-il donne, en 1898, a son bateau radiocommande ?",
         "propositions": [
           "Radiobato",
           "Teslaboat",
@@ -365,7 +365,7 @@
           "Navycommand"
         ],
         "reponse": "Teleautomaton",
-        "anecdote": "L'appareil fait sensation, et certains considerent qu'il est mû par l'esprit de Tesla ou pilote par un singe savant cache à l'interieur."
+        "anecdote": "L appareil fait sensation, et certains considerent qu il est mû par l esprit de Tesla ou pilote par un singe savant cache a l interieur."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Lampe"
         ],
         "reponse": "Biplan",
-        "anecdote": "De nos jours, ce type d'avion est parfois appele hybride ou convertible, surtout dans le cas d'avion à moteurs basculants."
+        "anecdote": "De nos jours, ce type d avion est parfois appele hybride ou convertible, surtout dans le cas d avion a moteurs basculants."
       },
       {
         "id": 29,
@@ -389,11 +389,11 @@
           "Alfred Welby"
         ],
         "reponse": "John Scott",
-        "anecdote": "Prestigieuse recompense attribuee à des scientifiques depuis 1816, Marconi l'avait obtenue en 1931 et Edison en 1889 et 1929."
+        "anecdote": "Prestigieuse recompense attribuee a des scientifiques depuis 1816, Marconi l avait obtenue en 1931 et Edison en 1889 et 1929."
       },
       {
         "id": 30,
-        "question": "Quelle romanciere a consacre deux ouvrages à Nikola Tesla ?",
+        "question": "Quelle romanciere a consacre deux ouvrages a Nikola Tesla ?",
         "propositions": [
           "Suzanne Prou",
           "Virginie Despentes",
@@ -401,7 +401,7 @@
           "Annie Ernaux"
         ],
         "reponse": "Martine Le Coz",
-        "anecdote": "Sa biographie, « L'Homme electrique », revenant sur la voie scientifique de l'homme et un roman graphique, « La Tour de Wardenclyffe »."
+        "anecdote": "Sa biographie, « L Homme electrique », revenant sur la voie scientifique de l homme et un roman graphique, « La Tour de Wardenclyffe »."
       }
     ]
     }

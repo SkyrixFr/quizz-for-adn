@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "5 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Arts",
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Qui a sculpte avec Tribolo et Montelupo les tombeaux des Medicis à Florence ?",
+        "question": "Qui a sculpte avec Tribolo et Montelupo les tombeaux des Medicis a Florence ?",
         "propositions": [
           "Michel-Ange",
           "Vicentino",
@@ -49,11 +49,11 @@
           "Donatello"
         ],
         "reponse": "Michel-Ange",
-        "anecdote": "Les tombeaux des Medicis sont deux monuments de la « Nouvelle Sacristie » elaboree à l'interieur des Chapelles des Medicis."
+        "anecdote": "Les tombeaux des Medicis sont deux monuments de la « Nouvelle Sacristie » elaboree a l interieur des Chapelles des Medicis."
       },
       {
         "id": 2,
-        "question": "Ou peut-on voir la « Victoire de Samothrace », sculpture grecque de l'epoque hellenistique ?",
+        "question": "Ou peut-on voir la « Victoire de Samothrace », sculpture grecque de l epoque hellenistique ?",
         "propositions": [
           "Metro Museum",
           "Centre Pompidou",
@@ -73,7 +73,7 @@
           "La Panne"
         ],
         "reponse": "La Panne",
-        "anecdote": "C'est là que le premier roi des belges mit le pied sur « ses » terres en juillet 1831."
+        "anecdote": "C est la que le premier roi des belges mit le pied sur « ses » terres en juillet 1831."
       },
       {
         "id": 4,
@@ -85,11 +85,11 @@
           "Vase"
         ],
         "reponse": "Urinoir",
-        "anecdote": "Oeuvre controversee de l'art du XXe siecle, « Fontaine » est un ready made, c'est-à-dire un « objet tout fait »."
+        "anecdote": "Oeuvre controversee de l art du XXe siecle, « Fontaine » est un ready made, c est-a-dire un « objet tout fait »."
       },
       {
         "id": 5,
-        "question": "Quelle statue monumentale de Michel-Ange trône à Florence ?",
+        "question": "Quelle statue monumentale de Michel-Ange trône a Florence ?",
         "propositions": [
           "Apollon",
           "Goliath",
@@ -97,7 +97,7 @@
           "David"
         ],
         "reponse": "David",
-        "anecdote": "La statue de 4.34 metres de hauteur est tiree d'un bloc de marbre blanc de Carrare."
+        "anecdote": "La statue de 4.34 metres de hauteur est tiree d un bloc de marbre blanc de Carrare."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Joseph Desbrosses"
         ],
         "reponse": "Auguste Bartholdi",
-        "anecdote": "Il est aussi l'auteur de la Fontaine Bartholdi, situee Place des Terreaux à Lyon."
+        "anecdote": "Il est aussi l auteur de la Fontaine Bartholdi, situee Place des Terreaux a Lyon."
       },
       {
         "id": 7,
@@ -121,14 +121,14 @@
           "Musee Magnin"
         ],
         "reponse": "Musee du Louvre",
-        "anecdote": "Le buste de la statue a ete mis au jour le 8 avril 1820 à Milo, une île de la mer Égee."
+        "anecdote": "Le buste de la statue a ete mis au jour le 8 avril 1820 a Milo, une île de la mer Égee."
       },
       {
         "id": 8,
         "question": "Dans quel musee francais peut-on admirer la « Victoire de Samothrace » ?",
         "propositions": [
           "Musee du Louvre",
-          "Musee d'Orsay",
+          "Musee d Orsay",
           "Musee Rodin",
           "Musee Picasso"
         ],
@@ -145,7 +145,7 @@
           "Moreau"
         ],
         "reponse": "Rodin",
-        "anecdote": "« Le Baiser » de Rodin est une sculpture en marbre representant un couple enlace realisee à l'echelle 1."
+        "anecdote": "« Le Baiser » de Rodin est une sculpture en marbre representant un couple enlace realisee a l echelle 1."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Liege"
         ],
         "reponse": "Tournai",
-        "anecdote": "En l'absence de son mari, elle defendit la ville de Tournai contre le prince de Parme."
+        "anecdote": "En l absence de son mari, elle defendit la ville de Tournai contre le prince de Parme."
       }
     ],
     "confirme": [
@@ -171,11 +171,11 @@
           "Animaliere"
         ],
         "reponse": "Animaliere",
-        "anecdote": "À partir des annees 1860, Auguste Cain commencera à recevoir des commandes officielles."
+        "anecdote": "À partir des annees 1860, Auguste Cain commencera a recevoir des commandes officielles."
       },
       {
         "id": 12,
-        "question": "Quel celebre sculpteur a participe à la construction du Parthenon ?",
+        "question": "Quel celebre sculpteur a participe a la construction du Parthenon ?",
         "propositions": [
           "Phidias",
           "Elias",
@@ -183,7 +183,7 @@
           "Galidias"
         ],
         "reponse": "Phidias",
-        "anecdote": "Phidias sera choisi par Pericles pour superviser l'ensemble des travaux de sculpture."
+        "anecdote": "Phidias sera choisi par Pericles pour superviser l ensemble des travaux de sculpture."
       },
       {
         "id": 13,
@@ -207,11 +207,11 @@
           "Porte de Brisach"
         ],
         "reponse": "Lion de Belfort",
-        "anecdote": "La sculpture represente un lion couche et blesse pret à se dresser qui repose sur un piedestal en rocaillage."
+        "anecdote": "La sculpture represente un lion couche et blesse pret a se dresser qui repose sur un piedestal en rocaillage."
       },
       {
         "id": 15,
-        "question": "À quel sculpteur doit-on la statue equestre de Vercingetorix situee à Clermont-Ferrand ?",
+        "question": "À quel sculpteur doit-on la statue equestre de Vercingetorix situee a Clermont-Ferrand ?",
         "propositions": [
           "Antoine Bourdelle",
           "Auguste Bartholdi",
@@ -219,7 +219,7 @@
           "Honore Daumier"
         ],
         "reponse": "Auguste Bartholdi",
-        "anecdote": "Cette statue fait face à la statue du general Desaix, sur la place de Jaude."
+        "anecdote": "Cette statue fait face a la statue du general Desaix, sur la place de Jaude."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Alberto Giacometti"
         ],
         "reponse": "Alberto Giacometti",
-        "anecdote": "À la fin de sa vie, Giacometti sera comble d'honneurs en remportant de nombreux prix."
+        "anecdote": "À la fin de sa vie, Giacometti sera comble d honneurs en remportant de nombreux prix."
       },
       {
         "id": 17,
@@ -243,7 +243,7 @@
           "5.67 metres"
         ],
         "reponse": "4.34 metres",
-        "anecdote": "Michel-Ange a represente David, une fronde à la main, avant son combat contre Goliath."
+        "anecdote": "Michel-Ange a represente David, une fronde a la main, avant son combat contre Goliath."
       },
       {
         "id": 18,
@@ -279,7 +279,7 @@
           "Phidias"
         ],
         "reponse": "Myron",
-        "anecdote": "Pline l'Ancien dira de Myron qu'il est « plus fecond » que son rival Polyclete."
+        "anecdote": "Pline l Ancien dira de Myron qu il est « plus fecond » que son rival Polyclete."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Suisse"
         ],
         "reponse": "Suisse",
-        "anecdote": "À la fin de sa vie, Giacometti a denie à ses objets la moindre valeur, pourtant vendus aujourd'hui à plusieurs millions d'euros."
+        "anecdote": "À la fin de sa vie, Giacometti a denie a ses objets la moindre valeur, pourtant vendus aujourd hui a plusieurs millions d euros."
       },
       {
         "id": 22,
@@ -317,7 +317,7 @@
           "Des callypiges"
         ],
         "reponse": "Des kouroï",
-        "anecdote": "Les kouroi, aux visages montrant l'influence de la Crete, sont toujours nus, portant tout au plus une ceinture et parfois des bottes."
+        "anecdote": "Les kouroi, aux visages montrant l influence de la Crete, sont toujours nus, portant tout au plus une ceinture et parfois des bottes."
       },
       {
         "id": 24,
@@ -333,7 +333,7 @@
       },
       {
         "id": 25,
-        "question": "Quel artiste a decore une fontaine à côte du centre Beaubourg, à Paris ?",
+        "question": "Quel artiste a decore une fontaine a côte du centre Beaubourg, a Paris ?",
         "propositions": [
           "Jean Tinguely",
           "David Smith",
@@ -341,7 +341,7 @@
           "Charles Despiau"
         ],
         "reponse": "Jean Tinguely",
-        "anecdote": "La fontaine Stravinski evoque l'oeuvre musicale du compositeur russe Stravinski."
+        "anecdote": "La fontaine Stravinski evoque l oeuvre musicale du compositeur russe Stravinski."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Bastogne"
         ],
         "reponse": "Anvers",
-        "anecdote": "La statue de Silvius Brabo brandissant et jetant la main d'Antigone est situee sur la Grand-Place d'Anvers."
+        "anecdote": "La statue de Silvius Brabo brandissant et jetant la main d Antigone est situee sur la Grand-Place d Anvers."
       },
       {
         "id": 27,
@@ -377,11 +377,11 @@
           "Pierre Curillon"
         ],
         "reponse": "Henry Cros",
-        "anecdote": "Henry Cros a suivi l'enseignement des sculpteurs Francois Jouffroy et Antoine Étex et du peintre Jules Valadon."
+        "anecdote": "Henry Cros a suivi l enseignement des sculpteurs Francois Jouffroy et Antoine Étex et du peintre Jules Valadon."
       },
       {
         "id": 29,
-        "question": "Quelle sculpture de Gian Lorenzo Bernini, dit Le Bernin, se trouve à Londres ?",
+        "question": "Quelle sculpture de Gian Lorenzo Bernini, dit Le Bernin, se trouve a Londres ?",
         "propositions": [
           "Fontaine du Triton",
           "Apollon et Daphne",
@@ -389,7 +389,7 @@
           "Rapt de Prosperine"
         ],
         "reponse": "Neptune et Triton",
-        "anecdote": "L'art de Le Bernin, typiquement baroque, est caracterise par la recherche du mouvement et des effets d'illusion."
+        "anecdote": "L art de Le Bernin, typiquement baroque, est caracterise par la recherche du mouvement et des effets d illusion."
       },
       {
         "id": 30,

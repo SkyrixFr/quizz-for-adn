@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Animaux",
@@ -49,11 +49,11 @@
           "Colombe"
         ],
         "reponse": "Colombe",
-        "anecdote": "Pour la plupart des francophones, la colombe designe la forme blanche d'un pigeon biset ou d'une tourterelle domestique."
+        "anecdote": "Pour la plupart des francophones, la colombe designe la forme blanche d un pigeon biset ou d une tourterelle domestique."
       },
       {
         "id": 2,
-        "question": "Quels oiseaux fournissent le duvet qui sert à la fabrication des edredons ?",
+        "question": "Quels oiseaux fournissent le duvet qui sert a la fabrication des edredons ?",
         "propositions": [
           "Les sarcelles",
           "Les perruches",
@@ -61,7 +61,7 @@
           "Les colverts"
         ],
         "reponse": "Les eiders",
-        "anecdote": "Les plumes de l'eider etaient naguere cueillies en Islande ou au Groenland et recherchees comme rembourrage de vetements."
+        "anecdote": "Les plumes de l eider etaient naguere cueillies en Islande ou au Groenland et recherchees comme rembourrage de vetements."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Le rossignol"
         ],
         "reponse": "Le corbeau",
-        "anecdote": "Consideres comme des predateurs nuisibles capables de menacer les populations, ils sont l'objet de campagnes d'elimination."
+        "anecdote": "Consideres comme des predateurs nuisibles capables de menacer les populations, ils sont l objet de campagnes d elimination."
       },
       {
         "id": 4,
@@ -97,7 +97,7 @@
           "La plumee"
         ],
         "reponse": "La mue",
-        "anecdote": "Ce processus au minimum annuel, etudie de pres par l'ornithologie, est tres coûteux en energie et en ressources pour l'oiseau."
+        "anecdote": "Ce processus au minimum annuel, etudie de pres par l ornithologie, est tres coûteux en energie et en ressources pour l oiseau."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Vanneaux"
         ],
         "reponse": "Étourneaux",
-        "anecdote": "L'etourneau marche ou trottine plutôt que de sautiller et son vol est energique et direct, grace à ses ailes et à sa queue courtes."
+        "anecdote": "L etourneau marche ou trottine plutôt que de sautiller et son vol est energique et direct, grace a ses ailes et a sa queue courtes."
       },
       {
         "id": 7,
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Grace à quel oiseau les paysages de la Camargue sont-ils celebres ?",
+        "question": "Grace a quel oiseau les paysages de la Camargue sont-ils celebres ?",
         "propositions": [
           "Autruche",
           "Flamant rose",
@@ -133,11 +133,11 @@
           "Busard"
         ],
         "reponse": "Flamant rose",
-        "anecdote": "La region est une halte migratoire pour les canards et les oiseaux d'eau : on recense 150 000 individus en transit chaque annee."
+        "anecdote": "La region est une halte migratoire pour les canards et les oiseaux d eau : on recense 150 000 individus en transit chaque annee."
       },
       {
         "id": 9,
-        "question": "Associe à un nid, quel oiseau a donne son nom à un succulent mets asiatique ?",
+        "question": "Associe a un nid, quel oiseau a donne son nom a un succulent mets asiatique ?",
         "propositions": [
           "Hirondelle",
           "Colibri",
@@ -145,7 +145,7 @@
           "Perroquet"
         ],
         "reponse": "Hirondelle",
-        "anecdote": "Sa rarete et l'effort necessaire à la recolte du nid d'hirondelle en ont fait un mets particulierement apprecie."
+        "anecdote": "Sa rarete et l effort necessaire a la recolte du nid d hirondelle en ont fait un mets particulierement apprecie."
       },
       {
         "id": 10,
@@ -157,13 +157,13 @@
           "La pie bleue"
         ],
         "reponse": "Le paradisier",
-        "anecdote": "Les especes à dimorphisme sexuel sont polygames tandis que les especes monomorphes sont principalement monogames."
+        "anecdote": "Les especes a dimorphisme sexuel sont polygames tandis que les especes monomorphes sont principalement monogames."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Quel oiseau vivant dans l'hemisphere nord nage le plus vite ?",
+        "question": "Quel oiseau vivant dans l hemisphere nord nage le plus vite ?",
         "propositions": [
           "Martinet",
           "Pingouin",
@@ -183,11 +183,11 @@
           "Le manchot"
         ],
         "reponse": "Le manchot",
-        "anecdote": "Les ailes des manchots, devenues inutilisables pour le vol, se sont merveilleusement adaptees à la nage et à la plongee."
+        "anecdote": "Les ailes des manchots, devenues inutilisables pour le vol, se sont merveilleusement adaptees a la nage et a la plongee."
       },
       {
         "id": 13,
-        "question": "Quel est le seul oiseau au monde qui puisse voler à reculons ?",
+        "question": "Quel est le seul oiseau au monde qui puisse voler a reculons ?",
         "propositions": [
           "La fauvette",
           "La mesange",
@@ -195,7 +195,7 @@
           "Le moineau"
         ],
         "reponse": "Le colibri",
-        "anecdote": "Le terme « colibri », qui deriverait d'une langue caribe, s'est impose dans bon nombre de langues, y compris le francais."
+        "anecdote": "Le terme « colibri », qui deriverait d une langue caribe, s est impose dans bon nombre de langues, y compris le francais."
       },
       {
         "id": 14,
@@ -207,7 +207,7 @@
           "Le martinet"
         ],
         "reponse": "La perdrix",
-        "anecdote": "Les perdrix, qui ne possedent en principe pas d'ergots, sont de taille intermediaire entre une grosse caille et un petit faisan."
+        "anecdote": "Les perdrix, qui ne possedent en principe pas d ergots, sont de taille intermediaire entre une grosse caille et un petit faisan."
       },
       {
         "id": 15,
@@ -231,11 +231,11 @@
           "Le menate"
         ],
         "reponse": "Le toucan",
-        "anecdote": "Ces oiseaux au bec surdimensionne sont presents dans toute l'Amerique tropicale, notamment dans la foret amazonienne. "
+        "anecdote": "Ces oiseaux au bec surdimensionne sont presents dans toute l Amerique tropicale, notamment dans la foret amazonienne. "
       },
       {
         "id": 17,
-        "question": "Le bec du macareux ressemble à celui de quel autre oiseau ?",
+        "question": "Le bec du macareux ressemble a celui de quel autre oiseau ?",
         "propositions": [
           "Le perroquet",
           "La corneille",
@@ -255,7 +255,7 @@
           "Le sterne"
         ],
         "reponse": "Le macareux",
-        "anecdote": "Le Macareux moine, egalement dit « perroquet de mer », est une espece d'oiseau marin pelagique nord-atlantique de haute mer."
+        "anecdote": "Le Macareux moine, egalement dit « perroquet de mer », est une espece d oiseau marin pelagique nord-atlantique de haute mer."
       },
       {
         "id": 19,
@@ -267,7 +267,7 @@
           "Lisier"
         ],
         "reponse": "Guano",
-        "anecdote": "Engrais tres efficace, le guano est une substance fertilisante composee d'excrements d'oiseaux marins et de chauves-souris."
+        "anecdote": "Engrais tres efficace, le guano est une substance fertilisante composee d excrements d oiseaux marins et de chauves-souris."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Un balbuzard"
         ],
         "reponse": "Un aigle",
-        "anecdote": "Ce drapeau tricolore est rectangulaire de proportions 4/7 à bandes verticales vert, blanc et rouge de meme taille."
+        "anecdote": "Ce drapeau tricolore est rectangulaire de proportions 4/7 a bandes verticales vert, blanc et rouge de meme taille."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Pigeon dore"
         ],
         "reponse": "Dodo",
-        "anecdote": "Le bec crochu du dodo avait une tache rouge caracteristique à son extremite et une bleue sur la mandibule inferieure."
+        "anecdote": "Le bec crochu du dodo avait une tache rouge caracteristique a son extremite et une bleue sur la mandibule inferieure."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "Le pharochrus"
         ],
         "reponse": "Le quetzal",
-        "anecdote": "Le quetzal est un animal rare en captivite qui meurt si on le met en cage : c'est pourquoi il est symbole de liberte."
+        "anecdote": "Le quetzal est un animal rare en captivite qui meurt si on le met en cage : c est pourquoi il est symbole de liberte."
       },
       {
         "id": 23,
@@ -317,7 +317,7 @@
           "Mouette"
         ],
         "reponse": "Albatros",
-        "anecdote": "Ces volatiles sont connus pour detenir le record de la plus grande envergure de toutes les especes d'oiseaux actuels."
+        "anecdote": "Ces volatiles sont connus pour detenir le record de la plus grande envergure de toutes les especes d oiseaux actuels."
       },
       {
         "id": 24,
@@ -341,7 +341,7 @@
           "La mouette rieuse"
         ],
         "reponse": "Le pitohui bicolore",
-        "anecdote": "Connu depuis plus d'un siecle et demi, il a cependant fallu attendre 1990 pour que sa toxicite soit enfin decouverte."
+        "anecdote": "Connu depuis plus d un siecle et demi, il a cependant fallu attendre 1990 pour que sa toxicite soit enfin decouverte."
       },
       {
         "id": 26,
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Quel gros oiseau est tres connu pour son chant ressemblant à un mugissement ?",
+        "question": "Quel gros oiseau est tres connu pour son chant ressemblant a un mugissement ?",
         "propositions": [
           "Le cochevis",
           "La ganga",
@@ -389,7 +389,7 @@
           "Empirique"
         ],
         "reponse": "Pelagique",
-        "anecdote": "Un chalut pelagique (« la haute mer » en grec) est un chalut utilise dans la colonne d'eau et non traîne sur le fond."
+        "anecdote": "Un chalut pelagique (« la haute mer » en grec) est un chalut utilise dans la colonne d eau et non traîne sur le fond."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "La mesange"
         ],
         "reponse": "La mesange",
-        "anecdote": "Les mesanges, qui nichent dans des trous d'arbres, sont tres sociables et frequentent volontiers les mangeoires en hiver."
+        "anecdote": "Les mesanges, qui nichent dans des trous d arbres, sont tres sociables et frequentent volontiers les mangeoires en hiver."
       }
     ]
     }

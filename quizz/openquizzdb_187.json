@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2022-05-02",
+  "mise-a-jour": "2022-05-02",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Culture generale",
       "nom": "Culture en vrac",
-      "slogan": "De la culture generale à tous les niveaux"
+      "slogan": "De la culture generale a tous les niveaux"
     },
     "en": {
       "categorie": "General knowledge",
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Que jette-t-on sur le ring en cas d'abandon durant un match de boxe ?",
+        "question": "Que jette-t-on sur le ring en cas d abandon durant un match de boxe ?",
         "propositions": [
           "Gant",
           "Protege-dents",
@@ -49,11 +49,11 @@
           "Culotte"
         ],
         "reponse": "Éponge",
-        "anecdote": "Durant un match, l'arbitre est le garant principal de la securite des boxeurs et peut sanctionner les gestes interdits et dangereux."
+        "anecdote": "Durant un match, l arbitre est le garant principal de la securite des boxeurs et peut sanctionner les gestes interdits et dangereux."
       },
       {
         "id": 2,
-        "question": "Quelle espece d'oiseaux encore presente en Europe gringotte, quiritte ou trille ?",
+        "question": "Quelle espece d oiseaux encore presente en Europe gringotte, quiritte ou trille ?",
         "propositions": [
           "Rossignol",
           "Moineau",
@@ -73,7 +73,7 @@
           "Charles Trenet"
         ],
         "reponse": "Serge Gainsbourg",
-        "anecdote": "Un scopitone a ete realise pour l'occasion par Jean Bacque, produit par Pathe, montrant Gainsbourg dans le metro parisien."
+        "anecdote": "Un scopitone a ete realise pour l occasion par Jean Bacque, produit par Pathe, montrant Gainsbourg dans le metro parisien."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Auteur dramatique"
         ],
         "reponse": "Auteur dramatique",
-        "anecdote": "Leonard de Vinci, genie universel, est souvent decrit comme l'archetype et le symbole de l'homme de la Renaissance."
+        "anecdote": "Leonard de Vinci, genie universel, est souvent decrit comme l archetype et le symbole de l homme de la Renaissance."
       },
       {
         "id": 5,
@@ -97,11 +97,11 @@
           "Sa mere"
         ],
         "reponse": "Son pere",
-        "anecdote": "Oedipe est connu pour avoir resolu l'enigme du sphinx et pour s'etre rendu involontairement coupable de parricide et d'inceste."
+        "anecdote": "Oedipe est connu pour avoir resolu l enigme du sphinx et pour s etre rendu involontairement coupable de parricide et d inceste."
       },
       {
         "id": 6,
-        "question": "En France, à la Liberation, combien se retrouverent à Notre-Dame de Paris ?",
+        "question": "En France, a la Liberation, combien se retrouverent a Notre-Dame de Paris ?",
         "propositions": [
           "9 000",
           "13 000",
@@ -109,7 +109,7 @@
           "5 000"
         ],
         "reponse": "13 000",
-        "anecdote": "Le general de Gaulle a descendu le 26 août 1944 l'Arc de Triomphe vers Notre-Dame pour un office religieux apres la liberation de Paris."
+        "anecdote": "Le general de Gaulle a descendu le 26 août 1944 l Arc de Triomphe vers Notre-Dame pour un office religieux apres la liberation de Paris."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "1906"
         ],
         "reponse": "1886",
-        "anecdote": "Contrairement à la chronologie officielle de l'entreprise, Coca-Cola ne s'est pas implantee en France en 1933, mais bien en 1919."
+        "anecdote": "Contrairement a la chronologie officielle de l entreprise, Coca-Cola ne s est pas implantee en France en 1933, mais bien en 1919."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "Los Angeles"
         ],
         "reponse": "Paris",
-        "anecdote": "Aucune ceremonie d'ouverture ou de fermeture ne fut au programme, excepte un defile des gymnastes à Vincennes."
+        "anecdote": "Aucune ceremonie d ouverture ou de fermeture ne fut au programme, excepte un defile des gymnastes a Vincennes."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Soporifique"
         ],
         "reponse": "Antibiotique",
-        "anecdote": "À la base, la penicilline est une toxine inoffensive pour l'homme synthetisee par certaines especes de moisissures."
+        "anecdote": "À la base, la penicilline est une toxine inoffensive pour l homme synthetisee par certaines especes de moisissures."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Paix"
         ],
         "reponse": "Litterature",
-        "anecdote": "Winston Churchill reste à ce jour l'unique ancien Premier ministre britannique à avoir recu, en 1953, le prix Nobel de litterature."
+        "anecdote": "Winston Churchill reste a ce jour l unique ancien Premier ministre britannique a avoir recu, en 1953, le prix Nobel de litterature."
       }
     ],
     "confirme": [
@@ -171,11 +171,11 @@
           "Fred Zinnemann"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "L'album de Lucky Luke intitule « Les Dalton à la noce » reprend la trame scenaristique generale et quelques passages-cles du film."
+        "anecdote": "L album de Lucky Luke intitule « Les Dalton a la noce » reprend la trame scenaristique generale et quelques passages-cles du film."
       },
       {
         "id": 12,
-        "question": "En quelle annee a-t-on pu assister à l'inauguration du metro parisien ?",
+        "question": "En quelle annee a-t-on pu assister a l inauguration du metro parisien ?",
         "propositions": [
           "1900",
           "1880",
@@ -183,7 +183,7 @@
           "1860"
         ],
         "reponse": "1900",
-        "anecdote": "Le metro de Paris comporte à ce jour seize lignes en site propre, essentiellement souterraines, totalisant pres de 220 kilometres."
+        "anecdote": "Le metro de Paris comporte a ce jour seize lignes en site propre, essentiellement souterraines, totalisant pres de 220 kilometres."
       },
       {
         "id": 13,
@@ -195,19 +195,19 @@
           "Guy de Maupassant"
         ],
         "reponse": "Guy de Maupassant",
-        "anecdote": "C'est un de ses biographes, Paul Morand, qui comparera ce Maupassant au physique robuste et athletique à un taureau."
+        "anecdote": "C est un de ses biographes, Paul Morand, qui comparera ce Maupassant au physique robuste et athletique a un taureau."
       },
       {
         "id": 14,
         "question": "À quel autre objet peut-on associer le paleophone invente par Charles Cros ?",
         "propositions": [
           "Telephone",
-          "Disque à sillon",
+          "Disque a sillon",
           "Émetteur",
           "Poste de radio"
         ],
-        "reponse": "Disque à sillon",
-        "anecdote": "Faute de preuve, nul ne peut affirmer que Charles Cros ait pu reellement reproduire en 1877 le son qu'il avait reussi à enregistrer."
+        "reponse": "Disque a sillon",
+        "anecdote": "Faute de preuve, nul ne peut affirmer que Charles Cros ait pu reellement reproduire en 1877 le son qu il avait reussi a enregistrer."
       },
       {
         "id": 15,
@@ -219,11 +219,11 @@
           "XVe siecle"
         ],
         "reponse": "XIXe siecle",
-        "anecdote": "D'une superficie de pres d'un million d'hectares, la foret des Landes est la plus grande foret artificielle d'Europe occidentale."
+        "anecdote": "D une superficie de pres d un million d hectares, la foret des Landes est la plus grande foret artificielle d Europe occidentale."
       },
       {
         "id": 16,
-        "question": "Monsieur Diafoirus est un medecin issu de l'imagination de quel dramaturge ?",
+        "question": "Monsieur Diafoirus est un medecin issu de l imagination de quel dramaturge ?",
         "propositions": [
           "Rabelais",
           "Moliere",
@@ -235,7 +235,7 @@
       },
       {
         "id": 17,
-        "question": "Par rapport à la vitesse duquel de ces elements le metre peut-il se definir ?",
+        "question": "Par rapport a la vitesse duquel de ces elements le metre peut-il se definir ?",
         "propositions": [
           "Lumiere",
           "Son",
@@ -255,11 +255,11 @@
           "Jacques Chirac"
         ],
         "reponse": "Georges Marchais",
-        "anecdote": "Lenine est à l'origine de la Tcheka, police politique chargee d'eliminer les ennemis du nouveau regime qu'il mettait en place."
+        "anecdote": "Lenine est a l origine de la Tcheka, police politique chargee d eliminer les ennemis du nouveau regime qu il mettait en place."
       },
       {
         "id": 19,
-        "question": "La perle à abdomen remarquable ou plecoptere est en fait...",
+        "question": "La perle a abdomen remarquable ou plecoptere est en fait...",
         "propositions": [
           "Une fleur",
           "Un oiseau",
@@ -267,11 +267,11 @@
           "Un coquillage"
         ],
         "reponse": "Un insecte",
-        "anecdote": "Les plecopteres sont appeles mouches de pierre car ils se posent tres frequemment sur les pierres en bordure de cours d'eau."
+        "anecdote": "Les plecopteres sont appeles mouches de pierre car ils se posent tres frequemment sur les pierres en bordure de cours d eau."
       },
       {
         "id": 20,
-        "question": "Quel prolifique compositeur francais est mort à Paris en 1918 ?",
+        "question": "Quel prolifique compositeur francais est mort a Paris en 1918 ?",
         "propositions": [
           "Claude Debussy",
           "Édouard Lalo",
@@ -279,13 +279,13 @@
           "Hector Berlioz"
         ],
         "reponse": "Claude Debussy",
-        "anecdote": "Une part importante de l'oeuvre de Claude Debussy est pour piano et utilise une palette sonore particulierement riche et evocatrice."
+        "anecdote": "Une part importante de l oeuvre de Claude Debussy est pour piano et utilise une palette sonore particulierement riche et evocatrice."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Pour quelle profession la ville de Cremone, situee dans le nord de l'Italie, est-elle celebre ?",
+        "question": "Pour quelle profession la ville de Cremone, situee dans le nord de l Italie, est-elle celebre ?",
         "propositions": [
           "Sabotier",
           "Potier",
@@ -293,7 +293,7 @@
           "Peintre"
         ],
         "reponse": "Luthier",
-        "anecdote": "La ville est la patrie d'Antonio Giacomo Stradivari, dit Stradivarius, fabricant de violons, de violoncelles, d'altos et de guitares."
+        "anecdote": "La ville est la patrie d Antonio Giacomo Stradivari, dit Stradivarius, fabricant de violons, de violoncelles, d altos et de guitares."
       },
       {
         "id": 22,
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Lequel de ces ecrivains avait 40 ans à la naissance de Gustave Flaubert ?",
+        "question": "Lequel de ces ecrivains avait 40 ans a la naissance de Gustave Flaubert ?",
         "propositions": [
           "Hugo",
           "Balzac",
@@ -333,7 +333,7 @@
       },
       {
         "id": 25,
-        "question": "Comment peut-on litteralement traduire le terme republique d'Albanie ?",
+        "question": "Comment peut-on litteralement traduire le terme republique d Albanie ?",
         "propositions": [
           "Pays des chevaux",
           "Pays des vivants",
@@ -341,11 +341,11 @@
           "Pays des aigles"
         ],
         "reponse": "Pays des aigles",
-        "anecdote": "Le pays a un regime politique de type democratie parlementaire, sa capitale est Tirana et sa langue officielle est l'albanais."
+        "anecdote": "Le pays a un regime politique de type democratie parlementaire, sa capitale est Tirana et sa langue officielle est l albanais."
       },
       {
         "id": 26,
-        "question": "Dans quel etat se trouve la prison americaine de Sing Sing, situee sur les rives de l'Hudson ?",
+        "question": "Dans quel etat se trouve la prison americaine de Sing Sing, situee sur les rives de l Hudson ?",
         "propositions": [
           "New York",
           "Georgie",
@@ -353,7 +353,7 @@
           "Alabama"
         ],
         "reponse": "New York",
-        "anecdote": "La prison de Sing Sing est classee comme etablissement de securite maximale et a ete le lieu, avant 2004, d'executions capitales."
+        "anecdote": "La prison de Sing Sing est classee comme etablissement de securite maximale et a ete le lieu, avant 2004, d executions capitales."
       },
       {
         "id": 27,
@@ -365,11 +365,11 @@
           "Clinton-Arafat"
         ],
         "reponse": "Sadate-Begin",
-        "anecdote": "Le Camp David, d'une superficie de 50 hectares dans le Maryland, est le lieu de villegiature officiel du president des États-Unis."
+        "anecdote": "Le Camp David, d une superficie de 50 hectares dans le Maryland, est le lieu de villegiature officiel du president des États-Unis."
       },
       {
         "id": 28,
-        "question": "Dans quel journal est paru le celebre « J'accuse... ! » d'Émile Zola ?",
+        "question": "Dans quel journal est paru le celebre « J accuse... ! » d Émile Zola ?",
         "propositions": [
           "Humanite",
           "Pravda",
@@ -377,7 +377,7 @@
           "Figaro"
         ],
         "reponse": "Aurore",
-        "anecdote": "Redige au cours de l'affaire Dreyfus, cet article est paru sous la forme d'une lettre ouverte au president francais Felix Faure."
+        "anecdote": "Redige au cours de l affaire Dreyfus, cet article est paru sous la forme d une lettre ouverte au president francais Felix Faure."
       },
       {
         "id": 29,
@@ -389,11 +389,11 @@
           "Canada"
         ],
         "reponse": "Irlande",
-        "anecdote": "Les 386 kilometres du fleuve Shannon en font le plus long cours d'eau des Îles Britanniques et le plus abondant par son debit."
+        "anecdote": "Les 386 kilometres du fleuve Shannon en font le plus long cours d eau des Îles Britanniques et le plus abondant par son debit."
       },
       {
         "id": 30,
-        "question": "Quel philosophe francais habitait 10, rue Monsieur-le-Prince à Paris ?",
+        "question": "Quel philosophe francais habitait 10, rue Monsieur-le-Prince a Paris ?",
         "propositions": [
           "Anatole France",
           "Auguste Comte",
@@ -417,7 +417,7 @@
           "Tooth protector"
         ],
         "reponse": "Sponge",
-        "anecdote": "During a match, the referee is the main guarantor of the boxers' safety and can sanction the forbidden and dangerous acts."
+        "anecdote": "During a match, the referee is the main guarantor of the boxers  safety and can sanction the forbidden and dangerous acts."
       },
       {
         "id": 2,
@@ -539,7 +539,7 @@
           "Fred Zinnemann"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "Lucky Luke's album titled « Les Dalton à la noce » takes up the general storyline and some key passages from the film."
+        "anecdote": "Lucky Luke s album titled « Les Dalton a la noce » takes up the general storyline and some key passages from the film."
       },
       {
         "id": 12,
@@ -647,7 +647,7 @@
           "Hector Berlioz"
         ],
         "reponse": "Claude Debussy",
-        "anecdote": "An important part of Claude Debussy's work is for piano and uses a particularly rich and evocative sound palette."
+        "anecdote": "An important part of Claude Debussy s work is for piano and uses a particularly rich and evocative sound palette."
       }
     ],
     "expert": [
@@ -737,7 +737,7 @@
       },
       {
         "id": 28,
-        "question": "In which newspaper did the famous « J'accuse... ! » of Zola ?",
+        "question": "In which newspaper did the famous « J accuse... ! » of Zola ?",
         "propositions": [
           "Figaro",
           "Aurore",
@@ -907,7 +907,7 @@
           "Fred Zinnemann"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "Lucky Lukes Album mit dem Titel « Les Dalton à la noce » greift die allgemeine Geschichte und einige wichtige Passagen des Films auf."
+        "anecdote": "Lucky Lukes Album mit dem Titel « Les Dalton a la noce » greift die allgemeine Geschichte und einige wichtige Passagen des Films auf."
       },
       {
         "id": 12,
@@ -1105,7 +1105,7 @@
       },
       {
         "id": 28,
-        "question": "In welcher Zeitung hat das berühmte « J'accuse... ! » von Zola ?",
+        "question": "In welcher Zeitung hat das berühmte « J accuse... ! » von Zola ?",
         "propositions": [
           "Menschheit",
           "Aurore",
@@ -1275,7 +1275,7 @@
           "Vincente Minnelli"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "El álbum de Lucky Luke titulado « Les Dalton à la noce » retoma la historia general y algunos pasajes clave de la película."
+        "anecdote": "El álbum de Lucky Luke titulado « Les Dalton a la noce » retoma la historia general y algunos pasajes clave de la película."
       },
       {
         "id": 12,
@@ -1473,7 +1473,7 @@
       },
       {
         "id": 28,
-        "question": "¿En que periódico hizo el famoso « J'accuse... ! » de Zola ?",
+        "question": "¿En que periódico hizo el famoso « J accuse... ! » de Zola ?",
         "propositions": [
           "Pravda",
           "Figaro",
@@ -1521,7 +1521,7 @@
           "Guanto"
         ],
         "reponse": "Spugna",
-        "anecdote": "Durante una partita, l'arbitro e il principale garante della sicurezza dei pugili e può sanzionare le azioni proibite e pericolose."
+        "anecdote": "Durante una partita, l arbitro e il principale garante della sicurezza dei pugili e può sanzionare le azioni proibite e pericolose."
       },
       {
         "id": 2,
@@ -1545,7 +1545,7 @@
           "Charles Trenet"
         ],
         "reponse": "Serge Gainsbourg",
-        "anecdote": "Un scopitone e stato prodotto per l'occasione da Jean Bacque, prodotto da Pathe, che mostra Gainsbourg nella metropolitana parigina."
+        "anecdote": "Un scopitone e stato prodotto per l occasione da Jean Bacque, prodotto da Pathe, che mostra Gainsbourg nella metropolitana parigina."
       },
       {
         "id": 4,
@@ -1557,7 +1557,7 @@
           "Botanico"
         ],
         "reponse": "Autore drammatico",
-        "anecdote": "Leonardo da Vinci, genio universale, e spesso descritto come l'archetipo e il simbolo dell'uomo del Rinascimento."
+        "anecdote": "Leonardo da Vinci, genio universale, e spesso descritto come l archetipo e il simbolo dell uomo del Rinascimento."
       },
       {
         "id": 5,
@@ -1569,7 +1569,7 @@
           "Suo padre"
         ],
         "reponse": "Suo padre",
-        "anecdote": "Edipo e noto per aver risolto l'enigma della sfinge e per essere stato involontariamente colpevole di parricidio e incesto."
+        "anecdote": "Edipo e noto per aver risolto l enigma della sfinge e per essere stato involontariamente colpevole di parricidio e incesto."
       },
       {
         "id": 6,
@@ -1581,7 +1581,7 @@
           "9.000"
         ],
         "reponse": "13.000",
-        "anecdote": "Il generale de Gaulle scese il 26 agosto dall'Arco di Trionfo a Notre-Dame per un servizio religioso dopo la liberazione di Parigi."
+        "anecdote": "Il generale de Gaulle scese il 26 agosto dall Arco di Trionfo a Notre-Dame per un servizio religioso dopo la liberazione di Parigi."
       },
       {
         "id": 7,
@@ -1597,7 +1597,7 @@
       },
       {
         "id": 8,
-        "question": "In quale città si sono svolte le Olimpiadi del 1900 ?",
+        "question": "In quale citta si sono svolte le Olimpiadi del 1900 ?",
         "propositions": [
           "Atene",
           "Roma",
@@ -1629,13 +1629,13 @@
           "Letteratura"
         ],
         "reponse": "Letteratura",
-        "anecdote": "Winston Churchill rimane fino ad oggi l'unico ex primo ministro britannico ad aver ricevuto, nel 1953, il premio Nobel per la letteratura."
+        "anecdote": "Winston Churchill rimane fino ad oggi l unico ex primo ministro britannico ad aver ricevuto, nel 1953, il premio Nobel per la letteratura."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "« Il treno fischierà tre volte » e un western americano da quale regista ?",
+        "question": "« Il treno fischiera tre volte » e un western americano da quale regista ?",
         "propositions": [
           "George Stevens",
           "Vincente Minnelli",
@@ -1643,11 +1643,11 @@
           "Fred Zinnemann"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "L'album di Lucky Luke intitolato « Les Dalton à la noce » riprende la trama generale e alcuni passaggi chiave del film."
+        "anecdote": "L album di Lucky Luke intitolato « Les Dalton a la noce » riprende la trama generale e alcuni passaggi chiave del film."
       },
       {
         "id": 12,
-        "question": "In quale anno e stato possibile assistere all'inaugurazione della metropoli parigina ?",
+        "question": "In quale anno e stato possibile assistere all inaugurazione della metropoli parigina ?",
         "propositions": [
           "1840",
           "1880",
@@ -1667,7 +1667,7 @@
           "Honore de Balzac"
         ],
         "reponse": "Guy de Maupassant",
-        "anecdote": "È uno dei suoi biografi, Paul Morand, che paragonerà questo Maupassant con un fisico robusto e atletico a un toro."
+        "anecdote": "È uno dei suoi biografi, Paul Morand, che paragonera questo Maupassant con un fisico robusto e atletico a un toro."
       },
       {
         "id": 14,
@@ -1691,11 +1691,11 @@
           "XIX secolo"
         ],
         "reponse": "XIX secolo",
-        "anecdote": "Con una superficie di quasi un milione di ettari, la foresta delle Landes e la piu grande foresta artificiale dell'Europa occidentale."
+        "anecdote": "Con una superficie di quasi un milione di ettari, la foresta delle Landes e la piu grande foresta artificiale dell Europa occidentale."
       },
       {
         "id": 16,
-        "question": "Il signor Diafoirus e un dottore dall'immaginazione di quale drammaturgo ?",
+        "question": "Il signor Diafoirus e un dottore dall immaginazione di quale drammaturgo ?",
         "propositions": [
           "Moliere",
           "Voltaire",
@@ -1703,11 +1703,11 @@
           "Rabelais"
         ],
         "reponse": "Moliere",
-        "anecdote": "« The Illaginary Ill » e un balletto di commedia in tre atti rappresentati nel 1673 e l'ultima commedia scritta da Moliere."
+        "anecdote": "« The Illaginary Ill » e un balletto di commedia in tre atti rappresentati nel 1673 e l ultima commedia scritta da Moliere."
       },
       {
         "id": 17,
-        "question": "In relazione alla velocità di quale di questi elementi può essere definito il contatore ?",
+        "question": "In relazione alla velocita di quale di questi elementi può essere definito il contatore ?",
         "propositions": [
           "Vento",
           "Il suo",
@@ -1727,11 +1727,11 @@
           "Georges Marchais"
         ],
         "reponse": "Georges Marchais",
-        "anecdote": "Lenin e all'origine della Chechka, una polizia politica incaricata di eliminare tutti i nemici del nuovo regime che sta creando."
+        "anecdote": "Lenin e all origine della Chechka, una polizia politica incaricata di eliminare tutti i nemici del nuovo regime che sta creando."
       },
       {
         "id": 19,
-        "question": "La straordinaria perla o plettro e in realtà...",
+        "question": "La straordinaria perla o plettro e in realta...",
         "propositions": [
           "Un uccello",
           "Una conchiglia",
@@ -1757,7 +1757,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Per quale professione e famosa la città di Cremona, situata nel nord Italia ?",
+        "question": "Per quale professione e famosa la citta di Cremona, situata nel nord Italia ?",
         "propositions": [
           "Liutaio",
           "Pittore",
@@ -1765,7 +1765,7 @@
           "Sabotier"
         ],
         "reponse": "Liutaio",
-        "anecdote": "La città e la patria di Antonio Giacomo Stradivari, noto come Stradivari, creatore di violini, violoncelli, viole e chitarre."
+        "anecdote": "La citta e la patria di Antonio Giacomo Stradivari, noto come Stradivari, creatore di violini, violoncelli, viole e chitarre."
       },
       {
         "id": 22,
@@ -1789,7 +1789,7 @@
           "Spagna"
         ],
         "reponse": "Portogallo",
-        "anecdote": "La città di Macao e considerata l'ultima stazione commerciale nonche l'ultima colonia europea in Cina e in Asia."
+        "anecdote": "La citta di Macao e considerata l ultima stazione commerciale nonche l ultima colonia europea in Cina e in Asia."
       },
       {
         "id": 24,
@@ -1801,7 +1801,7 @@
           "Balzac"
         ],
         "reponse": "Balzac",
-        "anecdote": "Gustave Flaubert ha segnato la letteratura dalla profondità delle sue analisi psicologiche e dalla sua preoccupazione per il realismo."
+        "anecdote": "Gustave Flaubert ha segnato la letteratura dalla profondita delle sue analisi psicologiche e dalla sua preoccupazione per il realismo."
       },
       {
         "id": 25,
@@ -1813,11 +1813,11 @@
           "Paese della vita"
         ],
         "reponse": "Paese delle aquile",
-        "anecdote": "Il paese ha un sistema politico di democrazia parlamentare, la sua capitale e Tirana e la sua lingua ufficiale e l'albanese."
+        "anecdote": "Il paese ha un sistema politico di democrazia parlamentare, la sua capitale e Tirana e la sua lingua ufficiale e l albanese."
       },
       {
         "id": 26,
-        "question": "In quale stato si trova la prigione statunitense Sing Sing, situata sulle rive dell'Hudson ?",
+        "question": "In quale stato si trova la prigione statunitense Sing Sing, situata sulle rive dell Hudson ?",
         "propositions": [
           "Geologia",
           "Alabama",
@@ -1829,7 +1829,7 @@
       },
       {
         "id": 27,
-        "question": "Qual e probabilmente l'incontro piu famoso di Camp David nel 1978 ?",
+        "question": "Qual e probabilmente l incontro piu famoso di Camp David nel 1978 ?",
         "propositions": [
           "Reagan-Thatcher",
           "Clinton-Arafat",
@@ -1837,23 +1837,23 @@
           "Nixon-Brezhnev"
         ],
         "reponse": "Sadate-Begin",
-        "anecdote": "Il campo di 50 ettari di Camp David nel Maryland e la località turistica ufficiale del presidente degli Stati Uniti."
+        "anecdote": "Il campo di 50 ettari di Camp David nel Maryland e la localita turistica ufficiale del presidente degli Stati Uniti."
       },
       {
         "id": 28,
-        "question": "In quale giornale ha fatto il famoso « J'accuse... ! » di Zola ?",
+        "question": "In quale giornale ha fatto il famoso « J accuse... ! » di Zola ?",
         "propositions": [
           "Figaro",
           "Pravda",
-          "Umanità",
+          "Umanita",
           "Aurore"
         ],
         "reponse": "Aurore",
-        "anecdote": "Scritto durante l'affare Dreyfus, questo articolo e apparso sotto forma di lettera aperta al presidente francese Felix Faure."
+        "anecdote": "Scritto durante l affare Dreyfus, questo articolo e apparso sotto forma di lettera aperta al presidente francese Felix Faure."
       },
       {
         "id": 29,
-        "question": "In quale paese scorre Shannon, attraversando infinite proprietà di laghi ?",
+        "question": "In quale paese scorre Shannon, attraversando infinite proprieta di laghi ?",
         "propositions": [
           "Stati Uniti",
           "Canada",
@@ -2011,7 +2011,7 @@
           "George Stevens"
         ],
         "reponse": "Fred Zinnemann",
-        "anecdote": "Lucky Luke's album met de titel « Les Dalton à la noce » neemt de algemene verhaallijn en enkele belangrijke passages uit de film over."
+        "anecdote": "Lucky Luke s album met de titel « Les Dalton a la noce » neemt de algemene verhaallijn en enkele belangrijke passages uit de film over."
       },
       {
         "id": 12,
@@ -2119,7 +2119,7 @@
           "Claude Debussy"
         ],
         "reponse": "Claude Debussy",
-        "anecdote": "Een belangrijk onderdeel van Claude Debussy's werk is voor piano en gebruikt een bijzonder rijk en suggestief geluidspalet."
+        "anecdote": "Een belangrijk onderdeel van Claude Debussy s werk is voor piano en gebruikt een bijzonder rijk en suggestief geluidspalet."
       }
     ],
     "expert": [
@@ -2133,7 +2133,7 @@
           "Luthier"
         ],
         "reponse": "Luthier",
-        "anecdote": "De stad is het thuisland van Antonio Giacomo Stradivari, bekend als Stradivarius, maker van violen, cello's, altviolen en gitaren."
+        "anecdote": "De stad is het thuisland van Antonio Giacomo Stradivari, bekend als Stradivarius, maker van violen, cello s, altviolen en gitaren."
       },
       {
         "id": 22,
@@ -2209,7 +2209,7 @@
       },
       {
         "id": 28,
-        "question": "In welke krant deed de beroemde « J'accuse... ! » van Zola ?",
+        "question": "In welke krant deed de beroemde « J accuse... ! » van Zola ?",
         "propositions": [
           "Pravda",
           "Aurore",

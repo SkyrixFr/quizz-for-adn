@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : fev. 2015",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: febbraio 2015",
       "slogan": "Hanno fatto notizia"
     },
@@ -49,7 +49,7 @@
           "Pascal Bataille"
         ],
         "reponse": "Cyril Hanouna",
-        "anecdote": "Cyril Hanouna est surtout connu pour etre l'animateur de « Touche pas à mon poste ! » sur C8."
+        "anecdote": "Cyril Hanouna est surtout connu pour etre l animateur de « Touche pas a mon poste ! » sur C8."
       },
       {
         "id": 2,
@@ -77,7 +77,7 @@
       },
       {
         "id": 4,
-        "question": "Quelle jeune chanteuse et actrice a ete sacree « revelation feminine de l'annee » 2015 ?",
+        "question": "Quelle jeune chanteuse et actrice a ete sacree « revelation feminine de l annee » 2015 ?",
         "propositions": [
           "Maeva Meline",
           "Alexandra Lucci",
@@ -85,11 +85,11 @@
           "Aurore Delplace"
         ],
         "reponse": "Louane Emera",
-        "anecdote": "Louane a obtenu une grande notoriete en 2014 grace à son premier rôle dans le film « La Famille Belier »."
+        "anecdote": "Louane a obtenu une grande notoriete en 2014 grace a son premier rôle dans le film « La Famille Belier »."
       },
       {
         "id": 5,
-        "question": "Quelle star de la jet-set s'est devoilee en fevrier 2015 topless et fiere de sa nouvelle poitrine ?",
+        "question": "Quelle star de la jet-set s est devoilee en fevrier 2015 topless et fiere de sa nouvelle poitrine ?",
         "propositions": [
           "Nicole Richie",
           "Jessica Simpson",
@@ -97,11 +97,11 @@
           "Kelly Trump"
         ],
         "reponse": "Paris Hilton",
-        "anecdote": "Paris Hilton est l'une des arrieres-petites-filles de Conrad Hilton, fondateur de la chaîne des hôtels Hilton."
+        "anecdote": "Paris Hilton est l une des arrieres-petites-filles de Conrad Hilton, fondateur de la chaîne des hôtels Hilton."
       },
       {
         "id": 6,
-        "question": "Quelle actrice appelle-t-on aussi depuis 2015 « la premiere dame de l'ombre » ?",
+        "question": "Quelle actrice appelle-t-on aussi depuis 2015 « la premiere dame de l ombre » ?",
         "propositions": [
           "Melanie Laurent",
           "Julie Gayet",
@@ -109,7 +109,7 @@
           "Mathilda May"
         ],
         "reponse": "Julie Gayet",
-        "anecdote": "Julie Gayet s'est prononcee en faveur du projet de loi ouvrant le mariage homosexuel en France."
+        "anecdote": "Julie Gayet s est prononcee en faveur du projet de loi ouvrant le mariage homosexuel en France."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Josh Duhamel"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher s'est fait connaître avec son rôle de Michael Kelso dans la serie televisee That '70s Show."
+        "anecdote": "Ashton Kutcher s est fait connaître avec son rôle de Michael Kelso dans la serie televisee That  70s Show."
       },
       {
         "id": 8,
@@ -133,11 +133,11 @@
           "Fernando Alonso"
         ],
         "reponse": "Lewis Hamilton",
-        "anecdote": "Nicole Scherzinger est une chanteuse americaine connue comme etant l'ex-chanteuse des Pussycat Dolls. "
+        "anecdote": "Nicole Scherzinger est une chanteuse americaine connue comme etant l ex-chanteuse des Pussycat Dolls. "
       },
       {
         "id": 9,
-        "question": "Quel acteur et chanteur a integre en fevrier 2015 l'equipe de France de poker ?",
+        "question": "Quel acteur et chanteur a integre en fevrier 2015 l equipe de France de poker ?",
         "propositions": [
           "Johnny Hallyday",
           "JoeyStarr",
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quel acteur francais a ete hospitalise à 89 ans apres son malaise sur scene ?",
+        "question": "Quel acteur francais a ete hospitalise a 89 ans apres son malaise sur scene ?",
         "propositions": [
           "Pierre Dux",
           "Robert Hirsch",
@@ -171,7 +171,7 @@
           "Jacques Dufilho"
         ],
         "reponse": "Robert Hirsch",
-        "anecdote": "Robert Hirsch a dejà fait realiser sa tombe pour etre enterre dans le cimetiere de Bouere."
+        "anecdote": "Robert Hirsch a deja fait realiser sa tombe pour etre enterre dans le cimetiere de Bouere."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Queen Latifah"
         ],
         "reponse": "Nicki Minaj",
-        "anecdote": "Nicki Minaj est la seule rappeuse feminine à etre representee dans la liste des Hip Hop Cash Kings de Forbes."
+        "anecdote": "Nicki Minaj est la seule rappeuse feminine a etre representee dans la liste des Hip Hop Cash Kings de Forbes."
       },
       {
         "id": 13,
@@ -207,11 +207,11 @@
           "Christophe Willem"
         ],
         "reponse": "Mathieu Saïkaly",
-        "anecdote": "L'emission « Nouvelle Star » est basee sur le format à succes « Pop Idol » et produite par FremantleMedia et 19TV Ltd."
+        "anecdote": "L emission « Nouvelle Star » est basee sur le format a succes « Pop Idol » et produite par FremantleMedia et 19TV Ltd."
       },
       {
         "id": 15,
-        "question": "Quel journaliste a fait un malaise en plein direct de « C à Vous », jusqu'à interrompre l'emission ?",
+        "question": "Quel journaliste a fait un malaise en plein direct de « C a Vous », jusqu a interrompre l emission ?",
         "propositions": [
           "Alain Marschall",
           "Alexandre Debanne",
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Quelle actrice et petite-fille d'Elvis Presley s'est mariee en fevrier 2015 ?",
+        "question": "Quelle actrice et petite-fille d Elvis Presley s est mariee en fevrier 2015 ?",
         "propositions": [
           "Riley Keough",
           "Kristen Stewart",
@@ -267,11 +267,11 @@
           "Natalie Portman"
         ],
         "reponse": "Jennifer Lawrence",
-        "anecdote": "En 2015, selon la magazine « Forbes », elle est l'actrice la mieux payee au monde avec pres de 52 millions de dollars."
+        "anecdote": "En 2015, selon la magazine « Forbes », elle est l actrice la mieux payee au monde avec pres de 52 millions de dollars."
       },
       {
         "id": 20,
-        "question": "Qui a enflamme la planete lors du show à la mi-temps du Super Bowl 2015 ?",
+        "question": "Qui a enflamme la planete lors du show a la mi-temps du Super Bowl 2015 ?",
         "propositions": [
           "Nelly Furtado",
           "Christina Aguilera",
@@ -279,7 +279,7 @@
           "Katy Perry"
         ],
         "reponse": "Katy Perry",
-        "anecdote": "Katy Perry est la seule artiste à etre restee plus de 52 semaines consecutives dans le top 10 du « Billboard Hot 100 »."
+        "anecdote": "Katy Perry est la seule artiste a etre restee plus de 52 semaines consecutives dans le top 10 du « Billboard Hot 100 »."
       }
     ],
     "expert": [
@@ -305,7 +305,7 @@
           "Rosario Dawson"
         ],
         "reponse": "Jessica Alba",
-        "anecdote": "Grace à son physique avantageux, Jessica Alba est apparue ans la rubrique « Hot 100 » du magazine « Maximal »."
+        "anecdote": "Grace a son physique avantageux, Jessica Alba est apparue ans la rubrique « Hot 100 » du magazine « Maximal »."
       },
       {
         "id": 23,
@@ -329,11 +329,11 @@
           "Ciara"
         ],
         "reponse": "Ciara",
-        "anecdote": "C'est en decembre 2012 que Ciara a commence à frequenter le rappeur Future."
+        "anecdote": "C est en decembre 2012 que Ciara a commence a frequenter le rappeur Future."
       },
       {
         "id": 25,
-        "question": "Quel acteur est devenu, travesti le temps d'un rôle, le sosie de Jennifer Garner ?",
+        "question": "Quel acteur est devenu, travesti le temps d un rôle, le sosie de Jennifer Garner ?",
         "propositions": [
           "Jeff Bridges",
           "Eddie Redmayne",
@@ -341,7 +341,7 @@
           "Colin Firth"
         ],
         "reponse": "Eddie Redmayne",
-        "anecdote": "Eddie Redmayne a decroche en 2015 l'Oscar du meilleur acteur pour son interpretation du physicien et cosmologiste Stephen Hawking."
+        "anecdote": "Eddie Redmayne a decroche en 2015 l Oscar du meilleur acteur pour son interpretation du physicien et cosmologiste Stephen Hawking."
       },
       {
         "id": 26,
@@ -365,7 +365,7 @@
           "James Lipton"
         ],
         "reponse": "Rod McKuen",
-        "anecdote": "Bien qu'ayant vendu plusieurs millions d'exemplaires de ses livres, sa poesie restera denigree par les critiques."
+        "anecdote": "Bien qu ayant vendu plusieurs millions d exemplaires de ses livres, sa poesie restera denigree par les critiques."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Kelly Trump"
         ],
         "reponse": "Kim Kardashian",
-        "anecdote": "Kim Kardashian etait une amie proche de Paris Hilton, ce qui lui a permis d'attirer l'attention des medias."
+        "anecdote": "Kim Kardashian etait une amie proche de Paris Hilton, ce qui lui a permis d attirer l attention des medias."
       },
       {
         "id": 29,
@@ -401,7 +401,7 @@
           "Emily Ratajkowski"
         ],
         "reponse": "Emily Ratajkowski",
-        "anecdote": "Grace à son apparition dans « Blurred Lines », la marque de lingerie Victoria's Secret l'a engage en tant que mannequin."
+        "anecdote": "Grace a son apparition dans « Blurred Lines », la marque de lingerie Victoria s Secret l a engage en tant que mannequin."
       }
     ]
     }

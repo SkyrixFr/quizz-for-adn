@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2022-05-03",
+  "mise-a-jour": "2022-05-03",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Vie quotidienne",
@@ -22,7 +22,7 @@
     },
     "it": {
       "categorie": "Vita di ogni giorno",
-      "nom": "Società Coca-Cola",
+      "nom": "Societa Coca-Cola",
       "slogan": "Specialista in bevande analcoliche"
     },
     "de": {
@@ -61,11 +61,11 @@
           "Andros"
         ],
         "reponse": "Minute Maid",
-        "anecdote": "Il fut desormais possible de consommer du jus d'orange au goût frais à tout moment de l'annee et loin des regions productrices."
+        "anecdote": "Il fut desormais possible de consommer du jus d orange au goût frais a tout moment de l annee et loin des regions productrices."
       },
       {
         "id": 3,
-        "question": "Quelle marque d'eau minerale belge appartient au groupe Coca-Cola ?",
+        "question": "Quelle marque d eau minerale belge appartient au groupe Coca-Cola ?",
         "propositions": [
           "Chaudfontaine",
           "Spa",
@@ -97,7 +97,7 @@
           "Cherry"
         ],
         "reponse": "Zero",
-        "anecdote": "Tout comme le Coca Light, sa recette sortie en 2007 en France utilise de l'aspartame et de l'acesulfame-k à la place du sucre."
+        "anecdote": "Tout comme le Coca Light, sa recette sortie en 2007 en France utilise de l aspartame et de l acesulfame-k a la place du sucre."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Coca-Cola Zero"
         ],
         "reponse": "Coca-Cola Light",
-        "anecdote": "Introduite en France en 1988, la marque Diet Coke fut lancee aux États-Unis le Jour de l'Independance, en 1982."
+        "anecdote": "Introduite en France en 1988, la marque Diet Coke fut lancee aux États-Unis le Jour de l Independance, en 1982."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "BlaK"
         ],
         "reponse": "Cherry",
-        "anecdote": "Coca-Cola a ensuite cree d'autres Coca-Cola aromatises : Vanille, Lemon (citron), Lime (citron vert), BlaK (cafe) et Sango (l'orange)."
+        "anecdote": "Coca-Cola a ensuite cree d autres Coca-Cola aromatises : Vanille, Lemon (citron), Lime (citron vert), BlaK (cafe) et Sango (l orange)."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "1913"
         ],
         "reponse": "1887",
-        "anecdote": "Il tire son nom de sa premiere composition : la feuille de coca et l'utilisation de noix de kola, boisson alors vendue par son inventeur."
+        "anecdote": "Il tire son nom de sa premiere composition : la feuille de coca et l utilisation de noix de kola, boisson alors vendue par son inventeur."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Rodeo"
         ],
         "reponse": "Nalu",
-        "anecdote": "Developpee dans le centre de recherche de Coca-Cola d'Anderlecht, elle est produite à Gand et est vendue en Belgique et Luxembourg."
+        "anecdote": "Developpee dans le centre de recherche de Coca-Cola d Anderlecht, elle est produite a Gand et est vendue en Belgique et Luxembourg."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Londres 2012"
         ],
         "reponse": "Athenes 2004",
-        "anecdote": "Les 39 sponsors officiels des jeux ont obtenu, contre pres de 800 millions d'euros, l'exclusivite absolue de leurs produits sur le site."
+        "anecdote": "Les 39 sponsors officiels des jeux ont obtenu, contre pres de 800 millions d euros, l exclusivite absolue de leurs produits sur le site."
       }
     ],
     "confirme": [
@@ -171,7 +171,7 @@
           "Brunswick"
         ],
         "reponse": "Atlanta",
-        "anecdote": "La societe Coca-Cola etait, au debut de 2012, la troisieme entreprise agroalimentaire du monde en termes de chiffre d'affaires."
+        "anecdote": "La societe Coca-Cola etait, au debut de 2012, la troisieme entreprise agroalimentaire du monde en termes de chiffre d affaires."
       },
       {
         "id": 12,
@@ -183,11 +183,11 @@
           "Cherry Coke"
         ],
         "reponse": "Fanta",
-        "anecdote": "La Seconde Guerre mondiale avait rendu difficile l'importation des denrees necessaires à la fabrication du Coca-Cola."
+        "anecdote": "La Seconde Guerre mondiale avait rendu difficile l importation des denrees necessaires a la fabrication du Coca-Cola."
       },
       {
         "id": 13,
-        "question": "Combien de marques de boissons environ la societe Coca-Cola gere-t-elle à ce jour ?",
+        "question": "Combien de marques de boissons environ la societe Coca-Cola gere-t-elle a ce jour ?",
         "propositions": [
           "300",
           "200",
@@ -195,11 +195,11 @@
           "500"
         ],
         "reponse": "500",
-        "anecdote": "Le 24 decembre 2014, le Wall Street Journal annonca que l'entreprise prevoyait de supprimer entre 1 000 et 2 000 postes."
+        "anecdote": "Le 24 decembre 2014, le Wall Street Journal annonca que l entreprise prevoyait de supprimer entre 1 000 et 2 000 postes."
       },
       {
         "id": 14,
-        "question": "Quel fut, en milliards d'euros, le chiffre d'affaire de la societe Coca-Cola en 2016 ?",
+        "question": "Quel fut, en milliards d euros, le chiffre d affaire de la societe Coca-Cola en 2016 ?",
         "propositions": [
           "44",
           "32",
@@ -231,11 +231,11 @@
           "Sporteus"
         ],
         "reponse": "Aquarius",
-        "anecdote": "Cette boisson pour le sport fut commercialisee en 1983 au Japon en reponse à une boisson similaire nomme Pocari Sweat."
+        "anecdote": "Cette boisson pour le sport fut commercialisee en 1983 au Japon en reponse a une boisson similaire nomme Pocari Sweat."
       },
       {
         "id": 17,
-        "question": "Quelle version du Coca-Cola est basee sur l'utilisation de la stevia ?",
+        "question": "Quelle version du Coca-Cola est basee sur l utilisation de la stevia ?",
         "propositions": [
           "BlaK",
           "Cherry",
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Qui etait PDG de l'entreprise Coca-Cola au 1er janvier 2017 ?",
+        "question": "Qui etait PDG de l entreprise Coca-Cola au 1er janvier 2017 ?",
         "propositions": [
           "Osman Kavala",
           "Muhtar Kent",
@@ -293,7 +293,7 @@
           "Serdar Bilgili"
         ],
         "reponse": "Muhtar Kent",
-        "anecdote": "En 1979, Muhtar Kent a commence sa carriere comme distributeur de produits de la compagnie Coca-Cola à travers les États-Unis."
+        "anecdote": "En 1979, Muhtar Kent a commence sa carriere comme distributeur de produits de la compagnie Coca-Cola a travers les États-Unis."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "Jerry Manock"
         ],
         "reponse": "Raymond Loewy",
-        "anecdote": "Raymond Loewy, ne à Paris en 1893, est un designer industriel et graphiste francais devenu franco-americain apres sa naturalisation."
+        "anecdote": "Raymond Loewy, ne a Paris en 1893, est un designer industriel et graphiste francais devenu franco-americain apres sa naturalisation."
       },
       {
         "id": 23,
@@ -317,11 +317,11 @@
           "70"
         ],
         "reponse": "70",
-        "anecdote": "Fanta Shokata est une saveur derivee de la Socata, une boisson traditionnelle roumaine realisee à base de fleur de sureau."
+        "anecdote": "Fanta Shokata est une saveur derivee de la Socata, une boisson traditionnelle roumaine realisee a base de fleur de sureau."
       },
       {
         "id": 24,
-        "question": "Qui a propose à John Stith Pemberton le nom de Coca-Cola pour sa future boisson ?",
+        "question": "Qui a propose a John Stith Pemberton le nom de Coca-Cola pour sa future boisson ?",
         "propositions": [
           "James Quincey",
           "Frank Robinson",
@@ -329,7 +329,7 @@
           "Barry Diller"
         ],
         "reponse": "Frank Robinson",
-        "anecdote": "Le comptable de Pemberton lui proposa le nom Coca-Cola et le design du logo, Haddon Sundblom illustra quant à lui le Pere Noal."
+        "anecdote": "Le comptable de Pemberton lui proposa le nom Coca-Cola et le design du logo, Haddon Sundblom illustra quant a lui le Pere Noal."
       },
       {
         "id": 25,
@@ -341,11 +341,11 @@
           "Dasani"
         ],
         "reponse": "Dasani",
-        "anecdote": "La marque vendait de l'eau provenant de la Tamise purifiee par ajout de chlorure de calcium, contenant du bromure, filtree trois fois."
+        "anecdote": "La marque vendait de l eau provenant de la Tamise purifiee par ajout de chlorure de calcium, contenant du bromure, filtree trois fois."
       },
       {
         "id": 26,
-        "question": "Dans quel pays le Coca-Cola est-il interdit d'importation ?",
+        "question": "Dans quel pays le Coca-Cola est-il interdit d importation ?",
         "propositions": [
           "Japon",
           "Argentine",
@@ -353,11 +353,11 @@
           "Suisse"
         ],
         "reponse": "Inde",
-        "anecdote": "Plusieurs marques d'eau en bouteilles fabriquees par Coca-Cola contenaient des residus de pesticides superieurs à la norme."
+        "anecdote": "Plusieurs marques d eau en bouteilles fabriquees par Coca-Cola contenaient des residus de pesticides superieurs a la norme."
       },
       {
         "id": 27,
-        "question": "Quel produit a pour slogan : « Le Cola embrasse l'orange » ?",
+        "question": "Quel produit a pour slogan : « Le Cola embrasse l orange » ?",
         "propositions": [
           "Mezzo Mix",
           "BlaK",
@@ -365,7 +365,7 @@
           "Dasani"
         ],
         "reponse": "Mezzo Mix",
-        "anecdote": "Mezzo Mix est un produit de Coca-Cola vendu seulement en Allemagne, Autriche, Finlande, Belgique ainsi qu'en Suisse."
+        "anecdote": "Mezzo Mix est un produit de Coca-Cola vendu seulement en Allemagne, Autriche, Finlande, Belgique ainsi qu en Suisse."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Coca Blanc"
         ],
         "reponse": "Coca Blanc",
-        "anecdote": "Le marechal Joukov demanda à l'entreprise americaine de fabriquer et d'emballer des bouteilles pour les faire ressembler à de la vodka."
+        "anecdote": "Le marechal Joukov demanda a l entreprise americaine de fabriquer et d emballer des bouteilles pour les faire ressembler a de la vodka."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Cheerios"
         ],
         "reponse": "Enviga",
-        "anecdote": "Enviga est une boisson gazeuse non alcoolique permettant, selon ses fabricants, de brûler plus de calories qu'elle n'en apporte."
+        "anecdote": "Enviga est une boisson gazeuse non alcoolique permettant, selon ses fabricants, de brûler plus de calories qu elle n en apporte."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Mexican Coke"
         ],
         "reponse": "Mexican Coke",
-        "anecdote": "Nomme ainsi de par son lieu de production, ce changement donnerait à la boisson un goût plus naturel."
+        "anecdote": "Nomme ainsi de par son lieu de production, ce changement donnerait a la boisson un goût plus naturel."
       }
     ]
     },
@@ -409,7 +409,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Which Coca-Cola product is a direct competitor of PepsiCo's 7 Up ?",
+        "question": "Which Coca-Cola product is a direct competitor of PepsiCo s 7 Up ?",
         "propositions": [
           "Bonaqua",
           "Fanta",
@@ -647,7 +647,7 @@
           "BlaK"
         ],
         "reponse": "BlaK",
-        "anecdote": "The Coca-Cola Company launched Coca-Cola BlaK to compete with PepsiCo's Pepsi Maxcappuccino."
+        "anecdote": "The Coca-Cola Company launched Coca-Cola BlaK to compete with PepsiCo s Pepsi Maxcappuccino."
       }
     ],
     "expert": [
@@ -697,7 +697,7 @@
           "Ronald Allen"
         ],
         "reponse": "Frank Robinson",
-        "anecdote": "Pemberton's accountant offered him the name Coca-Cola and the design of the logo. Haddon Sundblom illustrated Santa Claus."
+        "anecdote": "Pemberton s accountant offered him the name Coca-Cola and the design of the logo. Haddon Sundblom illustrated Santa Claus."
       },
       {
         "id": 25,
@@ -777,7 +777,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Welches Coca-Cola-Produkt ist ein direkter Konkurrent von PepsiCo's 7 Up ?",
+        "question": "Welches Coca-Cola-Produkt ist ein direkter Konkurrent von PepsiCo s 7 Up ?",
         "propositions": [
           "Fanta",
           "Sprite",
@@ -1533,7 +1533,7 @@
           "Joker"
         ],
         "reponse": "Minute Maid",
-        "anecdote": "Ora era possibile mangiare succo d'arancia fresco in qualsiasi momento dell'anno e lontano dalle regioni produttrici."
+        "anecdote": "Ora era possibile mangiare succo d arancia fresco in qualsiasi momento dell anno e lontano dalle regioni produttrici."
       },
       {
         "id": 3,
@@ -1545,7 +1545,7 @@
           "Valvert"
         ],
         "reponse": "Chaudfontaine",
-        "anecdote": "La fonte di Chaudfontaine si trova nella città belga di Chaudfontaine, nella regione vallona."
+        "anecdote": "La fonte di Chaudfontaine si trova nella citta belga di Chaudfontaine, nella regione vallona."
       },
       {
         "id": 4,
@@ -1581,7 +1581,7 @@
           "Coca-Cola BlaK"
         ],
         "reponse": "Coca-Cola Light",
-        "anecdote": "Introdotto in Francia nel 1988, il marchio Diet Coke e stato lanciato negli Stati Uniti nel Giorno dell'Indipendenza nel 1982."
+        "anecdote": "Introdotto in Francia nel 1988, il marchio Diet Coke e stato lanciato negli Stati Uniti nel Giorno dell Indipendenza nel 1982."
       },
       {
         "id": 7,
@@ -1605,7 +1605,7 @@
           "1887"
         ],
         "reponse": "1887",
-        "anecdote": "Prende il nome dalla sua prima composizione : la foglia di coca e l'uso della noce di cola, una bevanda poi venduta dal suo inventore."
+        "anecdote": "Prende il nome dalla sua prima composizione : la foglia di coca e l uso della noce di cola, una bevanda poi venduta dal suo inventore."
       },
       {
         "id": 9,
@@ -1629,13 +1629,13 @@
           "Pechino 2008"
         ],
         "reponse": "Atene 2004",
-        "anecdote": "I 39 sponsor ufficiali dei giochi hanno ottenuto, contro quasi 800 milioni di euro, l'assoluta esclusività dei loro prodotti sul sito."
+        "anecdote": "I 39 sponsor ufficiali dei giochi hanno ottenuto, contro quasi 800 milioni di euro, l assoluta esclusivita dei loro prodotti sul sito."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "In quale città della Georgia si trova l'attuale sede della società Coca-Cola ?",
+        "question": "In quale citta della Georgia si trova l attuale sede della societa Coca-Cola ?",
         "propositions": [
           "Dalton",
           "Atlanta",
@@ -1643,11 +1643,11 @@
           "Brunswick"
         ],
         "reponse": "Atlanta",
-        "anecdote": "All'inizio del 2012, la Coca-Cola era la terza piu grande azienda agroalimentare al mondo in termini di fatturato."
+        "anecdote": "All inizio del 2012, la Coca-Cola era la terza piu grande azienda agroalimentare al mondo in termini di fatturato."
       },
       {
         "id": 12,
-        "question": "Quale bevanda della società Coca-Cola fu rilasciata dopo il 1945 ?",
+        "question": "Quale bevanda della societa Coca-Cola fu rilasciata dopo il 1945 ?",
         "propositions": [
           "Vita da coke",
           "Fanta",
@@ -1655,7 +1655,7 @@
           "Sprite"
         ],
         "reponse": "Fanta",
-        "anecdote": "La seconda guerra mondiale aveva reso difficile l'importazione dei prodotti necessari per la fabbricazione della Coca Cola."
+        "anecdote": "La seconda guerra mondiale aveva reso difficile l importazione dei prodotti necessari per la fabbricazione della Coca Cola."
       },
       {
         "id": 13,
@@ -1667,11 +1667,11 @@
           "500"
         ],
         "reponse": "500",
-        "anecdote": "Il 24 dicembre 2014, il Wall Street Journal ha annunciato che la società aveva pianificato di tagliare tra 1.000 e 2.000 posizioni."
+        "anecdote": "Il 24 dicembre 2014, il Wall Street Journal ha annunciato che la societa aveva pianificato di tagliare tra 1.000 e 2.000 posizioni."
       },
       {
         "id": 14,
-        "question": "Qual e stato, in miliardi di euro, il fatturato dell'azienda Coca-Cola nel 2016 ?",
+        "question": "Qual e stato, in miliardi di euro, il fatturato dell azienda Coca-Cola nel 2016 ?",
         "propositions": [
           "38",
           "32",
@@ -1683,7 +1683,7 @@
       },
       {
         "id": 15,
-        "question": "Quale società di produzione audiovisiva ha acquistato la Coca-Cola nel 1982 ?",
+        "question": "Quale societa di produzione audiovisiva ha acquistato la Coca-Cola nel 1982 ?",
         "propositions": [
           "Columbia Pictures",
           "Warner Bros.",
@@ -1691,7 +1691,7 @@
           "Immagini universali"
         ],
         "reponse": "Columbia Pictures",
-        "anecdote": "Il logo dell'azienda rappresenta una personificazione degli Stati Uniti, in Colombia, con una torcia (come la Statua della Libertà)."
+        "anecdote": "Il logo dell azienda rappresenta una personificazione degli Stati Uniti, in Colombia, con una torcia (come la Statua della Liberta)."
       },
       {
         "id": 16,
@@ -1707,7 +1707,7 @@
       },
       {
         "id": 17,
-        "question": "Quale versione di Coca-Cola si basa sull'uso della stevia ?",
+        "question": "Quale versione di Coca-Cola si basa sull uso della stevia ?",
         "propositions": [
           "Ciliegia",
           "BlaK",
@@ -1724,7 +1724,7 @@
           "Coca-Cola Plus",
           "Coca_cola Fresh",
           "Menta Coca-Cola",
-          "Coca-Cola Novità"
+          "Coca-Cola Novita"
         ],
         "reponse": "Coca-Cola Plus",
         "anecdote": "La presenza di vitamina C e il suo basso livello di sodio conferiscono alla Coca-Cola Plus, rilasciata in Giappone nel 2009, un gusto piu leggero di agrumi."
@@ -1739,7 +1739,7 @@
           "Coca-Cola Light"
         ],
         "reponse": "New Coke",
-        "anecdote": "L'accettazione da parte del pubblico del cambio di formula e stata negativa e New Coke e stato considerato un grave fallimento del marketing."
+        "anecdote": "L accettazione da parte del pubblico del cambio di formula e stata negativa e New Coke e stato considerato un grave fallimento del marketing."
       },
       {
         "id": 20,
@@ -1781,7 +1781,7 @@
       },
       {
         "id": 23,
-        "question": "Quanto c'e nel mondo dei diversi gusti di Fanta ?",
+        "question": "Quanto c e nel mondo dei diversi gusti di Fanta ?",
         "propositions": [
           "50",
           "70",
@@ -1817,7 +1817,7 @@
       },
       {
         "id": 26,
-        "question": "In quale paese e vietata l'importazione di Coca-Cola ?",
+        "question": "In quale paese e vietata l importazione di Coca-Cola ?",
         "propositions": [
           "Svizzera",
           "Argentina",
@@ -1829,7 +1829,7 @@
       },
       {
         "id": 27,
-        "question": "Quale prodotto ha per lo slogan : « Cola bacia l'arancia » ?",
+        "question": "Quale prodotto ha per lo slogan : « Cola bacia l arancia » ?",
         "propositions": [
           "Enviga",
           "Mezzo Mix",
@@ -1881,7 +1881,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Welk Coca-Cola-product is een directe concurrent van PepsiCo's 7 Up ?",
+        "question": "Welk Coca-Cola-product is een directe concurrent van PepsiCo s 7 Up ?",
         "propositions": [
           "Fanta",
           "Bonaqua",
@@ -1889,7 +1889,7 @@
           "Sprite"
         ],
         "reponse": "Sprite",
-        "anecdote": "Sprite bevat: gasvormig water, suiker en verzuringsmiddelen ? (citroenzuur, natriumcitraat en natuurlijke citroen-limoenaroma's)."
+        "anecdote": "Sprite bevat: gasvormig water, suiker en verzuringsmiddelen ? (citroenzuur, natriumcitraat en natuurlijke citroen-limoenaroma s)."
       },
       {
         "id": 2,
@@ -1901,7 +1901,7 @@
           "Andros"
         ],
         "reponse": "Minuut meid",
-        "anecdote": "Het was nu mogelijk om op elk moment van het jaar vers sinaasappelsap te eten en weg van de producerende regio's."
+        "anecdote": "Het was nu mogelijk om op elk moment van het jaar vers sinaasappelsap te eten en weg van de producerende regio s."
       },
       {
         "id": 3,
@@ -2039,7 +2039,7 @@
       },
       {
         "id": 14,
-        "question": "Wat was, in miljarden euro's, de omzet van het bedrijf Coca-Cola in 2016 ?",
+        "question": "Wat was, in miljarden euro s, de omzet van het bedrijf Coca-Cola in 2016 ?",
         "propositions": [
           "44",
           "38",
@@ -2119,7 +2119,7 @@
           "Leven"
         ],
         "reponse": "BlaK",
-        "anecdote": "The Coca-Cola Company lanceerde Coca-Cola BlaK om te concurreren met PepsiCo's Pepsi Maxcappuccino."
+        "anecdote": "The Coca-Cola Company lanceerde Coca-Cola BlaK om te concurreren met PepsiCo s Pepsi Maxcappuccino."
       }
     ],
     "expert": [
@@ -2169,7 +2169,7 @@
           "Ronald Allen"
         ],
         "reponse": "Frank Robinson",
-        "anecdote": "Pemberton's accountant bood hem de naam Coca-Cola en het ontwerp van het logo aan. Haddon Sundblom illustreerde de kerstman."
+        "anecdote": "Pemberton s accountant bood hem de naam Coca-Cola en het ontwerp van het logo aan. Haddon Sundblom illustreerde de kerstman."
       },
       {
         "id": 25,

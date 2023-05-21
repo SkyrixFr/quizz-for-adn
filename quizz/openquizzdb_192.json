@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "Mike Horn",
-      "slogan": "Aventurier de l'extreme"
+      "slogan": "Aventurier de l extreme"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Aventurero extremo"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Mike Corno",
       "slogan": "Avventuriero estremo"
     },
@@ -45,11 +45,11 @@
         "propositions": [
           "Nouvelle Star",
           "Pekin Express",
-          "À l'etat sauvage",
+          "À l etat sauvage",
           "X Factor"
         ],
-        "reponse": "À l'etat sauvage",
-        "anecdote": "Il s'agit de l'adaptation francaise de l'emission americaine « Running Wild with Bear Grylls », diffusee sur NBC depuis 2014."
+        "reponse": "À l etat sauvage",
+        "anecdote": "Il s agit de l adaptation francaise de l emission americaine « Running Wild with Bear Grylls », diffusee sur NBC depuis 2014."
       },
       {
         "id": 2,
@@ -61,11 +61,11 @@
           "Sandra"
         ],
         "reponse": "Cathy",
-        "anecdote": "Originaire de Nouvelle-Zelande, infirmiere de formation, Cathy a rencontre son futur epoux dans un cafe de Chateau-d'Oex, en 1990."
+        "anecdote": "Originaire de Nouvelle-Zelande, infirmiere de formation, Cathy a rencontre son futur epoux dans un cafe de Chateau-d Oex, en 1990."
       },
       {
         "id": 3,
-        "question": "Quel nom Mike Horn a-t-il donne à son tour du monde par l'equateur ?",
+        "question": "Quel nom Mike Horn a-t-il donne a son tour du monde par l equateur ?",
         "propositions": [
           "Ground Zero",
           "Cap Zero",
@@ -73,7 +73,7 @@
           "Land Zero"
         ],
         "reponse": "Latitude Zero",
-        "anecdote": "Sur une idee de Mick Regnier, Mike Horn va parcourir plus de 40 000 km de juin 1999 à octobre 2000 sans moyen de transport motorise."
+        "anecdote": "Sur une idee de Mick Regnier, Mike Horn va parcourir plus de 40 000 km de juin 1999 a octobre 2000 sans moyen de transport motorise."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Arktos"
         ],
         "reponse": "Arktos",
-        "anecdote": "Lors d'une expedition preliminaire pour atteindre le pôle Nord, Mike Horn fut contraint à l'abandon pour cause de gelures aux mains."
+        "anecdote": "Lors d une expedition preliminaire pour atteindre le pôle Nord, Mike Horn fut contraint a l abandon pour cause de gelures aux mains."
       },
       {
         "id": 5,
@@ -93,11 +93,11 @@
         "propositions": [
           "M. Pokora",
           "Laure Manaudou",
-          "Shy'm",
+          "Shy m",
           "Michaal Youn"
         ],
         "reponse": "M. Pokora",
-        "anecdote": "Pendant quatre jours, ils ont dû chasser, pecher et construire des abris de fortune pour pallier l'absence de toute vie humaine."
+        "anecdote": "Pendant quatre jours, ils ont dû chasser, pecher et construire des abris de fortune pour pallier l absence de toute vie humaine."
       },
       {
         "id": 6,
@@ -109,11 +109,11 @@
           "Dropped"
         ],
         "reponse": "The Island",
-        "anecdote": "Un groupe d'individus doit tenter de survivre sans aide exterieure sur une île deserte pendant 28 jours avec une seule regle : survivre."
+        "anecdote": "Un groupe d individus doit tenter de survivre sans aide exterieure sur une île deserte pendant 28 jours avec une seule regle : survivre."
       },
       {
         "id": 7,
-        "question": "Combien d'annees a dure l'expedition Pangaea menee par Mike Horn ?",
+        "question": "Combien d annees a dure l expedition Pangaea menee par Mike Horn ?",
         "propositions": [
           "2 ans",
           "3 ans",
@@ -121,7 +121,7 @@
           "5 ans"
         ],
         "reponse": "4 ans",
-        "anecdote": "De 2008 à 2012, l'expedition Pangaea a fait le tour du monde avec une centaine de jeunes de 15 à 20 ans qui se sont succedes."
+        "anecdote": "De 2008 a 2012, l expedition Pangaea a fait le tour du monde avec une centaine de jeunes de 15 a 20 ans qui se sont succedes."
       },
       {
         "id": 8,
@@ -130,14 +130,14 @@
           "M. Pokora",
           "Laure Manaudou",
           "Michaal Youn",
-          "Shy'm"
+          "Shy m"
         ],
         "reponse": "Michaal Youn",
-        "anecdote": "C'est le 28 juin 2016 que l'emission tournee dans la region du Kaokoland a ete vue par trois millions de telespectateurs sur M6."
+        "anecdote": "C est le 28 juin 2016 que l emission tournee dans la region du Kaokoland a ete vue par trois millions de telespectateurs sur M6."
       },
       {
         "id": 9,
-        "question": "Combien de numero d'« À l'etat sauvage » Mike Horn a-t-il tourne avant de decider d'arreter ?",
+        "question": "Combien de numero d « À l etat sauvage » Mike Horn a-t-il tourne avant de decider d arreter ?",
         "propositions": [
           "Huit",
           "Six",
@@ -145,11 +145,11 @@
           "Quatre"
         ],
         "reponse": "Huit",
-        "anecdote": "Michaal Youn, M. Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M et Franck Gastambide seront choisis."
+        "anecdote": "Michaal Youn, M. Pokora, Laure Manaudou, Ch. Dechavanne, Shy m, Adriana Karembeu, Black M et Franck Gastambide seront choisis."
       },
       {
         "id": 10,
-        "question": "Quand il n'est pas en expedition, dans quel pays reside l'explorateur Mike Horn ?",
+        "question": "Quand il n est pas en expedition, dans quel pays reside l explorateur Mike Horn ?",
         "propositions": [
           "France",
           "Inde",
@@ -157,13 +157,13 @@
           "Canada"
         ],
         "reponse": "Suisse",
-        "anecdote": "Mike Horn, de son vrai nom Michael Frederick Horn, est ne le 16 juillet 1966 à Johannesbourg, en Afrique du Sud."
+        "anecdote": "Mike Horn, de son vrai nom Michael Frederick Horn, est ne le 16 juillet 1966 a Johannesbourg, en Afrique du Sud."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Laquelle de ces activites Mike Horn n'a-t-il pas exerce ?",
+        "question": "Laquelle de ces activites Mike Horn n a-t-il pas exerce ?",
         "propositions": [
           "Bûcheron",
           "Vendangeur",
@@ -175,7 +175,7 @@
       },
       {
         "id": 12,
-        "question": "Comment se prenomme la premiere fille de l'explorateur Mike Horn ?",
+        "question": "Comment se prenomme la premiere fille de l explorateur Mike Horn ?",
         "propositions": [
           "Tatiana",
           "Jessica",
@@ -183,7 +183,7 @@
           "Annika"
         ],
         "reponse": "Annika",
-        "anecdote": "Jessica, la seconde fille de Mike et Cathy (qui succombera à un cancer du sein en 2015), verra le jour l'annee suivante."
+        "anecdote": "Jessica, la seconde fille de Mike et Cathy (qui succombera a un cancer du sein en 2015), verra le jour l annee suivante."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Colombie"
         ],
         "reponse": "Perou",
-        "anecdote": "Son premier contact avec l'aventure a lieu en 1991 dans les Andes peruviennes en raft et parapente. Des lors, le virus est en lui."
+        "anecdote": "Son premier contact avec l aventure a lieu en 1991 dans les Andes peruviennes en raft et parapente. Des lors, le virus est en lui."
       },
       {
         "id": 14,
@@ -207,11 +207,11 @@
           "30 jours"
         ],
         "reponse": "15 jours",
-        "anecdote": "L'expedition de 808 jours a donne lieu à un film, « Arktos : Le voyage interieur de Mike Horn », realise et produit par Raphaal Blanc."
+        "anecdote": "L expedition de 808 jours a donne lieu a un film, « Arktos : Le voyage interieur de Mike Horn », realise et produit par Raphaal Blanc."
       },
       {
         "id": 15,
-        "question": "Quel bateau à voile de 35 m en aluminium Mike Horn a-t-il fait construire ?",
+        "question": "Quel bateau a voile de 35 m en aluminium Mike Horn a-t-il fait construire ?",
         "propositions": [
           "Makalu",
           "Arktos",
@@ -223,7 +223,7 @@
       },
       {
         "id": 16,
-        "question": "Quel desert Mike Horn a-t-il decide d'explorer en 2016 ?",
+        "question": "Quel desert Mike Horn a-t-il decide d explorer en 2016 ?",
         "propositions": [
           "Kaouar",
           "Namib",
@@ -231,11 +231,11 @@
           "Gobero"
         ],
         "reponse": "Namib",
-        "anecdote": "Le 8 mai 2016, il commence son expedition « Pole2Pole » au depart de Monaco. Une fois arrive à bon port, il explorera le Namib."
+        "anecdote": "Le 8 mai 2016, il commence son expedition « Pole2Pole » au depart de Monaco. Une fois arrive a bon port, il explorera le Namib."
       },
       {
         "id": 17,
-        "question": "En combien de jours Mike Horn a-t-il traverse l'Antarctique en solitaire ?",
+        "question": "En combien de jours Mike Horn a-t-il traverse l Antarctique en solitaire ?",
         "propositions": [
           "37 jours",
           "57 jours",
@@ -243,7 +243,7 @@
           "67 jours"
         ],
         "reponse": "57 jours",
-        "anecdote": "C'est sans moteur et en solitaire que Mike Horn a parcouru pres de 5 100 kilometres pour traverser integralement l'Antarctique."
+        "anecdote": "C est sans moteur et en solitaire que Mike Horn a parcouru pres de 5 100 kilometres pour traverser integralement l Antarctique."
       },
       {
         "id": 18,
@@ -255,7 +255,7 @@
           "Cameron"
         ],
         "reponse": "Bylot",
-        "anecdote": "Depuis 1925, le Canada a revendique la partie de l'Arctique entre 60° O et 141° O de longitude, s'etendant jusqu'au au pôle Nord."
+        "anecdote": "Depuis 1925, le Canada a revendique la partie de l Arctique entre 60° O et 141° O de longitude, s etendant jusqu au au pôle Nord."
       },
       {
         "id": 19,
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Qui a realise « Four Eight Thousands » sur l'expedition himalayenne de Mike Horn ?",
+        "question": "Qui a realise « Four Eight Thousands » sur l expedition himalayenne de Mike Horn ?",
         "propositions": [
           "Drew Brees",
           "David Ribeiro",
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Quand Mike Horn a-t-il recu le Laureus Award du meilleur sportif alternatif de l'annee ?",
+        "question": "Quand Mike Horn a-t-il recu le Laureus Award du meilleur sportif alternatif de l annee ?",
         "propositions": [
           "2007",
           "2001",
@@ -293,11 +293,11 @@
           "2005"
         ],
         "reponse": "2001",
-        "anecdote": "Seul durant 18 mois, Mike Horn va connaître toutes sortes de peripeties avec « Latitude Zero », son tour du monde par l'equateur."
+        "anecdote": "Seul durant 18 mois, Mike Horn va connaître toutes sortes de peripeties avec « Latitude Zero », son tour du monde par l equateur."
       },
       {
         "id": 22,
-        "question": "Quel sommet de l'Himalaya Mike Horn a-t-il atteint en 2014 ?",
+        "question": "Quel sommet de l Himalaya Mike Horn a-t-il atteint en 2014 ?",
         "propositions": [
           "Manaslu",
           "Makalu",
@@ -305,7 +305,7 @@
           "K2"
         ],
         "reponse": "Makalu",
-        "anecdote": "Le Makalu est un sommet de l'Himalaya culminant à 8 485 metres d'altitude, à la frontiere entre le Tibet, la Chine et le Nepal."
+        "anecdote": "Le Makalu est un sommet de l Himalaya culminant a 8 485 metres d altitude, a la frontiere entre le Tibet, la Chine et le Nepal."
       },
       {
         "id": 23,
@@ -317,7 +317,7 @@
           "Golf"
         ],
         "reponse": "Rugby",
-        "anecdote": "Apres avoir enseigne le sport et fait carriere en rugby, son pere est decede à quarante-deux ans lorsque Mike en avait dix-huit."
+        "anecdote": "Apres avoir enseigne le sport et fait carriere en rugby, son pere est decede a quarante-deux ans lorsque Mike en avait dix-huit."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "General"
         ],
         "reponse": "Lieutenant",
-        "anecdote": "De retour à la vie civile, il obtient un diplôme dans le domaine de la Science du mouvement humain à l'Universite de Stellenbosch."
+        "anecdote": "De retour a la vie civile, il obtient un diplôme dans le domaine de la Science du mouvement humain a l Universite de Stellenbosch."
       },
       {
         "id": 25,
@@ -353,7 +353,7 @@
           "Shamrock"
         ],
         "reponse": "Mari Cha III",
-        "anecdote": "Mike Horn a rejoint l'equipage du monocoque de 45 metres en 1997, qui a battu le record du monde de la traversee de l'Atlantique."
+        "anecdote": "Mike Horn a rejoint l equipage du monocoque de 45 metres en 1997, qui a battu le record du monde de la traversee de l Atlantique."
       },
       {
         "id": 27,
@@ -377,7 +377,7 @@
           "Borge Ousland"
         ],
         "reponse": "Borge Ousland",
-        "anecdote": "Le 23 mars 2006, Borge Ousland et Mike Horn deviennent les premieres personnes à atteindre le pôle Nord durant la nuit polaire."
+        "anecdote": "Le 23 mars 2006, Borge Ousland et Mike Horn deviennent les premieres personnes a atteindre le pôle Nord durant la nuit polaire."
       },
       {
         "id": 29,
@@ -421,7 +421,7 @@
       },
       {
         "id": 2,
-        "question": "How was Mike Horn's wife named, met in 1990 and now deceased ?",
+        "question": "How was Mike Horn s wife named, met in 1990 and now deceased ?",
         "propositions": [
           "Marie",
           "Cathy",
@@ -429,7 +429,7 @@
           "Sophie"
         ],
         "reponse": "Cathy",
-        "anecdote": "A native of New Zealand, a nurse by training, Cathy met her future lover in a Chateau-d'Oex cafe in 1990."
+        "anecdote": "A native of New Zealand, a nurse by training, Cathy met her future lover in a Chateau-d Oex cafe in 1990."
       },
       {
         "id": 3,
@@ -459,7 +459,7 @@
         "id": 5,
         "question": "With which celebrity Mike Horn has he traveled the jungle of Sri Lanka ?",
         "propositions": [
-          "Shy'm",
+          "Shy m",
           "Laure Manaudou",
           "Mr Pokora",
           "Michaal Youn"
@@ -496,7 +496,7 @@
         "question": "With what celebrity Mike Horn did he cross the desert of Namibia ?",
         "propositions": [
           "Michaal Youn",
-          "Shy'm",
+          "Shy m",
           "Mr Pokora",
           "Laure Manaudou"
         ],
@@ -513,11 +513,11 @@
           "Eight"
         ],
         "reponse": "Eight",
-        "anecdote": "Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M and Franck Gastambide will be chosen."
+        "anecdote": "Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy m, Adriana Karembeu, Black M and Franck Gastambide will be chosen."
       },
       {
         "id": 10,
-        "question": "When it's not shipping, in which country does explorer-adventurer Mike Horn reside ?",
+        "question": "When it s not shipping, in which country does explorer-adventurer Mike Horn reside ?",
         "propositions": [
           "India",
           "Canada",
@@ -615,7 +615,7 @@
       },
       {
         "id": 18,
-        "question": "What Island of Canada's Great North Mike Horn has crossed with his family ?",
+        "question": "What Island of Canada s Great North Mike Horn has crossed with his family ?",
         "propositions": [
           "Cameron",
           "Hans",
@@ -639,7 +639,7 @@
       },
       {
         "id": 20,
-        "question": "Who made « Four Eight Thousands » on Mike Horn's Himalayan expedition ?",
+        "question": "Who made « Four Eight Thousands » on Mike Horn s Himalayan expedition ?",
         "propositions": [
           "Jean Buhler",
           "David Ribeiro",
@@ -677,7 +677,7 @@
       },
       {
         "id": 23,
-        "question": "In which sport did Mike Horn's father make a career ?",
+        "question": "In which sport did Mike Horn s father make a career ?",
         "propositions": [
           "Rugby",
           "Football",
@@ -797,7 +797,7 @@
           "Cathy"
         ],
         "reponse": "Cathy",
-        "anecdote": "Die gebürtige Neuseeländerin, ausgebildete Krankenschwester, lernte 1990 ihren zukünftigen Liebhaber in einem Chateau-d'Oex-Cafe kennen"
+        "anecdote": "Die gebürtige Neuseeländerin, ausgebildete Krankenschwester, lernte 1990 ihren zukünftigen Liebhaber in einem Chateau-d Oex-Cafe kennen"
       },
       {
         "id": 3,
@@ -830,7 +830,7 @@
           "Herr Pokora",
           "Laure Manaudou",
           "Michaal Youn",
-          "Shy'm"
+          "Shy m"
         ],
         "reponse": "Herr Pokora",
         "anecdote": "Vier Tage lang mussten sie jagen, fischen und provisorische Unterkünfte bauen, um das Fehlen von Menschenleben auszugleichen."
@@ -865,7 +865,7 @@
         "propositions": [
           "Laure Manaudou",
           "Herr Pokora",
-          "Shy'm",
+          "Shy m",
           "Michaal Youn"
         ],
         "reponse": "Michaal Youn",
@@ -881,7 +881,7 @@
           "Zehn"
         ],
         "reponse": "Acht",
-        "anecdote": "Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M und Franck Gastambide werden ausgewählt."
+        "anecdote": "Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy m, Adriana Karembeu, Black M und Franck Gastambide werden ausgewählt."
       },
       {
         "id": 10,
@@ -1165,7 +1165,7 @@
           "Cathy"
         ],
         "reponse": "Cathy",
-        "anecdote": "Nacida en Nueva Zelanda, una enfermera en formación, Cathy conoció a su futuro amante en un cafe Chateau-d'Oex en 1990."
+        "anecdote": "Nacida en Nueva Zelanda, una enfermera en formación, Cathy conoció a su futuro amante en un cafe Chateau-d Oex en 1990."
       },
       {
         "id": 3,
@@ -1198,7 +1198,7 @@
           "Laure Manaudou",
           "Michaal Youn",
           "Sr. Pokora",
-          "Shy'm"
+          "Shy m"
         ],
         "reponse": "Sr. Pokora",
         "anecdote": "Durante cuatro días, tuvieron que cazar, pescar y construir refugios improvisados para compensar la ausencia de cualquier vida humana."
@@ -1232,7 +1232,7 @@
         "question": "¿Con que celebridad Mike Horn cruzó el desierto de Namibia ?",
         "propositions": [
           "Michaal Youn",
-          "Shy'm",
+          "Shy m",
           "Sr. Pokora",
           "Laure Manaudou"
         ],
@@ -1249,7 +1249,7 @@
           "Ocho"
         ],
         "reponse": "Ocho",
-        "anecdote": "Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M y Franck Gastambide serán elegidas."
+        "anecdote": "Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy m, Adriana Karembeu, Black M y Franck Gastambide serán elegidas."
       },
       {
         "id": 10,
@@ -1521,7 +1521,7 @@
           "Allo stato selvaggio"
         ],
         "reponse": "Allo stato selvaggio",
-        "anecdote": "Questo e l'adattamento francese dell'americano « Running Wild con Bear Grylls », trasmesso su NBC dal 2014."
+        "anecdote": "Questo e l adattamento francese dell americano « Running Wild con Bear Grylls », trasmesso su NBC dal 2014."
       },
       {
         "id": 2,
@@ -1533,7 +1533,7 @@
           "Sandra"
         ],
         "reponse": "Cathy",
-        "anecdote": "Nata in Nuova Zelanda, infermiera di formazione, Cathy ha incontrato il suo futuro amante in un caffe Chateau-d'Oex nel 1990."
+        "anecdote": "Nata in Nuova Zelanda, infermiera di formazione, Cathy ha incontrato il suo futuro amante in un caffe Chateau-d Oex nel 1990."
       },
       {
         "id": 3,
@@ -1545,7 +1545,7 @@
           "Latitudine zero"
         ],
         "reponse": "Latitudine zero",
-        "anecdote": "Su un'idea di Mick Regnier, Mike Horn percorrerà oltre 40.000 km da giugno 1999 a ottobre 2000 senza mezzi di trasporto motorizzato."
+        "anecdote": "Su un idea di Mick Regnier, Mike Horn percorrera oltre 40.000 km da giugno 1999 a ottobre 2000 senza mezzi di trasporto motorizzato."
       },
       {
         "id": 4,
@@ -1561,15 +1561,15 @@
       },
       {
         "id": 5,
-        "question": "Con quale celebrità Mike Horn ha viaggiato nella giungla dello Sri Lanka ?",
+        "question": "Con quale celebrita Mike Horn ha viaggiato nella giungla dello Sri Lanka ?",
         "propositions": [
           "Laure Manaudou",
-          "Shy'm",
+          "Shy m",
           "Mr Pokora",
           "Michaal Youn"
         ],
         "reponse": "Mr Pokora",
-        "anecdote": "Per quattro giorni, hanno dovuto cacciare, pescare e costruire rifugi di fortuna per sopperire all'assenza di qualsiasi vita umana."
+        "anecdote": "Per quattro giorni, hanno dovuto cacciare, pescare e costruire rifugi di fortuna per sopperire all assenza di qualsiasi vita umana."
       },
       {
         "id": 6,
@@ -1577,11 +1577,11 @@
         "propositions": [
           "Koh-Lanta",
           "Dropped",
-          "L'isola",
+          "L isola",
           "Express Express"
         ],
-        "reponse": "L'isola",
-        "anecdote": "Un gruppo di individui deve cercare di sopravvivere senza aiuto su un'isola deserta per 28 giorni con una sola regola: sopravvivere."
+        "reponse": "L isola",
+        "anecdote": "Un gruppo di individui deve cercare di sopravvivere senza aiuto su un isola deserta per 28 giorni con una sola regola: sopravvivere."
       },
       {
         "id": 7,
@@ -1597,11 +1597,11 @@
       },
       {
         "id": 8,
-        "question": "Con quale celebrità Mike Horn ha attraversato il deserto della Namibia ?",
+        "question": "Con quale celebrita Mike Horn ha attraversato il deserto della Namibia ?",
         "propositions": [
           "Michaal Youn",
           "Laure Manaudou",
-          "Shy'm",
+          "Shy m",
           "Mr Pokora"
         ],
         "reponse": "Michaal Youn",
@@ -1617,11 +1617,11 @@
           "Sei"
         ],
         "reponse": "Otto",
-        "anecdote": "Verranno scelti Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M e Franck Gastambide."
+        "anecdote": "Verranno scelti Michaal Youn, M.Pokora, Laure Manaudou, Ch. Dechavanne, Shy m, Adriana Karembeu, Black M e Franck Gastambide."
       },
       {
         "id": 10,
-        "question": "Quando non spedisce, in quale paese risiede l'esploratore-avventuriero Mike Horn ?",
+        "question": "Quando non spedisce, in quale paese risiede l esploratore-avventuriero Mike Horn ?",
         "propositions": [
           "Svizzera",
           "Canada",
@@ -1635,7 +1635,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quale di queste attività Mike Horn non ha esercitato ?",
+        "question": "Quale di queste attivita Mike Horn non ha esercitato ?",
         "propositions": [
           "Harvester",
           "Barman",
@@ -1647,7 +1647,7 @@
       },
       {
         "id": 12,
-        "question": "Come si chiama la prima figlia dell'esploratore Mike Horn ?",
+        "question": "Come si chiama la prima figlia dell esploratore Mike Horn ?",
         "propositions": [
           "Tatiana",
           "Francesca",
@@ -1655,7 +1655,7 @@
           "Jessica"
         ],
         "reponse": "Annika",
-        "anecdote": "Jessica, la seconda figlia di Mike e Cathy (che soccomberà al cancro al seno nel 2015), nascerà il prossimo anno."
+        "anecdote": "Jessica, la seconda figlia di Mike e Cathy (che soccombera al cancro al seno nel 2015), nascera il prossimo anno."
       },
       {
         "id": 13,
@@ -1667,7 +1667,7 @@
           "Bolivia"
         ],
         "reponse": "Pere",
-        "anecdote": "Il suo primo contatto con l'avventura ebbe luogo nel 1991 nelle Ande peruviane in rafting e parapendio."
+        "anecdote": "Il suo primo contatto con l avventura ebbe luogo nel 1991 nelle Ande peruviane in rafting e parapendio."
       },
       {
         "id": 14,
@@ -1691,7 +1691,7 @@
           "Makalu"
         ],
         "reponse": "Pangea",
-        "anecdote": "Costruito in Brasile, Mike Horn viaggerà con i Pangea in tutto il mondo in tutti e cinque i continenti senza alcun mezzo di trasporto motorizzato."
+        "anecdote": "Costruito in Brasile, Mike Horn viaggera con i Pangea in tutto il mondo in tutti e cinque i continenti senza alcun mezzo di trasporto motorizzato."
       },
       {
         "id": 16,
@@ -1703,11 +1703,11 @@
           "Namib"
         ],
         "reponse": "Namib",
-        "anecdote": "L'8 maggio 2016, inizia la sua spedizione « Pole2Pole » da Monaco. Una volta arrivato sano, esplorerà il Namib."
+        "anecdote": "L 8 maggio 2016, inizia la sua spedizione « Pole2Pole » da Monaco. Una volta arrivato sano, esplorera il Namib."
       },
       {
         "id": 17,
-        "question": "In quanti giorni Mike Horn ha attraversato l'Antartide in solitaria ?",
+        "question": "In quanti giorni Mike Horn ha attraversato l Antartide in solitaria ?",
         "propositions": [
           "47 giorni",
           "37 giorni",
@@ -1715,7 +1715,7 @@
           "67 giorni"
         ],
         "reponse": "57 giorni",
-        "anecdote": "È senza motore e da solo che Mike Horn ha percorso circa 5100 chilometri per attraversare completamente l'Antartico."
+        "anecdote": "È senza motore e da solo che Mike Horn ha percorso circa 5100 chilometri per attraversare completamente l Antartico."
       },
       {
         "id": 18,
@@ -1727,7 +1727,7 @@
           "Cameron"
         ],
         "reponse": "Bylot",
-        "anecdote": "Dal 1925, il Canada ha rivendicato parte dell'Artico tra 60 ° W e 141 ° di longitudine ovest, estendendosi fino al Polo Nord."
+        "anecdote": "Dal 1925, il Canada ha rivendicato parte dell Artico tra 60 ° W e 141 ° di longitudine ovest, estendendosi fino al Polo Nord."
       },
       {
         "id": 19,
@@ -1739,7 +1739,7 @@
           "K6"
         ],
         "reponse": "K5",
-        "anecdote": "Gasherbrum I, noto anche come K5 o Hidden Peak, e l'undicesima montagna piu alta del mondo."
+        "anecdote": "Gasherbrum I, noto anche come K5 o Hidden Peak, e l undicesima montagna piu alta del mondo."
       },
       {
         "id": 20,
@@ -1757,7 +1757,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Quando ha ricevuto Mike Horn il premio Laureus come miglior atleta alternativo dell'anno ?",
+        "question": "Quando ha ricevuto Mike Horn il premio Laureus come miglior atleta alternativo dell anno ?",
         "propositions": [
           "2007",
           "2001",
@@ -1765,7 +1765,7 @@
           "2003"
         ],
         "reponse": "2001",
-        "anecdote": "Da solo per 18 mesi, Mike Horn conoscerà ogni tipo di avventura con « Latitude Zero », il suo tour mondiale all'equatore."
+        "anecdote": "Da solo per 18 mesi, Mike Horn conoscera ogni tipo di avventura con « Latitude Zero », il suo tour mondiale all equatore."
       },
       {
         "id": 22,
@@ -1789,7 +1789,7 @@
           "Calcio"
         ],
         "reponse": "Rugby",
-        "anecdote": "Dopo aver insegnato sport e giocare a rugby, suo padre morì all'età di quarantadue anni quando Mike aveva diciotto anni."
+        "anecdote": "Dopo aver insegnato sport e giocare a rugby, suo padre morì all eta di quarantadue anni quando Mike aveva diciotto anni."
       },
       {
         "id": 24,
@@ -1801,7 +1801,7 @@
           "Tenente"
         ],
         "reponse": "Tenente",
-        "anecdote": "Tornando alla vita civile, si e laureato nel campo della scienza del movimento umano presso l'Università di Stellenbosch."
+        "anecdote": "Tornando alla vita civile, si e laureato nel campo della scienza del movimento umano presso l Universita di Stellenbosch."
       },
       {
         "id": 25,
@@ -1825,7 +1825,7 @@
           "Shamrock"
         ],
         "reponse": "Mari Cha III",
-        "anecdote": "Mike Horn e entrato a far parte dell'equipaggio monoscafo di 45 metri nel 1997, che ha battuto il record mondiale di traversate dell'Atlantico."
+        "anecdote": "Mike Horn e entrato a far parte dell equipaggio monoscafo di 45 metri nel 1997, che ha battuto il record mondiale di traversate dell Atlantico."
       },
       {
         "id": 27,
@@ -1865,7 +1865,7 @@
       },
       {
         "id": 30,
-        "question": "In quale libro Mike Horn ha detto: « Ognuno crea le condizioni della propria libertà » ?",
+        "question": "In quale libro Mike Horn ha detto: « Ognuno crea le condizioni della propria liberta » ?",
         "propositions": [
           "Estremo Nord",
           "Obiettivo del Polo Nord",
@@ -1873,7 +1873,7 @@
           "Gratuito!"
         ],
         "reponse": "Gratuito!",
-        "anecdote": "Da oltre trent'anni consegna messaggi umanisti in cui mostra tutta la forza dei suoi valori e della sua mente."
+        "anecdote": "Da oltre trent anni consegna messaggi umanisti in cui mostra tutta la forza dei suoi valori e della sua mente."
       }
     ]
     },
@@ -1881,7 +1881,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "In welke van deze programma's vergezelde Mike Horn iemand in de wildernis ?",
+        "question": "In welke van deze programma s vergezelde Mike Horn iemand in de wildernis ?",
         "propositions": [
           "Nieuwe ster",
           "In de vrije staat",
@@ -1901,7 +1901,7 @@
           "Sophie"
         ],
         "reponse": "Cathy",
-        "anecdote": "Ze is geboren in Nieuw-Zeeland, een verpleegster door haar te trainen. Cathy ontmoette haar toekomstige minnaar in een Chateau-d'Oex-cafe in 1990."
+        "anecdote": "Ze is geboren in Nieuw-Zeeland, een verpleegster door haar te trainen. Cathy ontmoette haar toekomstige minnaar in een Chateau-d Oex-cafe in 1990."
       },
       {
         "id": 3,
@@ -1932,7 +1932,7 @@
         "question": "Met welke beroemdheid Mike Horn heeft hij de jungle van Sri Lanka afgereisd ?",
         "propositions": [
           "Michaal Youn",
-          "Shy'm",
+          "Shy m",
           "Mr Pokora",
           "Laure Manaudou"
         ],
@@ -1967,7 +1967,7 @@
         "id": 8,
         "question": "Met welke beroemdheid Mike Horn heeft hij de woestijn van Namibi ? doorkruist ?",
         "propositions": [
-          "Shy'm",
+          "Shy m",
           "Mr Pokora",
           "Michaal Youn",
           "Laure Manaudou"
@@ -1985,7 +1985,7 @@
           "Vier"
         ],
         "reponse": "Acht",
-        "anecdote": "Michaal Youn, M. Pokora, Laure Manaudou, Ch. Dechavanne, Shy'm, Adriana Karembeu, Black M en Franck Gastambide zullen worden gekozen."
+        "anecdote": "Michaal Youn, M. Pokora, Laure Manaudou, Ch. Dechavanne, Shy m, Adriana Karembeu, Black M en Franck Gastambide zullen worden gekozen."
       },
       {
         "id": 10,
@@ -2111,7 +2111,7 @@
       },
       {
         "id": 20,
-        "question": "Wie heeft « Four Eight Duizenden » gemaakt op Mike Horn's Himalaya-expeditie ?",
+        "question": "Wie heeft « Four Eight Duizenden » gemaakt op Mike Horn s Himalaya-expeditie ?",
         "propositions": [
           "David Ribeiro",
           "Raphaal Blanc",

@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : avril 2018",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: aprile 2018",
       "slogan": "Hanno fatto notizia"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quelle ex-binôme star de Cauet s'est reconvertie en journaliste politique ?",
+        "question": "Quelle ex-binôme star de Cauet s est reconvertie en journaliste politique ?",
         "propositions": [
           "Sophie Davant",
           "Enora Malagre",
@@ -49,7 +49,7 @@
           "Christine Bravo"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus questionne les politiques sur LCI dans « L'Interview inattendue », sa rubrique dans « Le Live politique » du dimanche."
+        "anecdote": "Cecile de Menibus questionne les politiques sur LCI dans « L Interview inattendue », sa rubrique dans « Le Live politique » du dimanche."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Ayem Nour"
         ],
         "reponse": "Ayem Nour",
-        "anecdote": "La chaîne de tele aurait mis fin au contrat d'Ayem Nour apres la deprogrammation du Mad Mag à cause de ses faibles audiences."
+        "anecdote": "La chaîne de tele aurait mis fin au contrat d Ayem Nour apres la deprogrammation du Mad Mag a cause de ses faibles audiences."
       },
       {
         "id": 3,
@@ -73,11 +73,11 @@
           "Catherine Horel"
         ],
         "reponse": "Veronique Colucci",
-        "anecdote": "Sur leur site internet, les Restos du Coeur, dont elle avait ete presidente de 1999 à 2003, lui ont rendu un magnifique hommage."
+        "anecdote": "Sur leur site internet, les Restos du Coeur, dont elle avait ete presidente de 1999 a 2003, lui ont rendu un magnifique hommage."
       },
       {
         "id": 4,
-        "question": "Quel acteur a ete choisi pour illustrer l'affiche du festival de Cannes 2018 ?",
+        "question": "Quel acteur a ete choisi pour illustrer l affiche du festival de Cannes 2018 ?",
         "propositions": [
           "Daniel Auteuil",
           "Alain Delon",
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Qui s'est resolu à quitter Londres pour etre present aux obseques de Veronique Colucci ?",
+        "question": "Qui s est resolu a quitter Londres pour etre present aux obseques de Veronique Colucci ?",
         "propositions": [
           "J-J Goldman",
           "Serge Lama",
@@ -97,11 +97,11 @@
           "Bernard Lavilliers"
         ],
         "reponse": "J-J Goldman",
-        "anecdote": "Apres quatre ans de cache-cache, Jean-Jacques Goldman est sorti de son terrier londonien pour se rendre aux obseques à Montrouge."
+        "anecdote": "Apres quatre ans de cache-cache, Jean-Jacques Goldman est sorti de son terrier londonien pour se rendre aux obseques a Montrouge."
       },
       {
         "id": 6,
-        "question": "Qui a dit avant son deces : « Ils n'en ont rien à foutre de moi » ?",
+        "question": "Qui a dit avant son deces : « Ils n en ont rien a foutre de moi » ?",
         "propositions": [
           "Jacques Higelin",
           "Johnny Hallyday",
@@ -109,11 +109,11 @@
           "France Gall"
         ],
         "reponse": "Johnny Hallyday",
-        "anecdote": "Alors qu'il se battait contre la maladie, le celebre rockeur aurait pointe du doigt les absences de ses deux aînes, David et Laura."
+        "anecdote": "Alors qu il se battait contre la maladie, le celebre rockeur aurait pointe du doigt les absences de ses deux aînes, David et Laura."
       },
       {
         "id": 7,
-        "question": "Fin avril, la duchesse Kate Middelton a donne naissance à son",
+        "question": "Fin avril, la duchesse Kate Middelton a donne naissance a son",
         "propositions": [
           "Troisieme enfant",
           "Cinquieme enfant",
@@ -133,11 +133,11 @@
           "Virginie Hocq"
         ],
         "reponse": "Laura Laune",
-        "anecdote": "Laura Laune avait dejà fait polemique à cause d'une blague sur la Shoah (qui fait partie de son spectacle) diffusee sur France 2."
+        "anecdote": "Laura Laune avait deja fait polemique a cause d une blague sur la Shoah (qui fait partie de son spectacle) diffusee sur France 2."
       },
       {
         "id": 9,
-        "question": "Quel chanteur s'est installe aux États-Unis aupres de Christina Milian ?",
+        "question": "Quel chanteur s est installe aux États-Unis aupres de Christina Milian ?",
         "propositions": [
           "Emmanuel Moire",
           "Olivier Dion",
@@ -145,11 +145,11 @@
           "M. Pokora"
         ],
         "reponse": "M. Pokora",
-        "anecdote": "Quatre mois apres la fin de son My Way Tour, le chanteur de 32 ans s'est ressource aupres de sa cherie Christina Milian à Los Angeles."
+        "anecdote": "Quatre mois apres la fin de son My Way Tour, le chanteur de 32 ans s est ressource aupres de sa cherie Christina Milian a Los Angeles."
       },
       {
         "id": 10,
-        "question": "Quel cycliste belge a succombe à ses blessures sur le Paris-Roubaix ?",
+        "question": "Quel cycliste belge a succombe a ses blessures sur le Paris-Roubaix ?",
         "propositions": [
           "Stijn Steels",
           "Zico Waeytens",
@@ -157,7 +157,7 @@
           "Tim Merlier"
         ],
         "reponse": "Michael Goolaerts",
-        "anecdote": "Victime d'une crise cardiaque, le coureur Michael Goolaerts est decede au CHU de Lille apres son premier Paris-Roubaix."
+        "anecdote": "Victime d une crise cardiaque, le coureur Michael Goolaerts est decede au CHU de Lille apres son premier Paris-Roubaix."
       }
     ],
     "confirme": [
@@ -183,11 +183,11 @@
           "Arnaud Tsamere"
         ],
         "reponse": "Bruno Guillon",
-        "anecdote": "Apres avoir insulte une femme sur Fun radio, la justice l'a condamne à 500 euros d'amende et 1 500 euros de dommages et interets."
+        "anecdote": "Apres avoir insulte une femme sur Fun radio, la justice l a condamne a 500 euros d amende et 1 500 euros de dommages et interets."
       },
       {
         "id": 13,
-        "question": "Quelle actrice americaine a fait don de plusieurs millions de dollars à un hôpital ?",
+        "question": "Quelle actrice americaine a fait don de plusieurs millions de dollars a un hôpital ?",
         "propositions": [
           "Amber Heard",
           "Julianne Moore",
@@ -195,11 +195,11 @@
           "Eva Longoria"
         ],
         "reponse": "Amber Heard",
-        "anecdote": "L'actrice a fait don de l'argent qu'elle a recu de son divorce avec Johnny Depp à l'Hôpital pour enfants de Los Angeles et à l'ACLU."
+        "anecdote": "L actrice a fait don de l argent qu elle a recu de son divorce avec Johnny Depp a l Hôpital pour enfants de Los Angeles et a l ACLU."
       },
       {
         "id": 14,
-        "question": "Qui est de nouveau tata apres l'accouchement de sa soeur Jamie Lynn ?",
+        "question": "Qui est de nouveau tata apres l accouchement de sa soeur Jamie Lynn ?",
         "propositions": [
           "Britney Spears",
           "Paulina Rubio",
@@ -219,7 +219,7 @@
           "Claude Brasseur"
         ],
         "reponse": "Jacques Higelin",
-        "anecdote": "Le musicien Jacques Higelin, decede le vendredi 6 avril dernier à l'age de 77 ans, a ete enterre au cimetiere du Pere Lachaise."
+        "anecdote": "Le musicien Jacques Higelin, decede le vendredi 6 avril dernier a l age de 77 ans, a ete enterre au cimetiere du Pere Lachaise."
       },
       {
         "id": 16,
@@ -231,11 +231,11 @@
           "Line Renaud"
         ],
         "reponse": "Elizabeth II",
-        "anecdote": "Certes le protocole l'oblige à respecter de nombreux codes, mais la reine d'Angleterre a un petit côte taquin, à l'anglaise il est vrai."
+        "anecdote": "Certes le protocole l oblige a respecter de nombreux codes, mais la reine d Angleterre a un petit côte taquin, a l anglaise il est vrai."
       },
       {
         "id": 17,
-        "question": "Quelle membre de la famille des Kardashian a accouche d'une petite fille jeudi 12 avril ?",
+        "question": "Quelle membre de la famille des Kardashian a accouche d une petite fille jeudi 12 avril ?",
         "propositions": [
           "Kyle",
           "Khloe",
@@ -255,7 +255,7 @@
           "Marcia Cross"
         ],
         "reponse": "Eva Longoria",
-        "anecdote": "Une distinction que la star de « Desperate Housewives » considere à 43 ans comme une nouvelle victoire pour la communaute latino."
+        "anecdote": "Une distinction que la star de « Desperate Housewives » considere a 43 ans comme une nouvelle victoire pour la communaute latino."
       },
       {
         "id": 19,
@@ -267,7 +267,7 @@
           "True"
         ],
         "reponse": "True",
-        "anecdote": "Cette annonce vient legerement adoucir le climat plutôt electrique gravitant autour d'elle depuis le scandale de son compagnon."
+        "anecdote": "Cette annonce vient legerement adoucir le climat plutôt electrique gravitant autour d elle depuis le scandale de son compagnon."
       },
       {
         "id": 20,
@@ -293,7 +293,7 @@
           "Violet Chachki"
         ],
         "reponse": "Conchita Wurst",
-        "anecdote": "Thomas Neuwirth a dit : « Le jour est venu de me liberer pour le reste de ma vie d'une epee de Damocles : je suis positive au VIH »."
+        "anecdote": "Thomas Neuwirth a dit : « Le jour est venu de me liberer pour le reste de ma vie d une epee de Damocles : je suis positive au VIH »."
       },
       {
         "id": 22,
@@ -305,11 +305,11 @@
           "Sebastien Cauet"
         ],
         "reponse": "Thierry Ardisson",
-        "anecdote": "Dejà trente belles annees que l'homme en noir occupe l'antenne et douze ans qu'il est aux commandes de « Salut les terriens ! »."
+        "anecdote": "Deja trente belles annees que l homme en noir occupe l antenne et douze ans qu il est aux commandes de « Salut les terriens ! »."
       },
       {
         "id": 23,
-        "question": "Quel pionnier francais de l'electro a donne un show puissant à Coachella ?",
+        "question": "Quel pionnier francais de l electro a donne un show puissant a Coachella ?",
         "propositions": [
           "Mike Oldfield",
           "Jean-Michel Jarre",
@@ -317,11 +317,11 @@
           "Pierre Schaeffer"
         ],
         "reponse": "Jean-Michel Jarre",
-        "anecdote": "La presse americaine fut unanime : eblouissant, à couper le souffle, la meilleure performance de Coachella vendredi."
+        "anecdote": "La presse americaine fut unanime : eblouissant, a couper le souffle, la meilleure performance de Coachella vendredi."
       },
       {
         "id": 24,
-        "question": "Quelle jeune YouTubeuse n'est apparue qu'une seule fois dans TPMP ?",
+        "question": "Quelle jeune YouTubeuse n est apparue qu une seule fois dans TPMP ?",
         "propositions": [
           "Y. Golotchoglova",
           "J. Beauty",
@@ -329,11 +329,11 @@
           "C. Dulude"
         ],
         "reponse": "Y. Golotchoglova",
-        "anecdote": "Aujourd'hui, la jeune femme desabusee n'a garde contact qu'avec une seule chroniqueuse de l'emission : Agathe Auproux."
+        "anecdote": "Aujourd hui, la jeune femme desabusee n a garde contact qu avec une seule chroniqueuse de l emission : Agathe Auproux."
       },
       {
         "id": 25,
-        "question": "Quelle influenceuse a lance une collection avec l'enseigne francaise Gemo ?",
+        "question": "Quelle influenceuse a lance une collection avec l enseigne francaise Gemo ?",
         "propositions": [
           "Rachel Martino",
           "GeorgiaSecrets",
@@ -353,7 +353,7 @@
           "Clovis Cornillac"
         ],
         "reponse": "Francois Berleand",
-        "anecdote": "Francois Berleand a eu un grave accident au ski alors qu'il se trouvait avec ses jumelles de neuf ans dans la station des Gets."
+        "anecdote": "Francois Berleand a eu un grave accident au ski alors qu il se trouvait avec ses jumelles de neuf ans dans la station des Gets."
       },
       {
         "id": 27,
@@ -365,7 +365,7 @@
           "Mr Nuts"
         ],
         "reponse": "Mr Bagel",
-        "anecdote": "Sur Instagram, les chats et les chiens sont rois mais cet adorable animal va vous donner envie d'en adopter un tout comme lui."
+        "anecdote": "Sur Instagram, les chats et les chiens sont rois mais cet adorable animal va vous donner envie d en adopter un tout comme lui."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Liptakova"
         ],
         "reponse": "Sklenarikova",
-        "anecdote": "Le richissime compagnon d'Adriana (46 ans) aurait d'ores et dejà reserve une chambre à l'hôpital Princesse-Grace à Monaco."
+        "anecdote": "Le richissime compagnon d Adriana (46 ans) aurait d ores et deja reserve une chambre a l hôpital Princesse-Grace a Monaco."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Eddy Mitchell"
         ],
         "reponse": "Michel Sardou",
-        "anecdote": "C'est à la Seine Musicale de Boulogne-Billancourt que le chanteur a choisi de clôturer avec emotion les dates de sa tournee d'adieu."
+        "anecdote": "C est a la Seine Musicale de Boulogne-Billancourt que le chanteur a choisi de clôturer avec emotion les dates de sa tournee d adieu."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Jay Rock"
         ],
         "reponse": "Kendrick Lamar",
-        "anecdote": "C'est une nouvelle reconnaissance pour le rappeur Kendrick Lamar qui, à 30 ans, a dejà glane pas moins de douze Grammy Awards."
+        "anecdote": "C est une nouvelle reconnaissance pour le rappeur Kendrick Lamar qui, a 30 ans, a deja glane pas moins de douze Grammy Awards."
       }
     ]
     },
@@ -417,7 +417,7 @@
           "Sophie Davant"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus questions policies on LCI in « The Unexpected Interview », its column in « Sunday's Political Live »."
+        "anecdote": "Cecile de Menibus questions policies on LCI in « The Unexpected Interview », its column in « Sunday s Political Live »."
       },
       {
         "id": 2,
@@ -429,7 +429,7 @@
           "Claudia Romani"
         ],
         "reponse": "Ayem Nour",
-        "anecdote": "The TV channel reportedly ended Ayem Nour's contract after the deprogramming of Mad Mag because of its low audiences."
+        "anecdote": "The TV channel reportedly ended Ayem Nour s contract after the deprogramming of Mad Mag because of its low audiences."
       },
       {
         "id": 3,
@@ -489,7 +489,7 @@
           "Third child"
         ],
         "reponse": "Third child",
-        "anecdote": "As for the birth of George and Charlotte, Kate should give birth in the Lindo Wing's motherhood."
+        "anecdote": "As for the birth of George and Charlotte, Kate should give birth in the Lindo Wing s motherhood."
       },
       {
         "id": 8,
@@ -563,7 +563,7 @@
           "Demi Moore"
         ],
         "reponse": "Amber Heard",
-        "anecdote": "The actress donated the money she received from her divorce with Johnny Depp at the Los Angeles Children's Hospital and the ACLU."
+        "anecdote": "The actress donated the money she received from her divorce with Johnny Depp at the Los Angeles Children s Hospital and the ACLU."
       },
       {
         "id": 14,
@@ -627,7 +627,7 @@
       },
       {
         "id": 19,
-        "question": "What name did Khloe Kardashian choose for Tristan Thompson's daughter ?",
+        "question": "What name did Khloe Kardashian choose for Tristan Thompson s daughter ?",
         "propositions": [
           "Madon",
           "Kylian",
@@ -639,7 +639,7 @@
       },
       {
         "id": 20,
-        "question": "How much did George Michael's heirs fight for ?",
+        "question": "How much did George Michael s heirs fight for ?",
         "propositions": [
           "130 million",
           "90 million",
@@ -647,7 +647,7 @@
           "170 million"
         ],
         "reponse": "170 million",
-        "anecdote": "According to the English press, the sisters of the late singer face the eccentricities of their brother's last companion."
+        "anecdote": "According to the English press, the sisters of the late singer face the eccentricities of their brother s last companion."
       }
     ],
     "expert": [
@@ -685,7 +685,7 @@
           "Brian Eno"
         ],
         "reponse": "Jean-Michel Jarre",
-        "anecdote": "The American press was unanimous : dazzling, breathtaking, Coachella's best performance on Friday."
+        "anecdote": "The American press was unanimous : dazzling, breathtaking, Coachella s best performance on Friday."
       },
       {
         "id": 24,
@@ -785,7 +785,7 @@
           "Christine Bravo"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus hinterfragt Richtlinien zu LCI in « The Unexpected Interview », seiner Kolumne in « Sunday's Political Live »."
+        "anecdote": "Cecile de Menibus hinterfragt Richtlinien zu LCI in « The Unexpected Interview », seiner Kolumne in « Sunday s Political Live »."
       },
       {
         "id": 2,
@@ -931,7 +931,7 @@
           "Demi Moore"
         ],
         "reponse": "Bernstein gehört",
-        "anecdote": "Die Schauspielerin spendete das Geld, das sie aus ihrer Scheidung mit Johnny Depp im Los Angeles Children's Hospital und der ACLU erhielt."
+        "anecdote": "Die Schauspielerin spendete das Geld, das sie aus ihrer Scheidung mit Johnny Depp im Los Angeles Children s Hospital und der ACLU erhielt."
       },
       {
         "id": 14,
@@ -1513,7 +1513,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quale ex stella binomiale dell'animatore Cauet e stata ora convertita in giornalista politico ?",
+        "question": "Quale ex stella binomiale dell animatore Cauet e stata ora convertita in giornalista politico ?",
         "propositions": [
           "Christine Bravo",
           "Cecile de Menibus",
@@ -1521,7 +1521,7 @@
           "Sophie Davant"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus mette in discussione le politiche su LCI in « The Unexpected Interview », la sua colonna in « Sunday's Political Live »."
+        "anecdote": "Cecile de Menibus mette in discussione le politiche su LCI in « The Unexpected Interview », la sua colonna in « Sunday s Political Live »."
       },
       {
         "id": 2,
@@ -1537,7 +1537,7 @@
       },
       {
         "id": 3,
-        "question": "Quale presidente del Restos du Coeur e deceduto nell'aprile 2018 ?",
+        "question": "Quale presidente del Restos du Coeur e deceduto nell aprile 2018 ?",
         "propositions": [
           "Helene Cazier",
           "Catherine Horel",
@@ -1581,7 +1581,7 @@
           "Serge Gainsbourg"
         ],
         "reponse": "Johnny Hallyday",
-        "anecdote": "Durante la lotta contro la malattia, il famoso rocker avrebbe sottolineato l'assenza dei suoi due anni, David e Laura."
+        "anecdote": "Durante la lotta contro la malattia, il famoso rocker avrebbe sottolineato l assenza dei suoi due anni, David e Laura."
       },
       {
         "id": 7,
@@ -1593,7 +1593,7 @@
           "Secondo figlio"
         ],
         "reponse": "Terzo figlio",
-        "anecdote": "Per quanto riguarda la nascita di George e Charlotte, Kate dovrebbe partorire nella maternità del Lindo Wing."
+        "anecdote": "Per quanto riguarda la nascita di George e Charlotte, Kate dovrebbe partorire nella maternita del Lindo Wing."
       },
       {
         "id": 8,
@@ -1605,7 +1605,7 @@
           "Laura Laune"
         ],
         "reponse": "Laura Laune",
-        "anecdote": "Laura Laune aveva già reso polemica a causa di una battuta sulla Shoah (che fa parte del suo spettacolo) trasmessa in Francia 2."
+        "anecdote": "Laura Laune aveva gia reso polemica a causa di una battuta sulla Shoah (che fa parte del suo spettacolo) trasmessa in Francia 2."
       },
       {
         "id": 9,
@@ -1629,7 +1629,7 @@
           "Zico Waeytens"
         ],
         "reponse": "Michael Goolaerts",
-        "anecdote": "Vittima di un infarto, il corridore Michael Goolaerts e morto all'ospedale universitario di Lille dopo il suo primo Paris-Roubaix."
+        "anecdote": "Vittima di un infarto, il corridore Michael Goolaerts e morto all ospedale universitario di Lille dopo il suo primo Paris-Roubaix."
       }
     ],
     "confirme": [
@@ -1667,7 +1667,7 @@
           "Amber Heard"
         ],
         "reponse": "Amber Heard",
-        "anecdote": "L'attrice ha donato i soldi che ha ricevuto dal divorzio con Johnny Depp al Los Angeles Children's Hospital e all'ACLU."
+        "anecdote": "L attrice ha donato i soldi che ha ricevuto dal divorzio con Johnny Depp al Los Angeles Children s Hospital e all ACLU."
       },
       {
         "id": 14,
@@ -1683,7 +1683,7 @@
       },
       {
         "id": 15,
-        "question": "A chi hanno reso omaggio molte personalità il 12 aprile 2018 ?",
+        "question": "A chi hanno reso omaggio molte personalita il 12 aprile 2018 ?",
         "propositions": [
           "Jean Rochefort",
           "Jean Bouise",
@@ -1691,7 +1691,7 @@
           "Claude Brasseur"
         ],
         "reponse": "Jacques Higelin",
-        "anecdote": "Il musicista Jacques Higelin, morto venerdì 6 aprile all'età di 77 anni, e stato sepolto nel cimitero Pere Lachaise."
+        "anecdote": "Il musicista Jacques Higelin, morto venerdì 6 aprile all eta di 77 anni, e stato sepolto nel cimitero Pere Lachaise."
       },
       {
         "id": 16,
@@ -1703,7 +1703,7 @@
           "Linea Renaud"
         ],
         "reponse": "Elisabetta II",
-        "anecdote": "Mentre il protocollo gli richiede di rispettare molti codici, ma la regina d'Inghilterra ha una piccola presa in giro, l'inglese e vero."
+        "anecdote": "Mentre il protocollo gli richiede di rispettare molti codici, ma la regina d Inghilterra ha una piccola presa in giro, l inglese e vero."
       },
       {
         "id": 17,
@@ -1715,7 +1715,7 @@
           "Kourtney"
         ],
         "reponse": "Khloe",
-        "anecdote": "Khloe Kardashian ha dovuto partorire in subbuglio dopo le infedeltà infedeli del suo compagno di pallacanestro Tristan Thompson."
+        "anecdote": "Khloe Kardashian ha dovuto partorire in subbuglio dopo le infedelta infedeli del suo compagno di pallacanestro Tristan Thompson."
       },
       {
         "id": 18,
@@ -1727,7 +1727,7 @@
           "Nicollette Sheridan"
         ],
         "reponse": "Eva Longoria",
-        "anecdote": "Una distinzione che la star di « Desperate Housewives » considera 43 anni come una nuova vittoria per la comunità latina."
+        "anecdote": "Una distinzione che la star di « Desperate Housewives » considera 43 anni come una nuova vittoria per la comunita latina."
       },
       {
         "id": 19,
@@ -1751,13 +1751,13 @@
           "130 milioni"
         ],
         "reponse": "170 milioni",
-        "anecdote": "Secondo la stampa inglese, le sorelle del cantante in ritardo affrontano le eccentricità dell'ultimo compagno del fratello."
+        "anecdote": "Secondo la stampa inglese, le sorelle del cantante in ritardo affrontano le eccentricita dell ultimo compagno del fratello."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quale diva austriaca, vittima di un ricatto, ha dovuto rivelare la sua positività all'HIV ?",
+        "question": "Quale diva austriaca, vittima di un ricatto, ha dovuto rivelare la sua positivita all HIV ?",
         "propositions": [
           "Adore Delano",
           "Deborah Shadows",
@@ -1777,7 +1777,7 @@
           "S ?bastien Cauet"
         ],
         "reponse": "Thierry Ardisson",
-        "anecdote": "Già trenta bellissimi anni in cui l'uomo in nero occupa l'antenna e dodici anni in cui e al timone di « Ciao terrestri! »."
+        "anecdote": "Gia trenta bellissimi anni in cui l uomo in nero occupa l antenna e dodici anni in cui e al timone di « Ciao terrestri! »."
       },
       {
         "id": 23,
@@ -1829,7 +1829,7 @@
       },
       {
         "id": 27,
-        "question": "Quale piccolo cincillà aveva 109.000 abbonati Instagram ad aprile 2018 ?",
+        "question": "Quale piccolo cincilla aveva 109.000 abbonati Instagram ad aprile 2018 ?",
         "propositions": [
           "Sig. Nuts",
           "Sig. Bagel",
@@ -1837,7 +1837,7 @@
           "Signor Bean"
         ],
         "reponse": "Sig. Bagel",
-        "anecdote": "Su Instagram, cani e gatti sono re ma questo adorabile animale ti farà desiderare di adottarne uno come lui."
+        "anecdote": "Su Instagram, cani e gatti sono re ma questo adorabile animale ti fara desiderare di adottarne uno come lui."
       },
       {
         "id": 28,
@@ -1849,7 +1849,7 @@
           "Liptakova"
         ],
         "reponse": "Sklenarikova",
-        "anecdote": "La ricca compagna Adriana (46 anni) avrebbe già prenotato una camera al Princess Grace Hospital di Monaco."
+        "anecdote": "La ricca compagna Adriana (46 anni) avrebbe gia prenotato una camera al Princess Grace Hospital di Monaco."
       },
       {
         "id": 29,
@@ -1873,7 +1873,7 @@
           "Kendrick Lamar"
         ],
         "reponse": "Kendrick Lamar",
-        "anecdote": "Questo e un nuovo riconoscimento per il rapper Kendrick Lamar che, a 30 anni, ha già vinto non meno di dodici Grammy Awards."
+        "anecdote": "Questo e un nuovo riconoscimento per il rapper Kendrick Lamar che, a 30 anni, ha gia vinto non meno di dodici Grammy Awards."
       }
     ]
     },
@@ -1889,7 +1889,7 @@
           "Sophie Davant"
         ],
         "reponse": "Cecile de Menibus",
-        "anecdote": "Cecile de Menibus bevraagt het beleid met betrekking tot LCI in « Het onverwachte interview », de kolom in « Sunday's Political Live »."
+        "anecdote": "Cecile de Menibus bevraagt het beleid met betrekking tot LCI in « Het onverwachte interview », de kolom in « Sunday s Political Live »."
       },
       {
         "id": 2,
@@ -2035,7 +2035,7 @@
           "Julianne Moore"
         ],
         "reponse": "Amber Heard",
-        "anecdote": "De actrice schonk het geld dat ze ontving van haar scheiding met Johnny Depp in het Los Angeles Children's Hospital en de ACLU."
+        "anecdote": "De actrice schonk het geld dat ze ontving van haar scheiding met Johnny Depp in het Los Angeles Children s Hospital en de ACLU."
       },
       {
         "id": 14,
@@ -2157,7 +2157,7 @@
           "Pierre Schaeffer"
         ],
         "reponse": "Jean-Michel Jarre",
-        "anecdote": "De Amerikaanse pers was unaniem : oogverblindend, adembenemend, Coachella's beste optreden op vrijdag."
+        "anecdote": "De Amerikaanse pers was unaniem : oogverblindend, adembenemend, Coachella s beste optreden op vrijdag."
       },
       {
         "id": 24,

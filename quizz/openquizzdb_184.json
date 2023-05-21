@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Animaux",
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Pourquoi les ours polaires se couchent-ils dans la neige lorsqu'ils courent ?",
+        "question": "Pourquoi les ours polaires se couchent-ils dans la neige lorsqu ils courent ?",
         "propositions": [
           "Se reposer",
           "Dormir",
@@ -61,7 +61,7 @@
           "Nageoire ventrale"
         ],
         "reponse": "Nageoire dorsale",
-        "anecdote": "Malgre qu'ils soient des poissons, les hippocampes ne nagent que tres lentement en effectuant des mouvements onduleux."
+        "anecdote": "Malgre qu ils soient des poissons, les hippocampes ne nagent que tres lentement en effectuant des mouvements onduleux."
       },
       {
         "id": 3,
@@ -79,29 +79,29 @@
         "id": 4,
         "question": "À quoi servait la coquille du tridacne geant dans de nombreuses eglises ?",
         "propositions": [
-          "Corbeille à pain",
+          "Corbeille a pain",
           "Chandelier",
           "Tronc",
           "Benitier"
         ],
         "reponse": "Benitier",
-        "anecdote": "Il y a 300 ans, les coquilles etaient considerees comme des objets precieux et servaient de benitier à l'entree des eglises."
+        "anecdote": "Il y a 300 ans, les coquilles etaient considerees comme des objets precieux et servaient de benitier a l entree des eglises."
       },
       {
         "id": 5,
-        "question": "Quelle lourde et penible tache incombe à la reine des fourmis ?",
+        "question": "Quelle lourde et penible tache incombe a la reine des fourmis ?",
         "propositions": [
           "Pondre des oeufs",
           "Defendre le nid",
           "Tuer les males",
-          "Chercher à manger"
+          "Chercher a manger"
         ],
         "reponse": "Pondre des oeufs",
-        "anecdote": "La reine est la seule fourmi du nid à pondre des oeufs qui sont en realite des larves ecloses dont naîtront les futures fourmis."
+        "anecdote": "La reine est la seule fourmi du nid a pondre des oeufs qui sont en realite des larves ecloses dont naîtront les futures fourmis."
       },
       {
         "id": 6,
-        "question": "Qu'est-ce que les coccinelles aiment tout particulierement manger ?",
+        "question": "Qu est-ce que les coccinelles aiment tout particulierement manger ?",
         "propositions": [
           "Éxcrements",
           "Pucerons",
@@ -115,7 +115,7 @@
         "id": 7,
         "question": "Pour quelle raison les necrophores se battent-ils entre eux ?",
         "propositions": [
-          "De l'or",
+          "De l or",
           "Des cadavres",
           "Un territoire",
           "Des femelles"
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "De quel type d'environnement un acarien a-t-il besoin pour vivre ?",
+        "question": "De quel type d environnement un acarien a-t-il besoin pour vivre ?",
         "propositions": [
           "Humide",
           "Gras",
@@ -157,7 +157,7 @@
           "Ses dents"
         ],
         "reponse": "Son ventre",
-        "anecdote": "Le loup inferieur n'est ainsi pas blesse mais devra à l'avenir se soumettre au male dominant, selon leur hierarchie prononcee."
+        "anecdote": "Le loup inferieur n est ainsi pas blesse mais devra a l avenir se soumettre au male dominant, selon leur hierarchie prononcee."
       }
     ],
     "confirme": [
@@ -171,11 +171,11 @@
           "Trompe cassee"
         ],
         "reponse": "Usure des dents",
-        "anecdote": "Lorsque la derniere molaire est usee par la mastication, l'elephant ne peut plus se nourrir suffisamment et meurt tristement de faim."
+        "anecdote": "Lorsque la derniere molaire est usee par la mastication, l elephant ne peut plus se nourrir suffisamment et meurt tristement de faim."
       },
       {
         "id": 12,
-        "question": "Grace à quelle partie de son corps la taupe s'oriente-t-elle sous terre ?",
+        "question": "Grace a quelle partie de son corps la taupe s oriente-t-elle sous terre ?",
         "propositions": [
           "Museau",
           "Vibrisses",
@@ -183,11 +183,11 @@
           "Oreilles"
         ],
         "reponse": "Vibrisses",
-        "anecdote": "Les taupes s'orientent presque exclusivement en utilisant une sorte de moustaches et tatent leur nourriture de cette maniere."
+        "anecdote": "Les taupes s orientent presque exclusivement en utilisant une sorte de moustaches et tatent leur nourriture de cette maniere."
       },
       {
         "id": 13,
-        "question": "À part le cheval, à quel autre animal le tapir est-il apparente ?",
+        "question": "À part le cheval, a quel autre animal le tapir est-il apparente ?",
         "propositions": [
           "Élephant",
           "Hamster",
@@ -207,11 +207,11 @@
           "Par leurs secretions"
         ],
         "reponse": "Par leurs secretions",
-        "anecdote": "En cas de danger, les mille-pattes emettent une substance rouge caustique à l'odeur nauseabonde via des glandes sur leurs anneaux."
+        "anecdote": "En cas de danger, les mille-pattes emettent une substance rouge caustique a l odeur nauseabonde via des glandes sur leurs anneaux."
       },
       {
         "id": 15,
-        "question": "Quels animaux volent souvent aux hyenes la proie qu'elles ont chassee ?",
+        "question": "Quels animaux volent souvent aux hyenes la proie qu elles ont chassee ?",
         "propositions": [
           "Gnous",
           "Lions",
@@ -219,7 +219,7 @@
           "Buffles"
         ],
         "reponse": "Lions",
-        "anecdote": "Les hyenes chassent generalement en meute d'environ quarante individus des animaux tels que les zebres ou les gnous."
+        "anecdote": "Les hyenes chassent generalement en meute d environ quarante individus des animaux tels que les zebres ou les gnous."
       },
       {
         "id": 16,
@@ -231,11 +231,11 @@
           "20 grammes"
         ],
         "reponse": "2 grammes",
-        "anecdote": "Notre musaraigne pygmee locale est, quant à elle, deux fois plus grande et plus lourde que ce pachyure etrusque."
+        "anecdote": "Notre musaraigne pygmee locale est, quant a elle, deux fois plus grande et plus lourde que ce pachyure etrusque."
       },
       {
         "id": 17,
-        "question": "De quelle maniere le lynx a-t-il l'habitude de marquer son territoire ?",
+        "question": "De quelle maniere le lynx a-t-il l habitude de marquer son territoire ?",
         "propositions": [
           "Poils",
           "Souris mortes",
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Taille pour la course, jusqu'à quelle vitesse un guepard peut-il courir ?",
+        "question": "Taille pour la course, jusqu a quelle vitesse un guepard peut-il courir ?",
         "propositions": [
           "90 km/h",
           "120 km/h",
@@ -261,13 +261,13 @@
         "id": 19,
         "question": "Comment les cloportes se protegent-ils des attaques ?",
         "propositions": [
-          "En s'enterrant",
-          "En s'envolant",
-          "En s'enroulant",
-          "En s'enfuyant"
+          "En s enterrant",
+          "En s envolant",
+          "En s enroulant",
+          "En s enfuyant"
         ],
-        "reponse": "En s'enroulant",
-        "anecdote": "Le corps d'un cloporte, dans ce cas immobile, est compose de plusieurs anneaux solides qui rappellent une armure de chevalier."
+        "reponse": "En s enroulant",
+        "anecdote": "Le corps d un cloporte, dans ce cas immobile, est compose de plusieurs anneaux solides qui rappellent une armure de chevalier."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Aigle"
         ],
         "reponse": "Homme",
-        "anecdote": "De nombreuses buses sont ecrasees par l'homme lorsqu'elles tentent de recuperer des cadavres d'animaux sur les autoroutes."
+        "anecdote": "De nombreuses buses sont ecrasees par l homme lorsqu elles tentent de recuperer des cadavres d animaux sur les autoroutes."
       }
     ],
     "expert": [
@@ -305,7 +305,7 @@
           "25 l"
         ],
         "reponse": "35 l",
-        "anecdote": "Ces vaches fortement exploitees souffrent le plus souvent d'une inflammation des pis et necessitent beaucoup de medicaments."
+        "anecdote": "Ces vaches fortement exploitees souffrent le plus souvent d une inflammation des pis et necessitent beaucoup de medicaments."
       },
       {
         "id": 23,
@@ -317,11 +317,11 @@
           "Manger"
         ],
         "reponse": "Boire",
-        "anecdote": "Le liquide que le fennec absorbe grace à son alimentation lui suffit et est donc admirablement adapte à la vie dans le desert."
+        "anecdote": "Le liquide que le fennec absorbe grace a son alimentation lui suffit et est donc admirablement adapte a la vie dans le desert."
       },
       {
         "id": 24,
-        "question": "Quel est le plus grand des aras parmi les perroquets connus à ce jour ?",
+        "question": "Quel est le plus grand des aras parmi les perroquets connus a ce jour ?",
         "propositions": [
           "Macao",
           "Hyacinthe",
@@ -329,11 +329,11 @@
           "Chloroptere"
         ],
         "reponse": "Hyacinthe",
-        "anecdote": "Ce perroquet d'environ 150 cm, queue comprise, possede un plumage bleu clair uni et vit principalement en Bolivie et au Bresil."
+        "anecdote": "Ce perroquet d environ 150 cm, queue comprise, possede un plumage bleu clair uni et vit principalement en Bolivie et au Bresil."
       },
       {
         "id": 25,
-        "question": "De maniere generale, combien d'heures par jour un panda geant est-il occupe à manger ?",
+        "question": "De maniere generale, combien d heures par jour un panda geant est-il occupe a manger ?",
         "propositions": [
           "Huit",
           "Quatre",
@@ -353,7 +353,7 @@
           "1 mois"
         ],
         "reponse": "18 mois",
-        "anecdote": "Apres une periode de 12 mois de gestation, le bebe morse pese plus de 50 kg et sait dejà nager au bout de deux semaines seulement."
+        "anecdote": "Apres une periode de 12 mois de gestation, le bebe morse pese plus de 50 kg et sait deja nager au bout de deux semaines seulement."
       },
       {
         "id": 27,
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "De quoi est constituee la sonnette du serpent à sonnette ?",
+        "question": "De quoi est constituee la sonnette du serpent a sonnette ?",
         "propositions": [
           "Pierres",
           "Corne",
@@ -377,11 +377,11 @@
           "Calcaire"
         ],
         "reponse": "Corne",
-        "anecdote": "Les six à dix anneaux de corne situes à l'extremite de la queue du serpent à sonnette proviennent des mues precedentes."
+        "anecdote": "Les six a dix anneaux de corne situes a l extremite de la queue du serpent a sonnette proviennent des mues precedentes."
       },
       {
         "id": 29,
-        "question": "Durant quelle saison de l'annee peut-on entendre le hibou crier ?",
+        "question": "Durant quelle saison de l annee peut-on entendre le hibou crier ?",
         "propositions": [
           "Éte",
           "Hiver",
@@ -389,7 +389,7 @@
           "Automne"
         ],
         "reponse": "Printemps",
-        "anecdote": "Le hibou male crie en avril et en mai pour attirer l'attention d'une femelle qui restera alors toute sa vie fidelement à ses côtes."
+        "anecdote": "Le hibou male crie en avril et en mai pour attirer l attention d une femelle qui restera alors toute sa vie fidelement a ses côtes."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "12 000"
         ],
         "reponse": "16 000",
-        "anecdote": "En cas de danger, le herisson peut ainsi dresser ses nombreux piquants et s'enrouler sur lui-meme pour se proteger des ennemis."
+        "anecdote": "En cas de danger, le herisson peut ainsi dresser ses nombreux piquants et s enrouler sur lui-meme pour se proteger des ennemis."
       }
     ]
     },
@@ -513,7 +513,7 @@
           "Bras"
         ],
         "reponse": "Language",
-        "anecdote": "Like a file, the slug's sluggish tongue grows the tender plants into small pieces and thus strips the young salads."
+        "anecdote": "Like a file, the slug s sluggish tongue grows the tender plants into small pieces and thus strips the young salads."
       },
       {
         "id": 10,
@@ -635,7 +635,7 @@
           "By wrapping up"
         ],
         "reponse": "By wrapping up",
-        "anecdote": "The body of a woodlouse, in this case immobile, is composed of several solid rings that recall a knight's armor."
+        "anecdote": "The body of a woodlouse, in this case immobile, is composed of several solid rings that recall a knight s armor."
       },
       {
         "id": 20,
@@ -745,7 +745,7 @@
           "Horn"
         ],
         "reponse": "Horn",
-        "anecdote": "The six to ten rings of horn located at the end of the rattlesnake's tail come from the previous moults."
+        "anecdote": "The six to ten rings of horn located at the end of the rattlesnake s tail come from the previous moults."
       },
       {
         "id": 29,
@@ -1569,7 +1569,7 @@
           "Uccidi i maschi"
         ],
         "reponse": "Lay uova",
-        "anecdote": "La regina e l'unica formica nel nido a covare uova, che sono in realtà larve tratteggiate da cui nasceranno le future formiche."
+        "anecdote": "La regina e l unica formica nel nido a covare uova, che sono in realta larve tratteggiate da cui nasceranno le future formiche."
       },
       {
         "id": 6,
@@ -1629,13 +1629,13 @@
           "La sua pancia"
         ],
         "reponse": "La sua pancia",
-        "anecdote": "Il lupo inferiore non e quindi ferito, ma dovrà in futuro presentarsi al compagno dominante, secondo la loro pronunciata gerarchia."
+        "anecdote": "Il lupo inferiore non e quindi ferito, ma dovra in futuro presentarsi al compagno dominante, secondo la loro pronunciata gerarchia."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Qual e la causa piu comune di morte tra gli elefanti in libertà ?",
+        "question": "Qual e la causa piu comune di morte tra gli elefanti in liberta ?",
         "propositions": [
           "Tromba rotta",
           "Morso di serpenti",
@@ -1643,7 +1643,7 @@
           "Malattia"
         ],
         "reponse": "Usura dei denti",
-        "anecdote": "Quando l'ultimo molare e consumato masticando, l'elefante non può piu nutrirsi abbastanza e muore tristemente per la fame."
+        "anecdote": "Quando l ultimo molare e consumato masticando, l elefante non può piu nutrirsi abbastanza e muore tristemente per la fame."
       },
       {
         "id": 12,
@@ -1679,7 +1679,7 @@
           "Con le loro secretazioni"
         ],
         "reponse": "Con le loro secretazioni",
-        "anecdote": "In caso di pericolo, i millepiedi emettono una sostanza rossa caustica per l'odore nauseabondo abbonda di ghiandole sui loro anelli."
+        "anecdote": "In caso di pericolo, i millepiedi emettono una sostanza rossa caustica per l odore nauseabondo abbonda di ghiandole sui loro anelli."
       },
       {
         "id": 15,
@@ -1727,7 +1727,7 @@
           "90 km / h"
         ],
         "reponse": "120 km / h",
-        "anecdote": "L'animale piu veloce può mantenere questa velocità solo per poche centinaia di metri, dando una possibilità alle gazzelle."
+        "anecdote": "L animale piu veloce può mantenere questa velocita solo per poche centinaia di metri, dando una possibilita alle gazzelle."
       },
       {
         "id": 19,
@@ -1739,7 +1739,7 @@
           "Seppellendosi"
         ],
         "reponse": "Concludendo",
-        "anecdote": "Il corpo di un woodlouse, in questo caso immobile, e composto da diversi anelli solidi che ricordano l'armatura di un cavaliere."
+        "anecdote": "Il corpo di un woodlouse, in questo caso immobile, e composto da diversi anelli solidi che ricordano l armatura di un cavaliere."
       },
       {
         "id": 20,
@@ -1825,7 +1825,7 @@
           "1 mese"
         ],
         "reponse": "18 mesi",
-        "anecdote": "Dopo un periodo di 12 mesi di gestazione, il tricheco pesa piu di 50 kg e può già nuotare dopo solo due settimane."
+        "anecdote": "Dopo un periodo di 12 mesi di gestazione, il tricheco pesa piu di 50 kg e può gia nuotare dopo solo due settimane."
       },
       {
         "id": 27,
@@ -1853,7 +1853,7 @@
       },
       {
         "id": 29,
-        "question": "Durante quale stagione dell'anno possiamo sentire il gufo urlare ?",
+        "question": "Durante quale stagione dell anno possiamo sentire il gufo urlare ?",
         "propositions": [
           "Primavera",
           "Estate",
@@ -1861,7 +1861,7 @@
           "Inverno"
         ],
         "reponse": "Primavera",
-        "anecdote": "Il gufo urla in aprile e maggio per attirare l'attenzione di una donna che rimarrà fedele al suo fianco per tutta la vita."
+        "anecdote": "Il gufo urla in aprile e maggio per attirare l attenzione di una donna che rimarra fedele al suo fianco per tutta la vita."
       },
       {
         "id": 30,
@@ -1913,7 +1913,7 @@
           "Te sterk"
         ],
         "reponse": "Te acuut",
-        "anecdote": "De vleermuizen zenden en ontvangen echo's die ons oor niet kan waarnemen (max. 20.000 hertz)."
+        "anecdote": "De vleermuizen zenden en ontvangen echo s die ons oor niet kan waarnemen (max. 20.000 hertz)."
       },
       {
         "id": 4,
@@ -2051,7 +2051,7 @@
       },
       {
         "id": 15,
-        "question": "Welke dieren stelen vaak van hyena's de prooi waarop ze hebben gejaagd ?",
+        "question": "Welke dieren stelen vaak van hyena s de prooi waarop ze hebben gejaagd ?",
         "propositions": [
           "Lions",
           "Buffalo",
@@ -2059,7 +2059,7 @@
           "Bewakers"
         ],
         "reponse": "Lions",
-        "anecdote": "Hyena's jagen meestal in pakken van ongeveer veertig dieren, zoals zebra's of gnoes."
+        "anecdote": "Hyena s jagen meestal in pakken van ongeveer veertig dieren, zoals zebra s of gnoes."
       },
       {
         "id": 16,
@@ -2161,7 +2161,7 @@
       },
       {
         "id": 24,
-        "question": "Wat is de grootste van de ara's onder de tot nu toe bekende papegaaien ?",
+        "question": "Wat is de grootste van de ara s onder de tot nu toe bekende papegaaien ?",
         "propositions": [
           "Macao",
           "Ararauna",

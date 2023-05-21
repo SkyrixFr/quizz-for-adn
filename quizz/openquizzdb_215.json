@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : mars 2018",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: marzo 2018",
       "slogan": "Hanno fatto notizia"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quel compositeur francais a recu un second Oscar pour « La Forme de l'eau » ?",
+        "question": "Quel compositeur francais a recu un second Oscar pour « La Forme de l eau » ?",
         "propositions": [
           "Alexandre Desplat",
           "Francis Lai",
@@ -49,7 +49,7 @@
           "Michel Legrand"
         ],
         "reponse": "Alexandre Desplat",
-        "anecdote": "Trois ans apres « The Grand Budapest Hotel », le compositeur francais Alexandre Desplat a à nouveau triomphe aux Oscars."
+        "anecdote": "Trois ans apres « The Grand Budapest Hotel », le compositeur francais Alexandre Desplat a a nouveau triomphe aux Oscars."
       },
       {
         "id": 2,
@@ -65,15 +65,15 @@
       },
       {
         "id": 3,
-        "question": "Quelle chanteuse francaise fut contrainte debut 2018 d'annuler des concerts faute de public ?",
+        "question": "Quelle chanteuse francaise fut contrainte debut 2018 d annuler des concerts faute de public ?",
         "propositions": [
           "Alizee",
-          "Shy'm",
+          "Shy m",
           "Enzo Enzo",
           "Anggun"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "Shy'm s'est exprimee sur l'echec de sa derniere tournee pour laquelle elle n'a eu d'autre choix que d'annuler des concerts."
+        "reponse": "Shy m",
+        "anecdote": "Shy m s est exprimee sur l echec de sa derniere tournee pour laquelle elle n a eu d autre choix que d annuler des concerts."
       },
       {
         "id": 4,
@@ -85,11 +85,11 @@
           "Doctor Flake"
         ],
         "reponse": "Sebastien Farran",
-        "anecdote": "Leur rupture ne s'est pas faite en douceur et le rappeur ne manque jamais une occasion de dire le mal qu'il pense de son ancien acolyte."
+        "anecdote": "Leur rupture ne s est pas faite en douceur et le rappeur ne manque jamais une occasion de dire le mal qu il pense de son ancien acolyte."
       },
       {
         "id": 5,
-        "question": "Qui a rendu un vibrant hommage à Jeanne Moreau aux Cesar 2018 ?",
+        "question": "Qui a rendu un vibrant hommage a Jeanne Moreau aux Cesar 2018 ?",
         "propositions": [
           "Sandrine Kiberlain",
           "Romane Bohringer",
@@ -97,11 +97,11 @@
           "Vanessa Paradis"
         ],
         "reponse": "Vanessa Paradis",
-        "anecdote": "Vanessa Paradis et Jeanne Moreau avaient jadis signe ensemble un des plus jolis moments de l'histoire du Festival, en 1995."
+        "anecdote": "Vanessa Paradis et Jeanne Moreau avaient jadis signe ensemble un des plus jolis moments de l histoire du Festival, en 1995."
       },
       {
         "id": 6,
-        "question": "Quelle ancienne chroniqueuse de l'emission « TPMP » a declare souffrir d'endometriose ?",
+        "question": "Quelle ancienne chroniqueuse de l emission « TPMP » a declare souffrir d endometriose ?",
         "propositions": [
           "Valerie Benaïm",
           "Kelly Vedovelli",
@@ -109,7 +109,7 @@
           "Énora Malagre"
         ],
         "reponse": "Énora Malagre",
-        "anecdote": "Énora Malagre a confie avoir participe à un documentaire sur la chaîne Teva pour lever le tabou sur cette maladie."
+        "anecdote": "Énora Malagre a confie avoir participe a un documentaire sur la chaîne Teva pour lever le tabou sur cette maladie."
       },
       {
         "id": 7,
@@ -121,11 +121,11 @@
           "Kenza Braiga"
         ],
         "reponse": "Loana Petrucciani",
-        "anecdote": "Sa silhouette a beaucoup souffert de sa descente aux enfers, si bien qu'avec cette couverture, certains crient Photoshop!"
+        "anecdote": "Sa silhouette a beaucoup souffert de sa descente aux enfers, si bien qu avec cette couverture, certains crient Photoshop!"
       },
       {
         "id": 8,
-        "question": "Quelle celebrite a dû se faire baptiser avant de pouvoir pretendre à se marier ?",
+        "question": "Quelle celebrite a dû se faire baptiser avant de pouvoir pretendre a se marier ?",
         "propositions": [
           "Gina Torres",
           "Meghan Markle",
@@ -133,11 +133,11 @@
           "Sarah Rafferty"
         ],
         "reponse": "Meghan Markle",
-        "anecdote": "Meghan Markle s'est fait baptiser le 6 mars selon les rites de l'Église Anglicane, au prealable à son mariage avec Harry le 19 mai."
+        "anecdote": "Meghan Markle s est fait baptiser le 6 mars selon les rites de l Église Anglicane, au prealable a son mariage avec Harry le 19 mai."
       },
       {
         "id": 9,
-        "question": "Quel astrophysicien et vulgarisateur scientifique est mort à l'age de 76 ans ?",
+        "question": "Quel astrophysicien et vulgarisateur scientifique est mort a l age de 76 ans ?",
         "propositions": [
           "John Bahcall",
           "Stephen Hawking",
@@ -145,11 +145,11 @@
           "Paul Steinhardt"
         ],
         "reponse": "Stephen Hawking",
-        "anecdote": "Au fil d'une carriere tres dense, Stephen Hawking a su devenir aussi une icône pop à travers des apparitions dans des series teles."
+        "anecdote": "Au fil d une carriere tres dense, Stephen Hawking a su devenir aussi une icône pop a travers des apparitions dans des series teles."
       },
       {
         "id": 10,
-        "question": "Qui a ete reelue Chanceliere d'Allemagne pour la quatrieme fois ?",
+        "question": "Qui a ete reelue Chanceliere d Allemagne pour la quatrieme fois ?",
         "propositions": [
           "Angela Merkel",
           "Erna Solberg",
@@ -157,13 +157,13 @@
           "Hilda Heine"
         ],
         "reponse": "Angela Merkel",
-        "anecdote": "C'est historique : apres des mois de negociations, la Chanceliere allemande Angela Merkel vient d'etre reelue à la tete du pays."
+        "anecdote": "C est historique : apres des mois de negociations, la Chanceliere allemande Angela Merkel vient d etre reelue a la tete du pays."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Quel acteur de la serie « Grey's Anatomy » s'est remarie avec Arielle Goldrath ?",
+        "question": "Quel acteur de la serie « Grey s Anatomy » s est remarie avec Arielle Goldrath ?",
         "propositions": [
           "Kevin McKidd",
           "Jason George",
@@ -171,7 +171,7 @@
           "Justin Chambers"
         ],
         "reponse": "Kevin McKidd",
-        "anecdote": "Ne en Écosse, naturalise americain en 2015, Kevin McKidd s'est marie en kilt comme il l'a devoile en photo le 2 mars 2018."
+        "anecdote": "Ne en Écosse, naturalise americain en 2015, Kevin McKidd s est marie en kilt comme il l a devoile en photo le 2 mars 2018."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "400 000 dollars"
         ],
         "reponse": "100 000 dollars",
-        "anecdote": "Le swag bag comprend des sejours à l'etranger, du spa, du coaching, du rouge à levres, des faux-cils et du chocolat."
+        "anecdote": "Le swag bag comprend des sejours a l etranger, du spa, du coaching, du rouge a levres, des faux-cils et du chocolat."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Britney Spears"
         ],
         "reponse": "Britney Spears",
-        "anecdote": "Une ceremonie lors de laquelle Britney Spears a ete recompensee d'un prix d'honneur pour son parfum baptise « Fantasy in Bloom »."
+        "anecdote": "Une ceremonie lors de laquelle Britney Spears a ete recompensee d un prix d honneur pour son parfum baptise « Fantasy in Bloom »."
       },
       {
         "id": 14,
@@ -219,11 +219,11 @@
           "Emma Bunton"
         ],
         "reponse": "Victoria Beckham",
-        "anecdote": "C'est en 1997 que Victoria a rencontre David Beckham alors qu'elle assistait à un match avec son amie Melanie Chisholm."
+        "anecdote": "C est en 1997 que Victoria a rencontre David Beckham alors qu elle assistait a un match avec son amie Melanie Chisholm."
       },
       {
         "id": 16,
-        "question": "Qui Vanessa Paradis a-t-elle devore du regard à l'avant-premiere du film « Chien » ?",
+        "question": "Qui Vanessa Paradis a-t-elle devore du regard a l avant-premiere du film « Chien » ?",
         "propositions": [
           "Alain Berberian",
           "Ludovic Bernard",
@@ -231,7 +231,7 @@
           "Antonin Bideau"
         ],
         "reponse": "Samuel Benchetrit",
-        "anecdote": "La belle, tres amoureuse, n'a pas quitte des yeux son homme avec qui elle partage sa vie depuis 2016 et devrait bientôt se marier."
+        "anecdote": "La belle, tres amoureuse, n a pas quitte des yeux son homme avec qui elle partage sa vie depuis 2016 et devrait bientôt se marier."
       },
       {
         "id": 17,
@@ -243,11 +243,11 @@
           "Maud Fontenoy"
         ],
         "reponse": "Maud Fontenoy",
-        "anecdote": "La navigatrice francaise est egalement vice-presidente deleguee au developpement durable, à l'energie et à la mer de la region PACA."
+        "anecdote": "La navigatrice francaise est egalement vice-presidente deleguee au developpement durable, a l energie et a la mer de la region PACA."
       },
       {
         "id": 18,
-        "question": "Quel chanteur s'apprete à retourner en studio apres un sejour en maison de repos ?",
+        "question": "Quel chanteur s apprete a retourner en studio apres un sejour en maison de repos ?",
         "propositions": [
           "Arthur H",
           "Renaud",
@@ -255,7 +255,7 @@
           "Benabar"
         ],
         "reponse": "Renaud",
-        "anecdote": "Cet album est un peu particulier, puisqu'il s'agit d'un opus de chansons pour enfants toutes signees de la main de Renaud."
+        "anecdote": "Cet album est un peu particulier, puisqu il s agit d un opus de chansons pour enfants toutes signees de la main de Renaud."
       },
       {
         "id": 19,
@@ -267,7 +267,7 @@
           "MC Solaar"
         ],
         "reponse": "JoeyStarr",
-        "anecdote": "L'edition francaise de Playboy, lancee en 1973, a su mettre en avant des personnalites tres diverses au fil des annees."
+        "anecdote": "L edition francaise de Playboy, lancee en 1973, a su mettre en avant des personnalites tres diverses au fil des annees."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Ayem Nour"
         ],
         "reponse": "Capucine Anav",
-        "anecdote": "Capucine Anav a profite de son passage dans l'emission « Morandini Live », diffusee sur CNews et Non Stop People, pour l'annoncer."
+        "anecdote": "Capucine Anav a profite de son passage dans l emission « Morandini Live », diffusee sur CNews et Non Stop People, pour l annoncer."
       }
     ],
     "expert": [
@@ -293,11 +293,11 @@
           "Liza Minnelli"
         ],
         "reponse": "Rita Moreno",
-        "anecdote": "L'actrice culte de « West Side Story » s'est rendue aux Oscars 2018 en portant la meme robe qu'en 1962, et elle etait superbe."
+        "anecdote": "L actrice culte de « West Side Story » s est rendue aux Oscars 2018 en portant la meme robe qu en 1962, et elle etait superbe."
       },
       {
         "id": 22,
-        "question": "Qui a enveloppe quelques piques à Kim Kardashian dans « Top Off » ?",
+        "question": "Qui a enveloppe quelques piques a Kim Kardashian dans « Top Off » ?",
         "propositions": [
           "Janet Jackson",
           "Beyonce",
@@ -305,11 +305,11 @@
           "Britney Spears"
         ],
         "reponse": "Beyonce",
-        "anecdote": "La partie du titre qui fait reference à Internet vise directement la mythique photo de Kim Kardashian diffusee dans Paper Magazine."
+        "anecdote": "La partie du titre qui fait reference a Internet vise directement la mythique photo de Kim Kardashian diffusee dans Paper Magazine."
       },
       {
         "id": 23,
-        "question": "Quel comedien emblematique de la serie « Palace » s'est suicide à seulement 64 ans ?",
+        "question": "Quel comedien emblematique de la serie « Palace » s est suicide a seulement 64 ans ?",
         "propositions": [
           "Bernard Pisani",
           "Marcel Philippot",
@@ -317,7 +317,7 @@
           "Olivier Pages"
         ],
         "reponse": "Marcel Philippot",
-        "anecdote": "Cette disparition fut tres inattendue, d'autant que Marcel Philippot travaillait ces dernieres semaines sur une nouvelle piece de theatre."
+        "anecdote": "Cette disparition fut tres inattendue, d autant que Marcel Philippot travaillait ces dernieres semaines sur une nouvelle piece de theatre."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "Loïc Prigent"
         ],
         "reponse": "Loïc Prigent",
-        "anecdote": "Le specialiste de la mode propose tous les soirs à 19h15 sur TMC une selection des meilleurs moments des defiles parisiens."
+        "anecdote": "Le specialiste de la mode propose tous les soirs a 19h15 sur TMC une selection des meilleurs moments des defiles parisiens."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Crystal Reed"
         ],
         "reponse": "Taylor Hickson",
-        "anecdote": "Taylor Hickson a ete grievement blessee sur le tournage du film d'horreur « Ghostland », qui s'apprete à sortir  en salles."
+        "anecdote": "Taylor Hickson a ete grievement blessee sur le tournage du film d horreur « Ghostland », qui s apprete a sortir  en salles."
       },
       {
         "id": 26,
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Quelle fille de Judy Garland a ete diagnostiquee d'une tumeur au cerveau ?",
+        "question": "Quelle fille de Judy Garland a ete diagnostiquee d une tumeur au cerveau ?",
         "propositions": [
           "Morgan Lily",
           "Julia Ling",
@@ -365,11 +365,11 @@
           "Lorna Luft"
         ],
         "reponse": "Lorna Luft",
-        "anecdote": "Dejà victime d'un cancer du sein qui l'avait frappee il y a six ans, Lorna Luft a de nouveau ete hospitalisee le 9 mars 2018."
+        "anecdote": "Deja victime d un cancer du sein qui l avait frappee il y a six ans, Lorna Luft a de nouveau ete hospitalisee le 9 mars 2018."
       },
       {
         "id": 28,
-        "question": "Quelle cheffe etoilee possede desormais une poupee Barbie à son effigie ?",
+        "question": "Quelle cheffe etoilee possede desormais une poupee Barbie a son effigie ?",
         "propositions": [
           "Helene Darroze",
           "Amandine Chaignot",
@@ -377,11 +377,11 @@
           "Andree Rosier"
         ],
         "reponse": "Helene Darroze",
-        "anecdote": "Mattel rend ainsi hommage à des femmes d'excep­tion dans le monde entier à l'occa­sion de la jour­nee des droits des femmes."
+        "anecdote": "Mattel rend ainsi hommage a des femmes d excep­tion dans le monde entier a l occa­sion de la jour­nee des droits des femmes."
       },
       {
         "id": 29,
-        "question": "Quelle fille d'Alexandra Lamy s'est affichee sexy sur son compte Instagram ?",
+        "question": "Quelle fille d Alexandra Lamy s est affichee sexy sur son compte Instagram ?",
         "propositions": [
           "Sylvie Jobert",
           "Chloe Jouannet",
@@ -389,7 +389,7 @@
           "Melanie Doutey"
         ],
         "reponse": "Chloe Jouannet",
-        "anecdote": "Côte cinema, Chloe Jouannet, au temperament frappe, partageait en 2014 l'ecran avec Jean Reno dans le film « Avis de Mistral »."
+        "anecdote": "Côte cinema, Chloe Jouannet, au temperament frappe, partageait en 2014 l ecran avec Jean Reno dans le film « Avis de Mistral »."
       },
       {
         "id": 30,
@@ -438,14 +438,14 @@
           "Enzo Enzo",
           "Anggun",
           "Alizee",
-          "Shy'm"
+          "Shy m"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "Shy'm spoke about the failure of her last tour for which she had no choice but to cancel several of her concerts."
+        "reponse": "Shy m",
+        "anecdote": "Shy m spoke about the failure of her last tour for which she had no choice but to cancel several of her concerts."
       },
       {
         "id": 4,
-        "question": "Who was JoeyStarr's Attendant Manager for nearly 25 years ?",
+        "question": "Who was JoeyStarr s Attendant Manager for nearly 25 years ?",
         "propositions": [
           "DJ Abdel",
           "Sebastien Farran",
@@ -531,7 +531,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Which actor of the series « Gray's Anatomy » has remarried with Arielle Goldrath ?",
+        "question": "Which actor of the series « Gray s Anatomy » has remarried with Arielle Goldrath ?",
         "propositions": [
           "Justin Chambers",
           "Jason George",
@@ -623,7 +623,7 @@
           "Arthur H"
         ],
         "reponse": "Renaud",
-        "anecdote": "This album is a bit peculiar, since it is an opus of children's songs all signed by Renaud's hand."
+        "anecdote": "This album is a bit peculiar, since it is an opus of children s songs all signed by Renaud s hand."
       },
       {
         "id": 19,
@@ -745,11 +745,11 @@
           "Helene Darroze"
         ],
         "reponse": "Helene Darroze",
-        "anecdote": "Mattel pays homage to exceptional women all over the world on the occasion of the day of women's rights."
+        "anecdote": "Mattel pays homage to exceptional women all over the world on the occasion of the day of women s rights."
       },
       {
         "id": 29,
-        "question": "Which Alexandra Lamy's daughter has posted sexy on her Instagram account ?",
+        "question": "Which Alexandra Lamy s daughter has posted sexy on her Instagram account ?",
         "propositions": [
           "Priscilla Betti",
           "Sylvie Jobert",
@@ -803,13 +803,13 @@
         "id": 3,
         "question": "Welcher französische Sänger musste Anfang 2018 wegen Publikumsmangels Konzerte absagen ?",
         "propositions": [
-          "Shy'm",
+          "Shy m",
           "Anggun",
           "Alizee",
           "Enzo Enzo"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "Shy'm sprach über das Scheitern ihrer letzten Tour, für die sie keine andere Wahl hatte, als einige ihrer Konzerte abzusagen."
+        "reponse": "Shy m",
+        "anecdote": "Shy m sprach über das Scheitern ihrer letzten Tour, für die sie keine andere Wahl hatte, als einige ihrer Konzerte abzusagen."
       },
       {
         "id": 4,
@@ -899,7 +899,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Welcher Schauspieler der Serie « Gray's Anatomy » hat wieder mit Arielle Goldrath geheiratet ?",
+        "question": "Welcher Schauspieler der Serie « Gray s Anatomy » hat wieder mit Arielle Goldrath geheiratet ?",
         "propositions": [
           "Jason George",
           "Jesse Williams",
@@ -1172,12 +1172,12 @@
         "question": "¿Que cantante frances se vio obligado a principios de 2018 a cancelar conciertos debido a la falta de público ?",
         "propositions": [
           "Alizee",
-          "Shy'm",
+          "Shy m",
           "Anggun",
           "Enzo Enzo"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "Shy'm habló sobre el fracaso de su última gira para la que no tuvo más remedio que cancelar varios de sus conciertos."
+        "reponse": "Shy m",
+        "anecdote": "Shy m habló sobre el fracaso de su última gira para la que no tuvo más remedio que cancelar varios de sus conciertos."
       },
       {
         "id": 4,
@@ -1267,7 +1267,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "¿Que actor de la serie « Gray's Anatomy » se ha vuelto a casar con Arielle Goldrath ?",
+        "question": "¿Que actor de la serie « Gray s Anatomy » se ha vuelto a casar con Arielle Goldrath ?",
         "propositions": [
           "Kevin McKidd",
           "Jesse Williams",
@@ -1537,15 +1537,15 @@
       },
       {
         "id": 3,
-        "question": "Quale cantante francese e stato costretto all'inizio del 2018 ad annullare i concerti per mancanza di pubblico ?",
+        "question": "Quale cantante francese e stato costretto all inizio del 2018 ad annullare i concerti per mancanza di pubblico ?",
         "propositions": [
           "Anggun",
           "Enzo Enzo",
           "Alizee",
-          "Shy'm"
+          "Shy m"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "Shy'm ha parlato del fallimento del suo ultimo tour per il quale non ha avuto altra scelta che cancellare alcuni dei suoi concerti."
+        "reponse": "Shy m",
+        "anecdote": "Shy m ha parlato del fallimento del suo ultimo tour per il quale non ha avuto altra scelta che cancellare alcuni dei suoi concerti."
       },
       {
         "id": 4,
@@ -1573,7 +1573,7 @@
       },
       {
         "id": 6,
-        "question": "Quale ex editorialista dell'episodio « TPMP » ha dichiarato di soffrire di endometriosi ?",
+        "question": "Quale ex editorialista dell episodio « TPMP » ha dichiarato di soffrire di endometriosi ?",
         "propositions": [
           "Enora Malagre",
           "Agathe Auproux",
@@ -1593,7 +1593,7 @@
           "Loana Petrucciani"
         ],
         "reponse": "Loana Petrucciani",
-        "anecdote": "La sua figura ha sofferto molto per la sua discesa all'inferno, quindi con questa copertina urla Photoshop!"
+        "anecdote": "La sua figura ha sofferto molto per la sua discesa all inferno, quindi con questa copertina urla Photoshop!"
       },
       {
         "id": 8,
@@ -1609,7 +1609,7 @@
       },
       {
         "id": 9,
-        "question": "Quale astrofisico e divulgatore scientifico morì all'età di 76 anni ?",
+        "question": "Quale astrofisico e divulgatore scientifico morì all eta di 76 anni ?",
         "propositions": [
           "Edward Kolb",
           "Paul Steinhardt",
@@ -1617,7 +1617,7 @@
           "John Bahcall"
         ],
         "reponse": "Stephen Hawking",
-        "anecdote": "Nel corso di una carriera molto densa, Stephen Hawking e diventato anche un'icona pop attraverso varie apparizioni in serie TV."
+        "anecdote": "Nel corso di una carriera molto densa, Stephen Hawking e diventato anche un icona pop attraverso varie apparizioni in serie TV."
       },
       {
         "id": 10,
@@ -1635,7 +1635,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quale attore della serie « Gray's Anatomy » si e risposato con Arielle Goldrath ?",
+        "question": "Quale attore della serie « Gray s Anatomy » si e risposato con Arielle Goldrath ?",
         "propositions": [
           "Justin Chambers",
           "Jason George",
@@ -1667,7 +1667,7 @@
           "Paula Abdul"
         ],
         "reponse": "Britney Spears",
-        "anecdote": "Una cerimonia in cui Britney Spears e stata premiata con un premio d'onore per il suo profumo battezzato « Fantasy in fiore »."
+        "anecdote": "Una cerimonia in cui Britney Spears e stata premiata con un premio d onore per il suo profumo battezzato « Fantasy in fiore »."
       },
       {
         "id": 14,
@@ -1679,11 +1679,11 @@
           "Vincent Perez"
         ],
         "reponse": "Mel Gibson",
-        "anecdote": "All'età di 51 anni, Sophie Morceau non sembra aver avuto una ruga dai suoi primi passi sui nostri schermi nel film La Boum."
+        "anecdote": "All eta di 51 anni, Sophie Morceau non sembra aver avuto una ruga dai suoi primi passi sui nostri schermi nel film La Boum."
       },
       {
         "id": 15,
-        "question": "Quale icona della moda impiega il 75 % delle donne nelle sue società ?",
+        "question": "Quale icona della moda impiega il 75 % delle donne nelle sue societa ?",
         "propositions": [
           "Geri Halliwell",
           "Emma Bunton",
@@ -1695,7 +1695,7 @@
       },
       {
         "id": 16,
-        "question": "Chi ha visto Vanessa Paradis nell'anteprima del film « Cane » ?",
+        "question": "Chi ha visto Vanessa Paradis nell anteprima del film « Cane » ?",
         "propositions": [
           "Antonin Bideau",
           "Ludovic Bernard",
@@ -1715,7 +1715,7 @@
           "Aude Compan"
         ],
         "reponse": "Maud Fontenoy",
-        "anecdote": "Il navigatore francese e anche vicepresidente per lo sviluppo sostenibile, l'energia e il mare della regione PACA."
+        "anecdote": "Il navigatore francese e anche vicepresidente per lo sviluppo sostenibile, l energia e il mare della regione PACA."
       },
       {
         "id": 18,
@@ -1727,7 +1727,7 @@
           "Arthur H"
         ],
         "reponse": "Renaud",
-        "anecdote": "Questo album e un po 'particolare, dal momento che e un'opera d'arte di canzoni per bambini tutte firmate dalla mano di Renaud."
+        "anecdote": "Questo album e un po  particolare, dal momento che e un opera d arte di canzoni per bambini tutte firmate dalla mano di Renaud."
       },
       {
         "id": 19,
@@ -1739,7 +1739,7 @@
           "JoeyStarr"
         ],
         "reponse": "JoeyStarr",
-        "anecdote": "L'edizione francese di Playboy, lanciata nel 1973, e stata in grado di proporre una varietà di personalità nel corso degli anni."
+        "anecdote": "L edizione francese di Playboy, lanciata nel 1973, e stata in grado di proporre una varieta di personalita nel corso degli anni."
       },
       {
         "id": 20,
@@ -1765,7 +1765,7 @@
           "Liza Minnelli"
         ],
         "reponse": "Rita Moreno",
-        "anecdote": "L'attrice cult di « West Side Story » e andata agli Oscar 2018 indossando lo stesso abito del 1962 ed e stata superba."
+        "anecdote": "L attrice cult di « West Side Story » e andata agli Oscar 2018 indossando lo stesso abito del 1962 ed e stata superba."
       },
       {
         "id": 22,
@@ -1837,11 +1837,11 @@
           "Bianca Lawson"
         ],
         "reponse": "Lorna Luft",
-        "anecdote": "Già affetta da cancro al seno che l'ha colpita sei anni fa, Lorna Luft e stata nuovamente ricoverata in ospedale il 9 marzo 2018."
+        "anecdote": "Gia affetta da cancro al seno che l ha colpita sei anni fa, Lorna Luft e stata nuovamente ricoverata in ospedale il 9 marzo 2018."
       },
       {
         "id": 28,
-        "question": "Quale chef di celebrità ora ha una bambola Barbie con la sua faccia ?",
+        "question": "Quale chef di celebrita ora ha una bambola Barbie con la sua faccia ?",
         "propositions": [
           "Amandine Chaignot",
           "Andree Rosier",
@@ -1909,11 +1909,11 @@
         "propositions": [
           "Alizee",
           "Enzo Enzo",
-          "Shy'm",
+          "Shy m",
           "Anggun"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "Shy'm sprak over het mislukken van haar laatste tour waarvoor ze geen andere keus had dan verschillende van haar concerten te annuleren."
+        "reponse": "Shy m",
+        "anecdote": "Shy m sprak over het mislukken van haar laatste tour waarvoor ze geen andere keus had dan verschillende van haar concerten te annuleren."
       },
       {
         "id": 4,
@@ -2003,7 +2003,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Welke acteur uit de serie « Gray's Anatomy » is hertrouwd met Arielle Goldrath ?",
+        "question": "Welke acteur uit de serie « Gray s Anatomy » is hertrouwd met Arielle Goldrath ?",
         "propositions": [
           "Jesse Williams",
           "Justin Chambers",
@@ -2095,7 +2095,7 @@
           "Arthur H"
         ],
         "reponse": "Renaud",
-        "anecdote": "Dit album is een beetje vreemd, omdat het een opus is van kinderliedjes, allemaal getekend door Renaud's hand."
+        "anecdote": "Dit album is een beetje vreemd, omdat het een opus is van kinderliedjes, allemaal getekend door Renaud s hand."
       },
       {
         "id": 19,

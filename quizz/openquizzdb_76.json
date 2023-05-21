@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : janv. 2015",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: gennaio 2015",
       "slogan": "Hanno fatto notizia"
     },
@@ -49,11 +49,11 @@
           "New York"
         ],
         "reponse": "Rio de Janeiro",
-        "anecdote": "Comme dans la saison precedente, les Anges ont eu pour but de recolter dix mille euros pour l'association « Un Reve, Un Sourire »."
+        "anecdote": "Comme dans la saison precedente, les Anges ont eu pour but de recolter dix mille euros pour l association « Un Reve, Un Sourire »."
       },
       {
         "id": 2,
-        "question": "Quel guitariste de rock a recu par courrier de l'heroïne de ses fans pendant sa desintox ?",
+        "question": "Quel guitariste de rock a recu par courrier de l heroïne de ses fans pendant sa desintox ?",
         "propositions": [
           "Pete Doherty",
           "Vince Clarke",
@@ -85,7 +85,7 @@
           "Olivier Baroux"
         ],
         "reponse": "Albert Dupontel",
-        "anecdote": "C'est grace à l'emission televisee « Sebastien c'est fou » qu'Albert Dupontel accedera à la reconnaissance du grand public."
+        "anecdote": "C est grace a l emission televisee « Sebastien c est fou » qu Albert Dupontel accedera a la reconnaissance du grand public."
       },
       {
         "id": 5,
@@ -97,7 +97,7 @@
           "Faith Evans"
         ],
         "reponse": "Fergie",
-        "anecdote": "Durant l'annee 2010, plusieurs journalistes la disaient enceinte mais elle a dementi ces rumeurs."
+        "anecdote": "Durant l annee 2010, plusieurs journalistes la disaient enceinte mais elle a dementi ces rumeurs."
       },
       {
         "id": 6,
@@ -133,7 +133,7 @@
           "Caylian Curtis"
         ],
         "reponse": "Clara Morgane",
-        "anecdote": "Clara Morgane a quitte Marseille pour Paris en 2000 et decide de se lancer dans l'industrie du film pour adulte afin de « se trouver »."
+        "anecdote": "Clara Morgane a quitte Marseille pour Paris en 2000 et decide de se lancer dans l industrie du film pour adulte afin de « se trouver »."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Nolwenn Leroy"
         ],
         "reponse": "Alizee",
-        "anecdote": "Depuis 2001, Alizee integre la troupe des Enfoires de l'association caritative des « Restos du coeur »."
+        "anecdote": "Depuis 2001, Alizee integre la troupe des Enfoires de l association caritative des « Restos du coeur »."
       },
       {
         "id": 10,
@@ -171,11 +171,11 @@
           "Poirier"
         ],
         "reponse": "Framboisier",
-        "anecdote": "Framboisier etait membre du groupe musical Les Muscles qui accompagnait l'emission « Le Club Dorothee » sur TF1."
+        "anecdote": "Framboisier etait membre du groupe musical Les Muscles qui accompagnait l emission « Le Club Dorothee » sur TF1."
       },
       {
         "id": 12,
-        "question": "Qui a dit de Lorie : « J'attends que celle qui chante fasse un album qui fonctionne » ?",
+        "question": "Qui a dit de Lorie : « J attends que celle qui chante fasse un album qui fonctionne » ?",
         "propositions": [
           "Sheryfa Luna",
           "Jenifer",
@@ -183,7 +183,7 @@
           "Mia Frye"
         ],
         "reponse": "Mia Frye",
-        "anecdote": "Mia Frye est mariee à Michel Ressiga, lui aussi choregraphe repute, avec qui elle a eu un garcon."
+        "anecdote": "Mia Frye est mariee a Michel Ressiga, lui aussi choregraphe repute, avec qui elle a eu un garcon."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           " Baptiste Giabiconi"
         ],
         "reponse": "M. Pokora",
-        "anecdote": "En 2013, M. Pokora lancait sa ligne de vetements et d'accessoires « Oôra by M.Pokora », qui s'adresse aux femmes."
+        "anecdote": "En 2013, M. Pokora lancait sa ligne de vetements et d accessoires « Oôra by M.Pokora », qui s adresse aux femmes."
       },
       {
         "id": 14,
@@ -207,7 +207,7 @@
           "Rosamund Pike"
         ],
         "reponse": "Tallulah Willis",
-        "anecdote": "Demi Moore a egalement defraye la chronique people suite à son idylle avec Ashton Kutcher, de quinze ans son cadet."
+        "anecdote": "Demi Moore a egalement defraye la chronique people suite a son idylle avec Ashton Kutcher, de quinze ans son cadet."
       },
       {
         "id": 15,
@@ -219,11 +219,11 @@
           "Mister National"
         ],
         "reponse": "Mister France",
-        "anecdote": "Mister France est revenu en 2015 avec comme devise « L'homme change, Mister France aussi »."
+        "anecdote": "Mister France est revenu en 2015 avec comme devise « L homme change, Mister France aussi »."
       },
       {
         "id": 16,
-        "question": "Qui a dit au festival de l'Alpe d'Huez 2015 : « Il faut que le rire nous rassemble » ?",
+        "question": "Qui a dit au festival de l Alpe d Huez 2015 : « Il faut que le rire nous rassemble » ?",
         "propositions": [
           "Gad Elmaleh",
           "Didier Bourdon",
@@ -231,7 +231,7 @@
           "Franck Dubosc"
         ],
         "reponse": "Gad Elmaleh",
-        "anecdote": "Gad Elmaleh est devenu la « risee du web » suite à ses spots publicitaires pour la banque LCL."
+        "anecdote": "Gad Elmaleh est devenu la « risee du web » suite a ses spots publicitaires pour la banque LCL."
       },
       {
         "id": 17,
@@ -243,11 +243,11 @@
           "Neymar"
         ],
         "reponse": "Ronaldo",
-        "anecdote": "Des ses premiers matchs avec le FC Barcelone, une « ronaldomania » s'est tres vite constituee."
+        "anecdote": "Des ses premiers matchs avec le FC Barcelone, une « ronaldomania » s est tres vite constituee."
       },
       {
         "id": 18,
-        "question": "Quelle fille d'Isabelle Huppert envoûte de par sa beaute enigmatique ?",
+        "question": "Quelle fille d Isabelle Huppert envoûte de par sa beaute enigmatique ?",
         "propositions": [
           "Lolita Chammah",
           "Anne Brochet",
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Quelle ex du Prince Harry s'est lancee en 2015 dans la comedie ?",
+        "question": "Quelle ex du Prince Harry s est lancee en 2015 dans la comedie ?",
         "propositions": [
           "Holliday Grainger",
           "Alicia Vikander",
@@ -279,7 +279,7 @@
           "Cressida Bonas"
         ],
         "reponse": "Cressida Bonas",
-        "anecdote": "« Tulip Fever » est un film d'amour britannico-americain realise par Justin Chadwick dont la sortie etait prevue en 2004."
+        "anecdote": "« Tulip Fever » est un film d amour britannico-americain realise par Justin Chadwick dont la sortie etait prevue en 2004."
       }
     ],
     "expert": [
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quel humoriste a vu en 2015 l'affiche de son nouveau spectacle interdite ?",
+        "question": "Quel humoriste a vu en 2015 l affiche de son nouveau spectacle interdite ?",
         "propositions": [
           "Patrick Sebastien",
           "Michaal Youn",
@@ -317,11 +317,11 @@
           "Michelle Fairley"
         ],
         "reponse": "Maisie Williams",
-        "anecdote": "Maisie Williams joue le rôle d'Arya Stark dans la serie televisee « Game of Thrones »."
+        "anecdote": "Maisie Williams joue le rôle d Arya Stark dans la serie televisee « Game of Thrones »."
       },
       {
         "id": 24,
-        "question": "Quel visage emblematique du sport americain a perdu la vie debut 2015 à 49 ans ?",
+        "question": "Quel visage emblematique du sport americain a perdu la vie debut 2015 a 49 ans ?",
         "propositions": [
           "Stuart Scott",
           "Dennis Miller",
@@ -329,7 +329,7 @@
           "Larry King"
         ],
         "reponse": "Stuart Scott",
-        "anecdote": "Stuart Scott etait un journaliste sportif emblematique du pays et trouva la mort suite à un cancer qu'il combattait depuis 2007."
+        "anecdote": "Stuart Scott etait un journaliste sportif emblematique du pays et trouva la mort suite a un cancer qu il combattait depuis 2007."
       },
       {
         "id": 25,
@@ -341,11 +341,11 @@
           "Janice Dickinson"
         ],
         "reponse": "Farrah Abraham",
-        "anecdote": "Farrah Abraham est apparue dans la saison 4 de l'emission de tele-realite « Couples Therapy »."
+        "anecdote": "Farrah Abraham est apparue dans la saison 4 de l emission de tele-realite « Couples Therapy »."
       },
       {
         "id": 26,
-        "question": "Quel artiste a declare en 2015 assumer la difference d'age avec sa compagne ?",
+        "question": "Quel artiste a declare en 2015 assumer la difference d age avec sa compagne ?",
         "propositions": [
           "Jean-Louis Aubert",
           "Patrick Fiori",
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Quelle actrice a declare en janvier 2015 : « Se laver tous les jours c'est un truc de blanc » ?",
+        "question": "Quelle actrice a declare en janvier 2015 : « Se laver tous les jours c est un truc de blanc » ?",
         "propositions": [
           "Naya Rivera",
           "Dianna Agron",
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quel mannequin fitness a ete mortellement percute par un train à l'age de 37 ans ?",
+        "question": "Quel mannequin fitness a ete mortellement percute par un train a l age de 37 ans ?",
         "propositions": [
           "Brock Harris",
           "Greg Plitt",
@@ -389,7 +389,7 @@
           "Shaun Ross"
         ],
         "reponse": "Greg Plitt",
-        "anecdote": "Greg Plitt essayait de distancer ce train lors du tournage d'une pub pour une boisson energisante."
+        "anecdote": "Greg Plitt essayait de distancer ce train lors du tournage d une pub pour une boisson energisante."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Pauline Ester"
         ],
         "reponse": "Jakie Quartz",
-        "anecdote": "Fin 2013, sur l'emprise de l'alcool et d'antidepresseurs, Jakie Quartz gresse sa mere et lui assene une vingtaine de gifles."
+        "anecdote": "Fin 2013, sur l emprise de l alcool et d antidepresseurs, Jakie Quartz gresse sa mere et lui assene une vingtaine de gifles."
       }
     ]
     }

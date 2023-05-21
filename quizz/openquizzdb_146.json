@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : mars 2017",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: marzo 2017",
       "slogan": "Hanno fatto notizia"
     },
@@ -61,7 +61,7 @@
           "Slimane"
         ],
         "reponse": "Kendji Girac",
-        "anecdote": "Kendji Girac s'est fait connaître sur Internet en août 2013 avec une reprise de « Bella » de Maître Gims, dans un style gipsy."
+        "anecdote": "Kendji Girac s est fait connaître sur Internet en août 2013 avec une reprise de « Bella » de Maître Gims, dans un style gipsy."
       },
       {
         "id": 3,
@@ -85,11 +85,11 @@
           "Pixie Lott"
         ],
         "reponse": "Katy Perry",
-        "anecdote": "Katy Perry est la seule artiste à etre restee plus de 52 semaines consecutives dans le top 10 du « Billboard Hot 100 »."
+        "anecdote": "Katy Perry est la seule artiste a etre restee plus de 52 semaines consecutives dans le top 10 du « Billboard Hot 100 »."
       },
       {
         "id": 5,
-        "question": "Quelle star de tele-realite s'est fait de-tatouer la poitrine en mars 2017 ?",
+        "question": "Quelle star de tele-realite s est fait de-tatouer la poitrine en mars 2017 ?",
         "propositions": [
           "Nabilla",
           "Loana",
@@ -97,7 +97,7 @@
           "Myriam Abel"
         ],
         "reponse": "Nabilla",
-        "anecdote": "Nabilla Benattia a tourne une intervention pour un numero televisuel de « Zone Interdite » aux côtes d'Ophelie Meunier."
+        "anecdote": "Nabilla Benattia a tourne une intervention pour un numero televisuel de « Zone Interdite » aux côtes d Ophelie Meunier."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Myriam Abel"
         ],
         "reponse": "Loana",
-        "anecdote": "La renommee de Loana lui a permis de s'essayer aux metiers de styliste, chanteuse ainsi que presentatrice de television francaise."
+        "anecdote": "La renommee de Loana lui a permis de s essayer aux metiers de styliste, chanteuse ainsi que presentatrice de television francaise."
       },
       {
         "id": 7,
@@ -121,11 +121,11 @@
           "Gary Numan"
         ],
         "reponse": "Chris Martin",
-        "anecdote": "Chris Martin souffre d'acouphenes depuis une decennie suite à une ecoute trop forte de la musique lorsqu'il etait plus jeune."
+        "anecdote": "Chris Martin souffre d acouphenes depuis une decennie suite a une ecoute trop forte de la musique lorsqu il etait plus jeune."
       },
       {
         "id": 8,
-        "question": "Quelle chanteuse a annonce son mariage secret pendant un concert à Brisbane ?",
+        "question": "Quelle chanteuse a annonce son mariage secret pendant un concert a Brisbane ?",
         "propositions": [
           "Rihanna",
           "Sade",
@@ -133,11 +133,11 @@
           "Beyonce"
         ],
         "reponse": "Adele",
-        "anecdote": "Recompensee lors des Grammys, la chanteuse britannique avait dejà parle de son « mari » lors de son discours de remerciements."
+        "anecdote": "Recompensee lors des Grammys, la chanteuse britannique avait deja parle de son « mari » lors de son discours de remerciements."
       },
       {
         "id": 9,
-        "question": "Qui a ete choisie pour representer la France à l'Eurovision 2017 ?",
+        "question": "Qui a ete choisie pour representer la France a l Eurovision 2017 ?",
         "propositions": [
           "Alma",
           "Lisa Angell",
@@ -145,7 +145,7 @@
           "Anggun"
         ],
         "reponse": "Alma",
-        "anecdote": "Alma succede ainsi à Amir, classe 6e à l'Eurovision 2016 et pour qui elle a assure plusieurs premieres parties de concerts en 2016."
+        "anecdote": "Alma succede ainsi a Amir, classe 6e a l Eurovision 2016 et pour qui elle a assure plusieurs premieres parties de concerts en 2016."
       },
       {
         "id": 10,
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "À quelle danseuse de DALS la marque Triumph s'est-elle associee ?",
+        "question": "À quelle danseuse de DALS la marque Triumph s est-elle associee ?",
         "propositions": [
           "Candice Pascal",
           "Fauve Hautot",
@@ -171,11 +171,11 @@
           "Katarina Patchett"
         ],
         "reponse": "Katarina Patchett",
-        "anecdote": "Pour reinventer sa ligne de soutiens-gorge de sport, Triumph s'est en effet associe à la danseuse australienne Katarina Patchett."
+        "anecdote": "Pour reinventer sa ligne de soutiens-gorge de sport, Triumph s est en effet associe a la danseuse australienne Katarina Patchett."
       },
       {
         "id": 12,
-        "question": "Quelle actrice a accouche à 43 ans de son cinquieme enfant le 2 mars 2017 ?",
+        "question": "Quelle actrice a accouche a 43 ans de son cinquieme enfant le 2 mars 2017 ?",
         "propositions": [
           "Shannen Doherty",
           "Jennie Garth",
@@ -183,7 +183,7 @@
           "Kathleen Robertson"
         ],
         "reponse": "Tori Spelling",
-        "anecdote": "Tori Spelling est connue pour etre la fille d'Aaron Spelling et pour avoir joue dans la serie « Beverly Hills 90210 » entre 1990 à 2000."
+        "anecdote": "Tori Spelling est connue pour etre la fille d Aaron Spelling et pour avoir joue dans la serie « Beverly Hills 90210 » entre 1990 a 2000."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Olivier Minne"
         ],
         "reponse": "Olivier Minne",
-        "anecdote": "Depuis 2002, Olivier Minne passe la moitie de l'annee à Los Angeles et a dans ce cadre obtenu une green card en 2010."
+        "anecdote": "Depuis 2002, Olivier Minne passe la moitie de l annee a Los Angeles et a dans ce cadre obtenu une green card en 2010."
       },
       {
         "id": 14,
@@ -207,11 +207,11 @@
           "Karim Boutadjine"
         ],
         "reponse": "Youcef Touati",
-        "anecdote": "Quelques heures apres avoir quitte l'hôpital, la chanteuse a eu une pensee emue pour les autres victimes de la collision."
+        "anecdote": "Quelques heures apres avoir quitte l hôpital, la chanteuse a eu une pensee emue pour les autres victimes de la collision."
       },
       {
         "id": 15,
-        "question": "Jean-Jacques Goldman, qui a quitte Les Enfoires, est le pere de combien d'enfants ?",
+        "question": "Jean-Jacques Goldman, qui a quitte Les Enfoires, est le pere de combien d enfants ?",
         "propositions": [
           "Six",
           "Quatre",
@@ -223,7 +223,7 @@
       },
       {
         "id": 16,
-        "question": "Quel chanteur francais a ete victime en 2017 d'une rumeur d'un cancer foudroyant ?",
+        "question": "Quel chanteur francais a ete victime en 2017 d une rumeur d un cancer foudroyant ?",
         "propositions": [
           "Patrick Bruel",
           "Michel Fugain",
@@ -243,11 +243,11 @@
           "Anne Hathaway"
         ],
         "reponse": "Viola Davis",
-        "anecdote": "Elle devient ainsi la premiere actrice afro-americaine à etre distinguee pour son travail au theatre, à la television et au cinema."
+        "anecdote": "Elle devient ainsi la premiere actrice afro-americaine a etre distinguee pour son travail au theatre, a la television et au cinema."
       },
       {
         "id": 18,
-        "question": "Quel chanteur a retire son soutien à Emmanuel Macron, pensant qu'il etait gay ?",
+        "question": "Quel chanteur a retire son soutien a Emmanuel Macron, pensant qu il etait gay ?",
         "propositions": [
           "Elton John",
           "Boy George",
@@ -255,7 +255,7 @@
           "Bryan Adams"
         ],
         "reponse": "Boy George",
-        "anecdote": "Ne George Alan O'Dowd, Boy George est classe à de nombreuses reprises au classement des 100 meilleurs DJ etabli par le « DJ Mag »."
+        "anecdote": "Ne George Alan O Dowd, Boy George est classe a de nombreuses reprises au classement des 100 meilleurs DJ etabli par le « DJ Mag »."
       },
       {
         "id": 19,
@@ -271,7 +271,7 @@
       },
       {
         "id": 20,
-        "question": "Qui a remplace Frederic Beigbeder à la direction du magazine « Lui » ?",
+        "question": "Qui a remplace Frederic Beigbeder a la direction du magazine « Lui » ?",
         "propositions": [
           "Frederic Taddei",
           "Philippe Besson",
@@ -305,11 +305,11 @@
           "Nat King Cole"
         ],
         "reponse": "Jerry Lee Lewis",
-        "anecdote": "L'interprete de « Great Balls of Fire » poursuit sa propre fille en justice, car il l'accuse de l'avoir drogue pour voler sa fortune."
+        "anecdote": "L interprete de « Great Balls of Fire » poursuit sa propre fille en justice, car il l accuse de l avoir drogue pour voler sa fortune."
       },
       {
         "id": 23,
-        "question": "Quel ministre francais en fonction s'est fait tatouer un dragon sur l'epaule ?",
+        "question": "Quel ministre francais en fonction s est fait tatouer un dragon sur l epaule ?",
         "propositions": [
           "Stephane Le Foll",
           "Michel Sapin",
@@ -317,7 +317,7 @@
           "Bruno Le Roux"
         ],
         "reponse": "Jean-Michel Baylet",
-        "anecdote": "Il est au moment des faits ministre de l'Amenagement du territoire, de la ruralite et des collectivites territoriales."
+        "anecdote": "Il est au moment des faits ministre de l Amenagement du territoire, de la ruralite et des collectivites territoriales."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "Katrin Jeckstat"
         ],
         "reponse": "Serena Reinaldi",
-        "anecdote": "Sur Twitter, l'humoriste a annonce la naissance de son troisieme enfant, le premier avec l'actrice italienne Serena Reinaldi."
+        "anecdote": "Sur Twitter, l humoriste a annonce la naissance de son troisieme enfant, le premier avec l actrice italienne Serena Reinaldi."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Claude Brasseur"
         ],
         "reponse": "Gerard Depardieu",
-        "anecdote": "Le dessinateur Mathieu Sapin, qui avait raconte la vie de Francois Hollande, s'est specialise dans la BD de reportage."
+        "anecdote": "Le dessinateur Mathieu Sapin, qui avait raconte la vie de Francois Hollande, s est specialise dans la BD de reportage."
       },
       {
         "id": 26,
@@ -353,11 +353,11 @@
           "Julianne Moore"
         ],
         "reponse": "Kristen Stewart",
-        "anecdote": "En 2015, Kristen Stewart devient la premiere americaine à etre nommee aux Cesar et la premiere à en recevoir un."
+        "anecdote": "En 2015, Kristen Stewart devient la premiere americaine a etre nommee aux Cesar et la premiere a en recevoir un."
       },
       {
         "id": 27,
-        "question": "Quelle creatrice propose du pret à porter issu du recyclage de vetements ?",
+        "question": "Quelle creatrice propose du pret a porter issu du recyclage de vetements ?",
         "propositions": [
           "Alberta Ferretti",
           "Carolina Herrera",
@@ -365,7 +365,7 @@
           "Gaalle Constantini"
         ],
         "reponse": "Gaalle Constantini",
-        "anecdote": "Tout a commence en 2010, lorsque Gaalle Constantini a decide d'unir ses deux plus grands amours, la mode et la nature."
+        "anecdote": "Tout a commence en 2010, lorsque Gaalle Constantini a decide d unir ses deux plus grands amours, la mode et la nature."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Zaven Aslanian"
         ],
         "reponse": "Zaven Aslanian",
-        "anecdote": "« Je l'ai rencontree au Nouvel An et apres on a passe 2/3 jours ensemble. J'ai beaucoup d'amis grace au milieu de la nuit. »."
+        "anecdote": "« Je l ai rencontree au Nouvel An et apres on a passe 2/3 jours ensemble. J ai beaucoup d amis grace au milieu de la nuit. »."
       },
       {
         "id": 29,

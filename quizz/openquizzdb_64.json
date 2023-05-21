@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : août 2015",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: agosto 2015",
       "slogan": "Hanno fatto notizia"
     },
@@ -49,11 +49,11 @@
           "Daniel Craig"
         ],
         "reponse": "Daniel Craig",
-        "anecdote": "Daniel Craig est le sixieme acteur à interpreter le rôle de James Bond au cinema et a debute dans « Casino Royale »."
+        "anecdote": "Daniel Craig est le sixieme acteur a interpreter le rôle de James Bond au cinema et a debute dans « Casino Royale »."
       },
       {
         "id": 2,
-        "question": "Qui a perdu en août 2015 le place d'acteur de tele le mieux paye ?",
+        "question": "Qui a perdu en août 2015 le place d acteur de tele le mieux paye ?",
         "propositions": [
           "Bruce Willis",
           "Mark Harmon",
@@ -73,7 +73,7 @@
           "Benoît Duquesne"
         ],
         "reponse": "Jean-Luc Delarue",
-        "anecdote": "Peu de temps apres sa mort, son pere a declare dans la presse qu'il n'a pas pu assister à l'inhumation de son fils."
+        "anecdote": "Peu de temps apres sa mort, son pere a declare dans la presse qu il n a pas pu assister a l inhumation de son fils."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Kid Paddle"
         ],
         "reponse": "Titeuf",
-        "anecdote": "La popularite du personnage de Titeuf a amene des parents à donner ce prenom à leur enfant."
+        "anecdote": "La popularite du personnage de Titeuf a amene des parents a donner ce prenom a leur enfant."
       },
       {
         "id": 5,
@@ -97,11 +97,11 @@
           "Rosario Flores"
         ],
         "reponse": "Penelope Cruz",
-        "anecdote": "En plus de son statut d'actrice, Penelope Cruz a ete mannequin pour plusieurs entreprises comme Ralph Lauren ou L'Oreal."
+        "anecdote": "En plus de son statut d actrice, Penelope Cruz a ete mannequin pour plusieurs entreprises comme Ralph Lauren ou L Oreal."
       },
       {
         "id": 6,
-        "question": "Quel Christophe a repris en août 2015 la presentation de l'emission « Secret Story » ?",
+        "question": "Quel Christophe a repris en août 2015 la presentation de l emission « Secret Story » ?",
         "propositions": [
           "Bourdon",
           "Dechavanne",
@@ -109,7 +109,7 @@
           "Wislet"
         ],
         "reponse": "Beaugrand",
-        "anecdote": "Sa vocation serait nee à six ans, lors du tournage de « La Malle à malice », une emission pour les enfants diffusee sur FR3 Lorraine."
+        "anecdote": "Sa vocation serait nee a six ans, lors du tournage de « La Malle a malice », une emission pour les enfants diffusee sur FR3 Lorraine."
       },
       {
         "id": 7,
@@ -145,11 +145,11 @@
           "Marion Cotillard"
         ],
         "reponse": "Jennifer Lawrence",
-        "anecdote": "Cette meme annee, la jeune actrice a annonce qu'elle allait realiser son premier film, dont on ne connait aucune information."
+        "anecdote": "Cette meme annee, la jeune actrice a annonce qu elle allait realiser son premier film, dont on ne connait aucune information."
       },
       {
         "id": 10,
-        "question": "La petite-fille de quel acteur noir a ete mortellement poignardee à New York ?",
+        "question": "La petite-fille de quel acteur noir a ete mortellement poignardee a New York ?",
         "propositions": [
           "Danny Glover",
           "Eddie Murphy",
@@ -157,7 +157,7 @@
           "Jamie Foxx"
         ],
         "reponse": "Morgan Freeman",
-        "anecdote": "Habitue aux seconds rôles durant vingt ans, il a recu l'Oscar du meilleur acteur dans un second rôle pour « Million Dollar Baby »."
+        "anecdote": "Habitue aux seconds rôles durant vingt ans, il a recu l Oscar du meilleur acteur dans un second rôle pour « Million Dollar Baby »."
       }
     ],
     "confirme": [
@@ -171,7 +171,7 @@
           "LeAnn Rimes"
         ],
         "reponse": "Taylor Swift",
-        "anecdote": "En plus de sa carriere musicale, Taylor Swift a fait ses premiers pas d'actrice en 2009 dans un episode des « Experts »."
+        "anecdote": "En plus de sa carriere musicale, Taylor Swift a fait ses premiers pas d actrice en 2009 dans un episode des « Experts »."
       },
       {
         "id": 12,
@@ -195,11 +195,11 @@
           "Selena Gomez"
         ],
         "reponse": "Kim Kardashian",
-        "anecdote": "Kim Kardashian etait une amie proche de Paris Hilton, ce qui lui a permis d'attirer l'attention des media."
+        "anecdote": "Kim Kardashian etait une amie proche de Paris Hilton, ce qui lui a permis d attirer l attention des media."
       },
       {
         "id": 14,
-        "question": "Quel papa de l'adorable Royalty possede de nombreux restaurants Burger King ?",
+        "question": "Quel papa de l adorable Royalty possede de nombreux restaurants Burger King ?",
         "propositions": [
           "Chris Brown",
           "Robin Thicke",
@@ -219,11 +219,11 @@
           "Christine Bravo"
         ],
         "reponse": "Alessandra Sublet",
-        "anecdote": "Alessandra Sublet est la fille de Joal Sublet, un ancien footballeur de l'Olympique lyonnais dans les annees 1970."
+        "anecdote": "Alessandra Sublet est la fille de Joal Sublet, un ancien footballeur de l Olympique lyonnais dans les annees 1970."
       },
       {
         "id": 16,
-        "question": "Quelle star est devenue en août 2015 maman d'une petite Tosca ?",
+        "question": "Quelle star est devenue en août 2015 maman d une petite Tosca ?",
         "propositions": [
           "Vanessa Demouy",
           "Laetitia Casta",
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Quel rappeur a dû faire face à une fusillade en août 2015 lors d'une de ses soirees ?",
+        "question": "Quel rappeur a dû faire face a une fusillade en août 2015 lors d une de ses soirees ?",
         "propositions": [
           "Snow",
           "Belly",
@@ -267,11 +267,11 @@
           "Drake"
         ],
         "reponse": "Drake",
-        "anecdote": "Debut decembre 2012, Drake a officialise son propre label de musique, October's Very Own, en le signant chez Warner Bros."
+        "anecdote": "Debut decembre 2012, Drake a officialise son propre label de musique, October s Very Own, en le signant chez Warner Bros."
       },
       {
         "id": 20,
-        "question": "La fille de quelle actrice a annonce qu'elle venait de perdre son bebe en août 2015 ?",
+        "question": "La fille de quelle actrice a annonce qu elle venait de perdre son bebe en août 2015 ?",
         "propositions": [
           "Emma Thompson",
           "Jessica Lange",
@@ -279,7 +279,7 @@
           "Holly Hunter"
         ],
         "reponse": "Susan Sarandon",
-        "anecdote": "Le 15 octobre 2010, Susan Sarandon a ete nommee Ambassadrice de bonne volonte de l'ONU pour l'alimentation et l'agriculture."
+        "anecdote": "Le 15 octobre 2010, Susan Sarandon a ete nommee Ambassadrice de bonne volonte de l ONU pour l alimentation et l agriculture."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Meg Ryan"
         ],
         "reponse": "Pamela Anderson",
-        "anecdote": "Pendant un certain temps, elle etait connue sous le nom de Pamela Anderson Lee à la suite de son mariage avec Tommy Lee."
+        "anecdote": "Pendant un certain temps, elle etait connue sous le nom de Pamela Anderson Lee a la suite de son mariage avec Tommy Lee."
       },
       {
         "id": 22,
@@ -305,11 +305,11 @@
           "Pierre Martot"
         ],
         "reponse": "Laurent Kerusore",
-        "anecdote": "En 2013, Michel Habert lui offre l'opportunite de faire ses premiers pas à l'Olympia en premiere partie de Thomas Boissy."
+        "anecdote": "En 2013, Michel Habert lui offre l opportunite de faire ses premiers pas a l Olympia en premiere partie de Thomas Boissy."
       },
       {
         "id": 23,
-        "question": "Quelle actrice a ete demandee en mariage par l'acteur Garrett Hedlund ?",
+        "question": "Quelle actrice a ete demandee en mariage par l acteur Garrett Hedlund ?",
         "propositions": [
           "Jennifer Lawrence",
           "Kirsten Dunst",
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Quelle artiste a ete apercue en août 2015 à West Hollywood avec une main dans le platre ?",
+        "question": "Quelle artiste a ete apercue en août 2015 a West Hollywood avec une main dans le platre ?",
         "propositions": [
           "Miley Cyrus",
           "Demi Lovato",
@@ -329,7 +329,7 @@
           "Hilary Duff"
         ],
         "reponse": "Vanessa Hudgens",
-        "anecdote": "En septembre 2005, Vanessa Hudgens commence à frequenter secretement son partenaire dans « High School Musical », Zac Efron."
+        "anecdote": "En septembre 2005, Vanessa Hudgens commence a frequenter secretement son partenaire dans « High School Musical », Zac Efron."
       },
       {
         "id": 25,
@@ -353,7 +353,7 @@
           "Mathieu Amalric"
         ],
         "reponse": "Mathieu Kassovitz",
-        "anecdote": "Mathieu Kassovitz a ete marie à l'actrice Julie Mauduech avec laquelle il a joue dans le film qu'il a dirige, « Metisse »."
+        "anecdote": "Mathieu Kassovitz a ete marie a l actrice Julie Mauduech avec laquelle il a joue dans le film qu il a dirige, « Metisse »."
       },
       {
         "id": 27,
@@ -377,11 +377,11 @@
           "Katia Aveiro"
         ],
         "reponse": "Katia Aveiro",
-        "anecdote": "Un film documentaire intitule « Ronaldo », consacre à la vie du joueur portugais, est sorti en salles le 9 novembre 2015."
+        "anecdote": "Un film documentaire intitule « Ronaldo », consacre a la vie du joueur portugais, est sorti en salles le 9 novembre 2015."
       },
       {
         "id": 29,
-        "question": "Quelle actrice, d'ordinaire discrete, a montre ses fesses aux paparazzis en août 2015 ?",
+        "question": "Quelle actrice, d ordinaire discrete, a montre ses fesses aux paparazzis en août 2015 ?",
         "propositions": [
           "Julianne Moore",
           "Cate Blanchett",
@@ -389,7 +389,7 @@
           "Natalie Portman"
         ],
         "reponse": "Katie Holmes",
-        "anecdote": "Katie Holmes a ete mariee à l'acteur Tom Cruise de 2006 à 2012, avec lequel elle a une fille Suri Cruise."
+        "anecdote": "Katie Holmes a ete mariee a l acteur Tom Cruise de 2006 a 2012, avec lequel elle a une fille Suri Cruise."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Lana Del Rey"
         ],
         "reponse": "Lana Del Rey",
-        "anecdote": "Lana Del Rey a eu pour compagnon le rocker ecossais Barrie James O'Neill du groupe Kassidy."
+        "anecdote": "Lana Del Rey a eu pour compagnon le rocker ecossais Barrie James O Neill du groupe Kassidy."
       }
     ]
     }

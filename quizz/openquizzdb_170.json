@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : août 2017",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: agosto 2017",
       "slogan": "Hanno fatto notizia"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quel acteur en tournage s'est blesse à la cheville lors de cascades à Paris en août 2017 ?",
+        "question": "Quel acteur en tournage s est blesse a la cheville lors de cascades a Paris en août 2017 ?",
         "propositions": [
           "Tom Cruise",
           "Bruce Willis",
@@ -49,7 +49,7 @@
           "Jean Reno"
         ],
         "reponse": "Tom Cruise",
-        "anecdote": "Tom Cruise etait present à Paris pour realiser les scenes de « Mission Impossible 6 » qui se deroulent dans la ville Lumiere."
+        "anecdote": "Tom Cruise etait present a Paris pour realiser les scenes de « Mission Impossible 6 » qui se deroulent dans la ville Lumiere."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Ses 39 ans"
         ],
         "reponse": "Ses 49 ans",
-        "anecdote": "Le veritable nom de famille de Karine Le Marchand est Mfayokurera (souvent ecrit M'Fayokurera par les journalistes)."
+        "anecdote": "Le veritable nom de famille de Karine Le Marchand est Mfayokurera (souvent ecrit M Fayokurera par les journalistes)."
       },
       {
         "id": 3,
@@ -77,7 +77,7 @@
       },
       {
         "id": 4,
-        "question": "Qui est devenue en août 2017 l'actrice la mieux payee au monde ?",
+        "question": "Qui est devenue en août 2017 l actrice la mieux payee au monde ?",
         "propositions": [
           "Reese Witherspoon",
           "Kate Winslet",
@@ -97,7 +97,7 @@
           "Jane Asher"
         ],
         "reponse": "Yoko Ono",
-        "anecdote": "46 ans apres la sortie d'« Imagine », Yoko Ono en devient co-auteure : une reconnaissance jugee tardive pour l'artiste japonaise."
+        "anecdote": "46 ans apres la sortie d « Imagine », Yoko Ono en devient co-auteure : une reconnaissance jugee tardive pour l artiste japonaise."
       },
       {
         "id": 6,
@@ -109,11 +109,11 @@
           "Charles Aznavour"
         ],
         "reponse": "Charles Aznavour",
-        "anecdote": "L'interprete de « La Boheme » rejoint une vingtaine de Francais ou d'artistes originaires de France honores sur la promenade."
+        "anecdote": "L interprete de « La Boheme » rejoint une vingtaine de Francais ou d artistes originaires de France honores sur la promenade."
       },
       {
         "id": 7,
-        "question": "Qui est devenu en 2017 l'acteur le mieux paye au monde ?",
+        "question": "Qui est devenu en 2017 l acteur le mieux paye au monde ?",
         "propositions": [
           "Tom Cruise",
           "Jason Statham",
@@ -121,11 +121,11 @@
           "Jean Reno"
         ],
         "reponse": "Mark Wahlberg",
-        "anecdote": "Avec 68 millions de dollars gagnes, il devance Dwayne Johnson, qui occupait la premiere place l'an dernier, ainsi qu'Emma Stone."
+        "anecdote": "Avec 68 millions de dollars gagnes, il devance Dwayne Johnson, qui occupait la premiere place l an dernier, ainsi qu Emma Stone."
       },
       {
         "id": 8,
-        "question": "Du deces de quelle actrice Alain Delon a-t-il encore beaucoup de mal à se remettre ?",
+        "question": "Du deces de quelle actrice Alain Delon a-t-il encore beaucoup de mal a se remettre ?",
         "propositions": [
           "Nicole Besnard",
           "Jeanne Moreau",
@@ -133,7 +133,7 @@
           "Mireille Darc"
         ],
         "reponse": "Mireille Darc",
-        "anecdote": "Suite au deces de son ancienne compagne, Alain Delon lui a rendu un vibrant hommage face à Valerie Trierweiler pour Paris Match."
+        "anecdote": "Suite au deces de son ancienne compagne, Alain Delon lui a rendu un vibrant hommage face a Valerie Trierweiler pour Paris Match."
       },
       {
         "id": 9,
@@ -145,11 +145,11 @@
           "75"
         ],
         "reponse": "85",
-        "anecdote": "Le moins que l'on puisse dire, c'est que la dame au chapeau nee à Longwy en 1932 paraît bien plus jeune que son age."
+        "anecdote": "Le moins que l on puisse dire, c est que la dame au chapeau nee a Longwy en 1932 paraît bien plus jeune que son age."
       },
       {
         "id": 10,
-        "question": "Quel president de Facebook est devenu papa d'une petite August ?",
+        "question": "Quel president de Facebook est devenu papa d une petite August ?",
         "propositions": [
           "Mark Zuckerberg",
           "Warren Buffett",
@@ -157,7 +157,7 @@
           "Karl Albrecht"
         ],
         "reponse": "Mark Zuckerberg",
-        "anecdote": "Mark Zuckerberg a annonce qu'il s'accorderait deux mois de conges paternite pour profiter des premiers pas de son enfant."
+        "anecdote": "Mark Zuckerberg a annonce qu il s accorderait deux mois de conges paternite pour profiter des premiers pas de son enfant."
       }
     ],
     "confirme": [
@@ -171,7 +171,7 @@
           "Sarah Fraisou"
         ],
         "reponse": "Sarah Fraisou",
-        "anecdote": "L'ex-compagne de Malik s'est envolee vers la Tunisie, son pays d'origine, posant ses bagages à Hammamet."
+        "anecdote": "L ex-compagne de Malik s est envolee vers la Tunisie, son pays d origine, posant ses bagages a Hammamet."
       },
       {
         "id": 12,
@@ -183,11 +183,11 @@
           "Daphne Chollet"
         ],
         "reponse": "Cristina Cordula",
-        "anecdote": "Apres s'etre mariee deux fois, sur l'île de Capri et à Singapour, Cristina Cordula a de nouveau epouse son compagnon à Rio."
+        "anecdote": "Apres s etre mariee deux fois, sur l île de Capri et a Singapour, Cristina Cordula a de nouveau epouse son compagnon a Rio."
       },
       {
         "id": 13,
-        "question": "Quelle star de « Game of Thrones » a ete engagee en partie grace à ses followers ?",
+        "question": "Quelle star de « Game of Thrones » a ete engagee en partie grace a ses followers ?",
         "propositions": [
           "Sophie Turner",
           "Lena Headey",
@@ -195,7 +195,7 @@
           "Emilia Clarke"
         ],
         "reponse": "Sophie Turner",
-        "anecdote": "La star de la serie devoile ainsi l'envers du decor et met en lumiere le côte obscur de l'industrie cinematographique."
+        "anecdote": "La star de la serie devoile ainsi l envers du decor et met en lumiere le côte obscur de l industrie cinematographique."
       },
       {
         "id": 14,
@@ -207,7 +207,7 @@
           "Barbara Lune"
         ],
         "reponse": "Kim Glow",
-        "anecdote": "Fiere de ses fesses, Kim Glow propose à ses fans complexes de suivre le meme chemin que le sien : celui du billard."
+        "anecdote": "Fiere de ses fesses, Kim Glow propose a ses fans complexes de suivre le meme chemin que le sien : celui du billard."
       },
       {
         "id": 15,
@@ -219,7 +219,7 @@
           "Sara Hess"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "La creatrice de « Grey's Anatomy », Shonda Rhimes, a quitte ABC apres plus de quinze ans de collaboration commerciale fructueuse."
+        "anecdote": "La creatrice de « Grey s Anatomy », Shonda Rhimes, a quitte ABC apres plus de quinze ans de collaboration commerciale fructueuse."
       },
       {
         "id": 16,
@@ -243,7 +243,7 @@
           "Gregory Cuilleron"
         ],
         "reponse": "Juan Arbelaez",
-        "anecdote": "Juan Arbelaez est le proprietaire des restaurants Plantxa et Levain, tous les deux situes à Boulogne-Billancourt."
+        "anecdote": "Juan Arbelaez est le proprietaire des restaurants Plantxa et Levain, tous les deux situes a Boulogne-Billancourt."
       },
       {
         "id": 18,
@@ -293,11 +293,11 @@
           "Fidji"
         ],
         "reponse": "Nemo",
-        "anecdote": "Le couple presidentiel a en effet adopte à la SPA en août 2017 un croise griffon / labrador noir qu'ils ont baptise Nemo."
+        "anecdote": "Le couple presidentiel a en effet adopte a la SPA en août 2017 un croise griffon / labrador noir qu ils ont baptise Nemo."
       },
       {
         "id": 22,
-        "question": "Quel celebre guitariste a revele en 2017 etre sorti d'un cancer du poumon ?",
+        "question": "Quel celebre guitariste a revele en 2017 etre sorti d un cancer du poumon ?",
         "propositions": [
           "Jamie Cook",
           "Ron Wood",
@@ -305,7 +305,7 @@
           "Greg Lake"
         ],
         "reponse": "Ron Wood",
-        "anecdote": "Le guitariste des Rolling Stones a explique qu'une tumeur avait ete decouverte chez lui lors d'un simple contrôle de routine."
+        "anecdote": "Le guitariste des Rolling Stones a explique qu une tumeur avait ete decouverte chez lui lors d un simple contrôle de routine."
       },
       {
         "id": 23,
@@ -317,11 +317,11 @@
           "Harry"
         ],
         "reponse": "Stephen",
-        "anecdote": "Ne fille, souhaitant devenir un homme, Stephen est devenu l'un des porte-voix de la communaute transgenre aux États-Unis."
+        "anecdote": "Ne fille, souhaitant devenir un homme, Stephen est devenu l un des porte-voix de la communaute transgenre aux États-Unis."
       },
       {
         "id": 24,
-        "question": "Quel mannequin atteinte de vitiligo prône l'amour de soi sur Instagram ?",
+        "question": "Quel mannequin atteinte de vitiligo prône l amour de soi sur Instagram ?",
         "propositions": [
           "Rebecca Heckard",
           "Ashley Graham",
@@ -329,7 +329,7 @@
           "Olivia Palermo"
         ],
         "reponse": "Rebecca Heckard",
-        "anecdote": "À 21 ans, Rebecca Heckard a fait de son compte Instagram un merveilleux outil pour diffuser ses appels à la tolerance."
+        "anecdote": "À 21 ans, Rebecca Heckard a fait de son compte Instagram un merveilleux outil pour diffuser ses appels a la tolerance."
       },
       {
         "id": 25,
@@ -341,11 +341,11 @@
           "Yves Marchesseau"
         ],
         "reponse": "Anthony Laborde",
-        "anecdote": "En 2004, l'homme de 34 ans a integre l'equipe de « Fort Boyard » grace à l'un de ses amis, un certain Passe-Partout."
+        "anecdote": "En 2004, l homme de 34 ans a integre l equipe de « Fort Boyard » grace a l un de ses amis, un certain Passe-Partout."
       },
       {
         "id": 26,
-        "question": "Qui a ete sacre champion du monde du 50 km marche à Londres en 2017 ?",
+        "question": "Qui a ete sacre champion du monde du 50 km marche a Londres en 2017 ?",
         "propositions": [
           "Yohann Diniz",
           "Trond Nymark",
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Grace à quelle celebre actrice Meghan Markle est-elle devenue elle aussi comedienne ?",
+        "question": "Grace a quelle celebre actrice Meghan Markle est-elle devenue elle aussi comedienne ?",
         "propositions": [
           "Charlize Theron",
           "Emma Stone",
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "En août 2017, quel celebre bodybuildeur est mort etouffe à 26 ans ?",
+        "question": "En août 2017, quel celebre bodybuildeur est mort etouffe a 26 ans ?",
         "propositions": [
           "Jay Cutler",
           "Dallas McCarver",
@@ -389,11 +389,11 @@
           "Ronnie Coleman"
         ],
         "reponse": "Dallas McCarver",
-        "anecdote": "Une mort par etouffement selon Dana Brooke, qui a adresse à son cheri une emouvante lettre d'adieu sur Instagram."
+        "anecdote": "Une mort par etouffement selon Dana Brooke, qui a adresse a son cheri une emouvante lettre d adieu sur Instagram."
       },
       {
         "id": 30,
-        "question": "Quel chanteur francais va devoir rembourser 35 millions d'euros à une banque ?",
+        "question": "Quel chanteur francais va devoir rembourser 35 millions d euros a une banque ?",
         "propositions": [
           "Johnny Hallyday",
           "Eddy Mitchell",
@@ -429,7 +429,7 @@
           "Her 29 years"
         ],
         "reponse": "Her 49 years",
-        "anecdote": "Karine Le Marchand's real last name is Mfayokurera (often written M'Fayokurera by journalists)."
+        "anecdote": "Karine Le Marchand s real last name is Mfayokurera (often written M Fayokurera by journalists)."
       },
       {
         "id": 3,
@@ -457,7 +457,7 @@
       },
       {
         "id": 5,
-        "question": "Who was (finally) credited on John Lennon's « Imagine » tube ?",
+        "question": "Who was (finally) credited on John Lennon s « Imagine » tube ?",
         "propositions": [
           "Yoko Ono",
           "Maureen Cox",
@@ -525,7 +525,7 @@
           "Karl Albrecht"
         ],
         "reponse": "Mark Zuckerberg",
-        "anecdote": "Mark Zuckerberg has announced that he will take two months paternity leave to take advantage of his child's first steps."
+        "anecdote": "Mark Zuckerberg has announced that he will take two months paternity leave to take advantage of his child s first steps."
       }
     ],
     "confirme": [
@@ -539,7 +539,7 @@
           "Diana Jones"
         ],
         "reponse": "Sarah Fraisou",
-        "anecdote": "Malik's ex-girlfriend flew to Tunisia, her country of origin, putting her luggage in Hammamet."
+        "anecdote": "Malik s ex-girlfriend flew to Tunisia, her country of origin, putting her luggage in Hammamet."
       },
       {
         "id": 12,
@@ -587,7 +587,7 @@
           "Nancy Dowd"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "« Grey's Anatomy » creator Shonda Rhimes left ABC after more than fifteen years of successful business collaboration."
+        "anecdote": "« Grey s Anatomy » creator Shonda Rhimes left ABC after more than fifteen years of successful business collaboration."
       },
       {
         "id": 16,
@@ -797,7 +797,7 @@
           "Ihre 19 Jahre"
         ],
         "reponse": "Ihre 49 Jahre",
-        "anecdote": "Karine Le Marchands richtiger Nachname ist Mfayokurera (oft von Journalisten als M'Fayokurera geschrieben)."
+        "anecdote": "Karine Le Marchands richtiger Nachname ist Mfayokurera (oft von Journalisten als M Fayokurera geschrieben)."
       },
       {
         "id": 3,
@@ -1165,7 +1165,7 @@
           "Sus 39 años"
         ],
         "reponse": "Sus 49 años",
-        "anecdote": "El verdadero apellido de Karine Le Marchand es Mfayokurera (a menudo escrito M'Fayokurera por periodistas)."
+        "anecdote": "El verdadero apellido de Karine Le Marchand es Mfayokurera (a menudo escrito M Fayokurera por periodistas)."
       },
       {
         "id": 3,
@@ -1323,7 +1323,7 @@
           "Nancy Dowd"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "La creadora de « Grey's Anatomy », Shonda Rhimes, dejó ABC despues de más de quince años de exitosa colaboración comercial."
+        "anecdote": "La creadora de « Grey s Anatomy », Shonda Rhimes, dejó ABC despues de más de quince años de exitosa colaboración comercial."
       },
       {
         "id": 16,
@@ -1513,7 +1513,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quale attore delle riprese si e infortunato alla caviglia durante le acrobazie eseguite a Parigi nell'agosto 2017 ?",
+        "question": "Quale attore delle riprese si e infortunato alla caviglia durante le acrobazie eseguite a Parigi nell agosto 2017 ?",
         "propositions": [
           "Jason Statham",
           "Jean Reno",
@@ -1521,7 +1521,7 @@
           "Tom Cruise"
         ],
         "reponse": "Tom Cruise",
-        "anecdote": "Tom Cruise era presente a Parigi per dirigere le scene di « Mission Impossible 6 » che si svolgono nella città delle luci."
+        "anecdote": "Tom Cruise era presente a Parigi per dirigere le scene di « Mission Impossible 6 » che si svolgono nella citta delle luci."
       },
       {
         "id": 2,
@@ -1533,7 +1533,7 @@
           "I suoi 49 anni"
         ],
         "reponse": "I suoi 49 anni",
-        "anecdote": "Il vero cognome di Karine Le Marchand e Mfayokurera (spesso scritto dai giornalisti M'Fayokurera)."
+        "anecdote": "Il vero cognome di Karine Le Marchand e Mfayokurera (spesso scritto dai giornalisti M Fayokurera)."
       },
       {
         "id": 3,
@@ -1549,7 +1549,7 @@
       },
       {
         "id": 4,
-        "question": "Chi e diventato l'attrice piu pagata al mondo ad agosto 2017 ?",
+        "question": "Chi e diventato l attrice piu pagata al mondo ad agosto 2017 ?",
         "propositions": [
           "Emma Stone",
           "Jennifer Lawrence",
@@ -1569,7 +1569,7 @@
           "Cilla Black"
         ],
         "reponse": "Yoko Ono",
-        "anecdote": "46 anni dopo l'uscita di « Imagine », Yoko Ono diventa coautore: un riconoscimento ritenuto in ritardo per l'artista giapponese."
+        "anecdote": "46 anni dopo l uscita di « Imagine », Yoko Ono diventa coautore: un riconoscimento ritenuto in ritardo per l artista giapponese."
       },
       {
         "id": 6,
@@ -1581,11 +1581,11 @@
           "Serge Lama"
         ],
         "reponse": "Charles Aznavour",
-        "anecdote": "L'interprete di « La Boheme » si unisce a venti francesi o artisti francesi onorati sul lungomare."
+        "anecdote": "L interprete di « La Boheme » si unisce a venti francesi o artisti francesi onorati sul lungomare."
       },
       {
         "id": 7,
-        "question": "Chi e diventato l'attore piu pagato al mondo nel 2017 ?",
+        "question": "Chi e diventato l attore piu pagato al mondo nel 2017 ?",
         "propositions": [
           "Tom Cruise",
           "Jean Reno",
@@ -1593,7 +1593,7 @@
           "Jason Statham"
         ],
         "reponse": "Mark Wahlberg",
-        "anecdote": "Con $ 68 milioni guadagnati, e davanti a Dwayne Johnson, che era al primo posto l'anno scorso, così come a Emma Stone."
+        "anecdote": "Con $ 68 milioni guadagnati, e davanti a Dwayne Johnson, che era al primo posto l anno scorso, così come a Emma Stone."
       },
       {
         "id": 8,
@@ -1609,7 +1609,7 @@
       },
       {
         "id": 9,
-        "question": "Quante candele ha fatto Genevieve de Fontenay nell'agosto 2017 ?",
+        "question": "Quante candele ha fatto Genevieve de Fontenay nell agosto 2017 ?",
         "propositions": [
           "85",
           "55",
@@ -1617,7 +1617,7 @@
           "65"
         ],
         "reponse": "85",
-        "anecdote": "Il minimo che possiamo dire e che la signora con il cappello nata a Longwy nel 1932 sembra molto piu giovane della sua età."
+        "anecdote": "Il minimo che possiamo dire e che la signora con il cappello nata a Longwy nel 1932 sembra molto piu giovane della sua eta."
       },
       {
         "id": 10,
@@ -1629,13 +1629,13 @@
           "Stefan Persson"
         ],
         "reponse": "Mark Zuckerberg",
-        "anecdote": "Mark Zuckerberg ha annunciato che prenderà due mesi di congedo di paternità per trarre vantaggio dai primi passi di suo figlio."
+        "anecdote": "Mark Zuckerberg ha annunciato che prendera due mesi di congedo di paternita per trarre vantaggio dai primi passi di suo figlio."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Quale giovane celebrità prende il panico sul web con una coppa H su Instagram ?",
+        "question": "Quale giovane celebrita prende il panico sul web con una coppa H su Instagram ?",
         "propositions": [
           "Anaïs Camizuli",
           "Diana Jones",
@@ -1643,11 +1643,11 @@
           "Julie Ricci"
         ],
         "reponse": "Sarah Fraisou",
-        "anecdote": "L'ex ragazza di Malik e volata in Tunisia, il suo paese di origine, mettendo i suoi bagagli ad Hammamet."
+        "anecdote": "L ex ragazza di Malik e volata in Tunisia, il suo paese di origine, mettendo i suoi bagagli ad Hammamet."
       },
       {
         "id": 12,
-        "question": "Quale celebrità ha sposato Fred Cassin per la terza volta nel 2017 ?",
+        "question": "Quale celebrita ha sposato Fred Cassin per la terza volta nel 2017 ?",
         "propositions": [
           "Daphne Chollet",
           "Isabelle Giordano",
@@ -1655,7 +1655,7 @@
           "Cristina Cordula"
         ],
         "reponse": "Cristina Cordula",
-        "anecdote": "Dopo essersi sposata due volte, sull'isola di Capri ea Singapore, Cristina Cordula ha nuovamente sposato la sua compagna nella sua casa di Rio."
+        "anecdote": "Dopo essersi sposata due volte, sull isola di Capri ea Singapore, Cristina Cordula ha nuovamente sposato la sua compagna nella sua casa di Rio."
       },
       {
         "id": 13,
@@ -1667,11 +1667,11 @@
           "Maisie Williams"
         ],
         "reponse": "Sophie Turner",
-        "anecdote": "La star della serie rivela così il retro dell'arredamento e mette in risalto il lato oscuro dell'industria cinematografica."
+        "anecdote": "La star della serie rivela così il retro dell arredamento e mette in risalto il lato oscuro dell industria cinematografica."
       },
       {
         "id": 14,
-        "question": "Quale star della realtà ha semplicemente dichiarato : « I miei glutei sono belli » ?",
+        "question": "Quale star della realta ha semplicemente dichiarato : « I miei glutei sono belli » ?",
         "propositions": [
           "Barbara Moon",
           "Kim Glow",
@@ -1691,11 +1691,11 @@
           "Sara Hess"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "La creatrice di « Grey's Anatomy » Shonda Rhimes ha lasciato la ABC dopo oltre quindici anni di collaborazione commerciale di successo."
+        "anecdote": "La creatrice di « Grey s Anatomy » Shonda Rhimes ha lasciato la ABC dopo oltre quindici anni di collaborazione commerciale di successo."
       },
       {
         "id": 16,
-        "question": "Quale attrice ha formalizzato la sua storia d'amore con Darren Aronofsky nel 2017 ?",
+        "question": "Quale attrice ha formalizzato la sua storia d amore con Darren Aronofsky nel 2017 ?",
         "propositions": [
           "Cate Blanchett",
           "Emma Stone",
@@ -1707,7 +1707,7 @@
       },
       {
         "id": 17,
-        "question": "Con quale ex Top Chef Laury Thilleman fa l'amore perfetto ?",
+        "question": "Con quale ex Top Chef Laury Thilleman fa l amore perfetto ?",
         "propositions": [
           "Juan Arbelaez",
           "Gregory Cuilleron",
@@ -1719,7 +1719,7 @@
       },
       {
         "id": 18,
-        "question": "Quale cantante ha posato in topless nell'agosto 2017 per Paper Magazine ?",
+        "question": "Quale cantante ha posato in topless nell agosto 2017 per Paper Magazine ?",
         "propositions": [
           "Madonna",
           "Beyonce",
@@ -1727,7 +1727,7 @@
           "Mariah Carey"
         ],
         "reponse": "Mariah Carey",
-        "anecdote": "Mariah Carey ha un'eccezionale gamma vocale di cinque ottave e quattro note (Eb2-Bb7)."
+        "anecdote": "Mariah Carey ha un eccezionale gamma vocale di cinque ottave e quattro note (Eb2-Bb7)."
       },
       {
         "id": 19,
@@ -1743,7 +1743,7 @@
       },
       {
         "id": 20,
-        "question": "Quale uomo c'e dietro la metamorfosi fisica di Celine Dion ?",
+        "question": "Quale uomo c e dietro la metamorfosi fisica di Celine Dion ?",
         "propositions": [
           "Marc Jacobs",
           "Hedi Slimane",
@@ -1765,7 +1765,7 @@
           "Plutone"
         ],
         "reponse": "Nemo",
-        "anecdote": "La coppia presidenziale ha infatti adottato alla SPA nell'agosto 2017 un crossover griffin / labrador nero che hanno battezzato Nemo."
+        "anecdote": "La coppia presidenziale ha infatti adottato alla SPA nell agosto 2017 un crossover griffin / labrador nero che hanno battezzato Nemo."
       },
       {
         "id": 22,
@@ -1789,11 +1789,11 @@
           "Harry"
         ],
         "reponse": "Stefano",
-        "anecdote": "Nata ragazza, desiderosa di diventare un uomo, Stephen e diventata una delle voci della comunità transgender negli Stati Uniti."
+        "anecdote": "Nata ragazza, desiderosa di diventare un uomo, Stephen e diventata una delle voci della comunita transgender negli Stati Uniti."
       },
       {
         "id": 24,
-        "question": "Quale modello con la vitiligine ha l'amore di se su Instagram ?",
+        "question": "Quale modello con la vitiligine ha l amore di se su Instagram ?",
         "propositions": [
           "Rebecca Heckard",
           "Olivia Palermo",
@@ -1837,7 +1837,7 @@
           "Emma Stone"
         ],
         "reponse": "Julia Roberts",
-        "anecdote": "L'8 novembre 2016, e stato annunciato ufficialmente che Meghan Markle e diventata la fidanzata del principe Enrico del Galles."
+        "anecdote": "L 8 novembre 2016, e stato annunciato ufficialmente che Meghan Markle e diventata la fidanzata del principe Enrico del Galles."
       },
       {
         "id": 28,
@@ -1853,7 +1853,7 @@
       },
       {
         "id": 29,
-        "question": "Nell'agosto 2017, quale famoso culturista e morto soffocato a 26 anni ?",
+        "question": "Nell agosto 2017, quale famoso culturista e morto soffocato a 26 anni ?",
         "propositions": [
           "Ronnie Coleman",
           "Phil Heath",
@@ -1861,11 +1861,11 @@
           "Dallas McCarver"
         ],
         "reponse": "Dallas McCarver",
-        "anecdote": "La morte per soffocamento secondo Dana Brooke, che ha inviato a lei cara una commovente lettera d'addio su Instagram."
+        "anecdote": "La morte per soffocamento secondo Dana Brooke, che ha inviato a lei cara una commovente lettera d addio su Instagram."
       },
       {
         "id": 30,
-        "question": "Quale cantante francese dovrà rimborsare 35 milioni di euro a una banca ?",
+        "question": "Quale cantante francese dovra rimborsare 35 milioni di euro a una banca ?",
         "propositions": [
           "Enrico Macias",
           "Eddy Mitchell",
@@ -1901,7 +1901,7 @@
           "Haar 19 jaar"
         ],
         "reponse": "Haar 49 jaar",
-        "anecdote": "De echte achternaam van Karine Le Marchand is Mfayokurera (vaak geschreven door journalisten M'Fayokurera)."
+        "anecdote": "De echte achternaam van Karine Le Marchand is Mfayokurera (vaak geschreven door journalisten M Fayokurera)."
       },
       {
         "id": 3,
@@ -1913,7 +1913,7 @@
           "Hilary Swank"
         ],
         "reponse": "Charlize Theron",
-        "anecdote": "In 1999 maakte Charlize Theron de voorpagina van het beroemde tijdschrift Vanity Fair en die van Playboy, met verschillende naakte foto's."
+        "anecdote": "In 1999 maakte Charlize Theron de voorpagina van het beroemde tijdschrift Vanity Fair en die van Playboy, met verschillende naakte foto s."
       },
       {
         "id": 4,
@@ -2059,7 +2059,7 @@
           "Nancy Dowd"
         ],
         "reponse": "Shonda Rhimes",
-        "anecdote": "« Grey's Anatomy » maker Shonda Rhimes verliet ABC na meer dan vijftien jaar succesvolle samenwerking tussen bedrijven."
+        "anecdote": "« Grey s Anatomy » maker Shonda Rhimes verliet ABC na meer dan vijftien jaar succesvolle samenwerking tussen bedrijven."
       },
       {
         "id": 16,

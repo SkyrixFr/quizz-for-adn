@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2021-03-23",
+  "mise-a-jour": "2021-03-23",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Gastronomie",
@@ -49,7 +49,7 @@
           "Petit chevre"
         ],
         "reponse": "Belle des Champs",
-        "anecdote": "Ce fromage à pate molle et à croûte fleurie, de forme cylindrique, pese environ deux kilogrammes."
+        "anecdote": "Ce fromage a pate molle et a croûte fleurie, de forme cylindrique, pese environ deux kilogrammes."
       },
       {
         "id": 2,
@@ -73,7 +73,7 @@
           "Reblochon"
         ],
         "reponse": "Boursin",
-        "anecdote": "On ajoute aux laits de vache melanges et pasteurises de la creme et un melange d'ail et de fines herbes."
+        "anecdote": "On ajoute aux laits de vache melanges et pasteurises de la creme et un melange d ail et de fines herbes."
       },
       {
         "id": 4,
@@ -109,7 +109,7 @@
           "Brie"
         ],
         "reponse": "Emmental",
-        "anecdote": "Ce fromage suisse à pate dure doit son nom à la vallee de l'Emme, une region à l'est du canton de Berne."
+        "anecdote": "Ce fromage suisse a pate dure doit son nom a la vallee de l Emme, une region a l est du canton de Berne."
       },
       {
         "id": 7,
@@ -121,11 +121,11 @@
           "Le gruyere"
         ],
         "reponse": "Le gruyere",
-        "anecdote": "Le gruyere fait partie de la meme famille que le comte, qui s'appelait à l'origine « gruyere de comte »."
+        "anecdote": "Le gruyere fait partie de la meme famille que le comte, qui s appelait a l origine « gruyere de comte »."
       },
       {
         "id": 8,
-        "question": "Quel fromage a connu son heure de gloire suite à un film de Dany Boon ?",
+        "question": "Quel fromage a connu son heure de gloire suite a un film de Dany Boon ?",
         "propositions": [
           "Le brie",
           "Le gruyere",
@@ -133,7 +133,7 @@
           "Le maroilles"
         ],
         "reponse": "Le maroilles",
-        "anecdote": "Le film expose ainsi la pratique habituelle qu'auraient les habitants de tremper du maroilles dans leur cafe."
+        "anecdote": "Le film expose ainsi la pratique habituelle qu auraient les habitants de tremper du maroilles dans leur cafe."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Le maroilles"
         ],
         "reponse": "Le petit-suisse ",
-        "anecdote": "Le petit-suisse sert egalement à farcir les viandes (volaille) ou à les recouvrir (lapin)."
+        "anecdote": "Le petit-suisse sert egalement a farcir les viandes (volaille) ou a les recouvrir (lapin)."
       },
       {
         "id": 10,
@@ -171,7 +171,7 @@
           "Le morbier"
         ],
         "reponse": "Le beaufort",
-        "anecdote": "Le beaufort, beneficiant d'une appellation d'origine protegee, est moule en forme de meule à talon legerement concave."
+        "anecdote": "Le beaufort, beneficiant d une appellation d origine protegee, est moule en forme de meule a talon legerement concave."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Petit-suisse"
         ],
         "reponse": "Époisses",
-        "anecdote": "L'epoisses est egalement vendu à la coupe par les fromagers et les maraîchers."
+        "anecdote": "L epoisses est egalement vendu a la coupe par les fromagers et les maraîchers."
       },
       {
         "id": 13,
@@ -195,11 +195,11 @@
           "Le mouflon"
         ],
         "reponse": "La Mimolette vieille",
-        "anecdote": "Sa periode de degustation jugee optimale s'etale d'avril à septembre apres un affinage de 12 à 18 mois."
+        "anecdote": "Sa periode de degustation jugee optimale s etale d avril a septembre apres un affinage de 12 a 18 mois."
       },
       {
         "id": 14,
-        "question": "Quel fromage doit son nom à un terme savoyard qui signifie traire une deuxieme fois ?",
+        "question": "Quel fromage doit son nom a un terme savoyard qui signifie traire une deuxieme fois ?",
         "propositions": [
           "Emmental",
           "Gruyere",
@@ -211,7 +211,7 @@
       },
       {
         "id": 15,
-        "question": "Quel fromage à pate persillee est elabore avec des laits crus de brebis ?",
+        "question": "Quel fromage a pate persillee est elabore avec des laits crus de brebis ?",
         "propositions": [
           "Beaufort",
           "Munster",
@@ -219,11 +219,11 @@
           "Brie"
         ],
         "reponse": "Roquefort",
-        "anecdote": "De reputation internationale, le roquefort est associe à l'excellence de l'agriculture francaise et à sa gastronomie."
+        "anecdote": "De reputation internationale, le roquefort est associe a l excellence de l agriculture francaise et a sa gastronomie."
       },
       {
         "id": 16,
-        "question": "Quel fromage à la pate onctueuse doit sa renommee à son goût de noisette ?",
+        "question": "Quel fromage a la pate onctueuse doit sa renommee a son goût de noisette ?",
         "propositions": [
           "Roquefort",
           "Époisses",
@@ -231,7 +231,7 @@
           "Saint-nectaire"
         ],
         "reponse": "Saint-nectaire",
-        "anecdote": "Fromage paysan, fabrique bien souvent par les femmes, le saint-nectaire fut appele jusqu'au XVIIe siecle « fromage de seigle »."
+        "anecdote": "Fromage paysan, fabrique bien souvent par les femmes, le saint-nectaire fut appele jusqu au XVIIe siecle « fromage de seigle »."
       },
       {
         "id": 17,
@@ -243,11 +243,11 @@
           "Le marsouin"
         ],
         "reponse": "Le dauphin",
-        "anecdote": "Aujourd'hui, les agriculteurs emploient majoritairement des formes carrees, rectangulaires ou en losange pour des raisons de coûts."
+        "anecdote": "Aujourd hui, les agriculteurs emploient majoritairement des formes carrees, rectangulaires ou en losange pour des raisons de coûts."
       },
       {
         "id": 18,
-        "question": "Quel fromage possede un coeur sucre et fruite dû à sa garniture de figues ?",
+        "question": "Quel fromage possede un coeur sucre et fruite dû a sa garniture de figues ?",
         "propositions": [
           "Petit chevre",
           "Saint-nectaire",
@@ -267,7 +267,7 @@
           "Le saint-julien"
         ],
         "reponse": "Le saint-marcellin",
-        "anecdote": "Ce petit fromage à base de lait de vache est realise avec le lait provenant de 274 communes."
+        "anecdote": "Ce petit fromage a base de lait de vache est realise avec le lait provenant de 274 communes."
       },
       {
         "id": 20,
@@ -279,13 +279,13 @@
           "La rigotte"
         ],
         "reponse": "La tomme de Savoie",
-        "anecdote": "La tomme de Savoie fut à l'origine elaboree par les familles paysannes pour leur subsistance."
+        "anecdote": "La tomme de Savoie fut a l origine elaboree par les familles paysannes pour leur subsistance."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quel fromage francais est moule en forme de meule à talon legerement concave ?",
+        "question": "Quel fromage francais est moule en forme de meule a talon legerement concave ?",
         "propositions": [
           "Livernon",
           "Reblochon",
@@ -293,7 +293,7 @@
           "Beaufort"
         ],
         "reponse": "Beaufort",
-        "anecdote": "Autrefois, le beaufort representait une production importante, mais il a paye un lourd tribut à l'exode rural et à son coût de production."
+        "anecdote": "Autrefois, le beaufort representait une production importante, mais il a paye un lourd tribut a l exode rural et a son coût de production."
       },
       {
         "id": 22,
@@ -321,7 +321,7 @@
       },
       {
         "id": 24,
-        "question": "Quel fromage est cercle de trois à cinq bandelettes sechees et decoupees ?",
+        "question": "Quel fromage est cercle de trois a cinq bandelettes sechees et decoupees ?",
         "propositions": [
           "Le fedou",
           "Le livarot",
@@ -329,11 +329,11 @@
           "Le montbriac"
         ],
         "reponse": "Le livarot",
-        "anecdote": "Ces bandes, qui servaient à la bonne tenue du fromage lors de l'affinage, sont à l'origine du surnom de « colonel » du fromage."
+        "anecdote": "Ces bandes, qui servaient a la bonne tenue du fromage lors de l affinage, sont a l origine du surnom de « colonel » du fromage."
       },
       {
         "id": 25,
-        "question": "Quel fromage francais possede une fine couche de cendre à la saveur douce et fruitee ?",
+        "question": "Quel fromage francais possede une fine couche de cendre a la saveur douce et fruitee ?",
         "propositions": [
           "Le vachard",
           "Le trou du Cru",
@@ -341,7 +341,7 @@
           "Le morbier"
         ],
         "reponse": "Le morbier",
-        "anecdote": "Morbier est une appellation d'origine designant un fromage de lait cru de vache, fabrique dans le massif du Jura en France."
+        "anecdote": "Morbier est une appellation d origine designant un fromage de lait cru de vache, fabrique dans le massif du Jura en France."
       },
       {
         "id": 26,
@@ -365,7 +365,7 @@
           "200"
         ],
         "reponse": "400",
-        "anecdote": "Le cantal est protege par une appellation d'origine contrôlee en France et par une AOP au niveau europeen."
+        "anecdote": "Le cantal est protege par une appellation d origine contrôlee en France et par une AOP au niveau europeen."
       },
       {
         "id": 28,
@@ -389,7 +389,7 @@
           "Le barousse"
         ],
         "reponse": "Le barousse",
-        "anecdote": "Le barousse est une pate à trous qui pendant les deux premieres semaines est lave, essuye et retourne tous les jours."
+        "anecdote": "Le barousse est une pate a trous qui pendant les deux premieres semaines est lave, essuye et retourne tous les jours."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "La figuette"
         ],
         "reponse": "Le Cure nantais",
-        "anecdote": "Sa recette aurait ete transmise au XIXe siecle à Saint-Julien-de-Concelles dans le vignoble nantais par un cure de passage."
+        "anecdote": "Sa recette aurait ete transmise au XIXe siecle a Saint-Julien-de-Concelles dans le vignoble nantais par un cure de passage."
       }
     ]
     },
@@ -429,7 +429,7 @@
           "Chavroux"
         ],
         "reponse": "Babybel",
-        "anecdote": "The classic version of this cheese is made from cow's milk (98%), salt, lactic ferments and coagulant."
+        "anecdote": "The classic version of this cheese is made from cow s milk (98%), salt, lactic ferments and coagulant."
       },
       {
         "id": 3,
@@ -441,7 +441,7 @@
           "Boursin"
         ],
         "reponse": "Boursin",
-        "anecdote": "Mixed and pasteurized cow's milk is added to cream and a mixture of garlic and herbs."
+        "anecdote": "Mixed and pasteurized cow s milk is added to cream and a mixture of garlic and herbs."
       },
       {
         "id": 4,
@@ -579,7 +579,7 @@
       },
       {
         "id": 15,
-        "question": "Which blue cheese is made with raw sheep's milk ?",
+        "question": "Which blue cheese is made with raw sheep s milk ?",
         "propositions": [
           "The brie",
           "Roquefort",
@@ -635,7 +635,7 @@
           "The Saint-Marcellin"
         ],
         "reponse": "The Saint-Marcellin",
-        "anecdote": "This small cheese made from cow's milk is made with milk from 274 municipalities."
+        "anecdote": "This small cheese made from cow s milk is made with milk from 274 municipalities."
       },
       {
         "id": 20,
@@ -709,7 +709,7 @@
           "The cowboy"
         ],
         "reponse": "Morbier",
-        "anecdote": "Morbier is an appellation of origin designating a cheese made from raw cow's milk, made in the Jura massif in France."
+        "anecdote": "Morbier is an appellation of origin designating a cheese made from raw cow s milk, made in the Jura massif in France."
       },
       {
         "id": 26,
@@ -737,7 +737,7 @@
       },
       {
         "id": 28,
-        "question": "Which cow's milk cheese is called gerome in Lorraine ?",
+        "question": "Which cow s milk cheese is called gerome in Lorraine ?",
         "propositions": [
           "Le trou du Cru",
           "The munster",
@@ -1549,7 +1549,7 @@
       },
       {
         "id": 4,
-        "question": "Quale formaggio e famoso nella città di Meaux in Francia ?",
+        "question": "Quale formaggio e famoso nella citta di Meaux in Francia ?",
         "propositions": [
           "Il brie",
           "Gruyere",
@@ -1557,7 +1557,7 @@
           "Il cantal"
         ],
         "reponse": "Il brie",
-        "anecdote": "Il suo nome deriva dalla regione di Brie e dalla città di Meaux in Francia."
+        "anecdote": "Il suo nome deriva dalla regione di Brie e dalla citta di Meaux in Francia."
       },
       {
         "id": 5,
@@ -1569,7 +1569,7 @@
           "La contea"
         ],
         "reponse": "La contea",
-        "anecdote": "Con una produzione di 60.000 tonnellate all'anno, ci vogliono circa 450 litri di latte per produrre una ruota della contea."
+        "anecdote": "Con una produzione di 60.000 tonnellate all anno, ci vogliono circa 450 litri di latte per produrre una ruota della contea."
       },
       {
         "id": 6,
@@ -1581,11 +1581,11 @@
           "Brie"
         ],
         "reponse": "Emmental",
-        "anecdote": "Questo formaggio svizzero a pasta dura deve il suo nome alla valle dell'Emme, una regione a est del cantone di Berna."
+        "anecdote": "Questo formaggio svizzero a pasta dura deve il suo nome alla valle dell Emme, una regione a est del cantone di Berna."
       },
       {
         "id": 7,
-        "question": "L'impasto di quale formaggio francese deve avere dei buchi a causa del suo nome ?",
+        "question": "L impasto di quale formaggio francese deve avere dei buchi a causa del suo nome ?",
         "propositions": [
           "La figuette",
           "Le pecore",
@@ -1691,7 +1691,7 @@
           "Beaufort"
         ],
         "reponse": "Roquefort",
-        "anecdote": "Rinomato a livello internazionale, Roquefort e associato all'eccellenza dell'agricoltura francese e della sua gastronomia."
+        "anecdote": "Rinomato a livello internazionale, Roquefort e associato all eccellenza dell agricoltura francese e della sua gastronomia."
       },
       {
         "id": 16,
@@ -1727,7 +1727,7 @@
           "Figou"
         ],
         "reponse": "Figou",
-        "anecdote": "Questo formaggio fondente, dal gusto molto fresco e sapido, non ha però un'etichetta."
+        "anecdote": "Questo formaggio fondente, dal gusto molto fresco e sapido, non ha però un etichetta."
       },
       {
         "id": 19,
@@ -1765,7 +1765,7 @@
           "Beaufort"
         ],
         "reponse": "Beaufort",
-        "anecdote": "In precedenza, Beaufort rappresentava una produzione importante, ma pagava un prezzo pesante all'esodo rurale e al suo costo di produzione."
+        "anecdote": "In precedenza, Beaufort rappresentava una produzione importante, ma pagava un prezzo pesante all esodo rurale e al suo costo di produzione."
       },
       {
         "id": 22,
@@ -1801,7 +1801,7 @@
           "Il fedou"
         ],
         "reponse": "Il livarot",
-        "anecdote": "Queste strisce, che servivano per conservare bene il formaggio durante la stagionatura, sono l'origine del soprannome di colonnello del formaggio."
+        "anecdote": "Queste strisce, che servivano per conservare bene il formaggio durante la stagionatura, sono l origine del soprannome di colonnello del formaggio."
       },
       {
         "id": 25,
@@ -1825,7 +1825,7 @@
           "Il livarot"
         ],
         "reponse": "Il Laguiole",
-        "anecdote": "Laguiole e quasi scomparsa a metà del XX secolo, a causa dei prezzi elevati dei suoi metodi di produzione."
+        "anecdote": "Laguiole e quasi scomparsa a meta del XX secolo, a causa dei prezzi elevati dei suoi metodi di produzione."
       },
       {
         "id": 27,
@@ -2137,7 +2137,7 @@
       },
       {
         "id": 22,
-        "question": "Welke tripelroomkaas wordt geproduceerd in de regio's Normandia en Bourgondia ?",
+        "question": "Welke tripelroomkaas wordt geproduceerd in de regio s Normandia en Bourgondia ?",
         "propositions": [
           "Pelardon",
           "Brillat-savarin",

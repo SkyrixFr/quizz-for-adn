@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Animaux",
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "À quelle classe d'animaux vertebres regroupant pres de 5.400 especes appartient le chat ?",
+        "question": "À quelle classe d animaux vertebres regroupant pres de 5.400 especes appartient le chat ?",
         "propositions": [
           "Mammiferes",
           "Oiseaux",
@@ -49,7 +49,7 @@
           "Reptiles"
         ],
         "reponse": "Mammiferes",
-        "anecdote": "De nombreux mammiferes eleves par l'homme jusqu'au XIXeme siecle ont disparu ou ont fortement regresse."
+        "anecdote": "De nombreux mammiferes eleves par l homme jusqu au XIXeme siecle ont disparu ou ont fortement regresse."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Effraye"
         ],
         "reponse": "Effraye",
-        "anecdote": "Si un chat fait une chute de deux metres et plus, alors qu'il est sur le dos, il peut se retourner afin d'amortir cette chute."
+        "anecdote": "Si un chat fait une chute de deux metres et plus, alors qu il est sur le dos, il peut se retourner afin d amortir cette chute."
       },
       {
         "id": 3,
@@ -85,7 +85,7 @@
           "Afrique"
         ],
         "reponse": "Asie",
-        "anecdote": "Ce felin a laisse son empreinte dans la culture populaire au travers d'expressions et de representations diverses."
+        "anecdote": "Ce felin a laisse son empreinte dans la culture populaire au travers d expressions et de representations diverses."
       },
       {
         "id": 5,
@@ -97,7 +97,7 @@
           "Trois"
         ],
         "reponse": "Cinq",
-        "anecdote": "Le chat possede cinq doigts aux pattes anterieures, dont seulement quatre touchent le sol, le pouce restant à l'ecart."
+        "anecdote": "Le chat possede cinq doigts aux pattes anterieures, dont seulement quatre touchent le sol, le pouce restant a l ecart."
       },
       {
         "id": 6,
@@ -109,11 +109,11 @@
           "Le belement"
         ],
         "reponse": "Le miaulement",
-        "anecdote": "Par contre, au contact de l'humain, le chat continue souvent à utiliser differentes vocalises pour communiquer."
+        "anecdote": "Par contre, au contact de l humain, le chat continue souvent a utiliser differentes vocalises pour communiquer."
       },
       {
         "id": 7,
-        "question": "Lequel de ces chats est le seul à avoir des poils longs ?",
+        "question": "Lequel de ces chats est le seul a avoir des poils longs ?",
         "propositions": [
           "Abyssin",
           "Siamois",
@@ -121,7 +121,7 @@
           "Chartreux"
         ],
         "reponse": "Angora",
-        "anecdote": "L'angora turc est caracterise par sa robe à poils mi-longs tres soyeuse et sans sous-poils."
+        "anecdote": "L angora turc est caracterise par sa robe a poils mi-longs tres soyeuse et sans sous-poils."
       },
       {
         "id": 8,
@@ -133,11 +133,11 @@
           "Les felides"
         ],
         "reponse": "Les felides",
-        "anecdote": "Parmi leurs traits caracteristiques figurent leur tete ronde au crane raccourci, leur machoire à trente dents et leurs griffes retractiles."
+        "anecdote": "Parmi leurs traits caracteristiques figurent leur tete ronde au crane raccourci, leur machoire a trente dents et leurs griffes retractiles."
       },
       {
         "id": 9,
-        "question": "Quelle manifestation sonore du chat aurait un effet relaxant sur l'homme ?",
+        "question": "Quelle manifestation sonore du chat aurait un effet relaxant sur l homme ?",
         "propositions": [
           "Meuglement",
           "Bourdonnement",
@@ -145,7 +145,7 @@
           "Roucoulement"
         ],
         "reponse": "Ronronnement",
-        "anecdote": "Produit à l'expiration comme à l'inspiration, ce son de basse frequence apparaît des l'age de deux jours."
+        "anecdote": "Produit a l expiration comme a l inspiration, ce son de basse frequence apparaît des l age de deux jours."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Insectivore"
         ],
         "reponse": "Carnivore",
-        "anecdote": "Tous les mammiferes carnassiers ne sont pas forcement membres de l'ordre des carnivores."
+        "anecdote": "Tous les mammiferes carnassiers ne sont pas forcement membres de l ordre des carnivores."
       }
     ],
     "confirme": [
@@ -171,11 +171,11 @@
           "Les barbules"
         ],
         "reponse": "Les vibrisses",
-        "anecdote": "Chez l'Homme, les vibrisses designent les poils à l'interieur des narines et sous les bras."
+        "anecdote": "Chez l Homme, les vibrisses designent les poils a l interieur des narines et sous les bras."
       },
       {
         "id": 12,
-        "question": "Combien pese environ un chaton à la naissance, soumis à un elevage communautaire ?",
+        "question": "Combien pese environ un chaton a la naissance, soumis a un elevage communautaire ?",
         "propositions": [
           "300 g",
           "700 g",
@@ -183,11 +183,11 @@
           "100 g"
         ],
         "reponse": "100 g",
-        "anecdote": "En cas de disparition d'une des meres, les chatons orphelins sont ainsi eleves par les autres femelles."
+        "anecdote": "En cas de disparition d une des meres, les chatons orphelins sont ainsi eleves par les autres femelles."
       },
       {
         "id": 13,
-        "question": "Bien que n'etant pas un coureur de fond, quelle vitesse maximale peut atteindre un chat ?",
+        "question": "Bien que n etant pas un coureur de fond, quelle vitesse maximale peut atteindre un chat ?",
         "propositions": [
           "50 Km/h",
           "110 Km/h",
@@ -207,7 +207,7 @@
           "Neuf semaines"
         ],
         "reponse": "Neuf semaines",
-        "anecdote": "Le ventre de la chatte commence à gonfler vers 4 semaines et à environ 35 jours, les mamelles grossissent et rosissent."
+        "anecdote": "Le ventre de la chatte commence a gonfler vers 4 semaines et a environ 35 jours, les mamelles grossissent et rosissent."
       },
       {
         "id": 15,
@@ -219,11 +219,11 @@
           "50"
         ],
         "reponse": "50",
-        "anecdote": "Dans de nombreux pays, le chat entre dans le cadre de la legislation sur les carnivores domestiques à l'instar du chien et du furet."
+        "anecdote": "Dans de nombreux pays, le chat entre dans le cadre de la legislation sur les carnivores domestiques a l instar du chien et du furet."
       },
       {
         "id": 16,
-        "question": "De combien d'os est compose le squelette du chat, à la fois axial et appendiculaire ?",
+        "question": "De combien d os est compose le squelette du chat, a la fois axial et appendiculaire ?",
         "propositions": [
           "220",
           "250",
@@ -231,7 +231,7 @@
           "160"
         ],
         "reponse": "250",
-        "anecdote": "Les vertebres du cou du chat sont courtes et sa colonne vertebrale est quant à elle tres souple."
+        "anecdote": "Les vertebres du cou du chat sont courtes et sa colonne vertebrale est quant a elle tres souple."
       },
       {
         "id": 17,
@@ -243,7 +243,7 @@
           "15 secondes"
         ],
         "reponse": "9 secondes",
-        "anecdote": "Les specificites de l'anatomie du chat conferent à cet animal une grande souplesse et une detente ample lors des sauts."
+        "anecdote": "Les specificites de l anatomie du chat conferent a cet animal une grande souplesse et une detente ample lors des sauts."
       },
       {
         "id": 18,
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "question": "Quel chat est le seul à etre caracterise par la quasi-absence de sa fourrure ?",
+        "question": "Quel chat est le seul a etre caracterise par la quasi-absence de sa fourrure ?",
         "propositions": [
           "Le siamois",
           "Le sphynx",
@@ -267,11 +267,11 @@
           "Le maine coon"
         ],
         "reponse": "Le sphynx",
-        "anecdote": "C'est en 1966 au Canada qu'une chatte de gouttiere donna naissance à une portee de chatons nus."
+        "anecdote": "C est en 1966 au Canada qu une chatte de gouttiere donna naissance a une portee de chatons nus."
       },
       {
         "id": 20,
-        "question": "Combien le chat a-t-il de griffes, sujettes à une pousse continue suite à une usure naturelle ?",
+        "question": "Combien le chat a-t-il de griffes, sujettes a une pousse continue suite a une usure naturelle ?",
         "propositions": [
           "22",
           "18",
@@ -293,7 +293,7 @@
           "35 %"
         ],
         "reponse": "5 %",
-        "anecdote": "Si votre animal est un chat de race, il doit posseder un pedigree ou avoir fait l'objet d'une demande specifique."
+        "anecdote": "Si votre animal est un chat de race, il doit posseder un pedigree ou avoir fait l objet d une demande specifique."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "Viking"
         ],
         "reponse": "Égyptienne",
-        "anecdote": "Bastet est l'une des deesses les plus discretes du pantheon egyptien et n'est jamais representee."
+        "anecdote": "Bastet est l une des deesses les plus discretes du pantheon egyptien et n est jamais representee."
       },
       {
         "id": 23,
@@ -317,7 +317,7 @@
           "De queue"
         ],
         "reponse": "De queue",
-        "anecdote": "La mutation du gene s'est developpee sur l'île de Man à cause de l'isolement des chats et de la trop forte consanguinite."
+        "anecdote": "La mutation du gene s est developpee sur l île de Man a cause de l isolement des chats et de la trop forte consanguinite."
       },
       {
         "id": 24,
@@ -341,11 +341,11 @@
           "Greffier"
         ],
         "reponse": "Greffier",
-        "anecdote": "Deux explications s'opposent : le jeu de mot sur « griffe » ainsi que la fourrure de certains chats evoquant la robe des greffiers."
+        "anecdote": "Deux explications s opposent : le jeu de mot sur « griffe » ainsi que la fourrure de certains chats evoquant la robe des greffiers."
       },
       {
         "id": 26,
-        "question": "À quel gene de l'absence de pigment dans le poil est lie la surdite des chats blancs ?",
+        "question": "À quel gene de l absence de pigment dans le poil est lie la surdite des chats blancs ?",
         "propositions": [
           "Gene W",
           "Gene Z",
@@ -353,7 +353,7 @@
           "Gene X"
         ],
         "reponse": "Gene W",
-        "anecdote": "Il est en effet demontre que l'allele W est directement responsable d'une degenerescence de l'oreille interne, occasionnant la surdite."
+        "anecdote": "Il est en effet demontre que l allele W est directement responsable d une degenerescence de l oreille interne, occasionnant la surdite."
       },
       {
         "id": 27,
@@ -365,11 +365,11 @@
           "253 degres"
         ],
         "reponse": "287 degres",
-        "anecdote": "L'angle de vision binoculaire est de 130°, pour un champ de vision total de 287°, contre seulement 180° chez l'homme."
+        "anecdote": "L angle de vision binoculaire est de 130°, pour un champ de vision total de 287°, contre seulement 180° chez l homme."
       },
       {
         "id": 28,
-        "question": "Comment appelle-t-on un chat domestique qui retourne à l'etat sauvage ?",
+        "question": "Comment appelle-t-on un chat domestique qui retourne a l etat sauvage ?",
         "propositions": [
           "Chartreux",
           "Ragdoll",
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quel ecclesiastique et homme d'État possedait 14 chats à sa mort ?",
+        "question": "Quel ecclesiastique et homme d État possedait 14 chats a sa mort ?",
         "propositions": [
           "Colbert",
           "Napoleon",
@@ -389,11 +389,11 @@
           "Louis XV"
         ],
         "reponse": "Richelieu",
-        "anecdote": "Pour l'anecdote, le Cardinal de Richelieu a contribue à faire considerer les chats comme animaux de compagnie."
+        "anecdote": "Pour l anecdote, le Cardinal de Richelieu a contribue a faire considerer les chats comme animaux de compagnie."
       },
       {
         "id": 30,
-        "question": "Comment s'appelle le chat du « Chat qui parlait malgre lui » de Claude Roy ?",
+        "question": "Comment s appelle le chat du « Chat qui parlait malgre lui » de Claude Roy ?",
         "propositions": [
           "Titus",
           "Chaminou",
@@ -401,7 +401,7 @@
           "Gaspard"
         ],
         "reponse": "Gaspard",
-        "anecdote": "Claude Roy, ne et mort à Paris, etait un poete, journaliste et ecrivain francais."
+        "anecdote": "Claude Roy, ne et mort a Paris, etait un poete, journaliste et ecrivain francais."
       }
     ]
     }

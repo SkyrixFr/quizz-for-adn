@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : juin 2017",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: giugno 2017",
       "slogan": "Hanno fatto notizia"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Des mains de qui Anne-Elisabeth Lemoine a-t-elle recu les cles de l'emission « C à Vous » ?",
+        "question": "Des mains de qui Anne-Elisabeth Lemoine a-t-elle recu les cles de l emission « C a Vous » ?",
         "propositions": [
           "Alessandra Sublet",
           "Julie Andrieu",
@@ -49,11 +49,11 @@
           "Anne-Sophie Lapix"
         ],
         "reponse": "Anne-Sophie Lapix",
-        "anecdote": "Le 12 juin 2017, Anne-Sophie Lapix a eu ce geste tres symbolique envers celle qui va lui succeder à la presentation de l'emission."
+        "anecdote": "Le 12 juin 2017, Anne-Sophie Lapix a eu ce geste tres symbolique envers celle qui va lui succeder a la presentation de l emission."
       },
       {
         "id": 2,
-        "question": "Quel animateur francais s'est montre « À l'etat sauvage » en juin 2017 ?",
+        "question": "Quel animateur francais s est montre « À l etat sauvage » en juin 2017 ?",
         "propositions": [
           "T. Ardisson",
           "S. Bern",
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "Quel poulain de M. Pokora a remporte la saison 6 de l'emission televisee « The Voice » ?",
+        "question": "Quel poulain de M. Pokora a remporte la saison 6 de l emission televisee « The Voice » ?",
         "propositions": [
           "Marius",
           "Lisandro Cuxi",
@@ -85,7 +85,7 @@
           "Ses 60 ans"
         ],
         "reponse": "Ses 50 ans",
-        "anecdote": "Un anniversaire que Denis Brogniart a souhaite marquer en rendant hommage à son pere, decede avant d'atteindre ce meme cap."
+        "anecdote": "Un anniversaire que Denis Brogniart a souhaite marquer en rendant hommage a son pere, decede avant d atteindre ce meme cap."
       },
       {
         "id": 5,
@@ -97,11 +97,11 @@
           "Bethune"
         ],
         "reponse": "Le Touquet",
-        "anecdote": "Pour feter le centieme anniversaire de la station le 28 mars 2012, la municipalite a cherche à en faire la station de l'elegance."
+        "anecdote": "Pour feter le centieme anniversaire de la station le 28 mars 2012, la municipalite a cherche a en faire la station de l elegance."
       },
       {
         "id": 6,
-        "question": "Qui a ete imperial à Roland-Garros en 2017, devant sa cherie et sa jolie petite soeur ?",
+        "question": "Qui a ete imperial a Roland-Garros en 2017, devant sa cherie et sa jolie petite soeur ?",
         "propositions": [
           "Rafael Nadal",
           "Roger Federer",
@@ -121,23 +121,23 @@
           "Sophie Davant"
         ],
         "reponse": "Cristina Cordula",
-        "anecdote": "La reine du shopping, qui vient d'epouser son compagnon, en profite pour donner des conseils pour reussir son mariage."
+        "anecdote": "La reine du shopping, qui vient d epouser son compagnon, en profite pour donner des conseils pour reussir son mariage."
       },
       {
         "id": 8,
-        "question": "Qui a succede à Laurie Cholewa aux commandes de l'animation de « Nouvelle Star » ?",
+        "question": "Qui a succede a Laurie Cholewa aux commandes de l animation de « Nouvelle Star » ?",
         "propositions": [
           "Cyril Hanouna",
-          "Shy'm",
+          "Shy m",
           "Virginie Guilhaume",
           "Virginie Efira"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "En 2011, Shy'm a participe et a remporte la deuxieme saison de l'emission televisee « Danse avec les stars »."
+        "reponse": "Shy m",
+        "anecdote": "En 2011, Shy m a participe et a remporte la deuxieme saison de l emission televisee « Danse avec les stars »."
       },
       {
         "id": 9,
-        "question": "Quel animateur a mis un terme en juin 2017 à 16 ans de journal televise sur France 2 ?",
+        "question": "Quel animateur a mis un terme en juin 2017 a 16 ans de journal televise sur France 2 ?",
         "propositions": [
           "Claude Serillon",
           "Daniel Bilalian",
@@ -145,7 +145,7 @@
           "Bruno Masure"
         ],
         "reponse": "David Pujadas",
-        "anecdote": "Un au revoir qui s'est deroule en presence de ses parents, collegues, amis et proches, tous venus le remercier pour l'occasion."
+        "anecdote": "Un au revoir qui s est deroule en presence de ses parents, collegues, amis et proches, tous venus le remercier pour l occasion."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Nicolas Canteloup"
         ],
         "reponse": "Guy Bedos",
-        "anecdote": "Lors de l'un de ses spectacles, Guy Bedos n'avait pas hesite à insulter Nadine Morano qui avait fait appel à la justice."
+        "anecdote": "Lors de l un de ses spectacles, Guy Bedos n avait pas hesite a insulter Nadine Morano qui avait fait appel a la justice."
       }
     ],
     "confirme": [
@@ -171,11 +171,11 @@
           "Billy Joel"
         ],
         "reponse": "Jeff Soffer",
-        "anecdote": "Apres pres de quatre annees de mariage avec son milliardaire, c'est le retour au celibat pour The Body, le top australien de 53 ans."
+        "anecdote": "Apres pres de quatre annees de mariage avec son milliardaire, c est le retour au celibat pour The Body, le top australien de 53 ans."
       },
       {
         "id": 12,
-        "question": "Qui a dit oui à Gian Luca Passi de Preposulo dans la maison de famille du marie ?",
+        "question": "Qui a dit oui a Gian Luca Passi de Preposulo dans la maison de famille du marie ?",
         "propositions": [
           "Brie Larson",
           "Cate Blanchett",
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quelle chanteuse a sorti le 23 juin 2017 un single en hommage à George Michael ?",
+        "question": "Quelle chanteuse a sorti le 23 juin 2017 un single en hommage a George Michael ?",
         "propositions": [
           "Melanie Brown",
           "Emma Bunton",
@@ -195,7 +195,7 @@
           "Victoria Beckham"
         ],
         "reponse": "Geri Halliwell",
-        "anecdote": "Pour honorer la memoire de son ami George Michael, l'ex Spice Girl Geri Halliwell a decide de lui rendre hommage en musique."
+        "anecdote": "Pour honorer la memoire de son ami George Michael, l ex Spice Girl Geri Halliwell a decide de lui rendre hommage en musique."
       },
       {
         "id": 14,
@@ -207,7 +207,7 @@
           "Selena Gomez"
         ],
         "reponse": "Selena Gomez",
-        "anecdote": "C'est grace à la serie « Les Sorciers de Waverly Place », sur Disney Channel, que Selena Gomez s'est fait connaître du jeune public."
+        "anecdote": "C est grace a la serie « Les Sorciers de Waverly Place », sur Disney Channel, que Selena Gomez s est fait connaître du jeune public."
       },
       {
         "id": 15,
@@ -219,7 +219,7 @@
           "Audrey Pulvar"
         ],
         "reponse": "Laurent Bignolas",
-        "anecdote": "En 1999, Laurent Bignolas a realise une traversee de l'Atlantique à la voile et a obtenu un 7 d'or en 2000 pour « Faut pas rever »."
+        "anecdote": "En 1999, Laurent Bignolas a realise une traversee de l Atlantique a la voile et a obtenu un 7 d or en 2000 pour « Faut pas rever »."
       },
       {
         "id": 16,
@@ -231,11 +231,11 @@
           "Scott Disick"
         ],
         "reponse": "Scott Disick",
-        "anecdote": "Scott Disick multiplie les aventures sans lendemain depuis sa rupture avec Kourtney Kardashian suite à son addiction au sexe."
+        "anecdote": "Scott Disick multiplie les aventures sans lendemain depuis sa rupture avec Kourtney Kardashian suite a son addiction au sexe."
       },
       {
         "id": 17,
-        "question": "Quel realisateur francais est souvent confondu avec l'acteur Kad Merad ?",
+        "question": "Quel realisateur francais est souvent confondu avec l acteur Kad Merad ?",
         "propositions": [
           "Mathieu Kassovitz",
           "Patrice Chereau",
@@ -243,7 +243,7 @@
           "Cedric Klapisch"
         ],
         "reponse": "Cedric Klapisch",
-        "anecdote": "Lasse de devoir rectifier les fans de l'acteur dans la rue, le realisateur quelque peu resigne a fini par jouer le jeu."
+        "anecdote": "Lasse de devoir rectifier les fans de l acteur dans la rue, le realisateur quelque peu resigne a fini par jouer le jeu."
       },
       {
         "id": 18,
@@ -255,7 +255,7 @@
           "120 000 euros"
         ],
         "reponse": "150 000 euros",
-        "anecdote": "Si sa presence a longtemps ete incertaine à cause de son etat de sante, Johnny Hallyday a confirme sa participation aux concerts."
+        "anecdote": "Si sa presence a longtemps ete incertaine a cause de son etat de sante, Johnny Hallyday a confirme sa participation aux concerts."
       },
       {
         "id": 19,
@@ -267,11 +267,11 @@
           "John Legend"
         ],
         "reponse": "Kanye West",
-        "anecdote": "Au grand desarroi de la droite chretienne evangelique, l'artiste un poil narcissique n'hesite pas à se comparer à Jesus Christ."
+        "anecdote": "Au grand desarroi de la droite chretienne evangelique, l artiste un poil narcissique n hesite pas a se comparer a Jesus Christ."
       },
       {
         "id": 20,
-        "question": "Quel chanteur a collabore avec David Guetta et les Anges de Victoria's Secret ?",
+        "question": "Quel chanteur a collabore avec David Guetta et les Anges de Victoria s Secret ?",
         "propositions": [
           "Chris Brown",
           "Justin Bieber",
@@ -279,13 +279,13 @@
           "Usher"
         ],
         "reponse": "Justin Bieber",
-        "anecdote": "Justin Bieber a collabore avec David Guetta pour la musique et avec Sara Sampaio et Elsa Hosk dans le clip qui l'accompagne."
+        "anecdote": "Justin Bieber a collabore avec David Guetta pour la musique et avec Sara Sampaio et Elsa Hosk dans le clip qui l accompagne."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Qui a dit : « Rire sur le terrorisme n'est pas politiquement correct mais indispensable » ?",
+        "question": "Qui a dit : « Rire sur le terrorisme n est pas politiquement correct mais indispensable » ?",
         "propositions": [
           "Élie Semoun",
           "Alex Vizorek",
@@ -293,11 +293,11 @@
           "Jean-Luc Lemoine"
         ],
         "reponse": "Élie Semoun",
-        "anecdote": "Élie Semoun fait partie des celebrites francaises à avoir exprime leurs craintes à l'annonce de la victoire de Donald Trump."
+        "anecdote": "Élie Semoun fait partie des celebrites francaises a avoir exprime leurs craintes a l annonce de la victoire de Donald Trump."
       },
       {
         "id": 22,
-        "question": "Quel animateur radio a vu son restaurant à Lege-Cap-Ferret ravage par les flammes ?",
+        "question": "Quel animateur radio a vu son restaurant a Lege-Cap-Ferret ravage par les flammes ?",
         "propositions": [
           "Alexandre Devoise",
           "Camille Combal",
@@ -305,11 +305,11 @@
           "Manu Levy"
         ],
         "reponse": "Manu Levy",
-        "anecdote": "Emmanuel Levy s'est fait connaître sous le pseudonyme de « Maître Levy » en animant des emissions aux côtes d'Arthur."
+        "anecdote": "Emmanuel Levy s est fait connaître sous le pseudonyme de « Maître Levy » en animant des emissions aux côtes d Arthur."
       },
       {
         "id": 23,
-        "question": "Quel footballeur d'Angers a trouve la mort dans un violent accident de voiture au Bresil ?",
+        "question": "Quel footballeur d Angers a trouve la mort dans un violent accident de voiture au Bresil ?",
         "propositions": [
           "Jonas Pessalli",
           "Jeremy Henin",
@@ -317,11 +317,11 @@
           "Olivier Auriac"
         ],
         "reponse": "Jonas Pessalli",
-        "anecdote": "Le 1er fevrier 2016, dans les dernieres heures du mercato, Jonas-Henrique Pessalli s'etait engage avec Lucon, club de National."
+        "anecdote": "Le 1er fevrier 2016, dans les dernieres heures du mercato, Jonas-Henrique Pessalli s etait engage avec Lucon, club de National."
       },
       {
         "id": 24,
-        "question": "Quelle fillette de 18 mois a passe un an à dormir presque sans interruption ?",
+        "question": "Quelle fillette de 18 mois a passe un an a dormir presque sans interruption ?",
         "propositions": [
           "Anya Metyolkina",
           "Coralie Porrovecchio",
@@ -329,11 +329,11 @@
           "Yuliya Snigir"
         ],
         "reponse": "Anya Metyolkina",
-        "anecdote": "Les medecins du monde entier sont intrigues par ce bebe au bois dormant qui passe le plus clair de son temps à dormir."
+        "anecdote": "Les medecins du monde entier sont intrigues par ce bebe au bois dormant qui passe le plus clair de son temps a dormir."
       },
       {
         "id": 25,
-        "question": "Quel acteur a ecope en 2017 d'une peine en appel pour avoir renverse une pietonne ?",
+        "question": "Quel acteur a ecope en 2017 d une peine en appel pour avoir renverse une pietonne ?",
         "propositions": [
           "Jean Dujardin",
           "Benoît Magimel",
@@ -341,7 +341,7 @@
           "Olivier Gourmet"
         ],
         "reponse": "Benoît Magimel",
-        "anecdote": "En 2016, Benoît Magimel etait condamne à 3 500  d'amende pour avoir renverse une pietonne et pour consommation de cocaïne."
+        "anecdote": "En 2016, Benoît Magimel etait condamne a 3 500  d amende pour avoir renverse une pietonne et pour consommation de cocaïne."
       },
       {
         "id": 26,
@@ -365,7 +365,7 @@
           "Coralie Porrovecchio"
         ],
         "reponse": "Coralie Porrovecchio",
-        "anecdote": "Le principe de l'emission est de faire cohabiter d'anciens candidats de tele-realite dans une villa situee dans une ville celebre."
+        "anecdote": "Le principe de l emission est de faire cohabiter d anciens candidats de tele-realite dans une villa situee dans une ville celebre."
       },
       {
         "id": 28,
@@ -377,11 +377,11 @@
           "Axel Dumas"
         ],
         "reponse": "Pierre Papillaud",
-        "anecdote": "Pierre Papillaud, homme d'affaires, visage de la marque Rozana et PDG de la societe Roxane, est decede à l'age de 81 ans."
+        "anecdote": "Pierre Papillaud, homme d affaires, visage de la marque Rozana et PDG de la societe Roxane, est decede a l age de 81 ans."
       },
       {
         "id": 29,
-        "question": "Quelle jeune chanteuse sourde a bouleverse « America's Got Talent » ?",
+        "question": "Quelle jeune chanteuse sourde a bouleverse « America s Got Talent » ?",
         "propositions": [
           "Grace VanderWaal",
           "Mandy Harvey",
@@ -389,11 +389,11 @@
           "Emily West"
         ],
         "reponse": "Mandy Harvey",
-        "anecdote": "Grace à son talent et son courage, elle a bouleverse le jury et le public de la version americaine de « La France a un incroyable talent »."
+        "anecdote": "Grace a son talent et son courage, elle a bouleverse le jury et le public de la version americaine de « La France a un incroyable talent »."
       },
       {
         "id": 30,
-        "question": "Quel heros de « Premiers baisers » s'est marie à Raquel Chouiti ?",
+        "question": "Quel heros de « Premiers baisers » s est marie a Raquel Chouiti ?",
         "propositions": [
           "Cyril Aubin",
           "Anthony Dupray",
@@ -401,7 +401,7 @@
           "Pierre Deny"
         ],
         "reponse": "Anthony Dupray",
-        "anecdote": "Anthony Dupray a debute en 1992 dans une publicite d'Étienne Chatiliez. Il en tournera d'autres en France ainsi qu'à l'etranger."
+        "anecdote": "Anthony Dupray a debute en 1992 dans une publicite d Étienne Chatiliez. Il en tournera d autres en France ainsi qu a l etranger."
       }
     ]
     }

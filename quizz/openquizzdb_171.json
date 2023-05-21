@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : sept. 2017",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: settembre 2017",
       "slogan": "Hanno fatto notizia"
     },
@@ -44,7 +44,7 @@
         "question": "Quelle protegee du rappeur Lil Wayne est reputee entre autres pour ses folies capillaires ?",
         "propositions": [
           "Foxy Brown",
-          "Lil' Kim",
+          "Lil  Kim",
           "Nicki Minaj",
           "Amber Rose"
         ],
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "Qui a avoue pleurer quatre fois par jours suite à la fatigue engendree par ses jumeaux ?",
+        "question": "Qui a avoue pleurer quatre fois par jours suite a la fatigue engendree par ses jumeaux ?",
         "propositions": [
           "Morgan Freeman",
           "George Clooney",
@@ -73,11 +73,11 @@
           "Javier Bardem"
         ],
         "reponse": "George Clooney",
-        "anecdote": "George Clooney a attendu 56 ans pour devenir un papa comble, vouant un amour infini à sa femme ainsi qu'à Alexander et à Ella."
+        "anecdote": "George Clooney a attendu 56 ans pour devenir un papa comble, vouant un amour infini a sa femme ainsi qu a Alexander et a Ella."
       },
       {
         "id": 4,
-        "question": "Quelle star de la tele-realite a ete cambriolee pour un butin de deux millions d'euros ?",
+        "question": "Quelle star de la tele-realite a ete cambriolee pour un butin de deux millions d euros ?",
         "propositions": [
           "Ayem Nour",
           "Claudia Romani",
@@ -85,23 +85,23 @@
           "Marie Sebag"
         ],
         "reponse": "Ayem Nour",
-        "anecdote": "Bijoux et sacs de luxe ont ete derobes le 13 septembre au domicile d'Ayem Nour dans le 16e arrondissement de Paris."
+        "anecdote": "Bijoux et sacs de luxe ont ete derobes le 13 septembre au domicile d Ayem Nour dans le 16e arrondissement de Paris."
       },
       {
         "id": 5,
-        "question": "Quelle chanteuse a devoile un tatouage present à l'interieur de la levre inferieure ?",
+        "question": "Quelle chanteuse a devoile un tatouage present a l interieur de la levre inferieure ?",
         "propositions": [
-          "Shy'm",
+          "Shy m",
           "Alizee",
           "Lorie",
           "Amel Bent"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "Il s'agit d'une inscription : les mots « Je t'aime », savamment places et visiblement destines à sa moitie, Benoît Paire."
+        "reponse": "Shy m",
+        "anecdote": "Il s agit d une inscription : les mots « Je t aime », savamment places et visiblement destines a sa moitie, Benoît Paire."
       },
       {
         "id": 6,
-        "question": "Qui a remplace William Leymergie à la tete de la presentation de l'emission Telematin ?",
+        "question": "Qui a remplace William Leymergie a la tete de la presentation de l emission Telematin ?",
         "propositions": [
           "Samuel Étienne",
           "Laurent Bignolas",
@@ -109,7 +109,7 @@
           "Stephane Lippert"
         ],
         "reponse": "Laurent Bignolas",
-        "anecdote": "Desormais aux commandes de l'emission matinale de France 2, le journaliste a dû se faire accepter par l'equipe dejà en place."
+        "anecdote": "Desormais aux commandes de l emission matinale de France 2, le journaliste a dû se faire accepter par l equipe deja en place."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Ophelie Winter"
         ],
         "reponse": "Vanessa Demouy",
-        "anecdote": "Separes depuis un an, Philippe Lellouche et Vanessa Demouy ont tenu à officialiser leur divorce afin de preserver leurs enfants."
+        "anecdote": "Separes depuis un an, Philippe Lellouche et Vanessa Demouy ont tenu a officialiser leur divorce afin de preserver leurs enfants."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "Louis Chedid"
         ],
         "reponse": "Francis Cabrel",
-        "anecdote": "Cette decision sera un evenement pour Spotify, Apple Music et Deezer et une veritable revolution pour l'auteur de « Petite Marie »."
+        "anecdote": "Cette decision sera un evenement pour Spotify, Apple Music et Deezer et une veritable revolution pour l auteur de « Petite Marie »."
       },
       {
         "id": 9,
@@ -145,11 +145,11 @@
           "Maisie Williams"
         ],
         "reponse": "Emilia Clarke",
-        "anecdote": "Emilia Clarke avait decide de se rapprocher du personnage de Daenerys Targaryen qu'elle incarnait depuis le debut."
+        "anecdote": "Emilia Clarke avait decide de se rapprocher du personnage de Daenerys Targaryen qu elle incarnait depuis le debut."
       },
       {
         "id": 10,
-        "question": "De quelle maniere Brahim Zaibat a-t-il evite un cambriolage à son domicile ?",
+        "question": "De quelle maniere Brahim Zaibat a-t-il evite un cambriolage a son domicile ?",
         "propositions": [
           "En courant",
           "En hurlant",
@@ -157,13 +157,13 @@
           "En dansant"
         ],
         "reponse": "En hurlant",
-        "anecdote": "Tres convaincant, Brahim Zaibat a de cette maniere reussi à faire decamper les individus qui tentaient de s'introduire chez lui."
+        "anecdote": "Tres convaincant, Brahim Zaibat a de cette maniere reussi a faire decamper les individus qui tentaient de s introduire chez lui."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Quel ancien animateur tele fait partie des nombreux sinistres de l'ouragan Irma ?",
+        "question": "Quel ancien animateur tele fait partie des nombreux sinistres de l ouragan Irma ?",
         "propositions": [
           "Pascal Sevran",
           "Michel Polac",
@@ -171,7 +171,7 @@
           "Stephane Collaro"
         ],
         "reponse": "Stephane Collaro",
-        "anecdote": "L'ancien animateur Stephane Collaro possedait en effet une somptueuse villa ainsi que quelques hôtels sur l'île Saint-Martin."
+        "anecdote": "L ancien animateur Stephane Collaro possedait en effet une somptueuse villa ainsi que quelques hôtels sur l île Saint-Martin."
       },
       {
         "id": 12,
@@ -207,11 +207,11 @@
           "Rebecca Fitoussi"
         ],
         "reponse": "Sylvie Jenaly",
-        "anecdote": "Une petition fut envoyee au CSA reprochant à Sylvie Jenaly d'employer dans ses emissions des moyens educatifs trop violents."
+        "anecdote": "Une petition fut envoyee au CSA reprochant a Sylvie Jenaly d employer dans ses emissions des moyens educatifs trop violents."
       },
       {
         "id": 15,
-        "question": "Quelle Miss France 2009 est desormais devenue businesswoman à Las Vegas ?",
+        "question": "Quelle Miss France 2009 est desormais devenue businesswoman a Las Vegas ?",
         "propositions": [
           "Laury Thilleman",
           "Delphine Wespiser",
@@ -219,7 +219,7 @@
           "Malika Menard"
         ],
         "reponse": "Chloe Mortaud",
-        "anecdote": "L'ex-compagne de Vincent Cerruti fut partagee entre sa ligne de soin cosmetique bio et les circuits automobiles avec Romain Thievin."
+        "anecdote": "L ex-compagne de Vincent Cerruti fut partagee entre sa ligne de soin cosmetique bio et les circuits automobiles avec Romain Thievin."
       },
       {
         "id": 16,
@@ -243,11 +243,11 @@
           "Wavy Gloss"
         ],
         "reponse": "Fenty Beauty",
-        "anecdote": "Pour le lancement de sa marque, Rihanna proposait un tuto video exclusif ou elle testait elle-meme les produits proposes à la vente."
+        "anecdote": "Pour le lancement de sa marque, Rihanna proposait un tuto video exclusif ou elle testait elle-meme les produits proposes a la vente."
       },
       {
         "id": 18,
-        "question": "Quelle actrice de la serie « Grey's Anatomy » a ete operee d'une tumeur au cerveau ?",
+        "question": "Quelle actrice de la serie « Grey s Anatomy » a ete operee d une tumeur au cerveau ?",
         "propositions": [
           "Chandra Wilson",
           "Ellen Pompeo",
@@ -255,7 +255,7 @@
           "Kate Walsh"
         ],
         "reponse": "Kate Walsh",
-        "anecdote": "La comedienne agee de 49 ans a explique qu'il s'agissait d'une tumeur non cancereuse ayant neanmoins la taille d'un citron."
+        "anecdote": "La comedienne agee de 49 ans a explique qu il s agissait d une tumeur non cancereuse ayant neanmoins la taille d un citron."
       },
       {
         "id": 19,
@@ -267,11 +267,11 @@
           "Alexander Rybak"
         ],
         "reponse": "Salvador Sobral",
-        "anecdote": "En mai 2017, le Portugais de 27 ans avait rafle le trophee de l'Eurovision avec le morceau melancolique « Amar Pelos Dois »."
+        "anecdote": "En mai 2017, le Portugais de 27 ans avait rafle le trophee de l Eurovision avec le morceau melancolique « Amar Pelos Dois »."
       },
       {
         "id": 20,
-        "question": "Quelle actrice fut à soixante ans à nouveau atteinte d'un cancer de la peau ?",
+        "question": "Quelle actrice fut a soixante ans a nouveau atteinte d un cancer de la peau ?",
         "propositions": [
           "Sissy Spacek",
           "Jamie Lee Curtis",
@@ -279,7 +279,7 @@
           "Melanie Griffith"
         ],
         "reponse": "Melanie Griffith",
-        "anecdote": "Melanie Griffith entame un long combat contre un cancer de la peau, une epreuve qu'elle a dejà dû surmonter une premiere fois en 2009."
+        "anecdote": "Melanie Griffith entame un long combat contre un cancer de la peau, une epreuve qu elle a deja dû surmonter une premiere fois en 2009."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Hayden Panettiere"
         ],
         "reponse": "Francia Raisa",
-        "anecdote": "Francia Raisa a accepte de sacrifier l'un de ses organes : « un cadeau ultime offert par une soeur » a-t-elle declare."
+        "anecdote": "Francia Raisa a accepte de sacrifier l un de ses organes : « un cadeau ultime offert par une soeur » a-t-elle declare."
       },
       {
         "id": 22,
@@ -317,11 +317,11 @@
           "Katie Holmes"
         ],
         "reponse": "Katie Holmes",
-        "anecdote": "Une clause de son divorce avec Tom Cruise l'interdisait de vivre au grand jour une nouvelle relation pour les cinq annees à venir."
+        "anecdote": "Une clause de son divorce avec Tom Cruise l interdisait de vivre au grand jour une nouvelle relation pour les cinq annees a venir."
       },
       {
         "id": 24,
-        "question": "Quel DJ fut le premier à etre fait chevalier de la Legion d'honneur ?",
+        "question": "Quel DJ fut le premier a etre fait chevalier de la Legion d honneur ?",
         "propositions": [
           "Alex Gopher",
           "Laurent Garnier",
@@ -329,7 +329,7 @@
           "Claude Challe"
         ],
         "reponse": "Laurent Garnier",
-        "anecdote": "À 51, Laurent Garnier est l'un des DJ's et musiciens qui a grandement participe à la popularisation de la techno en France."
+        "anecdote": "À 51, Laurent Garnier est l un des DJ s et musiciens qui a grandement participe a la popularisation de la techno en France."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Melanie Thierry"
         ],
         "reponse": "Melanie Thierry",
-        "anecdote": "C'est sur Instagram que Melanie Thierry le prouve en posant tendrement avec lui et un de leurs deux fils."
+        "anecdote": "C est sur Instagram que Melanie Thierry le prouve en posant tendrement avec lui et un de leurs deux fils."
       },
       {
         "id": 26,
@@ -353,11 +353,11 @@
           "Amelie Neten"
         ],
         "reponse": "Shanna Kress",
-        "anecdote": "L'ancienne starlette de tele-realite, adepte du string et de la chirurgie esthetique, vit desormais à Miami."
+        "anecdote": "L ancienne starlette de tele-realite, adepte du string et de la chirurgie esthetique, vit desormais a Miami."
       },
       {
         "id": 27,
-        "question": "Qui a troque en dix jours sa vie d'employee de fast-food à celle de star des podiums ?",
+        "question": "Qui a troque en dix jours sa vie d employee de fast-food a celle de star des podiums ?",
         "propositions": [
           "Filippa Hamilton",
           "Fiona Walter",
@@ -365,11 +365,11 @@
           "Juliette B."
         ],
         "reponse": "Remington Williams",
-        "anecdote": "En un rien de temps, l'ex-employee a signe un contrat avec l'agence DNA Models qui a entre autre employe Linda Evangelista."
+        "anecdote": "En un rien de temps, l ex-employee a signe un contrat avec l agence DNA Models qui a entre autre employe Linda Evangelista."
       },
       {
         "id": 28,
-        "question": "Quel chanteur, compositeur et producteur canadien est le mentor de Shy'm ?",
+        "question": "Quel chanteur, compositeur et producteur canadien est le mentor de Shy m ?",
         "propositions": [
           "Victor Ike",
           "K. Maro",
@@ -377,11 +377,11 @@
           "Lemar"
         ],
         "reponse": "K. Maro",
-        "anecdote": "Pour son come-back, l'artiste se reinvente, change de nom et propose un projet melant images et musique avec « Mary »."
+        "anecdote": "Pour son come-back, l artiste se reinvente, change de nom et propose un projet melant images et musique avec « Mary »."
       },
       {
         "id": 29,
-        "question": "Quels animaux representent la pire phobie de l'humoriste à succes Jamel Bebbouze ?",
+        "question": "Quels animaux representent la pire phobie de l humoriste a succes Jamel Bebbouze ?",
         "propositions": [
           "Les chats",
           "Les araignees",
@@ -389,11 +389,11 @@
           "Les souris"
         ],
         "reponse": "Les souris",
-        "anecdote": "« Je deteste les souris. Je me suis fait mordre dans la nuque par une souris quand j'etais petit, depuis j'en ai tres peur ! »"
+        "anecdote": "« Je deteste les souris. Je me suis fait mordre dans la nuque par une souris quand j etais petit, depuis j en ai tres peur ! »"
       },
       {
         "id": 30,
-        "question": "Quel celebre hockeyeur a annonce etre atteint d'une leucemie ?",
+        "question": "Quel celebre hockeyeur a annonce etre atteint d une leucemie ?",
         "propositions": [
           "Jimmy Hayes",
           "Jeff Farkas",
@@ -401,7 +401,7 @@
           "Steven Santini"
         ],
         "reponse": "Brian Boyle",
-        "anecdote": "Tres apprecie au sein de la prestigieuse NHL, l'ancien joueur des Kings est atteint d'une leucemie myeloïde chronique."
+        "anecdote": "Tres apprecie au sein de la prestigieuse NHL, l ancien joueur des Kings est atteint d une leucemie myeloïde chronique."
       }
     ]
     },
@@ -411,7 +411,7 @@
         "id": 1,
         "question": "What protection of rapper Lil Wayne is known among other things for his hair follies ?",
         "propositions": [
-          "Lil 'Kim",
+          "Lil  Kim",
           "Amber Rose",
           "Foxy Brown",
           "Nicki Minaj"
@@ -453,18 +453,18 @@
           "Caroline Receiver"
         ],
         "reponse": "Ayem Nour",
-        "anecdote": "Jewelry and luxury bags were stolen on September 13 from Ayem Nour's home in the 16th arrondissement of Paris."
+        "anecdote": "Jewelry and luxury bags were stolen on September 13 from Ayem Nour s home in the 16th arrondissement of Paris."
       },
       {
         "id": 5,
         "question": "Which singer has unveiled a tattoo inside the lower lip ?",
         "propositions": [
           "Alizee",
-          "Shy'm",
+          "Shy m",
           "Lorie",
           "Amel Bent"
         ],
-        "reponse": "Shy'm",
+        "reponse": "Shy m",
         "anecdote": "It is an inscription : the words « I love you », cleverly placed and visibly intended for his half, Benoît Paire."
       },
       {
@@ -543,7 +543,7 @@
       },
       {
         "id": 12,
-        "question": "Which TV host is Vincent Cerutti's partner ?",
+        "question": "Which TV host is Vincent Cerutti s partner ?",
         "propositions": [
           "Sophie Coste",
           "Hapsatou Sy",
@@ -587,7 +587,7 @@
           "Malika Menard"
         ],
         "reponse": "Chloe Mortaud",
-        "anecdote": "Vincent Cerruti's ex-partner was shared for a long time between her organic cosmetic skincare line and racing circuits with Romain Thievin."
+        "anecdote": "Vincent Cerruti s ex-partner was shared for a long time between her organic cosmetic skincare line and racing circuits with Romain Thievin."
       },
       {
         "id": 16,
@@ -599,7 +599,7 @@
           "Barbara Fusar"
         ],
         "reponse": "Nahalie Pechalat",
-        "anecdote": "Nathalie Pechalat and Jean Dujardin are both committed to Paris' bid for the 2024 Olympic Games."
+        "anecdote": "Nathalie Pechalat and Jean Dujardin are both committed to Paris  bid for the 2024 Olympic Games."
       },
       {
         "id": 17,
@@ -615,7 +615,7 @@
       },
       {
         "id": 18,
-        "question": "Which actress in the « Grey's Anatomy » series has had a brain tumor ?",
+        "question": "Which actress in the « Grey s Anatomy » series has had a brain tumor ?",
         "propositions": [
           "Jessica Capshaw",
           "Ellen Pompeo",
@@ -653,7 +653,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Which actress generously donated a kidney to fight Selena Gomez's lupus ?",
+        "question": "Which actress generously donated a kidney to fight Selena Gomez s lupus ?",
         "propositions": [
           "Francia Raisa",
           "Solange Knowles",
@@ -677,7 +677,7 @@
       },
       {
         "id": 23,
-        "question": "Who doesn't hide their romance in public anymore with Jamie Foxx ?",
+        "question": "Who doesn t hide their romance in public anymore with Jamie Foxx ?",
         "propositions": [
           "Uma Thurman",
           "Drew Barrymore",
@@ -737,7 +737,7 @@
       },
       {
         "id": 28,
-        "question": "Which Canadian singer, songwriter and producer is Shy'm's mentor ?",
+        "question": "Which Canadian singer, songwriter and producer is Shy m s mentor ?",
         "propositions": [
           "Victor Ike",
           "Lemar",
@@ -780,7 +780,7 @@
         "question": "Welcher Schutz des Rapper Lil Wayne ist unter anderem für seine Haarfollies bekannt ?",
         "propositions": [
           "Amber Rose",
-          "Lil 'Kim",
+          "Lil  Kim",
           "Foxy Brown",
           "Nicki Minaj"
         ],
@@ -828,11 +828,11 @@
         "question": "Welcher Sänger hat ein Tattoo in der Unterlippe enthüllt ?",
         "propositions": [
           "Amel Bent",
-          "Shy'm",
+          "Shy m",
           "Lorie",
           "Alizee"
         ],
-        "reponse": "Shy'm",
+        "reponse": "Shy m",
         "anecdote": "Es ist eine Inschrift : die Worte « Ich liebe dich », geschickt platziert und sichtbar für seine Hälfte, Benoît Paire, bestimmt."
       },
       {
@@ -983,7 +983,7 @@
       },
       {
         "id": 18,
-        "question": "Welche Schauspielerin in der Serie « Grey's Anatomy » hatte einen Gehirntumor ?",
+        "question": "Welche Schauspielerin in der Serie « Grey s Anatomy » hatte einen Gehirntumor ?",
         "propositions": [
           "Chandra Wilson",
           "Jessica Capshaw",
@@ -1021,7 +1021,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Welche Schauspielerin hat großzügig eine Niere gespendet, um gegen Selena Gomez 'Lupus zu kämpfen ?",
+        "question": "Welche Schauspielerin hat großzügig eine Niere gespendet, um gegen Selena Gomez  Lupus zu kämpfen ?",
         "propositions": [
           "Marcy Rylan",
           "Hayden Panettiere",
@@ -1105,7 +1105,7 @@
       },
       {
         "id": 28,
-        "question": "Welcher kanadische Sänger, Songwriter und Produzent ist Shy'ms Mentor ?",
+        "question": "Welcher kanadische Sänger, Songwriter und Produzent ist Shy ms Mentor ?",
         "propositions": [
           "Craig David",
           "Lemar",
@@ -1148,7 +1148,7 @@
         "question": "¿Que protección del rapero Lil Wayne es conocida entre otras cosas por sus locuras capilares ?",
         "propositions": [
           "Nicki Minaj",
-          "Lil 'Kim",
+          "Lil  Kim",
           "Amber Rose",
           "Foxy Brown"
         ],
@@ -1196,11 +1196,11 @@
         "question": "¿Que cantante ha presentado un tatuaje dentro del labio inferior ?",
         "propositions": [
           "Amel Bent",
-          "Shy'm",
+          "Shy m",
           "Alizee",
           "Lorie"
         ],
-        "reponse": "Shy'm",
+        "reponse": "Shy m",
         "anecdote": "Es una inscripción : las palabras « Te amo », hábilmente ubicadas y visiblemente destinadas a su mitad, Benoît Paire."
       },
       {
@@ -1351,7 +1351,7 @@
       },
       {
         "id": 18,
-        "question": "¿Que actriz de la serie « Grey's Anatomy » ha tenido un tumor cerebral ?",
+        "question": "¿Que actriz de la serie « Grey s Anatomy » ha tenido un tumor cerebral ?",
         "propositions": [
           "Chandra Wilson",
           "Kate Walsh",
@@ -1473,7 +1473,7 @@
       },
       {
         "id": 28,
-        "question": "¿Que cantante, compositor y productor canadiense es el mentor de Shy'm ?",
+        "question": "¿Que cantante, compositor y productor canadiense es el mentor de Shy m ?",
         "propositions": [
           "Lemar",
           "K. Maro",
@@ -1513,9 +1513,9 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quale protezione del rapper Lil Wayne e nota tra l'altro per le sue follie di capelli ?",
+        "question": "Quale protezione del rapper Lil Wayne e nota tra l altro per le sue follie di capelli ?",
         "propositions": [
-          "Lil 'Kim",
+          "Lil  Kim",
           "Foxy Brown",
           "Amber Rose",
           "Nicki Minaj"
@@ -1545,7 +1545,7 @@
           "Javier Bardem"
         ],
         "reponse": "George Clooney",
-        "anecdote": "George Clooney ha aspettato 56 anni per diventare un papà soddisfatto, dedicando un amore infinito a sua moglie, nonche ad Alexander ed Ella."
+        "anecdote": "George Clooney ha aspettato 56 anni per diventare un papa soddisfatto, dedicando un amore infinito a sua moglie, nonche ad Alexander ed Ella."
       },
       {
         "id": 4,
@@ -1561,15 +1561,15 @@
       },
       {
         "id": 5,
-        "question": "Quale cantante ha svelato un tatuaggio all'interno del labbro inferiore ?",
+        "question": "Quale cantante ha svelato un tatuaggio all interno del labbro inferiore ?",
         "propositions": [
           "Amel Bent",
           "Lorie",
-          "Shy'm",
+          "Shy m",
           "Alizee"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "È un'iscrizione : le parole « Ti amo », sapientemente posizionate e visibilmente intese per la sua metà, Benoît Paire."
+        "reponse": "Shy m",
+        "anecdote": "È un iscrizione : le parole « Ti amo », sapientemente posizionate e visibilmente intese per la sua meta, Benoît Paire."
       },
       {
         "id": 6,
@@ -1581,7 +1581,7 @@
           "Laurent Bignolas"
         ],
         "reponse": "Laurent Bignolas",
-        "anecdote": "Ora al comando dello spettacolo mattutino di France 2, il giornalista ha dovuto essere accettato dalla squadra già in atto."
+        "anecdote": "Ora al comando dello spettacolo mattutino di France 2, il giornalista ha dovuto essere accettato dalla squadra gia in atto."
       },
       {
         "id": 7,
@@ -1597,7 +1597,7 @@
       },
       {
         "id": 8,
-        "question": "Quale artista francese e finalmente passato allo streaming per i suoi quarant'anni di carriera ?",
+        "question": "Quale artista francese e finalmente passato allo streaming per i suoi quarant anni di carriera ?",
         "propositions": [
           "Charles Aznavour",
           "Louis Chedid",
@@ -1605,7 +1605,7 @@
           "Jean-Louis Murat"
         ],
         "reponse": "Francis Cabrel",
-        "anecdote": "Questa decisione sarà un evento per Spotify, Apple Music e Deezer e una vera rivoluzione per l'autore di « Petite Marie »."
+        "anecdote": "Questa decisione sara un evento per Spotify, Apple Music e Deezer e una vera rivoluzione per l autore di « Petite Marie »."
       },
       {
         "id": 9,
@@ -1617,7 +1617,7 @@
           "Emilia Clarke"
         ],
         "reponse": "Emilia Clarke",
-        "anecdote": "Emilia Clarke aveva deciso di avvicinarsi un po 'al personaggio leggendario di Daenerys Targaryen che aveva incarnato sin dall'inizio."
+        "anecdote": "Emilia Clarke aveva deciso di avvicinarsi un po  al personaggio leggendario di Daenerys Targaryen che aveva incarnato sin dall inizio."
       },
       {
         "id": 10,
@@ -1635,7 +1635,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quale ex conduttore televisivo e una delle tante vittime dell'uragano Irma ?",
+        "question": "Quale ex conduttore televisivo e una delle tante vittime dell uragano Irma ?",
         "propositions": [
           "Stephane Collaro",
           "Michel Polac",
@@ -1643,7 +1643,7 @@
           "Frederic Mitterrand"
         ],
         "reponse": "Stephane Collaro",
-        "anecdote": "L'ex ospite Stephane Collaro possedeva una sontuosa villa e alcuni hotel sull'isola di Saint-Martin."
+        "anecdote": "L ex ospite Stephane Collaro possedeva una sontuosa villa e alcuni hotel sull isola di Saint-Martin."
       },
       {
         "id": 12,
@@ -1691,7 +1691,7 @@
           "Delphine Wespiser"
         ],
         "reponse": "Chloe Mortaud",
-        "anecdote": "L'ex partner di Vincent Cerruti e stato condiviso a lungo tra la sua linea cosmetica cosmetica per la cura della pelle e i circuiti da corsa con Romain Thievin."
+        "anecdote": "L ex partner di Vincent Cerruti e stato condiviso a lungo tra la sua linea cosmetica cosmetica per la cura della pelle e i circuiti da corsa con Romain Thievin."
       },
       {
         "id": 16,
@@ -1719,7 +1719,7 @@
       },
       {
         "id": 18,
-        "question": "Quale attrice della serie « Grey's Anatomy » ha avuto un tumore al cervello ?",
+        "question": "Quale attrice della serie « Grey s Anatomy » ha avuto un tumore al cervello ?",
         "propositions": [
           "Chandra Wilson",
           "Ellen Pompeo",
@@ -1727,11 +1727,11 @@
           "Kate Walsh"
         ],
         "reponse": "Kate Walsh",
-        "anecdote": "L'attrice 49enne ha spiegato che si trattava di un tumore non canceroso delle dimensioni di un limone."
+        "anecdote": "L attrice 49enne ha spiegato che si trattava di un tumore non canceroso delle dimensioni di un limone."
       },
       {
         "id": 19,
-        "question": "Quale vincitore portoghese dell'Eurovision Competition sta ancora aspettando un trapianto di cuore ?",
+        "question": "Quale vincitore portoghese dell Eurovision Competition sta ancora aspettando un trapianto di cuore ?",
         "propositions": [
           "Alexander Rybak",
           "Dima Bilan",
@@ -1743,7 +1743,7 @@
       },
       {
         "id": 20,
-        "question": "Quale attrice aveva ancora sessant'anni e soffriva di cancro della pelle ?",
+        "question": "Quale attrice aveva ancora sessant anni e soffriva di cancro della pelle ?",
         "propositions": [
           "Sissy Spacek",
           "Kathleen Turner",
@@ -1751,7 +1751,7 @@
           "Melanie Griffith"
         ],
         "reponse": "Melanie Griffith",
-        "anecdote": "Melanie Griffith inizia una lunga lotta contro il cancro della pelle, un test che ha già dovuto superare per la prima volta nel 2009."
+        "anecdote": "Melanie Griffith inizia una lunga lotta contro il cancro della pelle, un test che ha gia dovuto superare per la prima volta nel 2009."
       }
     ],
     "expert": [
@@ -1777,11 +1777,11 @@
           "Enzo Diliberto"
         ],
         "reponse": "Enzo Diliberto",
-        "anecdote": "Il fisioterapista belga Enzo Diliberto avrà comunque guadagnato la modesta somma di 130.000 euro."
+        "anecdote": "Il fisioterapista belga Enzo Diliberto avra comunque guadagnato la modesta somma di 130.000 euro."
       },
       {
         "id": 23,
-        "question": "Chi non nasconde piu la loro storia d'amore in pubblico con Jamie Foxx ?",
+        "question": "Chi non nasconde piu la loro storia d amore in pubblico con Jamie Foxx ?",
         "propositions": [
           "Uma Thurman",
           "Sarah Douglas",
@@ -1789,7 +1789,7 @@
           "Drew Barrymore"
         ],
         "reponse": "Katie Holmes",
-        "anecdote": "Una clausola nel suo divorzio da Tom Cruise gli proibiva di vivere all'aperto per una nuova relazione per i prossimi cinque anni."
+        "anecdote": "Una clausola nel suo divorzio da Tom Cruise gli proibiva di vivere all aperto per una nuova relazione per i prossimi cinque anni."
       },
       {
         "id": 24,
@@ -1805,7 +1805,7 @@
       },
       {
         "id": 25,
-        "question": "Chi gira ancora l'amore perfetto con Raphaal dopo molti anni vissuti insieme ?",
+        "question": "Chi gira ancora l amore perfetto con Raphaal dopo molti anni vissuti insieme ?",
         "propositions": [
           "Deborah Francois",
           "Clotilde Hesme",
@@ -1825,7 +1825,7 @@
           "Diana Jones"
         ],
         "reponse": "Shanna Kress",
-        "anecdote": "L'ex starlet della reality TV, seguace del perizoma e della chirurgia estetica, ora vive a Miami."
+        "anecdote": "L ex starlet della reality TV, seguace del perizoma e della chirurgia estetica, ora vive a Miami."
       },
       {
         "id": 27,
@@ -1837,11 +1837,11 @@
           "Fiona Walter"
         ],
         "reponse": "Remington Williams",
-        "anecdote": "In pochissimo tempo, l'ex dipendente ha firmato un contratto con l'agenzia DNA Models che, tra le altre cose, ha assunto Linda Evangelista."
+        "anecdote": "In pochissimo tempo, l ex dipendente ha firmato un contratto con l agenzia DNA Models che, tra le altre cose, ha assunto Linda Evangelista."
       },
       {
         "id": 28,
-        "question": "Quale cantante, cantautore e produttore canadese e il mentore di Shy'm ?",
+        "question": "Quale cantante, cantautore e produttore canadese e il mentore di Shy m ?",
         "propositions": [
           "Victor Ike",
           "Craig David",
@@ -1849,7 +1849,7 @@
           "Lemar"
         ],
         "reponse": "K. Maro",
-        "anecdote": "Per il suo ritorno, l'artista si reinventa, cambia nome e offre un progetto che mescola immagini e musica con « Maria »."
+        "anecdote": "Per il suo ritorno, l artista si reinventa, cambia nome e offre un progetto che mescola immagini e musica con « Maria »."
       },
       {
         "id": 29,
@@ -1873,7 +1873,7 @@
           "Brian Boyle"
         ],
         "reponse": "Brian Boyle",
-        "anecdote": "Molto apprezzato nel prestigioso NHL, l'ex giocatore di Kings ha la leucemia mieloide cronica."
+        "anecdote": "Molto apprezzato nel prestigioso NHL, l ex giocatore di Kings ha la leucemia mieloide cronica."
       }
     ]
     },
@@ -1885,7 +1885,7 @@
         "propositions": [
           "Foxy Brown",
           "Amber Rose",
-          "Lil 'Kim",
+          "Lil  Kim",
           "Nicki Minaj"
         ],
         "reponse": "Nicki Minaj",
@@ -1931,12 +1931,12 @@
         "id": 5,
         "question": "Welke zanger heeft een tatoeage in de onderlip onthuld ?",
         "propositions": [
-          "Shy'm",
+          "Shy m",
           "Alizee",
           "Lorie",
           "Amel Bent"
         ],
-        "reponse": "Shy'm",
+        "reponse": "Shy m",
         "anecdote": "Het is een inscriptie : de woorden « Ik hou van je », slim geplaatst en zichtbaar bedoeld voor zijn helft, Benoît Paire."
       },
       {
@@ -2087,7 +2087,7 @@
       },
       {
         "id": 18,
-        "question": "Welke actrice in de serie « Grey's Anatomy » heeft een hersentumor gehad ?",
+        "question": "Welke actrice in de serie « Grey s Anatomy » heeft een hersentumor gehad ?",
         "propositions": [
           "Chandra Wilson",
           "Kate Walsh",
@@ -2169,7 +2169,7 @@
           "David Guetta"
         ],
         "reponse": "Laurent Garnier",
-        "anecdote": "Op zijn 51ste is Laurent Garnier een van de dj's en muzikanten die een grote bijdrage heeft geleverd aan de popularisering van techno in Frankrijk."
+        "anecdote": "Op zijn 51ste is Laurent Garnier een van de dj s en muzikanten die een grote bijdrage heeft geleverd aan de popularisering van techno in Frankrijk."
       },
       {
         "id": 25,
@@ -2209,7 +2209,7 @@
       },
       {
         "id": 28,
-        "question": "Welke Canadese zanger, songwriter en producer is Shy'm's mentor ?",
+        "question": "Welke Canadese zanger, songwriter en producer is Shy m s mentor ?",
         "propositions": [
           "Craig David",
           "Victor Ike",

@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : janv. 2017",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: gennaio 2017",
       "slogan": "Hanno fatto notizia"
     },
@@ -49,11 +49,11 @@
           "Des quadruples"
         ],
         "reponse": "Une naissance",
-        "anecdote": "C'est sa participation en tant que producteur du titre « I'm a Slave 4 U » de Britney Spears qui le revela aupres du grand public."
+        "anecdote": "C est sa participation en tant que producteur du titre « I m a Slave 4 U » de Britney Spears qui le revela aupres du grand public."
       },
       {
         "id": 2,
-        "question": "Quelle robe a probablement aide Iris Mittenaere à devenir Miss Univers ?",
+        "question": "Quelle robe a probablement aide Iris Mittenaere a devenir Miss Univers ?",
         "propositions": [
           "Cendrillon",
           "Medusa",
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "Quelle animatrice tele a annonce etre à nouveau en couple avec Vincent Miclet ?",
+        "question": "Quelle animatrice tele a annonce etre a nouveau en couple avec Vincent Miclet ?",
         "propositions": [
           "Enora Malagre",
           "Nabilla Benattia",
@@ -73,7 +73,7 @@
           "Ayem Nour"
         ],
         "reponse": "Ayem Nour",
-        "anecdote": "Ayem Nour, nee le 24 novembre 1988 à Lyon, fut revelee en 2011 en tant que candidate de l'emission de tele-realite « Secret Story »."
+        "anecdote": "Ayem Nour, nee le 24 novembre 1988 a Lyon, fut revelee en 2011 en tant que candidate de l emission de tele-realite « Secret Story »."
       },
       {
         "id": 4,
@@ -85,11 +85,11 @@
           "Britney Spears"
         ],
         "reponse": "Madonna",
-        "anecdote": "Madonna n'a rien cache de l'animosite qu'elle eprouve à l'encontre de Donald Trump et celui-ci lui a repondu sans amenite."
+        "anecdote": "Madonna n a rien cache de l animosite qu elle eprouve a l encontre de Donald Trump et celui-ci lui a repondu sans amenite."
       },
       {
         "id": 5,
-        "question": "Qui a ete critiquee pour s'etre endormie sur un sac Louis Vuitton aux Enfoires ?",
+        "question": "Qui a ete critiquee pour s etre endormie sur un sac Louis Vuitton aux Enfoires ?",
         "propositions": [
           "Lorie",
           "Jenifer",
@@ -97,7 +97,7 @@
           "Zazie"
         ],
         "reponse": "Jenifer",
-        "anecdote": "Jenifer a ete revelee par sa participation à l'emission televisee « Star Academy » dont elle remporta la premiere saison en 2002."
+        "anecdote": "Jenifer a ete revelee par sa participation a l emission televisee « Star Academy » dont elle remporta la premiere saison en 2002."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Arthur"
         ],
         "reponse": "Arthur",
-        "anecdote": "L'animateur n'avait en effet pas respecte le decret entre en vigueur en 2017 qui interdit les vitres surteintees."
+        "anecdote": "L animateur n avait en effet pas respecte le decret entre en vigueur en 2017 qui interdit les vitres surteintees."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Pamela Anderson"
         ],
         "reponse": "Pamela Anderson",
-        "anecdote": "Pamela Anderson a fait une visite eclair de 15 minutes dans les camps de migrants de Calais et de la Liniere à Grande-Synthe."
+        "anecdote": "Pamela Anderson a fait une visite eclair de 15 minutes dans les camps de migrants de Calais et de la Liniere a Grande-Synthe."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "Christian Constant"
         ],
         "reponse": "Cyril Lignac",
-        "anecdote": "Cyril Lignac a prete sa voix dans la version francaise de « Ratatouille », un film du studio d'animation Pixar, sorti en 2007."
+        "anecdote": "Cyril Lignac a prete sa voix dans la version francaise de « Ratatouille », un film du studio d animation Pixar, sorti en 2007."
       },
       {
         "id": 9,
@@ -149,7 +149,7 @@
       },
       {
         "id": 10,
-        "question": "Debut 2017, quelle chanteuse canadienne a dit au revoir à ses longs cheveux ondules ?",
+        "question": "Debut 2017, quelle chanteuse canadienne a dit au revoir a ses longs cheveux ondules ?",
         "propositions": [
           "Anggun",
           "Sofia Mestari",
@@ -157,7 +157,7 @@
           "Natasha St-Pier"
         ],
         "reponse": "Natasha St-Pier",
-        "anecdote": "Elle s'est engagee à rejoindre l'association « Petit Coeur de Beurre », pour en etre la marraine, suite aux problemes de sante de son fils."
+        "anecdote": "Elle s est engagee a rejoindre l association « Petit Coeur de Beurre », pour en etre la marraine, suite aux problemes de sante de son fils."
       }
     ],
     "confirme": [
@@ -171,7 +171,7 @@
           "Aurelie Dotremont"
         ],
         "reponse": "Aurelie Dotremont",
-        "anecdote": "Candidate dans « Les Anges 5 », Aurelie Dotremont reve d'enregistrer son premier single avec un producteur americain."
+        "anecdote": "Candidate dans « Les Anges 5 », Aurelie Dotremont reve d enregistrer son premier single avec un producteur americain."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Steven Spielberg"
         ],
         "reponse": "Pedro Almodvar",
-        "anecdote": "Succedant ainsi à George Miller, Pedro Almodovar avait dejà ete membre du jury en 1992, sous la presidence de Gerard Depardieu."
+        "anecdote": "Succedant ainsi a George Miller, Pedro Almodovar avait deja ete membre du jury en 1992, sous la presidence de Gerard Depardieu."
       },
       {
         "id": 13,
@@ -195,11 +195,11 @@
           "Cate Blanchett"
         ],
         "reponse": "Natalie Portman",
-        "anecdote": "Il y a 25 ans, Demi Moore posait, enceinte, en Une du magazine « Vanity Fair » sous l'objectif d'Annie Leibovitz."
+        "anecdote": "Il y a 25 ans, Demi Moore posait, enceinte, en Une du magazine « Vanity Fair » sous l objectif d Annie Leibovitz."
       },
       {
         "id": 14,
-        "question": "Quel heros de la serie policiere « Mannix » s'est eteint à l'age de 91 ans ?",
+        "question": "Quel heros de la serie policiere « Mannix » s est eteint a l age de 91 ans ?",
         "propositions": [
           "Stacy Keach",
           "Mike Connors",
@@ -231,7 +231,7 @@
           "Romain Dauriac"
         ],
         "reponse": "Romain Dauriac",
-        "anecdote": "Scarlett Johansson aime le fromage, declarant que son « plus grand vice est le fromage. Rien d'autre ne regne sur ma vie »."
+        "anecdote": "Scarlett Johansson aime le fromage, declarant que son « plus grand vice est le fromage. Rien d autre ne regne sur ma vie »."
       },
       {
         "id": 17,
@@ -255,11 +255,11 @@
           "James Smith"
         ],
         "reponse": "Mike Tyson",
-        "anecdote": "C'est dans son emission sur RMC « Super Moscato Show » qu'il a recu son idole, à Paris, pour son livre « La verite et rien d'autre »."
+        "anecdote": "C est dans son emission sur RMC « Super Moscato Show » qu il a recu son idole, a Paris, pour son livre « La verite et rien d autre »."
       },
       {
         "id": 19,
-        "question": "Quel acteur americain est devenu à 61 ans papa pour la neuvieme fois ?",
+        "question": "Quel acteur americain est devenu a 61 ans papa pour la neuvieme fois ?",
         "propositions": [
           "Clint Eastwood",
           "Kevin Costner",
@@ -267,7 +267,7 @@
           "Mel Gibson"
         ],
         "reponse": "Mel Gibson",
-        "anecdote": "La famille Gibson s'est agrandie et Mel et sa compagne, Rosalind Ross, comptent à present un petit Lars à leurs côtes."
+        "anecdote": "La famille Gibson s est agrandie et Mel et sa compagne, Rosalind Ross, comptent a present un petit Lars a leurs côtes."
       },
       {
         "id": 20,
@@ -279,13 +279,13 @@
           "Michou"
         ],
         "reponse": "Tony Gomez",
-        "anecdote": "En janvier 2015, Tony Gomez a repris la direction du restaurant de l'avenue des Champs-Élysees « Le Fouquet's »."
+        "anecdote": "En janvier 2015, Tony Gomez a repris la direction du restaurant de l avenue des Champs-Élysees « Le Fouquet s »."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quel acteur et cousin de George Clooney est decede à seulement 61 ans ?",
+        "question": "Quel acteur et cousin de George Clooney est decede a seulement 61 ans ?",
         "propositions": [
           "Antonio Moreno",
           "David Carradine",
@@ -293,7 +293,7 @@
           "Robert Gant"
         ],
         "reponse": "Miguel Ferrer",
-        "anecdote": "Miguel Ferrer, le directeur adjoint Owen Granger de la serie « NCIS : Los Angeles » a succombe à un cancer de la gorge."
+        "anecdote": "Miguel Ferrer, le directeur adjoint Owen Granger de la serie « NCIS : Los Angeles » a succombe a un cancer de la gorge."
       },
       {
         "id": 22,
@@ -305,11 +305,11 @@
           "Nelly Furtado"
         ],
         "reponse": "Alanis Morissette",
-        "anecdote": "En plaidant coupable, le manager d'Alanis Morissette admet lui avoir vole cinq millions de dollars et encourt jusqu'à 23 ans de prison."
+        "anecdote": "En plaidant coupable, le manager d Alanis Morissette admet lui avoir vole cinq millions de dollars et encourt jusqu a 23 ans de prison."
       },
       {
         "id": 23,
-        "question": "Quelle epouse de Michel Piccoli est decedee le meme jour qu'Emanuelle Riva ?",
+        "question": "Quelle epouse de Michel Piccoli est decedee le meme jour qu Emanuelle Riva ?",
         "propositions": [
           "Éleonore Hirt",
           "Pascale Audret",
@@ -317,7 +317,7 @@
           "Marguerite Moreno"
         ],
         "reponse": "Éleonore Hirt",
-        "anecdote": "Tout au long de sa carriere, Éleonore Hirt participa à de nombreuses creations d'auteurs nouveaux sur les scenes francaises."
+        "anecdote": "Tout au long de sa carriere, Éleonore Hirt participa a de nombreuses creations d auteurs nouveaux sur les scenes francaises."
       },
       {
         "id": 24,
@@ -341,11 +341,11 @@
           "Jane Bown"
         ],
         "reponse": "Shealah Craighead",
-        "anecdote": "Pendant les quatre ans à venir, Shealah Craighead sera de tous les deplacements presidentiels, au plus pres de Donald Trump."
+        "anecdote": "Pendant les quatre ans a venir, Shealah Craighead sera de tous les deplacements presidentiels, au plus pres de Donald Trump."
       },
       {
         "id": 26,
-        "question": "Quel sportif a prete sa voix à Superman dans le film « Lego Batman » ?",
+        "question": "Quel sportif a prete sa voix a Superman dans le film « Lego Batman » ?",
         "propositions": [
           "Antoine Griezmann",
           "Olivier Giroud",
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Quel chanteur a dejà diffuse trois videos dans le plus simple appareil ?",
+        "question": "Quel chanteur a deja diffuse trois videos dans le plus simple appareil ?",
         "propositions": [
           "Duncan Browne",
           "Charlie Winston",
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Qui a chante l'hymne national durant l'investiture de Donald Trump ?",
+        "question": "Qui a chante l hymne national durant l investiture de Donald Trump ?",
         "propositions": [
           "Emily West",
           "Grace VanderWaal",
@@ -377,7 +377,7 @@
           "Jackie Evancho"
         ],
         "reponse": "Jackie Evancho",
-        "anecdote": "Jackie Evancho a gagne sa popularite lors de la 5e saison de competition de « America's Got Talent » à l'age de 10 ans."
+        "anecdote": "Jackie Evancho a gagne sa popularite lors de la 5e saison de competition de « America s Got Talent » a l age de 10 ans."
       },
       {
         "id": 29,
@@ -389,11 +389,11 @@
           "Raul Pena"
         ],
         "reponse": "Augustin Galiana",
-        "anecdote": "Agustín Galiana, ne à Alicante, est un acteur espagnol connu principalement pour son rôle d'Adrian dans la serie « Clem »."
+        "anecdote": "Agustín Galiana, ne a Alicante, est un acteur espagnol connu principalement pour son rôle d Adrian dans la serie « Clem »."
       },
       {
         "id": 30,
-        "question": "Quelle ex-reine de beaute et animatrice tele italienne a ete attaquee à l'acide ?",
+        "question": "Quelle ex-reine de beaute et animatrice tele italienne a ete attaquee a l acide ?",
         "propositions": [
           "Giorgia Palmas",
           "Roberta Capua",
@@ -401,7 +401,7 @@
           "Paola Minaccioni"
         ],
         "reponse": "Gessica Notaro",
-        "anecdote": "Gessica Notaro a ete agressee à l'acide par son ex-petit ami, Edson Tavares, dans la soiree du 10 janvier 2017."
+        "anecdote": "Gessica Notaro a ete agressee a l acide par son ex-petit ami, Edson Tavares, dans la soiree du 10 janvier 2017."
       }
     ]
     }

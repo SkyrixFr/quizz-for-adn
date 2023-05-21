@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : juillet 2017",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: luglio 2017",
       "slogan": "Hanno fatto notizia"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quelle animatrice tele a fete en juillet 2017 son million d'abonnes sur Twitter ?",
+        "question": "Quelle animatrice tele a fete en juillet 2017 son million d abonnes sur Twitter ?",
         "propositions": [
           "Valerie Benaïm",
           "Caroline Ithurbide",
@@ -49,11 +49,11 @@
           "Enora Malagre"
         ],
         "reponse": "Enora Malagre",
-        "anecdote": "Enora Malagre a prepare pour l'occasion une fete avec tous ses fans et une autre animation durant le deuxieme week-end de septembre."
+        "anecdote": "Enora Malagre a prepare pour l occasion une fete avec tous ses fans et une autre animation durant le deuxieme week-end de septembre."
       },
       {
         "id": 2,
-        "question": "Quel danseur a decide de continuer sa carriere sous l'influence de Celine Dion ?",
+        "question": "Quel danseur a decide de continuer sa carriere sous l influence de Celine Dion ?",
         "propositions": [
           "Pablo Puyol",
           "Pepe Munoz",
@@ -61,7 +61,7 @@
           "Pep Ramis"
         ],
         "reponse": "Pepe Munoz",
-        "anecdote": "Le danseur de 33 ans avait pourtant envisage de delaisser la danse pour se consacrer à sa seconde passion : le stylisme."
+        "anecdote": "Le danseur de 33 ans avait pourtant envisage de delaisser la danse pour se consacrer a sa seconde passion : le stylisme."
       },
       {
         "id": 3,
@@ -73,11 +73,11 @@
           "Arnaud Tsamere"
         ],
         "reponse": "Jean-Marie Bigard",
-        "anecdote": "Jean-Marie Bigard manque egalement souvent d'etre deprogramme pour son sexisme et sa vulgarite par le CSA."
+        "anecdote": "Jean-Marie Bigard manque egalement souvent d etre deprogramme pour son sexisme et sa vulgarite par le CSA."
       },
       {
         "id": 4,
-        "question": "Quel nageur, aujourd'hui retraite, a remporte l'or à Budapest en juillet 2017 ?",
+        "question": "Quel nageur, aujourd hui retraite, a remporte l or a Budapest en juillet 2017 ?",
         "propositions": [
           "Julien Sauvage",
           "Camille Lacourt",
@@ -85,11 +85,11 @@
           "Stephane Lecat"
         ],
         "reponse": "Camille Lacourt",
-        "anecdote": "À 32 ans, le jeune homme a dejà plein de projets : restaurant-bar/cocktail à Paris et ambassadeur pour la marque Clarins."
+        "anecdote": "À 32 ans, le jeune homme a deja plein de projets : restaurant-bar/cocktail a Paris et ambassadeur pour la marque Clarins."
       },
       {
         "id": 5,
-        "question": "Quelle heroïne de « Jules et Jim » nous a quittes à l'age de 89 ans ?",
+        "question": "Quelle heroïne de « Jules et Jim » nous a quittes a l age de 89 ans ?",
         "propositions": [
           "Suzanne Flon",
           "Jeanne Moreau",
@@ -97,11 +97,11 @@
           "Annie Girardot"
         ],
         "reponse": "Jeanne Moreau",
-        "anecdote": "Jeanne Moreau laisse derriere elle de nombreux films cultes dont « Jules et Jim » ou « Le Journal d'une femme de chambre »."
+        "anecdote": "Jeanne Moreau laisse derriere elle de nombreux films cultes dont « Jules et Jim » ou « Le Journal d une femme de chambre »."
       },
       {
         "id": 6,
-        "question": "Durant quel festival 22 000 personnes ont-elles dû etre evacuees suite à un incendie ?",
+        "question": "Durant quel festival 22 000 personnes ont-elles dû etre evacuees suite a un incendie ?",
         "propositions": [
           "Qlimax",
           "Bassleader",
@@ -109,11 +109,11 @@
           "Tomorrowland"
         ],
         "reponse": "Tomorrowland",
-        "anecdote": "Une enquete fut lancee pour determiner les causes de l'incendie, dû à des problemes techniques selon les organisateurs."
+        "anecdote": "Une enquete fut lancee pour determiner les causes de l incendie, dû a des problemes techniques selon les organisateurs."
       },
       {
         "id": 7,
-        "question": "Quel ex d'Halle Berry a ete shoote en 2017 pour une campagne Mango Man ?",
+        "question": "Quel ex d Halle Berry a ete shoote en 2017 pour une campagne Mango Man ?",
         "propositions": [
           "Mathieu Amalric",
           "Yvan Attal",
@@ -157,7 +157,7 @@
           "Niall Horan"
         ],
         "reponse": "Harry Styles",
-        "anecdote": "À la suite d'une suggestion de la chanteuse Nicole Scherzinger, Harry Styles formera le groupe One Direction."
+        "anecdote": "À la suite d une suggestion de la chanteuse Nicole Scherzinger, Harry Styles formera le groupe One Direction."
       }
     ],
     "confirme": [
@@ -171,7 +171,7 @@
           "Chris Brown"
         ],
         "reponse": "Franck Ocean",
-        "anecdote": "Selon certaines rumeurs, la musique de Franck Ocean aurait meme aide Brad Pitt à se remettre de son divorce avec Angelina Jolie."
+        "anecdote": "Selon certaines rumeurs, la musique de Franck Ocean aurait meme aide Brad Pitt a se remettre de son divorce avec Angelina Jolie."
       },
       {
         "id": 12,
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quelle actrice a vomi durant une representation theatrale d'Olivia Wilde ?",
+        "question": "Quelle actrice a vomi durant une representation theatrale d Olivia Wilde ?",
         "propositions": [
           "Cate Blanchett",
           "Emma Stone",
@@ -199,7 +199,7 @@
       },
       {
         "id": 14,
-        "question": "Quelle comedienne a accouche d'un petit Souleymane en juillet 2017 ?",
+        "question": "Quelle comedienne a accouche d un petit Souleymane en juillet 2017 ?",
         "propositions": [
           "Geraldine Nakache",
           "Naidra Ayadi",
@@ -207,7 +207,7 @@
           "Zita Hanrot"
         ],
         "reponse": "Leïla Bekhti",
-        "anecdote": "La comedienne d'« Un Prophete », de « Tout ce qui brille » et de « La Source des femmes » est mariee avec Tahar Rahim."
+        "anecdote": "La comedienne d « Un Prophete », de « Tout ce qui brille » et de « La Source des femmes » est mariee avec Tahar Rahim."
       },
       {
         "id": 15,
@@ -226,16 +226,16 @@
         "question": "Laquelle de ces celebrites a declare en juillet 2017 avoir peur de vomir ?",
         "propositions": [
           "Lorie",
-          "Shy'm",
+          "Shy m",
           "Tal",
           "Alizee"
         ],
-        "reponse": "Shy'm",
-        "anecdote": "Shy'm a livre ses secrets dans le magazine Biba et avoue notamment une de ses plus grandes craintes : l'emetophobie."
+        "reponse": "Shy m",
+        "anecdote": "Shy m a livre ses secrets dans le magazine Biba et avoue notamment une de ses plus grandes craintes : l emetophobie."
       },
       {
         "id": 17,
-        "question": "À qui Jean-Pascal Lacoste a-t-il fait une declaration d'amour en juillet 2017 ?",
+        "question": "À qui Jean-Pascal Lacoste a-t-il fait une declaration d amour en juillet 2017 ?",
         "propositions": [
           "Delphine Tellier",
           "Sigrid Agren",
@@ -243,11 +243,11 @@
           "Audrey Marnay"
         ],
         "reponse": "Delphine Tellier",
-        "anecdote": "En janvier 2001, Jean-Pascal Lacoste a ete selectionne par TF1 pour participer à la premiere edition de « Star Academy »."
+        "anecdote": "En janvier 2001, Jean-Pascal Lacoste a ete selectionne par TF1 pour participer a la premiere edition de « Star Academy »."
       },
       {
         "id": 18,
-        "question": "Quelle chroniqueuse de « Telefoot » a dit oui à son cheri Jean-Luc Guizonne ?",
+        "question": "Quelle chroniqueuse de « Telefoot » a dit oui a son cheri Jean-Luc Guizonne ?",
         "propositions": [
           "Nathalie Simon",
           "Cecile de Menibus",
@@ -255,7 +255,7 @@
           "Ariane Carletti"
         ],
         "reponse": "Charlotte Namura",
-        "anecdote": "Charlotte Namura a ete reperee par l'equipe de Telefoot alors qu'elle faisait des chroniques sports sur une petite Web TV."
+        "anecdote": "Charlotte Namura a ete reperee par l equipe de Telefoot alors qu elle faisait des chroniques sports sur une petite Web TV."
       },
       {
         "id": 19,
@@ -267,7 +267,7 @@
           "Samuel Umtiti"
         ],
         "reponse": "Paul Pogba",
-        "anecdote": "Paul Pogba a fait partie des 23 joueurs francais selectionnes par Didier Deschamps pour disputer l'Euro 2016."
+        "anecdote": "Paul Pogba a fait partie des 23 joueurs francais selectionnes par Didier Deschamps pour disputer l Euro 2016."
       },
       {
         "id": 20,
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Quel pasteur fut longtemps accuse d'influencer le jeune Justin Bieber ?",
+        "question": "Quel pasteur fut longtemps accuse d influencer le jeune Justin Bieber ?",
         "propositions": [
           "Gary Trust",
           "Carl Lentz",
@@ -293,11 +293,11 @@
           "Jan Hoffman"
         ],
         "reponse": "Carl Lentz",
-        "anecdote": "Le chanteur de 23 ans serait devenu inseparable du pasteur Carl Lentz, au travers duquel il verrait un veritable pere d'adoption."
+        "anecdote": "Le chanteur de 23 ans serait devenu inseparable du pasteur Carl Lentz, au travers duquel il verrait un veritable pere d adoption."
       },
       {
         "id": 22,
-        "question": "Quelle chanteuse francaise a declare avoir souffert d'une longue paralysie faciale ?",
+        "question": "Quelle chanteuse francaise a declare avoir souffert d une longue paralysie faciale ?",
         "propositions": [
           "Louisy Joseph",
           "Ophelie Winter",
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "Quelle cherie de David Guetta s'est dehanchee sur ses musiques durant l'ete 2017 ?",
+        "question": "Quelle cherie de David Guetta s est dehanchee sur ses musiques durant l ete 2017 ?",
         "propositions": [
           "Chrissy Teigen",
           "Jessica Ledon",
@@ -317,11 +317,11 @@
           "Tina Kunakey"
         ],
         "reponse": "Jessica Ledon",
-        "anecdote": "Symbole de la French Touch, David Guetta est le compositeur de l'hymne de l'Euro 2016 se deroulant en France."
+        "anecdote": "Symbole de la French Touch, David Guetta est le compositeur de l hymne de l Euro 2016 se deroulant en France."
       },
       {
         "id": 24,
-        "question": "Quel fondateur d'Amazon est devenu le 26 juillet 2017 la premiere fortune mondiale ?",
+        "question": "Quel fondateur d Amazon est devenu le 26 juillet 2017 la premiere fortune mondiale ?",
         "propositions": [
           "Jeff Bezos",
           "David Ho",
@@ -333,7 +333,7 @@
       },
       {
         "id": 25,
-        "question": "Quelle chanteuse country s'est tuee en rentrant d'un de ses concerts le 22 juillet 2017 ?",
+        "question": "Quelle chanteuse country s est tuee en rentrant d un de ses concerts le 22 juillet 2017 ?",
         "propositions": [
           "Patsy Cline",
           "Alison Krauss",
@@ -341,7 +341,7 @@
           "Sara Carter"
         ],
         "reponse": "Abby Nicole",
-        "anecdote": "Apres s'etre produite sur scene, la jeune femme s'etait rendue à une fete foraine orga­ni­see pres du lieu ou elle avait chante."
+        "anecdote": "Apres s etre produite sur scene, la jeune femme s etait rendue a une fete foraine orga­ni­see pres du lieu ou elle avait chante."
       },
       {
         "id": 26,
@@ -365,7 +365,7 @@
           "Jonathan Davis"
         ],
         "reponse": "Chester Bennington",
-        "anecdote": "Le leader du groupe Linkin Park a ete inhume au cours d'une ceremonie privee dans la banlieue de Los Angeles."
+        "anecdote": "Le leader du groupe Linkin Park a ete inhume au cours d une ceremonie privee dans la banlieue de Los Angeles."
       },
       {
         "id": 28,
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quelle chanteuse est morte electrocutee à la fin de son concert le 19 juillet 2017 ?",
+        "question": "Quelle chanteuse est morte electrocutee a la fin de son concert le 19 juillet 2017 ?",
         "propositions": [
           "Barbara Weldens",
           "Marie Espinosa",
@@ -389,11 +389,11 @@
           "Caroline Fevre"
         ],
         "reponse": "Barbara Weldens",
-        "anecdote": "À la fin de son concert, dans le cadre du Festival Leo Ferre, Barbara Weldens a ete electrocutee et n'a pu etre reanimee."
+        "anecdote": "À la fin de son concert, dans le cadre du Festival Leo Ferre, Barbara Weldens a ete electrocutee et n a pu etre reanimee."
       },
       {
         "id": 30,
-        "question": "Quelle star du PSG s'est vue derober son alliance en juillet 2017 ?",
+        "question": "Quelle star du PSG s est vue derober son alliance en juillet 2017 ?",
         "propositions": [
           "Thiago Motta",
           "Serge Aurier",
@@ -401,7 +401,7 @@
           "Blaise Matuidi"
         ],
         "reponse": "Blaise Matuidi",
-        "anecdote": "Quelques jours apres son mariage, la star du PSG a perdu son alliance, derobee dans la boîte à gants de sa voiture de luxe."
+        "anecdote": "Quelques jours apres son mariage, la star du PSG a perdu son alliance, derobee dans la boîte a gants de sa voiture de luxe."
       }
     ]
     }

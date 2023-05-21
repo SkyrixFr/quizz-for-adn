@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Animaux",
@@ -49,7 +49,7 @@
           "Sur le flanc gauche"
         ],
         "reponse": "Debout",
-        "anecdote": "Comme la plupart des grands herbivores, le cheval dort peu (3 à 5 heures par jour) en raison de sa vulnerabilite aux predateurs."
+        "anecdote": "Comme la plupart des grands herbivores, le cheval dort peu (3 a 5 heures par jour) en raison de sa vulnerabilite aux predateurs."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "Cheval de Thor"
         ],
         "reponse": "Cheval de Troie",
-        "anecdote": "L'expression « cheval de Troie » designe aujourd'hui les dons qui s'averent etre des pieges pour ceux qui les recoivent."
+        "anecdote": "L expression « cheval de Troie » designe aujourd hui les dons qui s averent etre des pieges pour ceux qui les recoivent."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Jolly Jumper"
         ],
         "reponse": "Jolly Jumper",
-        "anecdote": "Par certains côtes, notamment son intelligence, son caractere et sa couleur de robe, Jolly Jumper ressemble à Milou, le chien de Tintin."
+        "anecdote": "Par certains côtes, notamment son intelligence, son caractere et sa couleur de robe, Jolly Jumper ressemble a Milou, le chien de Tintin."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Fourrage"
         ],
         "reponse": "Avoine",
-        "anecdote": "L'avoine, qui fait partie des cereales à paille, est fort utilisee dans l'alimentation animale (notamment celle des equides)."
+        "anecdote": "L avoine, qui fait partie des cereales a paille, est fort utilisee dans l alimentation animale (notamment celle des equides)."
       },
       {
         "id": 5,
@@ -109,7 +109,7 @@
           "Renes"
         ],
         "reponse": "Sangle",
-        "anecdote": "Les cavaliers qui souhaitent evoluer devront consentir à investir dans une selle specialisee et fabriquee sur mesure."
+        "anecdote": "Les cavaliers qui souhaitent evoluer devront consentir a investir dans une selle specialisee et fabriquee sur mesure."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Etriers"
         ],
         "reponse": "Etriers",
-        "anecdote": "L'etrier serait une invention chinoise, alors que pour d'autres, il viendrait des peuples nomades d'Asie centrale ou de Siberie."
+        "anecdote": "L etrier serait une invention chinoise, alors que pour d autres, il viendrait des peuples nomades d Asie centrale ou de Siberie."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "Lamborghini"
         ],
         "reponse": "Ferrari",
-        "anecdote": "Des 1947, le logo initial, dit Scudetto, est reserve aux modeles prepares par la Scuderia Ferrari, l'ecurie de competition."
+        "anecdote": "Des 1947, le logo initial, dit Scudetto, est reserve aux modeles prepares par la Scuderia Ferrari, l ecurie de competition."
       },
       {
         "id": 9,
@@ -145,11 +145,11 @@
           "1 fois par semaine"
         ],
         "reponse": "1 fois par jour",
-        "anecdote": "Les animaux à sabots marchent sur la pointe de leurs doigts, à la difference des humains qui marchent sur la plante des pieds."
+        "anecdote": "Les animaux a sabots marchent sur la pointe de leurs doigts, a la difference des humains qui marchent sur la plante des pieds."
       },
       {
         "id": 10,
-        "question": "Comment s'appelle le cheval aile relate dans la mythologie grecque ?",
+        "question": "Comment s appelle le cheval aile relate dans la mythologie grecque ?",
         "propositions": [
           "Argus",
           "Merengo",
@@ -157,13 +157,13 @@
           "Pegase"
         ],
         "reponse": "Pegase",
-        "anecdote": "Pegase est monte au ciel apres sa naissance pour se mettre au service de Zeus qui le chargera d'apporter les eclairs sur l'Olympe."
+        "anecdote": "Pegase est monte au ciel apres sa naissance pour se mettre au service de Zeus qui le chargera d apporter les eclairs sur l Olympe."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Combien peut-on compter de cavaliers parmi l'ensemble des pieces d'un echiquier ?",
+        "question": "Combien peut-on compter de cavaliers parmi l ensemble des pieces d un echiquier ?",
         "propositions": [
           "Quatre",
           "Un",
@@ -171,11 +171,11 @@
           "Trois"
         ],
         "reponse": "Quatre",
-        "anecdote": "On dispose l'echiquier de facon telle que, pour chacun des adversaires, la case du coin gauche de l'echiquier soit noire."
+        "anecdote": "On dispose l echiquier de facon telle que, pour chacun des adversaires, la case du coin gauche de l echiquier soit noire."
       },
       {
         "id": 12,
-        "question": "Jusqu'à combien de litres d'eau un cheval adulte peut-il boire chaque jour ?",
+        "question": "Jusqu a combien de litres d eau un cheval adulte peut-il boire chaque jour ?",
         "propositions": [
           "20 litres",
           "10 litres",
@@ -183,7 +183,7 @@
           "30 litres"
         ],
         "reponse": "40 litres",
-        "anecdote": "Le cheval possede un sens developpe de l'odorat lui permettant de trouver de l'eau et de detecter une femelle en chaleur."
+        "anecdote": "Le cheval possede un sens developpe de l odorat lui permettant de trouver de l eau et de detecter une femelle en chaleur."
       },
       {
         "id": 13,
@@ -195,11 +195,11 @@
           "Heureux"
         ],
         "reponse": "Fache",
-        "anecdote": "L'etude de la gestuelle du cheval, des mouvements d'oreilles et des attitudes de sa tete, permet de determiner son humeur."
+        "anecdote": "L etude de la gestuelle du cheval, des mouvements d oreilles et des attitudes de sa tete, permet de determiner son humeur."
       },
       {
         "id": 14,
-        "question": "Quelle est la couleur de Stewball dans la chanson d'Hugues Aufray ?",
+        "question": "Quelle est la couleur de Stewball dans la chanson d Hugues Aufray ?",
         "propositions": [
           "Alezan",
           "Blanc",
@@ -207,11 +207,11 @@
           "Noir"
         ],
         "reponse": "Blanc",
-        "anecdote": "La chanson d'Hugues Aufray celebre la victoire d'un cheval blanc à taches alezanes sur une jument grise lors d'une course hippique."
+        "anecdote": "La chanson d Hugues Aufray celebre la victoire d un cheval blanc a taches alezanes sur une jument grise lors d une course hippique."
       },
       {
         "id": 15,
-        "question": "Combien le poulain nouveau-ne d'un cheval ordinaire pese-t-il environ ?",
+        "question": "Combien le poulain nouveau-ne d un cheval ordinaire pese-t-il environ ?",
         "propositions": [
           "60 kg",
           "45 kg",
@@ -219,7 +219,7 @@
           "15 kg"
         ],
         "reponse": "45 kg",
-        "anecdote": "À l'etat domestique, le poulain reste avec sa mere jusqu'au sevrage, generalement à l'age de six mois, apres quoi l'eleveur les separe."
+        "anecdote": "À l etat domestique, le poulain reste avec sa mere jusqu au sevrage, generalement a l age de six mois, apres quoi l eleveur les separe."
       },
       {
         "id": 16,
@@ -231,11 +231,11 @@
           "Pour se gratter"
         ],
         "reponse": "Pour se gratter",
-        "anecdote": "À l'etat sauvage ou domestique, le cheval peut-etre affecte par des parasites et des maladies telles que le tetanos ou la rage."
+        "anecdote": "À l etat sauvage ou domestique, le cheval peut-etre affecte par des parasites et des maladies telles que le tetanos ou la rage."
       },
       {
         "id": 17,
-        "question": "Qu'observe-t-on generalement pour connaître l'age approximatif d'un cheval ?",
+        "question": "Qu observe-t-on generalement pour connaître l age approximatif d un cheval ?",
         "propositions": [
           "Dents",
           "Criniere",
@@ -243,7 +243,7 @@
           "Jambes"
         ],
         "reponse": "Dents",
-        "anecdote": "Les dents du cheval poussant en permanence, le mouvement masticatoire n'est souvent pas suffisant pour user la table dentaire."
+        "anecdote": "Les dents du cheval poussant en permanence, le mouvement masticatoire n est souvent pas suffisant pour user la table dentaire."
       },
       {
         "id": 18,
@@ -255,11 +255,11 @@
           "11 mois"
         ],
         "reponse": "11 mois",
-        "anecdote": "La jument donne naissance au printemps à un poulain qui peut en effet marcher moins d'une heure apres la naissance."
+        "anecdote": "La jument donne naissance au printemps a un poulain qui peut en effet marcher moins d une heure apres la naissance."
       },
       {
         "id": 19,
-        "question": "Que signifie l'expression ne pas se trouver sous le sabot d'un cheval ?",
+        "question": "Que signifie l expression ne pas se trouver sous le sabot d un cheval ?",
         "propositions": [
           "Être prudent",
           "Être rapide",
@@ -267,11 +267,11 @@
           "Être rare"
         ],
         "reponse": "Être rare",
-        "anecdote": "À l'origine, au XVIIe siecle, l'expression contenait dans le pas d'un cheval, le pas voulant signifier le mot trace."
+        "anecdote": "À l origine, au XVIIe siecle, l expression contenait dans le pas d un cheval, le pas voulant signifier le mot trace."
       },
       {
         "id": 20,
-        "question": "Sur combien d'orteils poses au sol le cheval marche-t-il ?",
+        "question": "Sur combien d orteils poses au sol le cheval marche-t-il ?",
         "propositions": [
           "Deux",
           "Un seul",
@@ -279,7 +279,7 @@
           "Trois"
         ],
         "reponse": "Un seul",
-        "anecdote": "Le cheval est un perissodactyle, ordre de mammiferes ongules, à nombre impair de doigts, en l'occurrence un seul."
+        "anecdote": "Le cheval est un perissodactyle, ordre de mammiferes ongules, a nombre impair de doigts, en l occurrence un seul."
       }
     ],
     "expert": [
@@ -293,11 +293,11 @@
           "Bai"
         ],
         "reponse": "Pie",
-        "anecdote": "Le terme pie, par analogie à l'animal du meme nom, est prefere à celui de bicolore pour designer de telles robes."
+        "anecdote": "Le terme pie, par analogie a l animal du meme nom, est prefere a celui de bicolore pour designer de telles robes."
       },
       {
         "id": 22,
-        "question": "Environ combien de races de chevaux differentes existe-t-il encore à ce jour ?",
+        "question": "Environ combien de races de chevaux differentes existe-t-il encore a ce jour ?",
         "propositions": [
           "400",
           "300",
@@ -305,11 +305,11 @@
           "500"
         ],
         "reponse": "300",
-        "anecdote": "En 2008, d'apres les donnees de la FAO, 58 millions de chevaux etaient repertories dans le monde sur les cinq continents."
+        "anecdote": "En 2008, d apres les donnees de la FAO, 58 millions de chevaux etaient repertories dans le monde sur les cinq continents."
       },
       {
         "id": 23,
-        "question": "À quelle frequence moyenne le coeur d'un cheval bat-il au repos ?",
+        "question": "À quelle frequence moyenne le coeur d un cheval bat-il au repos ?",
         "propositions": [
           "60 ppm",
           "100 ppm",
@@ -317,7 +317,7 @@
           "80 ppm"
         ],
         "reponse": "40 ppm",
-        "anecdote": "Les maladies cardiaques, circulatoires, nerveuses et les vices d'ecurie n'affectent que les chevaux domestiques."
+        "anecdote": "Les maladies cardiaques, circulatoires, nerveuses et les vices d ecurie n affectent que les chevaux domestiques."
       },
       {
         "id": 24,
@@ -329,23 +329,23 @@
           "Poincon"
         ],
         "reponse": "Fourchette",
-        "anecdote": "La fourchette du cheval est une saillie en forme de V à pointe anterieure, composee d'une corne tubulaire plus molle."
+        "anecdote": "La fourchette du cheval est une saillie en forme de V a pointe anterieure, composee d une corne tubulaire plus molle."
       },
       {
         "id": 25,
         "question": "Combien de fois par jour un poulain peut-il teter sa mere ?",
         "propositions": [
-          "10 à 20 fois",
-          "20 à 30 fois",
-          "50 à 60 fois",
-          "30 à 40 fois"
+          "10 a 20 fois",
+          "20 a 30 fois",
+          "50 a 60 fois",
+          "30 a 40 fois"
         ],
-        "reponse": "50 à 60 fois",
+        "reponse": "50 a 60 fois",
         "anecdote": "Les poulains tetent leur mere apres la naissance pour absorber le colostrum qui renforce leurs defenses immunitaires."
       },
       {
         "id": 26,
-        "question": "Laquelle de ces couleurs de robe n'existe pas chez les chevaux ?",
+        "question": "Laquelle de ces couleurs de robe n existe pas chez les chevaux ?",
         "propositions": [
           "Isabelle",
           "Pie",
@@ -353,7 +353,7 @@
           "Camouflage"
         ],
         "reponse": "Camouflage",
-        "anecdote": "Un certain nombre de robes du cheval consistent en un melange de poils blancs ou noirs sur l'une des trois robes de base."
+        "anecdote": "Un certain nombre de robes du cheval consistent en un melange de poils blancs ou noirs sur l une des trois robes de base."
       },
       {
         "id": 27,
@@ -365,19 +365,19 @@
           "Fjord"
         ],
         "reponse": "Haflinger",
-        "anecdote": "De son elevage pour le travail en terrain accidente, le Haflinger, originaire du Tyrol, a herite d'une grande robustesse."
+        "anecdote": "De son elevage pour le travail en terrain accidente, le Haflinger, originaire du Tyrol, a herite d une grande robustesse."
       },
       {
         "id": 28,
         "question": "Combien de temps la digestion dure-t-elle chez un cheval adulte en bonne sante ?",
         "propositions": [
-          "25 à 35 h",
-          "35 à 50 h",
-          "15 à 20 h",
-          "5 à 15 h"
+          "25 a 35 h",
+          "35 a 50 h",
+          "15 a 20 h",
+          "5 a 15 h"
         ],
-        "reponse": "35 à 50 h",
-        "anecdote": "Les chevaux disposent d'un seul estomac, capable de digerer les fibres vegetales qui proviennent de l'herbe et du foin."
+        "reponse": "35 a 50 h",
+        "anecdote": "Les chevaux disposent d un seul estomac, capable de digerer les fibres vegetales qui proviennent de l herbe et du foin."
       },
       {
         "id": 29,
@@ -401,7 +401,7 @@
           "Dos"
         ],
         "reponse": "Oreilles",
-        "anecdote": "Les contacts tactiles sont peu nombreux entre chevaux, à l'exception de la mere avec son poulain."
+        "anecdote": "Les contacts tactiles sont peu nombreux entre chevaux, a l exception de la mere avec son poulain."
       }
     ]
     },
@@ -425,7 +425,7 @@
         "propositions": [
           "Trojan Horse",
           "Lotos Horse",
-          "Thor's horse",
+          "Thor s horse",
           "Polybius Horse"
         ],
         "reponse": "Trojan Horse",
@@ -441,7 +441,7 @@
           "Bonfire"
         ],
         "reponse": "Jolly Jumper",
-        "anecdote": "On some sides, including his intelligence, his character and his dress color, he looks like Snowy, Tintin's dog."
+        "anecdote": "On some sides, including his intelligence, his character and his dress color, he looks like Snowy, Tintin s dog."
       },
       {
         "id": 4,
@@ -563,11 +563,11 @@
           "Happy"
         ],
         "reponse": "Fache",
-        "anecdote": "The study of the horse's gestures, ear movements and the attitudes of his head helps to determine his mood."
+        "anecdote": "The study of the horse s gestures, ear movements and the attitudes of his head helps to determine his mood."
       },
       {
         "id": 14,
-        "question": "What color is Stewball in Hugues Aufray's song ?",
+        "question": "What color is Stewball in Hugues Aufray s song ?",
         "propositions": [
           "Chestnut",
           "Gray",
@@ -579,7 +579,7 @@
       },
       {
         "id": 15,
-        "question": "How much does the newborn foal of an 'ordinary' horse weigh about ?",
+        "question": "How much does the newborn foal of an  ordinary  horse weigh about ?",
         "propositions": [
           "45 kg",
           "30 kg",
@@ -611,7 +611,7 @@
           "The legs"
         ],
         "reponse": "Teeth",
-        "anecdote": "Because the horse's teeth are constantly pushing, the masticatory movement is often not enough to use the dental table."
+        "anecdote": "Because the horse s teeth are constantly pushing, the masticatory movement is often not enough to use the dental table."
       },
       {
         "id": 18,
@@ -627,7 +627,7 @@
       },
       {
         "id": 19,
-        "question": "What does the phrase 'not to be under the hoof of a horse' mean ?",
+        "question": "What does the phrase  not to be under the hoof of a horse  mean ?",
         "propositions": [
           "To be fast",
           "To be rare",
@@ -635,7 +635,7 @@
           "Be careful"
         ],
         "reponse": "To be rare",
-        "anecdote": "Originally, in the seventeenth century, the expression contained 'in the step of a horse', the step wanting to mean the word 'trace'."
+        "anecdote": "Originally, in the seventeenth century, the expression contained  in the step of a horse , the step wanting to mean the word  trace ."
       },
       {
         "id": 20,
@@ -661,7 +661,7 @@
           "Bai"
         ],
         "reponse": "Pie",
-        "anecdote": "The term 'magpie', by analogy to the animal of the same name, is preferred to that of 'two-colored' to designate such dresses."
+        "anecdote": "The term  magpie , by analogy to the animal of the same name, is preferred to that of  two-colored  to designate such dresses."
       },
       {
         "id": 22,
@@ -689,7 +689,7 @@
       },
       {
         "id": 24,
-        "question": "What name does the V-shaped protrusion stand under the horse's foot ?",
+        "question": "What name does the V-shaped protrusion stand under the horse s foot ?",
         "propositions": [
           "The fork",
           "The corner",
@@ -697,7 +697,7 @@
           "The bead"
         ],
         "reponse": "The fork",
-        "anecdote": "The horse's fork is a protruding V-shaped projection with a softer tubular horn."
+        "anecdote": "The horse s fork is a protruding V-shaped projection with a softer tubular horn."
       },
       {
         "id": 25,
@@ -869,7 +869,7 @@
           "Ferrari"
         ],
         "reponse": "Ferrari",
-        "anecdote": "Das erste 'Scudetto' Logo war bereits 1947 Modellen vorbehalten, die vom Rennstall Scuderia Ferrari vorbereitet wurden."
+        "anecdote": "Das erste  Scudetto  Logo war bereits 1947 Modellen vorbehalten, die vom Rennstall Scuderia Ferrari vorbereitet wurden."
       },
       {
         "id": 9,
@@ -947,7 +947,7 @@
       },
       {
         "id": 15,
-        "question": "Wie viel wiegt das neugeborene Fohlen eines 'normalen' Pferdes ?",
+        "question": "Wie viel wiegt das neugeborene Fohlen eines  normalen  Pferdes ?",
         "propositions": [
           "45 kg",
           "30 kg",
@@ -995,7 +995,7 @@
       },
       {
         "id": 19,
-        "question": "Was bedeutet der Ausdruck 'nicht unter dem Huf eines Pferdes sein' ?",
+        "question": "Was bedeutet der Ausdruck  nicht unter dem Huf eines Pferdes sein  ?",
         "propositions": [
           "Geizig sein",
           "Selten sein",
@@ -1003,7 +1003,7 @@
           "Sei vorsichtig"
         ],
         "reponse": "Selten sein",
-        "anecdote": "Ursprünglich im 17. Jahrhundert enthielt der Ausdruck 'im Schritt eines Pferdes' den Schritt, der das Wort 'Spur' bedeuten soll."
+        "anecdote": "Ursprünglich im 17. Jahrhundert enthielt der Ausdruck  im Schritt eines Pferdes  den Schritt, der das Wort  Spur  bedeuten soll."
       },
       {
         "id": 20,
@@ -1029,7 +1029,7 @@
           "Isabelle"
         ],
         "reponse": "Pie",
-        "anecdote": "Der Begriff 'Elster' wird in Analogie zu dem gleichnamigen Tier dem Begriff 'zweifarbig' vorgezogen, um solche Kleider zu bezeichnen."
+        "anecdote": "Der Begriff  Elster  wird in Analogie zu dem gleichnamigen Tier dem Begriff  zweifarbig  vorgezogen, um solche Kleider zu bezeichnen."
       },
       {
         "id": 22,
@@ -1315,7 +1315,7 @@
       },
       {
         "id": 15,
-        "question": "¿Cuánto pesa el potro recien nacido de un caballo 'ordinario' ?",
+        "question": "¿Cuánto pesa el potro recien nacido de un caballo  ordinario  ?",
         "propositions": [
           "15 kg",
           "45 kg",
@@ -1363,7 +1363,7 @@
       },
       {
         "id": 19,
-        "question": "¿Que significa la frase 'no estar debajo de la pezuña de un caballo' ?",
+        "question": "¿Que significa la frase  no estar debajo de la pezuña de un caballo  ?",
         "propositions": [
           "Ser raro",
           "Ser rapido",
@@ -1371,7 +1371,7 @@
           "Ten cuidado"
         ],
         "reponse": "Ser raro",
-        "anecdote": "Originalmente, en el siglo XVII, la expresión contenía 'en el paso de un caballo', el paso que quería significar la palabra 'rastro'."
+        "anecdote": "Originalmente, en el siglo XVII, la expresión contenía  en el paso de un caballo , el paso que quería significar la palabra  rastro ."
       },
       {
         "id": 20,
@@ -1397,7 +1397,7 @@
           "Isabelle"
         ],
         "reponse": "Pie",
-        "anecdote": "El termino 'urraca', por analogía con el animal del mismo nombre, se prefiere al de 'dos colores' para designar tales vestidos."
+        "anecdote": "El termino  urraca , por analogía con el animal del mismo nombre, se prefiere al de  dos colores  para designar tales vestidos."
       },
       {
         "id": 22,
@@ -1521,7 +1521,7 @@
           "Sul fianco sinistro"
         ],
         "reponse": "In piedi",
-        "anecdote": "Come la maggior parte dei grandi erbivori, il cavallo dorme poco (da 3 a 5 ore al giorno) a causa della sua vulnerabilità ai predatori."
+        "anecdote": "Come la maggior parte dei grandi erbivori, il cavallo dorme poco (da 3 a 5 ore al giorno) a causa della sua vulnerabilita ai predatori."
       },
       {
         "id": 2,
@@ -1557,7 +1557,7 @@
           "Muesli"
         ],
         "reponse": "Avena",
-        "anecdote": "L'avena e un cereale di paglia e viene ampiamente utilizzato nei mangimi per animali (soprattutto equini)."
+        "anecdote": "L avena e un cereale di paglia e viene ampiamente utilizzato nei mangimi per animali (soprattutto equini)."
       },
       {
         "id": 5,
@@ -1569,7 +1569,7 @@
           "Dopo 4 settimane"
         ],
         "reponse": "Immediatamente",
-        "anecdote": "Questa peculiarità e ereditata dai loro antenati dai cavalli selvaggi che erano preda di molti predatori."
+        "anecdote": "Questa peculiarita e ereditata dai loro antenati dai cavalli selvaggi che erano preda di molti predatori."
       },
       {
         "id": 6,
@@ -1593,7 +1593,7 @@
           "Baudriers"
         ],
         "reponse": "Staffe",
-        "anecdote": "Per erigerlo sarebbe un'invenzione cinese, mentre per altri verrebbe dai popoli nomadi dell'Asia centrale o della Siberia."
+        "anecdote": "Per erigerlo sarebbe un invenzione cinese, mentre per altri verrebbe dai popoli nomadi dell Asia centrale o della Siberia."
       },
       {
         "id": 8,
@@ -1605,7 +1605,7 @@
           "Peugeot"
         ],
         "reponse": "Ferrari",
-        "anecdote": "Già nel 1947, il logo iniziale 'Scudetto' era riservato ai modelli preparati dalla Scuderia Ferrari, la squadra corse."
+        "anecdote": "Gia nel 1947, il logo iniziale  Scudetto  era riservato ai modelli preparati dalla Scuderia Ferrari, la squadra corse."
       },
       {
         "id": 9,
@@ -1614,7 +1614,7 @@
           "Una volta al mese",
           "Una volta al giorno",
           "Una volta alla settimana",
-          "Una volta all'anno"
+          "Una volta all anno"
         ],
         "reponse": "Una volta al giorno",
         "anecdote": "Gli ungulati camminano sulla punta delle loro dita, a differenza degli umani che camminano sulla pianta dei loro piedi."
@@ -1629,7 +1629,7 @@
           "Argus"
         ],
         "reponse": "Pegaso",
-        "anecdote": "Pegaso ascende al cielo dopo la sua nascita e si mette al servizio di Zeus che lo accusa di portare un fulmine verso l'Olimpo."
+        "anecdote": "Pegaso ascende al cielo dopo la sua nascita e si mette al servizio di Zeus che lo accusa di portare un fulmine verso l Olimpo."
       }
     ],
     "confirme": [
@@ -1643,11 +1643,11 @@
           "3"
         ],
         "reponse": "4",
-        "anecdote": "La scacchiera e posizionata in modo che per ciascuno degli avversari la scatola nell'angolo sinistro della scacchiera sia nera."
+        "anecdote": "La scacchiera e posizionata in modo che per ciascuno degli avversari la scatola nell angolo sinistro della scacchiera sia nera."
       },
       {
         "id": 12,
-        "question": "Quanti litri d'acqua può bere un cavallo ogni giorno ?",
+        "question": "Quanti litri d acqua può bere un cavallo ogni giorno ?",
         "propositions": [
           "10 litri",
           "20 litri",
@@ -1667,7 +1667,7 @@
           "Fache"
         ],
         "reponse": "Fache",
-        "anecdote": "Lo studio dei gesti del cavallo, i movimenti delle orecchie e gli atteggiamenti della testa aiutano a determinare il suo stato d'animo."
+        "anecdote": "Lo studio dei gesti del cavallo, i movimenti delle orecchie e gli atteggiamenti della testa aiutano a determinare il suo stato d animo."
       },
       {
         "id": 14,
@@ -1683,7 +1683,7 @@
       },
       {
         "id": 15,
-        "question": "Quanto pesa il neonato puledro di un cavallo 'ordinario' ?",
+        "question": "Quanto pesa il neonato puledro di un cavallo  ordinario  ?",
         "propositions": [
           "60 kg",
           "45 kg",
@@ -1691,7 +1691,7 @@
           "15 kg"
         ],
         "reponse": "45 kg",
-        "anecdote": "Nello stato domestico, il puledro rimane con sua madre fino allo svezzamento, di solito all'età di sei mesi, quando l'allevatore li separa."
+        "anecdote": "Nello stato domestico, il puledro rimane con sua madre fino allo svezzamento, di solito all eta di sei mesi, quando l allevatore li separa."
       },
       {
         "id": 16,
@@ -1707,7 +1707,7 @@
       },
       {
         "id": 17,
-        "question": "Cosa vediamo di solito per conoscere l'età di un cavallo ?",
+        "question": "Cosa vediamo di solito per conoscere l eta di un cavallo ?",
         "propositions": [
           "Denti",
           "Le crine",
@@ -1727,11 +1727,11 @@
           "7 mesi"
         ],
         "reponse": "11 mesi",
-        "anecdote": "La giumenta dà alla luce in primavera un puledro che può camminare meno di un'ora dopo la nascita."
+        "anecdote": "La giumenta da alla luce in primavera un puledro che può camminare meno di un ora dopo la nascita."
       },
       {
         "id": 19,
-        "question": "Cosa significa la frase 'non essere sotto lo zoccolo di un cavallo' ?",
+        "question": "Cosa significa la frase  non essere sotto lo zoccolo di un cavallo  ?",
         "propositions": [
           "Essere veloce",
           "Stai attento",
@@ -1739,7 +1739,7 @@
           "Essere avaro"
         ],
         "reponse": "Essere rari",
-        "anecdote": "In origine, nel diciassettesimo secolo, l'espressione conteneva 'nel passo di un cavallo', il passo che voleva significare la parola 'traccia'."
+        "anecdote": "In origine, nel diciassettesimo secolo, l espressione conteneva  nel passo di un cavallo , il passo che voleva significare la parola  traccia ."
       },
       {
         "id": 20,
@@ -1765,7 +1765,7 @@
           "Bai"
         ],
         "reponse": "Torta",
-        "anecdote": "Il termine 'gazza', per analogia all'animale con lo stesso nome, e preferito a quello di 'due colori' per designare tali abiti."
+        "anecdote": "Il termine  gazza , per analogia all animale con lo stesso nome, e preferito a quello di  due colori  per designare tali abiti."
       },
       {
         "id": 22,
@@ -1796,7 +1796,7 @@
         "question": "Come si chiama la sporgenza a forma di V sotto il piede del cavallo ?",
         "propositions": [
           "La forcella",
-          "L'angolo",
+          "L angolo",
           "Il pugno",
           "Il tallone"
         ],
@@ -1837,7 +1837,7 @@
           "Fiordo"
         ],
         "reponse": "Haflinger",
-        "anecdote": "Dal suo allevamento per il lavoro su terreni accidentati, l'Haflinger, originario del Tirolo, ha ereditato una grande robustezza."
+        "anecdote": "Dal suo allevamento per il lavoro su terreni accidentati, l Haflinger, originario del Tirolo, ha ereditato una grande robustezza."
       },
       {
         "id": 28,
@@ -1861,7 +1861,7 @@
           "300 m"
         ],
         "reponse": "600 m",
-        "anecdote": "Il cavallo esegue un flehmen, un particolare comportamento del profumo che consente tra l'altro di rilevare pemonones."
+        "anecdote": "Il cavallo esegue un flehmen, un particolare comportamento del profumo che consente tra l altro di rilevare pemonones."
       },
       {
         "id": 30,
@@ -1895,13 +1895,13 @@
         "id": 2,
         "question": "Welk paard gebruikten de Grieken in 1180 voor Christus als een truc ?",
         "propositions": [
-          "Thor's paard",
+          "Thor s paard",
           "Trojaans paard",
           "Lotos Horse",
           "Polybius paard"
         ],
         "reponse": "Trojaans paard",
-        "anecdote": "De term 'paard van Troje' verwijst vandaag naar geschenken die valstrikken blijken te zijn voor degenen die ze ontvangen."
+        "anecdote": "De term  paard van Troje  verwijst vandaag naar geschenken die valstrikken blijken te zijn voor degenen die ze ontvangen."
       },
       {
         "id": 3,
@@ -1973,7 +1973,7 @@
           "Peugeot"
         ],
         "reponse": "Ferrari",
-        "anecdote": "Al in 1947 was het oorspronkelijke 'Scudetto' logo gereserveerd voor modellen die werden voorbereid door Scuderia Ferrari, het raceteam."
+        "anecdote": "Al in 1947 was het oorspronkelijke  Scudetto  logo gereserveerd voor modellen die werden voorbereid door Scuderia Ferrari, het raceteam."
       },
       {
         "id": 9,
@@ -2051,7 +2051,7 @@
       },
       {
         "id": 15,
-        "question": "Hoeveel weegt het pasgeboren veulen van een 'gewoon' paard ongeveer ?",
+        "question": "Hoeveel weegt het pasgeboren veulen van een  gewoon  paard ongeveer ?",
         "propositions": [
           "60 kg",
           "15 kg",
@@ -2099,7 +2099,7 @@
       },
       {
         "id": 19,
-        "question": "Wat betekent de uitdrukking 'niet onder de hoeven van een paard' zijn ?",
+        "question": "Wat betekent de uitdrukking  niet onder de hoeven van een paard  zijn ?",
         "propositions": [
           "Om gierig te zijn",
           "Wees voorzichtig",
@@ -2107,7 +2107,7 @@
           "Om zeldzaam te zijn"
         ],
         "reponse": "Om zeldzaam te zijn",
-        "anecdote": "Oorspronkelijk, in de zeventiende eeuw, bevatte de uitdrukking 'in de stap van een paard', de stap die het woord 'spoor' wilde betekenen."
+        "anecdote": "Oorspronkelijk, in de zeventiende eeuw, bevatte de uitdrukking  in de stap van een paard , de stap die het woord  spoor  wilde betekenen."
       },
       {
         "id": 20,
@@ -2133,7 +2133,7 @@
           "Bai"
         ],
         "reponse": "Pie",
-        "anecdote": "De term 'ekster', naar analogie van het dier met dezelfde naam, heeft de voorkeur boven die van 'tweekleurig' om dergelijke jurken aan te duiden."
+        "anecdote": "De term  ekster , naar analogie van het dier met dezelfde naam, heeft de voorkeur boven die van  tweekleurig  om dergelijke jurken aan te duiden."
       },
       {
         "id": 22,

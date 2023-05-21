@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
@@ -21,7 +21,7 @@
       "slogan": "La tez bronceada y los músculos prominentes"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Bellissimi bambini",
       "slogan": "La carnagione abbronzata ei muscoli prominenti"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Avec quel ancien chanteur de NSYNC Cameron Diaz a-t-elle vecu jusqu'en 2007 ?",
+        "question": "Avec quel ancien chanteur de NSYNC Cameron Diaz a-t-elle vecu jusqu en 2007 ?",
         "propositions": [
           "Lance Bass",
           "Justin Timberlake",
@@ -49,7 +49,7 @@
           "Joey Fatone"
         ],
         "reponse": "Justin Timberlake",
-        "anecdote": "Dans une interview, Justin Timberlake a declare souffrir de troubles obsessionnels compulsifs (TOC) melanges à un deficit de l'attention."
+        "anecdote": "Dans une interview, Justin Timberlake a declare souffrir de troubles obsessionnels compulsifs (TOC) melanges a un deficit de l attention."
       },
       {
         "id": 2,
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "Quel acteur d'« Ocean's Eleven » a vendu un baiser 350 000 euros pour une bonne cause ?",
+        "question": "Quel acteur d « Ocean s Eleven » a vendu un baiser 350 000 euros pour une bonne cause ?",
         "propositions": [
           "George Clooney",
           "Matt Damon",
@@ -73,7 +73,7 @@
           "Andy Garcia"
         ],
         "reponse": "George Clooney",
-        "anecdote": "George Clooney est devenu celebre aupres du grand public grace à son rôle du docteur Doug Ross dans la serie televisee « Urgences »."
+        "anecdote": "George Clooney est devenu celebre aupres du grand public grace a son rôle du docteur Doug Ross dans la serie televisee « Urgences »."
       },
       {
         "id": 4,
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Quel chanteur à qui on s'attache a debute en faisant la manche à St-Tropez ?",
+        "question": "Quel chanteur a qui on s attache a debute en faisant la manche a St-Tropez ?",
         "propositions": [
           "Christophe Mae",
           "Christophe Willem",
@@ -97,7 +97,7 @@
           "Julien Dore"
         ],
         "reponse": "Christophe Mae",
-        "anecdote": "Passionne de tennis et de ski, il abandonna le sport à la suite d'une polyarthrite chronique qui l'immobilisa à l'age de 16 ans."
+        "anecdote": "Passionne de tennis et de ski, il abandonna le sport a la suite d une polyarthrite chronique qui l immobilisa a l age de 16 ans."
       },
       {
         "id": 6,
@@ -109,11 +109,11 @@
           "Adrian Pasdar"
         ],
         "reponse": "Milo Ventimiglia",
-        "anecdote": "Fan de « Star Wars », Milo Ventimiglia revait de devenir acteur de la saga et fait tout ce qu'il pouvait pour s'en donner les moyens."
+        "anecdote": "Fan de « Star Wars », Milo Ventimiglia revait de devenir acteur de la saga et fait tout ce qu il pouvait pour s en donner les moyens."
       },
       {
         "id": 7,
-        "question": "Lequel de ces acteurs s'est retrouve celibataire apres sa rupture avec Bar Refaeli ?",
+        "question": "Lequel de ces acteurs s est retrouve celibataire apres sa rupture avec Bar Refaeli ?",
         "propositions": [
           "Casey Affleck",
           "Colin Firth",
@@ -121,11 +121,11 @@
           "Daniel Day-Lewis"
         ],
         "reponse": "Leonardo DiCaprio",
-        "anecdote": "Parallelement à ses metiers dans le cinema, Leonardo DiCaprio est egalement connu pour son fort engagement en faveur de l'ecologie."
+        "anecdote": "Parallelement a ses metiers dans le cinema, Leonardo DiCaprio est egalement connu pour son fort engagement en faveur de l ecologie."
       },
       {
         "id": 8,
-        "question": "Quel nul a frequente douze ecoles differentes, de la sixieme à la Terminale ?",
+        "question": "Quel nul a frequente douze ecoles differentes, de la sixieme a la Terminale ?",
         "propositions": [
           "Bruno Carette",
           "Alain Chabat",
@@ -133,7 +133,7 @@
           "Smaïn"
         ],
         "reponse": "Alain Chabat",
-        "anecdote": "Ayant vecu à Bobigny, Alain Chabat a longtemps souhaite devenir dessinateur de BD ou faire carriere comme chanteur de rock."
+        "anecdote": "Ayant vecu a Bobigny, Alain Chabat a longtemps souhaite devenir dessinateur de BD ou faire carriere comme chanteur de rock."
       },
       {
         "id": 9,
@@ -157,13 +157,13 @@
           "Mickey Rourke"
         ],
         "reponse": "Bruce Willis",
-        "anecdote": "Les films avec Bruce Willis ont jusqu'ici rapporte trois milliards de dollars au box-office americain et sept milliards dans le monde."
+        "anecdote": "Les films avec Bruce Willis ont jusqu ici rapporte trois milliards de dollars au box-office americain et sept milliards dans le monde."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Quel faux millionnaire et vrai macon a seduit des filles à la television en 2003 ?",
+        "question": "Quel faux millionnaire et vrai macon a seduit des filles a la television en 2003 ?",
         "propositions": [
           "Pascal Olmeta",
           "Gregory Basso",
@@ -175,7 +175,7 @@
       },
       {
         "id": 12,
-        "question": "Quel humoriste a dit : « Tromper une femme, ce n'est pas tromper, c'est comparer » ?",
+        "question": "Quel humoriste a dit : « Tromper une femme, ce n est pas tromper, c est comparer » ?",
         "propositions": [
           "Franck Dubosc",
           "Sebastien Cauet",
@@ -183,11 +183,11 @@
           "Laurent Gerra"
         ],
         "reponse": "Franck Dubosc",
-        "anecdote": "À ce jour, l'acteur Franck Dubosc cumule un box-office total superieur aux cinquante millions d'entrees en France."
+        "anecdote": "À ce jour, l acteur Franck Dubosc cumule un box-office total superieur aux cinquante millions d entrees en France."
       },
       {
         "id": 13,
-        "question": "Quel ancien champion de tennis americain a ete marie à Brooke Shields ?",
+        "question": "Quel ancien champion de tennis americain a ete marie a Brooke Shields ?",
         "propositions": [
           "Jimmy Connors",
           "John McEnroe",
@@ -195,11 +195,11 @@
           "Andre Agassi"
         ],
         "reponse": "Andre Agassi",
-        "anecdote": "Le principal rival d'Agassi au cours de sa carriere fut Pete Sampras, qu'il affronta à 34 reprises dont cinq finales de Grand Chelem."
+        "anecdote": "Le principal rival d Agassi au cours de sa carriere fut Pete Sampras, qu il affronta a 34 reprises dont cinq finales de Grand Chelem."
       },
       {
         "id": 14,
-        "question": "Quel vainqueur de « La Nouvelle Star » fut designe en 2007 l'homme le plus sexy de l'annee ?",
+        "question": "Quel vainqueur de « La Nouvelle Star » fut designe en 2007 l homme le plus sexy de l annee ?",
         "propositions": [
           "Steeve Estatof",
           "Julien Dore",
@@ -207,7 +207,7 @@
           "Pierrick Lilliu"
         ],
         "reponse": "Julien Dore",
-        "anecdote": "Julien Dore a d'abord travaille dans une entreprise de manutention et jouait avec son groupe Dig Up Elvis dans des bars de Nîmes."
+        "anecdote": "Julien Dore a d abord travaille dans une entreprise de manutention et jouait avec son groupe Dig Up Elvis dans des bars de Nîmes."
       },
       {
         "id": 15,
@@ -223,7 +223,7 @@
       },
       {
         "id": 16,
-        "question": "Quel champion inconteste de la terre battue est ne sur l'île de Majorque ?",
+        "question": "Quel champion inconteste de la terre battue est ne sur l île de Majorque ?",
         "propositions": [
           "Andy Murray",
           "Marcelo Melo",
@@ -231,7 +231,7 @@
           "Rafael Nadal"
         ],
         "reponse": "Rafael Nadal",
-        "anecdote": "En devenant champion olympique en 2008, Rafael Nadal est le deuxieme à realiser le Grand Chelem dore en carriere apres Agassi."
+        "anecdote": "En devenant champion olympique en 2008, Rafael Nadal est le deuxieme a realiser le Grand Chelem dore en carriere apres Agassi."
       },
       {
         "id": 17,
@@ -247,7 +247,7 @@
       },
       {
         "id": 18,
-        "question": "Quel animateur tele au look BCBG a ete condamne à un stage de citoyennete ?",
+        "question": "Quel animateur tele au look BCBG a ete condamne a un stage de citoyennete ?",
         "propositions": [
           "Yann Barthes",
           "Jean-Luc Delarue",
@@ -255,7 +255,7 @@
           "Thierry Beccaro"
         ],
         "reponse": "Jean-Luc Delarue",
-        "anecdote": "Jean-Luc Delarue a ete confronte à differentes difficultes d'ordre judiciaire en sa qualite de president de la societe Reservoir Prod."
+        "anecdote": "Jean-Luc Delarue a ete confronte a differentes difficultes d ordre judiciaire en sa qualite de president de la societe Reservoir Prod."
       },
       {
         "id": 19,
@@ -279,7 +279,7 @@
           "Clovis Cornillac"
         ],
         "reponse": "Clovis Cornillac",
-        "anecdote": "Depuis 2009, Clovis Cornillac est en couple avec la comedienne francaise Lilou Fogli qu'il a epousee le 30 août 2013."
+        "anecdote": "Depuis 2009, Clovis Cornillac est en couple avec la comedienne francaise Lilou Fogli qu il a epousee le 30 août 2013."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Mathieu Amalric"
         ],
         "reponse": "Olivier Martinez",
-        "anecdote": "Olivier Martinez a tenu le rôle d'Angelo Pardi aux côtes de Juliette Binoche dans « Le Hussard sur le toit » de Jean-Paul Rappeneau."
+        "anecdote": "Olivier Martinez a tenu le rôle d Angelo Pardi aux côtes de Juliette Binoche dans « Le Hussard sur le toit » de Jean-Paul Rappeneau."
       },
       {
         "id": 22,
@@ -305,11 +305,11 @@
           "Eric Roberts"
         ],
         "reponse": "Sylvester Stallone",
-        "anecdote": "Apres la victoire de Donald Trump en 2016, ce dernier proposa à Sylvester Stallone la presidence du National Endowment for the Arts."
+        "anecdote": "Apres la victoire de Donald Trump en 2016, ce dernier proposa a Sylvester Stallone la presidence du National Endowment for the Arts."
       },
       {
         "id": 23,
-        "question": "De quel acteur cesarise Claude Chabrol dit-il qu'il est le Al Pacino francais ?",
+        "question": "De quel acteur cesarise Claude Chabrol dit-il qu il est le Al Pacino francais ?",
         "propositions": [
           "Vincent Cassel",
           "Mathieu Amalric",
@@ -317,11 +317,11 @@
           "Daniel Auteuil"
         ],
         "reponse": "Francois Cluzet",
-        "anecdote": "Depuis 2004, Francois Cluzet est parrain de l'association Vaincre la mucoviscidose en compagnie d'Isabelle Carre et Gerard Lenorman."
+        "anecdote": "Depuis 2004, Francois Cluzet est parrain de l association Vaincre la mucoviscidose en compagnie d Isabelle Carre et Gerard Lenorman."
       },
       {
         "id": 24,
-        "question": "De quel bel Irlandais Charlize Theron a-t-elle partage sa vie de 2002 à 2010 ?",
+        "question": "De quel bel Irlandais Charlize Theron a-t-elle partage sa vie de 2002 a 2010 ?",
         "propositions": [
           "Hugh Leonard",
           "Jim Sheridan",
@@ -329,7 +329,7 @@
           "Stuart Townsend"
         ],
         "reponse": "Stuart Townsend",
-        "anecdote": "Stuart Townsend a d'abord opte pour une carriere de boxeur avant de debuter en 1996 au cinema dans le film « Trojan Eddie »."
+        "anecdote": "Stuart Townsend a d abord opte pour une carriere de boxeur avant de debuter en 1996 au cinema dans le film « Trojan Eddie »."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "VSD"
         ],
         "reponse": "Choc",
-        "anecdote": "Les photos auraient ete prises le 2 janvier, au Huvafen Fushi, un luxueux hôtel des îles Maldives ou l'animateur etait en vacances."
+        "anecdote": "Les photos auraient ete prises le 2 janvier, au Huvafen Fushi, un luxueux hôtel des îles Maldives ou l animateur etait en vacances."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Michael York"
         ],
         "reponse": "Clive Owen",
-        "anecdote": "En France, Julien Kramer est la voix francaise reguliere de Clive Owen, bien que Bernard Gabay l'ait egalement double."
+        "anecdote": "En France, Julien Kramer est la voix francaise reguliere de Clive Owen, bien que Bernard Gabay l ait egalement double."
       },
       {
         "id": 27,
@@ -365,11 +365,11 @@
           "Billy Martin"
         ],
         "reponse": "Joel Madden",
-        "anecdote": "Lors d'un concert des Beastie Boys dans les annees 1990, ce fut le declic pour les jumeaux qui deciderent de se consacrer à la musique."
+        "anecdote": "Lors d un concert des Beastie Boys dans les annees 1990, ce fut le declic pour les jumeaux qui deciderent de se consacrer a la musique."
       },
       {
         "id": 28,
-        "question": "Qui a risque d'etre arrete pour avoir embrasse en Inde et en public l'actrice Shilpa Shetty ?",
+        "question": "Qui a risque d etre arrete pour avoir embrasse en Inde et en public l actrice Shilpa Shetty ?",
         "propositions": [
           "Johnny Depp",
           "Colin Farrell",
@@ -377,7 +377,7 @@
           "Richard Gere"
         ],
         "reponse": "Richard Gere",
-        "anecdote": "Richard Gere se sert de sa notoriete d'acteur pour promouvoir son aide au peuple tibetain opprime par le gouvernement chinois."
+        "anecdote": "Richard Gere se sert de sa notoriete d acteur pour promouvoir son aide au peuple tibetain opprime par le gouvernement chinois."
       },
       {
         "id": 29,
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "À quel sex-symbol des annees 1970 l'actrice Kelly Preston est-elle mariee ?",
+        "question": "À quel sex-symbol des annees 1970 l actrice Kelly Preston est-elle mariee ?",
         "propositions": [
           "Kevin Costner",
           "Hugh Jackman",
@@ -401,7 +401,7 @@
           "John Travolta"
         ],
         "reponse": "John Travolta",
-        "anecdote": "John Travolta, qui vit à Ocala en Floride, est un membre actif de la scientologie, tout comme son collegue de cinema Tom Cruise."
+        "anecdote": "John Travolta, qui vit a Ocala en Floride, est un membre actif de la scientologie, tout comme son collegue de cinema Tom Cruise."
       }
     ]
     },
@@ -433,7 +433,7 @@
       },
       {
         "id": 3,
-        "question": "Which actor from « Ocean's Eleven » sold a kiss 350,000 euros for a good cause ?",
+        "question": "Which actor from « Ocean s Eleven » sold a kiss 350,000 euros for a good cause ?",
         "propositions": [
           "Matt Damon",
           "George Clooney",
@@ -543,7 +543,7 @@
       },
       {
         "id": 12,
-        "question": "What a comedian said: « To deceive a woman is not to deceive, it's to compare » ?",
+        "question": "What a comedian said: « To deceive a woman is not to deceive, it s to compare » ?",
         "propositions": [
           "Laurent Gerra",
           "Albert Dupontel",
@@ -563,7 +563,7 @@
           "Andre Agassi"
         ],
         "reponse": "Andre Agassi",
-        "anecdote": "Agassi's main rival during his career was Pete Sampras, whom he faced on 34 occasions including five Grand Slam finals."
+        "anecdote": "Agassi s main rival during his career was Pete Sampras, whom he faced on 34 occasions including five Grand Slam finals."
       },
       {
         "id": 14,
@@ -661,7 +661,7 @@
           "Bruno Putzulu"
         ],
         "reponse": "Olivier Martinez",
-        "anecdote": "Olivier Martinez held the role of Angelo Pardi alongside Juliette Binoche in Jean-Paul Rappeneau's Le Hussard on the Roof."
+        "anecdote": "Olivier Martinez held the role of Angelo Pardi alongside Juliette Binoche in Jean-Paul Rappeneau s Le Hussard on the Roof."
       },
       {
         "id": 22,
@@ -673,7 +673,7 @@
           "Eric Roberts"
         ],
         "reponse": "Sylvester Stallone",
-        "anecdote": "After Donald Trump's victory in 2016, he proposed Stallone as president of the National Endowment for the Arts."
+        "anecdote": "After Donald Trump s victory in 2016, he proposed Stallone as president of the National Endowment for the Arts."
       },
       {
         "id": 23,
@@ -725,7 +725,7 @@
       },
       {
         "id": 27,
-        "question": "Which Good Charlotte singer is Nicole Richie's father ?",
+        "question": "Which Good Charlotte singer is Nicole Richie s father ?",
         "propositions": [
           "Dean Butterworth",
           "Paul Thomas",
@@ -801,7 +801,7 @@
       },
       {
         "id": 3,
-        "question": "Welcher Schauspieler aus « Ocean's Eleven » hat einen Kuss von 350.000 Euro für einen guten Zweck verkauft ?",
+        "question": "Welcher Schauspieler aus « Ocean s Eleven » hat einen Kuss von 350.000 Euro für einen guten Zweck verkauft ?",
         "propositions": [
           "Matt Damon",
           "George Clooney",
@@ -1169,7 +1169,7 @@
       },
       {
         "id": 3,
-        "question": "¿Que actor de « Ocean's Eleven » vendió un beso por 350,000 euros por una buena causa ?",
+        "question": "¿Que actor de « Ocean s Eleven » vendió un beso por 350,000 euros por una buena causa ?",
         "propositions": [
           "Matt Damon",
           "Brad Pitt",
@@ -1521,7 +1521,7 @@
           "Lance Bass"
         ],
         "reponse": "Justin Timberlake",
-        "anecdote": "In un'intervista, Justin Timberlake ha dichiarato di soffrire di disturbo ossessivo-compulsivo (OCD) misto a mancanza di attenzione."
+        "anecdote": "In un intervista, Justin Timberlake ha dichiarato di soffrire di disturbo ossessivo-compulsivo (OCD) misto a mancanza di attenzione."
       },
       {
         "id": 2,
@@ -1533,11 +1533,11 @@
           "Tobey Maguire"
         ],
         "reponse": "Tobey Maguire",
-        "anecdote": "Nell'ottobre 2016, viene annunciato che Tobey Maguire e Jennifer Meyer, genitori di due figli, divorziano dopo 9 anni di matrimonio."
+        "anecdote": "Nell ottobre 2016, viene annunciato che Tobey Maguire e Jennifer Meyer, genitori di due figli, divorziano dopo 9 anni di matrimonio."
       },
       {
         "id": 3,
-        "question": "Quale attore di « Ocean's Eleven » ha venduto un bacio di 350.000 euro per una buona causa ?",
+        "question": "Quale attore di « Ocean s Eleven » ha venduto un bacio di 350.000 euro per una buona causa ?",
         "propositions": [
           "Andy Garcia",
           "Brad Pitt",
@@ -1569,11 +1569,11 @@
           "Florent Pagny"
         ],
         "reponse": "Christophe Mae",
-        "anecdote": "Appassionato di tennis e sci, ha rinunciato allo sport dopo una poliartrite cronica che lo ha immobilizzato all'età di 16 anni."
+        "anecdote": "Appassionato di tennis e sci, ha rinunciato allo sport dopo una poliartrite cronica che lo ha immobilizzato all eta di 16 anni."
       },
       {
         "id": 6,
-        "question": "Con quale altro eroe Hayden Pannetiere ha l'amore perfetto ?",
+        "question": "Con quale altro eroe Hayden Pannetiere ha l amore perfetto ?",
         "propositions": [
           "Adrian Pasdar",
           "Milo Ventimiglia",
@@ -1593,7 +1593,7 @@
           "Leonardo DiCaprio"
         ],
         "reponse": "Leonardo DiCaprio",
-        "anecdote": "Insieme alla sua vita nel film, Leonardo DiCaprio e anche noto per il suo forte impegno per l'ecologia."
+        "anecdote": "Insieme alla sua vita nel film, Leonardo DiCaprio e anche noto per il suo forte impegno per l ecologia."
       },
       {
         "id": 8,
@@ -1617,11 +1617,11 @@
           "George Clooney"
         ],
         "reponse": "George Clooney",
-        "anecdote": "Nel settembre 2006, George Clooney e stato ricevuto dal Consiglio di sicurezza dell'ONU per fermare il genocidio in Darfur."
+        "anecdote": "Nel settembre 2006, George Clooney e stato ricevuto dal Consiglio di sicurezza dell ONU per fermare il genocidio in Darfur."
       },
       {
         "id": 10,
-        "question": "Chi e il famoso papà di Rumer Glenn, Scout LaRue e Tallulah Belle ?",
+        "question": "Chi e il famoso papa di Rumer Glenn, Scout LaRue e Tallulah Belle ?",
         "propositions": [
           "Bruce Willis",
           "Edward Norton",
@@ -1655,7 +1655,7 @@
           "Albert Dupontel"
         ],
         "reponse": "Franck Dubosc",
-        "anecdote": "Ad oggi, l'attore Franck Dubosc ha un botteghino totale di oltre cinquanta milioni di entrate in Francia."
+        "anecdote": "Ad oggi, l attore Franck Dubosc ha un botteghino totale di oltre cinquanta milioni di entrate in Francia."
       },
       {
         "id": 13,
@@ -1671,7 +1671,7 @@
       },
       {
         "id": 14,
-        "question": "Quale vincitore di « New Star » e stato nominato nel 2007 l'uomo piu sexy dell'anno ?",
+        "question": "Quale vincitore di « New Star » e stato nominato nel 2007 l uomo piu sexy dell anno ?",
         "propositions": [
           "Steeve Estatof",
           "Pierrick Lilliu",
@@ -1679,7 +1679,7 @@
           "Julien Dore"
         ],
         "reponse": "Julien Dore",
-        "anecdote": "Julien Dore ha lavorato per la prima volta in una società di movimentazione e ha suonato con il suo gruppo Dig Up Elvis nei bar di Nîmes."
+        "anecdote": "Julien Dore ha lavorato per la prima volta in una societa di movimentazione e ha suonato con il suo gruppo Dig Up Elvis nei bar di Nîmes."
       },
       {
         "id": 15,
@@ -1695,7 +1695,7 @@
       },
       {
         "id": 16,
-        "question": "Quale campione di argilla e nato sull'isola di Maiorca ?",
+        "question": "Quale campione di argilla e nato sull isola di Maiorca ?",
         "propositions": [
           "Roger Federer",
           "Andy Murray",
@@ -1727,7 +1727,7 @@
           "Vincent Cerutti"
         ],
         "reponse": "Jean-Luc Delarue",
-        "anecdote": "Jean-Luc Delarue ha dovuto affrontare varie difficoltà giudiziarie nella sua qualità di Presidente della Societe Reservoir Prod."
+        "anecdote": "Jean-Luc Delarue ha dovuto affrontare varie difficolta giudiziarie nella sua qualita di Presidente della Societe Reservoir Prod."
       },
       {
         "id": 19,
@@ -1789,7 +1789,7 @@
           "Francois Cluzet"
         ],
         "reponse": "Francois Cluzet",
-        "anecdote": "Dal 2004 e sponsor dell'Associazione Defeat Cystic Fibrosis con Isabelle Carre e Gerard Lenorman."
+        "anecdote": "Dal 2004 e sponsor dell Associazione Defeat Cystic Fibrosis con Isabelle Carre e Gerard Lenorman."
       },
       {
         "id": 24,
@@ -1813,11 +1813,11 @@
           "Choc"
         ],
         "reponse": "Choc",
-        "anecdote": "Le foto sono state scattate il 2 gennaio a Huvafen Fushi, un hotel di lusso nelle isole Maldive dove l'ospite era in vacanza."
+        "anecdote": "Le foto sono state scattate il 2 gennaio a Huvafen Fushi, un hotel di lusso nelle isole Maldive dove l ospite era in vacanza."
       },
       {
         "id": 26,
-        "question": "Quale attore inglese molto sexy e stato l'ambasciatore del profumo di Lancôme Hypnôse ?",
+        "question": "Quale attore inglese molto sexy e stato l ambasciatore del profumo di Lancôme Hypnôse ?",
         "propositions": [
           "Michael York",
           "Sean Connery",
@@ -1837,11 +1837,11 @@
           "Paul Thomas"
         ],
         "reponse": "Joel Madden",
-        "anecdote": "Durante un concerto dei Beastie Boys degli anni '90, e stato il clic per i gemelli che hanno deciso di dedicarsi alla musica."
+        "anecdote": "Durante un concerto dei Beastie Boys degli anni  90, e stato il clic per i gemelli che hanno deciso di dedicarsi alla musica."
       },
       {
         "id": 28,
-        "question": "Chi ha rischiato di essere arrestato per aver baciato in India e in pubblico l'attrice Shilpa Shetty ?",
+        "question": "Chi ha rischiato di essere arrestato per aver baciato in India e in pubblico l attrice Shilpa Shetty ?",
         "propositions": [
           "Johnny Depp",
           "Joaquin Phoenix",
@@ -1849,7 +1849,7 @@
           "Richard Gere"
         ],
         "reponse": "Richard Gere",
-        "anecdote": "Richard Gere sta usando la sua notorietà come attore per promuovere il suo aiuto al popolo tibetano oppresso dal governo cinese."
+        "anecdote": "Richard Gere sta usando la sua notorieta come attore per promuovere il suo aiuto al popolo tibetano oppresso dal governo cinese."
       },
       {
         "id": 29,
@@ -1865,7 +1865,7 @@
       },
       {
         "id": 30,
-        "question": "A quale sex symbol degli anni '70 e sposata l'attrice Kelly Preston ?",
+        "question": "A quale sex symbol degli anni  70 e sposata l attrice Kelly Preston ?",
         "propositions": [
           "John Travolta",
           "Hugh Jackman",
@@ -1905,7 +1905,7 @@
       },
       {
         "id": 3,
-        "question": "Welke acteur van « Ocean's Eleven » verkocht een kus van 350.000 euro voor een goed doel ?",
+        "question": "Welke acteur van « Ocean s Eleven » verkocht een kus van 350.000 euro voor een goed doel ?",
         "propositions": [
           "Brad Pitt",
           "Andy Garcia",
@@ -2035,7 +2035,7 @@
           "Andre Agassi"
         ],
         "reponse": "Andre Agassi",
-        "anecdote": "Agassi's belangrijkste rivaal tijdens zijn carriere was Pete Sampras, met wie hij te maken kreeg tijdens 34 gelegenheden waaronder vijf Grand Slam-finales."
+        "anecdote": "Agassi s belangrijkste rivaal tijdens zijn carriere was Pete Sampras, met wie hij te maken kreeg tijdens 34 gelegenheden waaronder vijf Grand Slam-finales."
       },
       {
         "id": 14,
@@ -2181,7 +2181,7 @@
           "VSD"
         ],
         "reponse": "Choc",
-        "anecdote": "De foto's zijn genomen op 2 januari in Huvafen Fushi, een luxe hotel op de Malediven eilanden waar de gastheer op vakantie was."
+        "anecdote": "De foto s zijn genomen op 2 januari in Huvafen Fushi, een luxe hotel op de Malediven eilanden waar de gastheer op vakantie was."
       },
       {
         "id": 26,

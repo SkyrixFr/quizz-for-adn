@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Archeologie",
@@ -23,7 +23,7 @@
     "it": {
       "categorie": "Archeologia",
       "nom": "Machu Picchu",
-      "slogan": "Antica città Inca del Peru"
+      "slogan": "Antica citta Inca del Peru"
     },
     "de": {
       "categorie": "Archäologie",
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "La cite du Machu Picchu unit le mont Huayna Picchu à quel autre mont ?",
+        "question": "La cite du Machu Picchu unit le mont Huayna Picchu a quel autre mont ?",
         "propositions": [
           "Huaca Rajada",
           "Machu Picchu",
@@ -49,11 +49,11 @@
           "Cota Coca"
         ],
         "reponse": "Machu Picchu",
-        "anecdote": "Le sommet du Huayna Picchu culmine à 2 720 metres d'altitude, dominant d'environ 360 metres l'ancien site inca."
+        "anecdote": "Le sommet du Huayna Picchu culmine a 2 720 metres d altitude, dominant d environ 360 metres l ancien site inca."
       },
       {
         "id": 2,
-        "question": "Lors de l'effondrement de quel empire le Machu Picchu fut-il abandonne ?",
+        "question": "Lors de l effondrement de quel empire le Machu Picchu fut-il abandonne ?",
         "propositions": [
           "Corsaire",
           "Azteque",
@@ -61,7 +61,7 @@
           "Inca"
         ],
         "reponse": "Inca",
-        "anecdote": "Machu Picchu, la ville sacree oubliee durant des siecles, est consideree comme une oeuvre maîtresse de l'architecture inca."
+        "anecdote": "Machu Picchu, la ville sacree oubliee durant des siecles, est consideree comme une oeuvre maîtresse de l architecture inca."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Boreale"
         ],
         "reponse": "Amazonienne",
-        "anecdote": "Avec une superficie de 5 500 000 km2, soit pres de dix fois la taille de la France, il s'agit de la plus grande foret tropicale du monde."
+        "anecdote": "Avec une superficie de 5 500 000 km2, soit pres de dix fois la taille de la France, il s agit de la plus grande foret tropicale du monde."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Cuzco"
         ],
         "reponse": "Cuzco",
-        "anecdote": "De taille moderee, Cuzco fut la capitale des Incas et a ete longtemps un carrefour sur l'axe economique transandin."
+        "anecdote": "De taille moderee, Cuzco fut la capitale des Incas et a ete longtemps un carrefour sur l axe economique transandin."
       },
       {
         "id": 5,
@@ -97,7 +97,7 @@
           "Terrasses"
         ],
         "reponse": "Terrasses",
-        "anecdote": "D'autres terrasses de moindre largeur se trouvent dans la partie basse de Machu Picchu, tout autour de la cite."
+        "anecdote": "D autres terrasses de moindre largeur se trouvent dans la partie basse de Machu Picchu, tout autour de la cite."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Condor"
         ],
         "reponse": "Condor",
-        "anecdote": "Il est parfois admis que les Incas donnaient à leurs cites la forme d'animaux sacres (puma, condor, ...)."
+        "anecdote": "Il est parfois admis que les Incas donnaient a leurs cites la forme d animaux sacres (puma, condor, ...)."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Aucune"
         ],
         "reponse": "Aucune",
-        "anecdote": "Les visiteurs doivent en effet marcher ou utiliser la ligne de chemin de fer qui traverse le village, au depart d'Ollantaytambo."
+        "anecdote": "Les visiteurs doivent en effet marcher ou utiliser la ligne de chemin de fer qui traverse le village, au depart d Ollantaytambo."
       },
       {
         "id": 8,
@@ -141,11 +141,11 @@
         "propositions": [
           "Chemin du Vent",
           "Chemin des Sources",
-          "Chemin de l'Inca",
+          "Chemin de l Inca",
           "Chemin du Temple"
         ],
-        "reponse": "Chemin de l'Inca",
-        "anecdote": "Le chemin de l'Inca est soumis à un contrôle touristique strict et ne peut etre parcouru qu'avec une agence de voyage."
+        "reponse": "Chemin de l Inca",
+        "anecdote": "Le chemin de l Inca est soumis a un contrôle touristique strict et ne peut etre parcouru qu avec une agence de voyage."
       },
       {
         "id": 10,
@@ -183,11 +183,11 @@
           "Hiram Bingham"
         ],
         "reponse": "Hiram Bingham",
-        "anecdote": "Bien que considere comme archeologue, il prefera toujours le terme explorateur, insistant pour etre decrit ainsi dans les « Who's Who »."
+        "anecdote": "Bien que considere comme archeologue, il prefera toujours le terme explorateur, insistant pour etre decrit ainsi dans les « Who s Who »."
       },
       {
         "id": 13,
-        "question": "Depuis quelle annee le Machu Picchu est-il inscrit sur la liste de l'UNESCO ?",
+        "question": "Depuis quelle annee le Machu Picchu est-il inscrit sur la liste de l UNESCO ?",
         "propositions": [
           "1963",
           "1923",
@@ -195,7 +195,7 @@
           "1983"
         ],
         "reponse": "1983",
-        "anecdote": "L'Unesco poursuit son action à travers cinq grands programmes : education, sciences, culture, communication et information."
+        "anecdote": "L Unesco poursuit son action a travers cinq grands programmes : education, sciences, culture, communication et information."
       },
       {
         "id": 14,
@@ -207,7 +207,7 @@
           "139"
         ],
         "reponse": "172",
-        "anecdote": "Les 172 constructions qui forment le Machu Picchu s'etendent sur environ 530 metres de long et sur 200 metres de large."
+        "anecdote": "Les 172 constructions qui forment le Machu Picchu s etendent sur environ 530 metres de long et sur 200 metres de large."
       },
       {
         "id": 15,
@@ -219,7 +219,7 @@
           "Atahualpa"
         ],
         "reponse": "Pachacutec",
-        "anecdote": "À la mort de Pachacutec, et selon les coutumes royales incas, Machu Picchu passa à sa « panaca » (cour, clan, clientele elargie)."
+        "anecdote": "À la mort de Pachacutec, et selon les coutumes royales incas, Machu Picchu passa a sa « panaca » (cour, clan, clientele elargie)."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "300 000"
         ],
         "reponse": "400 000",
-        "anecdote": "L'eloignement et la difficulte d'acces au site imposent d'eux-memes des limites naturelles à l'expansion du tourisme."
+        "anecdote": "L eloignement et la difficulte d acces au site imposent d eux-memes des limites naturelles a l expansion du tourisme."
       },
       {
         "id": 17,
@@ -255,7 +255,7 @@
           "600 metres"
         ],
         "reponse": "400 metres",
-        "anecdote": "La zone urbaine a ete divisee par les archeologues en groupes d'edifices numerotes de 1 à 18."
+        "anecdote": "La zone urbaine a ete divisee par les archeologues en groupes d edifices numerotes de 1 a 18."
       },
       {
         "id": 19,
@@ -279,13 +279,13 @@
           "10 000"
         ],
         "reponse": "10 000",
-        "anecdote": "La ville etait alimentee grace à ces cultures en terrasse, qui permettaient de recolter maïs, pomme de terre et divers legumes."
+        "anecdote": "La ville etait alimentee grace a ces cultures en terrasse, qui permettaient de recolter maïs, pomme de terre et divers legumes."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quel est le numero d'identification du Machu Picchu au patrimoine mondial de l'UNESCO ?",
+        "question": "Quel est le numero d identification du Machu Picchu au patrimoine mondial de l UNESCO ?",
         "propositions": [
           "274",
           "127",
@@ -293,7 +293,7 @@
           "346"
         ],
         "reponse": "274",
-        "anecdote": "Le patrimoine mondial designe un ensemble de biens presentant un interet exceptionnel pour l'heritage commun de l'humanite."
+        "anecdote": "Le patrimoine mondial designe un ensemble de biens presentant un interet exceptionnel pour l heritage commun de l humanite."
       },
       {
         "id": 22,
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "À quelle altitude le Machu Picchu est-il à cheval sur la crete entre deux sommets ?",
+        "question": "À quelle altitude le Machu Picchu est-il a cheval sur la crete entre deux sommets ?",
         "propositions": [
           "2 738 metres",
           "1 738 metres",
@@ -317,7 +317,7 @@
           "2 138 metres"
         ],
         "reponse": "2 438 metres",
-        "anecdote": "Sous certains angles, il est possible d'imaginer le profil d'un visage humain regardant vers le ciel, dont le Huayna Picchu serait le nez."
+        "anecdote": "Sous certains angles, il est possible d imaginer le profil d un visage humain regardant vers le ciel, dont le Huayna Picchu serait le nez."
       },
       {
         "id": 24,
@@ -329,11 +329,11 @@
           "Envira"
         ],
         "reponse": "Urubamba",
-        "anecdote": "Autour du Huayna Picchu, cette importante riviere du Perou decrit un grand arc en contrebas d'une falaise de 600 metres de hauteur."
+        "anecdote": "Autour du Huayna Picchu, cette importante riviere du Perou decrit un grand arc en contrebas d une falaise de 600 metres de hauteur."
       },
       {
         "id": 25,
-        "question": "Quel est le plus proche village du Machu Picchu, situe à 400 metres en contrebas ?",
+        "question": "Quel est le plus proche village du Machu Picchu, situe a 400 metres en contrebas ?",
         "propositions": [
           "Aguas Calientes",
           "Huacachina",
@@ -341,7 +341,7 @@
           "Urcos"
         ],
         "reponse": "Aguas Calientes",
-        "anecdote": "Depuis le village d'Aguas Calientes, un service de bus emprunte regulierement la route Hiram Bingham vers le Machu Picchu."
+        "anecdote": "Depuis le village d Aguas Calientes, un service de bus emprunte regulierement la route Hiram Bingham vers le Machu Picchu."
       },
       {
         "id": 26,
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Combien de squelettes a-t-on retrouve à proximite du Torreon du Machu Picchu ?",
+        "question": "Combien de squelettes a-t-on retrouve a proximite du Torreon du Machu Picchu ?",
         "propositions": [
           "166",
           "142",
@@ -365,11 +365,11 @@
           "120"
         ],
         "reponse": "142",
-        "anecdote": "L'hypothese la plus commune est qu'il s'agirait d'acclas, jeunes filles sacrifiees pour celebrer le culte du Soleil."
+        "anecdote": "L hypothese la plus commune est qu il s agirait d acclas, jeunes filles sacrifiees pour celebrer le culte du Soleil."
       },
       {
         "id": 28,
-        "question": "Des recherches sur quelle ville ont permis à Hiram Bingham de decouvrir le Machu Picchu ?",
+        "question": "Des recherches sur quelle ville ont permis a Hiram Bingham de decouvrir le Machu Picchu ?",
         "propositions": [
           "Tambomachay",
           "Vicabamba",
@@ -377,11 +377,11 @@
           "Yanaca"
         ],
         "reponse": "Vicabamba",
-        "anecdote": "Accompagne par ses guides, le sergent Carrasco et le paysan Melchor Arteaga, il se rend à Machu Picchu le 24 juillet 1911."
+        "anecdote": "Accompagne par ses guides, le sergent Carrasco et le paysan Melchor Arteaga, il se rend a Machu Picchu le 24 juillet 1911."
       },
       {
         "id": 29,
-        "question": "Qui aurait dejà visite Machu Picchu en 1894, avant Hiram Bingham ?",
+        "question": "Qui aurait deja visite Machu Picchu en 1894, avant Hiram Bingham ?",
         "propositions": [
           "Augustin Lizarraga",
           "Luis Valcarel",
@@ -393,15 +393,15 @@
       },
       {
         "id": 30,
-        "question": "Quel pont contrôle l'acces au Machu Picchu depuis l'ouest ?",
+        "question": "Quel pont contrôle l acces au Machu Picchu depuis l ouest ?",
         "propositions": [
-          "Pont de l'Inca",
+          "Pont de l Inca",
           "Pont du Temple",
           "Pont du Solstice",
           "Pont du Soleil"
         ],
-        "reponse": "Pont de l'Inca",
-        "anecdote": "L'acces au site du Machu Picchu est rigoureusement contrôle pour limiter les mefaits et les detournements du tourisme massif."
+        "reponse": "Pont de l Inca",
+        "anecdote": "L acces au site du Machu Picchu est rigoureusement contrôle pour limiter les mefaits et les detournements du tourisme massif."
       }
     ]
     }

@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
@@ -21,7 +21,7 @@
       "slogan": "El presidente inesperado"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Donald Trump",
       "slogan": "Il presidente inaspettato"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "En quelle annee Donald Trump a-t-il remporte l'election presidentielle ?",
+        "question": "En quelle annee Donald Trump a-t-il remporte l election presidentielle ?",
         "propositions": [
           "2015",
           "2016",
@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "question": "Quelle tour possedant un studio de television a servi de decor à l'emission « The Apprentice » ?",
+        "question": "Quelle tour possedant un studio de television a servi de decor a l emission « The Apprentice » ?",
         "propositions": [
           "Paramount Plaza",
           "Axa Center",
@@ -61,7 +61,7 @@
           "Citicorp Building"
         ],
         "reponse": "Trump Tower",
-        "anecdote": "La Trump Tower est construite sur le site de l'ancienne boutique phare de Bonwit Teller, un grand magasin de luxe fonde en 1895."
+        "anecdote": "La Trump Tower est construite sur le site de l ancienne boutique phare de Bonwit Teller, un grand magasin de luxe fonde en 1895."
       },
       {
         "id": 3,
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Duquel de ces concours de beaute Donald Trump n'a-t-il jamais ete proprietaire ?",
+        "question": "Duquel de ces concours de beaute Donald Trump n a-t-il jamais ete proprietaire ?",
         "propositions": [
           "Miss Univers",
           "Miss USA",
@@ -105,15 +105,15 @@
         "propositions": [
           "Trop facile !",
           "Vous etes vire !",
-          "C'est un detail !",
+          "C est un detail !",
           "Pas de chance !"
         ],
         "reponse": "Vous etes vire !",
-        "anecdote": "La premiere annee a rapporte à Trump 50 000 dollars par episode (soit environ 700 000 dollars pour la premiere saison)."
+        "anecdote": "La premiere annee a rapporte a Trump 50 000 dollars par episode (soit environ 700 000 dollars pour la premiere saison)."
       },
       {
         "id": 7,
-        "question": "Quel est le prenom de la premiere dame des États-Unis suite à l'election de Donald Trump ?",
+        "question": "Quel est le prenom de la premiere dame des États-Unis suite a l election de Donald Trump ?",
         "propositions": [
           "Marla",
           "Ivanka",
@@ -133,11 +133,11 @@
           "Chris Christie"
         ],
         "reponse": "Jared Kushner",
-        "anecdote": "Jared Kushner, promoteur immobilier, est marie à une des filles de Donald Trump, l'ancien mannequin Ivanka Trump."
+        "anecdote": "Jared Kushner, promoteur immobilier, est marie a une des filles de Donald Trump, l ancien mannequin Ivanka Trump."
       },
       {
         "id": 9,
-        "question": "De quelle emission televisee de tele-realite Donald Trump a-t-il ete l'animateur ?",
+        "question": "De quelle emission televisee de tele-realite Donald Trump a-t-il ete l animateur ?",
         "propositions": [
           "The Apprentice",
           "The Job",
@@ -149,7 +149,7 @@
       },
       {
         "id": 10,
-        "question": "Face à qui Donald Trump a-t-il remporte les elections presidentielles de 2016 ?",
+        "question": "Face a qui Donald Trump a-t-il remporte les elections presidentielles de 2016 ?",
         "propositions": [
           "Barack Obama",
           "Bill Clinton",
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quel casino achete par Donald Trump fut à l'epoque le casino le plus cher jamais construit ?",
+        "question": "Quel casino achete par Donald Trump fut a l epoque le casino le plus cher jamais construit ?",
         "propositions": [
           "Luxor",
           "Dunes",
@@ -183,7 +183,7 @@
           "Trois"
         ],
         "reponse": "Quatre",
-        "anecdote": "Quatrieme d'une famille de cinq enfants, Donald Trump est le fils de Fred Trump et de son epouse Mary Anne Trump."
+        "anecdote": "Quatrieme d une famille de cinq enfants, Donald Trump est le fils de Fred Trump et de son epouse Mary Anne Trump."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Économie"
         ],
         "reponse": "Économie",
-        "anecdote": "Pendant ses etudes, il travaille pour l'entreprise familiale, Elizabeth Trump et Son, qui porte le nom de sa grand-mere paternelle."
+        "anecdote": "Pendant ses etudes, il travaille pour l entreprise familiale, Elizabeth Trump et Son, qui porte le nom de sa grand-mere paternelle."
       },
       {
         "id": 14,
@@ -207,11 +207,11 @@
           "Tony Schwarz"
         ],
         "reponse": "Ivana Trump",
-        "anecdote": "Le batiment actuel, construit en 1907, est un immeuble massif dont l'esthetique rappelle celle des chateaux francais de la Renaissance."
+        "anecdote": "Le batiment actuel, construit en 1907, est un immeuble massif dont l esthetique rappelle celle des chateaux francais de la Renaissance."
       },
       {
         "id": 15,
-        "question": "Pour quel sport Donald Trump a-t-il fait l'acquisition d'un terrain à Balmedie en Écosse ?",
+        "question": "Pour quel sport Donald Trump a-t-il fait l acquisition d un terrain a Balmedie en Écosse ?",
         "propositions": [
           "Rugby",
           "Squash",
@@ -219,11 +219,11 @@
           "Golf"
         ],
         "reponse": "Golf",
-        "anecdote": "Malgre l'opposition de residents, il cree un terrain de golf sur une zone pourtant declaree « site d'interet scientifique particulier »."
+        "anecdote": "Malgre l opposition de residents, il cree un terrain de golf sur une zone pourtant declaree « site d interet scientifique particulier »."
       },
       {
         "id": 16,
-        "question": "Dans quel quartier de Manhattan l'agence « Trump Model Management » est-elle situee ?",
+        "question": "Dans quel quartier de Manhattan l agence « Trump Model Management » est-elle situee ?",
         "propositions": [
           "SoHo",
           "Tribeca",
@@ -231,11 +231,11 @@
           "NoLIta"
         ],
         "reponse": "SoHo",
-        "anecdote": "« Trump Model Management » a fait venir pres de 250 mannequins etrangeres pour les faire travailler dans l'industrie de la mode."
+        "anecdote": "« Trump Model Management » a fait venir pres de 250 mannequins etrangeres pour les faire travailler dans l industrie de la mode."
       },
       {
         "id": 17,
-        "question": "Pour quel personnage fictif du cinema Bob Gale s'est-il inspire de Donald Trump ?",
+        "question": "Pour quel personnage fictif du cinema Bob Gale s est-il inspire de Donald Trump ?",
         "propositions": [
           "Marty McFly",
           "Sam Baines",
@@ -243,11 +243,11 @@
           "Biff Tannen"
         ],
         "reponse": "Biff Tannen",
-        "anecdote": "Biff Tannen est devenu milliardaire dans un futur alternatif dans le film à succes « Retour vers le futur 2 »."
+        "anecdote": "Biff Tannen est devenu milliardaire dans un futur alternatif dans le film a succes « Retour vers le futur 2 »."
       },
       {
         "id": 18,
-        "question": "Via quel sport Donald Trump s'est-il lie d'amitie avec Vince et Linda McMahon ?",
+        "question": "Via quel sport Donald Trump s est-il lie d amitie avec Vince et Linda McMahon ?",
         "propositions": [
           "Le catch",
           "Le cyclisme",
@@ -255,11 +255,11 @@
           "Le tennis"
         ],
         "reponse": "Le catch",
-        "anecdote": "Linda McMahon a verse pas moins de six millions de dollars à Donald Trump pour sa campagne presidentielle."
+        "anecdote": "Linda McMahon a verse pas moins de six millions de dollars a Donald Trump pour sa campagne presidentielle."
       },
       {
         "id": 19,
-        "question": "Quel president avait dejà utilise le slogan : « Rendons sa grandeur à l'Amerique ! » ?",
+        "question": "Quel president avait deja utilise le slogan : « Rendons sa grandeur a l Amerique ! » ?",
         "propositions": [
           "Barack Obama",
           "Jimmy Carter",
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "La remise à neuf de quel hôtel constitua la premiere affaire importante de Donald Trump ?",
+        "question": "La remise a neuf de quel hôtel constitua la premiere affaire importante de Donald Trump ?",
         "propositions": [
           "Plaza Hotel",
           "Marina",
@@ -317,7 +317,7 @@
           "Don Quichotte"
         ],
         "reponse": "American Psycho",
-        "anecdote": "Donald Trump est aussi souvent compare à Charles Foster Kane, le personnage principal de « Citizen Kane », chef-d'oeuvre d'Orson Welles."
+        "anecdote": "Donald Trump est aussi souvent compare a Charles Foster Kane, le personnage principal de « Citizen Kane », chef-d oeuvre d Orson Welles."
       },
       {
         "id": 24,
@@ -329,11 +329,11 @@
           "1993"
         ],
         "reponse": "1983",
-        "anecdote": "L'immeuble est termine en 1983 et heberge par la suite le penthouse qui sert de residence principale à Donald Trump."
+        "anecdote": "L immeuble est termine en 1983 et heberge par la suite le penthouse qui sert de residence principale a Donald Trump."
       },
       {
         "id": 25,
-        "question": "Quel est le prix de la carte de membre du club prive du Mar-a-Lago à Palm Beach ?",
+        "question": "Quel est le prix de la carte de membre du club prive du Mar-a-Lago a Palm Beach ?",
         "propositions": [
           "15 000 $",
           "150 000 $",
@@ -341,7 +341,7 @@
           "5 000 $"
         ],
         "reponse": "150 000 $",
-        "anecdote": "En 1985, Trump fait l'acquisition de la residence de luxe Mar-a-Lago à Palm Beach (Floride) pour la somme de 5 millions de dollars."
+        "anecdote": "En 1985, Trump fait l acquisition de la residence de luxe Mar-a-Lago a Palm Beach (Floride) pour la somme de 5 millions de dollars."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Dan Simmons"
         ],
         "reponse": "Tony Schwarz",
-        "anecdote": "Énorme succes de librairie, l'ouvrage restera pendant treize semaines en tete de la New York Times Best Seller list."
+        "anecdote": "Énorme succes de librairie, l ouvrage restera pendant treize semaines en tete de la New York Times Best Seller list."
       },
       {
         "id": 27,
@@ -365,11 +365,11 @@
           "2007"
         ],
         "reponse": "2007",
-        "anecdote": "Via l'emission televisee « The Apprentice », Donald Trump fut remercie pour sa contribution au divertissement televisuel."
+        "anecdote": "Via l emission televisee « The Apprentice », Donald Trump fut remercie pour sa contribution au divertissement televisuel."
       },
       {
         "id": 28,
-        "question": "Combien de delegues Donald Trump a-t-il dû recueillir pour obtenir l'investiture en 2016 ?",
+        "question": "Combien de delegues Donald Trump a-t-il dû recueillir pour obtenir l investiture en 2016 ?",
         "propositions": [
           "1 237",
           "1 389",
@@ -377,7 +377,7 @@
           "1 148"
         ],
         "reponse": "1 237",
-        "anecdote": "Apres sa large victoire dans l'État de New York, il est devenu le seul candidat capable de recueillir les 1 237 delegues necessaires."
+        "anecdote": "Apres sa large victoire dans l État de New York, il est devenu le seul candidat capable de recueillir les 1 237 delegues necessaires."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "6"
         ],
         "reponse": "6",
-        "anecdote": "Le decompte fut realise par Politico qui estime qu' « aucun candidat n'avait jamais recu aussi peu de soutiens dans la presse »."
+        "anecdote": "Le decompte fut realise par Politico qui estime qu  « aucun candidat n avait jamais recu aussi peu de soutiens dans la presse »."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Pleasure"
         ],
         "reponse": "The Time",
-        "anecdote": "Dans l'intervalle entre 1984 et 1989, plusieurs membres du groupe The Time ont mene d'importantes carrieres solos."
+        "anecdote": "Dans l intervalle entre 1984 et 1989, plusieurs membres du groupe The Time ont mene d importantes carrieres solos."
       }
     ]
     }

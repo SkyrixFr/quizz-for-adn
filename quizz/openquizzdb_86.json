@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Arts",
@@ -49,7 +49,7 @@
           "Le mardi"
         ],
         "reponse": "Le mardi",
-        "anecdote": "Le musee du Louvre est l'un des plus grands musees du monde, et le plus grand de Paris."
+        "anecdote": "Le musee du Louvre est l un des plus grands musees du monde, et le plus grand de Paris."
       },
       {
         "id": 2,
@@ -57,11 +57,11 @@
         "propositions": [
           "Au Moyen Âge",
           "Sous Mitterrand",
-          "Des l'Antiquite",
+          "Des l Antiquite",
           "À la Revolution"
         ],
         "reponse": "À la Revolution",
-        "anecdote": "Le musee du Louvre a pris naissance sous Louis XV mais n'aboutira veritablement qu'avec la Revolution."
+        "anecdote": "Le musee du Louvre a pris naissance sous Louis XV mais n aboutira veritablement qu avec la Revolution."
       },
       {
         "id": 3,
@@ -85,11 +85,11 @@
           "Archeologue"
         ],
         "reponse": "Conservateur",
-        "anecdote": "Considere comme le pere de l'egyptologie, Champollion fut le premier à dechiffrer les hieroglyphes."
+        "anecdote": "Considere comme le pere de l egyptologie, Champollion fut le premier a dechiffrer les hieroglyphes."
       },
       {
         "id": 5,
-        "question": "Comment etait utilise le Louvre à sa construction en 1190 ?",
+        "question": "Comment etait utilise le Louvre a sa construction en 1190 ?",
         "propositions": [
           "En musee",
           "En forteresse",
@@ -97,7 +97,7 @@
           "En ferme"
         ],
         "reponse": "En forteresse",
-        "anecdote": "C'est en voulant renforcer la defense de Paris que Philippe Auguste entreprît de faire construire une enceinte."
+        "anecdote": "C est en voulant renforcer la defense de Paris que Philippe Auguste entreprît de faire construire une enceinte."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Solid Snake"
         ],
         "reponse": "Lara Croft",
-        "anecdote": "« Tomb Raider : l'Ange des tenebres » est le sixieme episode de la serie « Tomb Raider »."
+        "anecdote": "« Tomb Raider : l Ange des tenebres » est le sixieme episode de la serie « Tomb Raider »."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Verre"
         ],
         "reponse": "Verre",
-        "anecdote": "La Pyramide du Louvre est situee au milieu de la cour Napoleon du musee du Louvre à Paris."
+        "anecdote": "La Pyramide du Louvre est situee au milieu de la cour Napoleon du musee du Louvre a Paris."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "673"
         ],
         "reponse": "673",
-        "anecdote": "Commandee par Francois Mitterrand en 1983, la pyramide a ete concue par l'architecte sino-americain Ieoh Ming Pei."
+        "anecdote": "Commandee par Francois Mitterrand en 1983, la pyramide a ete concue par l architecte sino-americain Ieoh Ming Pei."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Des momies"
         ],
         "reponse": "Des sculptures",
-        "anecdote": "À ses debuts, le musee n'exposait que des sculptures antiques, à l'exception de deux statues de Michel-Ange."
+        "anecdote": "À ses debuts, le musee n exposait que des sculptures antiques, a l exception de deux statues de Michel-Ange."
       },
       {
         "id": 10,
@@ -157,13 +157,13 @@
           "Photographier"
         ],
         "reponse": "Nager",
-        "anecdote": "Le carrousel du Louvre, gere par la societe Viparis, fait reference à la place du Carrousel toute proche."
+        "anecdote": "Le carrousel du Louvre, gere par la societe Viparis, fait reference a la place du Carrousel toute proche."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Quel artiste a peint « L'Embarquement d'Ulysse » en 1646 ?",
+        "question": "Quel artiste a peint « L Embarquement d Ulysse » en 1646 ?",
         "propositions": [
           "Le Parisien",
           "Le Limousin",
@@ -183,7 +183,7 @@
           "Des hieroglyphes"
         ],
         "reponse": "Des hieroglyphes",
-        "anecdote": "Faite de calcaire, la stele trouvee à Akhmîm mesure 1,48 metre par 0,89 metre."
+        "anecdote": "Faite de calcaire, la stele trouvee a Akhmîm mesure 1,48 metre par 0,89 metre."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Renaissance"
         ],
         "reponse": "Arts decoratifs",
-        "anecdote": "Les Arts decoratifs sont nes de l'ecole royale gratuite de dessin creee en 1766 par Jean-Jacques Bachelier."
+        "anecdote": "Les Arts decoratifs sont nes de l ecole royale gratuite de dessin creee en 1766 par Jean-Jacques Bachelier."
       },
       {
         "id": 14,
@@ -207,11 +207,11 @@
           "16"
         ],
         "reponse": "5",
-        "anecdote": "Leonard de Vinci est souvent decrit comme l'archetype et le symbole de l'homme de la Renaissance."
+        "anecdote": "Leonard de Vinci est souvent decrit comme l archetype et le symbole de l homme de la Renaissance."
       },
       {
         "id": 15,
-        "question": "Qui a peint une oeuvre representant Oedipe repondant à l'enigme du sphinx ?",
+        "question": "Qui a peint une oeuvre representant Oedipe repondant a l enigme du sphinx ?",
         "propositions": [
           "Ingres",
           "Degas",
@@ -219,7 +219,7 @@
           "Poussin"
         ],
         "reponse": "Ingres",
-        "anecdote": "« Oedipe explique l'enigme du sphinx » a ete legue en 1878 au musee du Louvre par la comtesse Duchatel."
+        "anecdote": "« Oedipe explique l enigme du sphinx » a ete legue en 1878 au musee du Louvre par la comtesse Duchatel."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Le Salon"
         ],
         "reponse": "Le Salon",
-        "anecdote": "La manifestation, orthographiee initialement « Sallon », fut organisee par l'Academie à partir de 1737."
+        "anecdote": "La manifestation, orthographiee initialement « Sallon », fut organisee par l Academie a partir de 1737."
       },
       {
         "id": 17,
@@ -243,11 +243,11 @@
           "Des sculptures"
         ],
         "reponse": "Des sculptures",
-        "anecdote": "Le passage Richelieu est ouvert jusqu'à 18h30 les soirs de nocturne, 17h30 les autres jours."
+        "anecdote": "Le passage Richelieu est ouvert jusqu a 18h30 les soirs de nocturne, 17h30 les autres jours."
       },
       {
         "id": 18,
-        "question": "Combien peut-on environ monter de marches d'escaliers au Musee du Louvre ?",
+        "question": "Combien peut-on environ monter de marches d escaliers au Musee du Louvre ?",
         "propositions": [
           "15 000",
           "10 000",
@@ -255,7 +255,7 @@
           "20 000"
         ],
         "reponse": "10 000",
-        "anecdote": "Musee universaliste, le Louvre couvre une chronologie et une aire geographique etendues, depuis l'Antiquite jusqu'à 1848."
+        "anecdote": "Musee universaliste, le Louvre couvre une chronologie et une aire geographique etendues, depuis l Antiquite jusqu a 1848."
       },
       {
         "id": 19,
@@ -279,13 +279,13 @@
           "300 carats"
         ],
         "reponse": "140 carats",
-        "anecdote": "Le Regent est considere comme l'une des pierres precieuses les plus remarquables de la Couronne de France."
+        "anecdote": "Le Regent est considere comme l une des pierres precieuses les plus remarquables de la Couronne de France."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "Quelle est l'origine de la presence au Louvre des « Noces de Cana » de Veronese ?",
+        "question": "Quelle est l origine de la presence au Louvre des « Noces de Cana » de Veronese ?",
         "propositions": [
           "Un oubli",
           "Un cadeau",
@@ -293,11 +293,11 @@
           "Un pillage"
         ],
         "reponse": "Un pillage",
-        "anecdote": "Les « Noces de Cana » est actuellement expose au musee du Louvre, faisant face à la Joconde de Leonard de Vinci."
+        "anecdote": "Les « Noces de Cana » est actuellement expose au musee du Louvre, faisant face a la Joconde de Leonard de Vinci."
       },
       {
         "id": 22,
-        "question": "En principe, le musee du Louvre ne conserve que des oeuvres datant d'avant quelle date ?",
+        "question": "En principe, le musee du Louvre ne conserve que des oeuvres datant d avant quelle date ?",
         "propositions": [
           "1683",
           "1701",
@@ -305,23 +305,23 @@
           "1940"
         ],
         "reponse": "1848",
-        "anecdote": "Avec ses 460 000 oeuvres, le Louvre presente l'art occidental du Moyen Âge à 1848."
+        "anecdote": "Avec ses 460 000 oeuvres, le Louvre presente l art occidental du Moyen Âge a 1848."
       },
       {
         "id": 23,
         "question": "Dans quel departement du Louvre peut-on voir « Les Oiseaux » de Braque ?",
         "propositions": [
           "Étrusque",
-          "Objets d'art",
+          "Objets d art",
           "Contemporain",
           "Peinture"
         ],
         "reponse": "Étrusque",
-        "anecdote": "C'est dans la salle Henri II du pavillon Sully du Louvre que se trouvent les antiquites etrusques."
+        "anecdote": "C est dans la salle Henri II du pavillon Sully du Louvre que se trouvent les antiquites etrusques."
       },
       {
         "id": 24,
-        "question": "Quelle eglise fait face au Musee du Louvre, avec son porche gothique flamboyant à cinq baies ?",
+        "question": "Quelle eglise fait face au Musee du Louvre, avec son porche gothique flamboyant a cinq baies ?",
         "propositions": [
           "Notre-Dame",
           "St Leonard",
@@ -329,7 +329,7 @@
           "St Titien"
         ],
         "reponse": "St Germain",
-        "anecdote": "La majeure partie du quartier Saint-Germain-l'Auxerrois est occupee par le palais du Louvre et les jardins des Tuileries."
+        "anecdote": "La majeure partie du quartier Saint-Germain-l Auxerrois est occupee par le palais du Louvre et les jardins des Tuileries."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Irak"
         ],
         "reponse": "Irak",
-        "anecdote": "Des genies protecteurs, taureaux ailes à tete humaine, etaient les gardiens de certaines portes de la ville et du palais."
+        "anecdote": "Des genies protecteurs, taureaux ailes a tete humaine, etaient les gardiens de certaines portes de la ville et du palais."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Un tondo"
         ],
         "reponse": "Un tondo",
-        "anecdote": "Depuis l'Antiquite, le cercle, la sphere et le disque renvoient à l'idee de perfection."
+        "anecdote": "Depuis l Antiquite, le cercle, la sphere et le disque renvoient a l idee de perfection."
       },
       {
         "id": 27,
@@ -365,11 +365,11 @@
           "Saint Sebastien"
         ],
         "reponse": "Saint Sebastien",
-        "anecdote": "Lors de son long sejour à Mantoue, Mantegna residait pres de l'eglise dediee à saint Sebastien."
+        "anecdote": "Lors de son long sejour a Mantoue, Mantegna residait pres de l eglise dediee a saint Sebastien."
       },
       {
         "id": 28,
-        "question": "Quel artisan present au Louvre a donne son nom à une ecole d'ameublement parisienne ?",
+        "question": "Quel artisan present au Louvre a donne son nom a une ecole d ameublement parisienne ?",
         "propositions": [
           "Billot",
           "Billard",
@@ -377,7 +377,7 @@
           "Bill"
         ],
         "reponse": "Boulle",
-        "anecdote": "Ébeniste du roi, Andre-Charles Boulle fut le premier de son temps à appliquer du bronze dore à l'ebenisterie."
+        "anecdote": "Ébeniste du roi, Andre-Charles Boulle fut le premier de son temps a appliquer du bronze dore a l ebenisterie."
       },
       {
         "id": 29,
@@ -393,7 +393,7 @@
       },
       {
         "id": 30,
-        "question": "De quelle origine est « L'ivoire Barberini », chef d'oeuvre du Musee du Louvre ?",
+        "question": "De quelle origine est « L ivoire Barberini », chef d oeuvre du Musee du Louvre ?",
         "propositions": [
           "Byzantine",
           "Bouddhiste",
@@ -401,7 +401,7 @@
           "Étrusque"
         ],
         "reponse": "Byzantine",
-        "anecdote": "« L'ivoire Barberini » est un feuillet d'ivoire compose de quatre plaques sculptees dans le style classicisant dit theodosien tardif."
+        "anecdote": "« L ivoire Barberini » est un feuillet d ivoire compose de quatre plaques sculptees dans le style classicisant dit theodosien tardif."
       }
     ]
     }

@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2022-05-02",
+  "mise-a-jour": "2022-05-02",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Culture generale",
       "nom": "Culture generale 4",
-      "slogan": "La culture, c'est l'expression du vivant"
+      "slogan": "La culture, c est l expression du vivant"
     },
     "en": {
       "categorie": "General knowledge",
@@ -23,7 +23,7 @@
     "it": {
       "categorie": "Cultura generale",
       "nom": "Cultura generale 4",
-      "slogan": "La cultura e l'espressione del vivente"
+      "slogan": "La cultura e l espressione del vivente"
     },
     "de": {
       "categorie": "Allgemeine Kultur",
@@ -49,11 +49,11 @@
           "Jours de Paris"
         ],
         "reponse": "Paris-Flash",
-        "anecdote": "Trois ans apres le succes de « Tintin au Tibet », Herge semble ici etre à l'apogee de son oeuvre sur le plan narratif."
+        "anecdote": "Trois ans apres le succes de « Tintin au Tibet », Herge semble ici etre a l apogee de son oeuvre sur le plan narratif."
       },
       {
         "id": 2,
-        "question": "Comment se prenomme la copine de Popeye le marin, heros des dessins animes d'antan ?",
+        "question": "Comment se prenomme la copine de Popeye le marin, heros des dessins animes d antan ?",
         "propositions": [
           "Myrtille",
           "Framboise",
@@ -61,7 +61,7 @@
           "Olive"
         ],
         "reponse": "Olive",
-        "anecdote": "Dans le dessin anime, Olive se fait regulierement seduire et kidnapper par Brutus avant d'etre sauvee par Popeye."
+        "anecdote": "Dans le dessin anime, Olive se fait regulierement seduire et kidnapper par Brutus avant d etre sauvee par Popeye."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "325"
         ],
         "reponse": "421",
-        "anecdote": "On joue au 421 (ou à zanzibar) à l'aide de trois des et d'un certain nombre de jetons ou fiches (souvent 11 ou 21)."
+        "anecdote": "On joue au 421 (ou a zanzibar) a l aide de trois des et d un certain nombre de jetons ou fiches (souvent 11 ou 21)."
       },
       {
         "id": 4,
@@ -85,11 +85,11 @@
           "40 jours/40 nuits"
         ],
         "reponse": "American Pie",
-        "anecdote": "Quatre adolescents font le pacte de perdre leur virginite avant d'entrer en fac, ce qui amenera de nombreuses mesaventures."
+        "anecdote": "Quatre adolescents font le pacte de perdre leur virginite avant d entrer en fac, ce qui amenera de nombreuses mesaventures."
       },
       {
         "id": 5,
-        "question": "Dans la mythologie, combien de travaux Heracles fut-il condamne à effectuer ?",
+        "question": "Dans la mythologie, combien de travaux Heracles fut-il condamne a effectuer ?",
         "propositions": [
           "Seize",
           "Dix",
@@ -97,7 +97,7 @@
           "Sept"
         ],
         "reponse": "Douze",
-        "anecdote": "La mythologie grecque lui prete un tres grand nombre d'aventures qui le feront voyager à travers le monde connu des Doriens."
+        "anecdote": "La mythologie grecque lui prete un tres grand nombre d aventures qui le feront voyager a travers le monde connu des Doriens."
       },
       {
         "id": 6,
@@ -109,11 +109,11 @@
           "Les 5 medailles"
         ],
         "reponse": "Les 5 continents",
-        "anecdote": "Durant la ceremonie d'ouverture, le drapeau olympique fait son entree dans le stade porte horizontalement par des athletes."
+        "anecdote": "Durant la ceremonie d ouverture, le drapeau olympique fait son entree dans le stade porte horizontalement par des athletes."
       },
       {
         "id": 7,
-        "question": "Quels abats prepare-t-on generalement à la mode de Caen ?",
+        "question": "Quels abats prepare-t-on generalement a la mode de Caen ?",
         "propositions": [
           "Ris de veau",
           "Rognons",
@@ -121,7 +121,7 @@
           "Tripes"
         ],
         "reponse": "Tripes",
-        "anecdote": "Cette preparation culinaire normande est realisee avec les quatre parties de l'estomac d'un ruminant et un pied de boeuf."
+        "anecdote": "Cette preparation culinaire normande est realisee avec les quatre parties de l estomac d un ruminant et un pied de boeuf."
       },
       {
         "id": 8,
@@ -133,11 +133,11 @@
           "Trois"
         ],
         "reponse": "Trois",
-        "anecdote": "« Le pere Noal est une ordure » est à l'origine (1979) une piece de theatre interpretee par la troupe du Splendid."
+        "anecdote": "« Le pere Noal est une ordure » est a l origine (1979) une piece de theatre interpretee par la troupe du Splendid."
       },
       {
         "id": 9,
-        "question": "Si vous faites un baby-foot à 4 par equipes de 2, combien de barres maniera chaque joueur ?",
+        "question": "Si vous faites un baby-foot a 4 par equipes de 2, combien de barres maniera chaque joueur ?",
         "propositions": [
           "Quatre",
           "Une",
@@ -145,7 +145,7 @@
           "Deux"
         ],
         "reponse": "Deux",
-        "anecdote": "En France, le baby-foot est principalement un jeu de cafe (on estime à 500 000 unites) ou on lui adjoint un monnayeur."
+        "anecdote": "En France, le baby-foot est principalement un jeu de cafe (on estime a 500 000 unites) ou on lui adjoint un monnayeur."
       },
       {
         "id": 10,
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Sur quelle partie du corps du serpent à lunettes les lunettes sont-elles situees ?",
+        "question": "Sur quelle partie du corps du serpent a lunettes les lunettes sont-elles situees ?",
         "propositions": [
           "Dans la bouche",
           "Sur la queue",
@@ -171,7 +171,7 @@
           "Sous les yeux"
         ],
         "reponse": "Derriere la tete",
-        "anecdote": "Dans l'imagerie populaire, le serpent à lunettes (ou le cobra egyptien) est associe au fakir charmeur de serpents."
+        "anecdote": "Dans l imagerie populaire, le serpent a lunettes (ou le cobra egyptien) est associe au fakir charmeur de serpents."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Alan Wilder"
         ],
         "reponse": "David Gahan",
-        "anecdote": "Depuis 2005, enhardi par son succes en solo, le chanteur Dave Gahan participe à l'ecriture de certains morceaux."
+        "anecdote": "Depuis 2005, enhardi par son succes en solo, le chanteur Dave Gahan participe a l ecriture de certains morceaux."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Oceanie"
         ],
         "reponse": "Oceanie",
-        "anecdote": "Colonisee par l'Australie, la Papouasie-Nouvelle-Guinee est independante au sein du Commonwealth depuis 1975."
+        "anecdote": "Colonisee par l Australie, la Papouasie-Nouvelle-Guinee est independante au sein du Commonwealth depuis 1975."
       },
       {
         "id": 14,
@@ -219,7 +219,7 @@
           "Je crois en moi"
         ],
         "reponse": "Aucun souci",
-        "anecdote": "L'expression a surtout ete grandement popularisee en 1994 par le film d'animation des studios Disney « Le Roi lion »."
+        "anecdote": "L expression a surtout ete grandement popularisee en 1994 par le film d animation des studios Disney « Le Roi lion »."
       },
       {
         "id": 16,
@@ -235,7 +235,7 @@
       },
       {
         "id": 17,
-        "question": "Le jeans est un vetement universel qui doit son nom à quelle ville ?",
+        "question": "Le jeans est un vetement universel qui doit son nom a quelle ville ?",
         "propositions": [
           "Jersey",
           "Geneve",
@@ -243,7 +243,7 @@
           "Giens"
         ],
         "reponse": "Genes",
-        "anecdote": "Le bleu du jeans provenait d'une teinture (blu di genova) correspondant à la couleur originelle des bleus de travail rivetes."
+        "anecdote": "Le bleu du jeans provenait d une teinture (blu di genova) correspondant a la couleur originelle des bleus de travail rivetes."
       },
       {
         "id": 18,
@@ -267,7 +267,7 @@
           "Roumaine"
         ],
         "reponse": "Russe",
-        "anecdote": "Tchaïkovski s'illustra particulierement par ses onze operas, ses huit symphonies, ses suites pour orchestre et ses ballets."
+        "anecdote": "Tchaïkovski s illustra particulierement par ses onze operas, ses huit symphonies, ses suites pour orchestre et ses ballets."
       },
       {
         "id": 20,
@@ -305,7 +305,7 @@
           "Vegeto"
         ],
         "reponse": "Trunks",
-        "anecdote": "Ce personnage a la particularite d'exister deux fois dans l'histoire, Trunks du present et Trunks du futur."
+        "anecdote": "Ce personnage a la particularite d exister deux fois dans l histoire, Trunks du present et Trunks du futur."
       },
       {
         "id": 23,
@@ -317,7 +317,7 @@
           "Sousse"
         ],
         "reponse": "Kairouan",
-        "anecdote": "Kairouan est souvent designee comme la quatrieme ville sainte de l'islam et la premiere ville sainte du Maghreb."
+        "anecdote": "Kairouan est souvent designee comme la quatrieme ville sainte de l islam et la premiere ville sainte du Maghreb."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "Astrid"
         ],
         "reponse": "Victoria",
-        "anecdote": "La collection et l'etude des timbres postaux et fiscaux, precieux et populaires pour des collectionneurs, est appelee la philatelie."
+        "anecdote": "La collection et l etude des timbres postaux et fiscaux, precieux et populaires pour des collectionneurs, est appelee la philatelie."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Ganymede"
         ],
         "reponse": "Ganymede",
-        "anecdote": "Sur l'echelle des distances au centre de Jupiter, il s'agit du septieme satellite naturel connu de la planete."
+        "anecdote": "Sur l echelle des distances au centre de Jupiter, il s agit du septieme satellite naturel connu de la planete."
       },
       {
         "id": 26,
@@ -353,7 +353,7 @@
           "Walter Brehmer"
         ],
         "reponse": "Erwin Rommel",
-        "anecdote": "Rommel a recu ce surnom, par ses compatriotes et ses adversaires, suite à sa campagne en Afrique du Nord."
+        "anecdote": "Rommel a recu ce surnom, par ses compatriotes et ses adversaires, suite a sa campagne en Afrique du Nord."
       },
       {
         "id": 27,
@@ -371,13 +371,13 @@
         "id": 28,
         "question": "En 1963, un mysterieux cerveau organisa le hold-up du train postal reliant quelles villes ?",
         "propositions": [
-          "Glasgow à Londres",
-          "Liverpool à Brighton",
-          "Cambridge à Oxford",
-          "Manchester à York"
+          "Glasgow a Londres",
+          "Liverpool a Brighton",
+          "Cambridge a Oxford",
+          "Manchester a York"
         ],
-        "reponse": "Glasgow à Londres",
-        "anecdote": "Considere à l'epoque comme le casse du siecle, le gang de 15 personnes s'empara d'un butin de 68 millions de dollars actuels."
+        "reponse": "Glasgow a Londres",
+        "anecdote": "Considere a l epoque comme le casse du siecle, le gang de 15 personnes s empara d un butin de 68 millions de dollars actuels."
       },
       {
         "id": 29,
@@ -401,7 +401,7 @@
           "Lievre"
         ],
         "reponse": "Renard",
-        "anecdote": "Cette designation est devenue majoritaire par l'influence de Renart le goupil, heros du « Roman de Renart »."
+        "anecdote": "Cette designation est devenue majoritaire par l influence de Renart le goupil, heros du « Roman de Renart »."
       }
     ]
     }

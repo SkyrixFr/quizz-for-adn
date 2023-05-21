@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "5 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Arts",
       "nom": "Romantisme",
-      "slogan": "Explorer toutes les possibilites de l'art"
+      "slogan": "Explorer toutes les possibilites de l art"
     },
     "en": {
       "categorie": "Arts",
@@ -23,7 +23,7 @@
     "it": {
       "categorie": "Arts",
       "nom": "Romanticismo",
-      "slogan": "Esplorare tutte le possibilità dell'arte"
+      "slogan": "Esplorare tutte le possibilita dell arte"
     },
     "de": {
       "categorie": "Kunst",
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "L'ecole de peinture de Düsseldorf etait un mouvement romantique de quel pays ?",
+        "question": "L ecole de peinture de Düsseldorf etait un mouvement romantique de quel pays ?",
         "propositions": [
           "Russie",
           "Espagne",
@@ -65,7 +65,7 @@
       },
       {
         "id": 3,
-        "question": "William Morris Hunt appartenait à une des familles artistiques de quel pays ?",
+        "question": "William Morris Hunt appartenait a une des familles artistiques de quel pays ?",
         "propositions": [
           "Grande-Bretagne",
           "Norvege",
@@ -73,11 +73,11 @@
           "France"
         ],
         "reponse": "États-Unis",
-        "anecdote": "William Morris Hunt est un peintre americain et le chef de file du courant pictural en vogue à Boston au milieu du XIXe siecle."
+        "anecdote": "William Morris Hunt est un peintre americain et le chef de file du courant pictural en vogue a Boston au milieu du XIXe siecle."
       },
       {
         "id": 4,
-        "question": "« La Bavaria » a ete la premiere statue colossale à avoir ete fondue en quelle matiere ?",
+        "question": "« La Bavaria » a ete la premiere statue colossale a avoir ete fondue en quelle matiere ?",
         "propositions": [
           "Bronze",
           "Argent",
@@ -89,19 +89,19 @@
       },
       {
         "id": 5,
-        "question": "L'ecole de Bristol regroupait des peintres influents de quel pays ?",
+        "question": "L ecole de Bristol regroupait des peintres influents de quel pays ?",
         "propositions": [
           "La Suisse",
           "La France",
-          "L'Espagne",
-          "L'Angleterre"
+          "L Espagne",
+          "L Angleterre"
         ],
-        "reponse": "L'Angleterre",
-        "anecdote": "L'ecole de Bristol ressortit plus à l'association de peintres et d'amateurs qu'à un mouvement pictural autonome."
+        "reponse": "L Angleterre",
+        "anecdote": "L ecole de Bristol ressortit plus a l association de peintres et d amateurs qu a un mouvement pictural autonome."
       },
       {
         "id": 6,
-        "question": "Le monument dedie à Goethe et Schiler est un celebre point de repere de quel pays ?",
+        "question": "Le monument dedie a Goethe et Schiler est un celebre point de repere de quel pays ?",
         "propositions": [
           "Roumanie",
           "Allemagne",
@@ -109,7 +109,7 @@
           "Hongrie"
         ],
         "reponse": "Allemagne",
-        "anecdote": "Ville aux nombreux monuments historiques, Weimar a ete inscrit par l'UNESCO au patrimoine mondial en decembre 1998."
+        "anecdote": "Ville aux nombreux monuments historiques, Weimar a ete inscrit par l UNESCO au patrimoine mondial en decembre 1998."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Gravure"
         ],
         "reponse": "Gravure",
-        "anecdote": "Un timbre postal, d'une valeur de 0,45 + 0,10 franc et representant Honre Daumier, a ete emis le 23 mai 1961."
+        "anecdote": "Un timbre postal, d une valeur de 0,45 + 0,10 franc et representant Honre Daumier, a ete emis le 23 mai 1961."
       },
       {
         "id": 8,
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "Lequel de ces termes indique l'effet de la lumiere dans les paysages ?",
+        "question": "Lequel de ces termes indique l effet de la lumiere dans les paysages ?",
         "propositions": [
           "Luminisme",
           "Neoclassicisme",
@@ -145,7 +145,7 @@
           "Manierisme"
         ],
         "reponse": "Luminisme",
-        "anecdote": "Le luminisme est un nom generique pour designer l'ensemble de l'art belge influence par l'impressionnisme francais."
+        "anecdote": "Le luminisme est un nom generique pour designer l ensemble de l art belge influence par l impressionnisme francais."
       },
       {
         "id": 10,
@@ -157,13 +157,13 @@
           "Gros"
         ],
         "reponse": "Goya",
-        "anecdote": "La serie de peintures à l'huile auxquelles Goya ne donna aucun titre fut cataloguee en 1828 par un ami de Goya, Antonio de Brugada."
+        "anecdote": "La serie de peintures a l huile auxquelles Goya ne donna aucun titre fut cataloguee en 1828 par un ami de Goya, Antonio de Brugada."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Dans le mouvement romantique de quel pays l'artiste et poete Carl Spitzweg etait-il influent ?",
+        "question": "Dans le mouvement romantique de quel pays l artiste et poete Carl Spitzweg etait-il influent ?",
         "propositions": [
           "Italie",
           "Allemagne",
@@ -171,11 +171,11 @@
           "Royaume-Uni"
         ],
         "reponse": "Allemagne",
-        "anecdote": "Carl Spitzweg parlait plusieurs langues et voyageait beaucoup, souvent à pied, visitant Paris, Londres, Prague, l'Italie et la Belgique."
+        "anecdote": "Carl Spitzweg parlait plusieurs langues et voyageait beaucoup, souvent a pied, visitant Paris, Londres, Prague, l Italie et la Belgique."
       },
       {
         "id": 12,
-        "question": "Quel artiste danois a peint « Un groupe d'artistes danois à Rome » ?",
+        "question": "Quel artiste danois a peint « Un groupe d artistes danois a Rome » ?",
         "propositions": [
           "Hansen",
           "Malmström",
@@ -183,7 +183,7 @@
           "Delacroix"
         ],
         "reponse": "Hansen",
-        "anecdote": "Achevee en 1837, la peinture à l'huile de Hansen est aujourd'hui exposee au Statens Museum for Kunst de Copenhague."
+        "anecdote": "Achevee en 1837, la peinture a l huile de Hansen est aujourd hui exposee au Statens Museum for Kunst de Copenhague."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Ouest americain"
         ],
         "reponse": "Ouest americain",
-        "anecdote": "Alors qu'il est devenu celebre pour ses descriptions de la vie dans l'ouest americain, Remington n'a visite la region que brievement."
+        "anecdote": "Alors qu il est devenu celebre pour ses descriptions de la vie dans l ouest americain, Remington n a visite la region que brievement."
       },
       {
         "id": 14,
@@ -207,11 +207,11 @@
           "Un etang"
         ],
         "reponse": "Une voie ferree",
-        "anecdote": "La toile, achevee en 1844, est exposee à la National Gallery de Londres, à la suite d'une acquisition de l'heritage Turner en 1856."
+        "anecdote": "La toile, achevee en 1844, est exposee a la National Gallery de Londres, a la suite d une acquisition de l heritage Turner en 1856."
       },
       {
         "id": 15,
-        "question": "Que cherche à apporter à la peinture le mouvement romantique des Nazareens ?",
+        "question": "Que cherche a apporter a la peinture le mouvement romantique des Nazareens ?",
         "propositions": [
           "Musique",
           "Spiritualite",
@@ -219,7 +219,7 @@
           "Laïcite"
         ],
         "reponse": "Spiritualite",
-        "anecdote": "Le mouvement artistique des nazareens a debute grace à des eleves de l'academie des Beaux-Arts de Vienne."
+        "anecdote": "Le mouvement artistique des nazareens a debute grace a des eleves de l academie des Beaux-Arts de Vienne."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Daumier"
         ],
         "reponse": "Daumier",
-        "anecdote": "La valeur de son oeuvre peinte, quelque cinq cents tableaux, a elle aussi ete reconnue, bien qu'à titre posthume seulement."
+        "anecdote": "La valeur de son oeuvre peinte, quelque cinq cents tableaux, a elle aussi ete reconnue, bien qu a titre posthume seulement."
       },
       {
         "id": 17,
@@ -239,7 +239,7 @@
         "propositions": [
           "La royaute anglaise",
           "Les chiens",
-          "L'Ouest americain",
+          "L Ouest americain",
           "Les enfants"
         ],
         "reponse": "La royaute anglaise",
@@ -255,11 +255,11 @@
           "Hadrien"
         ],
         "reponse": "Westminster",
-        "anecdote": "Sa premiere commande importante lui vint en 1824, lorsqu'il remporta le concours visant la nouvelle Royal Manchester Institution."
+        "anecdote": "Sa premiere commande importante lui vint en 1824, lorsqu il remporta le concours visant la nouvelle Royal Manchester Institution."
       },
       {
         "id": 19,
-        "question": "Le celebre « Portrait du duc de Wellington » est representatif de l'oeuvre de quel peintre ?",
+        "question": "Le celebre « Portrait du duc de Wellington » est representatif de l oeuvre de quel peintre ?",
         "propositions": [
           "Hayez",
           "Lawrence",
@@ -267,11 +267,11 @@
           "Goya"
         ],
         "reponse": "Goya",
-        "anecdote": "Son chef-d'oeuvre est la serie de peintures à l'huile sur mur sec qui decorent sa maison de campagne, les « Peintures noires »."
+        "anecdote": "Son chef-d oeuvre est la serie de peintures a l huile sur mur sec qui decorent sa maison de campagne, les « Peintures noires »."
       },
       {
         "id": 20,
-        "question": "Quel artiste a peint l'emouvant tableau « El tres de mayo de 1808 en Madrid » ?",
+        "question": "Quel artiste a peint l emouvant tableau « El tres de mayo de 1808 en Madrid » ?",
         "propositions": [
           "Girodet",
           "Mulready",
@@ -279,13 +279,13 @@
           "Blake"
         ],
         "reponse": "Goya",
-        "anecdote": "L'emotion que degage la toile en fait l'une des representations les plus connues de la denonciation des horreurs liees à la guerre."
+        "anecdote": "L emotion que degage la toile en fait l une des representations les plus connues de la denonciation des horreurs liees a la guerre."
       }
     ],
     "expert": [
       {
         "id": 21,
-        "question": "À quelle River School l'artiste Asher Brown Durand etait-il associe ?",
+        "question": "À quelle River School l artiste Asher Brown Durand etait-il associe ?",
         "propositions": [
           "Norwich",
           "Hudson",
@@ -293,7 +293,7 @@
           "Lancaster"
         ],
         "reponse": "Hudson",
-        "anecdote": "Les artistes de l'Hudson River School pensaient que la Nature etait la manifestation de la puissance et de la bonte divine."
+        "anecdote": "Les artistes de l Hudson River School pensaient que la Nature etait la manifestation de la puissance et de la bonte divine."
       },
       {
         "id": 22,
@@ -317,7 +317,7 @@
           "Rude"
         ],
         "reponse": "Bartholdi",
-        "anecdote": "En 1879, à la mort de Viollet-le-Duc, Bartholdi fit appel à l'ingenieur Gustave Eiffel pour la structure interne de la statue."
+        "anecdote": "En 1879, a la mort de Viollet-le-Duc, Bartholdi fit appel a l ingenieur Gustave Eiffel pour la structure interne de la statue."
       },
       {
         "id": 24,
@@ -329,11 +329,11 @@
           "Lions"
         ],
         "reponse": "Generaux russes",
-        "anecdote": "Celebre surtout pour ses portraits de l'empereur Alexandre Ier, il realise à Saint-Petersbourg 329 portraits de generaux russes."
+        "anecdote": "Celebre surtout pour ses portraits de l empereur Alexandre Ier, il realise a Saint-Petersbourg 329 portraits de generaux russes."
       },
       {
         "id": 25,
-        "question": "Dans quel pays le premier romantisme a-t-il vu le jour à Iena ?",
+        "question": "Dans quel pays le premier romantisme a-t-il vu le jour a Iena ?",
         "propositions": [
           "Italie",
           "France",
@@ -341,7 +341,7 @@
           "Royaume-Uni"
         ],
         "reponse": "Allemagne",
-        "anecdote": "Ce mouvement reprend les fondations theoriques d'un renouveau esthetique et metaphysique initie par Wieland, Herder et Goethe."
+        "anecdote": "Ce mouvement reprend les fondations theoriques d un renouveau esthetique et metaphysique initie par Wieland, Herder et Goethe."
       },
       {
         "id": 26,
@@ -353,11 +353,11 @@
           "Malmström"
         ],
         "reponse": "Tropinine",
-        "anecdote": "Vassili Tropinine, peintre romantique russe, est ne serf, d'abord des comtes Munich, et garda ce statut une grande partie de sa vie."
+        "anecdote": "Vassili Tropinine, peintre romantique russe, est ne serf, d abord des comtes Munich, et garda ce statut une grande partie de sa vie."
       },
       {
         "id": 27,
-        "question": "De quel mouvement ou ecole de peinture l'artiste Franz Pforr faisait-il partie ?",
+        "question": "De quel mouvement ou ecole de peinture l artiste Franz Pforr faisait-il partie ?",
         "propositions": [
           "Futuristes",
           "Anciens",
@@ -365,7 +365,7 @@
           "Nazareens"
         ],
         "reponse": "Nazareens",
-        "anecdote": "Malgre sa courte vie artistique, Franz Pforr est l'un des plus importants peintres du romantisme allemand."
+        "anecdote": "Malgre sa courte vie artistique, Franz Pforr est l un des plus importants peintres du romantisme allemand."
       },
       {
         "id": 28,
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Quel artiste a peint un celebre portrait d'Alexander von Humboldt ?",
+        "question": "Quel artiste a peint un celebre portrait d Alexander von Humboldt ?",
         "propositions": [
           "Bierstadt",
           "Weitsch",
@@ -401,7 +401,7 @@
           "Girodet"
         ],
         "reponse": "Brioullov",
-        "anecdote": "Cette peinture valut à son auteur une notoriete internationale et l'admiration d'Alexandre Pouchkine qui lui dedia un poeme."
+        "anecdote": "Cette peinture valut a son auteur une notoriete internationale et l admiration d Alexandre Pouchkine qui lui dedia un poeme."
       }
     ]
     }

@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Bande dessinee",
       "nom": "Tintin",
-      "slogan": "L'univers du jeune reporter"
+      "slogan": "L univers du jeune reporter"
     },
     "en": {
       "categorie": "Comic",
@@ -23,7 +23,7 @@
     "it": {
       "categorie": "Comico",
       "nom": "Tintinnio",
-      "slogan": "L'universo del giovane giornalista"
+      "slogan": "L universo del giovane giornalista"
     },
     "de": {
       "categorie": "Comic",
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Dans quelle aventure Tintin se retrouve-t-il face à un impressionnant Yeti ?",
+        "question": "Dans quelle aventure Tintin se retrouve-t-il face a un impressionnant Yeti ?",
         "propositions": [
           "Le Lotus bleu",
           "Coke en Stock",
@@ -49,7 +49,7 @@
           "Tintin au Congo"
         ],
         "reponse": "Tintin au Tibet",
-        "anecdote": "Le film « La Neige en deuil », d'Edward Dmytryk, comporte des sequences qui ont probablement dû marquer la memoire d'Herge."
+        "anecdote": "Le film « La Neige en deuil », d Edward Dmytryk, comporte des sequences qui ont probablement dû marquer la memoire d Herge."
       },
       {
         "id": 2,
@@ -97,7 +97,7 @@
           "Milou"
         ],
         "reponse": "Tournesol",
-        "anecdote": "L'allusion aux decouvreurs de la tombe de Toutankhamon est clairement definie dans cet ouvrage grand public."
+        "anecdote": "L allusion aux decouvreurs de la tombe de Toutankhamon est clairement definie dans cet ouvrage grand public."
       },
       {
         "id": 6,
@@ -109,7 +109,7 @@
           "Texas"
         ],
         "reponse": "Chicago",
-        "anecdote": "À l'epoque de la Prohibition, Tintin se retrouve emmene à Chicago juste apres son voyage au Congo."
+        "anecdote": "À l epoque de la Prohibition, Tintin se retrouve emmene a Chicago juste apres son voyage au Congo."
       },
       {
         "id": 7,
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Quelle est la suite de l'album « Les Sept Boules de cristal » ?",
+        "question": "Quelle est la suite de l album « Les Sept Boules de cristal » ?",
         "propositions": [
           "Tintin au Tibet",
           "Le Lotus bleu",
@@ -133,7 +133,7 @@
           "Le Temple du Soleil"
         ],
         "reponse": "Le Temple du Soleil",
-        "anecdote": "Cet album a amene Herge à effectuer de multiples recherches dans des documents s'interessant à la civilisation inca."
+        "anecdote": "Cet album a amene Herge a effectuer de multiples recherches dans des documents s interessant a la civilisation inca."
       },
       {
         "id": 9,
@@ -157,7 +157,7 @@
           "Tintin en Amerique"
         ],
         "reponse": "Tintin au Congo",
-        "anecdote": "En 1946, Herge s'adjoint les services d'Edgar P. Jacobs et reecrivent l'album dans un format plus court et en couleurs."
+        "anecdote": "En 1946, Herge s adjoint les services d Edgar P. Jacobs et reecrivent l album dans un format plus court et en couleurs."
       }
     ],
     "confirme": [
@@ -171,7 +171,7 @@
           "Ouragan"
         ],
         "reponse": "Éclipse de soleil",
-        "anecdote": "L'intrigue de l'album est inspiree du roman sous forme de feuilleton de Gaston Leroux, « L'Épouse du soleil »."
+        "anecdote": "L intrigue de l album est inspiree du roman sous forme de feuilleton de Gaston Leroux, « L Épouse du soleil »."
       },
       {
         "id": 12,
@@ -183,7 +183,7 @@
           "Vol 714 pour Sydney"
         ],
         "reponse": "Tintin et les Picaros",
-        "anecdote": "Une page a dû etre retiree lors de l'edition finale de l'album, car il devait en contenir au maximum 62 (comme à l'habitude)."
+        "anecdote": "Une page a dû etre retiree lors de l edition finale de l album, car il devait en contenir au maximum 62 (comme a l habitude)."
       },
       {
         "id": 13,
@@ -201,7 +201,7 @@
         "id": 14,
         "question": "Dans Tintin, le chateau de Moulinsart apparaît pour la premiere fois dans « Le »...",
         "propositions": [
-          "Sceptre d'Ottokar",
+          "Sceptre d Ottokar",
           "Temple du Soleil",
           "Lotus bleu",
           "Secret de la Licorne"
@@ -219,7 +219,7 @@
           "Loch Fields"
         ],
         "reponse": "Loch Lomond",
-        "anecdote": "Aujourd'hui, cette marque de whisky qui existe reellement est plus connue par les tintinophiles que par les amateurs de cet alcool."
+        "anecdote": "Aujourd hui, cette marque de whisky qui existe reellement est plus connue par les tintinophiles que par les amateurs de cet alcool."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Seraphin"
         ],
         "reponse": "Tryphon",
-        "anecdote": "Le Professeur Tournesol est un scientifique assez age, dur d'oreille, portant une barbichette et des lunettes rondes."
+        "anecdote": "Le Professeur Tournesol est un scientifique assez age, dur d oreille, portant une barbichette et des lunettes rondes."
       },
       {
         "id": 17,
@@ -243,11 +243,11 @@
           "Des esclaves"
         ],
         "reponse": "Des esclaves",
-        "anecdote": "Le premier titre envisage par Herge pour cet album etait d'abord « Les requins de la mer rouge »."
+        "anecdote": "Le premier titre envisage par Herge pour cet album etait d abord « Les requins de la mer rouge »."
       },
       {
         "id": 18,
-        "question": "Sur la couverture de quel album Tintin est-il represente une arme à la main ?",
+        "question": "Sur la couverture de quel album Tintin est-il represente une arme a la main ?",
         "propositions": [
           "Tintin en Amerique",
           "Vol 714 pour Sydney",
@@ -279,7 +279,7 @@
           "Un chariot"
         ],
         "reponse": "Un totem indien",
-        "anecdote": "La trame de l'histoire se deroule aux États-Unis, pendant la Prohibition, ou Tintin lutte contre les gangsters de la ville."
+        "anecdote": "La trame de l histoire se deroule aux États-Unis, pendant la Prohibition, ou Tintin lutte contre les gangsters de la ville."
       }
     ],
     "expert": [
@@ -305,7 +305,7 @@
           "Grand Pachacamac"
         ],
         "reponse": "Foudre Benie",
-        "anecdote": "En touchant l'echarpe de Tchang, Foudre Benie a une vision et voit ce dernier dans une grotte avec le yeti."
+        "anecdote": "En touchant l echarpe de Tchang, Foudre Benie a une vision et voit ce dernier dans une grotte avec le yeti."
       },
       {
         "id": 23,
@@ -317,7 +317,7 @@
           "Assureur"
         ],
         "reponse": "Assureur",
-        "anecdote": "Lampion semble à l'aise dans tous les milieux, ne voyant pas qu'il exaspere son « public » et se croyant bienvenu partout."
+        "anecdote": "Lampion semble a l aise dans tous les milieux, ne voyant pas qu il exaspere son « public » et se croyant bienvenu partout."
       },
       {
         "id": 24,
@@ -329,7 +329,7 @@
           "Mauricien"
         ],
         "reponse": "Archibald",
-        "anecdote": "Le prenom du capitaine Haddock est mentionne pour la premiere fois dans l'album « Tintin et les Picaros »."
+        "anecdote": "Le prenom du capitaine Haddock est mentionne pour la premiere fois dans l album « Tintin et les Picaros »."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Ici Pour Vous"
         ],
         "reponse": "Paris-Flash",
-        "anecdote": "Trois ans apres le succes de « Tintin au Tibet », Herge semble ici etre à l'apogee de son oeuvre sur le plan narratif."
+        "anecdote": "Trois ans apres le succes de « Tintin au Tibet », Herge semble ici etre a l apogee de son oeuvre sur le plan narratif."
       },
       {
         "id": 26,
@@ -365,7 +365,7 @@
           "La Castafiore"
         ],
         "reponse": "Les freres Loiseau",
-        "anecdote": "D'allure tres soignee, portant une livree, Nestor est devenu dans la culture francophone l'archetype du majordome."
+        "anecdote": "D allure tres soignee, portant une livree, Nestor est devenu dans la culture francophone l archetype du majordome."
       },
       {
         "id": 28,
@@ -377,7 +377,7 @@
           "Max Elloy"
         ],
         "reponse": "Jean-Pierre Talbot",
-        "anecdote": "Jean-Pierre Talbot est le seul acteur à avoir physiquement incarne le personnage de Tintin au cinema."
+        "anecdote": "Jean-Pierre Talbot est le seul acteur a avoir physiquement incarne le personnage de Tintin au cinema."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "246"
         ],
         "reponse": "421",
-        "anecdote": "Le nom de Moulinsart a ete invente par Herge en inversant celui d'un hameau de Braine-l'Alleud, Sart-Moulin, au sud de Bruxelles."
+        "anecdote": "Le nom de Moulinsart a ete invente par Herge en inversant celui d un hameau de Braine-l Alleud, Sart-Moulin, au sud de Bruxelles."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Wang Shiyan"
         ],
         "reponse": "Zhang Chongren",
-        "anecdote": "Zhang, artiste et sculpteur chinois qui recevra la nationalite francaise en 1985, meurt à Paris le 8 octobre 1998."
+        "anecdote": "Zhang, artiste et sculpteur chinois qui recevra la nationalite francaise en 1985, meurt a Paris le 8 octobre 1998."
       }
     ]
     }

@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : mai 2017",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: maggio 2017",
       "slogan": "Hanno fatto notizia"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quel animateur a rendu sur les reseaux sociaux un vibrant hommage à son pere ?",
+        "question": "Quel animateur a rendu sur les reseaux sociaux un vibrant hommage a son pere ?",
         "propositions": [
           "Matthieu Delormeau",
           "Nikos Aliagas",
@@ -49,11 +49,11 @@
           "Yann Barthes"
         ],
         "reponse": "Nikos Aliagas",
-        "anecdote": "Nikos, discret sur sa vie privee, fut touche en plein coeur par la mort de son pere Andreas, decede des suites d'une longue maladie."
+        "anecdote": "Nikos, discret sur sa vie privee, fut touche en plein coeur par la mort de son pere Andreas, decede des suites d une longue maladie."
       },
       {
         "id": 2,
-        "question": "De qui l'actrice et realisatrice francaise Marilou Berry est-elle la fille ?",
+        "question": "De qui l actrice et realisatrice francaise Marilou Berry est-elle la fille ?",
         "propositions": [
           "Rudy Berry",
           "Philippe Berry",
@@ -61,7 +61,7 @@
           "Maxime Berry"
         ],
         "reponse": "Philippe Berry",
-        "anecdote": "Comme sa mere, Marilou Berry s'orientera rapidement vers la comedie avec « Il etait une fois dans l'oued » puis « Nos jours heureux »."
+        "anecdote": "Comme sa mere, Marilou Berry s orientera rapidement vers la comedie avec « Il etait une fois dans l oued » puis « Nos jours heureux »."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Édouard Philippe"
         ],
         "reponse": "Édouard Philippe",
-        "anecdote": "L'ancien maire du Havre ressemble beaucoup à Trevor Philips de « GTA V », accessoirement un psychopathe toxicomane de jeu video."
+        "anecdote": "L ancien maire du Havre ressemble beaucoup a Trevor Philips de « GTA V », accessoirement un psychopathe toxicomane de jeu video."
       },
       {
         "id": 4,
@@ -85,11 +85,11 @@
           "Norma John"
         ],
         "reponse": "Salvador Sobral",
-        "anecdote": "Le Portugais Salvador Sobral attend desormais une greffe du coeur pour vaincre la maladie qu'il tente de dedramatiser."
+        "anecdote": "Le Portugais Salvador Sobral attend desormais une greffe du coeur pour vaincre la maladie qu il tente de dedramatiser."
       },
       {
         "id": 5,
-        "question": "Qui interpretera Donatella Versace dans le biopic sur l'assassinat de son frere Gianni ?",
+        "question": "Qui interpretera Donatella Versace dans le biopic sur l assassinat de son frere Gianni ?",
         "propositions": [
           "Diane Kruger",
           "Julianne Moore",
@@ -97,11 +97,11 @@
           "Berenice Bejo"
         ],
         "reponse": "Penelope Cruz",
-        "anecdote": "L'info avait fuite au debut du mois de mai et la transformation radicale de l'actrice amene une ressemblance troublante."
+        "anecdote": "L info avait fuite au debut du mois de mai et la transformation radicale de l actrice amene une ressemblance troublante."
       },
       {
         "id": 6,
-        "question": "Qui a decroche le prix d'interpretation feminine au 70eme Festival de Cannes ?",
+        "question": "Qui a decroche le prix d interpretation feminine au 70eme Festival de Cannes ?",
         "propositions": [
           "Berenice Bejo",
           "Diane Kruger",
@@ -109,7 +109,7 @@
           "Julianne Moore"
         ],
         "reponse": "Diane Kruger",
-        "anecdote": "Son ancien compagnon, l'acteur Joshua Jackson, s'est declare etre « aux anges » dans un message poste sur Instagram."
+        "anecdote": "Son ancien compagnon, l acteur Joshua Jackson, s est declare etre « aux anges » dans un message poste sur Instagram."
       },
       {
         "id": 7,
@@ -133,11 +133,11 @@
           "Laura Cartesiani"
         ],
         "reponse": "Natasha St-Pier",
-        "anecdote": "Atteint d'une malformation cardiaque, il engagea Natasha à rejoindre l'association « Petit Coeur de Beurre » comme marraine."
+        "anecdote": "Atteint d une malformation cardiaque, il engagea Natasha a rejoindre l association « Petit Coeur de Beurre » comme marraine."
       },
       {
         "id": 9,
-        "question": "Quel chroniqueur de « TPMP », present depuis son lancement, a fini l'aventure en mai 2017 ?",
+        "question": "Quel chroniqueur de « TPMP », present depuis son lancement, a fini l aventure en mai 2017 ?",
         "propositions": [
           "Thierry Moreau",
           "Jean-Luc Lemoine",
@@ -145,7 +145,7 @@
           "Christophe Carriere"
         ],
         "reponse": "Thierry Moreau",
-        "anecdote": "Une de ses collegues chroniqueuses, avec qui il s'est depuis fortement lie d'amitie, etait la seule au courant de sa decision."
+        "anecdote": "Une de ses collegues chroniqueuses, avec qui il s est depuis fortement lie d amitie, etait la seule au courant de sa decision."
       },
       {
         "id": 10,
@@ -157,13 +157,13 @@
           "Les 10 ans"
         ],
         "reponse": "Les 20 ans",
-        "anecdote": "Des journalistes se sont penches sur le rapport d'enquete et y ont fait des decouvertes revelees dans le livre « Qui a tue Lady Di ? »."
+        "anecdote": "Des journalistes se sont penches sur le rapport d enquete et y ont fait des decouvertes revelees dans le livre « Qui a tue Lady Di ? »."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Quel celebre footballeur a epouse Erika Choperena le 27 mai 2017 à Madrid ?",
+        "question": "Quel celebre footballeur a epouse Erika Choperena le 27 mai 2017 a Madrid ?",
         "propositions": [
           "Fernando Torres",
           "Antoine Griezmann",
@@ -171,11 +171,11 @@
           "Cristiano Ronaldo"
         ],
         "reponse": "Antoine Griezmann",
-        "anecdote": "Recrute par la Real Sociedad à l'age de quatorze ans, Antoine Griezmann a fait ses armes dans le Championnat d'Espagne."
+        "anecdote": "Recrute par la Real Sociedad a l age de quatorze ans, Antoine Griezmann a fait ses armes dans le Championnat d Espagne."
       },
       {
         "id": 12,
-        "question": "Quelle actrice de 19 ans a fait ses premiers pas d'ambassadrice beaute à Cannes en 2017 ?",
+        "question": "Quelle actrice de 19 ans a fait ses premiers pas d ambassadrice beaute a Cannes en 2017 ?",
         "propositions": [
           "Daisy Ridley",
           "Maika Monroe",
@@ -183,7 +183,7 @@
           "Abbey Lee"
         ],
         "reponse": "Elle Fanning",
-        "anecdote": "Elle Fanning, soeur de Dakota Fanning, est en effet la nouvelle egerie de L'Oreal Paris depuis ce mois de mai 2017."
+        "anecdote": "Elle Fanning, soeur de Dakota Fanning, est en effet la nouvelle egerie de L Oreal Paris depuis ce mois de mai 2017."
       },
       {
         "id": 13,
@@ -195,11 +195,11 @@
           "Stella Maxwell"
         ],
         "reponse": "Stella Maxwell",
-        "anecdote": "Stella Maxwell, nee le 15 mai 1990 à Bruxelles en Belgique, est un mannequin britannique faisant partie des Victoria's Secret Angels."
+        "anecdote": "Stella Maxwell, nee le 15 mai 1990 a Bruxelles en Belgique, est un mannequin britannique faisant partie des Victoria s Secret Angels."
       },
       {
         "id": 14,
-        "question": "En mai 2017, qui etait le grand champion du jeu « Tout le monde a son mot à dire » sur France 2 ?",
+        "question": "En mai 2017, qui etait le grand champion du jeu « Tout le monde a son mot a dire » sur France 2 ?",
         "propositions": [
           "Pascal",
           "Antoine",
@@ -207,11 +207,11 @@
           "Christian"
         ],
         "reponse": "Gregory",
-        "anecdote": "Ce professeur des ecoles du genre tres modeste savoura chacune de ses victoires aux côtes d'Olivier Minne et de Sidonie Bonnec."
+        "anecdote": "Ce professeur des ecoles du genre tres modeste savoura chacune de ses victoires aux côtes d Olivier Minne et de Sidonie Bonnec."
       },
       {
         "id": 15,
-        "question": "Qui a remplace Nabilla en 2017 sur la liste des candidats participant à l'emission « Fort Boyard » ?",
+        "question": "Qui a remplace Nabilla en 2017 sur la liste des candidats participant a l emission « Fort Boyard » ?",
         "propositions": [
           "Caroline Receveur",
           "Nadege Dabrowski",
@@ -243,11 +243,11 @@
           "Anne Sullivan"
         ],
         "reponse": "Sadie Rice",
-        "anecdote": "Un job en or sur le papier mais pas si etincelant que cela dans les faits devant l'accroissement de ses responsabilites."
+        "anecdote": "Un job en or sur le papier mais pas si etincelant que cela dans les faits devant l accroissement de ses responsabilites."
       },
       {
         "id": 18,
-        "question": "Quelle star de « Shameless » s'est mariee avec le scenariste et realisateur Sam Esmail ?",
+        "question": "Quelle star de « Shameless » s est mariee avec le scenariste et realisateur Sam Esmail ?",
         "propositions": [
           "Shanola Hampton",
           "Emmy Rossum",
@@ -255,11 +255,11 @@
           "Joan Cusack"
         ],
         "reponse": "Emmy Rossum",
-        "anecdote": "Emmy Rossum apporte son soutien à l'ONG « Sea Shepherd », notamment en portant un de leurs tee-shirts dans sa serie."
+        "anecdote": "Emmy Rossum apporte son soutien a l ONG « Sea Shepherd », notamment en portant un de leurs tee-shirts dans sa serie."
       },
       {
         "id": 19,
-        "question": "De qui la comedienne Christine Taylor a-t-elle annonce sa separation apres 18 ans d'amour ?",
+        "question": "De qui la comedienne Christine Taylor a-t-elle annonce sa separation apres 18 ans d amour ?",
         "propositions": [
           "Ben Stiller",
           "Steve Coogan",
@@ -267,11 +267,11 @@
           "Bill Cobbs"
         ],
         "reponse": "Ben Stiller",
-        "anecdote": "Mariee depuis 2000 à Ben Stiller, ils ont eu deux enfants, Ella Olivia, nee en avril 2002, et Quinlin Dempsey, ne en juillet 2005."
+        "anecdote": "Mariee depuis 2000 a Ben Stiller, ils ont eu deux enfants, Ella Olivia, nee en avril 2002, et Quinlin Dempsey, ne en juillet 2005."
       },
       {
         "id": 20,
-        "question": "De qui Valerie Lemercier s'est-elle inspire pour son rôle de Marie-Francine au cinema ?",
+        "question": "De qui Valerie Lemercier s est-elle inspire pour son rôle de Marie-Francine au cinema ?",
         "propositions": [
           "Sylvie Tellier",
           "Segolene Royal",
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Quel candidat à la presidentielle fut le premier patron en radio de l'animateur Arthur ?",
+        "question": "Quel candidat a la presidentielle fut le premier patron en radio de l animateur Arthur ?",
         "propositions": [
           "F. Fillon",
           "B. Hamon",
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "À l'occasion de la fete des Meres, avec qui Billie Lourd a-t-elle poste une photo sur Instagram ?",
+        "question": "À l occasion de la fete des Meres, avec qui Billie Lourd a-t-elle poste une photo sur Instagram ?",
         "propositions": [
           "Penelope Cruz",
           "Diane Kruger",
@@ -317,11 +317,11 @@
           "Segolene Royal"
         ],
         "reponse": "Julia Vignali",
-        "anecdote": "Nee en 1975 à Paris, Julia Vignali est une actrice et animatrice descendant d'une famille italienne originaire de Parme."
+        "anecdote": "Nee en 1975 a Paris, Julia Vignali est une actrice et animatrice descendant d une famille italienne originaire de Parme."
       },
       {
         "id": 24,
-        "question": "Quel sport le chanteur et mannequin Baptiste Giabiconi a-t-il ajoute à son arc ?",
+        "question": "Quel sport le chanteur et mannequin Baptiste Giabiconi a-t-il ajoute a son arc ?",
         "propositions": [
           "Football",
           "Équitation",
@@ -329,11 +329,11 @@
           "Squash"
         ],
         "reponse": "Football",
-        "anecdote": "Apres l'aeronautique et la comedie, Baptiste Giabiconi vient d'ajouter une ligne à son CV : celle de president de club de foot."
+        "anecdote": "Apres l aeronautique et la comedie, Baptiste Giabiconi vient d ajouter une ligne a son CV : celle de president de club de foot."
       },
       {
         "id": 25,
-        "question": "Quelle fille d'Olivia Newton-John s'est ridiculisee sur un plateau TV australien ?",
+        "question": "Quelle fille d Olivia Newton-John s est ridiculisee sur un plateau TV australien ?",
         "propositions": [
           "Sadie Rice",
           "Alina Kabaeva",
@@ -341,7 +341,7 @@
           "Dina Manzo"
         ],
         "reponse": "Chloe Lattanzi",
-        "anecdote": "L'ancienne anorexique accro à la cocaïne et à l'alcool est depuis quelques mois à la tete d'une ferme qui produit du cannabis."
+        "anecdote": "L ancienne anorexique accro a la cocaïne et a l alcool est depuis quelques mois a la tete d une ferme qui produit du cannabis."
       },
       {
         "id": 26,
@@ -353,11 +353,11 @@
           "Rupert Raj"
         ],
         "reponse": "Thomas Beatie",
-        "anecdote": "Pour financer la fecondation in vitro, le candidat de « Secret Story 10 » a dû lever plusieurs milliers d'euros."
+        "anecdote": "Pour financer la fecondation in vitro, le candidat de « Secret Story 10 » a dû lever plusieurs milliers d euros."
       },
       {
         "id": 27,
-        "question": "Quelle star de tele-realite a ete passee à tabac avec son cheri lors d'un cambriolage ?",
+        "question": "Quelle star de tele-realite a ete passee a tabac avec son cheri lors d un cambriolage ?",
         "propositions": [
           "Emmy Rossum",
           "Jacqueline Laurita",
@@ -365,7 +365,7 @@
           "Dina Manzo"
         ],
         "reponse": "Dina Manzo",
-        "anecdote": "Elle est surtout connue pour son apparition Dans « The Real Housewives of New Jersey » et sa propre serie « Dina's Party »."
+        "anecdote": "Elle est surtout connue pour son apparition Dans « The Real Housewives of New Jersey » et sa propre serie « Dina s Party »."
       },
       {
         "id": 28,
@@ -389,7 +389,7 @@
           "Alina Kabaeva"
         ],
         "reponse": "Alina Kabaeva",
-        "anecdote": "Alina Kabaeva est consideree comme l'une des gymnastes à avoir fait avancer l'histoire de la gymnastique rythmique."
+        "anecdote": "Alina Kabaeva est consideree comme l une des gymnastes a avoir fait avancer l histoire de la gymnastique rythmique."
       },
       {
         "id": 30,
@@ -397,11 +397,11 @@
         "propositions": [
           "NRJ12",
           "Canal+",
-          "L'Equipe",
+          "L Equipe",
           "TF1"
         ],
-        "reponse": "L'Equipe",
-        "anecdote": "« C'est formidable de pouvoir animer un rendez-vous quotidien melant analyse, debat et bonne humeur » a confie Estelle Denis."
+        "reponse": "L Equipe",
+        "anecdote": "« C est formidable de pouvoir animer un rendez-vous quotidien melant analyse, debat et bonne humeur » a confie Estelle Denis."
       }
     ]
     }

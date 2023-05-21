@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "People : fev. 2018",
-      "slogan": "Ils ont fait l'actualite"
+      "slogan": "Ils ont fait l actualite"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,7 +21,7 @@
       "slogan": "Fueron noticia"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Persone: febbraio 2018",
       "slogan": "Hanno fatto notizia"
     },
@@ -49,7 +49,7 @@
           "Line Renaud"
         ],
         "reponse": "Line Renaud",
-        "anecdote": "C'est avec beaucoup d'emotion que Line Renaud est revenue le dimanche 4 fevrier 2018 sur la disparition de son filleul."
+        "anecdote": "C est avec beaucoup d emotion que Line Renaud est revenue le dimanche 4 fevrier 2018 sur la disparition de son filleul."
       },
       {
         "id": 2,
@@ -61,7 +61,7 @@
           "John Lennon"
         ],
         "reponse": "Prince",
-        "anecdote": "L'image du chanteur Prince fut projetee sur une toile à mesure que retentissaient les notes du titre « I Would Die 4 U »."
+        "anecdote": "L image du chanteur Prince fut projetee sur une toile a mesure que retentissaient les notes du titre « I Would Die 4 U »."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Leurs 5 ans"
         ],
         "reponse": "Leurs 10 ans",
-        "anecdote": "Des annees apres leur mariage, la chanteuse et l'ancien chef de l'État sont toujours aussi fous amoureux."
+        "anecdote": "Des annees apres leur mariage, la chanteuse et l ancien chef de l État sont toujours aussi fous amoureux."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Thierry Marx"
         ],
         "reponse": "Philippe Etchebest",
-        "anecdote": "Philippe Etchebest a ete recompense par l'edition 2018 du celebre guide pour son nouveau concept gastronomique à Bordeaux."
+        "anecdote": "Philippe Etchebest a ete recompense par l edition 2018 du celebre guide pour son nouveau concept gastronomique a Bordeaux."
       },
       {
         "id": 5,
@@ -97,7 +97,7 @@
           "Christian Slater"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher a connu le debut du succes grace à son rôle de Michael Kelso dans la serie tele « That' 70s show »."
+        "anecdote": "Ashton Kutcher a connu le debut du succes grace a son rôle de Michael Kelso dans la serie tele « That  70s show »."
       },
       {
         "id": 6,
@@ -109,11 +109,11 @@
           "Warren G"
         ],
         "reponse": "Snoop Dogg",
-        "anecdote": "Le rappeur a dejà devoile quelques titres, une poignee par rapport aux 32 que prevoyait le double album attendu pour le 16 mars."
+        "anecdote": "Le rappeur a deja devoile quelques titres, une poignee par rapport aux 32 que prevoyait le double album attendu pour le 16 mars."
       },
       {
         "id": 7,
-        "question": "Quel acteur americain a ete blanchi dans l'affaire du suicide de sa compagne ?",
+        "question": "Quel acteur americain a ete blanchi dans l affaire du suicide de sa compagne ?",
         "propositions": [
           "Jim Carrey",
           "Christian Bale",
@@ -125,7 +125,7 @@
       },
       {
         "id": 8,
-        "question": "Quelle nouvelle reine de l'info est lentement parvenue à remplacer Claire Chazal ?",
+        "question": "Quelle nouvelle reine de l info est lentement parvenue a remplacer Claire Chazal ?",
         "propositions": [
           "Caroline Henry",
           "Anne-Claire Coudray",
@@ -157,13 +157,13 @@
           "Kanye West"
         ],
         "reponse": "Elton John",
-        "anecdote": "Tres attendue, cette union royale a pousse certains ressortissants britanniques à prendre des decisions parfois radicales."
+        "anecdote": "Tres attendue, cette union royale a pousse certains ressortissants britanniques a prendre des decisions parfois radicales."
       }
     ],
     "confirme": [
       {
         "id": 11,
-        "question": "Quelle fille cachee de Claude Francois est sortie de l'ombre en fevrier 2018 ?",
+        "question": "Quelle fille cachee de Claude Francois est sortie de l ombre en fevrier 2018 ?",
         "propositions": [
           "Theresa Rogers",
           "Mazarine Pingeot",
@@ -171,11 +171,11 @@
           "Alexia Scott"
         ],
         "reponse": "Julie Bocquet",
-        "anecdote": "Julie, la fille de Claude Francois, a declare que ce secret longtemps cache etait difficile à porter, y compris pour ses enfants."
+        "anecdote": "Julie, la fille de Claude Francois, a declare que ce secret longtemps cache etait difficile a porter, y compris pour ses enfants."
       },
       {
         "id": 12,
-        "question": "Avec quelle ex de Pascal Obispo l'humoriste et comedien Michaal Youn est-il en couple ?",
+        "question": "Avec quelle ex de Pascal Obispo l humoriste et comedien Michaal Youn est-il en couple ?",
         "propositions": [
           "Juliette Arnaud",
           "Isabelle Furnaro",
@@ -183,7 +183,7 @@
           "Florence Foresti"
         ],
         "reponse": "Isabelle Furnaro",
-        "anecdote": "Depuis plus de 10 ans, l'humoriste Michaal Youn et la comedienne Isabelle Funaro ecrivent ensemble une belle histoire d'amour."
+        "anecdote": "Depuis plus de 10 ans, l humoriste Michaal Youn et la comedienne Isabelle Funaro ecrivent ensemble une belle histoire d amour."
       },
       {
         "id": 13,
@@ -195,11 +195,11 @@
           "Ses 30 ans"
         ],
         "reponse": "Ses 26 ans",
-        "anecdote": "La jolie brune, qui n'est desormais plus une bimbo, a fete son anniversaire avec son frere Tarek et son cheri Thomas Vergara."
+        "anecdote": "La jolie brune, qui n est desormais plus une bimbo, a fete son anniversaire avec son frere Tarek et son cheri Thomas Vergara."
       },
       {
         "id": 14,
-        "question": "Avec quel animateur Isabelle Mergault a-t-elle failli se marier lors d'une soiree bien arrosee ?",
+        "question": "Avec quel animateur Isabelle Mergault a-t-elle failli se marier lors d une soiree bien arrosee ?",
         "propositions": [
           "Thierry Beccaro",
           "Julien Courbet",
@@ -207,11 +207,11 @@
           "Laurent Ruquier"
         ],
         "reponse": "Laurent Ruquier",
-        "anecdote": "Les amis de toujours vivaient à l'epoque tous deux des echecs sentimentaux croises et noyaient leur chagrin en picolant."
+        "anecdote": "Les amis de toujours vivaient a l epoque tous deux des echecs sentimentaux croises et noyaient leur chagrin en picolant."
       },
       {
         "id": 15,
-        "question": "Quel acteur de la serie « Glee » est mort d'asphyxie apres s'etre pendu à un arbre ?",
+        "question": "Quel acteur de la serie « Glee » est mort d asphyxie apres s etre pendu a un arbre ?",
         "propositions": [
           "Darren Criss",
           "Chris Colfer",
@@ -219,7 +219,7 @@
           "Mark Salling"
         ],
         "reponse": "Mark Salling",
-        "anecdote": "L'acteur Mark Salling avait dejà fait une tentative de suicide il y a quelques mois en se coupant les veines au niveau des poignets."
+        "anecdote": "L acteur Mark Salling avait deja fait une tentative de suicide il y a quelques mois en se coupant les veines au niveau des poignets."
       },
       {
         "id": 16,
@@ -231,11 +231,11 @@
           "Cyril Lignac"
         ],
         "reponse": "JoeyStarr",
-        "anecdote": "La jolie star du paf et ex de Lilian Thuram a explique que quel que soit l'homme avec lequel elle etait, il prenait soin d'elle."
+        "anecdote": "La jolie star du paf et ex de Lilian Thuram a explique que quel que soit l homme avec lequel elle etait, il prenait soin d elle."
       },
       {
         "id": 17,
-        "question": "Quel philosophe a revele sur son site internet avoir ete victime d'un AVC ?",
+        "question": "Quel philosophe a revele sur son site internet avoir ete victime d un AVC ?",
         "propositions": [
           "Benoît Chantre",
           "Michel Onfray",
@@ -243,7 +243,7 @@
           "Mark Alizart"
         ],
         "reponse": "Michel Onfray",
-        "anecdote": "Depuis sa chambre d'hôpital, le celebre philosophe a toutefois donne des nouvelles rassurantes sur son etat de sante."
+        "anecdote": "Depuis sa chambre d hôpital, le celebre philosophe a toutefois donne des nouvelles rassurantes sur son etat de sante."
       },
       {
         "id": 18,
@@ -255,7 +255,7 @@
           "Paolla Oliveira"
         ],
         "reponse": "Bruna Marquezine",
-        "anecdote": "Pendant une soiree organisee par Vogue à Sao Paulo au Bresil, Bruna a fait sensation en portant une tenue tres minimaliste."
+        "anecdote": "Pendant une soiree organisee par Vogue a Sao Paulo au Bresil, Bruna a fait sensation en portant une tenue tres minimaliste."
       },
       {
         "id": 19,
@@ -267,11 +267,11 @@
           "40 millions"
         ],
         "reponse": "30 millions",
-        "anecdote": "Chuck Norris a depose un recours à la Cour Superieure de Los Angeles contre CBS pour droits d'exploitation non verses."
+        "anecdote": "Chuck Norris a depose un recours a la Cour Superieure de Los Angeles contre CBS pour droits d exploitation non verses."
       },
       {
         "id": 20,
-        "question": "Qui s'est fait tatoue le bras apres un pari perdu contre son ami Leonardo Dicaprio ?",
+        "question": "Qui s est fait tatoue le bras apres un pari perdu contre son ami Leonardo Dicaprio ?",
         "propositions": [
           "Colin McFarlane",
           "John Nolan",
@@ -293,7 +293,7 @@
           "Halle Berry"
         ],
         "reponse": "Gillian Anderson",
-        "anecdote": "Les gens se detournent des campagnes anti-fourrure montrant des animaux tortures mais s'interessent aux campagnes de PETA."
+        "anecdote": "Les gens se detournent des campagnes anti-fourrure montrant des animaux tortures mais s interessent aux campagnes de PETA."
       },
       {
         "id": 22,
@@ -309,7 +309,7 @@
       },
       {
         "id": 23,
-        "question": "Quel chanteur americain, alors age de 76 ans en 2018, a annonce une tournee d'adieux ?",
+        "question": "Quel chanteur americain, alors age de 76 ans en 2018, a annonce une tournee d adieux ?",
         "propositions": [
           "Bob Dylan",
           "Paul Simon",
@@ -317,7 +317,7 @@
           "Peter Gabriel"
         ],
         "reponse": "Paul Simon",
-        "anecdote": "Dans un communique, le chanteur et ancien membre du duo Simon and Garfunkel a fait savoir qu'il mettait fin à ses tournees."
+        "anecdote": "Dans un communique, le chanteur et ancien membre du duo Simon and Garfunkel a fait savoir qu il mettait fin a ses tournees."
       },
       {
         "id": 24,
@@ -329,11 +329,11 @@
           "Olivier Giroud"
         ],
         "reponse": "Adil Rami",
-        "anecdote": "Apres presque un an d'amour avec Adil Rami, Pamela Anderson avait saute le pas et s'etait installee avec son compagnon à Marseille."
+        "anecdote": "Apres presque un an d amour avec Adil Rami, Pamela Anderson avait saute le pas et s etait installee avec son compagnon a Marseille."
       },
       {
         "id": 25,
-        "question": "Quelle jolie mexicaine, jusqu'alors inconnue, est le sosie de Kourtney Kardashian ?",
+        "question": "Quelle jolie mexicaine, jusqu alors inconnue, est le sosie de Kourtney Kardashian ?",
         "propositions": [
           "Litzy Dominguez",
           "Lorena Rojas",
@@ -353,7 +353,7 @@
           "5 fevrier"
         ],
         "reponse": "5 fevrier",
-        "anecdote": "Oui, vous ne revez pas : la pate à tartiner la plus celebre possede bien sa propre fete, celebree partout à travers le monde le 5 fevrier."
+        "anecdote": "Oui, vous ne revez pas : la pate a tartiner la plus celebre possede bien sa propre fete, celebree partout a travers le monde le 5 fevrier."
       },
       {
         "id": 27,
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Quel PDG de la marque Quiksilver a perdu la vie à la suite d'un voyage en mer ?",
+        "question": "Quel PDG de la marque Quiksilver a perdu la vie a la suite d un voyage en mer ?",
         "propositions": [
           "John Law",
           "Alan Green",
@@ -381,7 +381,7 @@
       },
       {
         "id": 29,
-        "question": "Qui a fait le buzz suite à son twerk improvise à l'anniversaire de Neymar ?",
+        "question": "Qui a fait le buzz suite a son twerk improvise a l anniversaire de Neymar ?",
         "propositions": [
           "Damaris Lewis",
           "Cintia Dicker",
@@ -401,7 +401,7 @@
           "Sierra"
         ],
         "reponse": "Stormi",
-        "anecdote": "Apres neuf mois d'une grossesse plus que protegee, la jeune femme de 20 ans a (enfin) revele le prenom de son bebe sur Instagram."
+        "anecdote": "Apres neuf mois d une grossesse plus que protegee, la jeune femme de 20 ans a (enfin) revele le prenom de son bebe sur Instagram."
       }
     ]
     },
@@ -429,7 +429,7 @@
           "Prince"
         ],
         "reponse": "Prince",
-        "anecdote": "The singer Prince's image was projected on a canvas as the notes of the title « I Would Die 4 U » sounded."
+        "anecdote": "The singer Prince s image was projected on a canvas as the notes of the title « I Would Die 4 U » sounded."
       },
       {
         "id": 3,
@@ -465,7 +465,7 @@
           "Bruce Willis"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher began his success with his role as Michael Kelso in the serie « That '70s show »."
+        "anecdote": "Ashton Kutcher began his success with his role as Michael Kelso in the serie « That  70s show »."
       },
       {
         "id": 6,
@@ -517,7 +517,7 @@
       },
       {
         "id": 10,
-        "question": "Who canceled two of his concerts to attend Prince Harry's wedding with Meghan Markle ?",
+        "question": "Who canceled two of his concerts to attend Prince Harry s wedding with Meghan Markle ?",
         "propositions": [
           "Kanye West",
           "Justin Bieber",
@@ -647,7 +647,7 @@
           "Colin McFarlane"
         ],
         "reponse": "Tom Hardy",
-        "anecdote": "On a photo posted on Instagram on January 29, 2018, a new tattoo was seen on Tom Hardy's arm."
+        "anecdote": "On a photo posted on Instagram on January 29, 2018, a new tattoo was seen on Tom Hardy s arm."
       }
     ],
     "expert": [
@@ -701,7 +701,7 @@
       },
       {
         "id": 25,
-        "question": "What pretty Mexican, hitherto unknown, is Kourtney Kardashian's double ?",
+        "question": "What pretty Mexican, hitherto unknown, is Kourtney Kardashian s double ?",
         "propositions": [
           "Sara Ramirez",
           "Daisy Gonzalez",
@@ -721,7 +721,7 @@
           "February 10"
         ],
         "reponse": "February 5",
-        "anecdote": "Yes, you're not dreaming : the most famous spread has its own party, celebrated around the world on February 5th."
+        "anecdote": "Yes, you re not dreaming : the most famous spread has its own party, celebrated around the world on February 5th."
       },
       {
         "id": 27,
@@ -733,7 +733,7 @@
           "Camille Chene"
         ],
         "reponse": "Juliette Chene",
-        "anecdote": "As a historical comedian of « Most beautiful life », Juliette Chene played Juliette Fremont's role between 2004 and 2008."
+        "anecdote": "As a historical comedian of « Most beautiful life », Juliette Chene played Juliette Fremont s role between 2004 and 2008."
       },
       {
         "id": 28,
@@ -749,7 +749,7 @@
       },
       {
         "id": 29,
-        "question": "Who made the buzz after his improvised twerk on Neymar's birthday ?",
+        "question": "Who made the buzz after his improvised twerk on Neymar s birthday ?",
         "propositions": [
           "Izabel Goulart",
           "Cintia Dicker",
@@ -761,7 +761,7 @@
       },
       {
         "id": 30,
-        "question": "Checked out late, what is the name of Kylie Jenner's daughter from early February 2018 ?",
+        "question": "Checked out late, what is the name of Kylie Jenner s daughter from early February 2018 ?",
         "propositions": [
           "Kendall",
           "Sondra",
@@ -1201,7 +1201,7 @@
           "Ashton Kutcher"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher comenzó su exito con su papel de Michael Kelso en la serie « That '70s show »."
+        "anecdote": "Ashton Kutcher comenzó su exito con su papel de Michael Kelso en la serie « That  70s show »."
       },
       {
         "id": 6,
@@ -1533,7 +1533,7 @@
           "Elvis Presley"
         ],
         "reponse": "Prince",
-        "anecdote": "L'immagine del cantante Prince e stata proiettata su una tela mentre suonavano le note del titolo « I Would Die 4 U »."
+        "anecdote": "L immagine del cantante Prince e stata proiettata su una tela mentre suonavano le note del titolo « I Would Die 4 U »."
       },
       {
         "id": 3,
@@ -1545,7 +1545,7 @@
           "I loro 20 anni"
         ],
         "reponse": "I loro 10 anni",
-        "anecdote": "Molti anni dopo il loro matrimonio in un salone dell'Eliseo, il cantante e l'ex capo di stato sono ancora pazzi d'amore."
+        "anecdote": "Molti anni dopo il loro matrimonio in un salone dell Eliseo, il cantante e l ex capo di stato sono ancora pazzi d amore."
       },
       {
         "id": 4,
@@ -1557,7 +1557,7 @@
           "Costante cristiana"
         ],
         "reponse": "Philippe Etchebest",
-        "anecdote": "Philippe Etchebest e stato premiato dall'edizione 2018 della famosa guida per il suo nuovo concetto gastronomico a Bordeaux."
+        "anecdote": "Philippe Etchebest e stato premiato dall edizione 2018 della famosa guida per il suo nuovo concetto gastronomico a Bordeaux."
       },
       {
         "id": 5,
@@ -1569,7 +1569,7 @@
           "Christian Slater"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher ha iniziato il suo successo con il ruolo di Michael Kelso nella serie « That show anni '70 »."
+        "anecdote": "Ashton Kutcher ha iniziato il suo successo con il ruolo di Michael Kelso nella serie « That show anni  70 »."
       },
       {
         "id": 6,
@@ -1581,7 +1581,7 @@
           "Dr. Dre"
         ],
         "reponse": "Snoop Dogg",
-        "anecdote": "Il rapper ha già svelato alcuni titoli, una maniglia rispetto ai 32 che ha fornito il doppio album previsto per il 16 marzo."
+        "anecdote": "Il rapper ha gia svelato alcuni titoli, una maniglia rispetto ai 32 che ha fornito il doppio album previsto per il 16 marzo."
       },
       {
         "id": 7,
@@ -1593,7 +1593,7 @@
           "Morgan Freeman"
         ],
         "reponse": "Jim Carrey",
-        "anecdote": "Era previsto che andasse in tribunale nell'aprile 2018 per omicidio imprudente su Cathriona White, deceduta il 28 settembre 2015."
+        "anecdote": "Era previsto che andasse in tribunale nell aprile 2018 per omicidio imprudente su Cathriona White, deceduta il 28 settembre 2015."
       },
       {
         "id": 8,
@@ -1635,7 +1635,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "Quale ragazza nascosta di Claude Francois e emersa dall'ombra nel febbraio 2018 ?",
+        "question": "Quale ragazza nascosta di Claude Francois e emersa dall ombra nel febbraio 2018 ?",
         "propositions": [
           "Alexia Scott",
           "Mazarine Pingeot",
@@ -1655,11 +1655,11 @@
           "Firenze Foresti"
         ],
         "reponse": "Isabelle Furnaro",
-        "anecdote": "Per piu di 10 anni, il comico Michael Youn e il comico Isabelle Funaro hanno scritto insieme una bellissima storia d'amore."
+        "anecdote": "Per piu di 10 anni, il comico Michael Youn e il comico Isabelle Funaro hanno scritto insieme una bellissima storia d amore."
       },
       {
         "id": 13,
-        "question": "Che compleanno e stato fatto l'adorabile Nabilla il 5 febbraio 2018 ?",
+        "question": "Che compleanno e stato fatto l adorabile Nabilla il 5 febbraio 2018 ?",
         "propositions": [
           "I suoi 28 anni",
           "I suoi 30 anni",
@@ -1691,7 +1691,7 @@
           "Cory Monteith"
         ],
         "reponse": "Mark Salling",
-        "anecdote": "L'attore Mark Salling aveva già tentato il suicidio alcuni mesi fa tagliandosi le vene ai polsi."
+        "anecdote": "L attore Mark Salling aveva gia tentato il suicidio alcuni mesi fa tagliandosi le vene ai polsi."
       },
       {
         "id": 16,
@@ -1703,7 +1703,7 @@
           "Cyril Lignac"
         ],
         "reponse": "JoeyStarr",
-        "anecdote": "La bella stella della zampa ed ex Lilian Thuram ha spiegato che qualunque cosa l'uomo con cui era, si e preso cura di lei."
+        "anecdote": "La bella stella della zampa ed ex Lilian Thuram ha spiegato che qualunque cosa l uomo con cui era, si e preso cura di lei."
       },
       {
         "id": 17,
@@ -1715,7 +1715,7 @@
           "Mark Alizart"
         ],
         "reponse": "Michel Onfray",
-        "anecdote": "Dalla sua stanza d'ospedale, tuttavia, il famoso filosofo ha dato notizie rassicuranti sul suo stato di salute."
+        "anecdote": "Dalla sua stanza d ospedale, tuttavia, il famoso filosofo ha dato notizie rassicuranti sul suo stato di salute."
       },
       {
         "id": 18,
@@ -1731,7 +1731,7 @@
       },
       {
         "id": 19,
-        "question": "Quanti soldi ha chiesto Chuck Norris per inganno all'emittente « Walker Texas Ranger » ?",
+        "question": "Quanti soldi ha chiesto Chuck Norris per inganno all emittente « Walker Texas Ranger » ?",
         "propositions": [
           "20 milioni",
           "30 milioni",
@@ -1781,7 +1781,7 @@
       },
       {
         "id": 23,
-        "question": "Quale cantante americana, allora 76enne nel 2018, ha annunciato un tour d'addio ?",
+        "question": "Quale cantante americana, allora 76enne nel 2018, ha annunciato un tour d addio ?",
         "propositions": [
           "Paul Simon",
           "Keith Jarrett",
@@ -1865,7 +1865,7 @@
       },
       {
         "id": 30,
-        "question": "Check-out in ritardo, come si chiama la figlia di Kylie Jenner dall'inizio di febbraio 2018 ?",
+        "question": "Check-out in ritardo, come si chiama la figlia di Kylie Jenner dall inizio di febbraio 2018 ?",
         "propositions": [
           "Sondra",
           "Kendall",
@@ -1937,7 +1937,7 @@
           "Bruce Willis"
         ],
         "reponse": "Ashton Kutcher",
-        "anecdote": "Ashton Kutcher begon zijn succes met zijn rol als Michael Kelso in de serie « That '70s show »."
+        "anecdote": "Ashton Kutcher begon zijn succes met zijn rol als Michael Kelso in de serie « That  70s show »."
       },
       {
         "id": 6,
@@ -1985,7 +1985,7 @@
           "Didier Gustin"
         ],
         "reponse": "Yves Lecoq",
-        "anecdote": "De camera's van BFM TV die de getuigenissen van de geïmmobiliseerde hebben verzameld, waren inderdaad verrast om Yves Lecoq te vinden."
+        "anecdote": "De camera s van BFM TV die de getuigenissen van de geïmmobiliseerde hebben verzameld, waren inderdaad verrast om Yves Lecoq te vinden."
       },
       {
         "id": 10,
@@ -2233,7 +2233,7 @@
       },
       {
         "id": 30,
-        "question": "Laat uitgecheckt, wat is de naam van Kylie Jenner's dochter van begin februari 2018 ?",
+        "question": "Laat uitgecheckt, wat is de naam van Kylie Jenner s dochter van begin februari 2018 ?",
         "propositions": [
           "Stormi",
           "Kendall",

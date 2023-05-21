@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "3 / 5",
   "version": 1,
-  "mise-à-jour": "2022-04-29",
+  "mise-a-jour": "2022-04-29",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Musique",
       "nom": "New wave",
-      "slogan": "Synthetiseurs et boîtes à rythmes"
+      "slogan": "Synthetiseurs et boîtes a rythmes"
     },
     "en": {
       "categorie": "Music",
@@ -49,11 +49,11 @@
           "The Cure"
         ],
         "reponse": "The Cure",
-        "anecdote": "Robert Smith est l'auteur de la quasi-totalite des textes qu'il interprete et le principal compositeur des titres du groupe The Cure."
+        "anecdote": "Robert Smith est l auteur de la quasi-totalite des textes qu il interprete et le principal compositeur des titres du groupe The Cure."
       },
       {
         "id": 2,
-        "question": "« Don't you want me » fut l'un des plus grands tubes de quel groupe new wave ?",
+        "question": "« Don t you want me » fut l un des plus grands tubes de quel groupe new wave ?",
         "propositions": [
           "Kajagoogoo",
           "Spandau Ballet",
@@ -61,7 +61,7 @@
           "The Human League"
         ],
         "reponse": "The Human League",
-        "anecdote": "Le groupe se forma au debut de l'annee 1978 avec le chanteur Phil Oakey et les clavieristes Martyn Ware et Ian Marsh."
+        "anecdote": "Le groupe se forma au debut de l annee 1978 avec le chanteur Phil Oakey et les clavieristes Martyn Ware et Ian Marsh."
       },
       {
         "id": 3,
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "Quel groupe new wave et pop britannique a ete cree par l'incomparable Boy George ?",
+        "question": "Quel groupe new wave et pop britannique a ete cree par l incomparable Boy George ?",
         "propositions": [
           "Kajagoogoo",
           "Bronski Beat",
@@ -109,11 +109,11 @@
           "Tears For Fears"
         ],
         "reponse": "Tears For Fears",
-        "anecdote": "Accompagnee de percussions, la chanson va musicalement devenir de plus en plus riche au fur et à mesure qu'elle progresse."
+        "anecdote": "Accompagnee de percussions, la chanson va musicalement devenir de plus en plus riche au fur et a mesure qu elle progresse."
       },
       {
         "id": 7,
-        "question": "Quel est le plus gros succes commercial de l'existence du groupe New Order ?",
+        "question": "Quel est le plus gros succes commercial de l existence du groupe New Order ?",
         "propositions": [
           "Ultraviolence",
           "Blue Monday",
@@ -121,7 +121,7 @@
           "Paradise"
         ],
         "reponse": "Blue Monday",
-        "anecdote": "Le groupe se composait au depart des membres restant du groupe Joy Division dont le chanteur Ian Curtis s'est suicide."
+        "anecdote": "Le groupe se composait au depart des membres restant du groupe Joy Division dont le chanteur Ian Curtis s est suicide."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "The Chameleons"
         ],
         "reponse": "Depeche Mode",
-        "anecdote": "« People Are People » est l'oeuvre de Martin Gore, l'air dansant de la chanson etant quant à elle à mettre au credit d'Alan Wilder."
+        "anecdote": "« People Are People » est l oeuvre de Martin Gore, l air dansant de la chanson etant quant a elle a mettre au credit d Alan Wilder."
       },
       {
         "id": 9,
@@ -145,11 +145,11 @@
           "FGTH"
         ],
         "reponse": "FGTH",
-        "anecdote": "La chanson « Relax » a ensuite ete incluse dans l'album « Welcome to the Pleasuredome » sorti un an plus tard."
+        "anecdote": "La chanson « Relax » a ensuite ete incluse dans l album « Welcome to the Pleasuredome » sorti un an plus tard."
       },
       {
         "id": 10,
-        "question": "« Such a Shame » a ete l'un des plus grands tubes de quel groupe musical ?",
+        "question": "« Such a Shame » a ete l un des plus grands tubes de quel groupe musical ?",
         "propositions": [
           "Eurythmics",
           "Talk Talk",
@@ -157,7 +157,7 @@
           "Talking Heads"
         ],
         "reponse": "Talk Talk",
-        "anecdote": "« Such a Shame », ecrite par Mark Hollis, fut grandement inspiree par le roman culte de l'auteur americain Luke Rhinehart « L'Homme-de »."
+        "anecdote": "« Such a Shame », ecrite par Mark Hollis, fut grandement inspiree par le roman culte de l auteur americain Luke Rhinehart « L Homme-de »."
       }
     ],
     "confirme": [
@@ -171,7 +171,7 @@
           "Talk Talk"
         ],
         "reponse": "Duran Duran",
-        "anecdote": "C'est la petite amie de l'epoque de Le Bon, Fiona Kemp, barmaid au Rum Runner, qui a presente le futur chanteur au reste du groupe."
+        "anecdote": "C est la petite amie de l epoque de Le Bon, Fiona Kemp, barmaid au Rum Runner, qui a presente le futur chanteur au reste du groupe."
       },
       {
         "id": 12,
@@ -183,11 +183,11 @@
           "Soft Cell"
         ],
         "reponse": "New Order",
-        "anecdote": "Joy Division, considere comme l'un des initiateurs de la cold wave, est l'un des groupes precurseurs et « parrains du rock gothique »."
+        "anecdote": "Joy Division, considere comme l un des initiateurs de la cold wave, est l un des groupes precurseurs et « parrains du rock gothique »."
       },
       {
         "id": 13,
-        "question": "Quel nom de groupe, pionnier de la dream pop, fait reference à un grand ecrivain ?",
+        "question": "Quel nom de groupe, pionnier de la dream pop, fait reference a un grand ecrivain ?",
         "propositions": [
           "Dead Can Dance",
           "Sparks",
@@ -195,11 +195,11 @@
           "Cocteau Twins"
         ],
         "reponse": "Cocteau Twins",
-        "anecdote": "La musique des Cocteau Twins est aerienne, à la fois melancolique et legere, mais surtout tres abstraite."
+        "anecdote": "La musique des Cocteau Twins est aerienne, a la fois melancolique et legere, mais surtout tres abstraite."
       },
       {
         "id": 14,
-        "question": "Dans quel trio anglais le chanteur a-t-il une voix à briser du cristal ?",
+        "question": "Dans quel trio anglais le chanteur a-t-il une voix a briser du cristal ?",
         "propositions": [
           "China Crisis",
           "The Associates",
@@ -207,11 +207,11 @@
           "Duran Duran"
         ],
         "reponse": "Bronski Beat",
-        "anecdote": "Forme à Londres en 1983, le groupe Bronski Beat est surtout connu pour son morceau planetaire « Smalltown Boy »."
+        "anecdote": "Forme a Londres en 1983, le groupe Bronski Beat est surtout connu pour son morceau planetaire « Smalltown Boy »."
       },
       {
         "id": 15,
-        "question": "L'album « Reggatta de Blanc » fait partie de la discographie de quel groupe ?",
+        "question": "L album « Reggatta de Blanc » fait partie de la discographie de quel groupe ?",
         "propositions": [
           "The Clash",
           "The Scabs",
@@ -219,7 +219,7 @@
           "The Police"
         ],
         "reponse": "The Police",
-        "anecdote": "Avec l'album « Reggatta de Blanc », Sting a ete elu par le New Musical Express meilleur chanteur de l'annee 1979."
+        "anecdote": "Avec l album « Reggatta de Blanc », Sting a ete elu par le New Musical Express meilleur chanteur de l annee 1979."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "The Scabs"
         ],
         "reponse": "The Stranglers",
-        "anecdote": "Ode à l'heroïne et aux femmes, les arrangements acoustiques et le rythme de valse de « Golden Brown » en font un titre intemporel."
+        "anecdote": "Ode a l heroïne et aux femmes, les arrangements acoustiques et le rythme de valse de « Golden Brown » en font un titre intemporel."
       },
       {
         "id": 17,
@@ -250,16 +250,16 @@
         "question": "Quel est le titre du premier album du groupe Indochine, sorti en 1982 ?",
         "propositions": [
           "7000 danses",
-          "L'Aventurier",
+          "L Aventurier",
           "Le Baiser",
           "Le Peril jaune"
         ],
-        "reponse": "L'Aventurier",
+        "reponse": "L Aventurier",
         "anecdote": "Apres un desinteret manifeste des medias pour Indochine dans les annees 1990, le groupe a retrouve le succes en 2002."
       },
       {
         "id": 19,
-        "question": "Sur quelle chaîne de television musicale la new wave s'est-elle fortement concretisee ?",
+        "question": "Sur quelle chaîne de television musicale la new wave s est-elle fortement concretisee ?",
         "propositions": [
           "Fun TV",
           "MTV",
@@ -267,7 +267,7 @@
           "Mezzo"
         ],
         "reponse": "MTV",
-        "anecdote": "À l'origine, comme pour le post-punk, la new wave definissait les nouveaux groupes et artistes pop rock anglo-americains."
+        "anecdote": "À l origine, comme pour le post-punk, la new wave definissait les nouveaux groupes et artistes pop rock anglo-americains."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Allemande"
         ],
         "reponse": "Belge",
-        "anecdote": "Par ses prises de position radicales et par sa musique atypique et anti-consensuelle, Front 242 n'a jamais fait l'unanimite."
+        "anecdote": "Par ses prises de position radicales et par sa musique atypique et anti-consensuelle, Front 242 n a jamais fait l unanimite."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "Joy Division"
         ],
         "reponse": "Joy Division",
-        "anecdote": "Le groupe gagnant en popularite, Ian Curtis souffrit de sa celebrite naissante qui s'accordait mal avec sa vie privee."
+        "anecdote": "Le groupe gagnant en popularite, Ian Curtis souffrit de sa celebrite naissante qui s accordait mal avec sa vie privee."
       },
       {
         "id": 22,
@@ -305,11 +305,11 @@
           "Les Infideles"
         ],
         "reponse": "Taxi Girl",
-        "anecdote": "Taxi Girl est un groupe de l'after punk à tendance new wave et à l'esthetique romantique, rouge et noire, magnetique et punk."
+        "anecdote": "Taxi Girl est un groupe de l after punk a tendance new wave et a l esthetique romantique, rouge et noire, magnetique et punk."
       },
       {
         "id": 23,
-        "question": "Le nom de quel groupe musical des annees 1980 provient d'un graffiti apercu à Berlin ?",
+        "question": "Le nom de quel groupe musical des annees 1980 provient d un graffiti apercu a Berlin ?",
         "propositions": [
           "Bronski Beat",
           "Spandau Ballet",
@@ -317,7 +317,7 @@
           "Duran Duran"
         ],
         "reponse": "Spandau Ballet",
-        "anecdote": "Initialement inspire par un melange de funk, de jazz et de rock, le groupe s'est successivement appele The Cut puis The Makers."
+        "anecdote": "Initialement inspire par un melange de funk, de jazz et de rock, le groupe s est successivement appele The Cut puis The Makers."
       },
       {
         "id": 24,
@@ -341,11 +341,11 @@
           "Yazoo"
         ],
         "reponse": "Secret Service",
-        "anecdote": "En 1986, le chanteur Ola Hakansson a fait un duo avec Agnetha Faltskog, la chanteuse d'ABBA, intitule « The Way You Are »."
+        "anecdote": "En 1986, le chanteur Ola Hakansson a fait un duo avec Agnetha Faltskog, la chanteuse d ABBA, intitule « The Way You Are »."
       },
       {
         "id": 26,
-        "question": "Que vous rappelle « Un homme, dans une gare isolee, une valise à ses côtes » ?",
+        "question": "Que vous rappelle « Un homme, dans une gare isolee, une valise a ses côtes » ?",
         "propositions": [
           "New Order",
           "Visage",
@@ -353,7 +353,7 @@
           "Tears For Fears"
         ],
         "reponse": "Visage",
-        "anecdote": "Le morceau « Fade to Grey » est aujourd'hui considere comme le premier single du courant musical Nouveaux Romantiques."
+        "anecdote": "Le morceau « Fade to Grey » est aujourd hui considere comme le premier single du courant musical Nouveaux Romantiques."
       },
       {
         "id": 27,
@@ -369,7 +369,7 @@
       },
       {
         "id": 28,
-        "question": "Lequel de ces groupes new wave n'est pas issu de la ville de Manchester ?",
+        "question": "Lequel de ces groupes new wave n est pas issu de la ville de Manchester ?",
         "propositions": [
           "The Smiths",
           "Sex Pistols",
@@ -377,7 +377,7 @@
           "New Order"
         ],
         "reponse": "Sex Pistols",
-        "anecdote": "Les Sex Pistols sont un groupe forme en 1975 à Londres, connus pour etre les initiateurs du mouvement punk au Royaume-Uni."
+        "anecdote": "Les Sex Pistols sont un groupe forme en 1975 a Londres, connus pour etre les initiateurs du mouvement punk au Royaume-Uni."
       },
       {
         "id": 29,
@@ -389,7 +389,7 @@
           "Robert Smith"
         ],
         "reponse": "Ian McCulloch",
-        "anecdote": "Le groupe Echo and the Bunnymen, toujours en activite, s'est disloque en 1988, separe en 1992 et reforme en 1996."
+        "anecdote": "Le groupe Echo and the Bunnymen, toujours en activite, s est disloque en 1988, separe en 1992 et reforme en 1996."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Factory Records"
         ],
         "reponse": "Factory Records",
-        "anecdote": "Tout comme le label 4AD, Factory Records disposait d'une equipe creative qui assura à ses artistes un son et une image singuliers."
+        "anecdote": "Tout comme le label 4AD, Factory Records disposait d une equipe creative qui assura a ses artistes un son et une image singuliers."
       }
     ]
     }

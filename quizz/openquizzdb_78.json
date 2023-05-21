@@ -3,12 +3,12 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
       "nom": "Celebrites",
-      "slogan": "D'hier à aujourd'hui"
+      "slogan": "D hier a aujourd hui"
     },
     "en": {
       "categorie": "Celebrities",
@@ -21,8 +21,8 @@
       "slogan": "De ayer a hoy"
     },
     "it": {
-      "categorie": "Celebrità",
-      "nom": "Celebrità",
+      "categorie": "Celebrita",
+      "nom": "Celebrita",
       "slogan": "Da ieri a oggi"
     },
     "de": {
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quel homme « capital » aux États-Unis fut le premier representant de l'Oncle Sam ?",
+        "question": "Quel homme « capital » aux États-Unis fut le premier representant de l Oncle Sam ?",
         "propositions": [
           "Theodore Roosevelt",
           "Abraham Lincoln",
@@ -49,7 +49,7 @@
           "George Washington"
         ],
         "reponse": "George Washington",
-        "anecdote": "George Washington est le premier president des États-Unis d'Amerique apres la guerre d'Independance."
+        "anecdote": "George Washington est le premier president des États-Unis d Amerique apres la guerre d Independance."
       },
       {
         "id": 2,
@@ -73,7 +73,7 @@
           "Marilyn Manson"
         ],
         "reponse": "Bob Dylan",
-        "anecdote": "D'abord de tendance folk, Bob Dylan passa au rock en prenant une guitare electrique."
+        "anecdote": "D abord de tendance folk, Bob Dylan passa au rock en prenant une guitare electrique."
       },
       {
         "id": 4,
@@ -109,7 +109,7 @@
           "Marcel Amont"
         ],
         "reponse": "Charles Trenet",
-        "anecdote": "Charles Trenet est l'auteur de pres de mille chansons, succes populaires intemporels au-delà de la francophonie."
+        "anecdote": "Charles Trenet est l auteur de pres de mille chansons, succes populaires intemporels au-dela de la francophonie."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Mikhaïl Gorbatchev"
         ],
         "reponse": "Mikhaïl Gorbatchev",
-        "anecdote": "Gorbatchev se fit l'apôtre de la transparence dans le domaine de la politique interieure."
+        "anecdote": "Gorbatchev se fit l apôtre de la transparence dans le domaine de la politique interieure."
       },
       {
         "id": 8,
@@ -163,7 +163,7 @@
     "confirme": [
       {
         "id": 11,
-        "question": "De qui peut-on dire que sa theorie fut une revolution, sans en avoir l'air ?",
+        "question": "De qui peut-on dire que sa theorie fut une revolution, sans en avoir l air ?",
         "propositions": [
           "Hugh Low",
           "James Hector",
@@ -171,7 +171,7 @@
           "Alexander Whyte"
         ],
         "reponse": "Charles Darwin",
-        "anecdote": "Il crea sa theorie apres de multiples etudes sur les animaux, theorie selon laquelle l'homme descendrait du singe."
+        "anecdote": "Il crea sa theorie apres de multiples etudes sur les animaux, theorie selon laquelle l homme descendrait du singe."
       },
       {
         "id": 12,
@@ -195,11 +195,11 @@
           "Ambiorix"
         ],
         "reponse": "Vercingetorix",
-        "anecdote": "Cesar le contraignit à jeter les armes à ses pieds avant de le faire etrangler dans sa prison."
+        "anecdote": "Cesar le contraignit a jeter les armes a ses pieds avant de le faire etrangler dans sa prison."
       },
       {
         "id": 14,
-        "question": "Quel chef de file de la Nouvelle Vague a realise un amour atomique à Hiroshima ?",
+        "question": "Quel chef de file de la Nouvelle Vague a realise un amour atomique a Hiroshima ?",
         "propositions": [
           "Alain Resnais",
           "Claude Sautet",
@@ -207,7 +207,7 @@
           "Bertrand Blier"
         ],
         "reponse": "Alain Resnais",
-        "anecdote": "Parmi ses films, on peut noter « Providence », « Mon Oncle d'Amerique » et « Hiroshima mon amour »."
+        "anecdote": "Parmi ses films, on peut noter « Providence », « Mon Oncle d Amerique » et « Hiroshima mon amour »."
       },
       {
         "id": 15,
@@ -231,7 +231,7 @@
           "Philippe Soupault"
         ],
         "reponse": "Louis Aragon",
-        "anecdote": "D'abord membre du mouvement Dada, Louis Aragon fonda avec quelques amis le mouvement Surrealiste."
+        "anecdote": "D abord membre du mouvement Dada, Louis Aragon fonda avec quelques amis le mouvement Surrealiste."
       },
       {
         "id": 17,
@@ -243,11 +243,11 @@
           "Joseph Joffre"
         ],
         "reponse": "Philippe Petain",
-        "anecdote": "Philippe Petain, mort le 23 juillet 1951 à Port-Joinville, remporta de grands batailles lors de la guerre de 14."
+        "anecdote": "Philippe Petain, mort le 23 juillet 1951 a Port-Joinville, remporta de grands batailles lors de la guerre de 14."
       },
       {
         "id": 18,
-        "question": "Quel animateur francais fut remercie pour s'etre moque du president de sa chaîne ?",
+        "question": "Quel animateur francais fut remercie pour s etre moque du president de sa chaîne ?",
         "propositions": [
           "Benjamin Castaldi",
           "Michel Polac",
@@ -255,7 +255,7 @@
           "Jean-Marie Cavada"
         ],
         "reponse": "Michel Polac",
-        "anecdote": "Au debut de « Droit de Reponse » figurait une revue de presse humoristique qui s'intitulait « Rebuts de Presse »."
+        "anecdote": "Au debut de « Droit de Reponse » figurait une revue de presse humoristique qui s intitulait « Rebuts de Presse »."
       },
       {
         "id": 19,
@@ -285,7 +285,7 @@
     "expert": [
       {
         "id": 21,
-        "question": "Quel ingenieur et industriel francais installa ses usines d'automobiles au quai de Javel ?",
+        "question": "Quel ingenieur et industriel francais installa ses usines d automobiles au quai de Javel ?",
         "propositions": [
           "Maurice Audibert",
           "Andre Citroan",
@@ -297,7 +297,7 @@
       },
       {
         "id": 22,
-        "question": "Quel fils d'aubergiste de campagne se fit connaître en Europe par ses operas ?",
+        "question": "Quel fils d aubergiste de campagne se fit connaître en Europe par ses operas ?",
         "propositions": [
           "Franz Schubert",
           "Franz Liszt",
@@ -305,7 +305,7 @@
           "Giuseppe Verdi"
         ],
         "reponse": "Giuseppe Verdi",
-        "anecdote": "Ardent patriote, Verdi se fit le champion des idees liberales qui conduisirent à l'independance et à l'Unite italiennes."
+        "anecdote": "Ardent patriote, Verdi se fit le champion des idees liberales qui conduisirent a l independance et a l Unite italiennes."
       },
       {
         "id": 23,
@@ -329,7 +329,7 @@
           "Michel Canac"
         ],
         "reponse": "Jean-Claude Killy",
-        "anecdote": "Jean-Claude Killy assura d'importantes fonctions pour les Jeux Olympiques d'Albertville de 1992."
+        "anecdote": "Jean-Claude Killy assura d importantes fonctions pour les Jeux Olympiques d Albertville de 1992."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Gerard Philipe"
         ],
         "reponse": "Gerard Philipe",
-        "anecdote": "Gerard Philippe s'illustra entre autres dans « Le Diable au corps » et « La Beaute du diable »."
+        "anecdote": "Gerard Philippe s illustra entre autres dans « Le Diable au corps » et « La Beaute du diable »."
       },
       {
         "id": 26,
@@ -365,11 +365,11 @@
           "Jules Ferry"
         ],
         "reponse": "Leon Gambetta",
-        "anecdote": "Leon Gambetta fut l'une des personnalites politiques les plus importantes des premieres annees de la Troisieme Republique."
+        "anecdote": "Leon Gambetta fut l une des personnalites politiques les plus importantes des premieres annees de la Troisieme Republique."
       },
       {
         "id": 28,
-        "question": "Quel ingenieur et mecanicien ecossais mit au point la premiere machine à vapeur ?",
+        "question": "Quel ingenieur et mecanicien ecossais mit au point la premiere machine a vapeur ?",
         "propositions": [
           "Henry Bell",
           "Thomas Telford",
@@ -389,7 +389,7 @@
           "Edmond Delorme"
         ],
         "reponse": "Ambroise Pare",
-        "anecdote": "Specialiste des amputations, il est le premier à avoir ligature les arteres alors que ses predecesseurs les cauterisaient au feu."
+        "anecdote": "Specialiste des amputations, il est le premier a avoir ligature les arteres alors que ses predecesseurs les cauterisaient au feu."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "Michel Serrault"
         ],
         "reponse": "Michel Galabru",
-        "anecdote": "C'est dans le film « Kamikaze » que Michel Galabru joue le rôle d'un ingenieur tueur."
+        "anecdote": "C est dans le film « Kamikaze » que Michel Galabru joue le rôle d un ingenieur tueur."
       }
     ]
     }

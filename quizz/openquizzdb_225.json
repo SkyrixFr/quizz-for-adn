@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "4 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
@@ -21,7 +21,7 @@
       "slogan": "Modelo, actriz y duquesa"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Meghan Markle",
       "slogan": "Modella, attrice e duchessa"
     },
@@ -41,7 +41,7 @@
       "debutant": [
       {
         "id": 1,
-        "question": "Quel titre Meghan Markle a-t-elle recu suite à son deuxieme mariage ?",
+        "question": "Quel titre Meghan Markle a-t-elle recu suite a son deuxieme mariage ?",
         "propositions": [
           "Comtesse de York",
           "Altesse royale",
@@ -49,7 +49,7 @@
           "Duchesse de Sussex"
         ],
         "reponse": "Duchesse de Sussex",
-        "anecdote": "Auparavant, il n'y a jamais eu de duchesse de Sussex, meme si Augustus Frederick (premier titulaire) s'est marie deux fois."
+        "anecdote": "Auparavant, il n y a jamais eu de duchesse de Sussex, meme si Augustus Frederick (premier titulaire) s est marie deux fois."
       },
       {
         "id": 2,
@@ -61,11 +61,11 @@
           "Joueuse de tennis"
         ],
         "reponse": "Actrice",
-        "anecdote": "C'est dans la celebre serie televisee americaine « Suits » que Meghan Markle a interprete Rachel Zane, une assistante juridique."
+        "anecdote": "C est dans la celebre serie televisee americaine « Suits » que Meghan Markle a interprete Rachel Zane, une assistante juridique."
       },
       {
         "id": 3,
-        "question": "À l'issue de quelle saison Meghan Markle a-t-elle quitte la serie « Suits » ?",
+        "question": "À l issue de quelle saison Meghan Markle a-t-elle quitte la serie « Suits » ?",
         "propositions": [
           "Huitieme",
           "Septieme",
@@ -73,11 +73,11 @@
           "Cinquieme"
         ],
         "reponse": "Septieme",
-        "anecdote": "En 2017, à la suite de ses fiancailles avec le Prince Harry, elle quitte la serie « Suits » et prend la decision d'interrompre sa carriere d'actrice."
+        "anecdote": "En 2017, a la suite de ses fiancailles avec le Prince Harry, elle quitte la serie « Suits » et prend la decision d interrompre sa carriere d actrice."
       },
       {
         "id": 4,
-        "question": "En compagnie de quelle celebre voiture Meghan Markle a-t-elle tourne à la television ?",
+        "question": "En compagnie de quelle celebre voiture Meghan Markle a-t-elle tourne a la television ?",
         "propositions": [
           "Christine",
           "K 2000",
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "question": "De combien d'annees Meghan Markle est-elle l'aînee de son mari, le prince Harry ?",
+        "question": "De combien d annees Meghan Markle est-elle l aînee de son mari, le prince Harry ?",
         "propositions": [
           "Sept ans",
           "Neuf ans",
@@ -101,7 +101,7 @@
       },
       {
         "id": 6,
-        "question": "Combien d'enfants d'honneur ont accompagne Meghan Markle lors de son mariage princier ?",
+        "question": "Combien d enfants d honneur ont accompagne Meghan Markle lors de son mariage princier ?",
         "propositions": [
           "Huit",
           "Six",
@@ -113,7 +113,7 @@
       },
       {
         "id": 7,
-        "question": "Quel metier est encore à ce jour exerce par la mere de Meghan Markle ?",
+        "question": "Quel metier est encore a ce jour exerce par la mere de Meghan Markle ?",
         "propositions": [
           "Estheticienne",
           "Styliste",
@@ -121,11 +121,11 @@
           "Professeur de yoga"
         ],
         "reponse": "Professeur de yoga",
-        "anecdote": "Meghan Markle fut elevee à Los Angeles par sa mere afro-americaine, Doria Ragland, et son pere, Thomas Wayne Markle."
+        "anecdote": "Meghan Markle fut elevee a Los Angeles par sa mere afro-americaine, Doria Ragland, et son pere, Thomas Wayne Markle."
       },
       {
         "id": 8,
-        "question": "Combien d'invites etaient à l'office religieux du mariage princier de Meghan Markle ?",
+        "question": "Combien d invites etaient a l office religieux du mariage princier de Meghan Markle ?",
         "propositions": [
           "300",
           "400",
@@ -137,7 +137,7 @@
       },
       {
         "id": 9,
-        "question": "À qui Meghan Markle a-t-elle ecrit une celebre lettre de reclamation à l'age de onze ans ?",
+        "question": "À qui Meghan Markle a-t-elle ecrit une celebre lettre de reclamation a l age de onze ans ?",
         "propositions": [
           "Laura Bush",
           "Michelle Obama",
@@ -145,7 +145,7 @@
           "Nancy Reagan"
         ],
         "reponse": "Hillary Clinton",
-        "anecdote": "Le president de Procter And Gamble fera ainsi changer le texte d'une publicite televisee nationale qu'elle a juge trop sexiste."
+        "anecdote": "Le president de Procter And Gamble fera ainsi changer le texte d une publicite televisee nationale qu elle a juge trop sexiste."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Givenchy"
         ],
         "reponse": "Givenchy",
-        "anecdote": "Elle etait coiffee d'un chignon bas surmonte d'une tiare de diamants offerte par la reine, datant de 1932, sur une broche de 1893."
+        "anecdote": "Elle etait coiffee d un chignon bas surmonte d une tiare de diamants offerte par la reine, datant de 1932, sur une broche de 1893."
       }
     ],
     "confirme": [
@@ -171,11 +171,11 @@
           "Chicago Med"
         ],
         "reponse": "Hôpital central",
-        "anecdote": "Il est à ce jour le premier plus long et ancien feuilleton americain en production devant « Les Feux de l'amour » et « Amour, Gloire et Beaute »."
+        "anecdote": "Il est a ce jour le premier plus long et ancien feuilleton americain en production devant « Les Feux de l amour » et « Amour, Gloire et Beaute »."
       },
       {
         "id": 12,
-        "question": "Ou Markle s'est-elle rendu en 2014 pour soutenir les troupes americaines ?",
+        "question": "Ou Markle s est-elle rendu en 2014 pour soutenir les troupes americaines ?",
         "propositions": [
           "Mongolie",
           "Afghanistan",
@@ -183,7 +183,7 @@
           "Cambodge"
         ],
         "reponse": "Afghanistan",
-        "anecdote": "Ceci dans le cadre de la tournee organisee par l'United Service Organizations, presidee par le chef d'État-Major des armees US."
+        "anecdote": "Ceci dans le cadre de la tournee organisee par l United Service Organizations, presidee par le chef d État-Major des armees US."
       },
       {
         "id": 13,
@@ -195,7 +195,7 @@
           "Beyond"
         ],
         "reponse": "Fringe",
-        "anecdote": "Dans la serie, l'equipe a recours à ce qu'on appelle en anglais la fringe science pour enqueter sur des phenomenes inexpliques."
+        "anecdote": "Dans la serie, l equipe a recours a ce qu on appelle en anglais la fringe science pour enqueter sur des phenomenes inexpliques."
       },
       {
         "id": 14,
@@ -207,7 +207,7 @@
           "Marc Sorkin"
         ],
         "reponse": "Trevor Engelson",
-        "anecdote": "Trevor Engelson est ne en 1976 à Great Neck, New York, possede une nationalite americaine et appartient au milieu ethnique blanc."
+        "anecdote": "Trevor Engelson est ne en 1976 a Great Neck, New York, possede une nationalite americaine et appartient au milieu ethnique blanc."
       },
       {
         "id": 15,
@@ -219,7 +219,7 @@
           "Cosmopolis"
         ],
         "reponse": "Remember Me",
-        "anecdote": "Malgre d'excellentes recettes, les critiques ont ete tres severes, deplorant que le film soit trop semblable à la saga « Twilight »."
+        "anecdote": "Malgre d excellentes recettes, les critiques ont ete tres severes, deplorant que le film soit trop semblable a la saga « Twilight »."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Catholique"
         ],
         "reponse": "Protestante",
-        "anecdote": "La ceremonie privee a ete celebree dans la chapelle royale du palais Saint James, presidee par l'archeveque de Cantorbery, Justin Welby."
+        "anecdote": "La ceremonie privee a ete celebree dans la chapelle royale du palais Saint James, presidee par l archeveque de Cantorbery, Justin Welby."
       },
       {
         "id": 17,
@@ -243,11 +243,11 @@
           "Le Fils de Saul"
         ],
         "reponse": "Anti-Social",
-        "anecdote": "Dans ce film, differentes actions sont menees dans la ville de Londres, à notre epoque, contre le milieu violent du trafic d'armes."
+        "anecdote": "Dans ce film, differentes actions sont menees dans la ville de Londres, a notre epoque, contre le milieu violent du trafic d armes."
       },
       {
         "id": 18,
-        "question": "Quelle fleur chere à Diana illuminait le bouquet du second mariage de M. Markle ?",
+        "question": "Quelle fleur chere a Diana illuminait le bouquet du second mariage de M. Markle ?",
         "propositions": [
           "Myosotis",
           "Mimosa",
@@ -255,7 +255,7 @@
           "Magnolia"
         ],
         "reponse": "Myosotis",
-        "anecdote": "Des fleurs furent cueillies par le prince Harry lui-meme, la veille du mariage, dans le jardin de leur residence à Kensington Palace."
+        "anecdote": "Des fleurs furent cueillies par le prince Harry lui-meme, la veille du mariage, dans le jardin de leur residence a Kensington Palace."
       },
       {
         "id": 19,
@@ -267,7 +267,7 @@
           "Texas"
         ],
         "reponse": "Manhattan",
-        "anecdote": "« Les Experts : Manhattan » ne comportent que quelques scenes exterieures filmees à New York, le reste etant tourne en studio."
+        "anecdote": "« Les Experts : Manhattan » ne comportent que quelques scenes exterieures filmees a New York, le reste etant tourne en studio."
       },
       {
         "id": 20,
@@ -279,7 +279,7 @@
           "Castle"
         ],
         "reponse": "Castle",
-        "anecdote": "Selon le magazine Variety, ABC pourrait bientôt lancer une serie derivee de « Castle », l'histoire se centrant sur Derrick Storm."
+        "anecdote": "Selon le magazine Variety, ABC pourrait bientôt lancer une serie derivee de « Castle », l histoire se centrant sur Derrick Storm."
       }
     ],
     "expert": [
@@ -293,7 +293,7 @@
           "2009"
         ],
         "reponse": "2003",
-        "anecdote": "Meghan Markle a etudie au sein d'ecoles privees à Los Angeles puis à l'universite Northwestern de Chicago, dans l'Illinois."
+        "anecdote": "Meghan Markle a etudie au sein d ecoles privees a Los Angeles puis a l universite Northwestern de Chicago, dans l Illinois."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "Grece"
         ],
         "reponse": "Argentine",
-        "anecdote": "Apres l'universite, Meghan Markle a travaille un moment pour l'ambassade americaine de Buenos Aires, en Argentine."
+        "anecdote": "Apres l universite, Meghan Markle a travaille un moment pour l ambassade americaine de Buenos Aires, en Argentine."
       },
       {
         "id": 23,
@@ -317,11 +317,11 @@
           "Comptable"
         ],
         "reponse": "Calligraphe",
-        "anecdote": "Exerce à mi-temps, Meghan Markle proposait notamment des calligraphies personnalisees sur des cartons d'invitation de mariage."
+        "anecdote": "Exerce a mi-temps, Meghan Markle proposait notamment des calligraphies personnalisees sur des cartons d invitation de mariage."
       },
       {
         "id": 24,
-        "question": "Pour quelle chaîne de grands magasins Meghan Markle est-elle devenue l'egerie ?",
+        "question": "Pour quelle chaîne de grands magasins Meghan Markle est-elle devenue l egerie ?",
         "propositions": [
           "Reitmans",
           "Hamleys",
@@ -333,7 +333,7 @@
       },
       {
         "id": 25,
-        "question": "Pour quel sommet annuel Meghan Markle s'est-elle exprime sur l'esclavage moderne ?",
+        "question": "Pour quel sommet annuel Meghan Markle s est-elle exprime sur l esclavage moderne ?",
         "propositions": [
           "Fimcap",
           "Gordonia",
@@ -353,7 +353,7 @@
           "Normand Laprise"
         ],
         "reponse": "Cory Vitiello",
-        "anecdote": "Meghan Markle aurait frequente deux ans le chef torontois Cory Vitiello, apres l'avoir rencontre dans son ancien restaurant."
+        "anecdote": "Meghan Markle aurait frequente deux ans le chef torontois Cory Vitiello, apres l avoir rencontre dans son ancien restaurant."
       },
       {
         "id": 27,
@@ -365,11 +365,11 @@
           "Sarah Cassaway"
         ],
         "reponse": "Wallis Simpson",
-        "anecdote": "Apres son divorce avec Earl Winfield Spencer Jr., Wallis Simpson s'est remarie le 21 juillet 1928 avec Ernest Aldrich Simpson."
+        "anecdote": "Apres son divorce avec Earl Winfield Spencer Jr., Wallis Simpson s est remarie le 21 juillet 1928 avec Ernest Aldrich Simpson."
       },
       {
         "id": 28,
-        "question": "Quel roi d'Angleterre est un ancetre du pere de Meghan Markle ?",
+        "question": "Quel roi d Angleterre est un ancetre du pere de Meghan Markle ?",
         "propositions": [
           "Charles II",
           "Henri III",
@@ -377,11 +377,11 @@
           "Édouard III"
         ],
         "reponse": "Édouard III",
-        "anecdote": "Édouard fut couronne à Westminster (Londres) le 1er fevrier 1327, à l'age de 14 ans, en raison de la destitution de son pere Édouard II."
+        "anecdote": "Édouard fut couronne a Westminster (Londres) le 1er fevrier 1327, a l age de 14 ans, en raison de la destitution de son pere Édouard II."
       },
       {
         "id": 29,
-        "question": "Quelle meilleure amie de Meghan Markle l'a accompagne à son mariage princier ?",
+        "question": "Quelle meilleure amie de Meghan Markle l a accompagne a son mariage princier ?",
         "propositions": [
           "Sarah Rafferty",
           "Jessica Mulroney",
@@ -389,7 +389,7 @@
           "Amanda Schull"
         ],
         "reponse": "Jessica Mulroney",
-        "anecdote": "Rachel Meghan Markle, dite Meghan Markle, est nee le 4 août 1981 à Los Angeles, en Californie, de parents americains."
+        "anecdote": "Rachel Meghan Markle, dite Meghan Markle, est nee le 4 août 1981 a Los Angeles, en Californie, de parents americains."
       },
       {
         "id": 30,
@@ -401,7 +401,7 @@
           "22 000 euros"
         ],
         "reponse": "57 000 euros",
-        "anecdote": "Rompant avec le classique pudding aux fruits confits, ce gateau royal, compose d'ingredients bio, fut realise par Claire Ptak."
+        "anecdote": "Rompant avec le classique pudding aux fruits confits, ce gateau royal, compose d ingredients bio, fut realise par Claire Ptak."
       }
     ]
     },
@@ -421,7 +421,7 @@
       },
       {
         "id": 2,
-        "question": "What was Meghan Markle's job before becoming a Duchess ?",
+        "question": "What was Meghan Markle s job before becoming a Duchess ?",
         "propositions": [
           "Lawyer",
           "TV host",
@@ -481,7 +481,7 @@
       },
       {
         "id": 7,
-        "question": "What business is still exercised today by Meghan Markle's mother ?",
+        "question": "What business is still exercised today by Meghan Markle s mother ?",
         "propositions": [
           "Stylist",
           "Esthetician",
@@ -615,11 +615,11 @@
       },
       {
         "id": 18,
-        "question": "Which flower dear to Diana lit up the bouquet of Meghan Markle's second wedding ?",
+        "question": "Which flower dear to Diana lit up the bouquet of Meghan Markle s second wedding ?",
         "propositions": [
           "Magnolia",
           "Mimosa",
-          "St. John's Wort",
+          "St. John s Wort",
           "Myosotis"
         ],
         "reponse": "Myosotis",
@@ -697,7 +697,7 @@
           "Liberty And Co"
         ],
         "reponse": "Reitmans",
-        "anecdote": "Meghan Markle loves shopping online at Reitmans, Canada's leading women's fashion retail chain."
+        "anecdote": "Meghan Markle loves shopping online at Reitmans, Canada s leading women s fashion retail chain."
       },
       {
         "id": 25,
@@ -1521,7 +1521,7 @@
           "Altezza reale"
         ],
         "reponse": "Duchessa del Sussex",
-        "anecdote": "In precedenza, non c'era mai stata una duchessa del Sussex, anche se Augustus Frederick (primo proprietario) si sposò due volte."
+        "anecdote": "In precedenza, non c era mai stata una duchessa del Sussex, anche se Augustus Frederick (primo proprietario) si sposò due volte."
       },
       {
         "id": 2,
@@ -1533,7 +1533,7 @@
           "Avvocato"
         ],
         "reponse": "Attrice",
-        "anecdote": "Fu nella famosa serie TV americana « Suits » che Meghan Markle interpretò Rachel Zane, un'assistente legale."
+        "anecdote": "Fu nella famosa serie TV americana « Suits » che Meghan Markle interpretò Rachel Zane, un assistente legale."
       },
       {
         "id": 3,
@@ -1569,11 +1569,11 @@
           "Sette anni"
         ],
         "reponse": "Tre anni",
-        "anecdote": "L'8 novembre 2016, e stato annunciato ufficialmente che Meghan Markle era la compagna del principe Harry, e questo dal giugno 2016."
+        "anecdote": "L 8 novembre 2016, e stato annunciato ufficialmente che Meghan Markle era la compagna del principe Harry, e questo dal giugno 2016."
       },
       {
         "id": 6,
-        "question": "Quanti figli d'onore hanno accompagnato Meghan Markle al suo matrimonio principesco ?",
+        "question": "Quanti figli d onore hanno accompagnato Meghan Markle al suo matrimonio principesco ?",
         "propositions": [
           "Dieci",
           "Sei",
@@ -1609,7 +1609,7 @@
       },
       {
         "id": 9,
-        "question": "Chi ha scritto Meghan Markle a una famosa lettera di denuncia all'età di undici anni ?",
+        "question": "Chi ha scritto Meghan Markle a una famosa lettera di denuncia all eta di undici anni ?",
         "propositions": [
           "Michelle Obama",
           "Hillary Clinton",
@@ -1617,11 +1617,11 @@
           "Nancy Reagan"
         ],
         "reponse": "Hillary Clinton",
-        "anecdote": "Il presidente di Procter And Gamble cambierà il testo di uno spot televisivo nazionale che considerava troppo sessista."
+        "anecdote": "Il presidente di Procter And Gamble cambiera il testo di uno spot televisivo nazionale che considerava troppo sessista."
       },
       {
         "id": 10,
-        "question": "Qual era il segno dell'abito da sposa di Meghan Markle al suo secondo matrimonio ?",
+        "question": "Qual era il segno dell abito da sposa di Meghan Markle al suo secondo matrimonio ?",
         "propositions": [
           "Givenchy",
           "Chanel",
@@ -1655,7 +1655,7 @@
           "Afghanistan"
         ],
         "reponse": "Afghanistan",
-        "anecdote": "Questo faceva parte del tour organizzato dalle United Service Organizations, presieduto dal Capo di stato maggiore dell'esercito americano."
+        "anecdote": "Questo faceva parte del tour organizzato dalle United Service Organizations, presieduto dal Capo di stato maggiore dell esercito americano."
       },
       {
         "id": 13,
@@ -1679,7 +1679,7 @@
           "Roy Marten"
         ],
         "reponse": "Trevor Engelson",
-        "anecdote": "Trevor Engelson e nato nel 1976 a Great Neck, New York, ha una nazionalità americana e appartiene alla comunità etnica bianca."
+        "anecdote": "Trevor Engelson e nato nel 1976 a Great Neck, New York, ha una nazionalita americana e appartiene alla comunita etnica bianca."
       },
       {
         "id": 15,
@@ -1703,7 +1703,7 @@
           "Indu"
         ],
         "reponse": "Protestante",
-        "anecdote": "La cerimonia privata e stata celebrata nella Cappella reale di Saint James Palace, presieduta dall'arcivescovo di Canterbury, Justin Welby."
+        "anecdote": "La cerimonia privata e stata celebrata nella Cappella reale di Saint James Palace, presieduta dall arcivescovo di Canterbury, Justin Welby."
       },
       {
         "id": 17,
@@ -1715,7 +1715,7 @@
           "Paper World"
         ],
         "reponse": "Antisociale",
-        "anecdote": "In questo film, varie azioni vengono eseguite nella città di Londra, ai nostri tempi, contro l'ambiente violento del traffico di armi."
+        "anecdote": "In questo film, varie azioni vengono eseguite nella citta di Londra, ai nostri tempi, contro l ambiente violento del traffico di armi."
       },
       {
         "id": 18,
@@ -1739,7 +1739,7 @@
           "Miami"
         ],
         "reponse": "Manhattan",
-        "anecdote": "« Gli esperti: Manhattan » hanno solo alcune scene all'aperto girate a New York, il resto e girato in studio."
+        "anecdote": "« Gli esperti: Manhattan » hanno solo alcune scene all aperto girate a New York, il resto e girato in studio."
       },
       {
         "id": 20,
@@ -1777,7 +1777,7 @@
           "Canada"
         ],
         "reponse": "Argentina",
-        "anecdote": "Dopo il college, Meghan Markle ha lavorato per un po 'presso l'ambasciata americana a Buenos Aires, in Argentina."
+        "anecdote": "Dopo il college, Meghan Markle ha lavorato per un po  presso l ambasciata americana a Buenos Aires, in Argentina."
       },
       {
         "id": 23,
@@ -1789,7 +1789,7 @@
           "Web designer"
         ],
         "reponse": "Calligraphe",
-        "anecdote": "Esercizio part-time, Meghan Markle includeva calligrafia personalizzata su biglietti d'invito per il matrimonio."
+        "anecdote": "Esercizio part-time, Meghan Markle includeva calligrafia personalizzata su biglietti d invito per il matrimonio."
       },
       {
         "id": 24,
@@ -1841,7 +1841,7 @@
       },
       {
         "id": 28,
-        "question": "Quale re d'Inghilterra e un antenato del padre di Meghan Markle ?",
+        "question": "Quale re d Inghilterra e un antenato del padre di Meghan Markle ?",
         "propositions": [
           "Carlo II",
           "Giovanni senza terra",
@@ -1849,11 +1849,11 @@
           "Edoardo III"
         ],
         "reponse": "Edoardo III",
-        "anecdote": "Edward fu incoronato a Westminster (Londra) il 1 ° febbraio 1327, all'età di 14 anni, a causa del licenziamento di suo padre Edoardo II."
+        "anecdote": "Edward fu incoronato a Westminster (Londra) il 1 ° febbraio 1327, all eta di 14 anni, a causa del licenziamento di suo padre Edoardo II."
       },
       {
         "id": 29,
-        "question": "Quale migliore amica di Meghan Markle l'ha accompagnata al suo matrimonio principesco ?",
+        "question": "Quale migliore amica di Meghan Markle l ha accompagnata al suo matrimonio principesco ?",
         "propositions": [
           "Sarah Rafferty",
           "Jessica Mulroney",
@@ -2087,7 +2087,7 @@
       },
       {
         "id": 18,
-        "question": "Welke bloem die Diana dierbaar was, verlichtte het boeket van Meghan Markle's tweede bruiloft ?",
+        "question": "Welke bloem die Diana dierbaar was, verlichtte het boeket van Meghan Markle s tweede bruiloft ?",
         "propositions": [
           "Myosotis",
           "Mimosa",
@@ -2169,7 +2169,7 @@
           "Reitmans"
         ],
         "reponse": "Reitmans",
-        "anecdote": "Meghan Markle houdt van online winkelen bij Reitmans, Canada's toonaangevende winkelketen voor damesmode."
+        "anecdote": "Meghan Markle houdt van online winkelen bij Reitmans, Canada s toonaangevende winkelketen voor damesmode."
       },
       {
         "id": 25,

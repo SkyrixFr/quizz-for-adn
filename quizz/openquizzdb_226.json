@@ -3,7 +3,7 @@
   "redacteur": "Philippe Bresoux",       
   "difficulte": "2 / 5",
   "version": 1,
-  "mise-à-jour": "2023-04-22",
+  "mise-a-jour": "2023-04-22",
   "categorie-nom-slogan": {
     "fr": {
       "categorie": "Celebrites",
@@ -21,7 +21,7 @@
       "slogan": "Conocemos sus nombres"
     },
     "it": {
-      "categorie": "Celebrità",
+      "categorie": "Celebrita",
       "nom": "Nomi famosi",
       "slogan": "Conosciamo i loro nomi"
     },
@@ -49,11 +49,11 @@
           "Jerôme"
         ],
         "reponse": "Gerald",
-        "anecdote": "Gerald Gardrinier, ne à La Reunion, a choisi pour nom de scene celui de sa grand-mere maternelle, Roxane de Palmas."
+        "anecdote": "Gerald Gardrinier, ne a La Reunion, a choisi pour nom de scene celui de sa grand-mere maternelle, Roxane de Palmas."
       },
       {
         "id": 2,
-        "question": "Quel est le prenom du pere de l'acteur canado-britannique Kiefer Sutherland ?",
+        "question": "Quel est le prenom du pere de l acteur canado-britannique Kiefer Sutherland ?",
         "propositions": [
           "Donald",
           "Pluto",
@@ -61,7 +61,7 @@
           "Popeye"
         ],
         "reponse": "Donald",
-        "anecdote": "Donald Sutherland a tenu son premier rôle au cinema en 1964 dans un film d'horreur italien, « Il castello dei morti vivi »."
+        "anecdote": "Donald Sutherland a tenu son premier rôle au cinema en 1964 dans un film d horreur italien, « Il castello dei morti vivi »."
       },
       {
         "id": 3,
@@ -73,7 +73,7 @@
           "Ryan"
         ],
         "reponse": "Ryan",
-        "anecdote": "Depuis septembre 2011, Ryan Gosling vit avec l'actrice Eva Mendes, avec laquelle il a eu deux filles, Esmeralda et Amada."
+        "anecdote": "Depuis septembre 2011, Ryan Gosling vit avec l actrice Eva Mendes, avec laquelle il a eu deux filles, Esmeralda et Amada."
       },
       {
         "id": 4,
@@ -85,7 +85,7 @@
           "Joao"
         ],
         "reponse": "Cristiano",
-        "anecdote": "Considere comme l'un des meilleurs joueurs du monde, Ronaldo a remporte le Ballon d'or en 2008, 2013, 2014, 2016 et 2017."
+        "anecdote": "Considere comme l un des meilleurs joueurs du monde, Ronaldo a remporte le Ballon d or en 2008, 2013, 2014, 2016 et 2017."
       },
       {
         "id": 5,
@@ -97,11 +97,11 @@
           "Abraham"
         ],
         "reponse": "Homer",
-        "anecdote": "Homer est apparu pour la premiere fois à la television avec sa famille dans le court metrage « Good Night », le 19 avril 1987."
+        "anecdote": "Homer est apparu pour la premiere fois a la television avec sa famille dans le court metrage « Good Night », le 19 avril 1987."
       },
       {
         "id": 6,
-        "question": "Comment se prenomme l'heureux proprietaire des crevettes Bubba Gump ?",
+        "question": "Comment se prenomme l heureux proprietaire des crevettes Bubba Gump ?",
         "propositions": [
           "Dan",
           "Winston",
@@ -109,7 +109,7 @@
           "Benjamin"
         ],
         "reponse": "Forrest",
-        "anecdote": "Pourtant simple d'esprit, l'histoire de Forrest Gump se confond avec celle des États-Unis des annees 1950 aux annees 1980."
+        "anecdote": "Pourtant simple d esprit, l histoire de Forrest Gump se confond avec celle des États-Unis des annees 1950 aux annees 1980."
       },
       {
         "id": 7,
@@ -121,7 +121,7 @@
           "Esmeralda"
         ],
         "reponse": "Esmeralda",
-        "anecdote": "Danseuse gitane, agee de 16 ans, Esmeralda se tremousse dans les rues de Paris et fait executer des tours à sa chevre Djali."
+        "anecdote": "Danseuse gitane, agee de 16 ans, Esmeralda se tremousse dans les rues de Paris et fait executer des tours a sa chevre Djali."
       },
       {
         "id": 8,
@@ -133,7 +133,7 @@
           "Luther"
         ],
         "reponse": "Ethan",
-        "anecdote": "Ethan Matthew Hunt est le personnage principal de la serie de films « Mission Impossible ». Il est interprete par l'acteur Tom Cruise."
+        "anecdote": "Ethan Matthew Hunt est le personnage principal de la serie de films « Mission Impossible ». Il est interprete par l acteur Tom Cruise."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@
           "Simon"
         ],
         "reponse": "Leon",
-        "anecdote": "Sixieme long metrage realise par Besson, « Leon » retrace la vie d'un tueur à gages du meme nom, vivant en solitaire à New York."
+        "anecdote": "Sixieme long metrage realise par Besson, « Leon » retrace la vie d un tueur a gages du meme nom, vivant en solitaire a New York."
       },
       {
         "id": 10,
@@ -157,7 +157,7 @@
           "Louise"
         ],
         "reponse": "Louise",
-        "anecdote": "« Thelma et Louise » est un film americain realise par Ridley Scott en 1991 qui a recu l'Oscar du meilleur scenario."
+        "anecdote": "« Thelma et Louise » est un film americain realise par Ridley Scott en 1991 qui a recu l Oscar du meilleur scenario."
       }
     ],
     "confirme": [
@@ -175,7 +175,7 @@
       },
       {
         "id": 12,
-        "question": "Quel etait le prenom de Mussolini, homme d'État italien mort en 1945 ?",
+        "question": "Quel etait le prenom de Mussolini, homme d État italien mort en 1945 ?",
         "propositions": [
           "Antonio",
           "Benito",
@@ -187,7 +187,7 @@
       },
       {
         "id": 13,
-        "question": "Quel heros de cinema, cree par un inventeur, possede des mains d'argent ?",
+        "question": "Quel heros de cinema, cree par un inventeur, possede des mains d argent ?",
         "propositions": [
           "Robert",
           "Edward",
@@ -195,11 +195,11 @@
           "Kevin"
         ],
         "reponse": "Edward",
-        "anecdote": "Le projet sera fortement accelere à la suite du succes commercial remporte par « Batman » (1989), le precedent film de Tim Burton."
+        "anecdote": "Le projet sera fortement accelere a la suite du succes commercial remporte par « Batman » (1989), le precedent film de Tim Burton."
       },
       {
         "id": 14,
-        "question": "Quelle lyceenne de serie tele s'est longtemps battu contre les vampires ?",
+        "question": "Quelle lyceenne de serie tele s est longtemps battu contre les vampires ?",
         "propositions": [
           "Angel",
           "Tara",
@@ -219,7 +219,7 @@
           "Marie"
         ],
         "reponse": "Nellie",
-        "anecdote": "Elle est interpretee dans la serie par l'actrice americaine Alison Arngrim, qui reprendra ce rôle dans un spectacle humoristique."
+        "anecdote": "Elle est interpretee dans la serie par l actrice americaine Alison Arngrim, qui reprendra ce rôle dans un spectacle humoristique."
       },
       {
         "id": 16,
@@ -231,7 +231,7 @@
           "Candy"
         ],
         "reponse": "Heidi",
-        "anecdote": "Un village du nom de Hokuto, à deux heures de Tokyo, reproduit le cadre et l'architecture, version suisse, de celui d'Heidi."
+        "anecdote": "Un village du nom de Hokuto, a deux heures de Tokyo, reproduit le cadre et l architecture, version suisse, de celui d Heidi."
       },
       {
         "id": 17,
@@ -243,7 +243,7 @@
           "Clara"
         ],
         "reponse": "Trinity",
-        "anecdote": "Cette hackeuse qui utilise le pseudonyme de Trinity (Trinite), qui n'est pas son veritable nom, est incarnee par Carrie-Anne Moss."
+        "anecdote": "Cette hackeuse qui utilise le pseudonyme de Trinity (Trinite), qui n est pas son veritable nom, est incarnee par Carrie-Anne Moss."
       },
       {
         "id": 18,
@@ -267,7 +267,7 @@
           "Nadia"
         ],
         "reponse": "Nadia",
-        "anecdote": "Nadia Comaneci a donne une dimension populaire et mediatique inegalee à la gymnastique, avec une note parfaite de 10."
+        "anecdote": "Nadia Comaneci a donne une dimension populaire et mediatique inegalee a la gymnastique, avec une note parfaite de 10."
       },
       {
         "id": 20,
@@ -293,7 +293,7 @@
           "Anna"
         ],
         "reponse": "Ilona",
-        "anecdote": "Le 17 mai 1995, elle donne naissance à sa premiere fille, Ilona, puis le 13 septembre 1997 naît sa deuxieme fille, Emma."
+        "anecdote": "Le 17 mai 1995, elle donne naissance a sa premiere fille, Ilona, puis le 13 septembre 1997 naît sa deuxieme fille, Emma."
       },
       {
         "id": 22,
@@ -305,7 +305,7 @@
           "Pierre"
         ],
         "reponse": "Jacques",
-        "anecdote": "Jacques Essebag, plus connu sous le pseudonyme d'Arthur, est ne le 10 mars 1966 à Casablanca, au Maroc."
+        "anecdote": "Jacques Essebag, plus connu sous le pseudonyme d Arthur, est ne le 10 mars 1966 a Casablanca, au Maroc."
       },
       {
         "id": 23,
@@ -317,11 +317,11 @@
           "Jean-Pierre"
         ],
         "reponse": "Jean-Luc",
-        "anecdote": "Picard a commande le Stargazer (2333-2355), l'Enterprise-D (2363-2371) et l'Enterprise-E (2372-) à la fin du XXIVe siecle."
+        "anecdote": "Picard a commande le Stargazer (2333-2355), l Enterprise-D (2363-2371) et l Enterprise-E (2372-) a la fin du XXIVe siecle."
       },
       {
         "id": 24,
-        "question": "Quel prenom est associe à « Madame Bovary » de Gustave Flaubert ?",
+        "question": "Quel prenom est associe a « Madame Bovary » de Gustave Flaubert ?",
         "propositions": [
           "Diana",
           "Emma",
@@ -329,7 +329,7 @@
           "Laura"
         ],
         "reponse": "Emma",
-        "anecdote": "Emma Rouault, fille d'un riche fermier, a ete elevee dans un couvent et reve d'une vie mondaine comme les princesses des romans."
+        "anecdote": "Emma Rouault, fille d un riche fermier, a ete elevee dans un couvent et reve d une vie mondaine comme les princesses des romans."
       },
       {
         "id": 25,
@@ -341,7 +341,7 @@
           "Babeth"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Autant en emporte le vent » est un roman ecrit par Margaret Mitchell narrant la desillusion de Scarlett O'Hara."
+        "anecdote": "« Autant en emporte le vent » est un roman ecrit par Margaret Mitchell narrant la desillusion de Scarlett O Hara."
       },
       {
         "id": 26,
@@ -357,7 +357,7 @@
       },
       {
         "id": 27,
-        "question": "Quel prenom est commun à Vanessa Paradis et Serge Gainsbourg ?",
+        "question": "Quel prenom est commun a Vanessa Paradis et Serge Gainsbourg ?",
         "propositions": [
           "Barbara",
           "Cassandra",
@@ -377,11 +377,11 @@
           "Aragorn"
         ],
         "reponse": "Legolas",
-        "anecdote": "Fils de Thranduil, le roi des Elfes, Legolas Vertefeuille se fit connaître lors du Conseil d'Elrond en 3018 du Troisieme Âge."
+        "anecdote": "Fils de Thranduil, le roi des Elfes, Legolas Vertefeuille se fit connaître lors du Conseil d Elrond en 3018 du Troisieme Âge."
       },
       {
         "id": 29,
-        "question": "Outre Cesar, quel prenom masculin est souvent associe à Marcel Pagnol ?",
+        "question": "Outre Cesar, quel prenom masculin est souvent associe a Marcel Pagnol ?",
         "propositions": [
           "Marius",
           "Titus",
@@ -389,11 +389,11 @@
           "Artus"
         ],
         "reponse": "Marius",
-        "anecdote": "La « Trilogie marseillaise » est l'appellation generique donnee aux trois pieces de theatre de Marcel Pagnol, « Marius », « Fanny » et « Cesar »."
+        "anecdote": "La « Trilogie marseillaise » est l appellation generique donnee aux trois pieces de theatre de Marcel Pagnol, « Marius », « Fanny » et « Cesar »."
       },
       {
         "id": 30,
-        "question": "Quelle grande primatologue s'est installe au Parc National de Gombe ?",
+        "question": "Quelle grande primatologue s est installe au Parc National de Gombe ?",
         "propositions": [
           "Sally",
           "Ursula",
@@ -401,7 +401,7 @@
           "Jane"
         ],
         "reponse": "Jane",
-        "anecdote": "Jane Goodall est la premiere à avoir observe et rapporte que les chimpanzes utilisent des outils pour s'alimenter."
+        "anecdote": "Jane Goodall est la premiere a avoir observe et rapporte que les chimpanzes utilisent des outils pour s alimenter."
       }
     ]
     },
@@ -517,7 +517,7 @@
       },
       {
         "id": 10,
-        "question": "Who is Thelma's companion in a Ridley Scott movie ?",
+        "question": "Who is Thelma s companion in a Ridley Scott movie ?",
         "propositions": [
           "Geena",
           "Louise",
@@ -563,7 +563,7 @@
           "Robert"
         ],
         "reponse": "Edward",
-        "anecdote": "The project will be greatly accelerated following the commercial success won by « Batman » (1989), Tim Burton's previous film."
+        "anecdote": "The project will be greatly accelerated following the commercial success won by « Batman » (1989), Tim Burton s previous film."
       },
       {
         "id": 14,
@@ -709,11 +709,11 @@
           "Elisabeth"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Gone With The Wind » is a novel written by Margaret Mitchell narrating the delusion of Scarlett O'Hara."
+        "anecdote": "« Gone With The Wind » is a novel written by Margaret Mitchell narrating the delusion of Scarlett O Hara."
       },
       {
         "id": 26,
-        "question": "Dr. March's four daughters are Amy, Beth, Josephine and...",
+        "question": "Dr. March s four daughters are Amy, Beth, Josephine and...",
         "propositions": [
           "Margarett",
           "Nelly",
@@ -757,7 +757,7 @@
           "Marius"
         ],
         "reponse": "Marius",
-        "anecdote": "The « Marseille Trilogy » is the generic name given to Marcel Pagnol's three plays, « Marius », « Fanny » and « Cesar »."
+        "anecdote": "The « Marseille Trilogy » is the generic name given to Marcel Pagnol s three plays, « Marius », « Fanny » and « Cesar »."
       },
       {
         "id": 30,
@@ -1077,7 +1077,7 @@
           "Bridget"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Vom Winde verweht » ist ein Roman von Margaret Mitchell, der den Wahn von Scarlett O'Hara erzählt."
+        "anecdote": "« Vom Winde verweht » ist ein Roman von Margaret Mitchell, der den Wahn von Scarlett O Hara erzählt."
       },
       {
         "id": 26,
@@ -1445,7 +1445,7 @@
           "Babeth"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Gone With The Wind » es una novela escrita por Margaret Mitchell que narra la ilusión de Scarlett O'Hara."
+        "anecdote": "« Gone With The Wind » es una novela escrita por Margaret Mitchell que narra la ilusión de Scarlett O Hara."
       },
       {
         "id": 26,
@@ -1521,11 +1521,11 @@
           "Gerard"
         ],
         "reponse": "Gerald",
-        "anecdote": "Gerald de Palmas scelse per il suo nome d'arte quello di sua nonna materna, Roxane de Palmas."
+        "anecdote": "Gerald de Palmas scelse per il suo nome d arte quello di sua nonna materna, Roxane de Palmas."
       },
       {
         "id": 2,
-        "question": "Qual e il nome del padre dell'attore canadese-britannico Kiefer Sutherland ?",
+        "question": "Qual e il nome del padre dell attore canadese-britannico Kiefer Sutherland ?",
         "propositions": [
           "Paperino",
           "Topolino",
@@ -1545,7 +1545,7 @@
           "Brian"
         ],
         "reponse": "Ryan",
-        "anecdote": "Dal settembre 2011, Ryan Gosling vive con l'attrice Eva Mendes, con la quale ha avuto due figlie, Esmeralda e Amada."
+        "anecdote": "Dal settembre 2011, Ryan Gosling vive con l attrice Eva Mendes, con la quale ha avuto due figlie, Esmeralda e Amada."
       },
       {
         "id": 4,
@@ -1557,7 +1557,7 @@
           "Joao"
         ],
         "reponse": "Cristiano",
-        "anecdote": "Considerato uno dei migliori giocatori al mondo, Ronaldo ha vinto il Pallone d'oro nel 2008, 2013, 2014, 2016 e 2017."
+        "anecdote": "Considerato uno dei migliori giocatori al mondo, Ronaldo ha vinto il Pallone d oro nel 2008, 2013, 2014, 2016 e 2017."
       },
       {
         "id": 5,
@@ -1573,7 +1573,7 @@
       },
       {
         "id": 6,
-        "question": "In che modo l'orgoglioso proprietario del gambero Bubba Gump ?",
+        "question": "In che modo l orgoglioso proprietario del gambero Bubba Gump ?",
         "propositions": [
           "Winston",
           "Dan",
@@ -1581,7 +1581,7 @@
           "Forrest"
         ],
         "reponse": "Forrest",
-        "anecdote": "La storia di Forrest Gump si fonde con quella degli Stati Uniti dagli anni '50 agli anni '80."
+        "anecdote": "La storia di Forrest Gump si fonde con quella degli Stati Uniti dagli anni  50 agli anni  80."
       },
       {
         "id": 7,
@@ -1597,7 +1597,7 @@
       },
       {
         "id": 8,
-        "question": "Come sta l'eroe dei film della saga « Mission Impossible » ?",
+        "question": "Come sta l eroe dei film della saga « Mission Impossible » ?",
         "propositions": [
           "Owen",
           "Ethan",
@@ -1629,7 +1629,7 @@
           "Geena"
         ],
         "reponse": "Louise",
-        "anecdote": "« Thelma e Louise » e un film americano realizzato da Ridley Scott nel 1991 che ha ricevuto l'Oscar per la migliore sceneggiatura."
+        "anecdote": "« Thelma e Louise » e un film americano realizzato da Ridley Scott nel 1991 che ha ricevuto l Oscar per la migliore sceneggiatura."
       }
     ],
     "confirme": [
@@ -1659,7 +1659,7 @@
       },
       {
         "id": 13,
-        "question": "Quali eroi cinematografici, creati da un inventore, hanno le mani d'argento ?",
+        "question": "Quali eroi cinematografici, creati da un inventore, hanno le mani d argento ?",
         "propositions": [
           "Robert",
           "Dylan",
@@ -1667,7 +1667,7 @@
           "Edward"
         ],
         "reponse": "Edward",
-        "anecdote": "Il progetto sarà notevolmente accelerato in seguito al successo commerciale ottenuto da « Batman » (1989), film precedente di Tim Burton."
+        "anecdote": "Il progetto sara notevolmente accelerato in seguito al successo commerciale ottenuto da « Batman » (1989), film precedente di Tim Burton."
       },
       {
         "id": 14,
@@ -1679,7 +1679,7 @@
           "Angelo"
         ],
         "reponse": "Buffy",
-        "anecdote": "Figura centrale della serie, il principale fattore di popolarità del personaggio, Buffy Summers e una studentessa che uccide i vampiri."
+        "anecdote": "Figura centrale della serie, il principale fattore di popolarita del personaggio, Buffy Summers e una studentessa che uccide i vampiri."
       },
       {
         "id": 15,
@@ -1691,7 +1691,7 @@
           "Laura"
         ],
         "reponse": "Nellie",
-        "anecdote": "È interpretata nella serie dall'attrice americana Alison Arngrim, che assumerà questo ruolo in uno spettacolo umoristico."
+        "anecdote": "È interpretata nella serie dall attrice americana Alison Arngrim, che assumera questo ruolo in uno spettacolo umoristico."
       },
       {
         "id": 16,
@@ -1703,7 +1703,7 @@
           "Heidi"
         ],
         "reponse": "Heidi",
-        "anecdote": "Un villaggio chiamato Hokuto, a due ore da Tokyo, riproduce la cornice e l'architettura, versione svizzera, di Heidi."
+        "anecdote": "Un villaggio chiamato Hokuto, a due ore da Tokyo, riproduce la cornice e l architettura, versione svizzera, di Heidi."
       },
       {
         "id": 17,
@@ -1789,7 +1789,7 @@
           "Jean-Charles"
         ],
         "reponse": "Jean-Luc",
-        "anecdote": "Picard commissionò lo Stargazer (2333-2355), l'Enterprise-D (2363-2371) e l'Enterprise-E (2372-) alla fine del ventottesimo secolo."
+        "anecdote": "Picard commissionò lo Stargazer (2333-2355), l Enterprise-D (2363-2371) e l Enterprise-E (2372-) alla fine del ventottesimo secolo."
       },
       {
         "id": 24,
@@ -1813,7 +1813,7 @@
           "Bridget"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Gone With The Wind » e un romanzo scritto da Margaret Mitchell che narra dell'illusione di Scarlett O'Hara."
+        "anecdote": "« Gone With The Wind » e un romanzo scritto da Margaret Mitchell che narra dell illusione di Scarlett O Hara."
       },
       {
         "id": 26,
@@ -1989,7 +1989,7 @@
       },
       {
         "id": 10,
-        "question": "Wie is Thelma's metgezel in een Ridley Scott-film ?",
+        "question": "Wie is Thelma s metgezel in een Ridley Scott-film ?",
         "propositions": [
           "Bethy",
           "Geena",
@@ -2181,7 +2181,7 @@
           "Babeth"
         ],
         "reponse": "Scarlett",
-        "anecdote": "« Gone With The Wind » is een roman geschreven door Margaret Mitchell en vertelt de waan van Scarlett O'Hara."
+        "anecdote": "« Gone With The Wind » is een roman geschreven door Margaret Mitchell en vertelt de waan van Scarlett O Hara."
       },
       {
         "id": 26,
